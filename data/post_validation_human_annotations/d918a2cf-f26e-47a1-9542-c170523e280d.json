@@ -1,0 +1,354 @@
+{
+  "persons": [
+    {
+      "age": -1, 
+      "alternativeNames": [],
+      "birthday": null,
+      "descriptiveTexts": [
+        {
+          "text": "In einem gefeierten Roman erzählt Joe Thomas vom unheilbar kranken Land Brasilien."
+        },
+        {
+          "text": "Der Brite Joe Thomas lebte damals als Englischlehrer in São Paulo und erlebte die Krawalle als Schock für die Stadt."
+        },
+        {
+          "text": "15 Jahre später verarbeitete er die Ereignisse zu einem Roman."
+        },
+        {
+          "text": "In »Brazilian Psycho«, der jetzt mit dreijähriger Verspätung auf Deutsch vorliegt, erkundet Thomas, was der tatsächliche Grund für die Muttertagskrawalle war – ein paar abgelehnte Gefälligkeiten allein konnten es ja wohl nicht sein, oder?"
+        },
+        {
+          "text": "Thomas sucht Antworten, will verstehen, wie es dazu kommen konnte, dass im Januar 2019 mit Jair Bolsonaro ein Rechtspopulist, Frauenhasser, LGBTQ-Verächter, Rassist – kurz: ein »Brazilian Psycho« zum neuen Präsidenten Brasiliens gewählt wurde."
+        },
+        {
+          "text": "Drei (nicht ins Deutsche übersetzte) São-Paulo-Krimis hatte Thomas zuvor geschrieben, »Brazilian Psycho« bildet Abschluss und Höhepunkt dieses Quartetts."
+        },
+        {
+          "text": "Thomas entwirft darin ein vielstimmiges Panorama, das 16 Jahre umfasst, vom Amtsantritt des Sozialisten Lula als Brasiliens Präsident im Januar 2003 bis zu Bolsonaros ersten Tagen im Amt."
+        },
+        {
+          "text": "In seinem Roman zeigt Thomas nun am Beispiel des Mikrokosmos São Paulo, warum Lula scheitern musste: Weil er, um seine Pläne durchzusetzen, windigen Unternehmern und Politikern Zugeständnisse machen musste, und weil viel von dem Geld, das den Armen zugutekommen sollte, von Kriminellen abgegriffen wurde."
+        },
+        {
+          "text": "Thomas gelingt es, diese so komplexe wie explosive Gemengelage zu erzählen, Fakten und Fiktion zu mischen, ohne jemals den Spannungsbogen abreißen zu lassen."
+        },
+        {
+          "text": "Sein Roman durchstreift São Paulo von den Favelas bis zu den obersten Etagen in den Türmen der Macht."
+        },
+        {
+          "text": "In »Brazilian Psycho« lässt Thomas alle zu Wort kommen: die Armen und Ausgestoßenen, darunter auch Transmenschen, die in Brasilien besonders gefährlich leben."
+        },
+        {
+          "text": "Hier spürt man die Wut über die kaputten Verhältnisse, die sich in Thomas in zehn Jahren São Paulo aufgestaut hat."
+        },
+        {
+          "text": "Er feiert aber auch eine Stadt, die extrem lebenswert ist, dynamisch, herrlich chaotisch und voller Vielfalt."
+        }
+      ],
+      "directQuotes": [],
+      "inIntro": true,
+      "inTitle": false,
+      "indirectQuotes": [
+      ],
+      "isMain": false,
+      "name": "Joe Thomas",
+      "occupations": [
+        {
+          "text": "Englischlehrer"
+        }
+      ],
+      "occurences": {
+        "firstNameOnly": 0,
+        "fullName": 2,
+        "lastNameOnly": 8,
+        "total": 10
+      },
+      "quotedInIntro": false,
+      "quotedInTitle": false,
+      "sex": "male"
+    },
+    {
+      "age": -1, 
+      "alternativeNames": [],
+      "birthday": null,
+      "descriptiveTexts": [
+        {
+          "text": "Die Tage voller Gewalt bilden die Achse eines 600-seitigen Krimi-Epos, das bereits mehrfach mit Don Winslows Drogenthriller »Tage der Toten« verglichen wurde."
+        },
+        {
+          "text": "Und das zu Recht: »Brazilian Psycho« ist ein mutiger, hochpolitischer Roman, das Statement eines Autors, der wie Winslow weit mehr will als nur eine spannende Story erzählen."
+        }
+      ],
+      "directQuotes": [],
+      "inIntro": false,
+      "inTitle": false,
+      "indirectQuotes": [],
+      "isMain": false,
+      "name": "Don Winslows",
+      "occupations": [],
+      "occurences": {
+        "firstNameOnly": 0,
+        "fullName": 1,
+        "lastNameOnly": 0,
+        "total": 1
+      },
+      "quotedInIntro": false,
+      "quotedInTitle": false,
+      "sex": "male"
+    },
+    {
+      "age": -1, 
+      "alternativeNames": ["Brazilian Psycho"],
+      "birthday": null,
+      "descriptiveTexts": [
+        {
+          "text": "Thomas sucht Antworten, will verstehen, wie es dazu kommen konnte, dass im Januar 2019 mit Jair Bolsonaro ein Rechtspopulist, Frauenhasser, LGBTQ-Verächter, Rassist – kurz: ein »Brazilian Psycho« zum neuen Präsidenten Brasiliens gewählt wurde."
+        },
+        {
+          "text": "Thomas entwirft darin ein vielstimmiges Panorama, das 16 Jahre umfasst, vom Amtsantritt des Sozialisten Lula als Brasiliens Präsident im Januar 2003 bis zu Bolsonaros ersten Tagen im Amt."
+        },
+        {
+          "text": "Am Ende wird Bolsonaro zum Präsidenten Brasiliens gewählt – auch von jenen Menschen, die auf seiner Hassliste einen der obersten Plätze haben."
+        },
+        {
+          "text": "Und die tatsächlichen Ereignisse bis zur Wiederwahl Lulas 2022 haben gezeigt: Bolsonaro, der sich selbst als »große weiße Hoffnung« stilisierte, war noch viel schlimmer, als viele geglaubt hatten, wie gerade erst bekannt gewordene Details über seine Putschpläne zeigen."
+        }
+      ],
+      "directQuotes": [
+        {
+          "text": "große weiße Hoffnung"
+        }
+      ],
+      "inIntro": false,
+      "inTitle": false,
+      "indirectQuotes": [],
+      "isMain": false,
+      "name": "Jair Bolsonaro",
+      "occupations": [
+        {
+          "text": "Rechtspopulist"
+        },
+        {
+          "text": "Frauenhasser"
+        },
+        {
+          "text": "LGBTQ-Verächter"
+        },
+        {
+          "text": "Rassist"
+        },
+        {
+          "text": "Präsidenten Brasiliens"
+        }
+      ],
+      "occurences": {
+        "firstNameOnly": 0,
+        "fullName": 1,
+        "lastNameOnly": 3,
+        "total": 4
+      },
+      "quotedInIntro": false,
+      "quotedInTitle": false,
+      "sex": "male"
+    },
+    {
+      "age": -1, 
+      "alternativeNames": [],
+      "birthday": null,
+      "descriptiveTexts": [
+        {
+          "text": "Thomas entwirft darin ein vielstimmiges Panorama, das 16 Jahre umfasst, vom Amtsantritt des Sozialisten Lula als Brasiliens Präsident im Januar 2003 bis zu Bolsonaros ersten Tagen im Amt."
+        },
+        {
+          "text": "Dabei waren so viele Menschen so voller Hoffnung, damals, als Lula 2003 seine Präsidentschaft mit großen Versprechungen begann: Er hatte der Armut den Kampf angesagt, den armen Familien mit dem Programm »Bolsa Familia« eine Art Grundeinkommen gesichert, dazu sollten umfangreiche Bauprojekte vielen Menschen ein Dach über dem Kopf geben."
+        },
+        {
+          "text": "In seinem Roman zeigt Thomas nun am Beispiel des Mikrokosmos São Paulo, warum Lula scheitern musste: Weil er, um seine Pläne durchzusetzen, windigen Unternehmern und Politikern Zugeständnisse machen musste, und weil viel von dem Geld, das den Armen zugutekommen sollte, von Kriminellen abgegriffen wurde."
+        },
+        {
+          "text": "Lula hat viel gewagt, manches erreicht – und am Ende doch alles verloren."
+        },
+        {
+          "text": "Später musste er wegen Korruption in den Knast."
+        },
+        {
+          "text": "Auch seine Nachfolgerin Dilma Rousseff arbeitete sich so verzweifelt wie vergeblich an den Strukturen eines Landes ab, in dem die Korruption systemisch ist, sodass es unmöglich scheint, politische Entscheidungen umzusetzen, ohne sich selbst die Hände schmutzig zu machen."
+        },
+        {
+          "text": "Die Wahl von 2018 war eine Protestwahl, eine Wahl gegen die jahrelange Korruption, der Lula und Dilma am Ende nichts entgegenzusetzen hatten."
+        },
+        {
+          "text": "Und die tatsächlichen Ereignisse bis zur Wiederwahl Lulas 2022 haben gezeigt: Bolsonaro, der sich selbst als »große weiße Hoffnung« stilisierte, war noch viel schlimmer, als viele geglaubt hatten, wie gerade erst bekannt gewordene Details über seine Putschpläne zeigen."
+        }
+      ],
+      "directQuotes": [],
+      "inIntro": false,
+      "inTitle": false,
+      "indirectQuotes": [],
+      "isMain": false,
+      "name": "Lula",
+      "occupations": [
+        {
+          "text": "Sozialisten"
+        },
+        {
+          "text": "Brasiliens Präsident"
+        }
+      ],
+      "occurences": {
+        "firstNameOnly": 0,
+        "fullName": 0,
+        "lastNameOnly": 6,
+        "total": 6
+      },
+      "quotedInIntro": false,
+      "quotedInTitle": false,
+      "sex": "male"
+    },
+    {
+      "age": -1, 
+      "alternativeNames": [],
+      "birthday": null,
+      "descriptiveTexts": [
+        {
+          "text": "Auch seine Nachfolgerin Dilma Rousseff arbeitete sich so verzweifelt wie vergeblich an den Strukturen eines Landes ab, in dem die Korruption systemisch ist, sodass es unmöglich scheint, politische Entscheidungen umzusetzen, ohne sich selbst die Hände schmutzig zu machen."
+        },
+        {
+          "text": "Die Wahl von 2018 war eine Protestwahl, eine Wahl gegen die jahrelange Korruption, der Lula und Dilma am Ende nichts entgegenzusetzen hatten."
+        }
+      ],
+      "directQuotes": [],
+      "inIntro": false,
+      "inTitle": false,
+      "indirectQuotes": [],
+      "isMain": false,
+      "name": "Dilma Rousseff",
+      "occupations": [
+        {
+          "text": "Nachfolgerin"
+        }
+      ],
+      "occurences": {
+        "firstNameOnly": 1,
+        "fullName": 1,
+        "lastNameOnly": 0,
+        "total": 2
+      },
+      "quotedInIntro": false,
+      "quotedInTitle": false,
+      "sex": "female"
+    },
+    {
+      "age": -1, 
+      "alternativeNames": [],
+      "birthday": null,
+      "descriptiveTexts": [
+        {
+          "text": "Wie jeder ganz gewöhnliche Kriminalroman beginnt »Brazilian Psycho« mit einem Mord: Paddy Lockwood, Direktor einer exklusiven Privatschule, wird erschlagen aufgefunden."
+        },
+        {
+          "text": "Leme und Lisboa aber lässt der Fall nicht los, und als Jahre später ein Serienkiller São Paulo terrorisiert, entdecken sie Parallelen zum Lockwood-Mord."
+        }
+      ],
+      "directQuotes": [],
+      "inIntro": false,
+      "inTitle": false,
+      "indirectQuotes": [],
+      "isMain": false,
+      "name": "Paddy Lockwood",
+      "occupations": [
+        {
+          "text": "Direktor einer exklusiven Privatschule"
+        }
+      ],
+      "occurences": {
+        "firstNameOnly": 0,
+        "fullName": 1,
+        "lastNameOnly": 0,
+        "total": 1
+      },
+      "quotedInIntro": false,
+      "quotedInTitle": false,
+      "sex": "male"
+    },
+    {
+      "age": -1, 
+      "alternativeNames": [],
+      "birthday": null,
+      "descriptiveTexts": [
+        {
+          "text": "Mario Leme und Ricardo Lisboa, zwei Detectives der Zivilpolizei, bekommen den Fall zugeteilt."
+        },
+        {
+          "text": "Denn es sind die sozialen Strukturen, die unheilbar krank sind: »Im Grunde ist es egal, ob sie es schaffen«, sinniert Leme, »denn die Menschen sterben weiter, das ist alles nur Teil des Gesellschaftsvertrags.«"
+        },
+        {
+          "text": "Leme und Lisboa aber lässt der Fall nicht los, und als Jahre später ein Serienkiller São Paulo terrorisiert, entdecken sie Parallelen zum Lockwood-Mord."
+        }
+      ],
+      "directQuotes": [
+        {
+          "text": "Im Grunde ist es egal, ob sie es schaffen"
+        },
+        {
+          "text": "denn die Menschen sterben weiter, das ist alles nur Teil des Gesellschaftsvertrags."
+        }
+      ],
+      "inIntro": false,
+      "inTitle": false,
+      "indirectQuotes": [],
+      "isMain": false,
+      "name": "Mario Leme",
+      "occupations": [
+        {
+          "text": "Detectives der Zivilpolizei"
+        }
+      ],
+      "occurences": {
+        "firstNameOnly": 0,
+        "fullName": 1,
+        "lastNameOnly": 2,
+        "total": 3
+      },
+      "quotedInIntro": false,
+      "quotedInTitle": false,
+      "sex": "male"
+    },
+    {
+      "age": -1, 
+      "alternativeNames": [],
+      "birthday": null,
+      "descriptiveTexts": [
+        {
+          "text": "Mario Leme und Ricardo Lisboa, zwei Detectives der Zivilpolizei, bekommen den Fall zugeteilt."
+        },
+        {
+          "text": "Leme und Lisboa aber lässt der Fall nicht los, und als Jahre später ein Serienkiller São Paulo terrorisiert, entdecken sie Parallelen zum Lockwood-Mord."
+        }
+      ],
+      "directQuotes": [],
+      "inIntro": false,
+      "inTitle": false,
+      "indirectQuotes": [],
+      "isMain": false,
+      "name": "Ricardo Lisboa",
+      "occupations": [
+        {
+          "text": "Detectives der Zivilpolizei"
+        }
+      ],
+      "occurences": {
+        "firstNameOnly": 0,
+        "fullName": 1,
+        "lastNameOnly": 1,
+        "total": 2
+      },
+      "quotedInIntro": false,
+      "quotedInTitle": false,
+      "sex": "male"
+    }
+  ],
+  "subtopics": [
+    "Brasilien", "Wahlen", "Rassismus", "LGBTQ", "Kultur"
+  ]
+}

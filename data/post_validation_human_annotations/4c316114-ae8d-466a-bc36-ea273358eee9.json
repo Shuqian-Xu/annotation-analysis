@@ -1,0 +1,87 @@
+{
+	"persons": [
+		{
+			"age": -1,
+			"alternativeNames": [],
+			"birthday": null,
+			"descriptiveTexts": [
+				{
+					"text": "»Heute ist das Herz der Amerikaner schwer«: Mit diesen Worten verurteilte US-Präsident Joe Biden einen tödlichen Drohnenangriff auf US-Soldaten in Jordanien."
+				},
+				{
+					"text": "Der Anschlag sei »von radikalen, von Iran unterstützten militanten Gruppen« verübt worden, die in Syrien und im Irak operierten, teilte US-Präsident Joe Biden am Sonntag mit."
+				},
+				{
+					"text": "Biden drohte: »Haben Sie keinen Zweifel – wir werden alle Verantwortlichen zur Rechenschaft ziehen, zu einem Zeitpunkt und in einer Weise, die wir wählen.«"
+				},
+				{
+					"text": "Biden betonte, dass die USA »im Kampf gegen den Terrorismus« zusammenstünden."
+				},
+				{
+					"text": "»Es ist ein Kampf, den wir nicht aufgeben werden.«"
+				},
+				{
+					"text": "»Heute ist das Herz der Amerikaner schwer«, erklärte Biden."
+				},
+				{
+					"text": "»Diese Angehörigen des Militärs verkörperten das Beste, was unsere Nation zu bieten hat: unerschütterlich in ihrer Tapferkeit.«"
+				}
+			],
+			"directQuotes": [
+				{
+					"text": "Heute ist das Herz der Amerikaner schwer"
+				},
+				{
+					"text": "von radikalen, von Iran unterstützten militanten Gruppen"
+				},
+				{
+					"text": "Haben Sie keinen Zweifel – wir werden alle Verantwortlichen zur Rechenschaft ziehen, zu einem Zeitpunkt und in einer Weise, die wir wählen."
+				},
+				{
+					"text": "im Kampf gegen den Terrorismus"
+				},
+				{
+					"text": "Es ist ein Kampf, den wir nicht aufgeben werden."
+				},
+				{
+					"text": "Diese Angehörigen des Militärs verkörperten das Beste, was unsere Nation zu bieten hat: unerschütterlich in ihrer Tapferkeit."
+				}
+			],
+			"inIntro": true,
+			"inTitle": false,
+			"indirectQuotes": [
+				{
+					"text": "Der Anschlag sei »von radikalen, von Iran unterstützten militanten Gruppen« verübt worden, die in Syrien und im Irak operierten, teilte US-Präsident Joe Biden am Sonntag mit."
+				},
+				{
+					"text": "Man sei allerdings noch dabei, die Fakten zu dem Angriff zusammenzutragen."
+				},
+				{
+					"text": "Biden betonte, dass die USA »im Kampf gegen den Terrorismus« zusammenstünden."
+				}
+			],
+			"isMain": true,
+			"name": "Joe Biden",
+			"occupations": [
+				{
+					"text": "US-Präsident"
+				}
+			],
+			"occurrences": {
+				"firstNameOnly": 0,
+				"fullName": 2,
+				"lastNameOnly": 3,
+				"total": 5
+			},
+			"quotedInIntro": true,
+			"quotedInTitle": false,
+			"sex": "male"
+		}
+	],
+	"subtopics": [
+		"Drohnenangriff",
+		"Nahostkonflikt",
+		"US-Soldaten",
+		"Krieg"
+	]
+}

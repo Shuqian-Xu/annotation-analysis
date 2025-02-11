@@ -1,0 +1,832 @@
+{
+    "persons": [
+        {
+            "name": "Mathias D\u00f6pfner",
+            "alternativeNames": [],
+            "age": -1,
+            "sex": "male",
+            "occurences": {
+                "total": 4,
+                "firstNameOnly": 0,
+                "lastNameOnly": 2,
+                "fullName": 2,
+                "nickname": 0
+            },
+            "inTitle": false,
+            "inIntro": false,
+            "_name": {
+                "firstname": "Mathias",
+                "lastname": "D\u00f6pfner",
+                "nickname": null,
+                "alternative_names": [],
+                "academic_title": null,
+                "nobility_title_or_rank": null
+            },
+            "descriptiveTexts": [
+                {
+                    "text": "Die St\u00fctzen des Axel-Springer-Chefs Mathias D\u00f6pfner: Wer noch nichts vom neuen Roman des Autors Benjamin von Stuckrad-Barre und dessen Bez\u00fcgen zum Axel-Springer-Verlag geh\u00f6rt hat, der d\u00fcrfte in den vergangenen Tagen noch nicht ganz wach gewesen sein."
+                },
+                {
+                    "text": "Weniger bekannt ist, mit welch stoischer Ruhe und Gelassenheit der Springer-Hauptaktion\u00e4r KKR weiterhin zu Springer-Chef Mathias D\u00f6pfner steht, obwohl dieser bereits in der Aff\u00e4re um Ex-Bild-Chefredakteur Julian Reichelt keine gute Figur gemacht hatte."
+                }
+            ],
+            "occupations": [
+                {
+                    "text": "Axel-Springer-Chef"
+                },
+                {
+                    "text": "Springer-Hauptaktion\u00e4r"
+                }
+            ],
+            "directQuotes": [],
+            "quotedInTitle": false,
+            "quotedInIntro": false
+        },
+        {
+            "name": "Kai Lange",
+            "alternativeNames": [],
+            "age": -1,
+            "sex": "male",
+            "occurences": {
+                "total": 1,
+                "firstNameOnly": 0,
+                "lastNameOnly": 0,
+                "fullName": 1,
+                "nickname": 0
+            },
+            "inTitle": false,
+            "inIntro": false,
+            "_name": {
+                "firstname": "Kai",
+                "lastname": "Lange",
+                "nickname": null,
+                "alternative_names": [],
+                "academic_title": null,
+                "nobility_title_or_rank": null
+            },
+            "descriptiveTexts": [
+                {
+                    "text": "Herzlich, Ihr Kai Lange"
+                }
+            ],
+            "occupations": [],
+            "directQuotes": [],
+            "quotedInTitle": false,
+            "quotedInIntro": false
+        },
+        {
+            "name": "Michael Freitag",
+            "alternativeNames": [],
+            "age": -1,
+            "sex": "male",
+            "occurences": {
+                "total": 3,
+                "firstNameOnly": 0,
+                "lastNameOnly": 1,
+                "fullName": 2,
+                "nickname": 0
+            },
+            "inTitle": false,
+            "inIntro": false,
+            "_name": {
+                "firstname": "Michael",
+                "lastname": "Freitag",
+                "nickname": null,
+                "alternative_names": [],
+                "academic_title": null,
+                "nobility_title_or_rank": null
+            },
+            "descriptiveTexts": [
+                {
+                    "text": "Meine Kollegen Michael Freitag und Martin No\u00e9 erkl\u00e4ren, wie der Druck auf Wolf w\u00e4chst \u2013 und welche m\u00e4chtigen Freunde er noch hat."
+                },
+                {
+                    "text": "Zudem sind am Freitag bundesweit Streiks bei der Bahn geplant."
+                },
+                {
+                    "text": "Daher hat der Basketball-Deal zwischen BMW und FCB Sprengkraft, wie meine Kollegen Christoph Seyerlein und Michael Freitag berichten."
+                }
+            ],
+            "occupations": [],
+            "directQuotes": [],
+            "quotedInTitle": false,
+            "quotedInIntro": false
+        },
+        {
+            "name": "Barre",
+            "alternativeNames": [],
+            "age": -1,
+            "sex": "male",
+            "occurences": {
+                "total": 5,
+                "firstNameOnly": 1,
+                "lastNameOnly": 4,
+                "fullName": 0,
+                "nickname": 0
+            },
+            "inTitle": false,
+            "inIntro": false,
+            "_name": {
+                "firstname": "Benjamin von",
+                "lastname": "Barre",
+                "nickname": null,
+                "alternative_names": [],
+                "academic_title": null,
+                "nobility_title_or_rank": null
+            },
+            "descriptiveTexts": [
+                {
+                    "text": "Heute mit Siggi Wolfs Schn\u00e4ppchenjagd in Russland, dem Duell von Audi und BMW in M\u00fcnchen und Aufregung um den Autor Stuckrad-Barre in Berlin."
+                },
+                {
+                    "text": "Die St\u00fctzen des Axel-Springer-Chefs Mathias D\u00f6pfner: Wer noch nichts vom neuen Roman des Autors Benjamin von Stuckrad-Barre und dessen Bez\u00fcgen zum Axel-Springer-Verlag geh\u00f6rt hat, der d\u00fcrfte in den vergangenen Tagen noch nicht ganz wach gewesen sein."
+                },
+                {
+                    "text": "Mein Kollege Martin No\u00e9, der sich mit D\u00f6pfners riskanter Expansionsstrategie f\u00fcr Springer intensiv besch\u00e4ftigt hat, war gestern bei der Lesung Stuckrad-Barres im Berliner Ensemble dabei."
+                },
+                {
+                    "text": "Er erkl\u00e4rt, warum Stuckrad-Barres Roman den US-Investmentriesen noch nicht nerv\u00f6s macht und in welchem Szenario die Unterst\u00fctzung von KKR noch br\u00f6ckeln k\u00f6nnte."
+                }
+            ],
+            "occupations": [
+                {
+                    "text": "Autor"
+                },
+                {
+                    "text": "Satiriker"
+                }
+            ],
+            "directQuotes": [],
+            "quotedInTitle": false,
+            "quotedInIntro": false
+        },
+        {
+            "name": "Wladimir Putin",
+            "alternativeNames": [],
+            "age": -1,
+            "sex": "male",
+            "occurences": {
+                "total": 2,
+                "firstNameOnly": 0,
+                "lastNameOnly": 1,
+                "fullName": 1,
+                "nickname": 0
+            },
+            "inTitle": false,
+            "inIntro": false,
+            "_name": {
+                "firstname": "Wladimir",
+                "lastname": "Putin",
+                "nickname": null,
+                "alternative_names": [],
+                "academic_title": null,
+                "nobility_title_or_rank": "Kurf\u00fcrst"
+            },
+            "descriptiveTexts": [
+                {
+                    "text": "Liebe Leserin, lieber Leser,\n\nwer an Russland denkt, denkt meist an den Angriff auf die Ukraine und daran, wie brutal Kreml-Machthaber Wladimir Putin jede Kritik daran unterdr\u00fcckt."
+                },
+                {
+                    "text": "Dass sich Wolf zudem mit einem Brief bei Kriegstreiber Putin pers\u00f6nlich anbiederte, irritiert auch manchen Entscheider bei Volkswagen."
+                }
+            ],
+            "occupations": [
+                {
+                    "text": "Kreml-Machthaber"
+                },
+                {
+                    "text": "Kriegstreiber"
+                }
+            ],
+            "directQuotes": [],
+            "quotedInTitle": false,
+            "quotedInIntro": false
+        },
+        {
+            "name": "Wilfried Porth",
+            "alternativeNames": [],
+            "age": -1,
+            "sex": "male",
+            "occurences": {
+                "total": 2,
+                "firstNameOnly": 0,
+                "lastNameOnly": 1,
+                "fullName": 1,
+                "nickname": 0
+            },
+            "inTitle": false,
+            "inIntro": false,
+            "_name": {
+                "firstname": "Wilfried",
+                "lastname": "Porth",
+                "nickname": null,
+                "alternative_names": [],
+                "academic_title": null,
+                "nobility_title_or_rank": null
+            },
+            "descriptiveTexts": [
+                {
+                    "text": "Compliance-Probleme wegen ihrer Ehe mit Ex-Vorstand Wilfried Porth lie\u00dfen sich noch umschiffen."
+                },
+                {
+                    "text": "Nicht mit Porth, aber mit Mercedes."
+                }
+            ],
+            "occupations": [
+                {
+                    "text": "Ex-Vorstand"
+                }
+            ],
+            "directQuotes": [],
+            "quotedInTitle": false,
+            "quotedInIntro": false
+        },
+        {
+            "name": "Benjamin",
+            "alternativeNames": [],
+            "age": -1,
+            "sex": "male",
+            "occurences": {
+                "total": 1,
+                "firstNameOnly": 1,
+                "lastNameOnly": 0,
+                "fullName": 0,
+                "nickname": 0
+            },
+            "inTitle": false,
+            "inIntro": false,
+            "_name": {
+                "firstname": "Benjamin von",
+                "lastname": "Barre",
+                "nickname": null,
+                "alternative_names": [],
+                "academic_title": null,
+                "nobility_title_or_rank": null
+            },
+            "descriptiveTexts": [
+                {
+                    "text": "Die St\u00fctzen des Axel-Springer-Chefs Mathias D\u00f6pfner: Wer noch nichts vom neuen Roman des Autors Benjamin von Stuckrad-Barre und dessen Bez\u00fcgen zum Axel-Springer-Verlag geh\u00f6rt hat, der d\u00fcrfte in den vergangenen Tagen noch nicht ganz wach gewesen sein."
+                }
+            ],
+            "occupations": [
+                {
+                    "text": "Autor"
+                }
+            ],
+            "directQuotes": [],
+            "quotedInTitle": false,
+            "quotedInIntro": false
+        },
+        {
+            "name": "Hildegard Wortmann",
+            "alternativeNames": [],
+            "age": -1,
+            "sex": "female",
+            "occurences": {
+                "total": 1,
+                "firstNameOnly": 0,
+                "lastNameOnly": 0,
+                "fullName": 1,
+                "nickname": 0
+            },
+            "inTitle": false,
+            "inIntro": false,
+            "_name": {
+                "firstname": "Hildegard",
+                "lastname": "Wortmann",
+                "nickname": null,
+                "alternative_names": [],
+                "academic_title": null,
+                "nobility_title_or_rank": null
+            },
+            "descriptiveTexts": [
+                {
+                    "text": "\u00c4hnlich d\u00fcrfte sich Audis Marketingchefin Hildegard Wortmann f\u00fchlen."
+                }
+            ],
+            "occupations": [],
+            "directQuotes": [],
+            "quotedInTitle": false,
+            "quotedInIntro": false
+        },
+        {
+            "name": "Siegfried Wolf",
+            "alternativeNames": [],
+            "age": -1,
+            "sex": "male",
+            "occurences": {
+                "total": 9,
+                "firstNameOnly": 0,
+                "lastNameOnly": 6,
+                "fullName": 1,
+                "nickname": 2
+            },
+            "inTitle": true,
+            "inIntro": true,
+            "_name": {
+                "firstname": "Siegfried",
+                "lastname": "Wolf",
+                "nickname": "Siggi",
+                "alternative_names": [],
+                "academic_title": null,
+                "nobility_title_or_rank": null
+            },
+            "descriptiveTexts": [
+                {
+                    "text": "Ein Wolf in Russland, ein Steal in M\u00fcnchen und ein Aufreger in Berlin"
+                },
+                {
+                    "text": "Heute mit Siggi Wolfs Schn\u00e4ppchenjagd in Russland, dem Duell von Audi und BMW in M\u00fcnchen und Aufregung um den Autor Stuckrad-Barre in Berlin."
+                },
+                {
+                    "text": "Denkt der \u00f6sterreichische Unternehmer und Multi-Aufsichtsrat Siegfried Wolf an Russland, denkt er offenbar auch an g\u00fcnstige Kaufgelegenheiten: Der Eigent\u00fcmer von Steyr Automotive bot nicht nur f\u00fcr Volkswagens ehemalige Autofabrik im russischen Kaluga, sondern wollte dort auch das Reifenwerk von Continental \u00fcbernehmen."
+                },
+                {
+                    "text": "Schlie\u00dflich kennt Wolf, aktuell Chefaufseher bei der Conti-Abspaltung Vitesco, den wahren Wert der Reifenfabrik nur zu gut."
+                },
+                {
+                    "text": "Dass sich Wolf zudem mit einem Brief bei Kriegstreiber Putin pers\u00f6nlich anbiederte, irritiert auch manchen Entscheider bei Volkswagen."
+                },
+                {
+                    "text": "Immerhin hat Genosse Wolf durch sein Mandat bei der Porsche SE Kenntnis \u00fcber Interna."
+                },
+                {
+                    "text": "Meine Kollegen Michael Freitag und Martin No\u00e9 erkl\u00e4ren, wie der Druck auf Wolf w\u00e4chst \u2013 und welche m\u00e4chtigen Freunde er noch hat."
+                }
+            ],
+            "occupations": [
+                {
+                    "text": "Multi-Aufsichtsrat"
+                },
+                {
+                    "text": "Chefaufseher bei der Conti-Abspaltung Vitesco"
+                },
+                {
+                    "text": "Eigent\u00fcmer von Steyr Automotive"
+                }
+            ],
+            "directQuotes": [],
+            "quotedInTitle": true,
+            "quotedInIntro": true
+        },
+        {
+            "name": "Oleg Deripaska",
+            "alternativeNames": [],
+            "age": -1,
+            "sex": "male",
+            "occurences": {
+                "total": 1,
+                "firstNameOnly": 0,
+                "lastNameOnly": 0,
+                "fullName": 1,
+                "nickname": 0
+            },
+            "inTitle": false,
+            "inIntro": false,
+            "_name": {
+                "firstname": "Oleg",
+                "lastname": "Deripaska",
+                "nickname": null,
+                "alternative_names": [],
+                "academic_title": null,
+                "nobility_title_or_rank": null
+            },
+            "descriptiveTexts": [
+                {
+                    "text": "Der langj\u00e4hrige Vertraute des russischen Milliard\u00e4rs Oleg Deripaska, der auch im Aufsichtsrat der Familienholding Porsche SE sitzt, wollte offenbar gleich ein kleines Automobilkombinat in Russland aufbauen."
+                }
+            ],
+            "occupations": [],
+            "directQuotes": [],
+            "quotedInTitle": false,
+            "quotedInIntro": false
+        },
+        {
+            "name": "Tesla",
+            "alternativeNames": [],
+            "age": -1,
+            "sex": "female",
+            "occurences": {
+                "total": 4,
+                "firstNameOnly": 0,
+                "lastNameOnly": 0,
+                "fullName": 4,
+                "nickname": 0
+            },
+            "inTitle": false,
+            "inIntro": false,
+            "_name": {
+                "firstname": null,
+                "lastname": "Tesla",
+                "nickname": null,
+                "alternative_names": [],
+                "academic_title": null,
+                "nobility_title_or_rank": null
+            },
+            "descriptiveTexts": [
+                {
+                    "text": "Teslas Gewinn bricht ein: Tesla-Chef Elon Musk setzt auf Masse statt Marge."
+                },
+                {
+                    "text": "Mit immer neuen Preissenkungen versucht er, m\u00f6glichst viele Tesla-Modelle in den Markt zu dr\u00fccken."
+                },
+                {
+                    "text": "Teslas Preiskampf schickt die Aktie s\u00fcdw\u00e4rts \u2013 und belastete auch die Aktien der deutschen Autobauer im Dax."
+                }
+            ],
+            "occupations": [],
+            "directQuotes": [],
+            "quotedInTitle": false,
+            "quotedInIntro": false
+        },
+        {
+            "name": "Stuckrad-Barre",
+            "alternativeNames": [],
+            "age": -1,
+            "sex": "male",
+            "occurences": {
+                "total": 1,
+                "firstNameOnly": 1,
+                "lastNameOnly": 0,
+                "fullName": 0,
+                "nickname": 0
+            },
+            "inTitle": false,
+            "inIntro": false,
+            "_name": {
+                "firstname": "Benjamin von",
+                "lastname": "Barre",
+                "nickname": null,
+                "alternative_names": [],
+                "academic_title": null,
+                "nobility_title_or_rank": null
+            },
+            "descriptiveTexts": [
+                {
+                    "text": "Heute mit Siggi Wolfs Schn\u00e4ppchenjagd in Russland, dem Duell von Audi und BMW in M\u00fcnchen und Aufregung um den Autor Stuckrad-Barre in Berlin."
+                },
+                {
+                    "text": "Die St\u00fctzen des Axel-Springer-Chefs Mathias D\u00f6pfner: Wer noch nichts vom neuen Roman des Autors Benjamin von Stuckrad-Barre und dessen Bez\u00fcgen zum Axel-Springer-Verlag geh\u00f6rt hat, der d\u00fcrfte in den vergangenen Tagen noch nicht ganz wach gewesen sein."
+                },
+                {
+                    "text": "Mein Kollege Martin No\u00e9, der sich mit D\u00f6pfners riskanter Expansionsstrategie f\u00fcr Springer intensiv besch\u00e4ftigt hat, war gestern bei der Lesung Stuckrad-Barres im Berliner Ensemble dabei."
+                },
+                {
+                    "text": "Er erkl\u00e4rt, warum Stuckrad-Barres Roman den US-Investmentriesen noch nicht nerv\u00f6s macht und in welchem Szenario die Unterst\u00fctzung von KKR noch br\u00f6ckeln k\u00f6nnte."
+                }
+            ],
+            "occupations": [
+                {
+                    "text": "Autor"
+                }
+            ],
+            "directQuotes": [],
+            "quotedInTitle": false,
+            "quotedInIntro": false
+        },
+        {
+            "name": "Margret Hucko",
+            "alternativeNames": [],
+            "age": -1,
+            "sex": "female",
+            "occurences": {
+                "total": 1,
+                "firstNameOnly": 0,
+                "lastNameOnly": 0,
+                "fullName": 1,
+                "nickname": 0
+            },
+            "inTitle": false,
+            "inIntro": false,
+            "_name": {
+                "firstname": "Margret",
+                "lastname": "Hucko",
+                "nickname": null,
+                "alternative_names": [],
+                "academic_title": null,
+                "nobility_title_or_rank": null
+            },
+            "descriptiveTexts": [
+                {
+                    "text": "Meine Kollegin Margret Hucko berichtet exklusiv, warum die Digitalexpertin die Schwaben verl\u00e4sst."
+                }
+            ],
+            "occupations": [],
+            "directQuotes": [],
+            "quotedInTitle": false,
+            "quotedInIntro": false
+        },
+        {
+            "name": "Martin No\u00e9",
+            "alternativeNames": [],
+            "age": -1,
+            "sex": "male",
+            "occurences": {
+                "total": 2,
+                "firstNameOnly": 0,
+                "lastNameOnly": 0,
+                "fullName": 2,
+                "nickname": 0
+            },
+            "inTitle": false,
+            "inIntro": false,
+            "_name": {
+                "firstname": "Martin",
+                "lastname": "No\u00e9",
+                "nickname": null,
+                "alternative_names": [],
+                "academic_title": null,
+                "nobility_title_or_rank": null
+            },
+            "descriptiveTexts": [
+                {
+                    "text": "Meine Kollegen Michael Freitag und Martin No\u00e9 erkl\u00e4ren, wie der Druck auf Wolf w\u00e4chst \u2013 und welche m\u00e4chtigen Freunde er noch hat."
+                },
+                {
+                    "text": "Mein Kollege Martin No\u00e9, der sich mit D\u00f6pfners riskanter Expansionsstrategie f\u00fcr Springer intensiv besch\u00e4ftigt hat, war gestern bei der Lesung Stuckrad-Barres im Berliner Ensemble dabei."
+                },
+                {
+                    "text": "Er erkl\u00e4rt, warum Stuckrad-Barres Roman den US-Investmentriesen noch nicht nerv\u00f6s macht und in welchem Szenario die Unterst\u00fctzung von KKR noch br\u00f6ckeln k\u00f6nnte."
+                }
+            ],
+            "occupations": [],
+            "directQuotes": [],
+            "quotedInTitle": false,
+            "quotedInIntro": false
+        },
+        {
+            "name": "Jan B\u00f6hmermann",
+            "alternativeNames": [],
+            "age": -1,
+            "sex": "male",
+            "occurences": {
+                "total": 1,
+                "firstNameOnly": 0,
+                "lastNameOnly": 0,
+                "fullName": 1,
+                "nickname": 0
+            },
+            "inTitle": false,
+            "inIntro": false,
+            "_name": {
+                "firstname": "Jan",
+                "lastname": "B\u00f6hmermann",
+                "nickname": null,
+                "alternative_names": [],
+                "academic_title": null,
+                "nobility_title_or_rank": null
+            },
+            "descriptiveTexts": [
+                {
+                    "text": "Die von der \"Zeit\" ver\u00f6ffentlichten Chatnachrichten D\u00f6pfners, ein geschicktes Marketing des Verlags Kiepenheuer und Witsch sowie die Podcasts des Satirikers Jan B\u00f6hmermann sorgten f\u00fcr ein mediales Hupkonzert, das auch der lautstarken \"Bild\"-Zeitung zur Ehre gereicht h\u00e4tte."
+                }
+            ],
+            "occupations": [
+                {
+                    "text": "Satiriker"
+                }
+            ],
+            "directQuotes": [],
+            "quotedInTitle": false,
+            "quotedInIntro": false
+        },
+        {
+            "name": "Robert Habeck",
+            "alternativeNames": [],
+            "age": -1,
+            "sex": "male",
+            "occurences": {
+                "total": 1,
+                "firstNameOnly": 0,
+                "lastNameOnly": 0,
+                "fullName": 1,
+                "nickname": 0
+            },
+            "inTitle": false,
+            "inIntro": false,
+            "_name": {
+                "firstname": "Robert",
+                "lastname": "Habeck",
+                "nickname": null,
+                "alternative_names": [],
+                "academic_title": null,
+                "nobility_title_or_rank": null
+            },
+            "descriptiveTexts": [
+                {
+                    "text": "Die IT-Chefin des Mercedes-Vertriebs postet schon mal Bilder mit Wirtschaftsminister Robert Habeck."
+                }
+            ],
+            "occupations": [],
+            "directQuotes": [],
+            "quotedInTitle": false,
+            "quotedInIntro": false
+        },
+        {
+            "name": "Sabine Scheunert",
+            "alternativeNames": [],
+            "age": -1,
+            "sex": "female",
+            "occurences": {
+                "total": 3,
+                "firstNameOnly": 0,
+                "lastNameOnly": 1,
+                "fullName": 2,
+                "nickname": 0
+            },
+            "inTitle": false,
+            "inIntro": false,
+            "_name": {
+                "firstname": "Sabine",
+                "lastname": "Scheunert",
+                "nickname": null,
+                "alternative_names": [],
+                "academic_title": null,
+                "nobility_title_or_rank": null
+            },
+            "descriptiveTexts": [
+                {
+                    "text": "Warum IT-Chefin Sabine Scheunert Mercedes-Benz verl\u00e4sst: Sabine Scheunert verspr\u00fcht bei LinkedIn Glanz und Gloria."
+                },
+                {
+                    "text": "Intern lief es f\u00fcr sie nicht immer gl\u00e4nzend."
+                },
+                {
+                    "text": "Aber jetzt macht Scheunert Schluss."
+                }
+            ],
+            "occupations": [
+                {
+                    "text": "IT-Chefin des Mercedes-Vertriebs"
+                },
+                {
+                    "text": "verspr\u00fcht bei LinkedIn Glanz und Gloria"
+                },
+                {
+                    "text": "Digitalexpertin"
+                }
+            ],
+            "directQuotes": [],
+            "quotedInTitle": false,
+            "quotedInIntro": false
+        },
+        {
+            "name": "D\u00f6pfner",
+            "alternativeNames": [],
+            "age": -1,
+            "sex": "male",
+            "occurences": {
+                "total": 2,
+                "firstNameOnly": 0,
+                "lastNameOnly": 0,
+                "fullName": 2,
+                "nickname": 0
+            },
+            "inTitle": false,
+            "inIntro": false,
+            "_name": {
+                "firstname": "Mathias",
+                "lastname": "D\u00f6pfner",
+                "nickname": null,
+                "alternative_names": [],
+                "academic_title": null,
+                "nobility_title_or_rank": null
+            },
+            "descriptiveTexts": [
+                {
+                    "text": "Die St\u00fctzen des Axel-Springer-Chefs Mathias D\u00f6pfner: Wer noch nichts vom neuen Roman des Autors Benjamin von Stuckrad-Barre und dessen Bez\u00fcgen zum Axel-Springer-Verlag geh\u00f6rt hat, der d\u00fcrfte in den vergangenen Tagen noch nicht ganz wach gewesen sein."
+                },
+                {
+                    "text": "Die von der \"Zeit\" ver\u00f6ffentlichten Chatnachrichten D\u00f6pfners, ein geschicktes Marketing des Verlags Kiepenheuer und Witsch sowie die Podcasts des Satirikers Jan B\u00f6hmermann sorgten f\u00fcr ein mediales Hupkonzert, das auch der lautstarken \"Bild\"-Zeitung zur Ehre gereicht h\u00e4tte."
+                },
+                {
+                    "text": "Weniger bekannt ist, mit welch stoischer Ruhe und Gelassenheit der Springer-Hauptaktion\u00e4r KKR weiterhin zu Springer-Chef Mathias D\u00f6pfner steht, obwohl dieser bereits in der Aff\u00e4re um Ex-Bild-Chefredakteur Julian Reichelt keine gute Figur gemacht hatte."
+                },
+                {
+                    "text": "Mein Kollege Martin No\u00e9, der sich mit D\u00f6pfners riskanter Expansionsstrategie f\u00fcr Springer intensiv besch\u00e4ftigt hat, war gestern bei der Lesung Stuckrad-Barres im Berliner Ensemble dabei."
+                }
+            ],
+            "occupations": [
+                {
+                    "text": "Springer-Chef"
+                }
+            ],
+            "directQuotes": [],
+            "quotedInTitle": false,
+            "quotedInIntro": false
+        },
+        {
+            "name": "Christoph Seyerlein",
+            "alternativeNames": [],
+            "age": -1,
+            "sex": "male",
+            "occurences": {
+                "total": 1,
+                "firstNameOnly": 0,
+                "lastNameOnly": 0,
+                "fullName": 1,
+                "nickname": 0
+            },
+            "inTitle": false,
+            "inIntro": false,
+            "_name": {
+                "firstname": "Christoph",
+                "lastname": "Seyerlein",
+                "nickname": null,
+                "alternative_names": [],
+                "academic_title": null,
+                "nobility_title_or_rank": null
+            },
+            "descriptiveTexts": [
+                {
+                    "text": "Daher hat der Basketball-Deal zwischen BMW und FCB Sprengkraft, wie meine Kollegen Christoph Seyerlein und Michael Freitag berichten."
+                }
+            ],
+            "occupations": [],
+            "directQuotes": [],
+            "quotedInTitle": false,
+            "quotedInIntro": false
+        },
+        {
+            "name": "Elon Musk",
+            "alternativeNames": [],
+            "age": -1,
+            "sex": "male",
+            "occurences": {
+                "total": 2,
+                "firstNameOnly": 0,
+                "lastNameOnly": 1,
+                "fullName": 1,
+                "nickname": 0
+            },
+            "inTitle": false,
+            "inIntro": false,
+            "_name": {
+                "firstname": "Elon",
+                "lastname": "Musk",
+                "nickname": null,
+                "alternative_names": [],
+                "academic_title": null,
+                "nobility_title_or_rank": null
+            },
+            "descriptiveTexts": [
+                {
+                    "text": "Teslas Gewinn bricht ein: Tesla-Chef Elon Musk setzt auf Masse statt Marge."
+                },
+                {
+                    "text": "Mit immer neuen Preissenkungen versucht er, m\u00f6glichst viele Tesla-Modelle in den Markt zu dr\u00fccken."
+                },
+                {
+                    "text": "F\u00fcr Musk war es ohnehin ein gebrauchter Tag: Die unbemannte Starship-Riesenrakete seines US-Raumfahrtunternehmens SpaceX ist bei ihrem ersten Testflug explodiert, etwa drei Minuten nach dem Start."
+                }
+            ],
+            "occupations": [
+                {
+                    "text": "setzt auf Masse statt Marge"
+                },
+                {
+                    "text": "Tesla-Chef"
+                }
+            ],
+            "directQuotes": [],
+            "quotedInTitle": false,
+            "quotedInIntro": false
+        },
+        {
+            "name": "Julian Reichelt",
+            "alternativeNames": [],
+            "age": -1,
+            "sex": "male",
+            "occurences": {
+                "total": 1,
+                "firstNameOnly": 0,
+                "lastNameOnly": 0,
+                "fullName": 1,
+                "nickname": 0
+            },
+            "inTitle": false,
+            "inIntro": false,
+            "_name": {
+                "firstname": "Julian",
+                "lastname": "Reichelt",
+                "nickname": null,
+                "alternative_names": [],
+                "academic_title": null,
+                "nobility_title_or_rank": null
+            },
+            "descriptiveTexts": [
+                {
+                    "text": "Weniger bekannt ist, mit welch stoischer Ruhe und Gelassenheit der Springer-Hauptaktion\u00e4r KKR weiterhin zu Springer-Chef Mathias D\u00f6pfner steht, obwohl dieser bereits in der Aff\u00e4re um Ex-Bild-Chefredakteur Julian Reichelt keine gute Figur gemacht hatte."
+                }
+            ],
+            "occupations": [
+                {
+                    "text": "Ex-Bild-Chefredakteur"
+                }
+            ],
+            "directQuotes": [],
+            "quotedInTitle": false,
+            "quotedInIntro": false
+        }
+    ]
+}

@@ -1,0 +1,332 @@
+{
+    "persons": [
+        {
+            "name": "Christina Kyriasoglou",
+            "alternativeNames": [],
+            "age": -1,
+            "sex": "female",
+            "occurences": {
+                "total": 1,
+                "firstNameOnly": 0,
+                "lastNameOnly": 0,
+                "fullName": 1,
+                "nickname": 0
+            },
+            "inTitle": false,
+            "inIntro": false,
+            "_name": {
+                "firstname": "Christina",
+                "lastname": "Kyriasoglou",
+                "nickname": null,
+                "alternative_names": [],
+                "academic_title": null,
+                "nobility_title_or_rank": null
+            },
+            "descriptiveTexts": [
+                {
+                    "text": "Dar\u00fcber informiert in diesem Podcast Christina Kyriasoglou, Tech-Reporterin des manager magazins, im Gespr\u00e4ch mit Chefredakteur Sven Clausen."
+                },
+                {
+                    "text": "Sie k\u00f6nnen den Podcast \u00fcber manager magazin sowie auf Spotify, Apple, Deezer und bei Google abonnieren."
+                }
+            ],
+            "occupations": [],
+            "directQuotes": [],
+            "quotedInTitle": false,
+            "quotedInIntro": false
+        },
+        {
+            "name": "ChatGPT",
+            "alternativeNames": [],
+            "age": -1,
+            "sex": "male",
+            "occurences": {
+                "total": 1,
+                "firstNameOnly": 0,
+                "lastNameOnly": 0,
+                "fullName": 1,
+                "nickname": 0
+            },
+            "inTitle": false,
+            "inIntro": false,
+            "_name": {
+                "firstname": null,
+                "lastname": null,
+                "nickname": null,
+                "alternative_names": [],
+                "academic_title": null,
+                "nobility_title_or_rank": null
+            },
+            "descriptiveTexts": [
+                {
+                    "text": "Die k\u00fcnstliche Intelligenz (KI), die ihren Chatbots ChatGPT und Bard zugrunde liegt, hat das Zeug, nicht nur die Machtverh\u00e4ltnisse in der Wirtschaft v\u00f6llig neu zu sortieren."
+                }
+            ],
+            "occupations": [],
+            "directQuotes": [],
+            "quotedInTitle": false,
+            "quotedInIntro": false
+        },
+        {
+            "name": "Meta",
+            "alternativeNames": [],
+            "age": -1,
+            "sex": "unknown",
+            "occurences": {
+                "total": 1,
+                "firstNameOnly": 0,
+                "lastNameOnly": 0,
+                "fullName": 1,
+                "nickname": 0
+            },
+            "inTitle": false,
+            "inIntro": false,
+            "_name": {
+                "firstname": null,
+                "lastname": null,
+                "nickname": null,
+                "alternative_names": [],
+                "academic_title": null,
+                "nobility_title_or_rank": null
+            },
+            "descriptiveTexts": [
+                {
+                    "text": "Von Meta, Amazon und Apple wird in den n\u00e4chsten Wochen Bahnbrechendes erwartet."
+                }
+            ],
+            "occupations": [],
+            "directQuotes": [],
+            "quotedInTitle": false,
+            "quotedInIntro": false
+        },
+        {
+            "name": "Google",
+            "alternativeNames": [],
+            "age": -1,
+            "sex": "unknown",
+            "occurences": {
+                "total": 4,
+                "firstNameOnly": 0,
+                "lastNameOnly": 0,
+                "fullName": 4,
+                "nickname": 0
+            },
+            "inTitle": false,
+            "inIntro": true,
+            "_name": {
+                "firstname": null,
+                "lastname": null,
+                "nickname": null,
+                "alternative_names": [],
+                "academic_title": null,
+                "nobility_title_or_rank": null
+            },
+            "descriptiveTexts": [
+                {
+                    "text": "Microsoft und Google sind entschlossen: Ihre k\u00fcnstliche Intelligenz soll unser Leben und Arbeiten dominieren."
+                },
+                {
+                    "text": "Nachdem sie lange im Verborgenen get\u00fcftelt haben, lie\u00dfen Microsoft und Google vor wenigen Wochen mal kurz ihre KI-Sch\u00f6pfungen von der Leine."
+                },
+                {
+                    "text": "Schon jetzt ist klar: Die gro\u00dfen Techkonzerne Microsoft und Google liegen bei der Entwicklung vorn."
+                },
+                {
+                    "text": "Sie k\u00f6nnen den Podcast \u00fcber manager magazin sowie auf Spotify, Apple, Deezer und bei Google abonnieren."
+                }
+            ],
+            "occupations": [],
+            "directQuotes": [],
+            "quotedInTitle": false,
+            "quotedInIntro": true
+        },
+        {
+            "name": "Amazon",
+            "alternativeNames": [],
+            "age": -1,
+            "sex": "unknown",
+            "occurences": {
+                "total": 1,
+                "firstNameOnly": 0,
+                "lastNameOnly": 0,
+                "fullName": 1,
+                "nickname": 0
+            },
+            "inTitle": false,
+            "inIntro": false,
+            "_name": {
+                "firstname": null,
+                "lastname": null,
+                "nickname": null,
+                "alternative_names": [],
+                "academic_title": null,
+                "nobility_title_or_rank": null
+            },
+            "descriptiveTexts": [
+                {
+                    "text": "Von Meta, Amazon und Apple wird in den n\u00e4chsten Wochen Bahnbrechendes erwartet."
+                }
+            ],
+            "occupations": [
+                {
+                    "text": "Techgiganten aus den USA"
+                }
+            ],
+            "directQuotes": [],
+            "quotedInTitle": false,
+            "quotedInIntro": false
+        },
+        {
+            "name": "Microsoft",
+            "alternativeNames": [],
+            "age": -1,
+            "sex": "unknown",
+            "occurences": {
+                "total": 3,
+                "firstNameOnly": 0,
+                "lastNameOnly": 0,
+                "fullName": 3,
+                "nickname": 0
+            },
+            "inTitle": false,
+            "inIntro": true,
+            "_name": {
+                "firstname": null,
+                "lastname": null,
+                "nickname": null,
+                "alternative_names": [],
+                "academic_title": null,
+                "nobility_title_or_rank": null
+            },
+            "descriptiveTexts": [
+                {
+                    "text": "Microsoft und Google sind entschlossen: Ihre k\u00fcnstliche Intelligenz soll unser Leben und Arbeiten dominieren."
+                },
+                {
+                    "text": "Nachdem sie lange im Verborgenen get\u00fcftelt haben, lie\u00dfen Microsoft und Google vor wenigen Wochen mal kurz ihre KI-Sch\u00f6pfungen von der Leine."
+                },
+                {
+                    "text": "Schon jetzt ist klar: Die gro\u00dfen Techkonzerne Microsoft und Google liegen bei der Entwicklung vorn."
+                }
+            ],
+            "occupations": [
+                {
+                    "text": "Techkonzerne"
+                }
+            ],
+            "directQuotes": [],
+            "quotedInTitle": false,
+            "quotedInIntro": true
+        },
+        {
+            "name": "Sven Clausen",
+            "alternativeNames": [],
+            "age": -1,
+            "sex": "male",
+            "occurences": {
+                "total": 1,
+                "firstNameOnly": 0,
+                "lastNameOnly": 0,
+                "fullName": 1,
+                "nickname": 0
+            },
+            "inTitle": false,
+            "inIntro": false,
+            "_name": {
+                "firstname": "Sven",
+                "lastname": "Clausen",
+                "nickname": null,
+                "alternative_names": [],
+                "academic_title": null,
+                "nobility_title_or_rank": null
+            },
+            "descriptiveTexts": [
+                {
+                    "text": "Dar\u00fcber informiert in diesem Podcast Christina Kyriasoglou, Tech-Reporterin des manager magazins, im Gespr\u00e4ch mit Chefredakteur Sven Clausen."
+                },
+                {
+                    "text": "Sie k\u00f6nnen den Podcast \u00fcber manager magazin sowie auf Spotify, Apple, Deezer und bei Google abonnieren."
+                }
+            ],
+            "occupations": [
+                {
+                    "text": "Chefredakteur"
+                }
+            ],
+            "directQuotes": [],
+            "quotedInTitle": false,
+            "quotedInIntro": false
+        },
+        {
+            "name": "Apple",
+            "alternativeNames": [],
+            "age": -1,
+            "sex": "unknown",
+            "occurences": {
+                "total": 2,
+                "firstNameOnly": 0,
+                "lastNameOnly": 0,
+                "fullName": 2,
+                "nickname": 0
+            },
+            "inTitle": false,
+            "inIntro": false,
+            "_name": {
+                "firstname": null,
+                "lastname": null,
+                "nickname": null,
+                "alternative_names": [],
+                "academic_title": null,
+                "nobility_title_or_rank": null
+            },
+            "descriptiveTexts": [
+                {
+                    "text": "Von Meta, Amazon und Apple wird in den n\u00e4chsten Wochen Bahnbrechendes erwartet."
+                },
+                {
+                    "text": "Sie k\u00f6nnen den Podcast \u00fcber manager magazin sowie auf Spotify, Apple, Deezer und bei Google abonnieren."
+                }
+            ],
+            "occupations": [],
+            "directQuotes": [],
+            "quotedInTitle": false,
+            "quotedInIntro": false
+        },
+        {
+            "name": "Bard",
+            "alternativeNames": [],
+            "age": -1,
+            "sex": "male",
+            "occurences": {
+                "total": 1,
+                "firstNameOnly": 0,
+                "lastNameOnly": 0,
+                "fullName": 1,
+                "nickname": 0
+            },
+            "inTitle": false,
+            "inIntro": false,
+            "_name": {
+                "firstname": null,
+                "lastname": null,
+                "nickname": null,
+                "alternative_names": [],
+                "academic_title": null,
+                "nobility_title_or_rank": null
+            },
+            "descriptiveTexts": [
+                {
+                    "text": "Die k\u00fcnstliche Intelligenz (KI), die ihren Chatbots ChatGPT und Bard zugrunde liegt, hat das Zeug, nicht nur die Machtverh\u00e4ltnisse in der Wirtschaft v\u00f6llig neu zu sortieren."
+                }
+            ],
+            "occupations": [
+                {
+                    "text": "KI-Sch\u00f6pfung"
+                }
+            ],
+            "directQuotes": [],
+            "quotedInTitle": false,
+            "quotedInIntro": false
+        }
+    ]
+}

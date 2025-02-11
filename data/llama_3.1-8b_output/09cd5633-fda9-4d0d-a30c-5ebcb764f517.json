@@ -1,0 +1,132 @@
+{
+    "persons": [
+        {
+            "name": "Judith Niehues",
+            "alternativeNames": [],
+            "age": -1,
+            "sex": "female",
+            "occurences": {
+                "total": 6,
+                "firstNameOnly": 0,
+                "lastNameOnly": 5,
+                "fullName": 1,
+                "nickname": 0
+            },
+            "inTitle": false,
+            "inIntro": false,
+            "_name": {
+                "firstname": "Judith",
+                "lastname": "Niehues",
+                "nickname": null,
+                "alternative_names": [],
+                "academic_title": null,
+                "nobility_title_or_rank": null
+            },
+            "descriptiveTexts": [
+                {
+                    "text": "Wann geh\u00f6re ich zu den Top 10 Prozent?"
+                },
+                {
+                    "text": "\"Es gibt keine allgemein g\u00fcltige Definition von Mittelschicht und Oberschicht\", sagt Judith Niehues, Leiterin der Clusters Mikrodaten und Verteilung am Institut f\u00fcr Wirtschaft in K\u00f6ln."
+                },
+                {
+                    "text": "Sie beobachtet die Einkommen und Geh\u00e4lter der Deutschen."
+                },
+                {
+                    "text": "Dabei \"rechnen sich die meisten Menschen hierzulande zur Mittelschicht\", sagt Niehues."
+                },
+                {
+                    "text": "Ein Ein-Personenhaushalt mit einem Nettoeinkommen zwischen 1690 und 3160 Euro z\u00e4hlt dem K\u00f6lner Institut zufolge zur Mittelschicht im engeren Sinne, berichtet Niehues."
+                },
+                {
+                    "text": "Mit 3.700 Euro netto geh\u00f6ren sie zu den einkommensreichsten zehn Prozent \u2013 und ab 5.270 Euro netto sogar zu den reichsten drei Prozent."
+                },
+                {
+                    "text": "\"Die beiden Gruppen, die in der oberen Mittelschicht \u00fcberproportional zu finden sind, sind Doppelverdiener-Paare ohne Kinder und Paare, die noch nicht verrentet sind und deren Kinder nicht mehr im gleichen Haushalt leben\", sagt Niehues."
+                },
+                {
+                    "text": "Dabei machen sie gerade mal rund 4,6 Prozent der Haushalte aus."
+                },
+                {
+                    "text": "Die reichsten Verm\u00f6genden machen sogar nur 0,1 Prozent der Bev\u00f6lkerung aus, berichtet Niehues."
+                },
+                {
+                    "text": "Auch Niehues berichtet, dass in Umfragen \u00fcber Verm\u00f6gen die Angaben sehr unterschiedlich ausfallen, da jeder anders auf Abfragen reagiere und antworte."
+                }
+            ],
+            "occupations": [],
+            "directQuotes": [
+                {
+                    "text": "rechnen sich die meisten Menschen hierzulande zur Mittelschicht"
+                },
+                {
+                    "text": "Aber die Belastungen werden in den unteren Einkommensschichten st\u00e4rker zu sp\u00fcren sein."
+                },
+                {
+                    "text": "Die beiden Gruppen, die in der oberen Mittelschicht \u00fcberproportional zu finden sind, sind Doppelverdiener-Paare ohne Kinder und Paare, die noch nicht verrentet sind und deren Kinder nicht mehr im gleichen Haushalt leben"
+                }
+            ],
+            "quotedInTitle": false,
+            "quotedInIntro": false
+        },
+        {
+            "name": "Markus M. Grabka",
+            "alternativeNames": [
+                "Markus Grabka"
+            ],
+            "age": -1,
+            "sex": "male",
+            "occurences": {
+                "total": 5,
+                "firstNameOnly": 1,
+                "lastNameOnly": 2,
+                "fullName": 2,
+                "nickname": 0
+            },
+            "inTitle": false,
+            "inIntro": false,
+            "_name": {
+                "firstname": "Markus M.",
+                "lastname": "Grabka",
+                "nickname": null,
+                "alternative_names": [
+                    "Markus Grabka"
+                ],
+                "academic_title": null,
+                "nobility_title_or_rank": null
+            },
+            "descriptiveTexts": [
+                {
+                    "text": "Zur Verm\u00f6genselite, wie sie Markus Grabka vom Deutschen Institut f\u00fcr Wirtschaftsforschung in Berlin nennt, geh\u00f6rt man seiner Beobachtung nach ab etwa zehn Millionen Euro Nettoverm\u00f6gen."
+                },
+                {
+                    "text": "Von Verm\u00f6genden spricht er bereits ab einer Million Euro, wenn man von den Ertr\u00e4gen daraus im Prinzip leben kann."
+                }
+            ],
+            "occupations": [
+                {
+                    "text": "Forscher"
+                },
+                {
+                    "text": "Allein das Gehalt zu betrachten, reicht nicht."
+                },
+                {
+                    "text": "Forscher"
+                }
+            ],
+            "directQuotes": [
+                {
+                    "text": "Das Bruttogehalt allein reicht aber nicht aus, um festzustellen, ob man zu den Wohlhabenden in Deutschland z\u00e4hlt"
+                },
+                {
+                    "text": "Wichtig ist das gesamte Nettohaushaltseinkommen."
+                },
+                {
+                    "text": "Allein das Gehalt zu betrachten, reicht nicht."
+                }
+            ],
+            "quotedInTitle": false,
+            "quotedInIntro": false
+        }
+    ]
+}

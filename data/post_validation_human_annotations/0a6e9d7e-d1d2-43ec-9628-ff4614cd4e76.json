@@ -1,0 +1,825 @@
+{
+	"persons": [
+		{
+			"age": -1,
+			"alternativeNames": [],
+			"birthday": null,
+			"descriptiveTexts": [
+				{
+					"text": "Antje Heinemann-Sanders lebt in einem kleinen, norddeutschen Idyll."
+				},
+				{
+					"text": "Die zwei Pferde und das Pony, »so ein freches«, hat Heinemann-Sanders längst anderswo untergebracht."
+				},
+				{
+					"text": "Noch kann sie in ihrem Haus bleiben."
+				},
+				{
+					"text": "Mit einem großen Anhänger fahren sie vors Haus, Heinemann-Sanders, die Tochter, die Schwester und Marco Kirchner, der Nachbar."
+				},
+				{
+					"text": "»Der Hänger trägt zwar ein ganzes Pferd, aber keine 30 Säcke«, sagt Heinemann-Sanders später."
+				},
+				{
+					"text": "Sie ärgert sich über die Organisation."
+				},
+				{
+					"text": "Im alten Dorf in Bümmerstede hätten sie alle eine Elementarschadenversicherung, sagt Antje Heinemann-Sanders."
+				},
+				{
+					"text": "Und sie wüsste nicht, was die Versicherung zahle."
+				},
+				{
+					"text": "Sie werde sichern, was möglich ist; Holzpflöcke und Pflastersteine unter die Möbel stellen."
+				}
+			],
+			"directQuotes": [
+				{
+					"text": "so ein freches"
+				},
+				{
+					"text": "Der Hänger trägt zwar ein ganzes Pferd, aber keine 30 Säcke"
+				},
+				{
+					"text": "Hundert Quadratmeter Parkettboden – wissen Sie, wie viel das kostet?"
+				}
+			],
+			"inIntro": false,
+			"inTitle": false,
+			"indirectQuotes": [
+				{
+					"text": "Im alten Dorf in Bümmerstede hätten sie alle eine Elementarschadenversicherung, sagt Antje Heinemann-Sanders."
+				},
+				{
+					"text": "Und sie wüsste nicht, was die Versicherung zahle."
+				},
+				{
+					"text": "Sie werde sichern, was möglich ist; Holzpflöcke und Pflastersteine unter die Möbel stellen."
+				}
+			],
+			"isMain": true,
+			"name": "Antje Heinemann-Sanders",
+			"occupations": [],
+			"occurrences": {
+				"firstNameOnly": 0,
+				"fullName": 2,
+				"lastNameOnly": 3,
+				"total": 5
+			},
+			"quotedInIntro": false,
+			"quotedInTitle": false,
+			"sex": "female"
+		},
+		{
+			"age": -1,
+			"alternativeNames": [],
+			"birthday": null,
+			"descriptiveTexts": [
+				{
+					"text": "Mit einem großen Anhänger fahren sie vors Haus, Heinemann-Sanders, die Tochter, die Schwester und Marco Kirchner, der Nachbar."
+				},
+				{
+					"text": "»Das war chaotisch«, sagt Kirchner."
+				}
+			],
+			"directQuotes": [
+				{
+					"text": "Das war chaotisch"
+				},
+				{
+					"text": "Reißverschlussverfahren mag der Deutsche ja nicht. Und wenn es um Sandsäcke geht, schon gar nicht."
+				}
+			],
+			"inIntro": false,
+			"inTitle": false,
+			"indirectQuotes": [],
+			"isMain": false,
+			"name": "Marco Kirchner",
+			"occupations": [
+				{
+					"text": "Nachbar"
+				}
+			],
+			"occurrences": {
+				"firstNameOnly": 0,
+				"fullName": 1,
+				"lastNameOnly": 1,
+				"total": 2
+			},
+			"quotedInIntro": false,
+			"quotedInTitle": false,
+			"sex": "male"
+		},
+		{
+			"age": 76,
+			"alternativeNames": [],
+			"birthday": null,
+			"descriptiveTexts": [
+				{
+					"text": "»Ich brauch hier hundert Säcke«, sagt Liesel Heinemann, die Schwester."
+				},
+				{
+					"text": "Sie wohne hier in der neunten Generation, ihren Hof gebe es seit 500 Jahren."
+				},
+				{
+					"text": "»Der steht unter Denkmalschutz und soll jetzt geflutet werden«, sagt die 76-Jährige."
+				},
+				{
+					"text": "»Wir im alten Dorf saufen bald ab.«"
+				},
+				{
+					"text": "»Wir würden auch gern abgesichert werden durch den wunderschönen mobilen Deich«, sagt Liesel Heinemann."
+				},
+				{
+					"text": "»Wir werden behandelt wie die Marsch«, das flache Schwemmland."
+				}
+			],
+			"directQuotes": [
+				{
+					"text": "Ich brauch hier hundert Säcke"
+				},
+				{
+					"text": "Der steht unter Denkmalschutz und soll jetzt geflutet werden"
+				},
+				{
+					"text": "Wir im alten Dorf saufen bald ab."
+				},
+				{
+					"text": "Wir würden auch gern abgesichert werden durch den wunderschönen mobilen Deich"
+				},
+				{
+					"text": "Wir werden behandelt wie die Marsch"
+				}
+			],
+			"inIntro": false,
+			"inTitle": false,
+			"indirectQuotes": [
+				{
+					"text": "Sie wohne hier in der neunten Generation, ihren Hof gebe es seit 500 Jahren."
+				}
+			],
+			"isMain": false,
+			"name": "Liesel Heinemann",
+			"occupations": [
+				{
+					"text": "Schwester"
+				}
+			],
+			"occurrences": {
+				"firstNameOnly": 0,
+				"fullName": 2,
+				"lastNameOnly": 0,
+				"total": 2
+			},
+			"quotedInIntro": false,
+			"quotedInTitle": false,
+			"sex": "female"
+		},
+		{
+			"age": -1,
+			"alternativeNames": [],
+			"birthday": null,
+			"descriptiveTexts": [
+				{
+					"text": "SPD-Mann Andreas Schwarz argumentierte gegenüber dem SPIEGEL: »Das Hochwasser richtet gerade in Niedersachsen immense Schäden an. Für diese Kosten könnten wir die Schuldenbremse aussetzen.«"
+				},
+				{
+					"text": "»Schließlich handelt es sich um eine unvorhersehbare Naturkatastrophe. Dafür lässt das Urteil Spielräume«, sagte Schwarz."
+				}
+			],
+			"directQuotes": [
+				{
+					"text": "Das Hochwasser richtet gerade in Niedersachsen immense Schäden an. Für diese Kosten könnten wir die Schuldenbremse aussetzen."
+				},
+				{
+					"text": "Schließlich handelt es sich um eine unvorhersehbare Naturkatastrophe. Dafür lässt das Urteil Spielräume"
+				}
+			],
+			"inIntro": false,
+			"inTitle": false,
+			"indirectQuotes": [
+				{
+					"text": "Dies sei auch nach dem jüngsten Haushaltsurteil des Bundesverfassungsgerichts möglich."
+				}
+			],
+			"isMain": false,
+			"name": "Andreas Schwarz",
+			"occupations": [
+				{
+					"text": "SPD-Mann"
+				}
+			],
+			"occurrences": {
+				"firstNameOnly": 0,
+				"fullName": 1,
+				"lastNameOnly": 1,
+				"total": 2
+			},
+			"quotedInIntro": false,
+			"quotedInTitle": false,
+			"sex": "male"
+		},
+		{
+			"age": -1,
+			"alternativeNames": [],
+			"birthday": null,
+			"descriptiveTexts": [
+				{
+					"text": "SPD-Fraktionschef Rolf Mützenich äußerte sich ähnlich."
+				},
+				{
+					"text": "Es sei absehbar, dass die zusätzlichen Mittel für Schadensausgleich, das Technische Hilfswerk, Katastrophenschutz und Deicherneuerungen Länder und Kommunen finanziell überforderten, sagte Mützenich dem Portal »Table.Media«."
+				}
+			],
+			"directQuotes": [],
+			"inIntro": false,
+			"inTitle": false,
+			"indirectQuotes": [
+				{
+					"text": "Es sei absehbar, dass die zusätzlichen Mittel für Schadensausgleich, das Technische Hilfswerk, Katastrophenschutz und Deicherneuerungen Länder und Kommunen finanziell überforderten, sagte Mützenich dem Portal »Table.Media«."
+				}
+			],
+			"isMain": false,
+			"name": "Rolf Mützenich",
+			"occupations": [
+				{
+					"text": "SPD-Fraktionschef"
+				}
+			],
+			"occurrences": {
+				"firstNameOnly": 0,
+				"fullName": 1,
+				"lastNameOnly": 1,
+				"total": 2
+			},
+			"quotedInIntro": false,
+			"quotedInTitle": false,
+			"sex": "male"
+		},
+		{
+			"age": -1,
+			"alternativeNames": [],
+			"birthday": null,
+			"descriptiveTexts": [
+				{
+					"text": "»Die Schäden sind immens und die Menschen in den betroffenen Regionen werden sich auf unsere Unterstützung verlassen können«, sagte der grüne Haushaltsexperte Sven-Christian Kindler der »Rheinischen Post«."
+				}
+			],
+			"directQuotes": [
+				{
+					"text": "Die Schäden sind immens und die Menschen in den betroffenen Regionen werden sich auf unsere Unterstützung verlassen können"
+				}
+			],
+			"inIntro": false,
+			"inTitle": false,
+			"indirectQuotes": [],
+			"isMain": false,
+			"name": "Sven-Christian Kindler",
+			"occupations": [
+				{
+					"text": "grüne Haushaltsexperte"
+				}
+			],
+			"occurrences": {
+				"firstNameOnly": 0,
+				"fullName": 1,
+				"lastNameOnly": 0,
+				"total": 1
+			},
+			"quotedInIntro": false,
+			"quotedInTitle": false,
+			"sex": "male"
+		},
+		{
+			"age": -1,
+			"alternativeNames": [],
+			"birthday": null,
+			"descriptiveTexts": [
+				{
+					"text": "Weil hält Debatte über Schuldenbremse für verfrüht"
+				},
+				{
+					"text": "Niedersachsens Ministerpräsident Stephan Weil (SPD) hält die Debatte über die Schuldenbremse für verfrüht."
+				},
+				{
+					"text": "Die Frage, ob das Hochwasser und seine Folgen eine Notlage darstellen, die eine Ausnahme von der Schuldenbremse zulasse, so Weil gegenüber dem SPIEGEL, »lässt sich derzeit noch nicht beantworten«."
+				},
+				{
+					"text": "Nach der Flut 2017 standen dafür laut Weil zehn Millionen Euro zur Verfügung."
+				},
+				{
+					"text": "Vor dem Hintergrund des Klimawandels und immer häufiger auftretender Umweltkatastrophen fordert Weil die Einführung einer neuen Pflichtversicherung: Alle Immobilienbesitzer sollten demnach gesetzlich verpflichtet werden, eine Elementarschadenversicherung abzuschließen."
+				}
+			],
+			"directQuotes": [
+				{
+					"text": "lässt sich derzeit noch nicht beantworten"
+				}
+			],
+			"inIntro": false,
+			"inTitle": false,
+			"indirectQuotes": [
+				{
+					"text": "Die Frage, ob das Hochwasser und seine Folgen eine Notlage darstellen, die eine Ausnahme von der Schuldenbremse zulasse, so Weil gegenüber dem SPIEGEL, »lässt sich derzeit noch nicht beantworten«."
+				},
+				{
+					"text": "Den größten Teil der Schäden könne man noch gar nicht beziffern, da sie derzeit noch unter Wasser lägen."
+				},
+				{
+					"text": "Das gelte für Straßen, Brücken und Deiche."
+				},
+				{
+					"text": "Nach der Flut 2017 standen dafür laut Weil zehn Millionen Euro zur Verfügung."
+				},
+				{
+					"text": "Vor dem Hintergrund des Klimawandels und immer häufiger auftretender Umweltkatastrophen fordert Weil die Einführung einer neuen Pflichtversicherung: Alle Immobilienbesitzer sollten demnach gesetzlich verpflichtet werden, eine Elementarschadenversicherung abzuschließen."
+				}
+			],
+			"isMain": false,
+			"name": "Stephan Weil",
+			"occupations": [
+				{
+					"text": "Niedersachsens Ministerpräsident"
+				}
+			],
+			"occurrences": {
+				"firstNameOnly": 0,
+				"fullName": 1,
+				"lastNameOnly": 4,
+				"total": 5
+			},
+			"quotedInIntro": false,
+			"quotedInTitle": false,
+			"sex": "male"
+		},
+		{
+			"age": 27,
+			"alternativeNames": [],
+			"birthday": null,
+			"descriptiveTexts": [
+				{
+					"text": "Björn Schwitters und seine Freundin leben nicht in der neunten Generation in der Erdgeschosswohnung in Oldenburg, sondern erst seit drei Monaten."
+				},
+				{
+					"text": "»Das haben wir uns anders vorgestellt«, sagt der 27-Jährige."
+				},
+				{
+					"text": "Das Schild »Bei Hochwasser nicht betreten« am nahen Deich habe er zwar gesehen, aber dass es so kritisch werde, »kam überraschend«."
+				},
+				{
+					"text": "Sandsäcke hat er auch schon geholt, eine Bauplane fehle ihm aber, um die Terrassentür abzudichten."
+				},
+				{
+					"text": "»Wir überlegen, Frischhaltefolie mit Panzertape davor zu kleben«, sagt er."
+				},
+				{
+					"text": "Die wichtigsten Sachen werde er hochstellen: den Computer, die Playstation, den Staubsaugerroboter."
+				},
+				{
+					"text": "»Unterkünfte für den Notfall haben wir auf jeden Fall genügend«, sagt er."
+				},
+				{
+					"text": "Er fragt sich aber: »Wenn der Deich brechen sollte und eine Riesenwelle kommt, was passiert dann?«"
+				}
+			],
+			"directQuotes": [
+				{
+					"text": "Das haben wir uns anders vorgestellt"
+				},
+				{
+					"text": "Wir überlegen, Frischhaltefolie mit Panzertape davor zu kleben"
+				},
+				{
+					"text": "Unterkünfte für den Notfall haben wir auf jeden Fall genügend"
+				},
+				{
+					"text": "Wenn der Deich brechen sollte und eine Riesenwelle kommt, was passiert dann?"
+				}
+			],
+			"inIntro": false,
+			"inTitle": false,
+			"indirectQuotes": [
+				{
+					"text": "Das Schild »Bei Hochwasser nicht betreten« am nahen Deich habe er zwar gesehen, aber dass es so kritisch werde, »kam überraschend«."
+				},
+				{
+					"text": "Sandsäcke hat er auch schon geholt, eine Bauplane fehle ihm aber, um die Terrassentür abzudichten."
+				},
+				{
+					"text": "Die wichtigsten Sachen werde er hochstellen: den Computer, die Playstation, den Staubsaugerroboter."
+				}
+			],
+			"isMain": false,
+			"name": "Björn Schwitters",
+			"occupations": [],
+			"occurrences": {
+				"firstNameOnly": 0,
+				"fullName": 1,
+				"lastNameOnly": 0,
+				"total": 1
+			},
+			"quotedInIntro": false,
+			"quotedInTitle": false,
+			"sex": "male"
+		},
+		{
+			"age": 35,
+			"alternativeNames": [],
+			"birthday": null,
+			"descriptiveTexts": [
+				{
+					"text": "An Bord sitzt Johannes Rudolph."
+				},
+				{
+					"text": "Er ist eigentlich Sachgebietsleiter in der Führungsstelle und arbeitet seit zehn Tagen im eingerichteten Lagezentrum."
+				},
+				{
+					"text": "Jetzt wollte er auch selbst mal raus, um sich einen Eindruck zu machen."
+				},
+				{
+					"text": "»Es ist hilfreich, den Deich im real life zu sehen«, sagt der 35-Jährige, der seit 17 Jahren beim THW ist."
+				},
+				{
+					"text": "Er sei seit Heiligabend im Einsatz."
+				},
+				{
+					"text": "Die beiden Boote fahren ans Ufer, zwei Männer begutachten den Ast, drücken dagegen."
+				},
+				{
+					"text": "»Kein Knacken, kein Knirschen«, sagt einer von ihnen."
+				}
+			],
+			"directQuotes": [
+				{
+					"text": "Es ist hilfreich, den Deich im real life zu sehen"
+				},
+				{
+					"text": "Das geht auch nur wegen der Feiertage"
+				}
+			],
+			"inIntro": false,
+			"inTitle": false,
+			"indirectQuotes": [
+				{
+					"text": "Er sei seit Heiligabend im Einsatz."
+				}
+			],
+			"isMain": false,
+			"name": "Johannes Rudolph",
+			"occupations": [
+				{
+					"text": "Sachgebietsleiter"
+				}
+			],
+			"occurrences": {
+				"firstNameOnly": 0,
+				"fullName": 1,
+				"lastNameOnly": 0,
+				"total": 1
+			},
+			"quotedInIntro": false,
+			"quotedInTitle": false,
+			"sex": "male"
+		},
+		{
+			"age": 67,
+			"alternativeNames": [],
+			"birthday": null,
+			"descriptiveTexts": [
+				{
+					"text": "Das sei vor ein paar Tagen noch anders gewesen, sagt Roland Schäfer, Truppführer Wassergefahren beim THW."
+				},
+				{
+					"text": "Am Ufer sehen Schäfer und sein Team einen angeknabberten Ast."
+				},
+				{
+					"text": "»Der ist richtig frisch«, sagt der 67-Jährige."
+				},
+				{
+					"text": "Die beiden Boote fahren ans Ufer, zwei Männer begutachten den Ast, drücken dagegen."
+				},
+				{
+					"text": "»Kein Knacken, kein Knirschen«, sagt einer von ihnen."
+				},
+				{
+					"text": "Schäfer holt stattdessen einen anderen Ast aus dem Wasser und zieht ihn aufs Boot, damit er nicht ins nahe gelegene Wasserkraftwerk treibt oder eine Schleuse blockiert."
+				}
+			],
+			"directQuotes": [
+				{
+					"text": "Der ist richtig frisch"
+				},
+				{
+					"text": "Der muss da gestern noch geknabbert haben."
+				}
+			],
+			"inIntro": false,
+			"inTitle": false,
+			"indirectQuotes": [
+				{
+					"text": "Das sei vor ein paar Tagen noch anders gewesen, sagt Roland Schäfer, Truppführer Wassergefahren beim THW."
+				},
+				{
+					"text": "Da habe die Hunte eine Strömung gehabt von fünf bis sechs Meter pro Sekunde."
+				}
+			],
+			"isMain": false,
+			"name": "Roland Schäfer",
+			"occupations": [
+				{
+					"text": "Truppführer Wassergefahren beim THW"
+				}
+			],
+			"occurrences": {
+				"firstNameOnly": 0,
+				"fullName": 1,
+				"lastNameOnly": 2,
+				"total": 3
+			},
+			"quotedInIntro": false,
+			"quotedInTitle": false,
+			"sex": "male"
+		},
+		{
+			"age": -1,
+			"alternativeNames": [],
+			"birthday": null,
+			"descriptiveTexts": [
+				{
+					"text": "An Land in einem THW-Bus mit Standheizung sitzt Thomas Schlunck."
+				},
+				{
+					"text": "Er ist technischer Berater für Deichverteidigung in Emden."
+				},
+				{
+					"text": "»Es gibt drei Arten von Deichschäden«, erklärt er."
+				},
+				{
+					"text": "Eine Überspülung schließe er zum jetzigen Zeitpunkt aus."
+				},
+				{
+					"text": "»Wir haben Wasseraustritte, aber das Wasser ist klar«, sagt er."
+				},
+				{
+					"text": "Schlunck ist trotzdem optimistisch."
+				},
+				{
+					"text": "»Wir sind richtig gut aufgestellt.«"
+				},
+				{
+					"text": "»Ich hoffe, die Hochwasserwelle reguliert sich.«"
+				},
+				{
+					"text": "Und er hoffe, dass kein Niederschlag kommt und die Temperaturen über null Grad bleiben."
+				},
+				{
+					"text": "»Wenn wir tagelang Frost haben, wird es richtig schwierig. Dann frieren die Sandsäcke zu Klumpen und lassen sich nicht mehr formen.«"
+				}
+			],
+			"directQuotes": [
+				{
+					"text": "Es gibt drei Arten von Deichschäden"
+				},
+				{
+					"text": "Wir haben Wasseraustritte, aber das Wasser ist klar"
+				},
+				{
+					"text": "Wir sind richtig gut aufgestellt."
+				},
+				{
+					"text": "Ich hoffe, die Hochwasserwelle reguliert sich."
+				},
+				{
+					"text": "Wenn wir tagelang Frost haben, wird es richtig schwierig. Dann frieren die Sandsäcke zu Klumpen und lassen sich nicht mehr formen."
+				}
+			],
+			"inIntro": false,
+			"inTitle": false,
+			"indirectQuotes": [
+				{
+					"text": "Eine Überspülung schließe er zum jetzigen Zeitpunkt aus."
+				},
+				{
+					"text": "Eine Durchströmung des Deiches oder eine Unterspülung sei dann gefährlich, wenn Sediment austrete."
+				},
+				{
+					"text": "Im Moment sei die Situation stabil; es gäbe Auffälligkeiten, aber keine Schäden."
+				},
+				{
+					"text": "Gefährlich sei aber, dass die Deiche durch das hohe Wasser gesättigt seien."
+				},
+				{
+					"text": "Dadurch werde der Deich instabiler."
+				},
+				{
+					"text": "Ingenieure hätten die Höhen der Grundstücke ausgemessen, die nötigen Schritte zur Sicherung seien eingeleitet worden."
+				},
+				{
+					"text": "Und er hoffe, dass kein Niederschlag kommt und die Temperaturen über null Grad bleiben."
+				}
+			],
+			"isMain": false,
+			"name": "Thomas Schlunck",
+			"occupations": [
+				{
+					"text": "technischer Berater für Deichverteidigung"
+				}
+			],
+			"occurrences": {
+				"firstNameOnly": 0,
+				"fullName": 1,
+				"lastNameOnly": 1,
+				"total": 2
+			},
+			"quotedInIntro": false,
+			"quotedInTitle": false,
+			"sex": "male"
+		},
+		{
+			"age": -1,
+			"alternativeNames": [],
+			"birthday": null,
+			"descriptiveTexts": [
+				{
+					"text": "Olaf Wendt hat sich vor über zehn Jahren direkt an den Deich ein Haus gebaut."
+				},
+				{
+					"text": "An Silvester habe die Warnapp auf seinem Smartphone geläutet."
+				},
+				{
+					"text": "Er habe nur etwas von Evakuierung gelesen, sei in den Keller gerannt, habe alles hochgeholt."
+				},
+				{
+					"text": "»Und ich habe den Koffer gepackt«, sagt seine Frau Esther."
+				},
+				{
+					"text": "Als alles fertig war, habe er erst gelesen, dass die Evakuierung nur vorbereitet werde."
+				},
+				{
+					"text": "Für den Notfall ist die Familie mit ihren zwei Kindern mittlerweile vorbereitet."
+				},
+				{
+					"text": "Er habe für 1000 Euro Holz gekauft, sagt Wendt."
+				},
+				{
+					"text": "Vor der Außentreppe zum Keller steht eine Platte, Folie und Sandsäcke; vor den großen, rahmenlosen Fenstern im Erdgeschoss hat er mit einem Freund wasserfest verleimte Siebdruckplatten montiert."
+				},
+				{
+					"text": "Auf die rahmenlosen Fenster war er stolz."
+				},
+				{
+					"text": "Heute sagt er: »Das war keine gute Idee. Da stand die Ästhetik vor der Sicherheit.«"
+				},
+				{
+					"text": "Ein Rückschlagventil habe er sich ebenfalls schon gebaut, damit das Abwasser nicht aus der Dusche fließt."
+				},
+				{
+					"text": "»Meine Rechnung ist: Eine Stunde Arbeit jetzt sind zehn Stunden weniger Arbeit später, sollte das Haus im Wasser stehen.«"
+				},
+				{
+					"text": "Von vielen Seiten hätten sie Hilfe angeboten bekommen."
+				},
+				{
+					"text": "»Ein Freund kam rückwärts mit seinem Tesla in die Einfahrt gefahren, machte die Haube auf, der Kofferraum voller Werkzeug, und sagte: »Komm, wir machen jetzt deine Kellertür dicht!««"
+				},
+				{
+					"text": "Ein anderer Freund habe ihm rote Nummernschilder besorgt, damit er seine zwei abgemeldeten Oldtimer wegfahren kann."
+				},
+				{
+					"text": "»Wir sind nicht in existenzieller Not«, sagt seine Frau."
+				},
+				{
+					"text": "Uns geht es gut."
+				},
+				{
+					"text": "Wenn alles vorbei sei, sagt Olaf Wendt, werde er sich besser vorbereiten."
+				},
+				{
+					"text": "»Dann machen wir die Schotten dicht.«"
+				}
+			],
+			"directQuotes": [
+				{
+					"text": "Das war keine gute Idee. Da stand die Ästhetik vor der Sicherheit."
+				},
+				{
+					"text": "Meine Rechnung ist: Eine Stunde Arbeit jetzt sind zehn Stunden weniger Arbeit später, sollte das Haus im Wasser stehen."
+				},
+				{
+					"text": "Ein Freund kam rückwärts mit seinem Tesla in die Einfahrt gefahren, machte die Haube auf, der Kofferraum voller Werkzeug, und sagte: »Komm, wir machen jetzt deine Kellertür dicht!«"
+				},
+				{
+					"text": "Dann machen wir die Schotten dicht."
+				}
+			],
+			"inIntro": false,
+			"inTitle": false,
+			"indirectQuotes": [
+				{
+					"text": "An Silvester habe die Warnapp auf seinem Smartphone geläutet."
+				},
+				{
+					"text": "Er habe nur etwas von Evakuierung gelesen, sei in den Keller gerannt, habe alles hochgeholt."
+				},
+				{
+					"text": "Als alles fertig war, habe er erst gelesen, dass die Evakuierung nur vorbereitet werde."
+				},
+				{
+					"text": "Seitdem stehe das Wohnzimmer voll mit den Sachen aus dem Keller."
+				},
+				{
+					"text": "Er habe für 1000 Euro Holz gekauft, sagt Wendt."
+				},
+				{
+					"text": "Ein Rückschlagventil habe er sich ebenfalls schon gebaut, damit das Abwasser nicht aus der Dusche fließt."
+				},
+				{
+					"text": "Ein anderer Freund habe ihm rote Nummernschilder besorgt, damit er seine zwei abgemeldeten Oldtimer wegfahren kann."
+				},
+				{
+					"text": "Wenn alles vorbei sei, sagt Olaf Wendt, werde er sich besser vorbereiten."
+				}
+			],
+			"isMain": false,
+			"name": "Olaf Wendt",
+			"occupations": [],
+			"occurrences": {
+				"firstNameOnly": 0,
+				"fullName": 2,
+				"lastNameOnly": 1,
+				"total": 3
+			},
+			"quotedInIntro": false,
+			"quotedInTitle": false,
+			"sex": "male"
+		},
+		{
+			"age": -1,
+			"alternativeNames": [],
+			"birthday": null,
+			"descriptiveTexts": [
+				{
+					"text": "»Und ich habe den Koffer gepackt«, sagt seine Frau Esther."
+				},
+				{
+					"text": "»Es ist ein Chaos«, sagt sie."
+				},
+				{
+					"text": "Für den Notfall ist die Familie mit ihren zwei Kindern mittlerweile vorbereitet."
+				},
+				{
+					"text": "Von vielen Seiten hätten sie Hilfe angeboten bekommen."
+				},
+				{
+					"text": "»Wir sind nicht in existenzieller Not«, sagt seine Frau."
+				},
+				{
+					"text": "»Es geht nur um Besitz. Uns geht es gut. Trotz allem.«"
+				},
+				{
+					"text": "»Dann machen wir die Schotten dicht.«"
+				}
+			],
+			"directQuotes": [
+				{
+					"text": "Und ich habe den Koffer gepackt"
+				},
+				{
+					"text": "Es ist ein Chaos"
+				},
+				{
+					"text": "Wir sind nicht in existenzieller Not"
+				},
+				{
+					"text": "Es geht nur um Besitz. Uns geht es gut. Trotz allem."
+				}
+			],
+			"inIntro": false,
+			"inTitle": false,
+			"indirectQuotes": [],
+			"isMain": false,
+			"name": "Esther Wendt",
+			"occupations": [
+				{
+					"text": "Frau"
+				}
+			],
+			"occurrences": {
+				"firstNameOnly": 1,
+				"fullName": 0,
+				"lastNameOnly": 0,
+				"total": 1
+			},
+			"quotedInIntro": false,
+			"quotedInTitle": false,
+			"sex": "female"
+		}
+	],
+	"subtopics": [
+		"Notfall",
+		"Hochwasser",
+		"Schuldenbremse",
+		"Deichschäden",
+		"Naturkatastrophe"
+	]
+}

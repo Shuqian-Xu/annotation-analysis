@@ -1,0 +1,1048 @@
+{
+    "persons": [
+        {
+            "name": "Perry Ellis",
+            "alternativeNames": [],
+            "age": -1,
+            "sex": "male",
+            "occurences": {
+                "total": 1,
+                "firstNameOnly": 0,
+                "lastNameOnly": 0,
+                "fullName": 1,
+                "nickname": 0
+            },
+            "inTitle": false,
+            "inIntro": false,
+            "_name": {
+                "firstname": "Perry",
+                "lastname": "Ellis",
+                "nickname": null,
+                "alternative_names": [],
+                "academic_title": null,
+                "nobility_title_or_rank": null
+            },
+            "descriptiveTexts": [
+                {
+                    "text": "1993: Model Tyra Banks l\u00e4uft in Birkenstocks f\u00fcr Marc Jacobs legend\u00e4re \"Grunge-Kollektion\" \u00fcber den Laufsteg, die der Designer f\u00fcr das Label Perry Ellis entworfen hatte."
+                }
+            ],
+            "occupations": [
+                {
+                    "text": "Designer"
+                }
+            ],
+            "directQuotes": [],
+            "quotedInTitle": false,
+            "quotedInIntro": false
+        },
+        {
+            "name": "Givenchy",
+            "alternativeNames": [],
+            "age": -1,
+            "sex": "male",
+            "occurences": {
+                "total": 1,
+                "firstNameOnly": 0,
+                "lastNameOnly": 0,
+                "fullName": 1,
+                "nickname": 0
+            },
+            "inTitle": false,
+            "inIntro": false,
+            "_name": {
+                "firstname": null,
+                "lastname": "Givenchy",
+                "nickname": null,
+                "alternative_names": [],
+                "academic_title": null,
+                "nobility_title_or_rank": null
+            },
+            "descriptiveTexts": [
+                {
+                    "text": "Als \"Jute statt Plastik\"-Sandalen wurden sie in den USA zum Symbol f\u00fcr den Widerstand gegen die Regierung im Kalten Krieg."
+                },
+                {
+                    "text": "In Deutschland waren sie lange Zeit Symbol linksgr\u00fcner Weltanschauung."
+                },
+                {
+                    "text": "Mittlerweile arbeitet Birkenstock mit Labels wie Dior, Manolo Blahnik, C\u00e9line, Givenchy und Valentino zusammen."
+                }
+            ],
+            "occupations": [
+                {
+                    "text": "Designer"
+                }
+            ],
+            "directQuotes": [],
+            "quotedInTitle": false,
+            "quotedInIntro": false
+        },
+        {
+            "name": "Bernie Sanders",
+            "alternativeNames": [],
+            "age": 81,
+            "sex": "male",
+            "occurences": {
+                "total": 2,
+                "firstNameOnly": 1,
+                "lastNameOnly": 0,
+                "fullName": 1,
+                "nickname": 0
+            },
+            "inTitle": false,
+            "inIntro": false,
+            "_name": {
+                "firstname": "Bernie",
+                "lastname": "Sanders",
+                "nickname": null,
+                "alternative_names": [],
+                "academic_title": null,
+                "nobility_title_or_rank": null
+            },
+            "descriptiveTexts": [
+                {
+                    "text": "2016: Nachdem Fox-Nachrichtenmoderatorin Megyn Kelly den linken Politiker Bernie Sanders (81) versehentlich \"Bernie Sandals\" nennt, werden die Sandalen unter dessen Anh\u00e4ngern noch popul\u00e4rer."
+                }
+            ],
+            "occupations": [
+                {
+                    "text": "Politiker"
+                }
+            ],
+            "directQuotes": [
+                {
+                    "text": "Bernie Sandals"
+                }
+            ],
+            "quotedInTitle": false,
+            "quotedInIntro": false
+        },
+        {
+            "name": "Konrad Birkenstock",
+            "alternativeNames": [],
+            "age": -1,
+            "sex": "male",
+            "occurences": {
+                "total": 69,
+                "firstNameOnly": 0,
+                "lastNameOnly": 66,
+                "fullName": 3,
+                "nickname": 0
+            },
+            "inTitle": false,
+            "inIntro": false,
+            "_name": {
+                "firstname": "Konrad",
+                "lastname": "Birkenstock",
+                "nickname": null,
+                "alternative_names": [],
+                "academic_title": null,
+                "nobility_title_or_rank": null
+            },
+            "descriptiveTexts": [
+                {
+                    "text": "1896: Konrad Birkenstock verl\u00e4sst das heimische Dorf und macht eine Lehre in Friedberg."
+                },
+                {
+                    "text": "Daraufhin l\u00e4sst er sich in Frankfurt am Main nieder, wo er zwei Schuhgesch\u00e4fte betreibt und die Idee eines plastischen Ma\u00dfschuhs entwickelt."
+                },
+                {
+                    "text": "1902: Konrad Birkenstock stellt erstmals eine flexible Fu\u00dfbetteinlage vor und beginnt mit der Produktion."
+                },
+                {
+                    "text": "Er reist durch Deutschland und \u00d6sterreich, um die Einlage zu vermarkten, doch der gesch\u00e4ftliche Erfolg bleibt aus."
+                },
+                {
+                    "text": "1945: Konrad Birkenstock macht die flexiblen Korkeinlagen zur festen Innensohle in seinen Schuhen."
+                }
+            ],
+            "occupations": [
+                {
+                    "text": "Schuhhersteller"
+                }
+            ],
+            "directQuotes": [
+                {
+                    "text": "Ideal-Schuh"
+                }
+            ],
+            "quotedInTitle": false,
+            "quotedInIntro": false
+        },
+        {
+            "name": "Johann Adam Birkenstock",
+            "alternativeNames": [],
+            "age": -1,
+            "sex": "male",
+            "occurences": {
+                "total": 1,
+                "firstNameOnly": 0,
+                "lastNameOnly": 0,
+                "fullName": 1,
+                "nickname": 0
+            },
+            "inTitle": false,
+            "inIntro": false,
+            "_name": {
+                "firstname": "Johann Adam",
+                "lastname": "Birkenstock",
+                "nickname": null,
+                "alternative_names": [],
+                "academic_title": null,
+                "nobility_title_or_rank": null
+            },
+            "descriptiveTexts": [
+                {
+                    "text": "1774: Johann Adam Birkenstock wird erstmals im kirchlichen Archiv der Stadt Langen-Bergheim/Hessen\u202fals Schumacher und Untertan genannt."
+                }
+            ],
+            "occupations": [],
+            "directQuotes": [],
+            "quotedInTitle": false,
+            "quotedInIntro": false
+        },
+        {
+            "name": "Oliver Reichert",
+            "alternativeNames": [],
+            "age": 52,
+            "sex": "male",
+            "occurences": {
+                "total": 6,
+                "firstNameOnly": 0,
+                "lastNameOnly": 1,
+                "fullName": 5,
+                "nickname": 0
+            },
+            "inTitle": false,
+            "inIntro": false,
+            "_name": {
+                "firstname": "Oliver",
+                "lastname": "Reichert",
+                "nickname": null,
+                "alternative_names": [],
+                "academic_title": null,
+                "nobility_title_or_rank": null
+            },
+            "descriptiveTexts": [
+                {
+                    "text": "Lesen Sie hier in der Chronologie der fast 250-j\u00e4hrigen wechselvollen Firmengeschichte, wie es zum Aufstieg des Schuhherstellers kam."
+                },
+                {
+                    "text": "Die Leitung der Gruppe wird im Zuge der Neustrukturierung Ende 2012 in die H\u00e4nde eines F\u00fchrungsteams gelegt, das erstmals nicht aus dem Kreise der Familie stammt: Oliver Reichert (heute 52) und Markus Bensberg leiten den Konzern in Doppelspitze."
+                },
+                {
+                    "text": "Reichert war zuvor jahrelang f\u00fcr den fr\u00fcheren Sportsender DSF t\u00e4tig."
+                },
+                {
+                    "text": "Alleiniger CEO der Birkenstock-Gruppe ist ab Ende Mai Oliver Reichert."
+                },
+                {
+                    "text": "Lesen Sie hier mehr \u00fcber die Luxusstrategie des Birkenstock-Chefs Oliver Reichert."
+                },
+                {
+                    "text": "Er sollte bis zu 1,6 Milliarden Dollar einspielen, lautete der Plan."
+                },
+                {
+                    "text": "Vorstandschef Oliver Reichert sprach vom erfolgreichsten Jahr in der 250-j\u00e4hrigen Firmengeschichte."
+                },
+                {
+                    "text": "F\u00fcr das Gesamtjahr rechnet Chef Oliver Reichert mit einem Umsatz zwischen 1,77 und 1,78 Milliarden Euro."
+                }
+            ],
+            "occupations": [
+                {
+                    "text": "F\u00fchrungsteams"
+                },
+                {
+                    "text": "CEO"
+                }
+            ],
+            "directQuotes": [],
+            "quotedInTitle": false,
+            "quotedInIntro": false
+        },
+        {
+            "name": "Stephan Birkenstock",
+            "alternativeNames": [],
+            "age": 56,
+            "sex": "male",
+            "occurences": {
+                "total": 3,
+                "firstNameOnly": 1,
+                "lastNameOnly": 0,
+                "fullName": 2,
+                "nickname": 0
+            },
+            "inTitle": false,
+            "inIntro": false,
+            "_name": {
+                "firstname": "Stephan",
+                "lastname": "Birkenstock",
+                "nickname": null,
+                "alternative_names": [],
+                "academic_title": null,
+                "nobility_title_or_rank": null
+            },
+            "descriptiveTexts": [
+                {
+                    "text": "1990: Stephan Birkenstock (heute 56), der \u00e4lteste Sohn, tritt ebenfalls in das Unternehmen ein."
+                },
+                {
+                    "text": "Im selben Jahr verkauft Stephan Birkenstock seinen Anteil am Unternehmen an seine beiden Br\u00fcder f\u00fcr einen unbekannten Betrag."
+                }
+            ],
+            "occupations": [],
+            "directQuotes": [],
+            "quotedInTitle": false,
+            "quotedInIntro": false
+        },
+        {
+            "name": "Frances McDormand",
+            "alternativeNames": [],
+            "age": 66,
+            "sex": "female",
+            "occurences": {
+                "total": 1,
+                "firstNameOnly": 0,
+                "lastNameOnly": 0,
+                "fullName": 1,
+                "nickname": 0
+            },
+            "inTitle": false,
+            "inIntro": false,
+            "_name": {
+                "firstname": "Frances",
+                "lastname": "McDormand",
+                "nickname": null,
+                "alternative_names": [],
+                "academic_title": null,
+                "nobility_title_or_rank": null
+            },
+            "descriptiveTexts": [
+                {
+                    "text": "2019: Die Schauspielerin Frances McDormand (66) tr\u00e4gt bei der Oscarverleihung Birkenstocks."
+                }
+            ],
+            "occupations": [
+                {
+                    "text": "Schauspielerin"
+                }
+            ],
+            "directQuotes": [],
+            "quotedInTitle": false,
+            "quotedInIntro": false
+        },
+        {
+            "name": "Bernard Arnault",
+            "alternativeNames": [],
+            "age": 74,
+            "sex": "male",
+            "occurences": {
+                "total": 1,
+                "firstNameOnly": 0,
+                "lastNameOnly": 0,
+                "fullName": 1,
+                "nickname": 0
+            },
+            "inTitle": false,
+            "inIntro": false,
+            "_name": {
+                "firstname": "Bernard",
+                "lastname": "Arnault",
+                "nickname": null,
+                "alternative_names": [],
+                "academic_title": null,
+                "nobility_title_or_rank": null
+            },
+            "descriptiveTexts": [
+                {
+                    "text": "Etwa zwei Drittel davon gehen an den Haupteigent\u00fcmer L Catterton, der mit dem Luxuskonzern LVMH und dessen milliardenschwerem Chef Bernard Arnault (74) verbandelt ist."
+                }
+            ],
+            "occupations": [],
+            "directQuotes": [],
+            "quotedInTitle": false,
+            "quotedInIntro": false
+        },
+        {
+            "name": "Carl Birkenstock",
+            "alternativeNames": [],
+            "age": -1,
+            "sex": "male",
+            "occurences": {
+                "total": 3,
+                "firstNameOnly": 1,
+                "lastNameOnly": 0,
+                "fullName": 2,
+                "nickname": 0
+            },
+            "inTitle": false,
+            "inIntro": false,
+            "_name": {
+                "firstname": "Carl",
+                "lastname": "Birkenstock",
+                "nickname": null,
+                "alternative_names": [],
+                "academic_title": null,
+                "nobility_title_or_rank": null
+            },
+            "descriptiveTexts": [
+                {
+                    "text": "1932: Carl Birkenstock beginnt Fachkurse in Sachen Fu\u00dfbett zu geben."
+                },
+                {
+                    "text": "Er versucht sich an einem kompletten Schuh, der das \"naturgewollte Gehen\" erm\u00f6glichen sollte, wie er es nannte."
+                },
+                {
+                    "text": "1947: Das Fachbuch \"Fu\u00dforthop\u00e4die \u2013 System Carl Birkenstock\" erscheint mit einer Auflage von 14.000 Exemplaren."
+                }
+            ],
+            "occupations": [],
+            "directQuotes": [
+                {
+                    "text": "naturgewollte Gehen"
+                }
+            ],
+            "quotedInTitle": false,
+            "quotedInIntro": false
+        },
+        {
+            "name": "Susanne Birkenstock",
+            "alternativeNames": [],
+            "age": -1,
+            "sex": "female",
+            "occurences": {
+                "total": 4,
+                "firstNameOnly": 1,
+                "lastNameOnly": 0,
+                "fullName": 3,
+                "nickname": 0
+            },
+            "inTitle": false,
+            "inIntro": false,
+            "_name": {
+                "firstname": "Susanne",
+                "lastname": "Birkenstock",
+                "nickname": null,
+                "alternative_names": [],
+                "academic_title": null,
+                "nobility_title_or_rank": null
+            },
+            "descriptiveTexts": [
+                {
+                    "text": "2004: Eine Familienfehde beginnt: Susanne Birkenstock, Ex-Frau des Schuherben Christian\u202fBirkenstock, gr\u00fcndet das Schuhunternehmen SB International und will damit Birkenstock Konkurrenz machen."
+                },
+                {
+                    "text": "Sie vertreibt die Schuhe ebenfalls unter dem Namen \"Birkenstock\"."
+                },
+                {
+                    "text": "2005: Der Rechtsstreit um Markenrechte zwischen Susanne Birkenstock und ihrem Ex-Ehemann, dessen Br\u00fcdern und den Gesch\u00e4ftsf\u00fchrern des Sandalenherstellers wird beigelegt."
+                },
+                {
+                    "text": "2006: Susanne Birkenstock meldet f\u00fcr SB International Insolvenz an."
+                }
+            ],
+            "occupations": [],
+            "directQuotes": [],
+            "quotedInTitle": false,
+            "quotedInIntro": false
+        },
+        {
+            "name": "John Cena",
+            "alternativeNames": [],
+            "age": -1,
+            "sex": "male",
+            "occurences": {
+                "total": 1,
+                "firstNameOnly": 0,
+                "lastNameOnly": 0,
+                "fullName": 1,
+                "nickname": 0
+            },
+            "inTitle": false,
+            "inIntro": false,
+            "_name": {
+                "firstname": "John",
+                "lastname": "Cena",
+                "nickname": null,
+                "alternative_names": [],
+                "academic_title": null,
+                "nobility_title_or_rank": null
+            },
+            "descriptiveTexts": [
+                {
+                    "text": "\nM\u00e4rz 2024: Bei der Oscar-Verleihung macht John Cena die Sandale von Birkenstock zum Hingucker."
+                },
+                {
+                    "text": "Der US-amerikanische Wrestler und Schauspieler trat nackt auf die B\u00fchne, einzig an den F\u00fc\u00dfen trug er Birkenstocks."
+                }
+            ],
+            "occupations": [
+                {
+                    "text": "Wrestler und Schauspieler"
+                }
+            ],
+            "directQuotes": [],
+            "quotedInTitle": false,
+            "quotedInIntro": false
+        },
+        {
+            "name": "Alex Birkenstock",
+            "alternativeNames": [],
+            "age": 54,
+            "sex": "male",
+            "occurences": {
+                "total": 4,
+                "firstNameOnly": 2,
+                "lastNameOnly": 0,
+                "fullName": 2,
+                "nickname": 0
+            },
+            "inTitle": false,
+            "inIntro": false,
+            "_name": {
+                "firstname": "Alex",
+                "lastname": "Birkenstock",
+                "nickname": null,
+                "alternative_names": [],
+                "academic_title": null,
+                "nobility_title_or_rank": null
+            },
+            "descriptiveTexts": [
+                {
+                    "text": "1984: Alex Birkenstock (heute 54), der zweit\u00e4lteste der drei S\u00f6hne Karl Birkenstocks, tritt in das Unternehmen ein."
+                },
+                {
+                    "text": "Markus Bensberg scheidet aus der Gesch\u00e4ftsf\u00fchrung von Birkenstock aus und widmet sich den Family-Offices von Alex Birkenstock."
+                }
+            ],
+            "occupations": [
+                {
+                    "text": "Sohn von Karl Birkenstock"
+                }
+            ],
+            "directQuotes": [],
+            "quotedInTitle": false,
+            "quotedInIntro": false
+        },
+        {
+            "name": "Christian Birkenstock",
+            "alternativeNames": [],
+            "age": 54,
+            "sex": "male",
+            "occurences": {
+                "total": 4,
+                "firstNameOnly": 3,
+                "lastNameOnly": 0,
+                "fullName": 1,
+                "nickname": 0
+            },
+            "inTitle": false,
+            "inIntro": false,
+            "_name": {
+                "firstname": "Christian",
+                "lastname": "Birkenstock",
+                "nickname": null,
+                "alternative_names": [],
+                "academic_title": null,
+                "nobility_title_or_rank": null
+            },
+            "descriptiveTexts": [
+                {
+                    "text": "Christian Birkenstock (heute 50), der j\u00fcngste Sohn von Karl Birkenstock, beginnt seine Mitarbeit im Unternehmen."
+                }
+            ],
+            "occupations": [],
+            "directQuotes": [],
+            "quotedInTitle": false,
+            "quotedInIntro": false
+        },
+        {
+            "name": "Megyn Kelly",
+            "alternativeNames": [],
+            "age": -1,
+            "sex": "female",
+            "occurences": {
+                "total": 1,
+                "firstNameOnly": 0,
+                "lastNameOnly": 0,
+                "fullName": 1,
+                "nickname": 0
+            },
+            "inTitle": false,
+            "inIntro": false,
+            "_name": {
+                "firstname": "Megyn",
+                "lastname": "Kelly",
+                "nickname": null,
+                "alternative_names": [],
+                "academic_title": null,
+                "nobility_title_or_rank": null
+            },
+            "descriptiveTexts": [
+                {
+                    "text": "2016: Nachdem Fox-Nachrichtenmoderatorin Megyn Kelly den linken Politiker Bernie Sanders (81) versehentlich \"Bernie Sandals\" nennt, werden die Sandalen unter dessen Anh\u00e4ngern noch popul\u00e4rer."
+                }
+            ],
+            "occupations": [],
+            "directQuotes": [],
+            "quotedInTitle": false,
+            "quotedInIntro": false
+        },
+        {
+            "name": "Hitler",
+            "alternativeNames": [],
+            "age": -1,
+            "sex": "male",
+            "occurences": {
+                "total": 1,
+                "firstNameOnly": 0,
+                "lastNameOnly": 0,
+                "fullName": 1,
+                "nickname": 0
+            },
+            "inTitle": false,
+            "inIntro": false,
+            "_name": {
+                "firstname": null,
+                "lastname": "Hitler",
+                "nickname": null,
+                "alternative_names": [],
+                "academic_title": null,
+                "nobility_title_or_rank": null
+            },
+            "descriptiveTexts": [
+                {
+                    "text": "Das Unternehmen betont: Weder die Firma noch Mitglieder der Familie Birkenstock h\u00e4tten sich an den Arisierungen unter Hitlers Regime beteiligt."
+                },
+                {
+                    "text": "Als \"Jute statt Plastik\"-Sandalen wurden sie in den USA zum Symbol f\u00fcr den Widerstand gegen die Regierung im Kalten Krieg."
+                },
+                {
+                    "text": "In Deutschland waren sie lange Zeit Symbol linksgr\u00fcner Weltanschauung."
+                }
+            ],
+            "occupations": [
+                {
+                    "text": "Politiker"
+                }
+            ],
+            "directQuotes": [],
+            "quotedInTitle": false,
+            "quotedInIntro": false
+        },
+        {
+            "name": "C\u00e9line",
+            "alternativeNames": [],
+            "age": -1,
+            "sex": "female",
+            "occurences": {
+                "total": 1,
+                "firstNameOnly": 0,
+                "lastNameOnly": 0,
+                "fullName": 1,
+                "nickname": 0
+            },
+            "inTitle": false,
+            "inIntro": false,
+            "_name": {
+                "firstname": null,
+                "lastname": "C\u00e9line",
+                "nickname": null,
+                "alternative_names": [],
+                "academic_title": null,
+                "nobility_title_or_rank": null
+            },
+            "descriptiveTexts": [
+                {
+                    "text": "Als \"Jute statt Plastik\"-Sandalen wurden sie in den USA zum Symbol f\u00fcr den Widerstand gegen die Regierung im Kalten Krieg."
+                },
+                {
+                    "text": "In Deutschland waren sie lange Zeit Symbol linksgr\u00fcner Weltanschauung."
+                },
+                {
+                    "text": "Mittlerweile arbeitet Birkenstock mit Labels wie Dior, Manolo Blahnik, C\u00e9line, Givenchy und Valentino zusammen."
+                }
+            ],
+            "occupations": [],
+            "directQuotes": [],
+            "quotedInTitle": false,
+            "quotedInIntro": false
+        },
+        {
+            "name": "Kate Moss",
+            "alternativeNames": [],
+            "age": -1,
+            "sex": "female",
+            "occurences": {
+                "total": 1,
+                "firstNameOnly": 0,
+                "lastNameOnly": 0,
+                "fullName": 1,
+                "nickname": 0
+            },
+            "inTitle": false,
+            "inIntro": false,
+            "_name": {
+                "firstname": "Kate",
+                "lastname": "Moss",
+                "nickname": null,
+                "alternative_names": [],
+                "academic_title": null,
+                "nobility_title_or_rank": null
+            },
+            "descriptiveTexts": [
+                {
+                    "text": "Model Kate Moss zeigt sich erstmals in Birkenstock-Sandalen."
+                }
+            ],
+            "occupations": [
+                {
+                    "text": "Model"
+                }
+            ],
+            "directQuotes": [],
+            "quotedInTitle": false,
+            "quotedInIntro": false
+        },
+        {
+            "name": "Karl",
+            "alternativeNames": [],
+            "age": -1,
+            "sex": "male",
+            "occurences": {
+                "total": 4,
+                "firstNameOnly": 0,
+                "lastNameOnly": 0,
+                "fullName": 4,
+                "nickname": 0
+            },
+            "inTitle": false,
+            "inIntro": false,
+            "_name": {
+                "firstname": "Karl",
+                "lastname": null,
+                "nickname": null,
+                "alternative_names": [],
+                "academic_title": null,
+                "nobility_title_or_rank": null
+            },
+            "descriptiveTexts": [
+                {
+                    "text": "1963: Karl Birkenstock bringt die erste Birkenstock-Sandale auf den Markt: die Gymnastiksandale, die erst sp\u00e4ter (ab 1979) den Modellnamen \"Madrid\" erh\u00e4lt."
+                },
+                {
+                    "text": "1984: Alex Birkenstock (heute 54), der zweit\u00e4lteste der drei S\u00f6hne Karl Birkenstocks, tritt in das Unternehmen ein."
+                },
+                {
+                    "text": "Christian Birkenstock (heute 50), der j\u00fcngste Sohn von Karl Birkenstock, beginnt seine Mitarbeit im Unternehmen."
+                },
+                {
+                    "text": "1996: Birkenstock ger\u00e4t in die Schlagzeilen, da Patriarch Karl die Gr\u00fcndung eines Betriebsrates in seinem Unternehmen mit allen Mitteln bek\u00e4mpft \u2013 bis hin zur Schlie\u00dfung und Neugr\u00fcndung einzelner Betriebe und der Zuweisung einfachster Arbeiten f\u00fcr Betriebsratsanh\u00e4nger."
+                }
+            ],
+            "occupations": [
+                {
+                    "text": "Symbol der Friedens- und Gegenbewegung"
+                }
+            ],
+            "directQuotes": [],
+            "quotedInTitle": false,
+            "quotedInIntro": false
+        },
+        {
+            "name": "Tyra Banks",
+            "alternativeNames": [],
+            "age": -1,
+            "sex": "female",
+            "occurences": {
+                "total": 1,
+                "firstNameOnly": 0,
+                "lastNameOnly": 0,
+                "fullName": 1,
+                "nickname": 0
+            },
+            "inTitle": false,
+            "inIntro": false,
+            "_name": {
+                "firstname": "Tyra",
+                "lastname": "Banks",
+                "nickname": null,
+                "alternative_names": [],
+                "academic_title": null,
+                "nobility_title_or_rank": null
+            },
+            "descriptiveTexts": [
+                {
+                    "text": "1993: Model Tyra Banks l\u00e4uft in Birkenstocks f\u00fcr Marc Jacobs legend\u00e4re \"Grunge-Kollektion\" \u00fcber den Laufsteg, die der Designer f\u00fcr das Label Perry Ellis entworfen hatte."
+                }
+            ],
+            "occupations": [
+                {
+                    "text": "Model"
+                }
+            ],
+            "directQuotes": [],
+            "quotedInTitle": false,
+            "quotedInIntro": false
+        },
+        {
+            "name": "Markus Bensberg",
+            "alternativeNames": [],
+            "age": -1,
+            "sex": "male",
+            "occurences": {
+                "total": 2,
+                "firstNameOnly": 0,
+                "lastNameOnly": 0,
+                "fullName": 2,
+                "nickname": 0
+            },
+            "inTitle": false,
+            "inIntro": false,
+            "_name": {
+                "firstname": "Markus",
+                "lastname": "Bensberg",
+                "nickname": null,
+                "alternative_names": [],
+                "academic_title": null,
+                "nobility_title_or_rank": null
+            },
+            "descriptiveTexts": [
+                {
+                    "text": "Die Leitung der Gruppe wird im Zuge der Neustrukturierung Ende 2012 in die H\u00e4nde eines F\u00fchrungsteams gelegt, das erstmals nicht aus dem Kreise der Familie stammt: Oliver Reichert (heute 52) und Markus Bensberg leiten den Konzern in Doppelspitze."
+                },
+                {
+                    "text": "Markus Bensberg scheidet aus der Gesch\u00e4ftsf\u00fchrung von Birkenstock aus und widmet sich den Family-Offices von Alex Birkenstock."
+                }
+            ],
+            "occupations": [],
+            "directQuotes": [],
+            "quotedInTitle": false,
+            "quotedInIntro": false
+        },
+        {
+            "name": "Manolo Blahnik",
+            "alternativeNames": [],
+            "age": -1,
+            "sex": "male",
+            "occurences": {
+                "total": 1,
+                "firstNameOnly": 0,
+                "lastNameOnly": 0,
+                "fullName": 1,
+                "nickname": 0
+            },
+            "inTitle": false,
+            "inIntro": false,
+            "_name": {
+                "firstname": "Manolo",
+                "lastname": "Blahnik",
+                "nickname": null,
+                "alternative_names": [],
+                "academic_title": null,
+                "nobility_title_or_rank": null
+            },
+            "descriptiveTexts": [
+                {
+                    "text": "Mittlerweile arbeitet Birkenstock mit Labels wie Dior, Manolo Blahnik, C\u00e9line, Givenchy und Valentino zusammen."
+                }
+            ],
+            "occupations": [],
+            "directQuotes": [],
+            "quotedInTitle": false,
+            "quotedInIntro": false
+        },
+        {
+            "name": "Margot Fraser",
+            "alternativeNames": [],
+            "age": -1,
+            "sex": "female",
+            "occurences": {
+                "total": 2,
+                "firstNameOnly": 0,
+                "lastNameOnly": 0,
+                "fullName": 2,
+                "nickname": 0
+            },
+            "inTitle": false,
+            "inIntro": false,
+            "_name": {
+                "firstname": "Margot",
+                "lastname": "Fraser",
+                "nickname": null,
+                "alternative_names": [],
+                "academic_title": null,
+                "nobility_title_or_rank": null
+            },
+            "descriptiveTexts": [
+                {
+                    "text": "Margot Fraser, eine Deutsch-Amerikanerin, hatte den Schuh bei einem Aufenthalt in Deutschland entdeckt."
+                },
+                {
+                    "text": "In der Folge baute sie den Vertrieb von Kalifornien aus in den USA auf, wo sie von 1966 an verkauft werden."
+                },
+                {
+                    "text": "2007: Birkenstock Orthop\u00e4die GmbH \u00fcbernimmt den langj\u00e4hrigen Vertriebspartner Birkenstock Distribution USA, den die US-Amerikanerin Margot Fraser urspr\u00fcnglich aufgebaut hatte."
+                }
+            ],
+            "occupations": [],
+            "directQuotes": [],
+            "quotedInTitle": false,
+            "quotedInIntro": false
+        },
+        {
+            "name": "Valentino",
+            "alternativeNames": [],
+            "age": -1,
+            "sex": "male",
+            "occurences": {
+                "total": 1,
+                "firstNameOnly": 0,
+                "lastNameOnly": 0,
+                "fullName": 1,
+                "nickname": 0
+            },
+            "inTitle": false,
+            "inIntro": false,
+            "_name": {
+                "firstname": null,
+                "lastname": "Valentino",
+                "nickname": null,
+                "alternative_names": [],
+                "academic_title": null,
+                "nobility_title_or_rank": null
+            },
+            "descriptiveTexts": [
+                {
+                    "text": "Als \"Jute statt Plastik\"-Sandalen wurden sie in den USA zum Symbol f\u00fcr den Widerstand gegen die Regierung im Kalten Krieg."
+                },
+                {
+                    "text": "In Deutschland waren sie lange Zeit Symbol linksgr\u00fcner Weltanschauung."
+                },
+                {
+                    "text": "Mittlerweile arbeitet Birkenstock mit Labels wie Dior, Manolo Blahnik, C\u00e9line, Givenchy und Valentino zusammen."
+                }
+            ],
+            "occupations": [
+                {
+                    "text": "Designer"
+                }
+            ],
+            "directQuotes": [],
+            "quotedInTitle": false,
+            "quotedInIntro": false
+        },
+        {
+            "name": "Schumacher",
+            "alternativeNames": [],
+            "age": -1,
+            "sex": "male",
+            "occurences": {
+                "total": 1,
+                "firstNameOnly": 0,
+                "lastNameOnly": 0,
+                "fullName": 1,
+                "nickname": 0
+            },
+            "inTitle": false,
+            "inIntro": false,
+            "_name": {
+                "firstname": null,
+                "lastname": "Schumacher",
+                "nickname": null,
+                "alternative_names": [],
+                "academic_title": null,
+                "nobility_title_or_rank": null
+            },
+            "descriptiveTexts": [
+                {
+                    "text": "1774: Johann Adam Birkenstock wird erstmals im kirchlichen Archiv der Stadt Langen-Bergheim/Hessen\u202fals Schumacher und Untertan genannt."
+                },
+                {
+                    "text": "Als \"Jute statt Plastik\"-Sandalen wurden sie in den USA zum Symbol f\u00fcr den Widerstand gegen die Regierung im Kalten Krieg."
+                },
+                {
+                    "text": "In Deutschland waren sie lange Zeit Symbol linksgr\u00fcner Weltanschauung."
+                }
+            ],
+            "occupations": [
+                {
+                    "text": "Schumacher"
+                }
+            ],
+            "directQuotes": [],
+            "quotedInTitle": false,
+            "quotedInIntro": false
+        },
+        {
+            "name": "Marc Jacobs",
+            "alternativeNames": [],
+            "age": -1,
+            "sex": "male",
+            "occurences": {
+                "total": 1,
+                "firstNameOnly": 0,
+                "lastNameOnly": 0,
+                "fullName": 1,
+                "nickname": 0
+            },
+            "inTitle": false,
+            "inIntro": false,
+            "_name": {
+                "firstname": "Marc",
+                "lastname": "Jacobs",
+                "nickname": null,
+                "alternative_names": [],
+                "academic_title": null,
+                "nobility_title_or_rank": null
+            },
+            "descriptiveTexts": [
+                {
+                    "text": "1993: Model Tyra Banks l\u00e4uft in Birkenstocks f\u00fcr Marc Jacobs legend\u00e4re \"Grunge-Kollektion\" \u00fcber den Laufsteg, die der Designer f\u00fcr das Label Perry Ellis entworfen hatte."
+                }
+            ],
+            "occupations": [
+                {
+                    "text": "Designer"
+                }
+            ],
+            "directQuotes": [],
+            "quotedInTitle": false,
+            "quotedInIntro": false
+        },
+        {
+            "name": "Steve Jobs",
+            "alternativeNames": [],
+            "age": -1,
+            "sex": "male",
+            "occurences": {
+                "total": 1,
+                "firstNameOnly": 0,
+                "lastNameOnly": 0,
+                "fullName": 1,
+                "nickname": 0
+            },
+            "inTitle": false,
+            "inIntro": false,
+            "_name": {
+                "firstname": "Steve",
+                "lastname": "Jobs",
+                "nickname": null,
+                "alternative_names": [],
+                "academic_title": null,
+                "nobility_title_or_rank": null
+            },
+            "descriptiveTexts": [
+                {
+                    "text": "Die Versteigerung von Steve Jobs Birkenstock-Schuhen des Typs \"Arizona\" bringt mehr als 200.000 Dollar ein."
+                }
+            ],
+            "occupations": [],
+            "directQuotes": [],
+            "quotedInTitle": false,
+            "quotedInIntro": false
+        }
+    ]
+}

@@ -1,0 +1,423 @@
+{
+    "persons": [
+        {
+            "name": "Paul Heggarty",
+            "alternativeNames": [],
+            "age": -1,
+            "sex": "male",
+            "occurences": {
+                "total": 3,
+                "firstNameOnly": 0,
+                "lastNameOnly": 2,
+                "fullName": 1,
+                "nickname": 0
+            },
+            "inTitle": false,
+            "inIntro": false,
+            "_name": {
+                "firstname": "Paul",
+                "lastname": "Heggarty",
+                "nickname": null,
+                "alternative_names": [],
+                "academic_title": null,
+                "nobility_title_or_rank": null
+            },
+            "descriptiveTexts": [
+                {
+                    "text": "Ein Team um den Linguisten Paul Heggarty vom Max-Planck-Institut f\u00fcr Geoanthropologie in Jena analysierte mehr als 100 moderne und 52 historische Sprachen auf verwandte Worturspr\u00fcnge, in Verbindung mit Untersuchungen von DNA-Proben aus arch\u00e4ologischen Gr\u00e4berfeldern."
+                },
+                {
+                    "text": "\u00bbDie Steppen-Hypothese kann also nicht die ganze Geschichte gewesen sein\u00ab, sagt Heggarty."
+                },
+                {
+                    "text": "\u00bbDie germanischen, keltischen, italischen und balto-slawischen Sprachen gehen vermutlich in erster Linie auf Bewohner der Steppen zur\u00fcck\u00ab, so Heggarty."
+                }
+            ],
+            "occupations": [
+                {
+                    "text": "Die Steppen-Hypothese kann also nicht die ganze Geschichte gewesen sein"
+                },
+                {
+                    "text": "Linguist"
+                }
+            ],
+            "directQuotes": [
+                {
+                    "text": "Die Steppen-Hypothese kann also nicht die ganze Geschichte gewesen sein"
+                },
+                {
+                    "text": "Die germanischen, keltischen, italischen und balto-slawischen Sprachen gehen vermutlich in erster Linie auf Bewohner der Steppen zur\u00fcck"
+                },
+                {
+                    "text": "Urspr\u00fcnglich aber lag ihre Heimat s\u00fcdlich des Kaukasus."
+                }
+            ],
+            "quotedInTitle": false,
+            "quotedInIntro": false
+        },
+        {
+            "name": "Merritt Ruhlen",
+            "alternativeNames": [],
+            "age": -1,
+            "sex": "male",
+            "occurences": {
+                "total": 3,
+                "firstNameOnly": 0,
+                "lastNameOnly": 2,
+                "fullName": 1,
+                "nickname": 0
+            },
+            "inTitle": false,
+            "inIntro": false,
+            "_name": {
+                "firstname": "Merritt",
+                "lastname": "Ruhlen",
+                "nickname": null,
+                "alternative_names": [],
+                "academic_title": null,
+                "nobility_title_or_rank": null
+            },
+            "descriptiveTexts": [
+                {
+                    "text": "Einer seiner Sch\u00fcler, Merritt Ruhlen, trieb diesen Ansatz noch weiter und kam in den Neunzigerjahren zur \u00dcberzeugung, es m\u00fcsse eine gemeinsame Wurzel aller Sprachen gegeben haben."
+                },
+                {
+                    "text": "Ruhlen hielt es sogar f\u00fcr m\u00f6glich, Teile des Urvokabulars zu rekonstruieren."
+                },
+                {
+                    "text": "Er war in Afrika, Eurasien, Australien und S\u00fcdamerika in v\u00f6llig unterschiedlichen Sprachfamilien auf 27 identische W\u00f6rter gesto\u00dfen, darunter \u00bbtik\u00ab (f\u00fcr \u00bbFinger\u00ab) und \u00bbpal\u00ab (f\u00fcr \u00bbzwei\u00ab)."
+                },
+                {
+                    "text": "Die Begriffe m\u00fcssen Relikte aus der Ursprache Proto-Sapiens sein, folgerte Ruhlen."
+                }
+            ],
+            "occupations": [],
+            "directQuotes": [],
+            "quotedInTitle": false,
+            "quotedInIntro": false
+        },
+        {
+            "name": "Johann Gottfried Herder",
+            "alternativeNames": [],
+            "age": -1,
+            "sex": "male",
+            "occurences": {
+                "total": 1,
+                "firstNameOnly": 0,
+                "lastNameOnly": 0,
+                "fullName": 1,
+                "nickname": 0
+            },
+            "inTitle": false,
+            "inIntro": false,
+            "_name": {
+                "firstname": "Johann Gottfried",
+                "lastname": "Herder",
+                "nickname": null,
+                "alternative_names": [],
+                "academic_title": null,
+                "nobility_title_or_rank": null
+            },
+            "descriptiveTexts": [
+                {
+                    "text": "Der Urmensch sei einem Schaf gegen\u00fcbergestanden, spekulierte der Dichter und Philosoph Johann Gottfried Herder 1772: \u00bbwei\u00df, sanft, wollicht\u00ab."
+                },
+                {
+                    "text": "Er habe ein Merkmal gesucht, um dieses Tier zu beschreiben: \u00bbHa! Du bist das Bl\u00f6kende\u00ab, habe er gedacht \u2013 und das Bl\u00f6ken nachgeahmt."
+                }
+            ],
+            "occupations": [
+                {
+                    "text": "Dichter und Philosoph"
+                }
+            ],
+            "directQuotes": [
+                {
+                    "text": "wei\u00df, sanft, wollicht"
+                },
+                {
+                    "text": "Ha! Du bist das Bl\u00f6kende"
+                }
+            ],
+            "quotedInTitle": false,
+            "quotedInIntro": false
+        },
+        {
+            "name": "Anthony Monaco",
+            "alternativeNames": [],
+            "age": -1,
+            "sex": "male",
+            "occurences": {
+                "total": 1,
+                "firstNameOnly": 0,
+                "lastNameOnly": 0,
+                "fullName": 1,
+                "nickname": 0
+            },
+            "inTitle": false,
+            "inIntro": false,
+            "_name": {
+                "firstname": "Anthony",
+                "lastname": "Monaco",
+                "nickname": null,
+                "alternative_names": [],
+                "academic_title": null,
+                "nobility_title_or_rank": null
+            },
+            "descriptiveTexts": [
+                {
+                    "text": "Vor allem aber, entdeckte der britische Genetiker Anthony Monaco 1998, braucht es eine ma\u00dfgebliche Ver\u00e4nderung im Forkhead-Box-Protein P2, kurz FOXP2."
+                }
+            ],
+            "occupations": [],
+            "directQuotes": [],
+            "quotedInTitle": false,
+            "quotedInIntro": false
+        },
+        {
+            "name": "Friedemann Schrenk",
+            "alternativeNames": [],
+            "age": -1,
+            "sex": "male",
+            "occurences": {
+                "total": 4,
+                "firstNameOnly": 0,
+                "lastNameOnly": 3,
+                "fullName": 1,
+                "nickname": 0
+            },
+            "inTitle": false,
+            "inIntro": false,
+            "_name": {
+                "firstname": "Friedemann",
+                "lastname": "Schrenk",
+                "nickname": null,
+                "alternative_names": [],
+                "academic_title": null,
+                "nobility_title_or_rank": null
+            },
+            "descriptiveTexts": [
+                {
+                    "text": "\u00bbVor zwei Millionen Jahren begannen sich im Gehirn von Fr\u00fchmenschen wie dem Homo erectus die Sprachzentren \u203aBroca\u2039 und \u203aWernicke\u2039 auszupr\u00e4gen\u00ab, sagt der Pal\u00e4oanthropologe Friedemann Schrenk vom Senckenberg Museum in Frankfurt am Main."
+                },
+                {
+                    "text": "Dieses flexible Kommunikationssystem, das Gedanken und Gef\u00fchle aller Art ausdr\u00fccken kann, sei sicher erst deutlich sp\u00e4ter entstanden, so Schrenk: \u00bbWahrscheinlich zu der Zeit, als der Homo sapiens auch erste Kunstwerke erschuf.\u00ab"
+                },
+                {
+                    "text": "Vor etwa 50.000 Jahren \u00e4nderte sich laut Schrenk das Verhaltensrepertoire der Menschen."
+                },
+                {
+                    "text": "\u00bbDie Handwerker und K\u00fcnstler der Steinzeit d\u00fcrften bereits ein Bild der Ger\u00e4tschaften oder H\u00f6hlengem\u00e4lde im Kopf haben, bevor sie ihre Ideen umsetzten\u00ab, sagt Schrenk."
+                }
+            ],
+            "occupations": [
+                {
+                    "text": "Pal\u00e4oanthropologe"
+                }
+            ],
+            "directQuotes": [
+                {
+                    "text": "Proto-Sapiens"
+                },
+                {
+                    "text": "Vor zwei Millionen Jahren begannen sich im Gehirn von Fr\u00fchmenschen wie dem Homo erectus die Sprachzentren \u203aBroca\u2039 und \u203aWernicke\u2039 auszupr\u00e4gen"
+                },
+                {
+                    "text": "Wahrscheinlich zu der Zeit, als der Homo sapiens auch erste Kunstwerke erschuf."
+                },
+                {
+                    "text": "Die Handwerker und K\u00fcnstler der Steinzeit d\u00fcrften bereits ein Bild der Ger\u00e4tschaften oder H\u00f6hlengem\u00e4lde im Kopf haben, bevor sie ihre Ideen umsetzten"
+                },
+                {
+                    "text": "vielleicht auch die entscheidende Voraussetzung f\u00fcr die Entwicklung von Sprache gewesen"
+                }
+            ],
+            "quotedInTitle": false,
+            "quotedInIntro": false
+        },
+        {
+            "name": "Psammetich I.",
+            "alternativeNames": [],
+            "age": -1,
+            "sex": "male",
+            "occurences": {
+                "total": 41,
+                "firstNameOnly": 2,
+                "lastNameOnly": 39,
+                "fullName": 0,
+                "nickname": 0
+            },
+            "inTitle": false,
+            "inIntro": false,
+            "_name": {
+                "firstname": "Psammetich",
+                "lastname": "I.",
+                "nickname": null,
+                "alternative_names": [],
+                "academic_title": null,
+                "nobility_title_or_rank": null
+            },
+            "descriptiveTexts": [
+                {
+                    "text": "Auf der Suche nach der Mutter aller Sprachen kamen sie verbl\u00fcffend weit \u2013 aber auch an ihre Grenzen."
+                },
+                {
+                    "text": "Doch als Gott wahrnimmt, dass die Menschen einen Turm bauen wollen \u00bbmit einer Spitze bis in den Himmel\u00ab, da beginnt er, seine Gesch\u00f6pfe als Konkurrenz zu f\u00fcrchten."
+                },
+                {
+                    "text": "So zerstreut er die Menschen \u00fcber die ganze Erde und nennt ihre Stadt Babel, \u00bbWirrsal\u00ab."
+                },
+                {
+                    "text": "Bereits der \u00e4gyptische Pharao Psammetich I. wollte ergr\u00fcnden, ob die Phryger oder die \u00c4gypter das \u00e4lteste Volk der Erde waren."
+                },
+                {
+                    "text": "Vor etwa 3000 Jahren lie\u00df er einen Hirten zwei Babys isoliert aufziehen, ohne je ein Wort an sie zu richten, so die Legende."
+                },
+                {
+                    "text": "Die Phryger seien also die \u00e4lteste Kultur, folgerte Psammetich, nicht die \u00c4gypter."
+                },
+                {
+                    "text": "In j\u00fcngster Zeit haben Fortschritte in der Bioinformatik die sprachhistorische Forschung befl\u00fcgelt."
+                }
+            ],
+            "occupations": [
+                {
+                    "text": "Pharao"
+                }
+            ],
+            "directQuotes": [],
+            "quotedInTitle": false,
+            "quotedInIntro": false
+        },
+        {
+            "name": "Gerhard J\u00e4ger",
+            "alternativeNames": [],
+            "age": -1,
+            "sex": "male",
+            "occurences": {
+                "total": 5,
+                "firstNameOnly": 0,
+                "lastNameOnly": 0,
+                "fullName": 5,
+                "nickname": 0
+            },
+            "inTitle": false,
+            "inIntro": false,
+            "_name": {
+                "firstname": "Gerhard",
+                "lastname": "J\u00e4ger",
+                "nickname": null,
+                "alternative_names": [],
+                "academic_title": null,
+                "nobility_title_or_rank": null
+            },
+            "descriptiveTexts": [
+                {
+                    "text": "\u00bbAuf \u00e4hnliche Weise versuchte man schon fr\u00fch, auch die Sprachvielfalt zu ordnen\u00ab, sagt der Linguist Gerhard J\u00e4ger von der Universit\u00e4t T\u00fcbingen."
+                },
+                {
+                    "text": "\u00bbViele Dutzend W\u00f6rter dieser Fr\u00fchsprache lie\u00dfen sich bereits rekonstruieren\u00ab, so Gerhard J\u00e4ger, neben \u00bbkmtom\u00ab f\u00fcr \u00bbhundert\u00ab etwa \u00bbd\u00e9\u1e31m\u0325t\u00ab als Bezeichnung f\u00fcr \u00bbzehn\u00ab."
+                },
+                {
+                    "text": "\u00bbJe weiter man zur\u00fcckgeht, desto st\u00e4rker nimmt die Laut\u00e4hnlichkeit zwischen den Zweigen einer Sprachfamilie ab\u00ab, sagt Linguist Gerhard J\u00e4ger."
+                },
+                {
+                    "text": "Er h\u00e4lt es f\u00fcr unrealistisch, \u00bbauf diesem Weg Verwandtschaften nachzuweisen, die weiter als 10.000 Jahre zur\u00fcckreichen\u00ab."
+                },
+                {
+                    "text": "\u00bbVor allem au\u00dferhalb der Wissenschaftswelt hat diese Theorie viel Staub aufgewirbelt\u00ab, sagt Gerhard J\u00e4ger."
+                },
+                {
+                    "text": "Bei seinen computergest\u00fctzten Untersuchungen, basierend auf den Grundwortsch\u00e4tzen von rund 4000 Sprachen, stie\u00df er auf keinerlei Sprach\u00e4hnlichkeiten, die \u00e4lter als 10.000 Jahre w\u00e4ren und sich nicht auch durch Sprachkontakte aufgrund von geografischer N\u00e4he erkl\u00e4ren lie\u00dfen."
+                },
+                {
+                    "text": "Gerhard J\u00e4ger winkt ab."
+                }
+            ],
+            "occupations": [
+                {
+                    "text": "Linguist"
+                }
+            ],
+            "directQuotes": [
+                {
+                    "text": "Die Sprache ist erfunden!"
+                },
+                {
+                    "text": "Auf \u00e4hnliche Weise versuchte man schon fr\u00fch, auch die Sprachvielfalt zu ordnen"
+                },
+                {
+                    "text": "Auseinanderdriften"
+                },
+                {
+                    "text": "Viele Dutzend W\u00f6rter dieser Fr\u00fchsprache lie\u00dfen sich bereits rekonstruieren"
+                },
+                {
+                    "text": "zehn"
+                },
+                {
+                    "text": "Je weiter man zur\u00fcckgeht, desto st\u00e4rker nimmt die Laut\u00e4hnlichkeit zwischen den Zweigen einer Sprachfamilie ab"
+                },
+                {
+                    "text": "auf diesem Weg Verwandtschaften nachzuweisen, die weiter als 10.000 Jahre zur\u00fcckreichen"
+                },
+                {
+                    "text": "Vor allem au\u00dferhalb der Wissenschaftswelt hat diese Theorie viel Staub aufgewirbelt"
+                },
+                {
+                    "text": "Aber sie \u00fcberzeugt weder mich noch die meisten anderen Fachleute."
+                },
+                {
+                    "text": "27 identische Worte k\u00f6nnen bei einer sehr gro\u00dfen Stichprobe leicht Zufall sein."
+                },
+                {
+                    "text": "Trotz aller wissenschaftlicher Fortschritte werden wir wohl nie sicher wissen, ob es eine einzelne Ursprache gab"
+                },
+                {
+                    "text": "Geschweige denn, wie sie geklungen hat."
+                }
+            ],
+            "quotedInTitle": false,
+            "quotedInIntro": false
+        },
+        {
+            "name": "Joseph Greenberg",
+            "alternativeNames": [],
+            "age": -1,
+            "sex": "male",
+            "occurences": {
+                "total": 2,
+                "firstNameOnly": 0,
+                "lastNameOnly": 1,
+                "fullName": 1,
+                "nickname": 0
+            },
+            "inTitle": false,
+            "inIntro": false,
+            "_name": {
+                "firstname": "Joseph",
+                "lastname": "Greenberg",
+                "nickname": null,
+                "alternative_names": [],
+                "academic_title": null,
+                "nobility_title_or_rank": null
+            },
+            "descriptiveTexts": [
+                {
+                    "text": "So entdeckte ein Team um den US-amerikanischen Linguisten Joseph Greenberg die vier gro\u00dfen afrikanischen Sprachfamilien Afro-Asiatisch, Niger-Kongo, Nilo-Saharisch und Khoisan."
+                },
+                {
+                    "text": "Zudem stuft Greenberg Eurasiatisch als Makrosprachfamilie ein, die neben Indoeurop\u00e4isch auch Altaisch, Japanisch und Koreanisch umfassen soll."
+                }
+            ],
+            "occupations": [
+                {
+                    "text": "\u00fcberzeugt weder mich noch die meisten anderen Fachleute"
+                }
+            ],
+            "directQuotes": [],
+            "quotedInTitle": false,
+            "quotedInIntro": false
+        }
+    ]
+}

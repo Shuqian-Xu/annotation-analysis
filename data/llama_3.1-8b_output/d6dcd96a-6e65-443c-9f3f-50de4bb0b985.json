@@ -1,0 +1,684 @@
+{
+    "persons": [
+        {
+            "name": "Bob Lee",
+            "alternativeNames": [],
+            "age": 43,
+            "sex": "male",
+            "occurences": {
+                "total": 3,
+                "firstNameOnly": 1,
+                "lastNameOnly": 0,
+                "fullName": 1,
+                "nickname": 1
+            },
+            "inTitle": false,
+            "inIntro": false,
+            "_name": {
+                "firstname": "Bob",
+                "lastname": "Lee",
+                "nickname": "Crazy Bob",
+                "alternative_names": [],
+                "academic_title": null,
+                "nobility_title_or_rank": null
+            },
+            "descriptiveTexts": [
+                {
+                    "text": "Sie waren Alterssitz, Heiratsmarkt, Umschlagplatz f\u00fcr Luxusg\u00fcter."
+                },
+                {
+                    "text": "Nur haben sie daf\u00fcr nicht mal Autos."
+                },
+                {
+                    "text": "Insgesamt, so zeigen es aktuelle Daten, haben sie im Monat M\u00e4rz mit diesen Leerverkaufspositionen auf dem Papier rund 7,2 Milliarden Dollar verdient."
+                },
+                {
+                    "text": "Der tragische Tod im Silicon Valley: Der Gr\u00fcnder und Investor Bob Lee spielte bei der Entwicklung von Googles Betriebssystem Android eine wichtige Rolle und arbeitete eng mit Twitter-Mitgr\u00fcnder Jack Dorsey zusammen."
+                },
+                {
+                    "text": "Zuletzt war er Vorstand einer Kryptoplattform."
+                },
+                {
+                    "text": "Nun ist \"Crazy Bob\" im Alter von 43 Jahren in San Francisco einer t\u00f6dlichen Messerattacke zum Opfer gefallen."
+                },
+                {
+                    "text": "Haben Sie W\u00fcnsche, Anregungen, Informationen, um die wir uns journalistisch k\u00fcmmern sollten?"
+                }
+            ],
+            "occupations": [
+                {
+                    "text": "Gr\u00fcnder und Investor"
+                }
+            ],
+            "directQuotes": [],
+            "quotedInTitle": false,
+            "quotedInIntro": false
+        },
+        {
+            "name": "Ola K\u00e4llenius",
+            "alternativeNames": [],
+            "age": -1,
+            "sex": "male",
+            "occurences": {
+                "total": 1,
+                "firstNameOnly": 0,
+                "lastNameOnly": 0,
+                "fullName": 1,
+                "nickname": 0
+            },
+            "inTitle": false,
+            "inIntro": false,
+            "_name": {
+                "firstname": "Ola",
+                "lastname": "K\u00e4llenius",
+                "nickname": null,
+                "alternative_names": [],
+                "academic_title": null,
+                "nobility_title_or_rank": null
+            },
+            "descriptiveTexts": [
+                {
+                    "text": "Sie waren Alterssitz, Heiratsmarkt, Umschlagplatz f\u00fcr Luxusg\u00fcter."
+                },
+                {
+                    "text": "Nur haben sie daf\u00fcr nicht mal Autos."
+                },
+                {
+                    "text": "Insgesamt, so zeigen es aktuelle Daten, haben sie im Monat M\u00e4rz mit diesen Leerverkaufspositionen auf dem Papier rund 7,2 Milliarden Dollar verdient."
+                },
+                {
+                    "text": "Last Exit Luxus: Unsere aktuelle Titelgeschichte \u00fcber den riskanten 200-Milliarden-B\u00f6rsenplan von Mercedes-Benz-Boss Ola K\u00e4llenius lesen Sie hier."
+                },
+                {
+                    "text": "Haben Sie W\u00fcnsche, Anregungen, Informationen, um die wir uns journalistisch k\u00fcmmern sollten?"
+                }
+            ],
+            "occupations": [
+                {
+                    "text": "Mercedes-Benz-Boss"
+                }
+            ],
+            "directQuotes": [],
+            "quotedInTitle": false,
+            "quotedInIntro": false
+        },
+        {
+            "name": "Viola Keeve",
+            "alternativeNames": [],
+            "age": -1,
+            "sex": "female",
+            "occurences": {
+                "total": 1,
+                "firstNameOnly": 0,
+                "lastNameOnly": 0,
+                "fullName": 1,
+                "nickname": 0
+            },
+            "inTitle": false,
+            "inIntro": false,
+            "_name": {
+                "firstname": "Viola",
+                "lastname": "Keeve",
+                "nickname": null,
+                "alternative_names": [],
+                "academic_title": null,
+                "nobility_title_or_rank": null
+            },
+            "descriptiveTexts": [
+                {
+                    "text": "Sie waren Alterssitz, Heiratsmarkt, Umschlagplatz f\u00fcr Luxusg\u00fcter."
+                },
+                {
+                    "text": "Meine Kollegin Viola Keeve stellt Ihnen die neuen Luftkurorte des 21."
+                }
+            ],
+            "occupations": [],
+            "directQuotes": [],
+            "quotedInTitle": false,
+            "quotedInIntro": false
+        },
+        {
+            "name": "Jeff Bezos",
+            "alternativeNames": [],
+            "age": -1,
+            "sex": "male",
+            "occurences": {
+                "total": 1,
+                "firstNameOnly": 0,
+                "lastNameOnly": 0,
+                "fullName": 1,
+                "nickname": 0
+            },
+            "inTitle": false,
+            "inIntro": false,
+            "_name": {
+                "firstname": "Jeff",
+                "lastname": "Bezos",
+                "nickname": null,
+                "alternative_names": [],
+                "academic_title": null,
+                "nobility_title_or_rank": null
+            },
+            "descriptiveTexts": [
+                {
+                    "text": "Sie waren Alterssitz, Heiratsmarkt, Umschlagplatz f\u00fcr Luxusg\u00fcter."
+                },
+                {
+                    "text": "Nur haben sie daf\u00fcr nicht mal Autos."
+                },
+                {
+                    "text": "Insgesamt, so zeigen es aktuelle Daten, haben sie im Monat M\u00e4rz mit diesen Leerverkaufspositionen auf dem Papier rund 7,2 Milliarden Dollar verdient."
+                },
+                {
+                    "text": "Ostern reloaded: Mit sehr viel Geld versuchen ein paar Superreiche wie Jeff Bezos oder Erwin M\u00fcller einen alten Menschheitstraum zu verwirklichen: den Tod \u00fcberwinden."
+                },
+                {
+                    "text": "Haben Sie W\u00fcnsche, Anregungen, Informationen, um die wir uns journalistisch k\u00fcmmern sollten?"
+                }
+            ],
+            "occupations": [],
+            "directQuotes": [],
+            "quotedInTitle": false,
+            "quotedInIntro": false
+        },
+        {
+            "name": "Mark Mateschitz",
+            "alternativeNames": [],
+            "age": -1,
+            "sex": "male",
+            "occurences": {
+                "total": 1,
+                "firstNameOnly": 0,
+                "lastNameOnly": 0,
+                "fullName": 1,
+                "nickname": 0
+            },
+            "inTitle": false,
+            "inIntro": false,
+            "_name": {
+                "firstname": "Mark",
+                "lastname": "Mateschitz",
+                "nickname": null,
+                "alternative_names": [],
+                "academic_title": null,
+                "nobility_title_or_rank": null
+            },
+            "descriptiveTexts": [
+                {
+                    "text": "Sie waren Alterssitz, Heiratsmarkt, Umschlagplatz f\u00fcr Luxusg\u00fcter."
+                },
+                {
+                    "text": "Nur haben sie daf\u00fcr nicht mal Autos."
+                },
+                {
+                    "text": "Insgesamt, so zeigen es aktuelle Daten, haben sie im Monat M\u00e4rz mit diesen Leerverkaufspositionen auf dem Papier rund 7,2 Milliarden Dollar verdient."
+                },
+                {
+                    "text": "Im goldenen K\u00e4fig: Unser umfangreicher Inside-Report zur Frage, ob der Red-Bull-Erbe Mark Mateschitz den Konzern seines Vaters bewahren kann."
+                },
+                {
+                    "text": "Haben Sie W\u00fcnsche, Anregungen, Informationen, um die wir uns journalistisch k\u00fcmmern sollten?"
+                }
+            ],
+            "occupations": [
+                {
+                    "text": "Red-Bull-Erbe"
+                }
+            ],
+            "directQuotes": [],
+            "quotedInTitle": false,
+            "quotedInIntro": false
+        },
+        {
+            "name": "Volker Wissing",
+            "alternativeNames": [],
+            "age": -1,
+            "sex": "male",
+            "occurences": {
+                "total": 2,
+                "firstNameOnly": 0,
+                "lastNameOnly": 1,
+                "fullName": 1,
+                "nickname": 0
+            },
+            "inTitle": false,
+            "inIntro": false,
+            "_name": {
+                "firstname": "Volker",
+                "lastname": "Wissing",
+                "nickname": null,
+                "alternative_names": [],
+                "academic_title": null,
+                "nobility_title_or_rank": null
+            },
+            "descriptiveTexts": [
+                {
+                    "text": "Sie waren Alterssitz, Heiratsmarkt, Umschlagplatz f\u00fcr Luxusg\u00fcter."
+                },
+                {
+                    "text": "Der l\u00fcckenhafte Fahrradplan f\u00fcr Deutschland: Bundesverkehrsminister Volker Wissing h\u00e4lt Deutschland f\u00fcr \"eine der f\u00fchrenden Fahrradnationen\" Europas."
+                },
+                {
+                    "text": "Mein Kollege Lutz Reiche, selbst eine Legende auf dem Rennrad, beschreibt, wo Wissing bei seiner Fahrradpolitik die Luft ausgeht."
+                }
+            ],
+            "occupations": [
+                {
+                    "text": "Bundesverkehrsminister"
+                }
+            ],
+            "directQuotes": [
+                {
+                    "text": "eine der f\u00fchrenden Fahrradnationen"
+                }
+            ],
+            "quotedInTitle": false,
+            "quotedInIntro": false
+        },
+        {
+            "name": "Stefan Carsten",
+            "alternativeNames": [],
+            "age": -1,
+            "sex": "male",
+            "occurences": {
+                "total": 3,
+                "firstNameOnly": 1,
+                "lastNameOnly": 1,
+                "fullName": 1,
+                "nickname": 0
+            },
+            "inTitle": false,
+            "inIntro": false,
+            "_name": {
+                "firstname": "Stefan",
+                "lastname": "Carsten",
+                "nickname": null,
+                "alternative_names": [],
+                "academic_title": null,
+                "nobility_title_or_rank": null
+            },
+            "descriptiveTexts": [
+                {
+                    "text": "Sie waren Alterssitz, Heiratsmarkt, Umschlagplatz f\u00fcr Luxusg\u00fcter."
+                },
+                {
+                    "text": "Nur haben sie daf\u00fcr nicht mal Autos."
+                },
+                {
+                    "text": "Zulieferer ohne Chef: 17 Jahre lang war Stefan Wolf der CEO des Autozulieferers ElringKlinger \u2013 und im Nebenjob beim Arbeitgeberverband Gesamtmetall zus\u00e4tzlich einer der einflussreichsten Industrielobbyisten der Republik."
+                },
+                {
+                    "text": "Jetzt tritt er unerwartet ab."
+                },
+                {
+                    "text": "Kritiker wie Zukunftsforscher Stefan Carsten k\u00f6nnen allenfalls Mittelma\u00df erkennen."
+                },
+                {
+                    "text": "Carsten hat er im Interview gefragt, wie es besser ginge."
+                }
+            ],
+            "occupations": [],
+            "directQuotes": [],
+            "quotedInTitle": false,
+            "quotedInIntro": false
+        },
+        {
+            "name": "Erwin M\u00fcller",
+            "alternativeNames": [],
+            "age": -1,
+            "sex": "male",
+            "occurences": {
+                "total": 1,
+                "firstNameOnly": 0,
+                "lastNameOnly": 0,
+                "fullName": 1,
+                "nickname": 0
+            },
+            "inTitle": false,
+            "inIntro": false,
+            "_name": {
+                "firstname": "Erwin",
+                "lastname": "M\u00fcller",
+                "nickname": null,
+                "alternative_names": [],
+                "academic_title": null,
+                "nobility_title_or_rank": null
+            },
+            "descriptiveTexts": [
+                {
+                    "text": "Sie waren Alterssitz, Heiratsmarkt, Umschlagplatz f\u00fcr Luxusg\u00fcter."
+                },
+                {
+                    "text": "Nur haben sie daf\u00fcr nicht mal Autos."
+                },
+                {
+                    "text": "Insgesamt, so zeigen es aktuelle Daten, haben sie im Monat M\u00e4rz mit diesen Leerverkaufspositionen auf dem Papier rund 7,2 Milliarden Dollar verdient."
+                },
+                {
+                    "text": "Ostern reloaded: Mit sehr viel Geld versuchen ein paar Superreiche wie Jeff Bezos oder Erwin M\u00fcller einen alten Menschheitstraum zu verwirklichen: den Tod \u00fcberwinden."
+                },
+                {
+                    "text": "Haben Sie W\u00fcnsche, Anregungen, Informationen, um die wir uns journalistisch k\u00fcmmern sollten?"
+                }
+            ],
+            "occupations": [],
+            "directQuotes": [
+                {
+                    "text": "Economist"
+                }
+            ],
+            "quotedInTitle": false,
+            "quotedInIntro": false
+        },
+        {
+            "name": "Stefan Wolf",
+            "alternativeNames": [],
+            "age": -1,
+            "sex": "male",
+            "occurences": {
+                "total": 2,
+                "firstNameOnly": 1,
+                "lastNameOnly": 0,
+                "fullName": 1,
+                "nickname": 0
+            },
+            "inTitle": false,
+            "inIntro": false,
+            "_name": {
+                "firstname": "Stefan",
+                "lastname": "Wolf",
+                "nickname": null,
+                "alternative_names": [],
+                "academic_title": null,
+                "nobility_title_or_rank": null
+            },
+            "descriptiveTexts": [
+                {
+                    "text": "Sie waren Alterssitz, Heiratsmarkt, Umschlagplatz f\u00fcr Luxusg\u00fcter."
+                },
+                {
+                    "text": "Nur haben sie daf\u00fcr nicht mal Autos."
+                },
+                {
+                    "text": "Zulieferer ohne Chef: 17 Jahre lang war Stefan Wolf der CEO des Autozulieferers ElringKlinger \u2013 und im Nebenjob beim Arbeitgeberverband Gesamtmetall zus\u00e4tzlich einer der einflussreichsten Industrielobbyisten der Republik."
+                },
+                {
+                    "text": "Jetzt tritt er unerwartet ab."
+                },
+                {
+                    "text": "Kritiker wie Zukunftsforscher Stefan Carsten k\u00f6nnen allenfalls Mittelma\u00df erkennen."
+                },
+                {
+                    "text": "Carsten hat er im Interview gefragt, wie es besser ginge."
+                }
+            ],
+            "occupations": [
+                {
+                    "text": "Industrielobbyist"
+                }
+            ],
+            "directQuotes": [],
+            "quotedInTitle": false,
+            "quotedInIntro": false
+        },
+        {
+            "name": "Lutz Reiche",
+            "alternativeNames": [],
+            "age": -1,
+            "sex": "male",
+            "occurences": {
+                "total": 1,
+                "firstNameOnly": 0,
+                "lastNameOnly": 0,
+                "fullName": 1,
+                "nickname": 0
+            },
+            "inTitle": false,
+            "inIntro": false,
+            "_name": {
+                "firstname": "Lutz",
+                "lastname": "Reiche",
+                "nickname": null,
+                "alternative_names": [],
+                "academic_title": null,
+                "nobility_title_or_rank": null
+            },
+            "descriptiveTexts": [
+                {
+                    "text": "Sie waren Alterssitz, Heiratsmarkt, Umschlagplatz f\u00fcr Luxusg\u00fcter."
+                },
+                {
+                    "text": "Mein Kollege Lutz Reiche, selbst eine Legende auf dem Rennrad, beschreibt, wo Wissing bei seiner Fahrradpolitik die Luft ausgeht."
+                }
+            ],
+            "occupations": [
+                {
+                    "text": "Kritiker"
+                }
+            ],
+            "directQuotes": [],
+            "quotedInTitle": false,
+            "quotedInIntro": false
+        },
+        {
+            "name": "Christoph Seyerlein",
+            "alternativeNames": [],
+            "age": -1,
+            "sex": "male",
+            "occurences": {
+                "total": 1,
+                "firstNameOnly": 0,
+                "lastNameOnly": 0,
+                "fullName": 1,
+                "nickname": 0
+            },
+            "inTitle": false,
+            "inIntro": false,
+            "_name": {
+                "firstname": "Christoph",
+                "lastname": "Seyerlein",
+                "nickname": null,
+                "alternative_names": [],
+                "academic_title": null,
+                "nobility_title_or_rank": null
+            },
+            "descriptiveTexts": [
+                {
+                    "text": "Sie waren Alterssitz, Heiratsmarkt, Umschlagplatz f\u00fcr Luxusg\u00fcter."
+                },
+                {
+                    "text": "Nur haben sie daf\u00fcr nicht mal Autos."
+                },
+                {
+                    "text": "In Deutschland herrscht Chaos, wie mein Kollege Christoph Seyerlein recherchiert hat."
+                }
+            ],
+            "occupations": [],
+            "directQuotes": [],
+            "quotedInTitle": false,
+            "quotedInIntro": false
+        },
+        {
+            "name": "Lukas Heiny",
+            "alternativeNames": [],
+            "age": -1,
+            "sex": "male",
+            "occurences": {
+                "total": 1,
+                "firstNameOnly": 0,
+                "lastNameOnly": 0,
+                "fullName": 1,
+                "nickname": 0
+            },
+            "inTitle": false,
+            "inIntro": false,
+            "_name": {
+                "firstname": "Lukas",
+                "lastname": "Heiny",
+                "nickname": null,
+                "alternative_names": [],
+                "academic_title": null,
+                "nobility_title_or_rank": null
+            },
+            "descriptiveTexts": [
+                {
+                    "text": "Sie waren Alterssitz, Heiratsmarkt, Umschlagplatz f\u00fcr Luxusg\u00fcter."
+                },
+                {
+                    "text": "Nur haben sie daf\u00fcr nicht mal Autos."
+                },
+                {
+                    "text": "Insgesamt, so zeigen es aktuelle Daten, haben sie im Monat M\u00e4rz mit diesen Leerverkaufspositionen auf dem Papier rund 7,2 Milliarden Dollar verdient."
+                },
+                {
+                    "text": "Last Exit Luxus: Unsere aktuelle Titelgeschichte \u00fcber den riskanten 200-Milliarden-B\u00f6rsenplan von Mercedes-Benz-Boss Ola K\u00e4llenius lesen Sie hier."
+                },
+                {
+                    "text": "Herzliche Gr\u00fc\u00dfe und einen entspannten Abend und ein sch\u00f6nes Oster-Wochenende, Ihr Lukas Heiny"
+                },
+                {
+                    "text": "Haben Sie W\u00fcnsche, Anregungen, Informationen, um die wir uns journalistisch k\u00fcmmern sollten?"
+                }
+            ],
+            "occupations": [],
+            "directQuotes": [],
+            "quotedInTitle": false,
+            "quotedInIntro": false
+        },
+        {
+            "name": "Pham Nhat Vuong",
+            "alternativeNames": [],
+            "age": -1,
+            "sex": "male",
+            "occurences": {
+                "total": 3,
+                "firstNameOnly": 0,
+                "lastNameOnly": 0,
+                "fullName": 1,
+                "nickname": 2
+            },
+            "inTitle": false,
+            "inIntro": true,
+            "_name": {
+                "firstname": "Pham Nhat",
+                "lastname": "Vuong",
+                "nickname": "Nudelk\u00f6nig",
+                "alternative_names": [],
+                "academic_title": null,
+                "nobility_title_or_rank": null
+            },
+            "descriptiveTexts": [
+                {
+                    "text": "Sie waren Alterssitz, Heiratsmarkt, Umschlagplatz f\u00fcr Luxusg\u00fcter."
+                },
+                {
+                    "text": "Autoangreifer ohne Autos: Der vietnamesische Elektroauto-Hersteller Vinfast, der zum Reich des Nudelk\u00f6nigs Pham Nhat Vuong geh\u00f6rt, sorgt seit einiger Zeit f\u00fcr Furore."
+                },
+                {
+                    "text": "Nur haben sie daf\u00fcr nicht mal Autos."
+                },
+                {
+                    "text": "Insgesamt, so zeigen es aktuelle Daten, haben sie im Monat M\u00e4rz mit diesen Leerverkaufspositionen auf dem Papier rund 7,2 Milliarden Dollar verdient."
+                },
+                {
+                    "text": "Haben Sie W\u00fcnsche, Anregungen, Informationen, um die wir uns journalistisch k\u00fcmmern sollten?"
+                }
+            ],
+            "occupations": [],
+            "directQuotes": [],
+            "quotedInTitle": false,
+            "quotedInIntro": true
+        },
+        {
+            "name": "Margret Hucko",
+            "alternativeNames": [],
+            "age": -1,
+            "sex": "female",
+            "occurences": {
+                "total": 1,
+                "firstNameOnly": 0,
+                "lastNameOnly": 0,
+                "fullName": 1,
+                "nickname": 0
+            },
+            "inTitle": false,
+            "inIntro": false,
+            "_name": {
+                "firstname": "Margret",
+                "lastname": "Hucko",
+                "nickname": null,
+                "alternative_names": [],
+                "academic_title": null,
+                "nobility_title_or_rank": null
+            },
+            "descriptiveTexts": [
+                {
+                    "text": "Sie waren Alterssitz, Heiratsmarkt, Umschlagplatz f\u00fcr Luxusg\u00fcter."
+                },
+                {
+                    "text": "Nur haben sie daf\u00fcr nicht mal Autos."
+                },
+                {
+                    "text": "Insgesamt, so zeigen es aktuelle Daten, haben sie im Monat M\u00e4rz mit diesen Leerverkaufspositionen auf dem Papier rund 7,2 Milliarden Dollar verdient."
+                },
+                {
+                    "text": "Last Exit Luxus: Unsere aktuelle Titelgeschichte \u00fcber den riskanten 200-Milliarden-B\u00f6rsenplan von Mercedes-Benz-Boss Ola K\u00e4llenius lesen Sie hier."
+                },
+                {
+                    "text": "Passend \u00fcbrigens f\u00fcrs lange Wochenende dazu der Podcast mit der Co-Autorin: Margret Hucko \u00fcber Protz und Proll unterm Stern."
+                },
+                {
+                    "text": "Haben Sie W\u00fcnsche, Anregungen, Informationen, um die wir uns journalistisch k\u00fcmmern sollten?"
+                }
+            ],
+            "occupations": [],
+            "directQuotes": [],
+            "quotedInTitle": false,
+            "quotedInIntro": false
+        },
+        {
+            "name": "Jack Dorsey",
+            "alternativeNames": [],
+            "age": -1,
+            "sex": "male",
+            "occurences": {
+                "total": 1,
+                "firstNameOnly": 0,
+                "lastNameOnly": 0,
+                "fullName": 1,
+                "nickname": 0
+            },
+            "inTitle": false,
+            "inIntro": false,
+            "_name": {
+                "firstname": "Jack",
+                "lastname": "Dorsey",
+                "nickname": null,
+                "alternative_names": [],
+                "academic_title": null,
+                "nobility_title_or_rank": null
+            },
+            "descriptiveTexts": [
+                {
+                    "text": "Sie waren Alterssitz, Heiratsmarkt, Umschlagplatz f\u00fcr Luxusg\u00fcter."
+                },
+                {
+                    "text": "Nur haben sie daf\u00fcr nicht mal Autos."
+                },
+                {
+                    "text": "Insgesamt, so zeigen es aktuelle Daten, haben sie im Monat M\u00e4rz mit diesen Leerverkaufspositionen auf dem Papier rund 7,2 Milliarden Dollar verdient."
+                },
+                {
+                    "text": "Der tragische Tod im Silicon Valley: Der Gr\u00fcnder und Investor Bob Lee spielte bei der Entwicklung von Googles Betriebssystem Android eine wichtige Rolle und arbeitete eng mit Twitter-Mitgr\u00fcnder Jack Dorsey zusammen."
+                },
+                {
+                    "text": "Haben Sie W\u00fcnsche, Anregungen, Informationen, um die wir uns journalistisch k\u00fcmmern sollten?"
+                }
+            ],
+            "occupations": [],
+            "directQuotes": [],
+            "quotedInTitle": false,
+            "quotedInIntro": false
+        }
+    ]
+}

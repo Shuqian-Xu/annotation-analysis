@@ -1,0 +1,709 @@
+{
+    "persons": [
+        {
+            "name": "Eva Buchhorn",
+            "alternativeNames": [],
+            "age": -1,
+            "sex": "female",
+            "occurences": {
+                "total": 1,
+                "firstNameOnly": 0,
+                "lastNameOnly": 0,
+                "fullName": 1,
+                "nickname": 0
+            },
+            "inTitle": false,
+            "inIntro": false,
+            "_name": {
+                "firstname": "Eva",
+                "lastname": "Buchhorn",
+                "nickname": null,
+                "alternative_names": [],
+                "academic_title": null,
+                "nobility_title_or_rank": null
+            },
+            "descriptiveTexts": [
+                {
+                    "text": "Warum erl\u00e4utert er im Gespr\u00e4ch mit meiner Kollegin Eva Buchhorn."
+                }
+            ],
+            "occupations": [],
+            "directQuotes": [],
+            "quotedInTitle": false,
+            "quotedInIntro": false
+        },
+        {
+            "name": "Cyrus de la Rubia",
+            "alternativeNames": [],
+            "age": -1,
+            "sex": "male",
+            "occurences": {
+                "total": 1,
+                "firstNameOnly": 0,
+                "lastNameOnly": 0,
+                "fullName": 1,
+                "nickname": 0
+            },
+            "inTitle": false,
+            "inIntro": false,
+            "_name": {
+                "firstname": "Cyrus",
+                "lastname": "de la Rubia",
+                "nickname": null,
+                "alternative_names": [],
+                "academic_title": null,
+                "nobility_title_or_rank": null
+            },
+            "descriptiveTexts": [
+                {
+                    "text": "Nein, warnt Cyrus de la Rubia, Chief Economist and Head of Research der Hamburg Commercial Bank in einem Gastbeitrag f\u00fcr manager magazin."
+                }
+            ],
+            "occupations": [],
+            "directQuotes": [],
+            "quotedInTitle": false,
+            "quotedInIntro": false
+        },
+        {
+            "name": "Martin Mehringer",
+            "alternativeNames": [],
+            "age": -1,
+            "sex": "male",
+            "occurences": {
+                "total": 1,
+                "firstNameOnly": 0,
+                "lastNameOnly": 0,
+                "fullName": 1,
+                "nickname": 0
+            },
+            "inTitle": false,
+            "inIntro": false,
+            "_name": {
+                "firstname": "Martin",
+                "lastname": "Mehringer",
+                "nickname": null,
+                "alternative_names": [],
+                "academic_title": null,
+                "nobility_title_or_rank": null
+            },
+            "descriptiveTexts": [
+                {
+                    "text": "Haben Sie Angst um Ihr Geld?"
+                },
+                {
+                    "text": "Oder sind Sie ein notorisch optimistischer Zocker?"
+                },
+                {
+                    "text": "Ich empfehle daSie unbedingt einen Report meiner Kollegen Thomas Mersch und Stefan Merx lesen: Wie Anleger vom KI-Boom der Datendealer profitieren k\u00f6nnen."
+                },
+                {
+                    "text": "Der mieseste Job im Internet: Stellen Sie sich vor, Sie m\u00fcssen den ganzen Tag lang Hasskommentare lesen und verst\u00f6rende Bilder anschauen."
+                },
+                {
+                    "text": "Viele Gr\u00fc\u00dfe, Ihr Martin Mehringer"
+                },
+                {
+                    "text": "Haben Sie W\u00fcnsche, Anregungen, Informationen, um die wir uns journalistisch k\u00fcmmern sollten?"
+                }
+            ],
+            "occupations": [],
+            "directQuotes": [],
+            "quotedInTitle": false,
+            "quotedInIntro": false
+        },
+        {
+            "name": "Thomas Rabe",
+            "alternativeNames": [],
+            "age": -1,
+            "sex": "male",
+            "occurences": {
+                "total": 5,
+                "firstNameOnly": 2,
+                "lastNameOnly": 1,
+                "fullName": 2,
+                "nickname": 0
+            },
+            "inTitle": false,
+            "inIntro": true,
+            "_name": {
+                "firstname": "Thomas",
+                "lastname": "Rabe",
+                "nickname": null,
+                "alternative_names": [],
+                "academic_title": null,
+                "nobility_title_or_rank": null
+            },
+            "descriptiveTexts": [
+                {
+                    "text": "Heute mit Anlagetipps f\u00fcrs Wochenende, dem miesesten Job im Internet und dem Regiment von Bertelsmann-Alleinherrscher Thomas Rabe."
+                },
+                {
+                    "text": "Ich empfehle daSie unbedingt einen Report meiner Kollegen Thomas Mersch und Stefan Merx lesen: Wie Anleger vom KI-Boom der Datendealer profitieren k\u00f6nnen."
+                },
+                {
+                    "text": "Was Menschen trotzdem dazu motiviert, das Netz zu einem besseren Ort zu machen, dar\u00fcber sprach Thomas Stackpole, Redaktuer der Havard Business Review mit Expertin Sarah T."
+                },
+                {
+                    "text": "Thomas Rabe poliert den einstigen Buchclub Bertelsmann zur Perle der Medienbranche auf."
+                },
+                {
+                    "text": "Rabe f\u00fchrt den Konzern, der unter anderem den Privatsender RTL betreibt, seit gut einem Jahrzehnt."
+                }
+            ],
+            "occupations": [
+                {
+                    "text": "Rendite-Fetischist"
+                },
+                {
+                    "text": "Alleinherrscher zehrt den Medienkonzern intellektuell aus"
+                }
+            ],
+            "directQuotes": [],
+            "quotedInTitle": false,
+            "quotedInIntro": true
+        },
+        {
+            "name": "Jensen Huang",
+            "alternativeNames": [],
+            "age": -1,
+            "sex": "male",
+            "occurences": {
+                "total": 1,
+                "firstNameOnly": 0,
+                "lastNameOnly": 0,
+                "fullName": 1,
+                "nickname": 0
+            },
+            "inTitle": false,
+            "inIntro": false,
+            "_name": {
+                "firstname": "Jensen",
+                "lastname": "Huang",
+                "nickname": null,
+                "alternative_names": [],
+                "academic_title": null,
+                "nobility_title_or_rank": null
+            },
+            "descriptiveTexts": [
+                {
+                    "text": "Goldjunge: Der globale Hype um K\u00fcnstliche Intelligenz hat den B\u00f6rsenwert des kalifornischen Chipkonzerns von Gr\u00fcnder Jensen Huang auf mehr als eine Billion Dollar getrieben."
+                }
+            ],
+            "occupations": [],
+            "directQuotes": [],
+            "quotedInTitle": false,
+            "quotedInIntro": false
+        },
+        {
+            "name": "Stefan Merx",
+            "alternativeNames": [],
+            "age": -1,
+            "sex": "male",
+            "occurences": {
+                "total": 1,
+                "firstNameOnly": 0,
+                "lastNameOnly": 0,
+                "fullName": 1,
+                "nickname": 0
+            },
+            "inTitle": false,
+            "inIntro": false,
+            "_name": {
+                "firstname": "Stefan",
+                "lastname": "Merx",
+                "nickname": null,
+                "alternative_names": [],
+                "academic_title": null,
+                "nobility_title_or_rank": null
+            },
+            "descriptiveTexts": [
+                {
+                    "text": "Ich empfehle daSie unbedingt einen Report meiner Kollegen Thomas Mersch und Stefan Merx lesen: Wie Anleger vom KI-Boom der Datendealer profitieren k\u00f6nnen."
+                }
+            ],
+            "occupations": [],
+            "directQuotes": [],
+            "quotedInTitle": false,
+            "quotedInIntro": false
+        },
+        {
+            "name": "Kellerov\u00e1",
+            "alternativeNames": [],
+            "age": -1,
+            "sex": "female",
+            "occurences": {
+                "total": 1,
+                "firstNameOnly": 0,
+                "lastNameOnly": 0,
+                "fullName": 1,
+                "nickname": 0
+            },
+            "inTitle": false,
+            "inIntro": false,
+            "_name": {
+                "firstname": null,
+                "lastname": "Kellerov\u00e1",
+                "nickname": null,
+                "alternative_names": [],
+                "academic_title": null,
+                "nobility_title_or_rank": null
+            },
+            "descriptiveTexts": [
+                {
+                    "text": "Inzwischen h\u00e4t Kellerov\u00e1 mehr als 15 Prozent."
+                }
+            ],
+            "occupations": [
+                {
+                    "text": "Milliard\u00e4rin"
+                },
+                {
+                    "text": "Herrin der PPF Group"
+                }
+            ],
+            "directQuotes": [],
+            "quotedInTitle": false,
+            "quotedInIntro": false
+        },
+        {
+            "name": "Thomas Stackpole",
+            "alternativeNames": [],
+            "age": -1,
+            "sex": "male",
+            "occurences": {
+                "total": 4,
+                "firstNameOnly": 3,
+                "lastNameOnly": 0,
+                "fullName": 1,
+                "nickname": 0
+            },
+            "inTitle": false,
+            "inIntro": true,
+            "_name": {
+                "firstname": "Thomas",
+                "lastname": "Stackpole",
+                "nickname": null,
+                "alternative_names": [],
+                "academic_title": null,
+                "nobility_title_or_rank": null
+            },
+            "descriptiveTexts": [
+                {
+                    "text": "Heute mit Anlagetipps f\u00fcrs Wochenende, dem miesesten Job im Internet und dem Regiment von Bertelsmann-Alleinherrscher Thomas Rabe."
+                },
+                {
+                    "text": "Ich empfehle daSie unbedingt einen Report meiner Kollegen Thomas Mersch und Stefan Merx lesen: Wie Anleger vom KI-Boom der Datendealer profitieren k\u00f6nnen."
+                },
+                {
+                    "text": "Was Menschen trotzdem dazu motiviert, das Netz zu einem besseren Ort zu machen, dar\u00fcber sprach Thomas Stackpole, Redaktuer der Havard Business Review mit Expertin Sarah T."
+                },
+                {
+                    "text": "Thomas Rabe poliert den einstigen Buchclub Bertelsmann zur Perle der Medienbranche auf."
+                }
+            ],
+            "occupations": [],
+            "directQuotes": [],
+            "quotedInTitle": false,
+            "quotedInIntro": true
+        },
+        {
+            "name": "Sarah T. Roberts",
+            "alternativeNames": [],
+            "age": -1,
+            "sex": "female",
+            "occurences": {
+                "total": 2,
+                "firstNameOnly": 0,
+                "lastNameOnly": 1,
+                "fullName": 1,
+                "nickname": 0
+            },
+            "inTitle": false,
+            "inIntro": false,
+            "_name": {
+                "firstname": "Sarah T.",
+                "lastname": "Roberts",
+                "nickname": null,
+                "alternative_names": [],
+                "academic_title": null,
+                "nobility_title_or_rank": null
+            },
+            "descriptiveTexts": [
+                {
+                    "text": "Roberts."
+                }
+            ],
+            "occupations": [],
+            "directQuotes": [],
+            "quotedInTitle": false,
+            "quotedInIntro": false
+        },
+        {
+            "name": "Ren\u00e1ta Kellnerov\u00e1",
+            "alternativeNames": [],
+            "age": -1,
+            "sex": "female",
+            "occurences": {
+                "total": 1,
+                "firstNameOnly": 0,
+                "lastNameOnly": 0,
+                "fullName": 1,
+                "nickname": 0
+            },
+            "inTitle": false,
+            "inIntro": false,
+            "_name": {
+                "firstname": "Ren\u00e1ta",
+                "lastname": "Kellnerov\u00e1",
+                "nickname": null,
+                "alternative_names": [],
+                "academic_title": null,
+                "nobility_title_or_rank": null
+            },
+            "descriptiveTexts": [
+                {
+                    "text": "Glaube an ProSiebenSat.1: Die tschechische Milliard\u00e4rin Ren\u00e1ta Kellnerov\u00e1, Herrin der PPF Group, baut ihren Anteil am TV-Konzern ProSiebenSat.1 aus."
+                }
+            ],
+            "occupations": [
+                {
+                    "text": "baut ihren Anteil am TV-Konzern ProSiebenSat.1 aus"
+                },
+                {
+                    "text": "Herrin der PPF Group"
+                }
+            ],
+            "directQuotes": [],
+            "quotedInTitle": false,
+            "quotedInIntro": false
+        },
+        {
+            "name": "Thomas Mersch",
+            "alternativeNames": [],
+            "age": -1,
+            "sex": "male",
+            "occurences": {
+                "total": 4,
+                "firstNameOnly": 3,
+                "lastNameOnly": 0,
+                "fullName": 1,
+                "nickname": 0
+            },
+            "inTitle": false,
+            "inIntro": true,
+            "_name": {
+                "firstname": "Thomas",
+                "lastname": "Mersch",
+                "nickname": null,
+                "alternative_names": [],
+                "academic_title": null,
+                "nobility_title_or_rank": null
+            },
+            "descriptiveTexts": [
+                {
+                    "text": "Heute mit Anlagetipps f\u00fcrs Wochenende, dem miesesten Job im Internet und dem Regiment von Bertelsmann-Alleinherrscher Thomas Rabe."
+                },
+                {
+                    "text": "Ich empfehle daSie unbedingt einen Report meiner Kollegen Thomas Mersch und Stefan Merx lesen: Wie Anleger vom KI-Boom der Datendealer profitieren k\u00f6nnen."
+                },
+                {
+                    "text": "Was Menschen trotzdem dazu motiviert, das Netz zu einem besseren Ort zu machen, dar\u00fcber sprach Thomas Stackpole, Redaktuer der Havard Business Review mit Expertin Sarah T."
+                },
+                {
+                    "text": "Thomas Rabe poliert den einstigen Buchclub Bertelsmann zur Perle der Medienbranche auf."
+                }
+            ],
+            "occupations": [],
+            "directQuotes": [],
+            "quotedInTitle": false,
+            "quotedInIntro": true
+        },
+        {
+            "name": "Matthias Zachert",
+            "alternativeNames": [],
+            "age": -1,
+            "sex": "male",
+            "occurences": {
+                "total": 2,
+                "firstNameOnly": 0,
+                "lastNameOnly": 1,
+                "fullName": 1,
+                "nickname": 0
+            },
+            "inTitle": false,
+            "inIntro": false,
+            "_name": {
+                "firstname": "Matthias",
+                "lastname": "Zachert",
+                "nickname": null,
+                "alternative_names": [],
+                "academic_title": null,
+                "nobility_title_or_rank": null
+            },
+            "descriptiveTexts": [
+                {
+                    "text": "Abgeh\u00e4ngt: Lanxess-Chef Matthias Zachert hat den Standort Deutschland abgeschrieben."
+                },
+                {
+                    "text": "Dabei hegt Zachert, wie er sagt, eigentlich durchaus patriotische Gef\u00fchle."
+                },
+                {
+                    "text": "Warum erl\u00e4utert er im Gespr\u00e4ch mit meiner Kollegin Eva Buchhorn."
+                }
+            ],
+            "occupations": [],
+            "directQuotes": [],
+            "quotedInTitle": false,
+            "quotedInIntro": false
+        },
+        {
+            "name": "Mark B\u00f6schen",
+            "alternativeNames": [],
+            "age": -1,
+            "sex": "male",
+            "occurences": {
+                "total": 1,
+                "firstNameOnly": 0,
+                "lastNameOnly": 0,
+                "fullName": 1,
+                "nickname": 0
+            },
+            "inTitle": false,
+            "inIntro": false,
+            "_name": {
+                "firstname": "Mark",
+                "lastname": "B\u00f6schen",
+                "nickname": null,
+                "alternative_names": [],
+                "academic_title": null,
+                "nobility_title_or_rank": null
+            },
+            "descriptiveTexts": [
+                {
+                    "text": "Denn die Sommermonate werden es in sich haben, wie unser Portfolio-Guru Mark B\u00f6schen im Gespr\u00e4ch mit Chefredakteur Sven Clausen erl\u00e4utert."
+                },
+                {
+                    "text": "Er hat sich zuvor bei den Milliardenmanagern von Hedgefonds und Staatsfonds umgeh\u00f6rt, hat ihre Sorgen vor einem Crash vernommen \u2013 und leitet daraus Schl\u00fcsse auch f\u00fcr Privatanleger ab."
+                }
+            ],
+            "occupations": [
+                {
+                    "text": "Portfolio-Guru"
+                }
+            ],
+            "directQuotes": [],
+            "quotedInTitle": false,
+            "quotedInIntro": false
+        },
+        {
+            "name": "Hanno Berger",
+            "alternativeNames": [],
+            "age": -1,
+            "sex": "male",
+            "occurences": {
+                "total": 2,
+                "firstNameOnly": 0,
+                "lastNameOnly": 1,
+                "fullName": 1,
+                "nickname": 0
+            },
+            "inTitle": false,
+            "inIntro": false,
+            "_name": {
+                "firstname": "Hanno",
+                "lastname": "Berger",
+                "nickname": null,
+                "alternative_names": [],
+                "academic_title": null,
+                "nobility_title_or_rank": null
+            },
+            "descriptiveTexts": [
+                {
+                    "text": "Letzte Hoffnung: Hanno Berger, Architekt der Cum-ex-Gesch\u00e4fte, zieht vor den Bundesgerichtshof."
+                },
+                {
+                    "text": "Berger geht damit gegen ein Urteil des Landgerichts Wiesbaden vor, dass ihn gestern zu einer Freiheitsstarfe von 15 Jahren verurteilt hat."
+                }
+            ],
+            "occupations": [],
+            "directQuotes": [],
+            "quotedInTitle": false,
+            "quotedInIntro": false
+        },
+        {
+            "name": "Sven Clausen",
+            "alternativeNames": [],
+            "age": -1,
+            "sex": "male",
+            "occurences": {
+                "total": 1,
+                "firstNameOnly": 0,
+                "lastNameOnly": 0,
+                "fullName": 1,
+                "nickname": 0
+            },
+            "inTitle": false,
+            "inIntro": false,
+            "_name": {
+                "firstname": "Sven",
+                "lastname": "Clausen",
+                "nickname": null,
+                "alternative_names": [],
+                "academic_title": null,
+                "nobility_title_or_rank": null
+            },
+            "descriptiveTexts": [
+                {
+                    "text": "Denn die Sommermonate werden es in sich haben, wie unser Portfolio-Guru Mark B\u00f6schen im Gespr\u00e4ch mit Chefredakteur Sven Clausen erl\u00e4utert."
+                }
+            ],
+            "occupations": [
+                {
+                    "text": "Chefredakteur"
+                }
+            ],
+            "directQuotes": [],
+            "quotedInTitle": false,
+            "quotedInIntro": false
+        },
+        {
+            "name": "Sergio Ermotti",
+            "alternativeNames": [],
+            "age": -1,
+            "sex": "male",
+            "occurences": {
+                "total": 1,
+                "firstNameOnly": 0,
+                "lastNameOnly": 0,
+                "fullName": 1,
+                "nickname": 0
+            },
+            "inTitle": false,
+            "inIntro": false,
+            "_name": {
+                "firstname": "Sergio",
+                "lastname": "Ermotti",
+                "nickname": null,
+                "alternative_names": [],
+                "academic_title": null,
+                "nobility_title_or_rank": null
+            },
+            "descriptiveTexts": [
+                {
+                    "text": "Das hat UBS-Chef Sergio Ermotti angek\u00fcndigt."
+                }
+            ],
+            "occupations": [
+                {
+                    "text": "UBS-Chef"
+                }
+            ],
+            "directQuotes": [],
+            "quotedInTitle": false,
+            "quotedInIntro": false
+        },
+        {
+            "name": "Henning Hinze",
+            "alternativeNames": [],
+            "age": -1,
+            "sex": "male",
+            "occurences": {
+                "total": 1,
+                "firstNameOnly": 0,
+                "lastNameOnly": 0,
+                "fullName": 1,
+                "nickname": 0
+            },
+            "inTitle": false,
+            "inIntro": false,
+            "_name": {
+                "firstname": "Henning",
+                "lastname": "Hinze",
+                "nickname": null,
+                "alternative_names": [],
+                "academic_title": null,
+                "nobility_title_or_rank": null
+            },
+            "descriptiveTexts": [
+                {
+                    "text": "Der Alleinherrscher zehrt den Medienkonzern intellektuell aus, wie mein Kollege Henning Hinze schreibt."
+                }
+            ],
+            "occupations": [],
+            "directQuotes": [],
+            "quotedInTitle": false,
+            "quotedInIntro": false
+        },
+        {
+            "name": "Bad Bunny",
+            "alternativeNames": [],
+            "age": -1,
+            "sex": "male",
+            "occurences": {
+                "total": 1,
+                "firstNameOnly": 0,
+                "lastNameOnly": 0,
+                "fullName": 1,
+                "nickname": 0
+            },
+            "inTitle": false,
+            "inIntro": false,
+            "_name": {
+                "firstname": null,
+                "lastname": null,
+                "nickname": null,
+                "alternative_names": [],
+                "academic_title": null,
+                "nobility_title_or_rank": null
+            },
+            "descriptiveTexts": [
+                {
+                    "text": "B\u00f6ses H\u00e4schen: Der Rapp-Superstar Bad Bunny aus Puerto Rico ist seit drei Jahren der meistgestreamte K\u00fcnstler auf Spotify."
+                }
+            ],
+            "occupations": [
+                {
+                    "text": "K\u00fcnstler"
+                },
+                {
+                    "text": "Rapp-Superstar"
+                }
+            ],
+            "directQuotes": [],
+            "quotedInTitle": false,
+            "quotedInIntro": false
+        },
+        {
+            "name": "Elon Musk",
+            "alternativeNames": [],
+            "age": -1,
+            "sex": "male",
+            "occurences": {
+                "total": 1,
+                "firstNameOnly": 0,
+                "lastNameOnly": 0,
+                "fullName": 1,
+                "nickname": 0
+            },
+            "inTitle": false,
+            "inIntro": false,
+            "_name": {
+                "firstname": "Elon",
+                "lastname": "Musk",
+                "nickname": null,
+                "alternative_names": [],
+                "academic_title": null,
+                "nobility_title_or_rank": null
+            },
+            "descriptiveTexts": [
+                {
+                    "text": "Der Chipriese Nvidia \u00fcbersprang beim B\u00f6rsenwert zwischenzeitlich die Billionen-Dollar-Schwelle, Elon Musk darf sich wieder als reichster Mensch der Erde feiern."
+                }
+            ],
+            "occupations": [],
+            "directQuotes": [],
+            "quotedInTitle": false,
+            "quotedInIntro": false
+        }
+    ]
+}

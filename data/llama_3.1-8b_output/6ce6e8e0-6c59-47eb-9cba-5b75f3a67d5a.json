@@ -1,0 +1,136 @@
+{
+    "persons": [
+        {
+            "name": "Hannah Steinharter",
+            "alternativeNames": [],
+            "age": -1,
+            "sex": "female",
+            "occurences": {
+                "total": 1,
+                "firstNameOnly": 0,
+                "lastNameOnly": 0,
+                "fullName": 1,
+                "nickname": 0
+            },
+            "inTitle": false,
+            "inIntro": false,
+            "_name": {
+                "firstname": "Hannah",
+                "lastname": "Steinharter",
+                "nickname": null,
+                "alternative_names": [],
+                "academic_title": null,
+                "nobility_title_or_rank": null
+            },
+            "descriptiveTexts": [
+                {
+                    "text": "Nur: Nicht \u00fcberall schieben sie ihn in dieselbe Richtung."
+                },
+                {
+                    "text": "Aber auch sie haben mit hohen Verlusten zu k\u00e4mpfen."
+                },
+                {
+                    "text": "Dar\u00fcber informiert in diesem Podcast die Immobilienexpertin des manager magazins, Hannah Steinharter, im Gespr\u00e4ch mit Chefredakteur Sven Clausen."
+                },
+                {
+                    "text": "Sie k\u00f6nnen den Podcast \u00fcber manager magazin sowie auf Spotify, Apple, Deezer und bei Google abonnieren."
+                }
+            ],
+            "occupations": [
+                {
+                    "text": "Immobilienexpertin"
+                }
+            ],
+            "directQuotes": [],
+            "quotedInTitle": false,
+            "quotedInIntro": false
+        },
+        {
+            "name": "Sven Clausen",
+            "alternativeNames": [],
+            "age": -1,
+            "sex": "male",
+            "occurences": {
+                "total": 2,
+                "firstNameOnly": 0,
+                "lastNameOnly": 0,
+                "fullName": 2,
+                "nickname": 0
+            },
+            "inTitle": false,
+            "inIntro": false,
+            "_name": {
+                "firstname": "Sven",
+                "lastname": "Clausen",
+                "nickname": null,
+                "alternative_names": [],
+                "academic_title": null,
+                "nobility_title_or_rank": null
+            },
+            "descriptiveTexts": [
+                {
+                    "text": "Nur: Nicht \u00fcberall schieben sie ihn in dieselbe Richtung."
+                },
+                {
+                    "text": "Aber auch sie haben mit hohen Verlusten zu k\u00e4mpfen."
+                },
+                {
+                    "text": "Dar\u00fcber informiert in diesem Podcast die Immobilienexpertin des manager magazins, Hannah Steinharter, im Gespr\u00e4ch mit Chefredakteur Sven Clausen."
+                },
+                {
+                    "text": "Im Podcast \"Das Thema\" informiert Chefredakteur Sven Clausen jede Woche \u00fcber den internen Recherchestand zu jeweils einem f\u00fcr die deutsche Wirtschaft entscheidenden Thema."
+                }
+            ],
+            "occupations": [
+                {
+                    "text": "Chefredakteur"
+                }
+            ],
+            "directQuotes": [],
+            "quotedInTitle": false,
+            "quotedInIntro": false
+        },
+        {
+            "name": "Warren Buffett",
+            "alternativeNames": [],
+            "age": 92,
+            "sex": "male",
+            "occurences": {
+                "total": 1,
+                "firstNameOnly": 0,
+                "lastNameOnly": 0,
+                "fullName": 1,
+                "nickname": 0
+            },
+            "inTitle": false,
+            "inIntro": false,
+            "_name": {
+                "firstname": "Warren",
+                "lastname": "Buffett",
+                "nickname": null,
+                "alternative_names": [],
+                "academic_title": null,
+                "nobility_title_or_rank": null
+            },
+            "descriptiveTexts": [
+                {
+                    "text": "Nur: Nicht \u00fcberall schieben sie ihn in dieselbe Richtung."
+                },
+                {
+                    "text": "Ein auf den ersten Blick widerspr\u00fcchliches Signal kommt aus den USA: Dort kauft sich der wohl erfolgreichste Investor unserer Zeit, Warren Buffett (92), gerade bei zwei Baufirmen ein."
+                },
+                {
+                    "text": "Aber auch sie haben mit hohen Verlusten zu k\u00e4mpfen."
+                }
+            ],
+            "occupations": [
+                {
+                    "text": "Investor"
+                }
+            ],
+            "directQuotes": [],
+            "quotedInTitle": false,
+            "quotedInIntro": false
+        }
+    ]
+}

@@ -1,0 +1,278 @@
+{
+    "persons": [
+        {
+            "name": "Putin",
+            "alternativeNames": [],
+            "age": -1,
+            "sex": "male",
+            "occurences": {
+                "total": 1,
+                "firstNameOnly": 0,
+                "lastNameOnly": 0,
+                "fullName": 1,
+                "nickname": 0
+            },
+            "inTitle": false,
+            "inIntro": false,
+            "_name": {
+                "firstname": null,
+                "lastname": "Putin",
+                "nickname": null,
+                "alternative_names": [],
+                "academic_title": null,
+                "nobility_title_or_rank": null
+            },
+            "descriptiveTexts": [
+                {
+                    "text": "Putins Truppen hatten das Atomkraftwerk Saporischschja in der Ostukraine besetzt."
+                }
+            ],
+            "occupations": [
+                {
+                    "text": "Politiker"
+                }
+            ],
+            "directQuotes": [],
+            "quotedInTitle": false,
+            "quotedInIntro": false
+        },
+        {
+            "name": "Olaf Scholz",
+            "alternativeNames": [],
+            "age": -1,
+            "sex": "male",
+            "occurences": {
+                "total": 1,
+                "firstNameOnly": 0,
+                "lastNameOnly": 0,
+                "fullName": 1,
+                "nickname": 0
+            },
+            "inTitle": false,
+            "inIntro": false,
+            "_name": {
+                "firstname": "Olaf",
+                "lastname": "Scholz",
+                "nickname": null,
+                "alternative_names": [],
+                "academic_title": null,
+                "nobility_title_or_rank": null
+            },
+            "descriptiveTexts": [
+                {
+                    "text": "Kenia hat einen vergleichsweise fortschrittlichen Umgang mit der Klimakrise, Bundeskanzler Olaf Scholz nannte das Land bei seinem Besuch gar \u00fcberschw\u00e4nglich einen \u00bbinspirierenden Klimachampion\u00ab."
+                }
+            ],
+            "occupations": [
+                {
+                    "text": "Bundeskanzler"
+                }
+            ],
+            "directQuotes": [
+                {
+                    "text": "inspirierenden Klimachampion"
+                }
+            ],
+            "quotedInTitle": false,
+            "quotedInIntro": false
+        },
+        {
+            "name": "Hart",
+            "alternativeNames": [],
+            "age": -1,
+            "sex": "male",
+            "occurences": {
+                "total": 1,
+                "firstNameOnly": 0,
+                "lastNameOnly": 0,
+                "fullName": 1,
+                "nickname": 0
+            },
+            "inTitle": false,
+            "inIntro": false,
+            "_name": {
+                "firstname": null,
+                "lastname": "Hart",
+                "nickname": null,
+                "alternative_names": [],
+                "academic_title": null,
+                "nobility_title_or_rank": null
+            },
+            "descriptiveTexts": [
+                {
+                    "text": "Hart werde um jedes Komma, um jedes Verb gefeilscht."
+                }
+            ],
+            "occupations": [],
+            "directQuotes": [],
+            "quotedInTitle": false,
+            "quotedInIntro": false
+        },
+        {
+            "name": "Bonnie Nyandwaro",
+            "alternativeNames": [],
+            "age": -1,
+            "sex": "female",
+            "occurences": {
+                "total": 2,
+                "firstNameOnly": 0,
+                "lastNameOnly": 1,
+                "fullName": 1,
+                "nickname": 0
+            },
+            "inTitle": false,
+            "inIntro": false,
+            "_name": {
+                "firstname": "Bonnie",
+                "lastname": "Nyandwaro",
+                "nickname": null,
+                "alternative_names": [],
+                "academic_title": null,
+                "nobility_title_or_rank": null
+            },
+            "descriptiveTexts": [
+                {
+                    "text": "Bonnie Nyandwaro, die Leiterin der Anlage, f\u00fchrt \u00fcber die Becken."
+                },
+                {
+                    "text": "Sie tr\u00e4gt Pumps, die deutsche Umweltministerin hellbraune Trekkingschuhe, ihr Blick ist skeptisch."
+                },
+                {
+                    "text": "Mit nur einer Reinigungsstufe statt drei wie in Deutschland und einer kr\u00e4ftigen Dosis Chlor, wie ihr Nyandwaro erkl\u00e4rt?"
+                }
+            ],
+            "occupations": [],
+            "directQuotes": [
+                {
+                    "text": "Einige Verhandlungen waren schwierig und herausfordernd. Die vielf\u00e4ltigen geopolitischen Konflikte \u00fcberschatteten manchmal die fachlichen Diskussionen"
+                }
+            ],
+            "quotedInTitle": false,
+            "quotedInIntro": false
+        },
+        {
+            "name": "Steffi Lemke",
+            "alternativeNames": [],
+            "age": -1,
+            "sex": "female",
+            "occurences": {
+                "total": 17,
+                "firstNameOnly": 0,
+                "lastNameOnly": 16,
+                "fullName": 1,
+                "nickname": 0
+            },
+            "inTitle": false,
+            "inIntro": true,
+            "_name": {
+                "firstname": "Steffi",
+                "lastname": "Lemke",
+                "nickname": null,
+                "alternative_names": [],
+                "academic_title": null,
+                "nobility_title_or_rank": null
+            },
+            "descriptiveTexts": [
+                {
+                    "text": "Klima, Artensterben, Verm\u00fcllung: Wo Umweltministerin Lemke w\u00e4hrend ihrer Keniareise auch hinkommt, wird sie damit konfrontiert."
+                },
+                {
+                    "text": "Steffi Lemke beugt sich \u00fcber die Br\u00fcstung einer Wasseraufbereitungsanlage in Ruiru, einem Vorort von Kenias Hauptstadt Nairobi."
+                },
+                {
+                    "text": "Sie ist in gewissem Ma\u00dfe ihr Markenzeichen."
+                },
+                {
+                    "text": "Was denn mit den Fischen sei, denen durch die Anlage der Zugang zum Unterlauf des Flusses versperrt werde, will Lemke wissen."
+                },
+                {
+                    "text": "Lemkes Blick sind die in Plastik eingeschwei\u00dften Wasserfl\u00e4schchen nicht entgangen."
+                },
+                {
+                    "text": "Lemkes Ausdruck aber bleibt skeptisch."
+                },
+                {
+                    "text": "Wo Lemke dieser Tage auch hinkommt, wird sie damit konfrontiert."
+                },
+                {
+                    "text": "F\u00fcr Lemke ist es ein wichtiger Termin."
+                },
+                {
+                    "text": "Ganze drei Tage verbringt die Ministerin auf dem Campus der Vereinten Nationen, eine gro\u00dfe Delegation ihres Ministeriums begleitet sie."
+                },
+                {
+                    "text": "Die Verhandlungen sind kleinteilig und sehr fachlich, Lemke ist in ihrem Element."
+                },
+                {
+                    "text": "Am ersten Tag von Lemkes Besuch ist von ihren Fachexperten denn auch eine gewisse Ern\u00fcchterung zu vernehmen."
+                },
+                {
+                    "text": "In ihrer Rede vor dem Plenum muss Lemke zun\u00e4chst einmal klarstellen, dass Israel keinen Genozid in Gaza ver\u00fcbe."
+                },
+                {
+                    "text": "Sie will das Positive sehen und verweist darauf, dass es in diesen aufgeladenen Zeiten keineswegs selbstverst\u00e4ndlich sei, \u00fcberhaupt miteinander zu reden."
+                },
+                {
+                    "text": "Vor zwei Jahren musste sie fr\u00fchzeitig von der Uno-Umweltversammlung abreisen."
+                },
+                {
+                    "text": "Diesmal hatten die USA vor Lemkes Ankunft eine Resolution der Ukraine eingebracht."
+                },
+                {
+                    "text": "Lemke besucht beachtliche Zahl an Konferenzen"
+                },
+                {
+                    "text": "In den gut zwei Jahren ihrer Amtszeit hat sie eine beachtliche Zahl gro\u00dfer Konferenzen besucht."
+                },
+                {
+                    "text": "Es war auch Lemke, die zum erfolgreichen Ausgang dieser Konferenzen beitrug."
+                },
+                {
+                    "text": "F\u00fcr Lemke dagegen ist es Chefinnensache."
+                },
+                {
+                    "text": "F\u00fcr sie sind diese z\u00e4hen Erfolge vielleicht auch ein Ausweg aus der Misere ihrer Ampelkoalition, an deren zahlreichen Streitereien sich die ehemalige Generalsekret\u00e4rin der Gr\u00fcnen nur noch im Notfall beteiligt."
+                },
+                {
+                    "text": "Der Kampf um die gro\u00dfen L\u00f6sungen ist f\u00fcr sie eine willkommene Fluchtm\u00f6glichkeit aus den bisweilen recht kleinteiligen Ampelstreitigkeiten zu Hause."
+                },
+                {
+                    "text": "Lemke hilft sich mit trockenem Humor und ihrem Fokus aufs Konkrete."
+                },
+                {
+                    "text": "Nach ihrem Rundgang durch die Wasseraufbereitungsanlage soll sie einen Olivenbaum pflanzen, ein beliebtes Ritual bei Politikerbesuchen in afrikanischen Staaten."
+                },
+                {
+                    "text": "Mit gro\u00dfen Augen mustert Lemke, die in der DDR eigentlich lieber G\u00e4rtnerin als Melkerin gelernt h\u00e4tte, das knietiefe Pflanzloch."
+                },
+                {
+                    "text": "F\u00fcrsorglich und sehr zur Verwunderung ihrer Gastgeber schippt sie zun\u00e4chst einige Schaufeln Erde hinein."
+                },
+                {
+                    "text": "\u00bbEr soll ja wachsen\u00ab, sagt sie, \u00bbich hoffe, sie nehmen ihn nicht wieder raus.\u00ab"
+                },
+                {
+                    "text": "Ginge es nach Lemke, w\u00e4re sie l\u00e4ngst aus Blech."
+                }
+            ],
+            "occupations": [
+                {
+                    "text": "Umweltministerin"
+                },
+                {
+                    "text": "Gr\u00fcnenpolitikerin"
+                }
+            ],
+            "directQuotes": [
+                {
+                    "text": "shoulds"
+                },
+                {
+                    "text": "Er soll ja wachsen"
+                }
+            ],
+            "quotedInTitle": false,
+            "quotedInIntro": true
+        }
+    ]
+}

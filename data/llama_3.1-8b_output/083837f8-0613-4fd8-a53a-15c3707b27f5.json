@@ -1,0 +1,653 @@
+{
+    "persons": [
+        {
+            "name": "Abba",
+            "alternativeNames": [],
+            "age": -1,
+            "sex": "male",
+            "occurences": {
+                "total": 1,
+                "firstNameOnly": 0,
+                "lastNameOnly": 0,
+                "fullName": 1,
+                "nickname": 0
+            },
+            "inTitle": false,
+            "inIntro": false,
+            "_name": {
+                "firstname": null,
+                "lastname": "Abba",
+                "nickname": null,
+                "alternative_names": [],
+                "academic_title": null,
+                "nobility_title_or_rank": null
+            },
+            "descriptiveTexts": [
+                {
+                    "text": "Herausgekommen ist eine gro\u00dfkotzige Mischung aus der Flamboyanz von Abba, der Exzentrik von Queen und der Dekadenz l\u00e4ngst verstorbener K\u00f6niginnen."
+                }
+            ],
+            "occupations": [],
+            "directQuotes": [],
+            "quotedInTitle": false,
+            "quotedInIntro": false
+        },
+        {
+            "name": "Tarantino",
+            "alternativeNames": [],
+            "age": -1,
+            "sex": "male",
+            "occurences": {
+                "total": 1,
+                "firstNameOnly": 0,
+                "lastNameOnly": 0,
+                "fullName": 1,
+                "nickname": 0
+            },
+            "inTitle": false,
+            "inIntro": false,
+            "_name": {
+                "firstname": null,
+                "lastname": "Tarantino",
+                "nickname": null,
+                "alternative_names": [],
+                "academic_title": null,
+                "nobility_title_or_rank": null
+            },
+            "descriptiveTexts": [
+                {
+                    "text": "In den Neunzigerjahren dann die Siebzigerjahre, und \u00bbGrease\u00ab-Star Travolta hatte sein Comeback mit Tarantinos \u00bbPulp Fiction\u00ab."
+                }
+            ],
+            "occupations": [],
+            "directQuotes": [],
+            "quotedInTitle": false,
+            "quotedInIntro": false
+        },
+        {
+            "name": "Abigail Morris",
+            "alternativeNames": [],
+            "age": -1,
+            "sex": "female",
+            "occurences": {
+                "total": 3,
+                "firstNameOnly": 0,
+                "lastNameOnly": 1,
+                "fullName": 2,
+                "nickname": 0
+            },
+            "inTitle": false,
+            "inIntro": false,
+            "_name": {
+                "firstname": "Abigail",
+                "lastname": "Morris",
+                "nickname": null,
+                "alternative_names": [],
+                "academic_title": null,
+                "nobility_title_or_rank": null
+            },
+            "descriptiveTexts": [
+                {
+                    "text": "Die Musik von The Last Dinner Party sei \u00bbtheatralisch\u00ab, sagt sie."
+                },
+                {
+                    "text": "The Last Dinner Party sind authentisch, und sie sind theatralisch."
+                },
+                {
+                    "text": "Aber die Idee hielt dem Kater stand \u2013 Abigail Morris, Aurora Nishevci, Emily Roberts, Georgia Davies und Lizzie Mayland wurden The Last Dinner Party."
+                },
+                {
+                    "text": "Sie landeten auf dem Cover des Magazins \u00bbNME\u00ab, \u00bbNew Musical Express\u00ab, des einst lautesten Hype-Generators in Gro\u00dfbritannien, wenn nicht der Welt."
+                },
+                {
+                    "text": "Aus einer Rippe wird nicht Eva, sondern \u00bbanother you\u00ab geformt, noch ein Du."
+                },
+                {
+                    "text": "Sie zeigt, dass erfolgreiche Musik heute nicht wie aus der Spotify-Playlisten-Konserve klingen muss."
+                },
+                {
+                    "text": "Ihr Konzept haben sie dann n\u00e4mlich doch nicht ganz im Pub entworfen."
+                },
+                {
+                    "text": "Andere sehen aus, als h\u00e4tten sie sich auf dem Weg zu einem Rapkonzert oder zu einer Nirvana-Coverband verlaufen."
+                },
+                {
+                    "text": "S\u00e4ngerin Abigail Morris tr\u00e4gt an diesem Abend ein Kleid, das aus dem Vintage-Mode-Markt nebenan stammen k\u00f6nnte."
+                },
+                {
+                    "text": "In der Strophe eines Songs wirft sie ihre braunen Haare hin und her, die Augen geschlossen wie PJ Harvey, und schaut dann im Refrain auffordernd ins Publikum, fast so aufdringlich wie die Discokugel."
+                },
+                {
+                    "text": "Als die Menge die ersten Zeilen eines anderen Songs mitsingt, lacht sie glucksend auf, wie jemand, der eben erkannt hat, dass sein Gegen\u00fcber in ihn verknallt ist."
+                },
+                {
+                    "text": "Dass sie selbst f\u00fcr ein Revival \u2013 oder f\u00fcr das Revival eines Revivals \u2013 stehen, ist der Band offenbar bewusst, sagte S\u00e4ngerin Morris vor Kurzem in einem Interview: \u00bbIch gehe davon aus, dass wir Teil einer gro\u00dfen Renaissance sind.\u00ab"
+                },
+                {
+                    "text": "Sie wird zu einer popmusikalischen Zufluchtsst\u00e4tte f\u00fcr die von der Gegenwart Gelangweilten, Entt\u00e4uschten, \u00dcberreizten."
+                }
+            ],
+            "occupations": [
+                {
+                    "text": "Musikerin"
+                },
+                {
+                    "text": "S\u00e4ngerin"
+                }
+            ],
+            "directQuotes": [],
+            "quotedInTitle": false,
+            "quotedInIntro": false
+        },
+        {
+            "name": "Lizzie Mayland",
+            "alternativeNames": [],
+            "age": -1,
+            "sex": "female",
+            "occurences": {
+                "total": 1,
+                "firstNameOnly": 0,
+                "lastNameOnly": 0,
+                "fullName": 1,
+                "nickname": 0
+            },
+            "inTitle": false,
+            "inIntro": false,
+            "_name": {
+                "firstname": "Lizzie",
+                "lastname": "Mayland",
+                "nickname": null,
+                "alternative_names": [],
+                "academic_title": null,
+                "nobility_title_or_rank": null
+            },
+            "descriptiveTexts": [
+                {
+                    "text": "Aber die Idee hielt dem Kater stand \u2013 Abigail Morris, Aurora Nishevci, Emily Roberts, Georgia Davies und Lizzie Mayland wurden The Last Dinner Party."
+                },
+                {
+                    "text": "Andere sehen aus, als h\u00e4tten sie sich auf dem Weg zu einem Rapkonzert oder zu einer Nirvana-Coverband verlaufen."
+                },
+                {
+                    "text": "Sie wird zu einer popmusikalischen Zufluchtsst\u00e4tte f\u00fcr die von der Gegenwart Gelangweilten, Entt\u00e4uschten, \u00dcberreizten."
+                }
+            ],
+            "occupations": [],
+            "directQuotes": [],
+            "quotedInTitle": false,
+            "quotedInIntro": false
+        },
+        {
+            "name": "Taylor Swift",
+            "alternativeNames": [],
+            "age": -1,
+            "sex": "female",
+            "occurences": {
+                "total": 1,
+                "firstNameOnly": 0,
+                "lastNameOnly": 0,
+                "fullName": 1,
+                "nickname": 0
+            },
+            "inTitle": false,
+            "inIntro": false,
+            "_name": {
+                "firstname": "Taylor",
+                "lastname": "Swift",
+                "nickname": null,
+                "alternative_names": [],
+                "academic_title": null,
+                "nobility_title_or_rank": null
+            },
+            "descriptiveTexts": [
+                {
+                    "text": "Als niemand Taylor Swift kannte."
+                }
+            ],
+            "occupations": [],
+            "directQuotes": [],
+            "quotedInTitle": false,
+            "quotedInIntro": false
+        },
+        {
+            "name": "Emily Roberts",
+            "alternativeNames": [],
+            "age": -1,
+            "sex": "female",
+            "occurences": {
+                "total": 1,
+                "firstNameOnly": 0,
+                "lastNameOnly": 0,
+                "fullName": 1,
+                "nickname": 0
+            },
+            "inTitle": false,
+            "inIntro": false,
+            "_name": {
+                "firstname": "Emily",
+                "lastname": "Roberts",
+                "nickname": null,
+                "alternative_names": [],
+                "academic_title": null,
+                "nobility_title_or_rank": null
+            },
+            "descriptiveTexts": [
+                {
+                    "text": "Aber die Idee hielt dem Kater stand \u2013 Abigail Morris, Aurora Nishevci, Emily Roberts, Georgia Davies und Lizzie Mayland wurden The Last Dinner Party."
+                },
+                {
+                    "text": "Andere sehen aus, als h\u00e4tten sie sich auf dem Weg zu einem Rapkonzert oder zu einer Nirvana-Coverband verlaufen."
+                },
+                {
+                    "text": "Sie wird zu einer popmusikalischen Zufluchtsst\u00e4tte f\u00fcr die von der Gegenwart Gelangweilten, Entt\u00e4uschten, \u00dcberreizten."
+                }
+            ],
+            "occupations": [
+                {
+                    "text": "Musikerin"
+                }
+            ],
+            "directQuotes": [],
+            "quotedInTitle": false,
+            "quotedInIntro": false
+        },
+        {
+            "name": "Natalie",
+            "alternativeNames": [],
+            "age": -1,
+            "sex": "female",
+            "occurences": {
+                "total": 2,
+                "firstNameOnly": 0,
+                "lastNameOnly": 0,
+                "fullName": 2,
+                "nickname": 0
+            },
+            "inTitle": false,
+            "inIntro": false,
+            "_name": {
+                "firstname": "Natalie",
+                "lastname": null,
+                "nickname": null,
+                "alternative_names": [],
+                "academic_title": null,
+                "nobility_title_or_rank": null
+            },
+            "descriptiveTexts": [
+                {
+                    "text": "Natalie, 27, die fast am Ende der Schlange steht und ihre Londoner WG dabei hat, sagt hingegen, die Musik sei \u00bbecht\u00ab."
+                },
+                {
+                    "text": "Star, Natalie und Kian haben alle recht."
+                }
+            ],
+            "occupations": [],
+            "directQuotes": [],
+            "quotedInTitle": false,
+            "quotedInIntro": false
+        },
+        {
+            "name": "Franz Ferdinand",
+            "alternativeNames": [],
+            "age": -1,
+            "sex": "male",
+            "occurences": {
+                "total": 2,
+                "firstNameOnly": 0,
+                "lastNameOnly": 0,
+                "fullName": 2,
+                "nickname": 0
+            },
+            "inTitle": false,
+            "inIntro": false,
+            "_name": {
+                "firstname": "Franz",
+                "lastname": "Ferdinand",
+                "nickname": null,
+                "alternative_names": [],
+                "academic_title": null,
+                "nobility_title_or_rank": null
+            },
+            "descriptiveTexts": [
+                {
+                    "text": "Das alles klingt wie eine Wiederholung der Nullerjahre, der gro\u00dfen Zeit gehypter britischer Rockbands wie den Arctic Monkeys, Bloc Party und Franz Ferdinand und der gro\u00dfen Zeit gehypter amerikanischer Rockbands wie den Killers, Strokes und Kings of Leon."
+                },
+                {
+                    "text": "Und f\u00fcr Frauen, die mit Franz Ferdinand nicht viel anfangen konnten."
+                }
+            ],
+            "occupations": [
+                {
+                    "text": "Musiker"
+                }
+            ],
+            "directQuotes": [],
+            "quotedInTitle": false,
+            "quotedInIntro": false
+        },
+        {
+            "name": "Chuck Klosterman",
+            "alternativeNames": [],
+            "age": -1,
+            "sex": "male",
+            "occurences": {
+                "total": 1,
+                "firstNameOnly": 0,
+                "lastNameOnly": 0,
+                "fullName": 1,
+                "nickname": 0
+            },
+            "inTitle": false,
+            "inIntro": false,
+            "_name": {
+                "firstname": "Chuck",
+                "lastname": "Klosterman",
+                "nickname": null,
+                "alternative_names": [],
+                "academic_title": null,
+                "nobility_title_or_rank": null
+            },
+            "descriptiveTexts": [
+                {
+                    "text": "Essayisten wie der US-Autor Chuck Klosterman oder der britische Musikjournalist Simon Reynolds gehen von einer Art 20-Jahre-Regel aus: Bestimmte Ph\u00e4nomene der Popkultur wiederholen sich alle zwei Jahrzehnte."
+                }
+            ],
+            "occupations": [],
+            "directQuotes": [],
+            "quotedInTitle": false,
+            "quotedInIntro": false
+        },
+        {
+            "name": "Simon Reynolds",
+            "alternativeNames": [],
+            "age": -1,
+            "sex": "male",
+            "occurences": {
+                "total": 1,
+                "firstNameOnly": 0,
+                "lastNameOnly": 0,
+                "fullName": 1,
+                "nickname": 0
+            },
+            "inTitle": false,
+            "inIntro": false,
+            "_name": {
+                "firstname": "Simon",
+                "lastname": "Reynolds",
+                "nickname": null,
+                "alternative_names": [],
+                "academic_title": null,
+                "nobility_title_or_rank": null
+            },
+            "descriptiveTexts": [
+                {
+                    "text": "Essayisten wie der US-Autor Chuck Klosterman oder der britische Musikjournalist Simon Reynolds gehen von einer Art 20-Jahre-Regel aus: Bestimmte Ph\u00e4nomene der Popkultur wiederholen sich alle zwei Jahrzehnte."
+                }
+            ],
+            "occupations": [
+                {
+                    "text": "Musikjournalist"
+                },
+                {
+                    "text": "Essayist"
+                }
+            ],
+            "directQuotes": [],
+            "quotedInTitle": false,
+            "quotedInIntro": false
+        },
+        {
+            "name": "Georgia Davies",
+            "alternativeNames": [],
+            "age": -1,
+            "sex": "female",
+            "occurences": {
+                "total": 1,
+                "firstNameOnly": 0,
+                "lastNameOnly": 0,
+                "fullName": 1,
+                "nickname": 0
+            },
+            "inTitle": false,
+            "inIntro": false,
+            "_name": {
+                "firstname": "Georgia",
+                "lastname": "Davies",
+                "nickname": null,
+                "alternative_names": [],
+                "academic_title": null,
+                "nobility_title_or_rank": null
+            },
+            "descriptiveTexts": [
+                {
+                    "text": "Aber die Idee hielt dem Kater stand \u2013 Abigail Morris, Aurora Nishevci, Emily Roberts, Georgia Davies und Lizzie Mayland wurden The Last Dinner Party."
+                },
+                {
+                    "text": "Andere sehen aus, als h\u00e4tten sie sich auf dem Weg zu einem Rapkonzert oder zu einer Nirvana-Coverband verlaufen."
+                },
+                {
+                    "text": "Sie wird zu einer popmusikalischen Zufluchtsst\u00e4tte f\u00fcr die von der Gegenwart Gelangweilten, Entt\u00e4uschten, \u00dcberreizten."
+                }
+            ],
+            "occupations": [
+                {
+                    "text": "Musikerin"
+                }
+            ],
+            "directQuotes": [],
+            "quotedInTitle": false,
+            "quotedInIntro": false
+        },
+        {
+            "name": "Eva",
+            "alternativeNames": [],
+            "age": -1,
+            "sex": "female",
+            "occurences": {
+                "total": 1,
+                "firstNameOnly": 0,
+                "lastNameOnly": 0,
+                "fullName": 1,
+                "nickname": 0
+            },
+            "inTitle": false,
+            "inIntro": false,
+            "_name": {
+                "firstname": null,
+                "lastname": "Eva",
+                "nickname": null,
+                "alternative_names": [],
+                "academic_title": null,
+                "nobility_title_or_rank": null
+            },
+            "descriptiveTexts": [
+                {
+                    "text": "Aus einer Rippe wird nicht Eva, sondern \u00bbanother you\u00ab geformt, noch ein Du."
+                }
+            ],
+            "occupations": [],
+            "directQuotes": [],
+            "quotedInTitle": false,
+            "quotedInIntro": false
+        },
+        {
+            "name": "John Travolta",
+            "alternativeNames": [],
+            "age": -1,
+            "sex": "male",
+            "occurences": {
+                "total": 2,
+                "firstNameOnly": 0,
+                "lastNameOnly": 1,
+                "fullName": 1,
+                "nickname": 0
+            },
+            "inTitle": false,
+            "inIntro": false,
+            "_name": {
+                "firstname": "John",
+                "lastname": "Travolta",
+                "nickname": null,
+                "alternative_names": [],
+                "academic_title": null,
+                "nobility_title_or_rank": null
+            },
+            "descriptiveTexts": [
+                {
+                    "text": "In den Siebzigerjahren kamen die F\u00fcnfzigerjahre zur\u00fcck, und John Travolta spielte im Fifties-Film \u00bbGrease\u00ab."
+                },
+                {
+                    "text": "In den Neunzigerjahren dann die Siebzigerjahre, und \u00bbGrease\u00ab-Star Travolta hatte sein Comeback mit Tarantinos \u00bbPulp Fiction\u00ab."
+                }
+            ],
+            "occupations": [],
+            "directQuotes": [],
+            "quotedInTitle": false,
+            "quotedInIntro": false
+        },
+        {
+            "name": "PJ Harvey",
+            "alternativeNames": [],
+            "age": -1,
+            "sex": "female",
+            "occurences": {
+                "total": 2,
+                "firstNameOnly": 0,
+                "lastNameOnly": 0,
+                "fullName": 2,
+                "nickname": 0
+            },
+            "inTitle": false,
+            "inIntro": false,
+            "_name": {
+                "firstname": "PJ",
+                "lastname": "Harvey",
+                "nickname": null,
+                "alternative_names": [],
+                "academic_title": null,
+                "nobility_title_or_rank": null
+            },
+            "descriptiveTexts": [
+                {
+                    "text": "Ihre Instrumente sind aufgebaut zwischen einem Poster von PJ Harvey, der erhabenen englischen Songwriterin, die ihre Augen geschlossen hat, und einer Discokugel, die aufdringlich blendet."
+                },
+                {
+                    "text": "In der Strophe eines Songs wirft sie ihre braunen Haare hin und her, die Augen geschlossen wie PJ Harvey, und schaut dann im Refrain auffordernd ins Publikum, fast so aufdringlich wie die Discokugel."
+                }
+            ],
+            "occupations": [],
+            "directQuotes": [],
+            "quotedInTitle": false,
+            "quotedInIntro": false
+        },
+        {
+            "name": "Queen",
+            "alternativeNames": [],
+            "age": -1,
+            "sex": "male",
+            "occurences": {
+                "total": 1,
+                "firstNameOnly": 0,
+                "lastNameOnly": 0,
+                "fullName": 1,
+                "nickname": 0
+            },
+            "inTitle": false,
+            "inIntro": false,
+            "_name": {
+                "firstname": null,
+                "lastname": "Queen",
+                "nickname": null,
+                "alternative_names": [],
+                "academic_title": null,
+                "nobility_title_or_rank": null
+            },
+            "descriptiveTexts": [
+                {
+                    "text": "Herausgekommen ist eine gro\u00dfkotzige Mischung aus der Flamboyanz von Abba, der Exzentrik von Queen und der Dekadenz l\u00e4ngst verstorbener K\u00f6niginnen."
+                }
+            ],
+            "occupations": [],
+            "directQuotes": [],
+            "quotedInTitle": false,
+            "quotedInIntro": false
+        },
+        {
+            "name": "Kian",
+            "alternativeNames": [],
+            "age": -1,
+            "sex": "male",
+            "occurences": {
+                "total": 2,
+                "firstNameOnly": 0,
+                "lastNameOnly": 0,
+                "fullName": 2,
+                "nickname": 0
+            },
+            "inTitle": false,
+            "inIntro": false,
+            "_name": {
+                "firstname": "Kian",
+                "lastname": null,
+                "nickname": null,
+                "alternative_names": [],
+                "academic_title": null,
+                "nobility_title_or_rank": null
+            },
+            "descriptiveTexts": [
+                {
+                    "text": "Und Kian aus Manchester, 19 Jahre alt, blonder Pony, sch\u00fcchterner Blick, der etwas sp\u00e4ter in der Menschenmenge vor der B\u00fchne im Plattenladen steht, sagt, The Last Dinner Party seien \u00bbvery, like, authentic\u00ab."
+                },
+                {
+                    "text": "Star, Natalie und Kian haben alle recht."
+                }
+            ],
+            "occupations": [],
+            "directQuotes": [],
+            "quotedInTitle": false,
+            "quotedInIntro": false
+        },
+        {
+            "name": "Aurora Nishevci",
+            "alternativeNames": [],
+            "age": -1,
+            "sex": "female",
+            "occurences": {
+                "total": 1,
+                "firstNameOnly": 0,
+                "lastNameOnly": 0,
+                "fullName": 1,
+                "nickname": 0
+            },
+            "inTitle": false,
+            "inIntro": false,
+            "_name": {
+                "firstname": "Aurora",
+                "lastname": "Nishevci",
+                "nickname": null,
+                "alternative_names": [],
+                "academic_title": null,
+                "nobility_title_or_rank": null
+            },
+            "descriptiveTexts": [
+                {
+                    "text": "Aber die Idee hielt dem Kater stand \u2013 Abigail Morris, Aurora Nishevci, Emily Roberts, Georgia Davies und Lizzie Mayland wurden The Last Dinner Party."
+                },
+                {
+                    "text": "Andere sehen aus, als h\u00e4tten sie sich auf dem Weg zu einem Rapkonzert oder zu einer Nirvana-Coverband verlaufen."
+                },
+                {
+                    "text": "Sie wird zu einer popmusikalischen Zufluchtsst\u00e4tte f\u00fcr die von der Gegenwart Gelangweilten, Entt\u00e4uschten, \u00dcberreizten."
+                }
+            ],
+            "occupations": [
+                {
+                    "text": "Musikerin"
+                }
+            ],
+            "directQuotes": [],
+            "quotedInTitle": false,
+            "quotedInIntro": false
+        }
+    ]
+}

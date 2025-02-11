@@ -1,0 +1,624 @@
+{
+  "persons": [
+    {
+      "age": -1,
+      "alternativeNames": ["Siggi Wolf"],
+      "birthday": null,
+      "descriptiveTexts": [
+        {
+          "text": "Heute mit Siggi Wolfs Schnäppchenjagd in Russland, dem Duell von Audi und BMW in München und Aufregung um den Autor Stuckrad-Barre in Berlin."
+        },
+        {
+          "text": "Denkt der österreichische Unternehmer und Multi-Aufsichtsrat Siegfried Wolf an Russland, denkt er offenbar auch an günstige Kaufgelegenheiten: Der Eigentümer von Steyr Automotive bot nicht nur für Volkswagens ehemalige Autofabrik im russischen Kaluga, sondern wollte dort auch das Reifenwerk von Continental übernehmen."
+        },
+        {
+          "text": "Der langjährige Vertraute des russischen Milliardärs Oleg Deripaska, der auch im Aufsichtsrat der Familienholding Porsche SE sitzt, wollte offenbar gleich ein kleines Automobilkombinat in Russland aufbauen."
+        },
+        {
+          "text": "Doch in beiden Fällen kam »Siggi« nicht zum Zuge."
+        },
+        {
+          "text": "Schließlich kennt Wolf, aktuell Chefaufseher bei der Conti-Abspaltung Vitesco, den wahren Wert der Reifenfabrik nur zu gut."
+        },
+        {
+          "text": "Dass sich Wolf zudem mit einem Brief bei Kriegstreiber Putin persönlich anbiederte, irritiert auch manchen Entscheider bei Volkswagen."
+        },
+        {
+          "text": "Immerhin hat Genosse Wolf durch sein Mandat bei der Porsche SE Kenntnis über Interna."
+        },
+        {
+          "text": "Meine Kollegen Michael Freitag und Martin Noé erklären, wie der Druck auf Wolf wächst – und welche mächtigen Freunde er noch hat."
+        }
+      ],
+      "directQuotes": [],
+      "inIntro": true,
+      "inTitle": true,
+      "indirectQuotes": [],
+      "isMain": false,
+      "name": "Siegfried Wolf",
+      "occupations": [
+        {
+          "text": "Ein Wolf in Russland, ein Steal in München und ein Aufreger in Berlin"
+        },
+        {
+          "text": "österreichische Unternehmer"
+        },
+        {
+          "text": "Multi-Aufsichtsrat"
+        },
+        {
+          "text": "Chefaufseher bei der Conti-Abspaltung Vitesco"
+        }
+      ],
+      "occurrences": {
+        "firstNameOnly": 2,
+        "fullName": 1,
+        "lastNameOnly": 6,
+        "total": 9
+      },
+      "quotedInIntro": false,
+      "quotedInTitle": false,
+      "sex": "male"
+    },
+    {
+      "age": -1,
+      "alternativeNames": [],
+      "birthday": null,
+      "descriptiveTexts": [
+        {
+          "text": "Liebe Leserin, lieber Leser, wer an Russland denkt, denkt meist an den Angriff auf die Ukraine und daran, wie brutal Kreml-Machthaber Wladimir Putin jede Kritik daran unterdrückt."
+        },
+        {
+          "text": "Dass sich Wolf zudem mit einem Brief bei Kriegstreiber Putin persönlich anbiederte, irritiert auch manchen Entscheider bei Volkswagen."
+        }
+      ],
+      "directQuotes": [],
+      "inIntro": false,
+      "inTitle": false,
+      "indirectQuotes": [],
+      "isMain": false,
+      "name": "Wladimir Putin",
+      "occupations": [
+        {
+          "text": "Kreml-Machthaber"
+        }
+      ],
+      "occurrences": {
+        "firstNameOnly": 0,
+        "fullName": 1,
+        "lastNameOnly": 1,
+        "total": 2
+      },
+      "quotedInIntro": false,
+      "quotedInTitle": false,
+      "sex": "male"
+    },
+    {
+      "age": -1,
+      "alternativeNames": [],
+      "birthday": null,
+      "descriptiveTexts": [
+        {
+          "text": "Der langjährige Vertraute des russischen Milliardärs Oleg Deripaska, der auch im Aufsichtsrat der Familienholding Porsche SE sitzt, wollte offenbar gleich ein kleines Automobilkombinat in Russland aufbauen."
+        }
+      ],
+      "directQuotes": [],
+      "inIntro": false,
+      "inTitle": false,
+      "indirectQuotes": [],
+      "isMain": false,
+      "name": "Oleg Deripaska",
+      "occupations": [
+        {
+          "text": "russischen Milliardärs"
+        }
+      ],
+      "occurrences": {
+        "firstNameOnly": 0,
+        "fullName": 1,
+        "lastNameOnly": 0,
+        "total": 1
+      },
+      "quotedInIntro": false,
+      "quotedInTitle": false,
+      "sex": "male"
+    },
+    {
+      "age": -1,
+      "alternativeNames": [],
+      "birthday": null,
+      "descriptiveTexts": [
+        {
+          "text": "Meine Kollegen Michael Freitag und Martin Noé erklären, wie der Druck auf Wolf wächst – und welche mächtigen Freunde er noch hat."
+        },
+        {
+          "text": "Daher hat der Basketball-Deal zwischen BMW und FCB Sprengkraft, wie meine Kollegen Christoph Seyerlein und Michael Freitag berichten."
+        }
+      ],
+      "directQuotes": [],
+      "inIntro": false,
+      "inTitle": false,
+      "indirectQuotes": [],
+      "isMain": false,
+      "name": "Michael Freitag",
+      "occupations": [
+        {
+          "text": "Kollegen"
+        }
+      ],
+      "occurrences": {
+        "firstNameOnly": 0,
+        "fullName": 2,
+        "lastNameOnly": 0,
+        "total": 2
+      },
+      "quotedInIntro": false,
+      "quotedInTitle": false,
+      "sex": "male"
+    },
+    {
+      "age": -1,
+      "alternativeNames": [],
+      "birthday": null,
+      "descriptiveTexts": [
+        {
+          "text": "Meine Kollegen Michael Freitag und Martin Noé erklären, wie der Druck auf Wolf wächst – und welche mächtigen Freunde er noch hat."
+        },
+        {
+          "text": "Mein Kollege Martin Noé, der sich mit Döpfners riskanter Expansionsstrategie für Springer intensiv beschäftigt hat, war gestern bei der Lesung Stuckrad-Barres im Berliner Ensemble dabei."
+        },
+        {
+          "text": "Er erklärt, warum Stuckrad-Barres Roman den US-Investmentriesen noch nicht nervös macht und in welchem Szenario die Unterstützung von KKR noch bröckeln könnte."
+        }
+      ],
+      "directQuotes": [],
+      "inIntro": false,
+      "inTitle": false,
+      "indirectQuotes": [],
+      "isMain": false,
+      "name": "Martin Noé",
+      "occupations": [
+        {
+          "text": "Kollegen"
+        }
+      ],
+      "occurrences": {
+        "firstNameOnly": 0,
+        "fullName": 2,
+        "lastNameOnly": 0,
+        "total": 2
+      },
+      "quotedInIntro": false,
+      "quotedInTitle": false,
+      "sex": "male"
+    },
+    {
+      "age": -1,
+      "alternativeNames": [],
+      "birthday": null,
+      "descriptiveTexts": [
+        {
+          "text": "Die Wirtschaftsnews des Tages: Teslas Gewinn bricht ein: Tesla-Chef Elon Musk setzt auf Masse statt Marge."
+        },
+        {
+          "text": "Mit immer neuen Preissenkungen versucht er, möglichst viele Tesla-Modelle in den Markt zu drücken."
+        },
+        {
+          "text": "Für Musk war es ohnehin ein gebrauchter Tag: Die unbemannte Starship-Riesenrakete seines US-Raumfahrtunternehmens SpaceX ist bei ihrem ersten Testflug explodiert, etwa drei Minuten nach dem Start."
+        }
+      ],
+      "directQuotes": [],
+      "inIntro": false,
+      "inTitle": false,
+      "indirectQuotes": [],
+      "isMain": false,
+      "name": "Elon Musk",
+      "occupations": [
+        {
+          "text": "Tesla-Chef"
+        }
+      ],
+      "occurrences": {
+        "firstNameOnly": 0,
+        "fullName": 1,
+        "lastNameOnly": 1,
+        "total": 2
+      },
+      "quotedInIntro": false,
+      "quotedInTitle": false,
+      "sex": "male"
+    },
+    {
+      "age": -1,
+      "alternativeNames": [],
+      "birthday": null,
+      "descriptiveTexts": [
+        {
+          "text": "Ähnlich dürfte sich Audis Marketingchefin Hildegard Wortmann fühlen."
+        }
+      ],
+      "directQuotes": [
+      ],
+      "inIntro": false,
+      "inTitle": false,
+      "indirectQuotes": [
+      ],
+      "isMain": false,
+      "name": "Hildegard Wortmann",
+      "occupations": [
+        {
+          "text": "Audis Marketingchefin"
+        }
+      ],
+      "occurrences": {
+        "firstNameOnly": 0,
+        "fullName": 1,
+        "lastNameOnly": 0,
+        "total": 1
+      },
+      "quotedInIntro": false,
+      "quotedInTitle": false,
+      "sex": "female"
+    },
+    {
+      "age": -1,
+      "alternativeNames": [],
+      "birthday": null,
+      "descriptiveTexts": [
+        {
+          "text": "Daher hat der Basketball-Deal zwischen BMW und FCB Sprengkraft, wie meine Kollegen Christoph Seyerlein und Michael Freitag berichten."
+        }
+      ],
+      "directQuotes": [],
+      "inIntro": false,
+      "inTitle": false,
+      "indirectQuotes": [],
+      "isMain": false,
+      "name": "Christoph Seyerlein",
+      "occupations": [
+        {
+          "text": "Kollegen"
+        }
+      ],
+      "occurrences": {
+        "firstNameOnly": 0,
+        "fullName": 1,
+        "lastNameOnly": 0,
+        "total": 1
+      },
+      "quotedInIntro": false,
+      "quotedInTitle": false,
+      "sex": "male"
+    },
+    {
+      "age": -1,
+      "alternativeNames": [],
+      "birthday": null,
+      "descriptiveTexts": [
+        {
+          "text": "Warum IT-Chefin Sabine Scheunert Mercedes-Benz verlässt: Sabine Scheunert versprüht bei LinkedIn Glanz und Gloria."
+        },
+        {
+          "text": "Die IT-Chefin des Mercedes-Vertriebs postet schon mal Bilder mit Wirtschaftsminister Robert Habeck."
+        },
+        {
+          "text": "Intern lief es für sie nicht immer glänzend."
+        },
+        {
+          "text": "Compliance-Probleme wegen ihrer Ehe mit Ex-Vorstand Wilfried Porth ließen sich noch umschiffen."
+        },
+        {
+          "text": "Aber jetzt macht Scheunert Schluss."
+        },
+        {
+          "text": "Meine Kollegin Margret Hucko berichtet exklusiv, warum die Digitalexpertin die Schwaben verlässt."
+        }
+      ],
+      "directQuotes": [],
+      "inIntro": false,
+      "inTitle": false,
+      "indirectQuotes": [],
+      "isMain": false,
+      "name": "Sabine Scheunert",
+      "occupations": [
+        {
+          "text": "IT-Chefin des Mercedes-Vertriebs"
+        },
+        {
+          "text": "Digitalexpertin"
+        }
+      ],
+      "occurrences": {
+        "firstNameOnly": 0,
+        "fullName": 2,
+        "lastNameOnly": 1,
+        "total": 3
+      },
+      "quotedInIntro": false,
+      "quotedInTitle": false,
+      "sex": "female"
+    },
+    {
+      "age": -1,
+      "alternativeNames": [],
+      "birthday": null,
+      "descriptiveTexts": [
+        {
+          "text": "Die IT-Chefin des Mercedes-Vertriebs postet schon mal Bilder mit Wirtschaftsminister Robert Habeck."
+        }
+      ],
+      "directQuotes": [],
+      "inIntro": false,
+      "inTitle": false,
+      "indirectQuotes": [],
+      "isMain": false,
+      "name": "Robert Habeck",
+      "occupations": [
+        {
+          "text": "Wirtschaftsminister"
+        }
+      ],
+      "occurrences": {
+        "firstNameOnly": 0,
+        "fullName": 1,
+        "lastNameOnly": 0,
+        "total": 1
+      },
+      "quotedInIntro": false,
+      "quotedInTitle": false,
+      "sex": "male"
+    },
+    {
+      "age": -1,
+      "alternativeNames": [],
+      "birthday": null,
+      "descriptiveTexts": [
+        {
+          "text": "Compliance-Probleme wegen ihrer Ehe mit Ex-Vorstand Wilfried Porth ließen sich noch umschiffen."
+        },
+        {
+          "text": "Nicht mit Porth, aber mit Mercedes."
+        }
+      ],
+      "directQuotes": [],
+      "inIntro": false,
+      "inTitle": false,
+      "indirectQuotes": [],
+      "isMain": false,
+      "name": "Wilfried Porth",
+      "occupations": [
+        {
+          "text": "Ex-Vorstand"
+        }
+      ],
+      "occurrences": {
+        "firstNameOnly": 0,
+        "fullName": 1,
+        "lastNameOnly": 1,
+        "total": 2
+      },
+      "quotedInIntro": false,
+      "quotedInTitle": false,
+      "sex": "male"
+    },
+    {
+      "age": -1,
+      "alternativeNames": [],
+      "birthday": null,
+      "descriptiveTexts": [
+        {
+          "text": "Meine Kollegin Margret Hucko berichtet exklusiv, warum die Digitalexpertin die Schwaben verlässt."
+        }
+      ],
+      "directQuotes": [],
+      "inIntro": false,
+      "inTitle": false,
+      "indirectQuotes": [],
+      "isMain": false,
+      "name": "Margret Hucko",
+      "occupations": [
+        {
+          "text": "Kollegin"
+        }
+      ],
+      "occurrences": {
+        "firstNameOnly": 0,
+        "fullName": 1,
+        "lastNameOnly": 0,
+        "total": 1
+      },
+      "quotedInIntro": false,
+      "quotedInTitle": false,
+      "sex": "female"
+    },
+    {
+      "age": -1,
+      "alternativeNames": [],
+      "birthday": null,
+      "descriptiveTexts": [
+        {
+          "text": "Meine Empfehlung für den Abend: Die Stützen des Axel-Springer-Chefs Mathias Döpfner: Wer noch nichts vom neuen Roman des Autors Benjamin von Stuckrad-Barre und dessen Bezügen zum Axel-Springer-Verlag gehört hat, der dürfte in den vergangenen Tagen noch nicht ganz wach gewesen sein."
+        },
+        {
+          "text": "Die von der »Zeit« veröffentlichten Chatnachrichten Döpfners, ein geschicktes Marketing des Verlags Kiepenheuer und Witsch sowie die Podcasts des Satirikers Jan Böhmermann sorgten für ein mediales Hupkonzert, das auch der lautstarken »Bild«-Zeitung zur Ehre gereicht hätte."
+        },
+        {
+          "text": "Weniger bekannt ist, mit welch stoischer Ruhe und Gelassenheit der Springer-Hauptaktionär KKR weiterhin zu Springer-Chef Mathias Döpfner steht, obwohl dieser bereits in der Affäre um Ex-Bild-Chefredakteur Julian Reichelt keine gute Figur gemacht hatte."
+        },
+        {
+          "text": "Mein Kollege Martin Noé, der sich mit Döpfners riskanter Expansionsstrategie für Springer intensiv beschäftigt hat, war gestern bei der Lesung Stuckrad-Barres im Berliner Ensemble dabei."
+        }
+      ],
+      "directQuotes": [],
+      "inIntro": false,
+      "inTitle": false,
+      "indirectQuotes": [],
+      "isMain": false,
+      "name": "Mathias Döpfner",
+      "occupations": [
+        {
+          "text": "Axel-Springer-Chefs"
+        },
+        {
+          "text": "Springer-Chef"
+        }
+      ],
+      "occurrences": {
+        "firstNameOnly": 0,
+        "fullName": 2,
+        "lastNameOnly": 2,
+        "total": 4
+      },
+      "quotedInIntro": false,
+      "quotedInTitle": false,
+      "sex": "male"
+    },
+    {
+      "age": -1,
+      "alternativeNames": [],
+      "birthday": null,
+      "descriptiveTexts": [
+        {
+          "text": "Heute mit Siggi Wolfs Schnäppchenjagd in Russland, dem Duell von Audi und BMW in München und Aufregung um den Autor Stuckrad-Barre in Berlin."
+        },
+        {
+          "text": "Meine Empfehlung für den Abend: Die Stützen des Axel-Springer-Chefs Mathias Döpfner: Wer noch nichts vom neuen Roman des Autors Benjamin von Stuckrad-Barre und dessen Bezügen zum Axel-Springer-Verlag gehört hat, der dürfte in den vergangenen Tagen noch nicht ganz wach gewesen sein."
+        },
+        {
+          "text": "Mein Kollege Martin Noé, der sich mit Döpfners riskanter Expansionsstrategie für Springer intensiv beschäftigt hat, war gestern bei der Lesung Stuckrad-Barres im Berliner Ensemble dabei."
+        },
+        {
+          "text": "Er erklärt, warum Stuckrad-Barres Roman den US-Investmentriesen noch nicht nervös macht und in welchem Szenario die Unterstützung von KKR noch bröckeln könnte."
+        }
+      ],
+      "directQuotes": [],
+      "inIntro": true,
+      "inTitle": false,
+      "indirectQuotes": [],
+      "isMain": false,
+      "name": "Benjamin von Stuckrad-Barre",
+      "occupations": [
+        {
+          "text": "Autors"
+        }
+      ],
+      "occurrences": {
+        "firstNameOnly": 0,
+        "fullName": 1,
+        "lastNameOnly": 2,
+        "total": 3
+      },
+      "quotedInIntro": false,
+      "quotedInTitle": false,
+      "sex": "male"
+    },
+    {
+      "age": -1,
+      "alternativeNames": [],
+      "birthday": null,
+      "descriptiveTexts": [
+        {
+          "text": "Die von der »Zeit« veröffentlichten Chatnachrichten Döpfners, ein geschicktes Marketing des Verlags Kiepenheuer und Witsch sowie die Podcasts des Satirikers Jan Böhmermann sorgten für ein mediales Hupkonzert, das auch der lautstarken »Bild«-Zeitung zur Ehre gereicht hätte."
+        }
+      ],
+      "directQuotes": [],
+      "inIntro": false,
+      "inTitle": false,
+      "indirectQuotes": [],
+      "isMain": false,
+      "name": "Jan Böhmermann",
+      "occupations": [
+        {
+          "text": "Satirikers"
+        }
+      ],
+      "occurrences": {
+        "firstNameOnly": 0,
+        "fullName": 1,
+        "lastNameOnly": 0,
+        "total": 1
+      },
+      "quotedInIntro": false,
+      "quotedInTitle": false,
+      "sex": "male"
+    },
+    {
+      "age": -1,
+      "alternativeNames": [],
+      "birthday": null,
+      "descriptiveTexts": [
+        {
+          "text": "Weniger bekannt ist, mit welch stoischer Ruhe und Gelassenheit der Springer-Hauptaktionär KKR weiterhin zu Springer-Chef Mathias Döpfner steht, obwohl dieser bereits in der Affäre um Ex-Bild-Chefredakteur Julian Reichelt keine gute Figur gemacht hatte."
+        }
+      ],
+      "directQuotes": [],
+      "inIntro": false,
+      "inTitle": false,
+      "indirectQuotes": [],
+      "isMain": false,
+      "name": "Julian Reichelt",
+      "occupations": [
+        {
+          "text": "Ex-Bild-Chefredakteur"
+        }
+      ],
+      "occurrences": {
+        "firstNameOnly": 0,
+        "fullName": 1,
+        "lastNameOnly": 0,
+        "total": 1
+      },
+      "quotedInIntro": false,
+      "quotedInTitle": false,
+      "sex": "male"
+    },
+    {
+      "age": -1,
+      "alternativeNames": [],
+      "birthday": null,
+      "descriptiveTexts": [
+        {
+          "text": "Meine Kollegen Michael Freitag und Martin Noé erklären, wie der Druck auf Wolf wächst – und welche mächtigen Freunde er noch hat."
+        },
+        {
+          "text": "Daher hat der Basketball-Deal zwischen BMW und FCB Sprengkraft, wie meine Kollegen Christoph Seyerlein und Michael Freitag berichten."
+        },
+        {
+          "text": "Meine Kollegin Margret Hucko berichtet exklusiv, warum die Digitalexpertin die Schwaben verlässt."
+        },
+        {
+          "text": "Meine Empfehlung für den Abend: Die Stützen des Axel-Springer-Chefs Mathias Döpfner: Wer noch nichts vom neuen Roman des Autors Benjamin von Stuckrad-Barre und dessen Bezügen zum Axel-Springer-Verlag gehört hat, der dürfte in den vergangenen Tagen noch nicht ganz wach gewesen sein."
+        },
+        {
+          "text": "Mein Kollege Martin Noé, der sich mit Döpfners riskanter Expansionsstrategie für Springer intensiv beschäftigt hat, war gestern bei der Lesung Stuckrad-Barres im Berliner Ensemble dabei."
+        },
+        
+        {
+          "text": "Herzlich, Ihr Kai Lange"
+        }
+      ],
+      "directQuotes": [],
+      "inIntro": false,
+      "inTitle": false,
+      "indirectQuotes": [],
+      "isMain": false,
+      "name": "Kai Lange",
+      "occupations": [],
+      "occurrences": {
+        "firstNameOnly": 0,
+        "fullName": 1,
+        "lastNameOnly": 0,
+        "total": 1
+      },
+      "quotedInIntro": false,
+      "quotedInTitle": false,
+      "sex": "male"
+    }
+  ],
+  "subtopics": [
+    "Unternehmen",
+    "Politik",
+    "Personalie",
+    "Investoren"
+  ]
+}

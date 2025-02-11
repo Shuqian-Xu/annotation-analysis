@@ -1,0 +1,91 @@
+{
+    "persons": [
+        {
+            "name": "Jonas Rest",
+            "alternativeNames": [],
+            "age": -1,
+            "sex": "male",
+            "occurences": {
+                "total": 2,
+                "firstNameOnly": 0,
+                "lastNameOnly": 0,
+                "fullName": 2,
+                "nickname": 0
+            },
+            "inTitle": false,
+            "inIntro": true,
+            "_name": {
+                "firstname": "Jonas",
+                "lastname": "Rest",
+                "nickname": null,
+                "alternative_names": [],
+                "academic_title": null,
+                "nobility_title_or_rank": null
+            },
+            "descriptiveTexts": [
+                {
+                    "text": "Platz 2: Techreporter Jonas Rest \u00fcber die neuen rauen Sitten in Start-up-Deutschland."
+                },
+                {
+                    "text": "H\u00f6ren Sie hier nacheinander die drei erfolgreichsten Podcasts aus der Reihe \"Das Thema\" mit Chefredakteur Sven Clausen."
+                },
+                {
+                    "text": "Tech-Reporter Jonas Rest informiert, wie Zinswende, Kapitalknappheit und die neue Skepsis gegen\u00fcber nur halb ausgereiften Gesch\u00e4ftsmodellen die Berliner Start-up-Szene durcheinander r\u00fctteln."
+                }
+            ],
+            "occupations": [
+                {
+                    "text": "Reporter"
+                },
+                {
+                    "text": "Tech-Reporter"
+                }
+            ],
+            "directQuotes": [],
+            "quotedInTitle": false,
+            "quotedInIntro": true
+        },
+        {
+            "name": "Sven Clausen",
+            "alternativeNames": [],
+            "age": -1,
+            "sex": "male",
+            "occurences": {
+                "total": 2,
+                "firstNameOnly": 0,
+                "lastNameOnly": 0,
+                "fullName": 2,
+                "nickname": 0
+            },
+            "inTitle": false,
+            "inIntro": false,
+            "_name": {
+                "firstname": "Sven",
+                "lastname": "Clausen",
+                "nickname": null,
+                "alternative_names": [],
+                "academic_title": null,
+                "nobility_title_or_rank": null
+            },
+            "descriptiveTexts": [
+                {
+                    "text": "H\u00f6ren Sie hier nacheinander die drei erfolgreichsten Podcasts aus der Reihe \"Das Thema\" mit Chefredakteur Sven Clausen."
+                },
+                {
+                    "text": "Im Podcast \"Das Thema\" informiert Chefredakteur Sven Clausen jede Woche \u00fcber den internen Recherchestand zu einem relevanten aktuellen und zugleich zukunftstr\u00e4chtigen Thema der Wirtschaft."
+                },
+                {
+                    "text": "Sie k\u00f6nnen den Podcast \u00fcber manager magazin sowie auf Spotify, Apple, Deezer und bei Google abonnieren."
+                }
+            ],
+            "occupations": [
+                {
+                    "text": "Chefredakteur"
+                }
+            ],
+            "directQuotes": [],
+            "quotedInTitle": false,
+            "quotedInIntro": false
+        }
+    ]
+}

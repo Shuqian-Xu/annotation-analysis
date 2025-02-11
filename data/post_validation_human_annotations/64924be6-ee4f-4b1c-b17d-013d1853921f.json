@@ -1,0 +1,439 @@
+{
+  "persons": [
+    {
+      "age": -1, 
+      "alternativeNames": [],
+      "birthday": null,
+      "descriptiveTexts": [
+        {
+          "text": "Heute mit einem heimlichen Star der KI-Szene, einem Automanager auf Rachefeldzug und einer Staranwältin im Terminstress."
+        },
+        {
+          "text": "Schon im Dezember 2020 nämlich veröffentlichte ein Team um den deutschen IT-Wissenschaftler Björn Ommer eine frühe KI, die in der Szene als Wegbereiter betrachtet wird."
+        },
+        {
+          "text": "Wie fühlt sich das also an, als heimlicher Star der globalen Techwelt?"
+        },
+        {
+          "text": "Warum ist er lieber Professor in München statt Millionenmanager in einem Techkonzern?"
+        },
+        {
+          "text": "Mein Kollege Mark Böschen hat ausführlich mit Björn Ommer gesprochen: Der deutsche Forscher, der den globalen KI-Hype auslöste."
+        }
+      ],
+      "directQuotes": [],
+      "inIntro": true,
+      "inTitle": false,
+      "indirectQuotes": [],
+      "isMain": false,
+      "name": "Björn Ommer",
+      "occupations": [
+        {
+          "text": "IT-Wissenschaftler"
+        },
+        {
+          "text": "heimlicher Star der globalen Techwelt"
+        },
+        {
+          "text": "Professor in München"
+        }
+      ],
+      "occurences": {
+        "firstNameOnly": 0,
+        "fullName": 2,
+        "lastNameOnly": 0,
+        "total": 2
+      },
+      "quotedInIntro": false,
+      "quotedInTitle": false,
+      "sex": "male"
+    },
+    {
+      "age": -1, 
+      "alternativeNames": [],
+      "birthday": null,
+      "descriptiveTexts": [
+        {
+          "text": "Mein Kollege Mark Böschen hat ausführlich mit Björn Ommer gesprochen: Der deutsche Forscher, der den globalen KI-Hype auslöste."
+        }
+      ],
+      "directQuotes": [],
+      "inIntro": false,
+      "inTitle": false,
+      "indirectQuotes": [],
+      "isMain": false,
+      "name": "Mark Böschen",
+      "occupations": [
+        {
+          "text": "Kollege"
+        }
+      ],
+      "occurences": {
+        "firstNameOnly": 0,
+        "fullName": 1,
+        "lastNameOnly": 0,
+        "total": 1
+      },
+      "quotedInIntro": false,
+      "quotedInTitle": false,
+      "sex": "male"
+    },
+    {
+      "age": -1, 
+      "alternativeNames": [],
+      "birthday": null,
+      "descriptiveTexts": [
+        {
+          "text": "Die wichtigsten Wirtschaftsnews des Tages: Sparpläne bei der Deutschen Bank: Dass Claudio de Sanctis als neuer Privatkundenvorstand ins oberste Gremium der Deutschen Bank aufrückt, war bekannt."
+        },
+        {
+          "text": "Seit heute ist klar: Er fängt deutlich früher an als bislang gedacht, schon zum 1. Juli."
+        },
+        {
+          "text": "Und außerdem bereitet er bereits den ersten Hieb vor, wie meine Kollegin Katharina Slodczyk recherchiert hat."
+        },
+        {
+          "text": "Da steigt die Vorfreude auf den neuen Chef."
+        }
+      ],
+      "directQuotes": [],
+      "inIntro": false,
+      "inTitle": false,
+      "indirectQuotes": [],
+      "isMain": false,
+      "name": "Claudio de Sanctis",
+      "occupations": [
+        {
+          "text": "Privatkundenvorstand"
+        },
+        {
+          "text": "neuen Chef"
+        }
+      ],
+      "occurences": {
+        "firstNameOnly": 0,
+        "fullName": 1,
+        "lastNameOnly": 0,
+        "total": 1
+      },
+      "quotedInIntro": false,
+      "quotedInTitle": false,
+      "sex": "male"
+    },
+    {
+      "age": -1, 
+      "alternativeNames": [],
+      "birthday": null,
+      "descriptiveTexts": [
+        {
+          "text": "Und außerdem bereitet er bereits den ersten Hieb vor, wie meine Kollegin Katharina Slodczyk recherchiert hat."
+        }
+      ],
+      "directQuotes": [],
+      "inIntro": false,
+      "inTitle": false,
+      "indirectQuotes": [],
+      "isMain": false,
+      "name": "Katharina Slodczyk",
+      "occupations": [
+        {
+          "text": "Kollegin"
+        }
+      ],
+      "occurences": {
+        "firstNameOnly": 0,
+        "fullName": 1,
+        "lastNameOnly": 0,
+        "total": 1
+      },
+      "quotedInIntro": false,
+      "quotedInTitle": false,
+      "sex": "female"
+    },
+    {
+      "age": -1, 
+      "alternativeNames": [],
+      "birthday": null,
+      "descriptiveTexts": [
+        {
+          "text": "Daniel Zhang, langjähriger Chef des Alibaba-Konzerns und zugleich Vorsitzender des Verwaltungsrats, gibt überraschend beide Posten ab."
+        },
+        {
+          "text": "Er soll künftig die Cloud-Einheit leiten, die als Aspirant für einen Gang an die Börse gilt."
+        }
+      ],
+      "directQuotes": [],
+      "inIntro": false,
+      "inTitle": false,
+      "indirectQuotes": [],
+      "isMain": false,
+      "name": "Daniel Zhang",
+      "occupations": [
+        {
+          "text": "langjähriger Chef des Alibaba-Konzerns"
+        },
+        {
+          "text": "Vorsitzender des Verwaltungsrats"
+        }
+      ],
+      "occurences": {
+        "firstNameOnly": 0,
+        "fullName": 1,
+        "lastNameOnly": 0,
+        "total": 1
+      },
+      "quotedInIntro": false,
+      "quotedInTitle": false,
+      "sex": "male"
+    },
+    {
+      "age": -1, 
+      "alternativeNames": [],
+      "birthday": null,
+      "descriptiveTexts": [
+        {
+          "text": "Heute mit einem heimlichen Star der KI-Szene, einem Automanager auf Rachefeldzug und einer Staranwältin im Terminstress."
+        },
+        {
+          "text": "Die Milliardenrache des Auto-CEOs: Als Boss von Renault und Nissan war Carlos Ghosn einst ein Titan der Autowelt."
+        },
+        {
+          "text": "Dann wurde er in Japan verhaftet, floh in einer Kiste versteckt Richtung Libanon und versucht seither, seinen Ruf zu retten."
+        },
+        {
+          "text": "Jetzt hat er Nissan und zwölf seiner Ex-Kollegen in Beirut verklagt – auf mehr als eine Milliarde Dollar."
+        }
+      ],
+      "directQuotes": [],
+      "inIntro": false,
+      "inTitle": false,
+      "indirectQuotes": [],
+      "isMain": false,
+      "name": "Carlos Ghosn",
+      "occupations": [
+        {
+          "text": "Auto-CEOs"
+        },
+        {
+          "text": "Boss von Renault und Nissan"
+        },
+        {
+          "text": "Titan der Autowelt"
+        }
+      ],
+      "occurences": {
+        "firstNameOnly": 0,
+        "fullName": 1,
+        "lastNameOnly": 0,
+        "total": 1
+      },
+      "quotedInIntro": false,
+      "quotedInTitle": false,
+      "sex": "male"
+    },
+    {
+      "age": -1, 
+      "alternativeNames": [],
+      "birthday": null,
+      "descriptiveTexts": [
+        {
+          "text": "Konzernchef Roland Busch jedenfalls freut sich schon."
+        }
+      ],
+      "directQuotes": [],
+      "inIntro": false,
+      "inTitle": false,
+      "indirectQuotes": [],
+      "isMain": false,
+      "name": "Roland Busch",
+      "occupations": [
+        {
+          "text": "Konzernchef"
+        }
+      ],
+      "occurences": {
+        "firstNameOnly": 0,
+        "fullName": 1,
+        "lastNameOnly": 0,
+        "total": 1
+      },
+      "quotedInIntro": false,
+      "quotedInTitle": false,
+      "sex": "male"
+    },
+    {
+      "age": -1, 
+      "alternativeNames": [],
+      "birthday": null,
+      "descriptiveTexts": [
+        {
+          "text": "Nun haben die beiden Schöpfer der legendären Blue-Ocean-Strategie, die Professoren W. Chan Kim und Renée Mauborgne von der Insead Business School ihre Theorie radikal weiterentwickelt."
+        },
+        {
+          "text": "Ihr neues Konzept zeigt nun, dass es bessere Wege gibt, um neue Märkte zu erschließen: Disruption war gestern!"
+        }
+      ],
+      "directQuotes": [],
+      "inIntro": false,
+      "inTitle": false,
+      "indirectQuotes": [],
+      "isMain": false,
+      "name": "W. Chan Kim",
+      "occupations": [
+        {
+          "text": "Professoren"
+        }
+      ],
+      "occurences": {
+        "firstNameOnly": 0,
+        "fullName": 1,
+        "lastNameOnly": 0,
+        "total": 1
+      },
+      "quotedInIntro": false,
+      "quotedInTitle": false,
+      "sex": "male"
+    },
+    {
+      "age": -1, 
+      "alternativeNames": [],
+      "birthday": null,
+      "descriptiveTexts": [
+        {
+          "text": "Nun haben die beiden Schöpfer der legendären Blue-Ocean-Strategie, die Professoren W. Chan Kim und Renée Mauborgne von der Insead Business School ihre Theorie radikal weiterentwickelt."
+        },
+        {
+          "text": "Ihr neues Konzept zeigt nun, dass es bessere Wege gibt, um neue Märkte zu erschließen: Disruption war gestern!"
+        }
+      ],
+      "directQuotes": [],
+      "inIntro": false,
+      "inTitle": false,
+      "indirectQuotes": [],
+      "isMain": false,
+      "name": "Renée Mauborgne",
+      "occupations": [
+        {
+          "text": "Professoren"
+        }
+      ],
+      "occurences": {
+        "firstNameOnly": 0,
+        "fullName": 1,
+        "lastNameOnly": 0,
+        "total": 1
+      },
+      "quotedInIntro": false,
+      "quotedInTitle": false,
+      "sex": "male"
+    },
+    {
+      "age": -1, 
+      "alternativeNames": [],
+      "birthday": null,
+      "descriptiveTexts": [
+        {
+          "text": "Heute mit einem heimlichen Star der KI-Szene, einem Automanager auf Rachefeldzug und einer Staranwältin im Terminstress."
+        },
+        {
+          "text": "Meine Empfehlung für den Abend: Anahita Thoms ist Partnerin bei der Kanzlei Baker McKenzie, übt einige Ehrenämter aus, etwa bei der Atlantik-Brücke oder im Sustainable Finance Beirat der Bundesregierung, und hat mehr als 44.000 Follower im Karrierenetzwerk LinkedIn."
+        },
+        {
+          "text": "Manch einer stellt sich offenbar die Frage, wie die Anwältin und Mutter ihre verschiedenen Aktivitäten unter einen Hut bekommt."
+        },
+        {
+          "text": "Aber lesen Sie selbst: Die Effizienz-Hacks der Topanwältin Anahita Thoms."
+        }
+      ],
+      "directQuotes": [],
+      "inIntro": false,
+      "inTitle": false,
+      "indirectQuotes": [],
+      "isMain": false,
+      "name": "Anahita Thoms",
+      "occupations": [
+        {
+          "text": "Partnerin bei der Kanzlei Baker McKenzie"
+        },
+        {
+          "text": "Anwältin"
+        },
+        {
+          "text": "Mutter"
+        },
+        {
+          "text": "Topanwältin"
+        }
+      ],
+      "occurences": {
+        "firstNameOnly": 0,
+        "fullName": 2,
+        "lastNameOnly": 0,
+        "total": 2
+      },
+      "quotedInIntro": false,
+      "quotedInTitle": false,
+      "sex": "female"
+    },
+    {
+      "age": -1, 
+      "alternativeNames": [],
+      "birthday": null,
+      "descriptiveTexts": [
+        {
+          "text": "Meine Kollegin Katharina Hölter hat nachgefragt."
+        }
+      ],
+      "directQuotes": [],
+      "inIntro": false,
+      "inTitle": false,
+      "indirectQuotes": [],
+      "isMain": false,
+      "name": "Katharina Hölter",
+      "occupations": [
+        {
+          "text": "Kollegin"
+        }
+      ],
+      "occurences": {
+        "firstNameOnly": 0,
+        "fullName": 1,
+        "lastNameOnly": 0,
+        "total": 1
+      },
+      "quotedInIntro": false,
+      "quotedInTitle": false,
+      "sex": "female"
+    },
+    {
+      "age": -1, 
+      "alternativeNames": [],
+      "birthday": null,
+      "descriptiveTexts": [
+        {
+          "text": "Beste Grüße, Ihr Christoph Rottwilm"
+        }
+      ],
+      "directQuotes": [],
+      "inIntro": false,
+      "inTitle": false,
+      "indirectQuotes": [],
+      "isMain": false,
+      "name": "Christoph Rottwilm",
+      "occupations": [],
+      "occurences": {
+        "firstNameOnly": 0,
+        "fullName": 1,
+        "lastNameOnly": 0,
+        "total": 1
+      },
+      "quotedInIntro": false,
+      "quotedInTitle": false,
+      "sex": "male"
+    }
+  ],
+  "subtopics": [
+    "Personalie", "Management", "Unternehmen",
+    "Technologie"
+  ]
+}

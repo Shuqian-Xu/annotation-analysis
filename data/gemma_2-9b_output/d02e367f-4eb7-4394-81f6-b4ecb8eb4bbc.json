@@ -1,0 +1,472 @@
+{
+    "persons": [
+        {
+            "name": "Frank G\u00f6ring",
+            "alternativeNames": [],
+            "age": 62,
+            "sex": "male",
+            "occurences": {
+                "total": 13,
+                "firstNameOnly": 0,
+                "lastNameOnly": 11,
+                "fullName": 2,
+                "nickname": 0
+            },
+            "inTitle": false,
+            "inIntro": true,
+            "_name": {
+                "firstname": "Frank",
+                "lastname": "G\u00f6ring",
+                "nickname": null,
+                "alternative_names": [],
+                "academic_title": null,
+                "nobility_title_or_rank": null
+            },
+            "descriptiveTexts": [
+                {
+                    "text": "Vorstandschef Frank G\u00f6ring meldet nun doch noch Vollzug."
+                },
+                {
+                    "text": "Nun hat er also doch noch die gr\u00f6\u00dfte \u00dcbernahme der Unternehmensgeschichte perfekt gemacht."
+                },
+                {
+                    "text": "\"Wir werden den Markt fluten mit Armaturen aus dem Hause Villeroy & Boch, ich kann es kaum erwarten\", frohlockte Frank G\u00f6ring (62), der Vorstandschef der Familienfirma aus Mettlach im Saarland, am Montag."
+                },
+                {
+                    "text": "Und mit einem Unterton diebischer Freude setzte er hinzu: \"Das wird lustig f\u00fcr alle.\""
+                },
+                {
+                    "text": "G\u00f6ring steht seit 26 Jahren in Diensten der weitverzweigten Familie, die bis heute die kompletten Stammaktien an Villeroy & Boch h\u00e4lt und das b\u00f6rsennotierte Unternehmen kontrolliert."
+                },
+                {
+                    "text": "Seit gut 16 Jahren leitet er den traditionsreichen Porzellanhersteller als erstes Nichtfamilienmitglied."
+                },
+                {
+                    "text": "Im M\u00e4rz hatte er angek\u00fcndigt, eigentlich zum Jahresende aufzuh\u00f6ren."
+                },
+                {
+                    "text": "Nun will er wom\u00f6glich doch weitermachen."
+                },
+                {
+                    "text": "Der Deal, der die Unternehmersippe im ersten Anlauf vor drei Jahren fast zerlegt h\u00e4tte, ist G\u00f6rings letzter gro\u00dfer Tusch."
+                },
+                {
+                    "text": "Mit dem Zukauf des belgischen Herstellers Ideal Standard, einem Anbieter von Badarmaturen und -keramik, \u00fcbernimmt er einen kaum kleineren Konkurrenten."
+                },
+                {
+                    "text": "G\u00f6ring durfte daf\u00fcr tief in die Familienkasse greifen: Die erwartete Kaufpreiszahlung bezifferte er auf 428 Millionen Euro."
+                },
+                {
+                    "text": "Auch Vorstandschef G\u00f6ring war daf\u00fcr."
+                },
+                {
+                    "text": "\"Damals hat es ein bisschen geruckelt\", r\u00e4umt G\u00f6ring heute ein."
+                },
+                {
+                    "text": "Schon im Laufe des Fr\u00fchjahrs 2020 h\u00e4tte man die Wogen aber gl\u00e4tten k\u00f6nnen und sei in die erste Verhandlungsrunde mit Ideal Standard gestartet, sagt G\u00f6ring heute."
+                },
+                {
+                    "text": "\"Vergangenes Jahr, als alles wieder gut lief, haben wir gesagt, jetzt sprechen wir wieder miteinander\", sagte G\u00f6ring."
+                },
+                {
+                    "text": "Dass sie es dieses Mal geheim halten konnten, freut ihn besonders."
+                },
+                {
+                    "text": "F\u00fcr G\u00f6ring ist die \u00dcbernahme ein \"Meilenstein\", es entstehe eine \"schlagkr\u00e4ftige Verbindung\"."
+                },
+                {
+                    "text": "F\u00fcr G\u00f6ring entscheidend: Das Armaturengesch\u00e4ft, das Ideal Standard mitbringt und das Villeroy & Boch bis dato fehlt."
+                },
+                {
+                    "text": "Im Vergleich zu 2022 sei ein um 35 Millionen Euro besseres operatives Ergebnis drin, hat G\u00f6ring der Familie vorgerechnet."
+                },
+                {
+                    "text": "G\u00f6ring relativiert: \"Die Integration will ich auf jeden Fall begleiten.\""
+                }
+            ],
+            "occupations": [
+                {
+                    "text": "erstes Nichtfamilienmitglied"
+                },
+                {
+                    "text": "Euphorie, die der Vorstandschef verbreitet, passt nicht zu jemandem, der in einem Vierteljahr abtreten will"
+                },
+                {
+                    "text": "Vorstandschef"
+                },
+                {
+                    "text": "alle H\u00e4nde voll zu tun gehabt, ausgleichend auf die rivalisierenden Gesellschafter einzuwirken"
+                }
+            ],
+            "directQuotes": [
+                {
+                    "text": "Wir werden den Markt fluten mit Armaturen aus dem Hause Villeroy & Boch, ich kann es kaum erwarten"
+                },
+                {
+                    "text": "Damals hat es ein bisschen geruckelt"
+                },
+                {
+                    "text": "Vergangenes Jahr, als alles wieder gut lief, haben wir gesagt, jetzt sprechen wir wieder miteinander"
+                },
+                {
+                    "text": "Meilenstein"
+                },
+                {
+                    "text": "Die Integration will ich auf jeden Fall begleiten."
+                }
+            ],
+            "quotedInTitle": false,
+            "quotedInIntro": true
+        },
+        {
+            "name": "Alexander von Boch-Galhau",
+            "alternativeNames": [],
+            "age": 74,
+            "sex": "male",
+            "occurences": {
+                "total": 3,
+                "firstNameOnly": 0,
+                "lastNameOnly": 2,
+                "fullName": 1,
+                "nickname": 0
+            },
+            "inTitle": false,
+            "inIntro": false,
+            "_name": {
+                "firstname": "Alexander",
+                "lastname": "von Boch-Galhau",
+                "nickname": null,
+                "alternative_names": [],
+                "academic_title": null,
+                "nobility_title_or_rank": null
+            },
+            "descriptiveTexts": [
+                {
+                    "text": "Im Zuge des Richtungsstreits warf der damalige Aufsichtsratschef Yves Elsen (65) entnervt hin, mit Alexander von Boch-Galhau (74) \u00fcbernahm ein Familienmitglied."
+                }
+            ],
+            "occupations": [
+                {
+                    "text": "lebten haupts\u00e4chlich von der Dividende"
+                },
+                {
+                    "text": "Familienmitglied"
+                }
+            ],
+            "directQuotes": [],
+            "quotedInTitle": false,
+            "quotedInIntro": false
+        },
+        {
+            "name": "Fran\u00e7ois Boch",
+            "alternativeNames": [],
+            "age": -1,
+            "sex": "male",
+            "occurences": {
+                "total": 17,
+                "firstNameOnly": 0,
+                "lastNameOnly": 16,
+                "fullName": 1,
+                "nickname": 0
+            },
+            "inTitle": false,
+            "inIntro": false,
+            "_name": {
+                "firstname": "Fran\u00e7ois",
+                "lastname": "Boch",
+                "nickname": null,
+                "alternative_names": [],
+                "academic_title": null,
+                "nobility_title_or_rank": null
+            },
+            "descriptiveTexts": [
+                {
+                    "text": "\"Wir werden den Markt fluten mit Armaturen aus dem Hause Villeroy & Boch, ich kann es kaum erwarten\", frohlockte Frank G\u00f6ring (62), der Vorstandschef der Familienfirma aus Mettlach im Saarland, am Montag."
+                },
+                {
+                    "text": "G\u00f6ring steht seit 26 Jahren in Diensten der weitverzweigten Familie, die bis heute die kompletten Stammaktien an Villeroy & Boch h\u00e4lt und das b\u00f6rsennotierte Unternehmen kontrolliert."
+                },
+                {
+                    "text": "Den Umsatz w\u00fcrde Villeroy & Boch auf 1,7 Milliarden Euro kr\u00e4ftig steigern, das Gesch\u00e4ft mit Badprodukten sogar mehr als verdoppeln: Villeroy & Boch kam in diesem Segment 2022 auf einen Umsatz von 662 Millionen Euro, Ideal Standard nahm 737 Millionen Euro ein."
+                },
+                {
+                    "text": "Auch bei Villeroy & Boch tat sich die Familie nicht leicht mit der Offensiventscheidung."
+                },
+                {
+                    "text": "Sie pl\u00e4dierten f\u00fcr die \u00dcbernahme und das unternehmerische Risiko."
+                },
+                {
+                    "text": "Zu ihnen z\u00e4hlten damals Luitwin von Boch-Galhau (87), einst selbst Vorstandschef, Gro\u00dfaktion\u00e4r und bis zum April 2023 Ehrenmitglied im Aufsichtsrat der Firma."
+                },
+                {
+                    "text": "Gegen den Kauf stemmten sich damals vor allem die j\u00fcngeren Erben, angef\u00fchrt von Luitwins Sohn, dem damals gr\u00f6\u00dften Einzelaktion\u00e4r Michel von Boch-Galhau (54)."
+                },
+                {
+                    "text": "Sie lebten haupts\u00e4chlich von der Dividende und wollten, so hei\u00dft es im Umfeld, lieber keine Risiken eingehen."
+                },
+                {
+                    "text": "Im Zuge des Richtungsstreits warf der damalige Aufsichtsratschef Yves Elsen (65) entnervt hin, mit Alexander von Boch-Galhau (74) \u00fcbernahm ein Familienmitglied."
+                },
+                {
+                    "text": "Die Corona-Pandemie hatte am Ende f\u00fcr Villeroy & Boch zumindest einen angenehmen Nebeneffekt: Sie brachte dem Segment Tableware eine Sonderkonjunktur."
+                },
+                {
+                    "text": "Denn Villeroy & Boch ist zwar vor allem f\u00fcr seine Kaffeeservices bekannt, erwirtschaftet aber mehr als zwei Drittel seines Umsatzes mit Waschbecken und Toiletten \u2013 und zuletzt lief es wieder nur eher schleppend."
+                },
+                {
+                    "text": "Und so kommt ausgerechnet im Jubil\u00e4umsjahr, im Jahr 275 nach Gr\u00fcndung durch den Keramikfabrikanten Fran\u00e7ois Boch, der schon einmal anvisierte Deal zustande."
+                },
+                {
+                    "text": "Endlich Armaturen f\u00fcr die Waschtische von Villeroy & Boch"
+                },
+                {
+                    "text": "Ideal Standard halten die Mettlacher dabei f\u00fcr den richtigen Griff, weil sich beide Unternehmen erg\u00e4nzten: So ist Villeroy & Boch geografisch vor allem in Zentral- und Nordeuropa sowie Asien stark verankert, Ideal Standard hingegen mit seinem Markenportfolio insbesondere in Gro\u00dfbritannien, Italien und der Region Mittlerer Osten/Nordafrika."
+                },
+                {
+                    "text": "W\u00e4hrend Villeroy & Boch vertriebsseitig vor allem auf das gehobene Privatkundengesch\u00e4ft ausgerichtet ist, liefert Ideal Standard Massenware und verf\u00fcgt dar\u00fcber hinaus \u00fcber gro\u00dfes Know-how im Projektgesch\u00e4ft \u2013 unter anderem f\u00fcr die \u00f6ffentliche Hand, das Gesundheitswesen sowie f\u00fcr Entwickler gro\u00dfer Wohn-, Hotel- und Gewerbeimmobilien."
+                },
+                {
+                    "text": "F\u00fcr G\u00f6ring entscheidend: Das Armaturengesch\u00e4ft, das Ideal Standard mitbringt und das Villeroy & Boch bis dato fehlt."
+                },
+                {
+                    "text": "Denn hier prallen zwei Kulturen aufeinander: Ideal Standard wurde bislang von Private Equity dominiert, bei Villeroy & Boch bestimmt seit jeher die Familie."
+                },
+                {
+                    "text": "Villeroy & Boch geht aufs Ganze."
+                }
+            ],
+            "occupations": [
+                {
+                    "text": "Keramikfabrikanten"
+                }
+            ],
+            "directQuotes": [],
+            "quotedInTitle": false,
+            "quotedInIntro": false
+        },
+        {
+            "name": "Andreas Schmid",
+            "alternativeNames": [],
+            "age": -1,
+            "sex": "male",
+            "occurences": {
+                "total": 1,
+                "firstNameOnly": 0,
+                "lastNameOnly": 0,
+                "fullName": 1,
+                "nickname": 0
+            },
+            "inTitle": false,
+            "inIntro": false,
+            "_name": {
+                "firstname": "Andreas",
+                "lastname": "Schmid",
+                "nickname": null,
+                "alternative_names": [],
+                "academic_title": null,
+                "nobility_title_or_rank": null
+            },
+            "descriptiveTexts": [
+                {
+                    "text": "Inzwischen steht mit Andreas Schmid ein im Umgang mit verm\u00f6genden Familien erfahrener Schweizer an der Spitze des Aufsichtsrats."
+                }
+            ],
+            "occupations": [
+                {
+                    "text": "Spitze des Aufsichtsrats"
+                },
+                {
+                    "text": "im Umgang mit verm\u00f6genden Familien erfahrener Schweizer"
+                }
+            ],
+            "directQuotes": [],
+            "quotedInTitle": false,
+            "quotedInIntro": false
+        },
+        {
+            "name": "Martin Viessmann",
+            "alternativeNames": [],
+            "age": 69,
+            "sex": "male",
+            "occurences": {
+                "total": 3,
+                "firstNameOnly": 0,
+                "lastNameOnly": 2,
+                "fullName": 1,
+                "nickname": 0
+            },
+            "inTitle": false,
+            "inIntro": false,
+            "_name": {
+                "firstname": "Martin",
+                "lastname": "Viessmann",
+                "nickname": null,
+                "alternative_names": [],
+                "academic_title": null,
+                "nobility_title_or_rank": null
+            },
+            "descriptiveTexts": [
+                {
+                    "text": "Als Ausweg w\u00e4hlten Vater Martin Viessmann (69) und Sohn Maximilian (34) den Exit: Sie verkauften den Gro\u00dfteil des deutschen Vorzeigemittelst\u00e4ndlers an den US-Hersteller Carrier Global, was ihnen Milliarden einbrachte."
+                }
+            ],
+            "occupations": [
+                {
+                    "text": "Vater"
+                }
+            ],
+            "directQuotes": [],
+            "quotedInTitle": false,
+            "quotedInIntro": false
+        },
+        {
+            "name": "Maximilian",
+            "alternativeNames": [],
+            "age": 34,
+            "sex": "male",
+            "occurences": {
+                "total": 1,
+                "firstNameOnly": 1,
+                "lastNameOnly": 0,
+                "fullName": 0,
+                "nickname": 0
+            },
+            "inTitle": false,
+            "inIntro": false,
+            "_name": {
+                "firstname": "Maximilian",
+                "lastname": "Viessmann",
+                "nickname": null,
+                "alternative_names": [],
+                "academic_title": null,
+                "nobility_title_or_rank": null
+            },
+            "descriptiveTexts": [
+                {
+                    "text": "Als Ausweg w\u00e4hlten Vater Martin Viessmann (69) und Sohn Maximilian (34) den Exit: Sie verkauften den Gro\u00dfteil des deutschen Vorzeigemittelst\u00e4ndlers an den US-Hersteller Carrier Global, was ihnen Milliarden einbrachte."
+                }
+            ],
+            "occupations": [
+                {
+                    "text": "Sohn"
+                }
+            ],
+            "directQuotes": [],
+            "quotedInTitle": false,
+            "quotedInIntro": false
+        },
+        {
+            "name": "Michel von Boch-Galhau",
+            "alternativeNames": [],
+            "age": 54,
+            "sex": "male",
+            "occurences": {
+                "total": 1,
+                "firstNameOnly": 0,
+                "lastNameOnly": 0,
+                "fullName": 1,
+                "nickname": 0
+            },
+            "inTitle": false,
+            "inIntro": false,
+            "_name": {
+                "firstname": "Michel",
+                "lastname": "von Boch-Galhau",
+                "nickname": null,
+                "alternative_names": [],
+                "academic_title": null,
+                "nobility_title_or_rank": null
+            },
+            "descriptiveTexts": [
+                {
+                    "text": "Gegen den Kauf stemmten sich damals vor allem die j\u00fcngeren Erben, angef\u00fchrt von Luitwins Sohn, dem damals gr\u00f6\u00dften Einzelaktion\u00e4r Michel von Boch-Galhau (54)."
+                },
+                {
+                    "text": "Sie lebten haupts\u00e4chlich von der Dividende und wollten, so hei\u00dft es im Umfeld, lieber keine Risiken eingehen."
+                }
+            ],
+            "occupations": [],
+            "directQuotes": [],
+            "quotedInTitle": false,
+            "quotedInIntro": false
+        },
+        {
+            "name": "Luitwin von Boch-Galhau",
+            "alternativeNames": [],
+            "age": 87,
+            "sex": "male",
+            "occurences": {
+                "total": 2,
+                "firstNameOnly": 1,
+                "lastNameOnly": 0,
+                "fullName": 1,
+                "nickname": 0
+            },
+            "inTitle": false,
+            "inIntro": false,
+            "_name": {
+                "firstname": "Luitwin",
+                "lastname": "von Boch-Galhau",
+                "nickname": null,
+                "alternative_names": [],
+                "academic_title": null,
+                "nobility_title_or_rank": null
+            },
+            "descriptiveTexts": [
+                {
+                    "text": "Sie pl\u00e4dierten f\u00fcr die \u00dcbernahme und das unternehmerische Risiko."
+                },
+                {
+                    "text": "Zu ihnen z\u00e4hlten damals Luitwin von Boch-Galhau (87), einst selbst Vorstandschef, Gro\u00dfaktion\u00e4r und bis zum April 2023 Ehrenmitglied im Aufsichtsrat der Firma."
+                }
+            ],
+            "occupations": [
+                {
+                    "text": "Ehrenmitglied im Aufsichtsrat"
+                },
+                {
+                    "text": "Gro\u00dfaktion\u00e4r"
+                }
+            ],
+            "directQuotes": [],
+            "quotedInTitle": false,
+            "quotedInIntro": false
+        },
+        {
+            "name": "Yves Elsen",
+            "alternativeNames": [],
+            "age": 65,
+            "sex": "male",
+            "occurences": {
+                "total": 1,
+                "firstNameOnly": 0,
+                "lastNameOnly": 0,
+                "fullName": 1,
+                "nickname": 0
+            },
+            "inTitle": false,
+            "inIntro": false,
+            "_name": {
+                "firstname": "Yves",
+                "lastname": "Elsen",
+                "nickname": null,
+                "alternative_names": [],
+                "academic_title": null,
+                "nobility_title_or_rank": null
+            },
+            "descriptiveTexts": [
+                {
+                    "text": "Im Zuge des Richtungsstreits warf der damalige Aufsichtsratschef Yves Elsen (65) entnervt hin, mit Alexander von Boch-Galhau (74) \u00fcbernahm ein Familienmitglied."
+                }
+            ],
+            "occupations": [
+                {
+                    "text": "Aufsichtsratschef"
+                }
+            ],
+            "directQuotes": [],
+            "quotedInTitle": false,
+            "quotedInIntro": false
+        }
+    ]
+}

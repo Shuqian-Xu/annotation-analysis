@@ -1,0 +1,380 @@
+{
+  "persons": [    
+    {
+      "age": 33, 
+      "alternativeNames": [],
+      "birthday": null,
+      "descriptiveTexts": [
+        {
+          "text": "Daniel Gorlovetsky ist kein besonders politischer Mensch."
+        },
+        {
+          "text": "Als seine Freunde und Kolleginnen in Tel Aviv in den vergangenen Wochen gegen die autoritären Pläne ihrer Regierung auf die Straße gingen, täglich über die kontroverse Justizreform debattierten, blieb der junge Gründer in seinem Büro und arbeitete."
+        },
+        {
+          "text": "'Ich dachte bis zuletzt, dass bestimmt noch irgendetwas passieren würde', sagt Gorlovetsky."
+        },
+        {
+          "text": "Ein Kompromiss, ein Einlenken, oder zumindest ein weiterer Aufschub, er hielt vieles für möglich."
+        },
+        {
+          "text": "Jede Viertelstunde habe er die Nachrichten gecheckt, sagt der Unternehmer."
+        },
+        {
+          "text": "Und musste schließlich dabei zusehen, wie die rechte Regierung sein Leben auf den Kopf stellte."
+        },
+        {
+          "text": "Gorlovetsky ist Chef der Softwarefirma TLVTech mit Sitz in Tel Aviv."
+        },
+        {
+          "text": "Er war drei Jahre alt, als er nach Israel kam, er ist verheiratet, hat zwei Kinder und Familie, laut eigenen Angaben trägt er Verantwortung für rund 40 Mitarbeiter und Mitarbeiterinnen."
+        },
+        {
+          "text": "Kurz gesagt: Es gibt vieles, was den Unternehmer in seinem Land halten sollte."
+        },
+        {
+          "text": "In Tel Aviv liegt sein finanzielles Kapital, aber auch sein emotionales."
+        },
+        {
+          "text": "'Ich habe 15 Jahre gebraucht, um mich nicht mehr fremd zu fühlen – und weitere 15, bis ich Israel als Heimat empfand'."
+        },
+        {
+          "text": "Dennoch traf der 33-Jährige am vergangenen Dienstag eine folgenschwere Entscheidung: Er möchte auswandern, womöglich für immer."
+        },
+        {
+          "text": "Wie Gorlovetsky geht es derzeit unzähligen Start-up-Unternehmern und -Unternehmerinnen."
+        },
+        {
+          "text": "'Es war immer ausgesprochen schwierig, ein globales Start-up von Israel aus zu leiten', sagt Unternehmer Gorlovetsky."
+        },
+        {
+          "text": "'Wäre das ein Videospiel, wären wir vom mittleren Schwierigkeitsgrad zum allerhärtesten gewechselt', sagt der Unternehmer."
+        },
+        {
+          "text": "Ob Gorlovetsky die Einladung annehmen wird, ist unklar."
+        },
+        {
+          "text": "Er sagt, er habe sich noch nicht entschieden, in welches Land es ihn zieht."
+        },
+        {
+          "text": "Der 33-Jährige muss an seine Mitarbeiter denken, sich mit seiner Familie beraten, mit Freunden und Eltern, bevor er endgültig die Koffer packt und sich irgendwo ein neues Leben aufbaut."
+        },
+        {
+          "text": "'Es fühlt sich an, als hätte ich meine Zeit verschwendet', sagt Gorlovetsky, 'als hätte ich auf das falsche Pferd gesetzt.'"
+        },
+        {
+          "text": "'Das ist das Ende der Start-up-Nation Israel', sagt der Unternehmer, und er meint es ernst."
+        }
+      ],
+      "directQuotes": [
+        {
+          "text": "Ich dachte bis zuletzt, dass bestimmt noch irgendetwas passieren würde"
+        },
+        {
+          "text": "Ich habe 15 Jahre gebraucht, um mich nicht mehr fremd zu fühlen – und weitere 15, bis ich Israel als Heimat empfand"
+        },
+        {
+          "text": "Es war immer ausgesprochen schwierig, ein globales Start-up von Israel aus zu leiten"
+        },
+        {
+          "text": "Wäre das ein Videospiel, wären wir vom mittleren Schwierigkeitsgrad zum allerhärtesten gewechselt"
+        },
+        {
+          "text": "Es ist die Mühe einfach nicht mehr wert."
+        },
+        {
+          "text": "Es fühlt sich an, als hätte ich meine Zeit verschwendet"
+        },
+        {
+          "text": "als hätte ich auf das falsche Pferd gesetzt."
+        },
+        {
+          "text": "Das ist das Ende der Start-up-Nation Israel"
+        }
+      ],
+      "inIntro": false,
+      "inTitle": false,
+      "indirectQuotes": [
+        {
+          "text": "Jede Viertelstunde habe er die Nachrichten gecheckt, sagt der Unternehmer."
+        },
+        {
+          "text": "Er sagt, er habe sich noch nicht entschieden, in welches Land es ihn zieht."
+        },
+        {
+          "text": "Die Szene werde weiterleben, in der Diaspora: In vielen kleinen Gruppen, die sich weltweit vernetzen."
+        },
+        {
+          "text": "So wie es war, werde es allerdings nie mehr werden."
+        },
+        {
+          "text": "Die Szene werde weiterleben, in der Diaspora: In vielen kleinen Gruppen, die sich weltweit vernetzen."
+        },
+        {
+          "text": "So wie es war, werde es allerdings nie mehr werden."
+        }
+      ],
+      "isMain": true,
+      "name": "Daniel Gorlovetsky",
+      "occupations": [
+        {
+          "text": "junge Gründer"
+        },
+        {
+            "text": "Unternehmer"
+          },
+        {
+          "text": "Chef der Softwarefirma TLVTech"
+        }
+      ],
+      "occurences": {
+        "firstNameOnly": 0,
+        "fullName": 1,
+          "lastNameOnly": 6,
+          "total": 7
+      },
+      "quotedInIntro": false,
+      "quotedInTitle": true,
+      "sex": "male"
+    },
+    {
+      "age": -1, 
+      "alternativeNames": [],
+      "birthday": null,
+      "descriptiveTexts": [
+        {
+          "text": "Der Grund für die Fluchtgedanken: Eine Justizreform der rechts-religiösen Regierung von Ministerpräsident Benjamin Netanyahu, die seit Monaten Menschen in ganz Israel in Scharen auf die Straße treibt."
+        },
+        {
+          "text": "Noch vor rund einer Woche warnten sie gemeinsam mit anderen börsennotierten Unternehmen in einem offenen Brief vor den Konsequenzen für die israelische Hightechindustrie und forderten Premierminister Netanyahu auf, 'wichtige rechtliche Änderungen nur auf der Grundlage eines breiten Konsenses umzusetzen'."
+        }
+      ],
+      "directQuotes": [],
+      "inIntro": false,
+      "inTitle": false,
+      "indirectQuotes": [],
+      "isMain": false,
+      "name": "Benjamin Netanyahu",
+      "occupations": [
+        {
+          "text": "Ministerpräsident"
+        },
+        {
+          "text": "Premierminister"
+        }
+      ],
+      "occurences": {
+        "firstNameOnly": 0,
+        "fullName": 1,
+        "lastNameOnly": 1,
+        "total": 2
+      },
+      "quotedInIntro": false,
+      "quotedInTitle": false,
+      "sex": "male"
+    },
+    {
+      "age": -1, 
+      "alternativeNames": [],
+      "birthday": null,
+      "descriptiveTexts": [
+        {
+          "text": "Das Ergebnis der Abstimmung ist auch eine persönliche Niederlage für bekannte israelische Techunternehmer wie Micha Kaufman von der Freelancer-Plattform Fiverr oder den Wix.com-Chef Nir Zohar."
+        },
+        {
+          "text": "Noch vor rund einer Woche warnten sie gemeinsam mit anderen börsennotierten Unternehmen in einem offenen Brief vor den Konsequenzen für die israelische Hightechindustrie und forderten Premierminister Netanyahu auf, 'wichtige rechtliche Änderungen nur auf der Grundlage eines breiten Konsenses umzusetzen'."
+        },
+        {
+          "text": "Auf SPIEGEL-Anfrage wollen sich die prominenten Chefs nicht äußern, angeblich aus Termingründen."
+        }
+      ],
+      "directQuotes": [
+        {
+          "text": "wichtige rechtliche Änderungen nur auf der Grundlage eines breiten Konsenses umzusetzen."
+        }
+      ],
+      "inIntro": false,
+      "inTitle": false,
+      "indirectQuotes": [
+        {
+          "text": "Noch vor rund einer Woche warnten sie gemeinsam mit anderen börsennotierten Unternehmen in einem offenen Brief vor den Konsequenzen für die israelische Hightechindustrie und forderten Premierminister Netanyahu auf, 'wichtige rechtliche Änderungen nur auf der Grundlage eines breiten Konsenses umzusetzen'."
+        }
+      ],
+      "isMain": false,
+      "name": "Micha Kaufman",
+      "occupations": [
+        {
+          "text": "bekannte israelische Techunternehmer"
+        },
+        {
+          "text": "prominenten Chefs"
+        }
+      ],
+      "occurences": {
+        "firstNameOnly": 0,
+        "fullName": 1,
+        "lastNameOnly": 0,
+        "total": 1
+      },
+      "quotedInIntro": false,
+      "quotedInTitle": false,
+      "sex": "male"
+    },
+    {
+      "age": -1, 
+      "alternativeNames": [],
+      "birthday": null,
+      "descriptiveTexts": [
+        {
+          "text": "Das Ergebnis der Abstimmung ist auch eine persönliche Niederlage für bekannte israelische Techunternehmer wie Micha Kaufman von der Freelancer-Plattform Fiverr oder den Wix.com-Chef Nir Zohar."
+        },
+        {
+          "text": "Noch vor rund einer Woche warnten sie gemeinsam mit anderen börsennotierten Unternehmen in einem offenen Brief vor den Konsequenzen für die israelische Hightechindustrie und forderten Premierminister Netanyahu auf, 'wichtige rechtliche Änderungen nur auf der Grundlage eines breiten Konsenses umzusetzen'."
+        },
+        {
+          "text": "Auf SPIEGEL-Anfrage wollen sich die prominenten Chefs nicht äußern, angeblich aus Termingründen."
+        }
+      ],
+      "directQuotes": [
+        {
+          "text": "wichtige rechtliche Änderungen nur auf der Grundlage eines breiten Konsenses umzusetzen."
+        }
+      ],
+      "inIntro": false,
+      "inTitle": false,
+      "indirectQuotes": [
+        {
+          "text": "Noch vor rund einer Woche warnten sie gemeinsam mit anderen börsennotierten Unternehmen in einem offenen Brief vor den Konsequenzen für die israelische Hightechindustrie und forderten Premierminister Netanyahu auf, 'wichtige rechtliche Änderungen nur auf der Grundlage eines breiten Konsenses umzusetzen'."
+        }
+      ],
+      "isMain": false,
+      "name": "Nir Zohar",
+      "occupations": [
+        {
+          "text": "Wix.com-Chef"
+        },
+        {
+          "text": "prominenten Chefs"
+        }
+      ],
+      "occurences": {
+        "firstNameOnly": 0,
+        "fullName": 1,
+        "lastNameOnly": 0,
+        "total": 1
+      },
+      "quotedInIntro": false,
+      "quotedInTitle": false,
+      "sex": "male"
+    },
+    {
+      "age": -1, 
+      "alternativeNames": [],
+      "birthday": null,
+      "descriptiveTexts": [
+        {
+          "text": "'Die Frage ist, ob Investoren davon abgeschreckt werden', sagt Asaf Naim, Gründer des israelischen Krypto-Unternehmens Kirobo."
+        },
+        {
+          "text": "'Ich glaube, dass ein CEO überhaupt nichts über seine oder ihre politische Haltung sagen sollte', sagt Naim."
+        },
+        {
+          "text": "Er will auf jeden Fall in Israel bleiben, er glaubt an einen Goldrausch für Geldgeber, die jetzt ins Risiko gehen."
+        }
+      ],
+      "directQuotes": [
+        {
+          "text": "Die Frage ist, ob Investoren davon abgeschreckt werden"
+        },
+        {
+          "text": "Ich glaube, dass ein CEO überhaupt nichts über seine oder ihre politische Haltung sagen sollte"
+        },
+        {
+          "text": "Diese ganze Aufregung ist vorübergehend, die Leute werden bald wieder relaxen und investieren."
+        }
+      ],
+      "inIntro": false,
+      "inTitle": false,
+      "indirectQuotes": [
+        {
+          "text": "Viele Geldgeber seien nicht tief genug im Thema, um selbst einzuschätzen, ob sie mit ihrem Kapital ein Risiko eingehen."
+        }
+      ],
+      "isMain": false,
+      "name": "Asaf Naim",
+      "occupations": [
+        {
+          "text": "Gründer des israelischen Krypto-Unternehmens Kirobo"
+        }
+      ],
+      "occurences": {
+        "firstNameOnly": 0,
+        "fullName": 1,
+        "lastNameOnly": 1,
+        "total": 2
+      },
+      "quotedInIntro": false,
+      "quotedInTitle": false,
+      "sex": "male"
+    },
+    {
+      "age": -1, 
+      "alternativeNames": [],
+      "birthday": null,
+      "descriptiveTexts": [
+        {
+          "text": "In einer Stellungnahme, die dem SPIEGEL vorliegt, wird Vorstandsvorsitzender Christian Miele deutlich: Innovation brauche langfristig immer eine offene und plurale Gesellschaft, schreibt er – 'hier wird die Axt ans Fundament der wirtschaftlichen Zukunft Israels gelegt'."
+        },
+        {
+          "text": "Harte Worte, die Miele mit Solidaritätsbekundungen an Tel Avivs Wachstumsunternehmen verknüpft."
+        },
+        {
+          "text": "'Bei uns ist jeder willkommen', schreibt Miele."
+        }
+      ],
+      "directQuotes": [
+        {
+          "text": "hier wird die Axt ans Fundament der wirtschaftlichen Zukunft Israels gelegt"
+        },
+        {
+          "text": "ein Braindrain und massiver wirtschaftlicher Schaden"
+        },
+        {
+          "text": "Bei uns ist jeder willkommen"
+        }
+      ],
+      "inIntro": false,
+      "inTitle": false,
+      "indirectQuotes": [
+        {
+          "text": "In einer Stellungnahme, die dem SPIEGEL vorliegt, wird Vorstandsvorsitzender Christian Miele deutlich: Innovation brauche langfristig immer eine offene und plurale Gesellschaft, schreibt er – 'hier wird die Axt ans Fundament der wirtschaftlichen Zukunft Israels gelegt'."
+        },
+        {
+          "text": "Angesichts der jüngsten Entwicklungen drohe dem Standort Israel 'ein Braindrain und massiver wirtschaftlicher Schaden'."
+        },
+        {
+          "text": "Und mit einer Einladung: Schon in der Vergangenheit habe es Israels Gründer und Gründerinnen immer wieder nach Berlin gezogen."
+        }
+      ],
+      "isMain": false,
+      "name": "Christian Miele",
+      "occupations": [
+        {
+          "text": "Vorstandsvorsitzender"
+        }
+      ],
+      "occurences": {
+        "firstNameOnly": 0,
+        "fullName": 1,
+        "lastNameOnly": 2,
+        "total": 3
+      },
+      "quotedInIntro": false,
+      "quotedInTitle": false,
+      "sex": "male"
+    }
+  ],
+  "subtopics": [
+    "Unternehmensgründung", "Start-Up-Szene", "Migration", "Justizreform", "Israel"
+  ]
+}

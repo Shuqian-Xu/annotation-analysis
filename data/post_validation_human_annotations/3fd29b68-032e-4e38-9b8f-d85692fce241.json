@@ -1,0 +1,264 @@
+{
+  "persons": [
+    {
+      "age": 73, 
+      "alternativeNames": [],
+      "birthday": null,
+      "descriptiveTexts": [
+        {
+          "text": "Der promovierte Chemiker schrieb einen frühen Klassiker der Ökobewegung ('Seveso ist überall. Die tödlichen Risiken der Chemie', mit Egmont Koch, 1978)."
+        },
+        {
+          "text": "Kürzlich erschien sein neues Buch: 'Die große Energiekrise und wie wir sie bewältigen können.' (Langen-Müller Verlag, 22 Euro)."
+        },
+        {
+          "text": "Nur mit Fracking oder Braunkohle, sagt der Energiewende-Kritiker Fritz Vahrenholt."
+        },
+        {
+          "text": "Fritz Vahrenholt (73) arbeitet seit Jahrzehnten im Spannungsfeld von Umwelt und Wirtschaft."
+        },
+        {
+          "text": "Er wurde später SPD-Umweltsenator in Hamburg, Vorstand für erneuerbare Energien bei der Deutschen Shell AG und Pionier des Windkraftausbaus als Vorstandschef von REpower Systems und der früheren RWE-Tochter Innogy."
+        },
+        {
+          "text": "Wegen seiner Kritik an der Klima- und Energiepolitik ist er für manche grün Bewegte allerdings heute eine persona non grata."
+        },
+        {
+          "text": "Vahrenholt leitet den Aufsichtsrat des Kupferverarbeiters Aurubis und ist Mitglied im Aufsichtsrat des Wind- und Solarparkbetreibers Encavis, beide M-Dax-Unternehmen."
+        },
+        {
+          "text": "Herr Vahrenholt, der Strompreis für Privathaushalte ist auf 30 bis 40 Cent pro Kilowattstunde gestiegen."
+        },
+        {
+          "text": "Sie warnen vor einer Deindustrialisierung des Landes."
+        },
+        {
+            "text": "Unsere Wettbewerber in Amerika und China zahlen dort nur etwa 3 Cent."
+          },
+          {
+            "text": "Wenn wir einen Industriestrompreis von 5 Cent hinbekämen, könnte das immerhin den industriellen Kern bei uns erhalten."
+          },
+          {
+            "text": "Mit dem oberen Ende bei 9 Cent werden wir die energieintensive Industrie in Deutschland verlieren."
+          },
+        {
+          "text": "Sie sind als Aufsichtsratschef beim Kupferverarbeiter Aurubis nah an der stromintensiven Produktion."
+        },
+        {
+          "text": "Welchen Strompreis zahlen Sie heute?"
+        },
+        {
+            "text": "Weil das gegengerechnet wird, kommen die meisten Industriebetriebe wie wir bisher per saldo unter 10 Cent."
+          },
+          {
+            "text": "Denn wir werden in Deutschland auch noch in 2030 Gas- und Kohlestrom benötigen."
+          },
+          {
+            "text": "Mein Appell ist deshalb: Wir müssen uns ernsthaft damit beschäftigen, wie wir einen Industriestrompreis von 5 Eurocent hinkriegen."
+          },
+          {
+            "text": "Wie wollen Sie den Strompreis künftig senken?"
+          },
+          {
+            "text": "Wir haben noch immer zwei Optionen."
+          },
+          {
+            "text": "Die eine ist die Erschließung unserer eigenen Gasvorräte."
+          },
+          {
+            "text": "Das verflüssigte Fracking-Gas, das wir jetzt aus Amerika beziehen, hat eine hohe CO2-Last."
+          },
+          {
+            "text": "Wir müssen es kühlen und transportieren."
+          },
+          {
+            "text": "Außerdem haben wir das Risiko, dass in Amerika in wenigen Jahren eine Gasknappheit drohen kann, wenn dort keine neuen Felder mehr zugelassen werden."
+          },
+          {
+            "text": "Wir selbst haben noch einen Riesenschatz unter Niedersachsen und Sachsen-Anhalt."
+          },
+          {
+            "text": "Wenn wir das Fracking hier bei uns ermöglichen, würden wir es besser und billiger machen."
+          },
+          {
+            "text": "Noch einmal: wir würden es wesentlich umweltfreundlicher fördern."
+          },
+          {
+          "text": "Ich kämpfe weiter für die Braunkohle."
+        },
+        {
+            "text": "Und wir sollten uns damit beschäftigen, das CO2 künftig abzuscheiden und zu verpressen."
+          },
+          {
+            "text": "Diese Technik hat sich stark weiterentwickelt, mittlerweile können wir das zu Kosten unterhalb von 100 Euro je Tonne CO2 schaffen."
+          },
+          {
+            "text": "Es ist bei uns verboten, wir können nicht mal eine Versuchsanlage machen."
+          },
+          {
+            "text": "Aber warum sollten wir es nicht auch für »grüne« Braunkohlekraftwerke nutzen?"
+          },
+          {
+          "text": "Ich glaube das nicht."
+          },
+          {
+            "text": "Wir können diese Lücke mit den Erneuerbaren so schnell nicht schließen."
+          },
+          {
+            "text": "Das Thema Volatilität kommt ja noch dazu: An 140 Tagen haben wir keinen Wind, und selbst wenn Sie die installierte Leistung verdreifachen, dann gilt bei Flaute immer noch: Dreimal Null bleibt Null."
+          },
+          {
+            "text": "Wir werden an der CCS-Lösung, deshalb nicht vorbeikommen."
+          },
+          {
+            "text": "Wenn wir zeigen, dass wir unsere heimischen Kohlekraftwerke sauber machen können, dann geht das in China auch."
+          },
+          {
+            "text": "Wir könnten dann zumindest von China verlangen, dass sie das selbst machen."
+        }
+      ],
+      "directQuotes": [
+      	{
+            "text": "Ich kämpfe weiter für die Braunkohle"
+          },
+        {
+          "text": "Für die Industrie ist in der Tat der Preis entscheidend, zu dem sie den Strom direkt an der Börse einkaufen kann. Bei sehr stromintensiven Produktionen wie Aluminium oder Silizium für die Fotovoltaik bedeuten aber auch 5 bis 9 Cent immer noch das langfristige Aus für die hiesigen Standorte. Unsere Wettbewerber in Amerika und China zahlen dort nur etwa 3 Cent. Wenn wir einen Industriestrompreis von 5 Cent hinbekämen, könnte das immerhin den industriellen Kern bei uns erhalten. Viel mehr darf es allerdings nicht werden. Habecks 5 bis 9 Cent sind eine breite Spanne. Mit dem oberen Ende bei 9 Cent werden wir die energieintensive Industrie in Deutschland verlieren."
+        },
+        {
+          "text": "Im Moment ist der Börsenpreis bei 10 bis 13 Cent. Darin stecken für den deutschen Strommix etwa 5 Cent CO2-Zertifikatekosten. Aber es gibt für sehr energieintensive Industriebetriebe durch das europäische Recht eine Kompensation für die CO2-Zertifikate, die je nach Energieintensität etwa die Hälfte bis Dreiviertel der CO2-Kosten erstattet. Damit will die EU-Kommission das Abwandern von Industrie in Länder ohne CO2-Kosten vermeiden. Weil das gegengerechnet wird, kommen die meisten Industriebetriebe wie wir bisher per saldo unter 10 Cent. Diese wichtige Kostendämpfung ist allerdings bis 2030 begrenzt. Langfristig wird es für die energieintensiven Branchen – für Aluminium, Stahl, die Chemie, die Glas- und Papierindustrie – sehr schwierig. Denn wir werden in Deutschland auch noch in 2030 Gas- und Kohlestrom benötigen. Mein Appell ist deshalb: Wir müssen uns ernsthaft damit beschäftigen, wie wir einen Industriestrompreis von 5 Eurocent hinkriegen."
+        },
+        {
+          "text": "Diese Kernkraftwerke haben zu einem Preis von 2 Cent produziert. Wirtschaftsminister Habeck sagt, ihr Anteil an der Gesamterzeugung sei mit 6 Prozent gering. Der Einfluss auf den Strompreis war aber erheblich. Viele verstehen das Merit-Order-Prinzip nicht, nach dem Kraftwerke eingesetzt werden: Die billigsten werden zuerst genutzt, mit steigendem Bedarf werden dann sukzessiv die teureren zugeschaltet. Der Strompreis muss die Kosten des zuletzt hinzugeholten Erzeugers decken, er wird also immer vom teuersten Produzenten bestimmt. Die kostengünstigen Kernkraftwerke haben fast immer produziert. Wenn Sie die jetzt aus der Merit-Order rausnehmen, dann müssen dafür teurere Erzeuger nachrücken und das sind Gaskraftwerke. Gaskraftwerke, die immer noch die teuerste Erzeugungsform für Strom sind, und die bisher deshalb nur für Verbrauchsspitzen genutzt wurden, wandern künftig sozusagen in die Mittel- bis Grundlast. Das ist ein unglaublicher Preishebel, der in diesem Effekt steckt. Denn der Gasstrom kostet zurzeit mehr als das Fünffache wie Kernenergiestrom, nämlich 10 Cent pro Kilowattstunde."
+        },
+        {
+          "text": "Wir haben noch immer zwei Optionen. Die eine ist die Erschließung unserer eigenen Gasvorräte. Das verflüssigte Fracking-Gas, das wir jetzt aus Amerika beziehen, hat eine hohe CO2-Last. Wir müssen es kühlen und transportieren. Außerdem haben wir das Risiko, dass in Amerika in wenigen Jahren eine Gasknappheit drohen kann, wenn dort keine neuen Felder mehr zugelassen werden. Wir selbst haben noch einen Riesenschatz unter Niedersachsen und Sachsen-Anhalt. Wenn wir das Fracking hier bei uns ermöglichen, würden wir es besser und billiger machen."
+        },
+        {
+            "text": "Dann darf man das Fracking-Gas auch nicht aus den USA importieren. Noch einmal: wir würden es wesentlich umweltfreundlicher fördern."
+          },
+        {
+          "text": "Ich kämpfe weiter für die Braunkohle. Zurzeit ist sie trotz der CO2-Zertifikate noch immer die preiswerteste Alternative. Und wir sollten uns damit beschäftigen, das CO2 künftig abzuscheiden und zu verpressen. Diese Technik hat sich stark weiterentwickelt, mittlerweile können wir das zu Kosten unterhalb von 100 Euro je Tonne CO2 schaffen. Die Isländer bieten das jetzt an und bauen einen CO2-Hafen. Island presst das CO2 in das Basaltschichten und dort verfestigt sich das CO2 binnen zwei Jahren zu Dolomitgestein. Auch die Norweger haben dem Kanzler kürzlich gesagt: Wir fördern für Dich Gas, Du kannst uns gerne CO2 zurückgeben, das wir in denselben Sedimenten einlagern. Da muss man jetzt auch mal dem Markt eine Chance geben."
+        },
+        {
+          "text": "Es ist bei uns verboten, wir können nicht mal eine Versuchsanlage machen. Dieses Gesetz muss weg. Robert Habeck hat das Verbot von CCS (Carbon Capture and Storage, Anm. der Redaktion) seinerzeit entscheidend vorangebracht, er prägte als Oppositionspolitiker in Schleswig-Holstein den Spruch, man wolle nicht 'der Mülleimer Deutschlands' sein. Ende vergangenen Jahres hat Habeck selbst allerdings bekanntgegeben, dass wir über die CO2-Abtrennung nachdenken müssen. Er sieht das im Moment wohl nur für Zementwerke und Industriebetriebe. Aber warum sollten wir es nicht auch für 'grüne' Braunkohlekraftwerke nutzen?"
+        },
+        {
+          "text": "Wegen des Ukraine-Krieges hat die Regierung den Ausstiegsfahrplan bis März 2024 ausgesetzt. Glauben Sie im Ernst, dass wir im nächsten April dann wie geplant die 10.000 Megawatt dieser Stromerzeugungskapazität vom Netz nehmen können? Ich glaube das nicht. Das wird ein großes Problem für den grünen Wirtschaftsminister, der ein Jahr vor der Wahl zugeben muss, dass es ohne Braunkohle nicht geht. Wir können diese Lücke mit den Erneuerbaren so schnell nicht schließen. Das Thema Volatilität kommt ja noch dazu: An 140 Tagen haben wir keinen Wind, und selbst wenn Sie die installierte Leistung verdreifachen, dann gilt bei Flaute immer noch: Dreimal Null bleibt Null. Wir werden an der CCS-Lösung, deshalb nicht vorbeikommen. Wenn einer den Paradigmenwechsel hinkriegt, dann vielleicht Mutige in dieser Regierung, die sich sogar auf den Weltklimarat berufen könnten. Der nennt CCS ebenfalls als unverzichtbarenTeil der Klimastrategie. Es wäre im Übrigen auch ein Riesenbeitrag für die CO2-Bilanz der Welt."
+        },
+        {
+          "text": "Wenn wir zeigen, dass wir unsere heimischen Kohlekraftwerke sauber machen können, dann geht das in China auch. Wir könnten dann zumindest von China verlangen, dass sie das selbst machen. Das wäre der weltweite Durchbruch effektiver CO2-Vermeidung."
+        }
+      ],
+      "inIntro": true,
+      "inTitle": false,
+      "indirectQuotes": [],
+      "isMain": true,
+      "name": "Fritz Vahrenholt",
+      "occupations": [
+        {
+          "text": "promovierte Chemiker"
+        },
+        {
+          "text": "SPD-Umweltsenator in Hamburg"
+        },
+        {
+          "text": "Vorstand für erneuerbare Energien bei der Deutschen Shell AG"
+        },
+        {
+          "text": "Pionier des Windkraftausbaus als Vorstandschef von REpower Systems und der früheren RWE-Tochter Innogy"
+        },
+        {
+          "text": "Aufsichtsrat des Kupferverarbeiters Aurubis"
+        },
+        {
+          "text": "Mitglied im Aufsichtsrat des Wind- und Solarparkbetreibers Encavis"
+        }
+      ],
+      "occurences": {
+        "firstNameOnly": 0,
+        "fullName": 2,
+        "lastNameOnly": 2,
+        "total": 4
+      },
+        "quotedInIntro": true,
+      "quotedInTitle": true,
+      "sex": "male"
+    },
+    {
+      "age": -1, 
+      "alternativeNames": [],
+      "birthday": null,
+      "descriptiveTexts": [
+        {
+          "text": "Wirtschaftsminister Robert Habeck hat aber versprochen, dass er für einen Industriestrompreis von etwa 5 bis 9 Eurocent je Kilowattstunden sorgen wird."
+        },
+        {
+          "text": "Habecks 5 bis 9 Cent sind eine breite Spanne."
+        },
+        {
+          "text": "Wirtschaftsminister Habeck sagt, ihr Anteil an der Gesamterzeugung sei mit 6 Prozent gering."
+        },
+        {
+          "text": "Habeck schließt das aus, weil das Fracking zu hohe Umweltrisiken habe."
+        },
+        {
+          "text": "Robert Habeck hat das Verbot von CCS (Carbon Capture and Storage, Anm. der Redaktion) seinerzeit entscheidend vorangebracht, er prägte als Oppositionspolitiker in Schleswig-Holstein den Spruch, man wolle nicht 'der Mülleimer Deutschlands' sein."
+          },
+          {
+            "text": "Ende vergangenen Jahres hat Habeck selbst allerdings bekanntgegeben, dass wir über die CO2-Abtrennung nachdenken müssen."
+        },
+        {
+          "text": "Er sieht das im Moment wohl nur für Zementwerke und Industriebetriebe."
+        },
+        {
+          "text": "Das wird ein großes Problem für den grünen Wirtschaftsminister, der ein Jahr vor der Wahl zugeben muss, dass es ohne Braunkohle nicht geht."
+        }
+      ],
+      "directQuotes": [
+        {
+          "text": "der Mülleimer Deutschlands"
+        }
+      ],
+      "inIntro": false,
+      "inTitle": false,
+      "indirectQuotes": [
+        {
+          "text": "Diese Kernkraftwerke haben zu einem Preis von 2 Cent produziert."
+        },
+        {
+          "text": "Wirtschaftsminister Habeck sagt, ihr Anteil an der Gesamterzeugung sei mit 6 Prozent gering."
+        },
+        {
+          "text": "Habeck schließt das aus, weil das Fracking zu hohe Umweltrisiken habe."
+        },
+        {
+          "text": "Robert Habeck hat das Verbot von CCS (Carbon Capture and Storage, Anm. der Redaktion) seinerzeit entscheidend vorangebracht, er prägte als Oppositionspolitiker in Schleswig-Holstein den Spruch, man wolle nicht 'der Mülleimer Deutschlands' sein."
+        }
+      ],
+      "isMain": false,
+      "name": "Robert Habeck",
+      "occupations": [
+        {
+          "text": "Wirtschaftsminister"
+        },
+        {
+          "text": "grünen Wirtschaftsminister"
+        }
+      ],
+      "occurences": {
+        "firstNameOnly": 0,
+        "fullName": 2,
+        "lastNameOnly": 4,
+        "total": 6
+      },
+      "quotedInIntro": false,
+      "quotedInTitle": false,
+      "sex": "male"
+    }
+  ],
+  "subtopics": [
+    "Klimaschutz", "Energienpolitik", "Energiewende",
+      "Braunkohle",
+      "CCS"
+  ]
+}

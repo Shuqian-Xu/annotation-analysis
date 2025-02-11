@@ -1,0 +1,33 @@
+{
+  "persons": [
+    {
+      "age": -1,
+      "alternativeNames": [],
+      "birthday": null,
+      "descriptiveTexts": [],
+      "directQuotes": [],
+      "inIntro": false,
+      "inTitle": false,
+      "indirectQuotes": [],
+      "isMain": false,
+      "name": null,
+      "occupations": [],
+      "occurrences": {
+        "firstNameOnly": 0,
+        "fullName": 0,
+        "lastNameOnly": 0,
+        "total": 0
+      },
+      "quotedInIntro": false,
+      "quotedInTitle": false,
+      "sex": null
+    }
+  ],
+  "subtopics": [
+    "Lifestyle",
+    "Luxus",
+    "Luxusuhr",
+    "Schmuck",
+    "Investment"
+  ]
+}

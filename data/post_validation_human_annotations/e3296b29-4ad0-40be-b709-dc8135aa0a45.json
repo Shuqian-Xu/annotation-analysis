@@ -1,0 +1,77 @@
+{
+  "persons": [
+    {
+      "age": 66,
+      "alternativeNames": [],
+      "birthday": null,
+      "descriptiveTexts": [
+        {
+          "text": "Softbank-Chef Masayoshi Son bringt den Chipdesigner Arm zurück an die Börse."
+        },
+        {
+          "text": "Softbank-Gründer und CEO Masayoshi Son (66) zeigte sich ungewohnt zurückhaltend: Der japanische Technologieinvestor verzichtete am Mittwoch darauf, die Aktien des Chip-Designers über der Angebotsspanne zuzuteilen."
+        }
+      ],
+      "directQuotes": [],
+      "inIntro": true,
+      "inTitle": false,
+      "indirectQuotes": [],
+      "isMain": false,
+      "name": "Masayoshi Son",
+      "occupations": [
+        {
+          "text": "Softbank-Chef"
+        },
+        {
+          "text": "Softbank-Gründer und CEO"
+        }
+      ],
+      "occurrences": {
+        "firstNameOnly": 0,
+        "fullName": 2,
+        "lastNameOnly": 0,
+        "total": 2
+      },
+      "quotedInIntro": false,
+      "quotedInTitle": false,
+      "sex": "male"
+    },
+    {
+      "age": -1,
+      "alternativeNames": [],
+      "birthday": null,
+      "descriptiveTexts": [
+        {
+          "text": "Erst kürzlich warnte Halbleiterexperte Chris Miller im mm-Interview vor einem schweren Schlag für die Weltwirtschaft, wenn China den Chipexport verhindern oder sogar in Taiwan einmarschieren sollte."
+        }
+      ],
+      "directQuotes": [],
+      "inIntro": false,
+      "inTitle": false,
+      "indirectQuotes": [],
+      "isMain": false,
+      "name": "Chris Miller",
+      "occupations": [
+        {
+          "text": "Halbleiterexperte"
+        }
+      ],
+      "occurrences": {
+        "firstNameOnly": 0,
+        "fullName": 1,
+        "lastNameOnly": 0,
+        "total": 1
+      },
+      "quotedInIntro": false,
+      "quotedInTitle": false,
+      "sex": "male"
+    }
+  ],
+  "subtopics": [
+    "Unternehmen",
+    "Technologie",
+    "Softbank",
+    "Arm",
+    "Chipdesign"
+  ]
+}

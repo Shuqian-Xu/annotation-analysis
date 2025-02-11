@@ -1,0 +1,105 @@
+{
+  "persons": [
+    {
+      "age": -1, 
+      "alternativeNames": [],
+      "birthday": null,
+      "descriptiveTexts": [
+        {
+          "text": "Der Arbeitsrechtler Michael Fuhlrott erklärt, was erlaubt ist – und wo die Grenzen liegen."
+        },
+        {
+          "text": "Herr Fuhlrott, kann ich auf einen freundlichen Chef bestehen?"
+          },
+          {
+            "text": "Naja, rechtlich haben wir erst einmal ein Vertragsverhältnis mit gegenseitigen Rechten und Pflichten, die erfüllt werden müssen."
+          },
+          {
+            "text": "Mich überzeugt das nicht so recht."
+          },
+          {
+            "text": "Lassen Sie uns mal in die Praxis schauen: Gibt es Gerichtsentscheidungen, an denen sich die Grenze zwischen »das ist okay« und »das ist jetzt aber toxisch oder beleidigend« etwas klarer machen lässt?"
+          },
+          {
+            "text": "Ich selbst hatte auch schon mal den Fall einer homosexuellen Führungskraft, die permanent mit Zetteln und Botschaften in ihrem Büro drangsaliert wurde."
+          },
+          {
+            "text": "Im derzeitigen Arbeitsmarkt lässt sich für viele Beschäftigte bequemer ein neuer Job finden, denke ich."
+          },
+          {
+            "text": "Persönlich muss ich mich fragen: Ist es mir das wert?"
+          },
+          {
+            "text": "Was erwidern Sie denen?"
+          },
+          {
+            "text": "Wir haben im Arbeitsrecht das Allgemeine Gleichbehandlungsgesetz, das Benachteiligungen verhindern soll."
+          },
+          {
+            "text": "Dass in vielen Unternehmen und bei vielen Menschen die Sensibilität für derartige Verhaltensweisen vergangenen Jahren gestiegen ist, glaube ich aber schon."
+          },
+          {
+            "text": "Ich würde Ihnen raten, das erst mal intern zu klären."
+          },
+          {
+            "text": "Aber auch hier sprechen wir von Extremfällen."
+          },
+          {
+            "text": "Dass man hier seine rechtlichen Möglichkeiten nutzen möchte, kann ich in den meisten Fällen absolut verstehen und es ist absolut legitim."
+        }
+      ],
+      "directQuotes": [
+      	{
+            "text": "Ein Recht auf einen freundlichen Chef haben Sie nicht"
+          },
+        {
+          "text": "Nein. Einfache Antwort."},
+        {
+          "text": "Naja, rechtlich haben wir erst einmal ein Vertragsverhältnis mit gegenseitigen Rechten und Pflichten, die erfüllt werden müssen. Das Gesetz regelt, dass man sich vertragsgerecht benehmen, also etwa nicht beleidigen, beschimpfen oder mobben soll. Von besonderer Freundlichkeit – Small Talk, Aufmerksamkeiten, guten Wünschen zum Geburtstag oder für den anstehenden Urlaub – steht dort nichts. Auch, wenn es schön wäre: rechtlich verpflichtend ist sie nicht."},
+        {
+          "text": "Das stimmt. Man sollte sicher daher zuvorderst immer fragen, ob ein objektiver Betrachter der Situation sagen würde: Das war jetzt eine Beleidigung. Auch von Branche zu Branche gibt es da Unterschiede."},
+        {
+          "text": "Das Beispiel von der Baustelle liest man häufig. Mich überzeugt das nicht so recht. Denn: Warum sollte man sich im Investmentbanking unter Stress nicht auch mal etwas an den Kopf werfen? Dennoch unterscheiden sich in einzelnen Branchen die Gepflogenheiten. Gibt es Streit, ist es Aufgabe der Gerichte, ihn fair zu bewerten."},
+        {
+          "text": "Ein Fall , der im Oktober 2020 am Landesarbeitsgericht München verhandelt wurde, macht die Grenzen zu Mobbing vielleicht ganz gut deutlich: Ein Arbeitnehmer hatte gegen seinen Arbeitgeber geklagt, weil er seine Leistungen in einer Wirtschaftsprüfungskanzlei nicht fair bewertet sah. Als er sich bei seinem Vorgesetzten darüber beschwerte, wurde er nach und nach von Aufträgen abgezogen, verlor dann sein Büro, wurde abgemahnt. Klar ist schlussendlich auch nicht jede unrechtmäßige Abmahnung direkt Mobbing, aber am Ende macht der Takt die Musik. Der Kläger bekam Schadensersatz zugesprochen. Wegen der Kaskaden an Ablehnung, die er erleiden musste und die ein dahinterliegendes systematisches Vorgehen des Vorgesetzten offenbarte."},
+        {
+          "text": "Vor Gericht landen die Extremfälle. Größtes Problem ist dabei, dass das, was passiert ist, für die Gerichte belastbar nachzuvollziehen sein muss. Der Kläger im Münchner Fall konnte die Taten minutiös nachzeichnen und hatte ein Mobbing-Tagebuch geführt. Wenn aus dieser Vielzahl an aufgezeichneten Taten dann ein systematisches Handeln wird, stärkt das die Position des Klägers oder der Klägerin, die sich in ihrer Persönlichkeit verletzt fühlen. Eine einzelne Beleidigung dagegen kann auch mal ein »Augenblicksversagen« sein. Das ist dann zwar nicht ok, kann aber oftmals keinen Schadensersatz wegen Mobbing begründen. Zielgerichtete Handlungen haben auch vor Gericht eine ganz andere Intensität."},
+        {
+          "text": "Absolut. Und das macht die Fälle vor Gericht so kompliziert. Klar ist dennoch und jenseits vom Rechtlichen: Die Vorgesetzten müssen sich bewusst darüber sein, dass ihr Verhalten für die Reputation des Unternehmens und das Betriebsklima extrem schädigend ist.  Wenn Einzelfälle so schwer nachzuweisen sind, nährt das toxische Arbeitsumfelder. Schaut man Entscheidungen im Arbeits- und Sozialrecht aus den vergangenen Jahren an, findet der Begriff »toxisch« dort kaum statt. Und wenn, dann eher im Zusammenhang mit »toxischen« Betriebsstoffen. In den arbeitsrechtlichen Entscheidungen sind »Mobbing« oder »Bossing« geläufige Rechtsbegriffe, wenn beide auch nicht gesetzlich definiert sind. Entscheidungen dazu gibt es immer mal wieder. Ich selbst hatte auch schon mal den Fall einer homosexuellen Führungskraft, die permanent mit Zetteln und Botschaften in ihrem Büro drangsaliert wurde. Diese Fälle werden aber selten vor Gericht ausgetragen."},
+        {
+          "text": "Sie können hierzulande keine Millionen an Schmerzensgeld wie in Amerika erstreiten, sondern wenige Tausend Euro, wenn es extreme Konstellationen sind. Danach sind Sie dann noch immer im Unternehmen. Die angenehmste Zeit werden Sie nicht mehr haben – und vorher nehmen Sie im Prozess einiges auf sich. Im derzeitigen Arbeitsmarkt lässt sich für viele Beschäftigte bequemer ein neuer Job finden, denke ich. Persönlich muss ich mich fragen: Ist es mir das wert?."},
+        {
+          "text": "Man kann Mitarbeitenden die Meinung sehr deutlich sagen, ohne dabei sexistisch, rassistisch oder politisch unkorrekt zu werden. Bestimmte Führungstypen müssen sich da vielleicht umstellen. Wir haben im Arbeitsrecht das  Allgemeine Gleichbehandlungsgesetz , das Benachteiligungen verhindern soll. Dass in vielen Unternehmen und bei vielen Menschen die Sensibilität für derartige Verhaltensweisen vergangenen Jahren gestiegen ist, glaube ich aber schon."},
+        {
+          "text": "Ein Mobbing-Tagebuch ist eine gute Grundlage. Es dient letztlich ja auch der gerichtlichen Klärung. Wenn Sie sagen »mein Chef beleidigt mich dauernd«, stellt sich auch die Frage: »Was bedeutet Beleidigen hier konkret?«. Auch »dauernd« ist wertend. Richter und Gericht brauchen genau dieses Konkrete. Wenn Ihr Vorgesetzter Sie am Dienstag um 9.42 Uhr und um 10:11 Uhr zweimal als »Hornochse« bezeichnet hat, dann sollten Sie das auch möglichst exakt nachweisen können. Dabei gilt immer: Nicht nur potenzielle Taten, auch die Folgen davon sollten möglichst sauber dokumentiert sein. Eine daraus resultierende medizinische Behandlung etwa. Ansprechpartner können natürlich immer der nächsthöhere Vorgesetzte, die Personalabteilung oder – wenn es im Unternehmen einen gibt –, der Betriebsrat sein.  Das Hinweisgeberschutzgesetz  macht genauso anonyme Beschwerden möglich. Ich würde Ihnen raten, das erst mal intern zu klären. Das Anwaltsschreiben sollte der letzte Schritt sein, wenn interne Bemühungen nicht fruchten."},
+        {
+          "text": "Da haben Sie recht. Aber auch hier sprechen wir von Extremfällen. Dass man hier seine rechtlichen Möglichkeiten nutzen möchte, kann ich in den meisten Fällen absolut verstehen und es ist absolut legitim. Dennoch muss man sich auch fragen: Will ich mich eineinhalb Jahre in einem Verfahren intensiv mit dem, was passiert ist, auseinandersetzen – oder kann es auch der bessere Weg sein, sich einen neuen Job zu suchen?"} 
+      ],
+        "inIntro": true,
+      "inTitle": false,
+      "indirectQuotes": [
+        
+      ],
+      "isMain": true,
+      "name": "Michael Fuhlrott",
+      "occupations": [
+        {
+          "text": "Arbeitsrechtler"
+        }
+      ],
+      "occurences": {
+        "firstNameOnly": 0,
+        "fullName": 2,
+        "lastNameOnly": 1,
+        "total": 3
+      },
+      "quotedInIntro": false,
+      "quotedInTitle": true,
+      "sex": "male"
+    }
+  ],
+  "subtopics": [
+    "Arbeitgeberschutz", "Mentale Gesundheit", "Arbeitsrecht", "Mobbing",
+      "Vorgesetzte"
+  ]
+}

@@ -1,0 +1,1103 @@
+{
+    "persons": [
+        {
+            "name": "George Condo",
+            "alternativeNames": [],
+            "age": -1,
+            "sex": "male",
+            "occurences": {
+                "total": 2,
+                "firstNameOnly": 0,
+                "lastNameOnly": 1,
+                "fullName": 1,
+                "nickname": 0
+            },
+            "inTitle": false,
+            "inIntro": false,
+            "_name": {
+                "firstname": "George",
+                "lastname": "Condo",
+                "nickname": null,
+                "alternative_names": [],
+                "academic_title": null,
+                "nobility_title_or_rank": null
+            },
+            "descriptiveTexts": [
+                {
+                    "text": "Wer das Geb\u00e4ude der Metropolitan Opera betritt, der muss seit 2019 unter einer klobigen, von fern einem L\u00f6wenhaupt \u00e4hnelnden Goldskulptur des K\u00fcnstlers George Condo durchspazieren, die von Condo \u00bbConstellation of Voices\u00ab getauft wurde und von der \u00bbNew York Times\u00ab als \u00bbCyborg\u00ab verspottet wird."
+                }
+            ],
+            "occupations": [
+                {
+                    "text": "K\u00fcnstler"
+                }
+            ],
+            "directQuotes": [],
+            "quotedInTitle": false,
+            "quotedInIntro": false
+        },
+        {
+            "name": "Brian Jagde",
+            "alternativeNames": [],
+            "age": -1,
+            "sex": "male",
+            "occurences": {
+                "total": 1,
+                "firstNameOnly": 0,
+                "lastNameOnly": 0,
+                "fullName": 1,
+                "nickname": 0
+            },
+            "inTitle": false,
+            "inIntro": false,
+            "_name": {
+                "firstname": "Brian",
+                "lastname": "Jagde",
+                "nickname": null,
+                "alternative_names": [],
+                "academic_title": null,
+                "nobility_title_or_rank": null
+            },
+            "descriptiveTexts": [
+                {
+                    "text": "Nach dem ersten St\u00f6rer rufen an diesem Abend im vergangenen November auch andere Zuschauerinnen und Zuschauer weitgehend unverst\u00e4ndliche Parolen, dann entrollen sie ein Banner der Klimaprotestorganisation Extinction Rebellion."
+                },
+                {
+                    "text": "\u00bbViele hatten Angst, weil sie dachten, es seien Terroristen im Saal.\u00ab"
+                },
+                {
+                    "text": "\u00bbIch stelle sie mir nicht\u00ab, sagt er."
+                },
+                {
+                    "text": "Im gro\u00dfen Saal der Oper sehen und h\u00f6ren zwei Dutzend Menschen stumm, angespannt und sichtlich hingerissen zwei S\u00e4ngern zu: Die norwegische Sopranistin Lise Davidsen und der US-amerikanische Tenor Brian Jagde zelebrieren im vierten Akt der Oper \u00bbLa forza del destino\u00ab als Leonora und Don Alvaro gerade ihr Liebesungl\u00fcck."
+                },
+                {
+                    "text": "\u00bbWie, Sie unterbrechen? Mitten in der Arie?\u00ab, ruft der Regisseur, er kommt aus Warschau, in Richtung B\u00fchne."
+                },
+                {
+                    "text": "Es gibt Opernfans, die Gelb wegen solcher Experimente nicht m\u00f6gen, weil sie ihn f\u00fcr zu gro\u00dfspurig und umtriebig halten."
+                },
+                {
+                    "text": "Die anderen hassen ihn daf\u00fcr, dass er zu wenig riskiert."
+                },
+                {
+                    "text": "Mal wird ihm vorgeworfen, dass er den Kommerz \u00fcber die Kunst stelle, mal, dass er eigenwillige Vorstellungen von gro\u00dfer Kunst verfolge."
+                }
+            ],
+            "occupations": [
+                {
+                    "text": "S\u00e4nger"
+                }
+            ],
+            "directQuotes": [],
+            "quotedInTitle": false,
+            "quotedInIntro": false
+        },
+        {
+            "name": "Turandot",
+            "alternativeNames": [],
+            "age": -1,
+            "sex": "female",
+            "occurences": {
+                "total": 1,
+                "firstNameOnly": 0,
+                "lastNameOnly": 0,
+                "fullName": 1,
+                "nickname": 0
+            },
+            "inTitle": false,
+            "inIntro": false,
+            "_name": {
+                "firstname": null,
+                "lastname": "Turandot",
+                "nickname": null,
+                "alternative_names": [],
+                "academic_title": null,
+                "nobility_title_or_rank": null
+            },
+            "descriptiveTexts": [
+                {
+                    "text": "In einem der riesigen, niedrigen, mit Spiegelwand versehenen Probenr\u00e4ume im Erdgeschoss probt das Orchester des Hauses gerade \u00bbTurandot\u00ab, die Lautst\u00e4rke der Musik ist enorm."
+                }
+            ],
+            "occupations": [],
+            "directQuotes": [],
+            "quotedInTitle": false,
+            "quotedInIntro": false
+        },
+        {
+            "name": "Don Alvaro",
+            "alternativeNames": [],
+            "age": -1,
+            "sex": "male",
+            "occurences": {
+                "total": 1,
+                "firstNameOnly": 0,
+                "lastNameOnly": 0,
+                "fullName": 1,
+                "nickname": 0
+            },
+            "inTitle": false,
+            "inIntro": false,
+            "_name": {
+                "firstname": "Don",
+                "lastname": "Alvaro",
+                "nickname": null,
+                "alternative_names": [],
+                "academic_title": null,
+                "nobility_title_or_rank": null
+            },
+            "descriptiveTexts": [
+                {
+                    "text": "Im gro\u00dfen Saal der Oper sehen und h\u00f6ren zwei Dutzend Menschen stumm, angespannt und sichtlich hingerissen zwei S\u00e4ngern zu: Die norwegische Sopranistin Lise Davidsen und der US-amerikanische Tenor Brian Jagde zelebrieren im vierten Akt der Oper \u00bbLa forza del destino\u00ab als Leonora und Don Alvaro gerade ihr Liebesungl\u00fcck."
+                }
+            ],
+            "occupations": [],
+            "directQuotes": [],
+            "quotedInTitle": false,
+            "quotedInIntro": false
+        },
+        {
+            "name": "Wladimir Putin",
+            "alternativeNames": [],
+            "age": -1,
+            "sex": "male",
+            "occurences": {
+                "total": 5,
+                "firstNameOnly": 1,
+                "lastNameOnly": 3,
+                "fullName": 1,
+                "nickname": 0
+            },
+            "inTitle": false,
+            "inIntro": false,
+            "_name": {
+                "firstname": "Wladimir",
+                "lastname": "Putin",
+                "nickname": null,
+                "alternative_names": [],
+                "academic_title": null,
+                "nobility_title_or_rank": null
+            },
+            "descriptiveTexts": [
+                {
+                    "text": "Er hat sich um die Gesch\u00e4fte des Klaviervirtuosen Wladimir Horowitz gek\u00fcmmert."
+                },
+                {
+                    "text": "Die S\u00e4ngerin, der ein nahes Verh\u00e4ltnis zu Wladimir Putin unterstellt wurde, positionierte sich zwar gegen den Ukrainekrieg, weigerte sich aber, sich von dem russischen Machthaber zu distanzieren."
+                },
+                {
+                    "text": "Er spricht davon, dass es einen \u00bbKulturkrieg gegen Putin\u00ab zu f\u00fchren gelte."
+                },
+                {
+                    "text": "Aber er sagt auch: \u00bbIch halte es f\u00fcr sinnlos, die Musik von Peter Tschaikowski zu \u00e4chten, weil Tschaikowski nicht f\u00fcr Putin verantwortlich ist.\u00ab"
+                },
+                {
+                    "text": "Es gehe ihm allein darum, \u00bbnicht mit Menschen und Institutionen zu arbeiten, die Putin unterst\u00fctzen\u00ab."
+                }
+            ],
+            "occupations": [
+                {
+                    "text": "Politiker"
+                },
+                {
+                    "text": "Machthaber"
+                }
+            ],
+            "directQuotes": [],
+            "quotedInTitle": false,
+            "quotedInIntro": false
+        },
+        {
+            "name": "Lise Davidsen",
+            "alternativeNames": [],
+            "age": -1,
+            "sex": "female",
+            "occurences": {
+                "total": 1,
+                "firstNameOnly": 0,
+                "lastNameOnly": 0,
+                "fullName": 1,
+                "nickname": 0
+            },
+            "inTitle": false,
+            "inIntro": false,
+            "_name": {
+                "firstname": "Lise",
+                "lastname": "Davidsen",
+                "nickname": null,
+                "alternative_names": [],
+                "academic_title": null,
+                "nobility_title_or_rank": null
+            },
+            "descriptiveTexts": [
+                {
+                    "text": "Nach dem ersten St\u00f6rer rufen an diesem Abend im vergangenen November auch andere Zuschauerinnen und Zuschauer weitgehend unverst\u00e4ndliche Parolen, dann entrollen sie ein Banner der Klimaprotestorganisation Extinction Rebellion."
+                },
+                {
+                    "text": "\u00bbViele hatten Angst, weil sie dachten, es seien Terroristen im Saal.\u00ab"
+                },
+                {
+                    "text": "\u00bbIch stelle sie mir nicht\u00ab, sagt er."
+                },
+                {
+                    "text": "Im gro\u00dfen Saal der Oper sehen und h\u00f6ren zwei Dutzend Menschen stumm, angespannt und sichtlich hingerissen zwei S\u00e4ngern zu: Die norwegische Sopranistin Lise Davidsen und der US-amerikanische Tenor Brian Jagde zelebrieren im vierten Akt der Oper \u00bbLa forza del destino\u00ab als Leonora und Don Alvaro gerade ihr Liebesungl\u00fcck."
+                },
+                {
+                    "text": "\u00bbWie, Sie unterbrechen? Mitten in der Arie?\u00ab, ruft der Regisseur, er kommt aus Warschau, in Richtung B\u00fchne."
+                },
+                {
+                    "text": "Es gibt Opernfans, die Gelb wegen solcher Experimente nicht m\u00f6gen, weil sie ihn f\u00fcr zu gro\u00dfspurig und umtriebig halten."
+                },
+                {
+                    "text": "Die anderen hassen ihn daf\u00fcr, dass er zu wenig riskiert."
+                },
+                {
+                    "text": "Mal wird ihm vorgeworfen, dass er den Kommerz \u00fcber die Kunst stelle, mal, dass er eigenwillige Vorstellungen von gro\u00dfer Kunst verfolge."
+                }
+            ],
+            "occupations": [
+                {
+                    "text": "Sopranistin"
+                },
+                {
+                    "text": "S\u00e4ngerin"
+                }
+            ],
+            "directQuotes": [],
+            "quotedInTitle": false,
+            "quotedInIntro": false
+        },
+        {
+            "name": "Leonora",
+            "alternativeNames": [],
+            "age": -1,
+            "sex": "female",
+            "occurences": {
+                "total": 1,
+                "firstNameOnly": 0,
+                "lastNameOnly": 0,
+                "fullName": 1,
+                "nickname": 0
+            },
+            "inTitle": false,
+            "inIntro": false,
+            "_name": {
+                "firstname": null,
+                "lastname": "Leonora",
+                "nickname": null,
+                "alternative_names": [],
+                "academic_title": null,
+                "nobility_title_or_rank": null
+            },
+            "descriptiveTexts": [
+                {
+                    "text": "Im gro\u00dfen Saal der Oper sehen und h\u00f6ren zwei Dutzend Menschen stumm, angespannt und sichtlich hingerissen zwei S\u00e4ngern zu: Die norwegische Sopranistin Lise Davidsen und der US-amerikanische Tenor Brian Jagde zelebrieren im vierten Akt der Oper \u00bbLa forza del destino\u00ab als Leonora und Don Alvaro gerade ihr Liebesungl\u00fcck."
+                }
+            ],
+            "occupations": [],
+            "directQuotes": [],
+            "quotedInTitle": false,
+            "quotedInIntro": false
+        },
+        {
+            "name": "Verdi",
+            "alternativeNames": [],
+            "age": -1,
+            "sex": "male",
+            "occurences": {
+                "total": 2,
+                "firstNameOnly": 0,
+                "lastNameOnly": 0,
+                "fullName": 2,
+                "nickname": 0
+            },
+            "inTitle": false,
+            "inIntro": false,
+            "_name": {
+                "firstname": null,
+                "lastname": "Verdi",
+                "nickname": null,
+                "alternative_names": [],
+                "academic_title": null,
+                "nobility_title_or_rank": null
+            },
+            "descriptiveTexts": [
+                {
+                    "text": "\u00bbLa forza del destino\u00ab ist eine Verdi-Oper aus dem Jahr 1862, doch in der Met ist sie ziemlich radikal auf gegenw\u00e4rtig verkleidet, wie man es vom deutschen, in den USA lange als \u00bbEurotrash\u00ab geschm\u00e4hten Regietheater kennt."
+                },
+                {
+                    "text": "Arien zur Apokalypse, so passt auch Verdi in Gelbs Erneuerungsprogramm."
+                }
+            ],
+            "occupations": [],
+            "directQuotes": [],
+            "quotedInTitle": false,
+            "quotedInIntro": false
+        },
+        {
+            "name": "Keri-Lynn Wilson",
+            "alternativeNames": [],
+            "age": -1,
+            "sex": "female",
+            "occurences": {
+                "total": 2,
+                "firstNameOnly": 0,
+                "lastNameOnly": 1,
+                "fullName": 1,
+                "nickname": 0
+            },
+            "inTitle": false,
+            "inIntro": false,
+            "_name": {
+                "firstname": "Keri-Lynn",
+                "lastname": "Wilson",
+                "nickname": null,
+                "alternative_names": [],
+                "academic_title": null,
+                "nobility_title_or_rank": null
+            },
+            "descriptiveTexts": [
+                {
+                    "text": "Nach dem ersten St\u00f6rer rufen an diesem Abend im vergangenen November auch andere Zuschauerinnen und Zuschauer weitgehend unverst\u00e4ndliche Parolen, dann entrollen sie ein Banner der Klimaprotestorganisation Extinction Rebellion."
+                },
+                {
+                    "text": "\u00bbViele hatten Angst, weil sie dachten, es seien Terroristen im Saal.\u00ab"
+                },
+                {
+                    "text": "\u00bbIch stelle sie mir nicht\u00ab, sagt er."
+                },
+                {
+                    "text": "\u00bbWie, Sie unterbrechen? Mitten in der Arie?\u00ab, ruft der Regisseur, er kommt aus Warschau, in Richtung B\u00fchne."
+                },
+                {
+                    "text": "Er klingt ehrlich \u00fcberrascht."
+                },
+                {
+                    "text": "Es gibt Opernfans, die Gelb wegen solcher Experimente nicht m\u00f6gen, weil sie ihn f\u00fcr zu gro\u00dfspurig und umtriebig halten."
+                },
+                {
+                    "text": "Die anderen hassen ihn daf\u00fcr, dass er zu wenig riskiert."
+                },
+                {
+                    "text": "Mal wird ihm vorgeworfen, dass er den Kommerz \u00fcber die Kunst stelle, mal, dass er eigenwillige Vorstellungen von gro\u00dfer Kunst verfolge."
+                },
+                {
+                    "text": "Und im vergangenen Jahr war er in Europa mit dem Ukrainian Freedom Orchestra unterwegs, das aus ukrainischen Musikerinnen und Musikern besteht und von der Dirigentin Keri-Lynn Wilson geleitet wird."
+                },
+                {
+                    "text": "Wilson ist Gelbs Ehefrau, sie hat ukrainische Wurzeln."
+                }
+            ],
+            "occupations": [],
+            "directQuotes": [],
+            "quotedInTitle": false,
+            "quotedInIntro": false
+        },
+        {
+            "name": "Gustav Mahler",
+            "alternativeNames": [],
+            "age": -1,
+            "sex": "male",
+            "occurences": {
+                "total": 1,
+                "firstNameOnly": 0,
+                "lastNameOnly": 0,
+                "fullName": 1,
+                "nickname": 0
+            },
+            "inTitle": false,
+            "inIntro": false,
+            "_name": {
+                "firstname": "Gustav",
+                "lastname": "Mahler",
+                "nickname": null,
+                "alternative_names": [],
+                "academic_title": null,
+                "nobility_title_or_rank": null
+            },
+            "descriptiveTexts": [
+                {
+                    "text": "Eine an Gustav Mahler, der in der Met dirigierte, als das Opernhaus noch an der 39."
+                }
+            ],
+            "occupations": [
+                {
+                    "text": "Komponist"
+                },
+                {
+                    "text": "Dirigent"
+                }
+            ],
+            "directQuotes": [
+                {
+                    "text": "aber ihre Aktionen sollten die Verursacher und Versager in der Sache treffen: die Milliard\u00e4re und die Politiker. Ich glaube, die Aktivisten haben sich den falschen Ort ausgesucht."
+                }
+            ],
+            "quotedInTitle": false,
+            "quotedInIntro": false
+        },
+        {
+            "name": "Mstislaw Rostropowitsch",
+            "alternativeNames": [],
+            "age": -1,
+            "sex": "male",
+            "occurences": {
+                "total": 1,
+                "firstNameOnly": 0,
+                "lastNameOnly": 0,
+                "fullName": 1,
+                "nickname": 0
+            },
+            "inTitle": false,
+            "inIntro": false,
+            "_name": {
+                "firstname": "Mstislaw",
+                "lastname": "Rostropowitsch",
+                "nickname": null,
+                "alternative_names": [],
+                "academic_title": null,
+                "nobility_title_or_rank": null
+            },
+            "descriptiveTexts": [
+                {
+                    "text": "Und er hat einen hochgelobten Dokumentarfilm \u00fcber die R\u00fcckkehr des ber\u00fchmten Cellisten Mstislaw Rostropowitsch nach Russland im Jahr 1990 gedreht."
+                }
+            ],
+            "occupations": [],
+            "directQuotes": [],
+            "quotedInTitle": false,
+            "quotedInIntro": false
+        },
+        {
+            "name": "Wladimir Horowitz",
+            "alternativeNames": [],
+            "age": -1,
+            "sex": "male",
+            "occurences": {
+                "total": 2,
+                "firstNameOnly": 1,
+                "lastNameOnly": 0,
+                "fullName": 1,
+                "nickname": 0
+            },
+            "inTitle": false,
+            "inIntro": false,
+            "_name": {
+                "firstname": "Wladimir",
+                "lastname": "Horowitz",
+                "nickname": null,
+                "alternative_names": [],
+                "academic_title": null,
+                "nobility_title_or_rank": null
+            },
+            "descriptiveTexts": [
+                {
+                    "text": "Er hat sich um die Gesch\u00e4fte des Klaviervirtuosen Wladimir Horowitz gek\u00fcmmert."
+                },
+                {
+                    "text": "Die S\u00e4ngerin, der ein nahes Verh\u00e4ltnis zu Wladimir Putin unterstellt wurde, positionierte sich zwar gegen den Ukrainekrieg, weigerte sich aber, sich von dem russischen Machthaber zu distanzieren."
+                }
+            ],
+            "occupations": [
+                {
+                    "text": "Klaviervirtuose"
+                }
+            ],
+            "directQuotes": [],
+            "quotedInTitle": false,
+            "quotedInIntro": false
+        },
+        {
+            "name": "Gelb oder Gelbs",
+            "alternativeNames": [],
+            "age": -1,
+            "sex": "male",
+            "occurences": {
+                "total": 30,
+                "firstNameOnly": 0,
+                "lastNameOnly": 0,
+                "fullName": 30,
+                "nickname": 0
+            },
+            "inTitle": false,
+            "inIntro": true,
+            "_name": {
+                "firstname": null,
+                "lastname": "Gelb",
+                "nickname": null,
+                "alternative_names": [],
+                "academic_title": null,
+                "nobility_title_or_rank": null
+            },
+            "descriptiveTexts": [],
+            "occupations": [
+                {
+                    "text": "Opernchef"
+                }
+            ],
+            "directQuotes": [],
+            "quotedInTitle": false,
+            "quotedInIntro": true
+        },
+        {
+            "name": "Anna Netrebko",
+            "alternativeNames": [],
+            "age": -1,
+            "sex": "female",
+            "occurences": {
+                "total": 5,
+                "firstNameOnly": 0,
+                "lastNameOnly": 3,
+                "fullName": 2,
+                "nickname": 0
+            },
+            "inTitle": false,
+            "inIntro": true,
+            "_name": {
+                "firstname": "Anna",
+                "lastname": "Netrebko",
+                "nickname": null,
+                "alternative_names": [],
+                "academic_title": null,
+                "nobility_title_or_rank": null
+            },
+            "descriptiveTexts": [
+                {
+                    "text": "Opernchef Peter Gelb, auch wegen des Rauswurfs von Anna Netrebko umstritten, will mit zeitgen\u00f6ssischen Musikdramen ein neues Publikum finden."
+                },
+                {
+                    "text": "Nach Beginn des russischen Angriffskriegs gegen die Ukraine im Februar 2022 beendete Gelb das Engagement der S\u00e4ngerin Anna Netrebko an seinem Haus."
+                },
+                {
+                    "text": "Dem Met-Chef reichte diese Positionierung nicht aus, er warf Netrebko raus."
+                },
+                {
+                    "text": "In vielen L\u00e4ndern Europas, etwa in diesen Wochen bei den Salzburger Osterfestspielen und in Neapel, tritt Netrebko weiter auf \u2013 nicht aber in der Metropolitan Opera."
+                },
+                {
+                    "text": "Bis heute liegt sie mit Gelbs Haus im Streit, sie klagt vor dem New York Southern District Court wegen Verleumdung und Vertragsbruch, aber auch \u00bbschweren seelischen Qualen und emotionalem Leid\u00ab."
+                },
+                {
+                    "text": "360.000 Dollar Schadensersatz fordert Netrebko, zus\u00e4tzlich zu den 200.000 Dollar Gage, die ihr ein New Yorker Schiedsgericht zusprach."
+                }
+            ],
+            "occupations": [
+                {
+                    "text": "S\u00e4ngerin"
+                }
+            ],
+            "directQuotes": [],
+            "quotedInTitle": false,
+            "quotedInIntro": true
+        },
+        {
+            "name": "James Levine",
+            "alternativeNames": [],
+            "age": -1,
+            "sex": "male",
+            "occurences": {
+                "total": 1,
+                "firstNameOnly": 0,
+                "lastNameOnly": 0,
+                "fullName": 1,
+                "nickname": 0
+            },
+            "inTitle": false,
+            "inIntro": false,
+            "_name": {
+                "firstname": "James",
+                "lastname": "Levine",
+                "nickname": null,
+                "alternative_names": [],
+                "academic_title": null,
+                "nobility_title_or_rank": null
+            },
+            "descriptiveTexts": [
+                {
+                    "text": "Er hat seinen langj\u00e4hrigen, mittlerweile gestorbenen Chefdirigenten James Levine erst beurlaubt und sp\u00e4ter gefeuert, weil er des sexuellen Missbrauchs Minderj\u00e4hriger beschuldigt wurde."
+                }
+            ],
+            "occupations": [],
+            "directQuotes": [],
+            "quotedInTitle": false,
+            "quotedInIntro": false
+        },
+        {
+            "name": "Peter Tschaikowski",
+            "alternativeNames": [],
+            "age": -1,
+            "sex": "male",
+            "occurences": {
+                "total": 5,
+                "firstNameOnly": 3,
+                "lastNameOnly": 1,
+                "fullName": 1,
+                "nickname": 0
+            },
+            "inTitle": false,
+            "inIntro": true,
+            "_name": {
+                "firstname": "Peter",
+                "lastname": "Tschaikowski",
+                "nickname": null,
+                "alternative_names": [],
+                "academic_title": null,
+                "nobility_title_or_rank": null
+            },
+            "descriptiveTexts": [
+                {
+                    "text": "Opernchef Peter Gelb, auch wegen des Rauswurfs von Anna Netrebko umstritten, will mit zeitgen\u00f6ssischen Musikdramen ein neues Publikum finden."
+                },
+                {
+                    "text": "Der Chef des Hauses ist seit 2006 Peter Gelb, 1953 in New York geboren und auch dort aufgewachsen, ein drahtiger, kahlk\u00f6pfiger, stets mit strenger Freundlichkeit auftretender Mann, den wenig aus der Ruhe zu bringen scheint."
+                },
+                {
+                    "text": "Wie hat er den \u00bbTannh\u00e4user\u00ab-Abend wahrgenommen?"
+                },
+                {
+                    "text": "W\u00e4hrend der \u00bbTannh\u00e4user\u00ab-Auff\u00fchrung betrat der Met-Chef zweimal die B\u00fchne, er sagte dabei unter anderem den Satz: \u00bbWir werden uns nicht geschlagen geben.\u00ab"
+                },
+                {
+                    "text": "Er hat mitangesehen, wie vor zehn Jahren das andere gro\u00dfe New Yorker Opernhaus, die als Volksoper konzipierte New York City Opera, bankrottging \u2013 eine Sp\u00e4tfolge der Finanzkrise."
+                },
+                {
+                    "text": "Er hat seinen langj\u00e4hrigen, mittlerweile gestorbenen Chefdirigenten James Levine erst beurlaubt und sp\u00e4ter gefeuert, weil er des sexuellen Missbrauchs Minderj\u00e4hriger beschuldigt wurde."
+                },
+                {
+                    "text": "\u00bbIch stelle sie mir nicht\u00ab, sagt er."
+                },
+                {
+                    "text": "Im Januar hat er verk\u00fcndet, dass er 40 Millionen Dollar aus dem Stiftungskapital der Oper abziehen m\u00fcsse, um Verluste auszugleichen und den Betrieb aufrechtzuerhalten."
+                },
+                {
+                    "text": "Er sagt: \u00bbDas Opernhaus wurde 1883 auf der Gesch\u00e4ftsgrundlage gegr\u00fcndet, dass der Ticketverkauf ausreichen sollte, um die Kosten zu decken.\u00ab"
+                },
+                {
+                    "text": "Wenn er das nicht tut, muss man die Oper eben in den Winterschlaf schicken."
+                },
+                {
+                    "text": "\u00bbUnd ich gebe zu, dass die Entnahme von Stiftungsgeldern keine Formel f\u00fcr einen langfristigen finanziellen Erfolg ist.\u00ab"
+                },
+                {
+                    "text": "\u00bbEs ist unsere Pflicht zu zeigen, dass die Oper eine Kunstform der Gegenwart ist\u00ab, sagt Peter Gelb."
+                },
+                {
+                    "text": "\u00bbIch bin vorsichtig bei der Wahl neuer Produktionen, weil ich Oper zeigen will, die das Publikum nicht blo\u00df intellektuell ergreift\u00ab, sagt Gelb."
+                },
+                {
+                    "text": "\u00bbIch bin in diesem Punkt sehr simpel: Gro\u00dfe Kunst ist immer dazu imstande, sehr viele Menschen zu bewegen.\u00ab"
+                },
+                {
+                    "text": "In fast 18 Jahren als Generaldirektor der Met hat er sich den Ruf erworben, keinem Streit aus dem Weg zu gehen."
+                },
+                {
+                    "text": "\u00bbIch bin in vielen Dingen anderer Meinung als meine Kritikerinnen und Kritiker\u00ab, sagt er, \u00bbviele von denen halten zum Beispiel Musik von lebenden Komponisten, die das Publikum emotional ber\u00fchrt, f\u00fcr absolut wertlos.\u00ab"
+                },
+                {
+                    "text": "Gelb war Manager beim Unterhaltungskonzern Sony, bevor er als Opernchef anfing."
+                },
+                {
+                    "text": "In jungen Jahren war er mit dem Boston Symphony Orchestra als diplomatischer Eisbrecher in China unterwegs."
+                },
+                {
+                    "text": "Er hat sich um die Gesch\u00e4fte des Klaviervirtuosen Wladimir Horowitz gek\u00fcmmert."
+                },
+                {
+                    "text": "Und er hat einen hochgelobten Dokumentarfilm \u00fcber die R\u00fcckkehr des ber\u00fchmten Cellisten Mstislaw Rostropowitsch nach Russland im Jahr 1990 gedreht."
+                },
+                {
+                    "text": "Zu den Macken, f\u00fcr die Gelb ber\u00fcchtigt ist, geh\u00f6rt es, dass er sich, wann immer in der Met f\u00fcr eine neue Produktion geprobt wird, im Parkett einquartiert \u2013 mit Laptop, Telefon und Schreibunterlage."
+                },
+                {
+                    "text": "Er wolle niemanden kontrollieren, sagt Gelb, das sei Unsinn."
+                },
+                {
+                    "text": "Er lacht."
+                },
+                {
+                    "text": "\u00bbIch sitze nur deshalb im Saal, weil ich muss. Als Chef muss ich die Dinge im Auge behalten.\u00ab"
+                },
+                {
+                    "text": "Dass er w\u00e4hrend der Proben telefoniert, schreibt und Mitarbeiter instruiert, nennt Gelb schlicht: \u00bbMultitasking\u00ab."
+                },
+                {
+                    "text": "Und manchmal macht er auch die Weltpolitik zu seinen Aufgaben."
+                },
+                {
+                    "text": "Dem Met-Chef reichte diese Positionierung nicht aus, er warf Netrebko raus."
+                },
+                {
+                    "text": "Er spricht davon, dass es einen \u00bbKulturkrieg gegen Putin\u00ab zu f\u00fchren gelte."
+                },
+                {
+                    "text": "Aber er sagt auch: \u00bbIch halte es f\u00fcr sinnlos, die Musik von Peter Tschaikowski zu \u00e4chten, weil Tschaikowski nicht f\u00fcr Putin verantwortlich ist.\u00ab"
+                },
+                {
+                    "text": "Unmittelbar nach Beginn des Kriegs lie\u00df er vor einer Vorstellung die ukrainische Nationalhymne singen."
+                },
+                {
+                    "text": "Und im vergangenen Jahr war er in Europa mit dem Ukrainian Freedom Orchestra unterwegs, das aus ukrainischen Musikerinnen und Musikern besteht und von der Dirigentin Keri-Lynn Wilson geleitet wird."
+                }
+            ],
+            "occupations": [
+                {
+                    "text": "Komponist"
+                }
+            ],
+            "directQuotes": [],
+            "quotedInTitle": false,
+            "quotedInIntro": true
+        },
+        {
+            "name": "Peter Gelb",
+            "alternativeNames": [],
+            "age": -1,
+            "sex": "male",
+            "occurences": {
+                "total": 4,
+                "firstNameOnly": 1,
+                "lastNameOnly": 0,
+                "fullName": 3,
+                "nickname": 0
+            },
+            "inTitle": false,
+            "inIntro": true,
+            "_name": {
+                "firstname": "Peter",
+                "lastname": "Gelb",
+                "nickname": null,
+                "alternative_names": [],
+                "academic_title": null,
+                "nobility_title_or_rank": null
+            },
+            "descriptiveTexts": [
+                {
+                    "text": "Opernchef Peter Gelb, auch wegen des Rauswurfs von Anna Netrebko umstritten, will mit zeitgen\u00f6ssischen Musikdramen ein neues Publikum finden."
+                },
+                {
+                    "text": "Der Chef des Hauses ist seit 2006 Peter Gelb, 1953 in New York geboren und auch dort aufgewachsen, ein drahtiger, kahlk\u00f6pfiger, stets mit strenger Freundlichkeit auftretender Mann, den wenig aus der Ruhe zu bringen scheint."
+                },
+                {
+                    "text": "Wie hat er den \u00bbTannh\u00e4user\u00ab-Abend wahrgenommen?"
+                },
+                {
+                    "text": "W\u00e4hrend der \u00bbTannh\u00e4user\u00ab-Auff\u00fchrung betrat der Met-Chef zweimal die B\u00fchne, er sagte dabei unter anderem den Satz: \u00bbWir werden uns nicht geschlagen geben.\u00ab"
+                },
+                {
+                    "text": "Er hat mitangesehen, wie vor zehn Jahren das andere gro\u00dfe New Yorker Opernhaus, die als Volksoper konzipierte New York City Opera, bankrottging \u2013 eine Sp\u00e4tfolge der Finanzkrise."
+                },
+                {
+                    "text": "Er hat seinen langj\u00e4hrigen, mittlerweile gestorbenen Chefdirigenten James Levine erst beurlaubt und sp\u00e4ter gefeuert, weil er des sexuellen Missbrauchs Minderj\u00e4hriger beschuldigt wurde."
+                },
+                {
+                    "text": "\u00bbIch stelle sie mir nicht\u00ab, sagt er."
+                },
+                {
+                    "text": "Im Januar hat er verk\u00fcndet, dass er 40 Millionen Dollar aus dem Stiftungskapital der Oper abziehen m\u00fcsse, um Verluste auszugleichen und den Betrieb aufrechtzuerhalten."
+                },
+                {
+                    "text": "Er sagt: \u00bbDas Opernhaus wurde 1883 auf der Gesch\u00e4ftsgrundlage gegr\u00fcndet, dass der Ticketverkauf ausreichen sollte, um die Kosten zu decken.\u00ab"
+                },
+                {
+                    "text": "Wenn er das nicht tut, muss man die Oper eben in den Winterschlaf schicken."
+                },
+                {
+                    "text": "\u00bbUnd ich gebe zu, dass die Entnahme von Stiftungsgeldern keine Formel f\u00fcr einen langfristigen finanziellen Erfolg ist.\u00ab"
+                },
+                {
+                    "text": "\u00bbEs ist unsere Pflicht zu zeigen, dass die Oper eine Kunstform der Gegenwart ist\u00ab, sagt Peter Gelb."
+                },
+                {
+                    "text": "\u00bbIch bin vorsichtig bei der Wahl neuer Produktionen, weil ich Oper zeigen will, die das Publikum nicht blo\u00df intellektuell ergreift\u00ab, sagt Gelb."
+                },
+                {
+                    "text": "\u00bbIch bin in diesem Punkt sehr simpel: Gro\u00dfe Kunst ist immer dazu imstande, sehr viele Menschen zu bewegen.\u00ab"
+                },
+                {
+                    "text": "In fast 18 Jahren als Generaldirektor der Met hat er sich den Ruf erworben, keinem Streit aus dem Weg zu gehen."
+                },
+                {
+                    "text": "\u00bbIch bin in vielen Dingen anderer Meinung als meine Kritikerinnen und Kritiker\u00ab, sagt er, \u00bbviele von denen halten zum Beispiel Musik von lebenden Komponisten, die das Publikum emotional ber\u00fchrt, f\u00fcr absolut wertlos.\u00ab"
+                },
+                {
+                    "text": "Gelb war Manager beim Unterhaltungskonzern Sony, bevor er als Opernchef anfing."
+                },
+                {
+                    "text": "In jungen Jahren war er mit dem Boston Symphony Orchestra als diplomatischer Eisbrecher in China unterwegs."
+                },
+                {
+                    "text": "Er hat sich um die Gesch\u00e4fte des Klaviervirtuosen Wladimir Horowitz gek\u00fcmmert."
+                },
+                {
+                    "text": "Und er hat einen hochgelobten Dokumentarfilm \u00fcber die R\u00fcckkehr des ber\u00fchmten Cellisten Mstislaw Rostropowitsch nach Russland im Jahr 1990 gedreht."
+                },
+                {
+                    "text": "Zu den Macken, f\u00fcr die Gelb ber\u00fcchtigt ist, geh\u00f6rt es, dass er sich, wann immer in der Met f\u00fcr eine neue Produktion geprobt wird, im Parkett einquartiert \u2013 mit Laptop, Telefon und Schreibunterlage."
+                },
+                {
+                    "text": "Er wolle niemanden kontrollieren, sagt Gelb, das sei Unsinn."
+                },
+                {
+                    "text": "Er lacht."
+                },
+                {
+                    "text": "\u00bbIch sitze nur deshalb im Saal, weil ich muss. Als Chef muss ich die Dinge im Auge behalten.\u00ab"
+                },
+                {
+                    "text": "Dass er w\u00e4hrend der Proben telefoniert, schreibt und Mitarbeiter instruiert, nennt Gelb schlicht: \u00bbMultitasking\u00ab."
+                },
+                {
+                    "text": "Und manchmal macht er auch die Weltpolitik zu seinen Aufgaben."
+                },
+                {
+                    "text": "Dem Met-Chef reichte diese Positionierung nicht aus, er warf Netrebko raus."
+                },
+                {
+                    "text": "Er spricht davon, dass es einen \u00bbKulturkrieg gegen Putin\u00ab zu f\u00fchren gelte."
+                },
+                {
+                    "text": "Aber er sagt auch: \u00bbIch halte es f\u00fcr sinnlos, die Musik von Peter Tschaikowski zu \u00e4chten, weil Tschaikowski nicht f\u00fcr Putin verantwortlich ist.\u00ab"
+                },
+                {
+                    "text": "Unmittelbar nach Beginn des Kriegs lie\u00df er vor einer Vorstellung die ukrainische Nationalhymne singen."
+                },
+                {
+                    "text": "Und im vergangenen Jahr war er in Europa mit dem Ukrainian Freedom Orchestra unterwegs, das aus ukrainischen Musikerinnen und Musikern besteht und von der Dirigentin Keri-Lynn Wilson geleitet wird."
+                }
+            ],
+            "occupations": [
+                {
+                    "text": "Manager"
+                },
+                {
+                    "text": "Opernchef"
+                }
+            ],
+            "directQuotes": [
+                {
+                    "text": "Dass Aktivisten ausgerechnet ein Opernhaus f\u00fcr relevant genug halten f\u00fcr so eine Aktion, beweist vor allem eines: Unser Planet mag vom Tod bedroht sein, aber immerhin ist die Oper noch am Leben."
+                },
+                {
+                    "text": "Wir werden uns nicht geschlagen geben."
+                },
+                {
+                    "text": "Und ich gebe zu, dass die Entnahme von Stiftungsgeldern keine Formel f\u00fcr einen langfristigen finanziellen Erfolg ist."
+                },
+                {
+                    "text": "Die Aufgabe lautet, neue Menschen zur Oper und in dieses Haus zu bringen"
+                },
+                {
+                    "text": "Es ist unsere Pflicht zu zeigen, dass die Oper eine Kunstform der Gegenwart ist"
+                },
+                {
+                    "text": "Ich bin vorsichtig bei der Wahl neuer Produktionen, weil ich Oper zeigen will, die das Publikum nicht blo\u00df intellektuell ergreift"
+                },
+                {
+                    "text": "Ich bin in diesem Punkt sehr simpel: Gro\u00dfe Kunst ist immer dazu imstande, sehr viele Menschen zu bewegen."
+                },
+                {
+                    "text": "Ich bin in vielen Dingen anderer Meinung als meine Kritikerinnen und Kritiker"
+                },
+                {
+                    "text": "F\u00fcr mich war die Entscheidung angesichts der Brutalit\u00e4t des russischen Angriffskriegs absolut klar"
+                },
+                {
+                    "text": "nicht mit Menschen und Institutionen zu arbeiten, die Putin unterst\u00fctzen"
+                }
+            ],
+            "quotedInTitle": false,
+            "quotedInIntro": true
+        },
+        {
+            "name": "Richard Wagner",
+            "alternativeNames": [],
+            "age": -1,
+            "sex": "male",
+            "occurences": {
+                "total": 2,
+                "firstNameOnly": 0,
+                "lastNameOnly": 0,
+                "fullName": 2,
+                "nickname": 0
+            },
+            "inTitle": false,
+            "inIntro": false,
+            "_name": {
+                "firstname": "Richard",
+                "lastname": "Wagner",
+                "nickname": null,
+                "alternative_names": [],
+                "academic_title": null,
+                "nobility_title_or_rank": null
+            },
+            "descriptiveTexts": [
+                {
+                    "text": "Auf der B\u00fchne steht der deutsche S\u00e4nger Christian Gerhaher, ein gefeierter Bariton, und singt den Wolfram in Richard Wagners \u00bbTannh\u00e4user\u00ab."
+                },
+                {
+                    "text": "Es ist der Kopf von Richard Wagner."
+                }
+            ],
+            "occupations": [
+                {
+                    "text": "Komponist"
+                }
+            ],
+            "directQuotes": [],
+            "quotedInTitle": false,
+            "quotedInIntro": false
+        },
+        {
+            "name": "Tannh\u00e4user",
+            "alternativeNames": [],
+            "age": -1,
+            "sex": "male",
+            "occurences": {
+                "total": 3,
+                "firstNameOnly": 0,
+                "lastNameOnly": 0,
+                "fullName": 3,
+                "nickname": 0
+            },
+            "inTitle": false,
+            "inIntro": false,
+            "_name": {
+                "firstname": null,
+                "lastname": "Tannh\u00e4user",
+                "nickname": null,
+                "alternative_names": [],
+                "academic_title": null,
+                "nobility_title_or_rank": null
+            },
+            "descriptiveTexts": [
+                {
+                    "text": "Auf der B\u00fchne steht der deutsche S\u00e4nger Christian Gerhaher, ein gefeierter Bariton, und singt den Wolfram in Richard Wagners \u00bbTannh\u00e4user\u00ab."
+                },
+                {
+                    "text": "Wie hat er den \u00bbTannh\u00e4user\u00ab-Abend wahrgenommen?"
+                },
+                {
+                    "text": "W\u00e4hrend der \u00bbTannh\u00e4user\u00ab-Auff\u00fchrung betrat der Met-Chef zweimal die B\u00fchne, er sagte dabei unter anderem den Satz: \u00bbWir werden uns nicht geschlagen geben.\u00ab"
+                }
+            ],
+            "occupations": [],
+            "directQuotes": [
+                {
+                    "text": "Tannh\u00e4user"
+                }
+            ],
+            "quotedInTitle": false,
+            "quotedInIntro": false
+        },
+        {
+            "name": "Christian Gerhaher",
+            "alternativeNames": [],
+            "age": -1,
+            "sex": "male",
+            "occurences": {
+                "total": 2,
+                "firstNameOnly": 0,
+                "lastNameOnly": 1,
+                "fullName": 1,
+                "nickname": 0
+            },
+            "inTitle": false,
+            "inIntro": false,
+            "_name": {
+                "firstname": "Christian",
+                "lastname": "Gerhaher",
+                "nickname": null,
+                "alternative_names": [],
+                "academic_title": null,
+                "nobility_title_or_rank": null
+            },
+            "descriptiveTexts": [
+                {
+                    "text": "Auf der B\u00fchne steht der deutsche S\u00e4nger Christian Gerhaher, ein gefeierter Bariton, und singt den Wolfram in Richard Wagners \u00bbTannh\u00e4user\u00ab."
+                },
+                {
+                    "text": "\u00bbDie Schreie klangen feindselig und brutal\u00ab, sagt Gerhaher."
+                },
+                {
+                    "text": "Er habe Verst\u00e4ndnis f\u00fcr die wichtigen Anliegen der Aktivisten und bewundere ihr Engagement \u2013 \u00bbaber ihre Aktionen sollten die Verursacher und Versager in der Sache treffen: die Milliard\u00e4re und die Politiker. Ich glaube, die Aktivisten haben sich den falschen Ort ausgesucht.\u00ab"
+                }
+            ],
+            "occupations": [],
+            "directQuotes": [],
+            "quotedInTitle": false,
+            "quotedInIntro": false
+        },
+        {
+            "name": "Primadonna",
+            "alternativeNames": [],
+            "age": -1,
+            "sex": "female",
+            "occurences": {
+                "total": 1,
+                "firstNameOnly": 0,
+                "lastNameOnly": 0,
+                "fullName": 1,
+                "nickname": 0
+            },
+            "inTitle": false,
+            "inIntro": false,
+            "_name": {
+                "firstname": null,
+                "lastname": "Primadonna",
+                "nickname": null,
+                "alternative_names": [],
+                "academic_title": null,
+                "nobility_title_or_rank": null
+            },
+            "descriptiveTexts": [
+                {
+                    "text": "Eine B\u00fcste erinnert an eine vergessene Primadonna."
+                }
+            ],
+            "occupations": [],
+            "directQuotes": [],
+            "quotedInTitle": false,
+            "quotedInIntro": false
+        },
+        {
+            "name": "Wolfram",
+            "alternativeNames": [],
+            "age": -1,
+            "sex": "male",
+            "occurences": {
+                "total": 2,
+                "firstNameOnly": 0,
+                "lastNameOnly": 0,
+                "fullName": 2,
+                "nickname": 0
+            },
+            "inTitle": false,
+            "inIntro": false,
+            "_name": {
+                "firstname": null,
+                "lastname": "Wolfram",
+                "nickname": null,
+                "alternative_names": [],
+                "academic_title": null,
+                "nobility_title_or_rank": null
+            },
+            "descriptiveTexts": [
+                {
+                    "text": "Ein Zuschauer in einer der oberen Logen der New Yorker Metropolitan Opera steht auf und br\u00fcllt: \u00bbWake up, Wolfram!\u00ab"
+                },
+                {
+                    "text": "Auf der B\u00fchne steht der deutsche S\u00e4nger Christian Gerhaher, ein gefeierter Bariton, und singt den Wolfram in Richard Wagners \u00bbTannh\u00e4user\u00ab."
+                }
+            ],
+            "occupations": [
+                {
+                    "text": "Bariton"
+                }
+            ],
+            "directQuotes": [],
+            "quotedInTitle": false,
+            "quotedInIntro": false
+        }
+    ]
+}

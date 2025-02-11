@@ -1,0 +1,188 @@
+{
+    "persons": [
+        {
+            "name": "Frank Schneider",
+            "alternativeNames": [],
+            "age": 80,
+            "sex": "male",
+            "occurences": {
+                "total": 11,
+                "firstNameOnly": 0,
+                "lastNameOnly": 0,
+                "fullName": 2,
+                "nickname": 9
+            },
+            "inTitle": true,
+            "inIntro": true,
+            "_name": {
+                "firstname": "Frank",
+                "lastname": "Schneider",
+                "nickname": "Opa",
+                "alternative_names": [],
+                "academic_title": null,
+                "nobility_title_or_rank": null
+            },
+            "descriptiveTexts": [
+                {
+                    "text": "Mein Gro\u00dfvater Frank Schneider war dem System der DDR sehr nahe."
+                },
+                {
+                    "text": "Als Sportfunktion\u00e4r durfte er sogar in den Westen reisen."
+                },
+                {
+                    "text": "Nach der Wende ist er schnell in der Bundesrepublik angekommen, die Bundesrepublik aber nie recht bei ihm."
+                },
+                {
+                    "text": "FC Magdeburg im Europapokal dreimal gegen Schalke, und mein Gro\u00dfvater Frank Schneider setzte erstmals einen Fu\u00df in den Westen."
+                },
+                {
+                    "text": "Als DDR-Sportfunktion\u00e4r war er Teil einer Delegation, die nach Gelsenkirchen reisen durfte."
+                },
+                {
+                    "text": "Er sitzt an seinem K\u00fcchentisch in Dingelstedt, einem Ort in Sachsen-Anhalt, 30 Minuten Fahrt entfernt von der einstigen deutsch-deutschen Grenze."
+                },
+                {
+                    "text": "Erst einmal zeichnet er mit dem Finger die Umrisse des Stadions in Gelsenkirchen auf der gelben Wachstuchdecke in seiner K\u00fcche nach."
+                },
+                {
+                    "text": "Er deutet auf einen imagin\u00e4ren Platz in der zehnten Reihe."
+                },
+                {
+                    "text": "Er erinnert sich an den Sonderzug, der am Morgen des Spiels aus Magdeburg startete und die Delegation noch am selben Abend zur\u00fcckbrachte."
+                },
+                {
+                    "text": "Ob er bei dieser deutsch-deutschen Begegnung mit Schalke-Fans gesprochen hat, wei\u00df er nicht mehr."
+                },
+                {
+                    "text": "Heute stellt er Whisky bereit, wenn ich ihn besuche."
+                },
+                {
+                    "text": "Die Wiedervereinigung bedeutete das Ende eines Systems, an das er geglaubt hatte."
+                },
+                {
+                    "text": "Er unterh\u00e4lt sich gern, verwickelt Fremde mit Leichtigkeit in Gespr\u00e4che."
+                },
+                {
+                    "text": "In der DDR hatte er Karriere gemacht."
+                },
+                {
+                    "text": "Er f\u00fcrchtete Anfang der Neunzigerjahre, dass ihm das im geeinten Deutschland schaden k\u00f6nnte."
+                },
+                {
+                    "text": "Noch heute werde er gefragt, wo er herkomme."
+                },
+                {
+                    "text": "\u00bbDa freue ich mich dr\u00fcber\u00ab, sagt er."
+                },
+                {
+                    "text": "Er war beim Grenzschutz und diente l\u00e4nger als er gemusst h\u00e4tte."
+                },
+                {
+                    "text": "Anschlie\u00dfend bekam er eine Stelle beim Deutschen Turn- und Sportbund, schaffte es gar bis zum Vorsitzenden des Kreisvorstands."
+                },
+                {
+                    "text": "Hier k\u00fcmmerte er sich um den Nachwuchs und die Sportvereine."
+                },
+                {
+                    "text": "Seine finanzielle Lage, seine gesellschaftliche Position, sein Leben bis dahin nennt er \u00bbordentlich\u00ab."
+                },
+                {
+                    "text": "Von seinem Lehrergehalt kaufte er sich einen Opel Corsa, rot."
+                },
+                {
+                    "text": "\u00bbWenn schon ein Auto, dann wollte ich auch eins, das noch niemand gefahren ist\u00ab, sagt er."
+                },
+                {
+                    "text": "Zudem habe er bef\u00fcrchtet, ein Gebrauchth\u00e4ndler k\u00f6nnte ihn betr\u00fcgen."
+                },
+                {
+                    "text": "Damit bereisten er und Oma vor allem \u00bbdas Gebiet der ehemaligen DDR\u00ab."
+                },
+                {
+                    "text": "\u00bbWenn mehr Wessis den Osten besuchen w\u00fcrden, w\u00e4ren wir einander n\u00e4her\u00ab, sagt er."
+                },
+                {
+                    "text": "Schlechte Erfahrungen habe er nie gemacht, doch er kenne Geschichten von Freunden, Nachbarn, Bekannten."
+                },
+                {
+                    "text": "Er \u00e4rgere sich \u00fcber ungleiche L\u00f6hne und Bahnh\u00f6fe, an denen kein Zug mehr h\u00e4lt."
+                },
+                {
+                    "text": "Immer wieder zeigt er auf leer stehende Geb\u00e4ude: \u00bbDa war mal eine Schule. Da eine Gastst\u00e4tte. Da ein Vereinshaus.\u00ab"
+                },
+                {
+                    "text": "\u00bbDas System der BRD\u00ab, wie er die Bundesrepublik nennt, sei ihnen \u00fcbergest\u00fclpt worden, vieles verloren gegangen."
+                },
+                {
+                    "text": "Er vermisst das Miteinander, bem\u00e4ngelt die Ellenbogengesellschaft und blickt doch kritischer zur\u00fcck."
+                },
+                {
+                    "text": "\u00dcber das Ausma\u00df der Stasi-Aktivit\u00e4ten sei er entsetzt gewesen."
+                },
+                {
+                    "text": "Er sagt auch: \u00bbAlles, was ich bin, bin ich in der DDR geworden.\u00ab"
+                },
+                {
+                    "text": "Bis heute w\u00e4hlt er die Linke und ist besorgt \u00fcber die Erfolge der AfD."
+                },
+                {
+                    "text": "Auf der Couch stapeln sich Zeitungen, bis Opa sie Artikel f\u00fcr Artikel gelesen hat."
+                },
+                {
+                    "text": "\u00bbKeine Nachwuchsf\u00f6rderung. Da h\u00e4tte man was lernen k\u00f6nnen von der DDR\u00ab, schimpft er \u00fcber Misserfolge von Fu\u00dfballern, Leichtathleten, Wintersportlern."
+                },
+                {
+                    "text": "Und er pflegt seine Frau, deren Erinnerungen an das gemeinsame Leben mehr und mehr verschwinden."
+                }
+            ],
+            "occupations": [
+                {
+                    "text": "Sportlehrer"
+                },
+                {
+                    "text": "Lehrer"
+                },
+                {
+                    "text": "Sportfunktion\u00e4r"
+                },
+                {
+                    "text": "Alles, was ich bin, bin ich in der DDR geworden"
+                },
+                {
+                    "text": "stolzer Mensch"
+                }
+            ],
+            "directQuotes": [
+                {
+                    "text": "Da hinten ist der Westen"
+                },
+                {
+                    "text": "kleine DDR"
+                },
+                {
+                    "text": "Da freue ich mich dr\u00fcber"
+                },
+                {
+                    "text": "Wenn schon ein Auto, dann wollte ich auch eins, das noch niemand gefahren ist"
+                },
+                {
+                    "text": "Wenn mehr Wessis den Osten besuchen w\u00fcrden, w\u00e4ren wir einander n\u00e4her"
+                },
+                {
+                    "text": "Da war mal eine Schule. Da eine Gastst\u00e4tte. Da ein Vereinshaus."
+                },
+                {
+                    "text": "Das System der BRD"
+                },
+                {
+                    "text": "Alles, was ich bin, bin ich in der DDR geworden."
+                },
+                {
+                    "text": "Keine Nachwuchsf\u00f6rderung. Da h\u00e4tte man was lernen k\u00f6nnen von der DDR"
+                }
+            ],
+            "quotedInTitle": true,
+            "quotedInIntro": true
+        }
+    ]
+}

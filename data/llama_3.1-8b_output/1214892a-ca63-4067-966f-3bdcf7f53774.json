@@ -1,0 +1,134 @@
+{
+    "persons": [
+        {
+            "name": "Michael Fuhlrott",
+            "alternativeNames": [],
+            "age": -1,
+            "sex": "male",
+            "occurences": {
+                "total": 3,
+                "firstNameOnly": 0,
+                "lastNameOnly": 1,
+                "fullName": 2,
+                "nickname": 0
+            },
+            "inTitle": false,
+            "inIntro": true,
+            "_name": {
+                "firstname": "Michael",
+                "lastname": "Fuhlrott",
+                "nickname": null,
+                "alternative_names": [],
+                "academic_title": null,
+                "nobility_title_or_rank": null
+            },
+            "descriptiveTexts": [
+                {
+                    "text": "\"Ein Recht auf einen freundlichen Chef haben Sie nicht\""
+                },
+                {
+                    "text": "Abgekanzelt, ignoriert, strafversetzt: Ihr Chef drangsaliert Sie?"
+                },
+                {
+                    "text": "Der Arbeitsrechtler Michael Fuhlrott erkl\u00e4rt, was erlaubt ist \u2013 und wo die Grenzen liegen."
+                },
+                {
+                    "text": "manager magazin: Herr Fuhlrott, kann ich auf einen freundlichen Chef bestehen?"
+                },
+                {
+                    "text": "Michael Fuhlrott: Nein."
+                },
+                {
+                    "text": "Lassen Sie uns mal in die Praxis schauen: Gibt es Gerichtsentscheidungen, an denen sich die Grenze zwischen \"das ist okay\" und \"das ist jetzt aber toxisch oder beleidigend\" etwas klarer machen l\u00e4sst?"
+                },
+                {
+                    "text": "Ein Fall, der im Oktober 2020 am Landesarbeitsgericht M\u00fcnchen verhandelt wurde, macht die Grenzen zu Mobbing vielleicht ganz gut deutlich: Ein Arbeitnehmer hatte gegen seinen Arbeitgeber geklagt, weil er seine Leistungen in einer Wirtschaftspr\u00fcfungskanzlei nicht fair bewertet sah."
+                },
+                {
+                    "text": "Als er sich bei seinem Vorgesetzten dar\u00fcber beschwerte, wurde er nach und nach von Auftr\u00e4gen abgezogen, verlor dann sein B\u00fcro, wurde abgemahnt."
+                },
+                {
+                    "text": "Wegen der Kaskaden an Ablehnung, die er erleiden musste und die ein dahinterliegendes systematisches Vorgehen des Vorgesetzten offenbarte."
+                },
+                {
+                    "text": "Was k\u00f6nnen Besch\u00e4ftigte tun, wenn eine derartige Lawine auf sie zukommt?"
+                },
+                {
+                    "text": "Ich selbst hatte auch schon mal den Fall einer homosexuellen F\u00fchrungskraft, die permanent mit Zetteln und Botschaften in ihrem B\u00fcro drangsaliert wurde."
+                },
+                {
+                    "text": "Sie k\u00f6nnen hierzulande keine Millionen an Schmerzensgeld wie in Amerika erstreiten, sondern wenige Tausend Euro, wenn es extreme Konstellationen sind."
+                },
+                {
+                    "text": "Danach sind Sie dann noch immer im Unternehmen."
+                },
+                {
+                    "text": "Die angenehmste Zeit werden Sie nicht mehr haben \u2013 und vorher nehmen Sie im Prozess einiges auf sich."
+                },
+                {
+                    "text": "Im derzeitigen Arbeitsmarkt l\u00e4sst sich f\u00fcr viele Besch\u00e4ftigte bequemer ein neuer Job finden, denke ich."
+                },
+                {
+                    "text": "Pers\u00f6nlich muss ich mich fragen: Ist es mir das wert?"
+                },
+                {
+                    "text": "Was erwidern Sie denen?"
+                },
+                {
+                    "text": "Dass in vielen Unternehmen und bei vielen Menschen die Sensibilit\u00e4t f\u00fcr derartige Verhaltensweisen vergangenen Jahren gestiegen ist, glaube ich aber schon."
+                },
+                {
+                    "text": "Aber wenn ich mich als Betroffener wirklich wehren m\u00f6chte, weil ich auf der Arbeit drangsaliert werde, muss es doch mehr M\u00f6glichkeiten geben, als ein Mobbing-Tagebuch."
+                },
+                {
+                    "text": "Wenn Sie sagen \u00bbmein Chef beleidigt mich dauernd\u00ab, stellt sich auch die Frage: \u00bbWas bedeutet Beleidigen hier konkret?\u00ab."
+                },
+                {
+                    "text": "Wenn Ihr Vorgesetzter Sie am Dienstag um 9.42 Uhr und um 10:11 Uhr zweimal als \u00bbHornochse\u00ab bezeichnet hat, dann sollten Sie das auch m\u00f6glichst exakt nachweisen k\u00f6nnen."
+                },
+                {
+                    "text": "Ich w\u00fcrde Ihnen raten, das erst mal intern zu kl\u00e4ren."
+                },
+                {
+                    "text": "Und wenn ich durch die Strukturen schon krank oder arbeitsunf\u00e4hig bin?"
+                },
+                {
+                    "text": "Sp\u00e4testens dann brauche ich doch auch einen rechtssicheren Nachweis f\u00fcr meine Krankenkasse dar\u00fcber."
+                },
+                {
+                    "text": "Da haben Sie recht."
+                },
+                {
+                    "text": "Dass man hier seine rechtlichen M\u00f6glichkeiten nutzen m\u00f6chte, kann ich in den meisten F\u00e4llen absolut verstehen und es ist absolut legitim."
+                },
+                {
+                    "text": "Dennoch muss man sich auch fragen: Will ich mich eineinhalb Jahre in einem Verfahren intensiv mit dem, was passiert ist, auseinandersetzen \u2013 oder kann es auch der bessere Weg sein, sich einen neuen Job zu suchen?"
+                }
+            ],
+            "occupations": [
+                {
+                    "text": "Man kann Mitarbeitenden die Meinung sehr deutlich sagen, ohne dabei sexistisch, rassistisch oder politisch unkorrekt zu werden"
+                },
+                {
+                    "text": "Arbeitsrechtler"
+                }
+            ],
+            "directQuotes": [
+                {
+                    "text": "das ist jetzt aber toxisch oder beleidigend"
+                },
+                {
+                    "text": "Mobbing"
+                },
+                {
+                    "text": "Was bedeutet Beleidigen hier konkret?"
+                },
+                {
+                    "text": "Nein. Einfache Antwort."
+                }
+            ],
+            "quotedInTitle": false,
+            "quotedInIntro": true
+        }
+    ]
+}

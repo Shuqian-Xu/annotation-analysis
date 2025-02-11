@@ -1,0 +1,162 @@
+{
+    "persons": [
+        {
+            "name": "Wolfgang Merkel",
+            "alternativeNames": [],
+            "age": -1,
+            "sex": "male",
+            "occurences": {
+                "total": 8,
+                "firstNameOnly": 0,
+                "lastNameOnly": 7,
+                "fullName": 1,
+                "nickname": 0
+            },
+            "inTitle": false,
+            "inIntro": false,
+            "_name": {
+                "firstname": "Wolfgang",
+                "lastname": "Merkel",
+                "nickname": null,
+                "alternative_names": [],
+                "academic_title": "Professor",
+                "nobility_title_or_rank": null
+            },
+            "descriptiveTexts": [
+                {
+                    "text": "Mit einer blo\u00dfen Wahlaufforderung werde das zwar nicht gebrochen, sagt der Politikwissenschaftler Wolfgang Merkel, trotzdem sch\u00e4tze er die Th\u00fcringer Aktion teils als problematisch ein."
+                },
+                {
+                    "text": "Zwar gebe es gute, demokratische Gr\u00fcnde, sich am Hochschulort zur Wahl zu melden: Dort seien Studierende, anders als in ihren Heimatorten, etwa von den Entscheidungen in der Hochschulpolitik, in den Bereichen Stra\u00dfenverkehr oder Wohnen betroffen, sagt Merkel."
+                },
+                {
+                    "text": "Nur seien die von linken Studierendengruppen ausgegangen, so Merkel."
+                },
+                {
+                    "text": "\u00bbDie Studenten sollen sich ja nicht ummelden, damit sie gute B\u00fcrger sind \u2013 das k\u00f6nnten sie auch in ihrem Heimatort sein\u00ab, sagt Merkel."
+                },
+                {
+                    "text": "Und das wiederum sei aus seiner Sicht ein Problem, sagt Merkel."
+                },
+                {
+                    "text": "Das als \u00bbWahlbetrug\u00ab zu bezeichnen, so weit w\u00fcrde Politikwissenschaftler Merkel auf keinen Fall gehen."
+                },
+                {
+                    "text": "Das sei zwar ihr Recht und aus seiner Sicht keine Manipulation, sagt Merkel, aber es k\u00f6nnte die ohnehin schon aufgeheizte Stimmung vor den Wahlen noch weiter verschlechtern."
+                },
+                {
+                    "text": "Besser w\u00e4re, so Merkel, wenn sich die Studierenden nicht nur ummeldeten, um einmalig die Mehrheitsverh\u00e4ltnisse in den Stadtr\u00e4ten, Kreistagen und im Landtag zu beeinflussen."
+                }
+            ],
+            "occupations": [
+                {
+                    "text": "Politikwissenschaftler"
+                }
+            ],
+            "directQuotes": [
+                {
+                    "text": "Wo man sich aufh\u00e4lt, wo man Adressat politischer Entscheidungen ist, soll man mitbestimmen k\u00f6nnen."
+                },
+                {
+                    "text": "Damals lautete die Botschaft: Meldet euch um, wir brauchen eure Stimmen f\u00fcr linke Positionen im Gemeinderat. Der gro\u00dfe Unterschied ist, dass eine \u00e4hnliche Botschaft heute von einer staatlichen Institution kommt."
+                },
+                {
+                    "text": "Die Studenten sollen sich ja nicht ummelden, damit sie gute B\u00fcrger sind \u2013 das k\u00f6nnten sie auch in ihrem Heimatort sein"
+                },
+                {
+                    "text": "Es soll sich nur der Ort der Wahl \u00e4ndern, und zwar deshalb, weil die AfD vor der T\u00fcr steht. Das will man mit der Aktion verhindern, auch wenn man es nicht explizit sagt."
+                },
+                {
+                    "text": "allgemeine demokratische Camouflage"
+                },
+                {
+                    "text": "Dann w\u00e4re das Demokratiepaket komplett. Niemand k\u00f6nnte ihnen absprechen, dass sie an der lokalen Gemeinschaft interessiert sind und deshalb an der politischen Entscheidungsfindung teilnehmen."
+                }
+            ],
+            "quotedInTitle": false,
+            "quotedInIntro": false
+        },
+        {
+            "name": "Burkhart von Scheven",
+            "alternativeNames": [],
+            "age": -1,
+            "sex": "male",
+            "occurences": {
+                "total": 6,
+                "firstNameOnly": 0,
+                "lastNameOnly": 5,
+                "fullName": 1,
+                "nickname": 0
+            },
+            "inTitle": false,
+            "inIntro": false,
+            "_name": {
+                "firstname": "Burkhart",
+                "lastname": "von Scheven",
+                "nickname": null,
+                "alternative_names": [],
+                "academic_title": "Professor",
+                "nobility_title_or_rank": null
+            },
+            "descriptiveTexts": [
+                {
+                    "text": "\u00bbWenn man sich f\u00fcr ein Studium in einem Bundesland wie Th\u00fcringen entscheidet, sollte man sich auch aktiv dort einbringen und die Demokratie st\u00fctzen\u00ab, sagt Burkhart von Scheven, Professor f\u00fcr Bild-Text-Konzeption an der Bauhaus-Universit\u00e4t Weimar und einer der Initiator:innen der Kampagne."
+                },
+                {
+                    "text": "Viele Studierende w\u00fcrden sich nie oder erst versp\u00e4tet an ihrem Studienort anmelden, oder dort nur ihren Zweitwohnsitz registrieren, sagt er."
+                },
+                {
+                    "text": "Mittlerweile h\u00e4tten sich die Pr\u00e4sidien s\u00e4mtlicher staatlicher Hochschulen in Th\u00fcringen der Kampagne angeschlossen, sagt von Scheven."
+                },
+                {
+                    "text": "Die \u00bb92 Tage\u00ab-Kampagne sei ausdr\u00fccklich nicht parteipolitisch angelegt, sagt Mitinitiator von Scheven."
+                },
+                {
+                    "text": "\u00bbDas sind f\u00fcr uns absolute Grunds\u00e4tze, ohne sie wird unsere Arbeit schwierig\u00ab, sagt von Scheven."
+                },
+                {
+                    "text": "Und: \u00bbNat\u00fcrlich will ich nicht leugnen, dass mir die Prognosen f\u00fcr die anstehenden Landtagswahlen pers\u00f6nlich Sorgen machen.\u00ab"
+                },
+                {
+                    "text": "\u00bbWir haben keine konkreten Zahlen zum W\u00e4hlerpotenzial, aber wir wissen aus Gespr\u00e4chen, dass es viele sind\u00ab, sagt von Scheven."
+                },
+                {
+                    "text": "Von der Kampagne erwarte er allerdings keinen enormen Schwenk in den Wahlergebnissen."
+                },
+                {
+                    "text": "Er sei vielmehr \u00fcberzeugt, dass jeder Prozentpunkt an Wahlbeteiligung etwas grunds\u00e4tzlich Positives sei."
+                },
+                {
+                    "text": "Mitinitiator von Scheven sagt, er plane auch Gespr\u00e4che mit den Hochschulen in Sachsen und Brandenburg."
+                }
+            ],
+            "occupations": [
+                {
+                    "text": "\u00bbNat\u00fcrlich will ich nicht leugnen, dass mir die Prognosen f\u00fcr die anstehenden Landtagswahlen pers\u00f6nlich Sorgen machen.\u00ab"
+                },
+                {
+                    "text": "Professor f\u00fcr Bild-Text-Konzeption an der Bauhaus-Universit\u00e4t Weimar"
+                }
+            ],
+            "directQuotes": [
+                {
+                    "text": "Wenn man sich f\u00fcr ein Studium in einem Bundesland wie Th\u00fcringen entscheidet, sollte man sich auch aktiv dort einbringen und die Demokratie st\u00fctzen"
+                },
+                {
+                    "text": "Das sind f\u00fcr uns absolute Grunds\u00e4tze, ohne sie wird unsere Arbeit schwierig"
+                },
+                {
+                    "text": "Nat\u00fcrlich will ich nicht leugnen, dass mir die Prognosen f\u00fcr die anstehenden Landtagswahlen pers\u00f6nlich Sorgen machen."
+                },
+                {
+                    "text": "Wir haben keine konkreten Zahlen zum W\u00e4hlerpotenzial, aber wir wissen aus Gespr\u00e4chen, dass es viele sind"
+                },
+                {
+                    "text": "Und jede Bewegung in eine uns genehme Richtung nat\u00fcrlich umso mehr."
+                }
+            ],
+            "quotedInTitle": false,
+            "quotedInIntro": false
+        }
+    ]
+}

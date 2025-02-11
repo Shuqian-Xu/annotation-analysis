@@ -1,0 +1,587 @@
+{
+	"persons": [
+		{
+			"age": 24,
+			"alternativeNames": [],
+			"birthday": null,
+			"descriptiveTexts": [
+				{
+					"text": "»Ich habe keine Angst, jemanden zu töten. Ich will einfach nicht sterben«"
+				},
+				{
+					"text": "Was sagen die Männer, denen Landsleute Verrat vorwerfen?"
+				},
+				{
+					"text": "Er sitzt in der hintersten Ecke, ein blasser Mann in schwarzem Hoodie."
+				},
+				{
+					"text": "Vor ihm liegt ein Mozzarella-Panini, ringsum unterhalten sich die Gäste."
+				},
+				{
+					"text": "Oleksandr Boiko hat sein Leben riskiert, um hier sein zu können."
+				},
+				{
+					"text": "Und all das, weil er in seiner Heimat nicht sterben will."
+				},
+				{
+					"text": "An einem Tag vor knapp zwei Jahren stieg Boiko in die eiskalten Fluten der Tisa, um einer möglichen Mobilisierung zu entkommen."
+				},
+				{
+					"text": "Für 1000 Euro wollte ein Taxifahrer Boiko eine seichte Stelle zeigen, erzählt er an einem Winternachmittag in dem Münchner Café."
+				},
+				{
+					"text": "Drei Tage lang habe er in einem leeren Haus bei Solotwyno im Südwesten der Ukraine gewartet, dann brachte der Mann ihn am frühen Morgen zum Ufer."
+				},
+				{
+					"text": "Das Wasser reichte Boiko bald bis zum Hals."
+				},
+				{
+					"text": "Beim Schwimmen verhedderte sich sein Rucksack in einem Ast, er geriet unter Wasser."
+				},
+				{
+					"text": "»Mein Herz schlug schneller, ich war auf Adrenalin«, sagt Boiko und springt von seinem Stuhl auf, um zu zeigen, wie er sich doch noch befreite."
+				},
+				{
+					"text": "Auf der anderen Seite des Flusses griffen ihn rumänische Polizisten auf."
+				},
+				{
+					"text": "Sie hätten ihm trockene Kleidung gegeben, ihn auf die Wache gebracht und später fotografiert, von vorn, links und rechts, wie einen Verdächtigen."
+				},
+				{
+					"text": "Dann habe er gehen dürfen."
+				},
+				{
+					"text": "Seitdem lebt Boiko in einem ständigen Konflikt."
+				},
+				{
+					"text": "»Du hörst auf deine innere Stimme, die sagt: Ich habe das richtig gemacht. Aber dann sagen dir andere, dass du kämpfen müsstest, dass es deine Pflicht ist.«"
+				},
+				{
+					"text": "Als er Freunden von seiner Ausreise schrieb, brachen einige den Kontakt ab."
+				},
+				{
+					"text": "Oleksandr Boiko ist in Kiew aufgewachsen, 24 Jahre alt, ein Mann mit ruhiger Stimme."
+				},
+				{
+					"text": "Gekämpft hat er noch nie."
+				},
+				{
+					"text": "In Deutschland studieren will er seit Jahren, und so stand sein Entschluss, die Ukraine zu verlassen, schon wenige Tage nach dem Beginn der russischen Invasion fest."
+				},
+				{
+					"text": "In diesem Frühjahr plant er, einen Platz an einer kulturwissenschaftlichen Fakultät in Bayern anzutreten."
+				},
+				{
+					"text": "Boiko ist einer von etwa 650.000 Ukrainern im wehrfähigen Alter, die ihr Land verließen und heute in der EU, der Schweiz, Norwegen oder Liechtenstein leben."
+				},
+				{
+					"text": "Immer wieder hat die Regierung in Kiew diese Männer zur Rückkehr aufgerufen, mal subtil, mal deutlich."
+				},
+				{
+					"text": "Für Oleksandr Boiko galt keine der Ausnahmen."
+				},
+				{
+					"text": "In der Ukraine erwarten ihn bis zu fünf Jahre Haft."
+				},
+				{
+					"text": "Boiko sagt, es sei nicht so, dass er Angst habe, an der Front zu töten."
+				},
+				{
+					"text": "»Ich will einfach nicht sterben.«"
+				},
+				{
+					"text": "Als Boiko ging, war es mitunter noch schwer, einen Platz in der ukrainischen Armee zu finden."
+				},
+				{
+					"text": "Oleksandr Boiko und andere Männer müssten im Konsulat ihre Registrierung vom Einberufungsamt vorweisen, wenn sie ihren Pass verlängern wollen."
+				},
+				{
+					"text": "Oleksandr Boiko schwamm für sein Studium in Deutschland durch die Tisa."
+				},
+				{
+					"text": "Drei von ihnen haben dem SPIEGEL erzählt, wie ihnen die Flucht gelang und was sie jenen entgegnen, die ihnen Verrat vorwerfen."
+				},
+				{
+					"text": "Alle drei leben heute in Bayern, alle drei heißen eigentlich anders."
+				},
+				{
+					"text": "Im rumänischen Sighetu Marmației habe er einen Tag gebraucht, sagt Oleksandr Boiko, um zu verstehen, dass ihn dort auch niemand zurückschickt."
+				},
+				{
+					"text": "Als Oleksandr Boiko aufbrach, lagen auf seinem Konto umgerechnet 1500 Euro."
+				},
+				{
+					"text": "Wie Boiko verließ der 47-Jährige die Ukraine im Frühjahr 2022."
+				},
+				{
+					"text": "Im Zweifel haben Oleksandr Boiko, Mark Kowalenko und Witalij Schewtschuk schon einen Plan."
+				},
+				{
+					"text": "Alle drei sagen, sie würden einen Ausweg finden."
+				}
+			],
+			"directQuotes": [
+				{
+					"text": "Ich habe keine Angst, jemanden zu töten. Ich will einfach nicht sterben"
+				},
+				{
+					"text": "Mein Herz schlug schneller, ich war auf Adrenalin"
+				},
+				{
+					"text": "Du hörst auf deine innere Stimme, die sagt: Ich habe das richtig gemacht. Aber dann sagen dir andere, dass du kämpfen müsstest, dass es deine Pflicht ist."
+				}
+			],
+			"inIntro": true,
+			"inTitle": true,
+			"indirectQuotes": [
+				{
+					"text": "Für 1000 Euro wollte ein Taxifahrer Boiko eine seichte Stelle zeigen, erzählt er an einem Winternachmittag in dem Münchner Café."
+				},
+				{
+					"text": "Drei Tage lang habe er in einem leeren Haus bei Solotwyno im Südwesten der Ukraine gewartet, dann brachte der Mann ihn am frühen Morgen zum Ufer."
+				},
+				{
+					"text": "Dann habe er gehen dürfen."
+				},
+				{
+					"text": "Boiko sagt, es sei nicht so, dass er Angst habe, an der Front zu töten."
+				},
+				{
+					"text": "Im rumänischen Sighetu Marmației habe er einen Tag gebraucht, sagt Oleksandr Boiko, um zu verstehen, dass ihn dort auch niemand zurückschickt."
+				},
+				{
+					"text": "Alle drei sagen, sie würden einen Ausweg finden."
+				}
+			],
+			"isMain": true,
+			"name": "Oleksandr Boiko",
+			"occupations": [],
+			"occurrences": {
+				"firstNameOnly": 0,
+				"fullName": 8,
+				"lastNameOnly": 9,
+				"total": 17
+			},
+			"quotedInIntro": false,
+			"quotedInTitle": true,
+			"sex": "male"
+		},
+		{
+			"age": -1,
+			"alternativeNames": [],
+			"birthday": null,
+			"descriptiveTexts": [
+				{
+					"text": "»Wir sind alle hier«, sagte Wolodymyr Selenskyj in einer Videoansprache am Tag nach dem russischen Überfall."
+				},
+				{
+					"text": "Im Januar forderte ein Berater Selenskyjs Gastländer dazu auf, ihre Unterstützung für ukrainische Flüchtlinge zu streichen, »damit sie heimkehren«."
+				},
+				{
+					"text": "Mit neuen Chefs für die regionalen Rekrutierungszentren hatte Selenskyj dem Geschäft mit dem Wehrdienst im Sommer ein Ende setzen wollen."
+				},
+				{
+					"text": "Er bestehe darin, Menschen weiterhin in den Krieg zu schicken, wissend, dass sie morgen tot sein könnten."
+				},
+				{
+					"text": "Ende Dezember machte der CDU-Politiker Roderich Kiesewetter einen Vorschlag, der Männer wie Mark Kowalenko angeblich zur Rückkehr bewegen könnte: Deutschland könne ihnen das Bürgergeld streichen, genau wie Selenskyjs Berater vorschlug."
+				}
+			],
+			"directQuotes": [
+				{
+					"text": "Wir sind alle hier"
+				}
+			],
+			"inIntro": false,
+			"inTitle": false,
+			"indirectQuotes": [],
+			"isMain": false,
+			"name": "Wolodymyr Selenskyj",
+			"occupations": [],
+			"occurrences": {
+				"firstNameOnly": 0,
+				"fullName": 1,
+				"lastNameOnly": 3,
+				"total": 4
+			},
+			"quotedInIntro": false,
+			"quotedInTitle": false,
+			"sex": "male"
+		},
+		{
+			"age": -1,
+			"alternativeNames": [],
+			"birthday": null,
+			"descriptiveTexts": [
+				{
+					"text": "Bis zu einer halben Million neue Soldaten brauche die Ukraine, so forderte es Ex-Armeechef Saluschny."
+				}
+			],
+			"directQuotes": [],
+			"inIntro": false,
+			"inTitle": false,
+			"indirectQuotes": [
+				{
+					"text": "Bis zu einer halben Million neue Soldaten brauche die Ukraine, so forderte es Ex-Armeechef Saluschny."
+				}
+			],
+			"isMain": false,
+			"name": "Saluschny",
+			"occupations": [
+				{
+					"text": "Ex-Armeechef"
+				}
+			],
+			"occurrences": {
+				"firstNameOnly": 0,
+				"fullName": 0,
+				"lastNameOnly": 1,
+				"total": 1
+			},
+			"quotedInIntro": false,
+			"quotedInTitle": false,
+			"sex": "male"
+		},
+		{
+			"age": 47,
+			"alternativeNames": [],
+			"birthday": null,
+			"descriptiveTexts": [
+				{
+					"text": "Drei von ihnen haben dem SPIEGEL erzählt, wie ihnen die Flucht gelang und was sie jenen entgegnen, die ihnen Verrat vorwerfen."
+				},
+				{
+					"text": "Witalij Schewtschuk kaufte Ausreisepapiere, er traute der Armee keinen Sieg zu."
+				},
+				{
+					"text": "Alle drei leben heute in Bayern, alle drei heißen eigentlich anders."
+				},
+				{
+					"text": "Witalij Schewtschuk hat ein solches Ticket gekauft, damals habe es noch 5000 Dollar gekostet."
+				},
+				{
+					"text": "Wie Boiko verließ der 47-Jährige die Ukraine im Frühjahr 2022."
+				},
+				{
+					"text": "Zum Treffen mit dem SPIEGEL trägt der einstige Exportunternehmer ein graues Sakko und dunkle Sonnenbrille, er klingt frustriert."
+				},
+				{
+					"text": "Nach dem russischen Einmarsch entschied Schewtschuk, dass Kämpfen nicht zu seinen Prinzipien passe."
+				},
+				{
+					"text": "Er erzählt, dass Bekannte ihm einen Mittler empfahlen, dem er das Geld gab, die Papiere kamen per Post, einen Arzt sah er nie."
+				},
+				{
+					"text": "40 Minuten lang hätten ukrainische Beamte an der Grenze zu Moldau seine Papiere kontrolliert, dann ließen sie ihn durch."
+				},
+				{
+					"text": "»Auf der anderen Seite fühlte ich mich wie aus einem Käfig ausgebrochen.«"
+				},
+				{
+					"text": "Witalij Schewtschuk beharrt darauf, dass ihm das weiße Ticket wegen eines Rückenleidens tatsächlich zustehe."
+				},
+				{
+					"text": "Witalij Schewtschuk dagegen sieht den »wahren Verrat« an anderer Stelle."
+				},
+				{
+					"text": "Über die frühen Erfolge der Armee, den Mut, für den viele die ukrainischen Soldaten bewundern, sagt Schewtschuk nichts."
+				},
+				{
+					"text": "Im Zweifel haben Oleksandr Boiko, Mark Kowalenko und Witalij Schewtschuk schon einen Plan."
+				},
+				{
+					"text": "Alle drei sagen, sie würden einen Ausweg finden."
+				}
+			],
+			"directQuotes": [
+				{
+					"text": "Auf der anderen Seite fühlte ich mich wie aus einem Käfig ausgebrochen."
+				},
+				{
+					"text": "Es ist, als würde ein Teenager gegen Mike Tyson in den Ring steigen."
+				}
+			],
+			"inIntro": true,
+			"inTitle": false,
+			"indirectQuotes": [
+				{
+					"text": "Witalij Schewtschuk hat ein solches Ticket gekauft, damals habe es noch 5000 Dollar gekostet."
+				},
+				{
+					"text": "Nach dem russischen Einmarsch entschied Schewtschuk, dass Kämpfen nicht zu seinen Prinzipien passe."
+				},
+				{
+					"text": "Er erzählt, dass Bekannte ihm einen Mittler empfahlen, dem er das Geld gab, die Papiere kamen per Post, einen Arzt sah er nie."
+				},
+				{
+					"text": "Witalij Schewtschuk beharrt darauf, dass ihm das weiße Ticket wegen eines Rückenleidens tatsächlich zustehe."
+				},
+				{
+					"text": "Doch in der Ukraine gehe nichts ohne Korruption."
+				},
+				{
+					"text": "Er bestehe darin, Menschen weiterhin in den Krieg zu schicken, wissend, dass sie morgen tot sein könnten."
+				},
+				{
+					"text": "Sollte die Ukraine je eine Chance gegen Russland gehabt haben, sei sie jetzt verstrichen: »Es ist, als würde ein Teenager gegen Mike Tyson in den Ring steigen.«"
+				},
+				{
+					"text": "Alle drei sagen, sie würden einen Ausweg finden."
+				}
+			],
+			"isMain": true,
+			"name": "Witalij Schewtschuk",
+			"occupations": [
+				{
+					"text": "Exportunternehmer"
+				}
+			],
+			"occurrences": {
+				"firstNameOnly": 0,
+				"fullName": 5,
+				"lastNameOnly": 2,
+				"total": 7
+			},
+			"quotedInIntro": false,
+			"quotedInTitle": false,
+			"sex": "male"
+		},
+		{
+			"age": -1,
+			"alternativeNames": [],
+			"birthday": null,
+			"descriptiveTexts": [
+				{
+					"text": "Drei von ihnen haben dem SPIEGEL erzählt, wie ihnen die Flucht gelang und was sie jenen entgegnen, die ihnen Verrat vorwerfen."
+				},
+				{
+					"text": "Mark Kowalenko floh über Russland, weil er fand, dass es zu Hause nichts mehr zu verteidigen gab."
+				},
+				{
+					"text": "Alle drei leben heute in Bayern, alle drei heißen eigentlich anders."
+				},
+				{
+					"text": "An einem Schreibtisch in Bayern versucht Mark Kowalenko, etwas davon rüberzubringen."
+				},
+				{
+					"text": "Er erzählt vom Zischen der Gewehrschüsse, imitiert den dumpfen Knall, wenn schwere Geschosse einschlagen."
+				},
+				{
+					"text": "Er selbst hat das oft gehört: Kowalenko ist Anfang 20, zweimal brach der Krieg vor seiner Haustür aus, 2014 im Donbass, 2022 in Charkiw."
+				},
+				{
+					"text": "Beim Einmarsch der russischen Truppen wohnte seine Familie keine 50 Kilometer von der Grenze entfernt."
+				},
+				{
+					"text": "Drei Wochen lang habe er das Haus nicht verlassen, dann erfuhr die Familie von einem »grünen Korridor«, auf dem die Fahrt nach Russland angeblich sicher sei."
+				},
+				{
+					"text": "Sie stiegen ins Auto, passierten ukrainische Checkpoints, die Grenze kontrollierten nur Russen."
+				},
+				{
+					"text": "Kurz nach ihrer Ankunft wurde der Korridor angegriffen, ein Auto zerschossen."
+				},
+				{
+					"text": "»Wir hatten sehr viel Glück.«"
+				},
+				{
+					"text": "Seine Familie wurde von russischen Polizisten und Geheimdienstlern des FSB vernommen und fotografiert, erzählt Kowalenko."
+				},
+				{
+					"text": "»Sie hatten uns überfallen, und du hasst sie dafür. Du denkst, wenn sie das rausfinden, werden sie dich erschießen. Aber davon ahnen sie nichts. Ein russischer Polizist schaut eben keine ukrainischen Nachrichten.«"
+				},
+				{
+					"text": "Auf Google Maps zeigt Kowalenko, wie es nach Deutschland weiterging: von Belgorod übers belarussische Gomel, nach Grodno, dann Polen und schließlich Bayern."
+				},
+				{
+					"text": "Nach zehn Jahren Krieg in seiner Heimat ist Kowalenko müde."
+				},
+				{
+					"text": "Er sagt, er wisse nicht, was er dort noch verteidigen solle."
+				},
+				{
+					"text": "»Ich habe kein Zuhause, nicht in Donezk, nicht in Charkiw.«"
+				},
+				{
+					"text": "Vergangenes Jahr habe er Geld für die Schutzweste eines guten Bekannten gespendet, der bei Bachmut kämpfte."
+				},
+				{
+					"text": "Ende Dezember machte der CDU-Politiker Roderich Kiesewetter einen Vorschlag, der Männer wie Mark Kowalenko angeblich zur Rückkehr bewegen könnte: Deutschland könne ihnen das Bürgergeld streichen, genau wie Selenskyjs Berater vorschlug."
+				},
+				{
+					"text": "Kowalenko hat davon gehört, er wundert sich, dass Männer in warmen Büros sich trauten, über ihn zu urteilen."
+				},
+				{
+					"text": "Die Angst vor einem Krieg steige auch hierzulande, nimmt er an."
+				},
+				{
+					"text": "Ihm fallen öfter Plakate der Bundeswehr auf, mit dem Appell: »Bewirb dich.«"
+				},
+				{
+					"text": "Wer fürchtet, dass der Krieg sich über die Ukraine hinaus ausbreitet, solle doch selbst kämpfen, findet er."
+				},
+				{
+					"text": "Im Zweifel haben Oleksandr Boiko, Mark Kowalenko und Witalij Schewtschuk schon einen Plan."
+				},
+				{
+					"text": "Alle drei sagen, sie würden einen Ausweg finden."
+				}
+			],
+			"directQuotes": [
+				{
+					"text": "Wir hatten sehr viel Glück."
+				},
+				{
+					"text": "Sie hatten uns überfallen, und du hasst sie dafür. Du denkst, wenn sie das rausfinden, werden sie dich erschießen. Aber davon ahnen sie nichts. Ein russischer Polizist schaut eben keine ukrainischen Nachrichten."
+				},
+				{
+					"text": "Ich habe kein Zuhause, nicht in Donezk, nicht in Charkiw."
+				},
+				{
+					"text": "Aber es hat nichts gebracht."
+				}
+			],
+			"inIntro": true,
+			"inTitle": false,
+			"indirectQuotes": [
+				{
+					"text": "Drei Wochen lang habe er das Haus nicht verlassen, dann erfuhr die Familie von einem »grünen Korridor«, auf dem die Fahrt nach Russland angeblich sicher sei."
+				},
+				{
+					"text": "Er erzählt vom Zischen der Gewehrschüsse, imitiert den dumpfen Knall, wenn schwere Geschosse einschlagen."
+				},
+				{
+					"text": "Er sagt, er wisse nicht, was er dort noch verteidigen solle."
+				},
+				{
+					"text": "Vergangenes Jahr habe er Geld für die Schutzweste eines guten Bekannten gespendet, der bei Bachmut kämpfte."
+				},
+				{
+					"text": "Der Bekannte sei gestorben."
+				},
+				{
+					"text": "Die Angst vor einem Krieg steige auch hierzulande, nimmt er an."
+				},
+				{
+					"text": "Wer fürchtet, dass der Krieg sich über die Ukraine hinaus ausbreitet, solle doch selbst kämpfen, findet er."
+				},
+				{
+					"text": "Alle drei sagen, sie würden einen Ausweg finden."
+				}
+			],
+			"isMain": true,
+			"name": "Mark Kowalenko",
+			"occupations": [],
+			"occurrences": {
+				"firstNameOnly": 0,
+				"fullName": 4,
+				"lastNameOnly": 5,
+				"total": 9
+			},
+			"quotedInIntro": false,
+			"quotedInTitle": false,
+			"sex": "male"
+		},
+		{
+			"age": -1,
+			"alternativeNames": [],
+			"birthday": null,
+			"descriptiveTexts": [
+				{
+					"text": "Sollte die Ukraine je eine Chance gegen Russland gehabt haben, sei sie jetzt verstrichen: »Es ist, als würde ein Teenager gegen Mike Tyson in den Ring steigen.«"
+				}
+			],
+			"directQuotes": [],
+			"inIntro": false,
+			"inTitle": false,
+			"indirectQuotes": [],
+			"isMain": false,
+			"name": "Mike Tyson",
+			"occupations": [],
+			"occurrences": {
+				"firstNameOnly": 0,
+				"fullName": 1,
+				"lastNameOnly": 0,
+				"total": 1
+			},
+			"quotedInIntro": false,
+			"quotedInTitle": false,
+			"sex": "male"
+		},
+		{
+			"age": -1,
+			"alternativeNames": [],
+			"birthday": null,
+			"descriptiveTexts": [
+				{
+					"text": "Ende Dezember machte der CDU-Politiker Roderich Kiesewetter einen Vorschlag, der Männer wie Mark Kowalenko angeblich zur Rückkehr bewegen könnte: Deutschland könne ihnen das Bürgergeld streichen, genau wie Selenskyjs Berater vorschlug."
+				}
+			],
+			"directQuotes": [],
+			"inIntro": false,
+			"inTitle": false,
+			"indirectQuotes": [
+				{
+					"text": "Ende Dezember machte der CDU-Politiker Roderich Kiesewetter einen Vorschlag, der Männer wie Mark Kowalenko angeblich zur Rückkehr bewegen könnte: Deutschland könne ihnen das Bürgergeld streichen, genau wie Selenskyjs Berater vorschlug."
+				}
+			],
+			"isMain": false,
+			"name": "Roderich Kiesewetter",
+			"occupations": [
+				{
+					"text": "CDU-Politiker"
+				}
+			],
+			"occurrences": {
+				"firstNameOnly": 0,
+				"fullName": 1,
+				"lastNameOnly": 0,
+				"total": 1
+			},
+			"quotedInIntro": false,
+			"quotedInTitle": false,
+			"sex": "male"
+		},
+		{
+			"age": -1,
+			"alternativeNames": [],
+			"birthday": null,
+			"descriptiveTexts": [
+				{
+					"text": "Der ukrainische Soziologe Volodymyr Artiukh von der Universität Oxford glaubt: »Viele Männer könnten untertauchen oder das Land um jeden Preis verlassen.«"
+				}
+			],
+			"directQuotes": [
+				{
+					"text": "Viele Männer könnten untertauchen oder das Land um jeden Preis verlassen."
+				}
+			],
+			"inIntro": false,
+			"inTitle": false,
+			"indirectQuotes": [],
+			"isMain": false,
+			"name": "Volodymyr Artiukh",
+			"occupations": [
+				{
+					"text": "ukrainische Soziologe"
+				}
+			],
+			"occurrences": {
+				"firstNameOnly": 0,
+				"fullName": 1,
+				"lastNameOnly": 0,
+				"total": 1
+			},
+			"quotedInIntro": false,
+			"quotedInTitle": false,
+			"sex": "male"
+		}
+	],
+	"subtopics": [
+		"Mobilisierungsgesetz",
+		"Wehrdienstverweigerung",
+		"Ukraine",
+		"Flucht",
+		"Krieg"
+	]
+}

@@ -1,0 +1,162 @@
+{
+    "persons": [
+        {
+            "name": "Richard Lutz",
+            "alternativeNames": [],
+            "age": 59,
+            "sex": "male",
+            "occurences": {
+                "total": 3,
+                "firstNameOnly": 0,
+                "lastNameOnly": 1,
+                "fullName": 2,
+                "nickname": 0
+            },
+            "inTitle": false,
+            "inIntro": true,
+            "_name": {
+                "firstname": "Richard",
+                "lastname": "Lutz",
+                "nickname": null,
+                "alternative_names": [],
+                "academic_title": null,
+                "nobility_title_or_rank": null
+            },
+            "descriptiveTexts": [
+                {
+                    "text": "Die Leistungen des staatseigenen Betriebs und seines CEO Richard Lutz werden immer schlechter, dennoch l\u00e4sst die Politik sie gew\u00e4hren."
+                },
+                {
+                    "text": "Gleichzeitig wird die Leistung des F\u00fchrungsteams um Vorstandschef Richard Lutz (59) nachweislich immer schlechter."
+                },
+                {
+                    "text": "Wie konnte Lutz sich den Verkehrsminister derart gef\u00fcgig machen?"
+                }
+            ],
+            "occupations": [
+                {
+                    "text": "Leistung des F\u00fchrungsteams um Vorstandschef Richard Lutz (59) nachweislich immer schlechter"
+                },
+                {
+                    "text": "Vorstandschef"
+                }
+            ],
+            "directQuotes": [],
+            "quotedInTitle": false,
+            "quotedInIntro": true
+        },
+        {
+            "name": "Sven Clausen",
+            "alternativeNames": [],
+            "age": -1,
+            "sex": "male",
+            "occurences": {
+                "total": 2,
+                "firstNameOnly": 0,
+                "lastNameOnly": 0,
+                "fullName": 2,
+                "nickname": 0
+            },
+            "inTitle": false,
+            "inIntro": false,
+            "_name": {
+                "firstname": "Sven",
+                "lastname": "Clausen",
+                "nickname": null,
+                "alternative_names": [],
+                "academic_title": null,
+                "nobility_title_or_rank": null
+            },
+            "descriptiveTexts": [
+                {
+                    "text": "Dar\u00fcber informiert in diesem Podcast Michael Machatschke, langj\u00e4hriger Bahn-Kenner des manager magazins, im Gespr\u00e4ch mit Chefredakteur Sven Clausen."
+                },
+                {
+                    "text": "Im Podcast \"Das Thema\" informiert Chefredakteur Sven Clausen jede Woche \u00fcber den internen Recherchestand zu einem relevanten aktuellen und zugleich zukunftstr\u00e4chtigen Thema der Wirtschaft."
+                }
+            ],
+            "occupations": [
+                {
+                    "text": "Chefredakteur"
+                }
+            ],
+            "directQuotes": [],
+            "quotedInTitle": false,
+            "quotedInIntro": false
+        },
+        {
+            "name": "Volker Wissing",
+            "alternativeNames": [],
+            "age": 53,
+            "sex": "male",
+            "occurences": {
+                "total": 1,
+                "firstNameOnly": 0,
+                "lastNameOnly": 0,
+                "fullName": 1,
+                "nickname": 0
+            },
+            "inTitle": false,
+            "inIntro": false,
+            "_name": {
+                "firstname": "Volker",
+                "lastname": "Wissing",
+                "nickname": null,
+                "alternative_names": [],
+                "academic_title": null,
+                "nobility_title_or_rank": null
+            },
+            "descriptiveTexts": [
+                {
+                    "text": "Statt aber einzuschreiten, verzwergt sich der zust\u00e4ndige Verkehrsminister Volker Wissing (53) zusehends."
+                },
+                {
+                    "text": "Er l\u00e4sst den Vorstand des staatseigenen Gro\u00dfkonzerns weitgehend ungehindert agieren und Milliarden in zweifelhafte Projekte verstreuen."
+                }
+            ],
+            "occupations": [],
+            "directQuotes": [],
+            "quotedInTitle": false,
+            "quotedInIntro": false
+        },
+        {
+            "name": "Michael Machatschke",
+            "alternativeNames": [],
+            "age": -1,
+            "sex": "male",
+            "occurences": {
+                "total": 1,
+                "firstNameOnly": 0,
+                "lastNameOnly": 0,
+                "fullName": 1,
+                "nickname": 0
+            },
+            "inTitle": false,
+            "inIntro": false,
+            "_name": {
+                "firstname": "Michael",
+                "lastname": "Machatschke",
+                "nickname": null,
+                "alternative_names": [],
+                "academic_title": null,
+                "nobility_title_or_rank": null
+            },
+            "descriptiveTexts": [
+                {
+                    "text": "Dar\u00fcber informiert in diesem Podcast Michael Machatschke, langj\u00e4hriger Bahn-Kenner des manager magazins, im Gespr\u00e4ch mit Chefredakteur Sven Clausen."
+                }
+            ],
+            "occupations": [
+                {
+                    "text": "langj\u00e4hriger Bahn-Kenner des manager magazins"
+                },
+                {
+                    "text": "Bahn-Kenner"
+                }
+            ],
+            "directQuotes": [],
+            "quotedInTitle": false,
+            "quotedInIntro": false
+        }
+    ]
+}

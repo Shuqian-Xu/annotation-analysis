@@ -1,0 +1,132 @@
+{
+	"persons": [
+		{
+			"age": -1,
+			"alternativeNames": [],
+			"birthday": null,
+			"descriptiveTexts": [
+				{
+					"text": "Unseren Guide Joseph haben wir auf Instagram gebucht."
+				},
+				{
+					"text": "Er holt uns zusammen mit seinem Fahrer ab."
+				},
+				{
+					"text": "Mit ihm kaufen wir erst mal einen Kaffee im Kiosk gegenüber – und verstehen, dass wir bisher immer draufgezahlt haben."
+				},
+				{
+					"text": "Die großen Pyramiden in Gizeh bauen ihren Zauber langsam, aber vehement mit jeder weiteren Geschichte auf, die Joseph uns erzählt."
+				},
+				{
+					"text": "Als wir die großen Touristengruppen im Eiltempo an uns vorbeilaufen sehen, verstehen wir, dass vor allen Dingen er dazu beiträgt, diese Erfahrung so besonders zu machen."
+				},
+				{
+					"text": "Hätten wir nur Joseph mitgenommen!"
+				}
+			],
+			"directQuotes": [],
+			"inIntro": false,
+			"inTitle": false,
+			"indirectQuotes": [
+				{
+					"text": "Die großen Pyramiden in Gizeh bauen ihren Zauber langsam, aber vehement mit jeder weiteren Geschichte auf, die Joseph uns erzählt."
+				}
+			],
+			"isMain": false,
+			"name": "Joseph",
+			"occupations": [
+				{
+					"text": "Guide"
+				}
+			],
+			"occurrences": {
+				"firstNameOnly": 3,
+				"fullName": 0,
+				"lastNameOnly": 0,
+				"total": 3
+			},
+			"quotedInIntro": false,
+			"quotedInTitle": false,
+			"sex": "male"
+		},
+		{
+			"age": -1,
+			"alternativeNames": [],
+			"birthday": null,
+			"descriptiveTexts": [
+				{
+					"text": "Der berühmteste im Saal der königlichen Mumien stellt allerdings wohl Ramses II. dar, Erbauer des Tempels von Abu Simbel und einst der mächtigste Herrscher des Alten Ägyptens."
+				},
+				{
+					"text": "Nun liegt er in einer Vitrine."
+				},
+				{
+					"text": "Anmerkung der Redaktion: Im Text haben wir Ramses II. als Erbauer von Pyramiden bezeichnet, dies ist nicht korrekt."
+				}
+			],
+			"directQuotes": [],
+			"inIntro": false,
+			"inTitle": false,
+			"indirectQuotes": [],
+			"isMain": false,
+			"name": "Ramses II.",
+			"occupations": [
+				{
+					"text": "Erbauer des Tempels von Abu Simbel"
+				},
+				{
+					"text": "mächtigste Herrscher des Alten Ägyptens"
+				}
+			],
+			"occurrences": {
+				"firstNameOnly": 0,
+				"fullName": 2,
+				"lastNameOnly": 0,
+				"total": 2
+			},
+			"quotedInIntro": false,
+			"quotedInTitle": false,
+			"sex": "male"
+		},
+		{
+			"age": -1,
+			"alternativeNames": [],
+			"birthday": null,
+			"descriptiveTexts": [
+				{
+					"text": "Etwas bodenständiger geht es im Gayer-Anderson-Museum zu, dem Haus eines britischen Majors, der der Stadt hoffnungslos verfiel und bis an sein Lebensende seiner ägyptologischen Sammelwut frönte."
+				},
+				{
+					"text": "Niemand ist uns in diesem Moment näher als Gayer Anderson, der, genau wie wir, nicht mehr von dieser Stadt loswollte."
+				}
+			],
+			"directQuotes": [],
+			"inIntro": false,
+			"inTitle": false,
+			"indirectQuotes": [],
+			"isMain": false,
+			"name": "Gayer Anderson",
+			"occupations": [
+				{
+					"text": "britischen Majors"
+				}
+			],
+			"occurrences": {
+				"firstNameOnly": 0,
+				"fullName": 2,
+				"lastNameOnly": 0,
+				"total": 2
+			},
+			"quotedInIntro": false,
+			"quotedInTitle": false,
+			"sex": "male"
+		}
+	],
+	"subtopics": [
+		"Kairo",
+		"Essen",
+		"Sprache",
+		"Reisentipps",
+		"Sehenswürdigkeiten"
+	]
+}

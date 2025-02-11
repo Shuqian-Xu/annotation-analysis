@@ -1,0 +1,493 @@
+{
+    "persons": [
+        {
+            "name": "Rehana",
+            "alternativeNames": [],
+            "age": -1,
+            "sex": "female",
+            "occurences": {
+                "total": 2,
+                "firstNameOnly": 0,
+                "lastNameOnly": 0,
+                "fullName": 2,
+                "nickname": 0
+            },
+            "inTitle": false,
+            "inIntro": false,
+            "_name": {
+                "firstname": "Rehana",
+                "lastname": null,
+                "nickname": null,
+                "alternative_names": [],
+                "academic_title": null,
+                "nobility_title_or_rank": null
+            },
+            "descriptiveTexts": [
+                {
+                    "text": "Als die Offiziere putschten, weilten sie und ihre j\u00fcngere Schwester Rehana daher in Westdeutschland."
+                },
+                {
+                    "text": "Es gibt einen Dokumentarfilm, den Hasinas Partei produziert hat und in dem die beiden Schwestern \u00fcber die Zeit nach dem Attentat sprechen, \u00fcber ihren Kampf f\u00fcr Gerechtigkeit, wie sie sagen."
+                },
+                {
+                    "text": "Die Handlung l\u00e4sst sich so zusammenfassen: Hasina und Rehana gehen unter falschem Namen nach Indien ins Exil."
+                },
+                {
+                    "text": "Sie setzen sich auf die Stufen, wo der Vater sein Leben lie\u00df."
+                }
+            ],
+            "occupations": [],
+            "directQuotes": [],
+            "quotedInTitle": false,
+            "quotedInIntro": false
+        },
+        {
+            "name": "Muhammad Yunus",
+            "alternativeNames": [],
+            "age": 83,
+            "sex": "male",
+            "occurences": {
+                "total": 2,
+                "firstNameOnly": 0,
+                "lastNameOnly": 1,
+                "fullName": 1,
+                "nickname": 0
+            },
+            "inTitle": false,
+            "inIntro": false,
+            "_name": {
+                "firstname": "Muhammad",
+                "lastname": "Yunus",
+                "nickname": null,
+                "alternative_names": [],
+                "academic_title": null,
+                "nobility_title_or_rank": null
+            },
+            "descriptiveTexts": [
+                {
+                    "text": "Dazu z\u00e4hlt auch der wohl ber\u00fchmteste Bangladescher: Muhammad Yunus, der mit seiner Idee der Mikrokredite Millionen Menschen aus der Armut geholfen hat."
+                },
+                {
+                    "text": "Es ist eins von nach eigenen Angaben rund 200 Verfahren, die gegen den 83-J\u00e4hrigen anh\u00e4ngig sind (Lesen Sie hier ein Interview mit Yunus zu den Vorw\u00fcrfen)."
+                }
+            ],
+            "occupations": [
+                {
+                    "text": "Friedensnobelpreistr\u00e4ger"
+                }
+            ],
+            "directQuotes": [],
+            "quotedInTitle": false,
+            "quotedInIntro": false
+        },
+        {
+            "name": "Sheikh Mujibur Rahman",
+            "alternativeNames": [],
+            "age": -1,
+            "sex": "male",
+            "occurences": {
+                "total": 1,
+                "firstNameOnly": 0,
+                "lastNameOnly": 0,
+                "fullName": 1,
+                "nickname": 0
+            },
+            "inTitle": false,
+            "inIntro": false,
+            "_name": {
+                "firstname": "Sheikh Mujibur",
+                "lastname": "Rahman",
+                "nickname": null,
+                "alternative_names": [],
+                "academic_title": null,
+                "nobility_title_or_rank": null
+            },
+            "descriptiveTexts": [
+                {
+                    "text": "Als Putschisten den Bungalow st\u00fcrmten und acht Familienmitglieder niederschossen, darunter Hasinas Mutter, ihre drei Br\u00fcder und ihren Vater: Sheikh Mujibur Rahman, Nationalheld und zu dem Zeitpunkt Pr\u00e4sident des Landes."
+                },
+                {
+                    "text": "\u00bbBaba, ist er das?\u00ab, fragt ein kleiner Junge im Museum."
+                },
+                {
+                    "text": "Er war es, der f\u00fcr Bangladesch 1971 die Unabh\u00e4ngigkeit von Pakistan erstritt."
+                }
+            ],
+            "occupations": [
+                {
+                    "text": "charismatischer Mann"
+                },
+                {
+                    "text": "Nationalheld und zu dem Zeitpunkt Pr\u00e4sident des Landes"
+                },
+                {
+                    "text": "der Vater der Nation"
+                }
+            ],
+            "directQuotes": [
+                {
+                    "text": "in dem niemand hungert und in jedem Haus ein Licht brennt."
+                }
+            ],
+            "quotedInTitle": false,
+            "quotedInIntro": false
+        },
+        {
+            "name": "Sheikh Hasina",
+            "alternativeNames": [],
+            "age": 76,
+            "sex": "female",
+            "occurences": {
+                "total": 26,
+                "firstNameOnly": 1,
+                "lastNameOnly": 23,
+                "fullName": 2,
+                "nickname": 0
+            },
+            "inTitle": false,
+            "inIntro": true,
+            "_name": {
+                "firstname": "Sheikh",
+                "lastname": "Hasina",
+                "nickname": null,
+                "alternative_names": [],
+                "academic_title": null,
+                "nobility_title_or_rank": null
+            },
+            "descriptiveTexts": [
+                {
+                    "text": "Seit 15 Jahren wird Bangladesch von Sheikh Hasina regiert."
+                },
+                {
+                    "text": "Sie liefert den Beweis, dass Frauen genauso erfolgreich f\u00fchren k\u00f6nnen wie M\u00e4nner \u2013 und genauso autorit\u00e4r."
+                },
+                {
+                    "text": "Es war die Familie von Sheikh Hasina, die hier ausgel\u00f6scht wurde."
+                },
+                {
+                    "text": "Als Putschisten den Bungalow st\u00fcrmten und acht Familienmitglieder niederschossen, darunter Hasinas Mutter, ihre drei Br\u00fcder und ihren Vater: Sheikh Mujibur Rahman, Nationalheld und zu dem Zeitpunkt Pr\u00e4sident des Landes."
+                },
+                {
+                    "text": "Hasina hat 19 Attentatsversuche \u00fcberlebt"
+                },
+                {
+                    "text": "Hasina hat aus ihrem einstigen Zuhause ein Museum gemacht."
+                },
+                {
+                    "text": "Sie hat das Trauma ihrer Familie konserviert und es der Welt zum Anschauen gegeben."
+                },
+                {
+                    "text": "Gemessen an den Ma\u00dfst\u00e4ben des internationalen Politikbetriebs ist Hasina eine Ausnahmeerscheinung: eine 76-j\u00e4hrige Frau mit langen grauen Haaren, dicken Brillengl\u00e4sern und farbenfrohen Saris."
+                },
+                {
+                    "text": "19 Attentatsversuche hat sie \u00fcberlebt, einen davon im Jahr 2004 blutbespritzt und haarscharf: Angreifer hatten mehrere Handgranaten in die Menge geworfen, in deren Mitte die Politikerin stand."
+                },
+                {
+                    "text": "Zwischen 1996 und 2001 regierte sie Bangladesch zum ersten Mal, 2008 wurde sie erneut gew\u00e4hlt."
+                },
+                {
+                    "text": "Seit insgesamt 20 Jahren lenkt sie nun schon mit Unterbrechungen die Geschicke des Rund-170-Millionen-Einwohner-Landes."
+                },
+                {
+                    "text": "Unter Hasinas F\u00fchrung hat Bangladesch Au\u00dfergew\u00f6hnliches vollbracht."
+                },
+                {
+                    "text": "Und wenn auch die Inflation zuletzt auf fast zehn Prozent gestiegen ist: Es ist beeindruckend, was aus dem Land geworden ist, das erkennen selbst Hasinas Kritiker an."
+                },
+                {
+                    "text": "Auch Hasinas bedeutendste politische Widersacherin wurde wegen Korruption verurteilt und steht unter Hausarrest."
+                },
+                {
+                    "text": "Deren Partei, die BNP, boykottiert die Wahl, weil sie nicht glaubt, dass sie fair ablaufen wird."
+                },
+                {
+                    "text": "Selbst Hasinas langj\u00e4hrige Widersacherin, Khaleda Zia, ist eine Frau; ihr Politikstil eher konservativ, zeitweise paktierte sie gar mit den Islamisten."
+                },
+                {
+                    "text": "Hasina kam demokratisch gew\u00e4hlt ins Amt."
+                },
+                {
+                    "text": "Sie versprach, s\u00e4kulare Werte zu wahren und das politische Projekt ihres Vaters zu vollenden: die Errichtung eines \u00bbgoldenen Bengalen\u00ab, eines wohlhabenden Landes, \u00bbin dem niemand hungert und in jedem Haus ein Licht brennt.\u00ab"
+                },
+                {
+                    "text": "\u00bbBaba, ist er das?\u00ab, fragt ein kleiner Junge im Museum."
+                },
+                {
+                    "text": "Ein \u00d6lgem\u00e4lde am Treppenabsatz zeigt Hasinas Vater Mujib bei seiner Ermordung."
+                },
+                {
+                    "text": "Er war es, der f\u00fcr Bangladesch 1971 die Unabh\u00e4ngigkeit von Pakistan erstritt."
+                },
+                {
+                    "text": "Dass Hasina nicht mit ihrem Vater starb, war Zufall."
+                },
+                {
+                    "text": "Zwei Wochen zuvor hatte sie ihrer Familie am Flughafen Lebewohl gesagt."
+                },
+                {
+                    "text": "Als die Offiziere putschten, weilten sie und ihre j\u00fcngere Schwester Rehana daher in Westdeutschland."
+                },
+                {
+                    "text": "Es gibt einen Dokumentarfilm, den Hasinas Partei produziert hat und in dem die beiden Schwestern \u00fcber die Zeit nach dem Attentat sprechen, \u00fcber ihren Kampf f\u00fcr Gerechtigkeit, wie sie sagen."
+                },
+                {
+                    "text": "Die Handlung l\u00e4sst sich so zusammenfassen: Hasina und Rehana gehen unter falschem Namen nach Indien ins Exil."
+                },
+                {
+                    "text": "Nach sechs Jahren kehrt Hasina in die Heimat zur\u00fcck."
+                },
+                {
+                    "text": "W\u00e4hrend sie Kundgebungen abh\u00e4lt und die Wiederherstellung der Demokratie fordert, versorgt die j\u00fcngere Schwester die beiden Kinder."
+                },
+                {
+                    "text": "1996 wird Hasina zum ersten Mal Premierministerin."
+                },
+                {
+                    "text": "Sie setzen sich auf die Stufen, wo der Vater sein Leben lie\u00df."
+                },
+                {
+                    "text": "Hasina meint es ernst, wenn sie sagt, dass sie Bangladesch transformieren will."
+                },
+                {
+                    "text": "Aber sie sucht auch Vergeltung."
+                },
+                {
+                    "text": "Hamids und Hasinas Familien kennen sich seit Jahrzehnten."
+                },
+                {
+                    "text": "Er erkenne vieles von ihrem Vater in Hasina wieder, sagt er."
+                },
+                {
+                    "text": "Au\u00dferdem sei sie poetisch veranlagt und \u2013 das verstehe sich von selbst \u2013 \u00bbeine hervorragende K\u00f6chin\u00ab."
+                },
+                {
+                    "text": "Es ist ein seltsamer Satz \u00fcber eine Politikerin, aber er f\u00e4llt in jedem Gespr\u00e4ch zu ihrer Person: Angestellte berichten, wie sie sich nach einem langen Arbeitstag f\u00fcr alle an den Herd stellt."
+                },
+                {
+                    "text": "Journalisten, wie sie ihnen H\u00e4ppchen auf die Teller legt."
+                },
+                {
+                    "text": "Man sieht die Premierministerin, wie sie mit blo\u00dfen H\u00e4nden H\u00e4hnchen knetet."
+                },
+                {
+                    "text": "Hasina selbst nimmt f\u00fcr sich in Anspruch, gegen die Milit\u00e4rdiktatur gek\u00e4mpft zu haben und dass sie es war, die f\u00fcr freie Wahlen gestritten hat."
+                },
+                {
+                    "text": "Warum opfert sie ihre eigenen Erfolge?"
+                },
+                {
+                    "text": "Hasinas Partei und die Opposition h\u00e4tten einander \u00fcber die Jahre so viele schlimme Dinge angetan: Hasina muss f\u00fcrchten, dass ihre Gegner mit ihr machen werden, was sie mit ihnen gemacht hat."
+                },
+                {
+                    "text": "Oder wie es der Justizprofessor Asif Nazrul von der Dhaka-Universit\u00e4t ausdr\u00fcckt: \u00bbSie mag eine Frau sein, aber die Quelle ihrer Macht ist m\u00e4nnlich.\u00ab"
+                },
+                {
+                    "text": "Hasina wei\u00df das."
+                },
+                {
+                    "text": "Es ist ein Grund, warum sie bei jeder Gelegenheit die Erinnerung an ihren Vater heraufbeschw\u00f6rt."
+                },
+                {
+                    "text": "Hasina hat einen \u00dcbervater geschaffen, f\u00fcr sich selbst und die gesamte Nation."
+                },
+                {
+                    "text": "Die Erinnerung an ihn und seinen gewaltsamen Tod legitimiert ihre Macht und alles, was sie daraus ableitet."
+                },
+                {
+                    "text": "Wie sie selbst sagt: \u00bbIch sorge f\u00fcr mein Volk, wie mein Vater sich um sein Volk gesorgt hat.\u00ab"
+                }
+            ],
+            "occupations": [
+                {
+                    "text": "Mutter"
+                },
+                {
+                    "text": "Witwe"
+                },
+                {
+                    "text": "Premierministerin"
+                },
+                {
+                    "text": "Politikerin"
+                },
+                {
+                    "text": "hervorragende K\u00f6chin"
+                },
+                {
+                    "text": "voller Selbstvertrauen"
+                },
+                {
+                    "text": "Tochter"
+                }
+            ],
+            "directQuotes": [
+                {
+                    "text": "Ich sorge f\u00fcr mein Volk, wie mein Vater sich um sein Volk gesorgt hat."
+                }
+            ],
+            "quotedInTitle": false,
+            "quotedInIntro": true
+        },
+        {
+            "name": "Asif Nazrul",
+            "alternativeNames": [],
+            "age": -1,
+            "sex": "male",
+            "occurences": {
+                "total": 1,
+                "firstNameOnly": 0,
+                "lastNameOnly": 0,
+                "fullName": 1,
+                "nickname": 0
+            },
+            "inTitle": false,
+            "inIntro": false,
+            "_name": {
+                "firstname": "Asif",
+                "lastname": "Nazrul",
+                "nickname": null,
+                "alternative_names": [],
+                "academic_title": "Professor",
+                "nobility_title_or_rank": null
+            },
+            "descriptiveTexts": [
+                {
+                    "text": "Oder wie es der Justizprofessor Asif Nazrul von der Dhaka-Universit\u00e4t ausdr\u00fcckt: \u00bbSie mag eine Frau sein, aber die Quelle ihrer Macht ist m\u00e4nnlich.\u00ab"
+                }
+            ],
+            "occupations": [
+                {
+                    "text": "Justizprofessor"
+                }
+            ],
+            "directQuotes": [
+                {
+                    "text": "Sie mag eine Frau sein, aber die Quelle ihrer Macht ist m\u00e4nnlich."
+                }
+            ],
+            "quotedInTitle": false,
+            "quotedInIntro": false
+        },
+        {
+            "name": "Nasrul Hamid",
+            "alternativeNames": [],
+            "age": -1,
+            "sex": "male",
+            "occurences": {
+                "total": 4,
+                "firstNameOnly": 0,
+                "lastNameOnly": 3,
+                "fullName": 1,
+                "nickname": 0
+            },
+            "inTitle": false,
+            "inIntro": false,
+            "_name": {
+                "firstname": "Nasrul",
+                "lastname": "Hamid",
+                "nickname": null,
+                "alternative_names": [],
+                "academic_title": null,
+                "nobility_title_or_rank": null
+            },
+            "descriptiveTexts": [
+                {
+                    "text": "\u00bbDie Premierministerin ist ganz die Tochter ihres Vaters\u00ab, sagt Nasrul Hamid."
+                },
+                {
+                    "text": "Er empf\u00e4ngt in seinem B\u00fcro: einem gro\u00dfen Zimmer mit Bildern und Statuen."
+                },
+                {
+                    "text": "Hamid tr\u00e4gt eine wei\u00dfe Kurta und eine tiefblaue Weste mit Einstecktuch, Ledersandalen."
+                },
+                {
+                    "text": "Er ist Bangladeschs Energieminister und au\u00dferdem Liebhaber der K\u00fcnste."
+                },
+                {
+                    "text": "Hamids und Hasinas Familien kennen sich seit Jahrzehnten."
+                },
+                {
+                    "text": "Er erkenne vieles von ihrem Vater in Hasina wieder, sagt er."
+                },
+                {
+                    "text": "Minister Hamid runzelt die Stirn, seine Version der Dinge geht so: \u00bbDie Regierung ist fest entschlossen, freie Wahlen abzuhalten\u00ab, sagt er."
+                },
+                {
+                    "text": "Die Regierung habe Enormes vollbracht, f\u00e4hrt er fort: \u00bbWir haben 127 neue Kraftwerke gebaut. Investoren auf der ganzen Welt erkennen an, dass Bangladesch eine der am schnellsten wachsenden Volkswirtschaften ist.\u00ab"
+                },
+                {
+                    "text": "Wenn er durchs Land reise, treffe er B\u00fcrger \u00bbvoller neuen Wagemutes\u00ab."
+                }
+            ],
+            "occupations": [
+                {
+                    "text": "Liebhaber der K\u00fcnste"
+                },
+                {
+                    "text": "Bangladeschs Energieminister"
+                },
+                {
+                    "text": "voller Selbstvertrauen"
+                }
+            ],
+            "directQuotes": [
+                {
+                    "text": "Die Premierministerin ist ganz die Tochter ihres Vaters"
+                },
+                {
+                    "text": "Der eine ist mein Vater und der andere der Vater der Nation."
+                },
+                {
+                    "text": "eine hervorragende K\u00f6chin"
+                },
+                {
+                    "text": "Wir haben 127 neue Kraftwerke gebaut. Investoren auf der ganzen Welt erkennen an, dass Bangladesch eine der am schnellsten wachsenden Volkswirtschaften ist."
+                },
+                {
+                    "text": "Unsere Premierministerin ist eine Frau. Die Parlamentspr\u00e4sidentin ist eine Frau. Frauen sind \u00fcberall."
+                }
+            ],
+            "quotedInTitle": false,
+            "quotedInIntro": false
+        },
+        {
+            "name": "Khaleda Zia",
+            "alternativeNames": [],
+            "age": -1,
+            "sex": "female",
+            "occurences": {
+                "total": 1,
+                "firstNameOnly": 0,
+                "lastNameOnly": 0,
+                "fullName": 1,
+                "nickname": 0
+            },
+            "inTitle": false,
+            "inIntro": false,
+            "_name": {
+                "firstname": "Khaleda",
+                "lastname": "Zia",
+                "nickname": null,
+                "alternative_names": [],
+                "academic_title": null,
+                "nobility_title_or_rank": null
+            },
+            "descriptiveTexts": [
+                {
+                    "text": "Selbst Hasinas langj\u00e4hrige Widersacherin, Khaleda Zia, ist eine Frau; ihr Politikstil eher konservativ, zeitweise paktierte sie gar mit den Islamisten."
+                }
+            ],
+            "occupations": [
+                {
+                    "text": "Regierungschefin"
+                },
+                {
+                    "text": "Politikerin"
+                }
+            ],
+            "directQuotes": [],
+            "quotedInTitle": false,
+            "quotedInIntro": false
+        }
+    ]
+}

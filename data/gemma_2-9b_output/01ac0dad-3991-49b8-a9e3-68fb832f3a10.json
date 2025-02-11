@@ -1,0 +1,50 @@
+{
+    "persons": [
+        {
+            "name": "Matti S\u00e4llberg",
+            "alternativeNames": [],
+            "age": -1,
+            "sex": "male",
+            "occurences": {
+                "total": 2,
+                "firstNameOnly": 0,
+                "lastNameOnly": 1,
+                "fullName": 1,
+                "nickname": 0
+            },
+            "inTitle": false,
+            "inIntro": false,
+            "_name": {
+                "firstname": "Matti",
+                "lastname": "S\u00e4llberg",
+                "nickname": null,
+                "alternative_names": [],
+                "academic_title": null,
+                "nobility_title_or_rank": null
+            },
+            "descriptiveTexts": [
+                {
+                    "text": "\u00bbEs geschah zum denkbar schlechtesten Zeitpunkt in Schweden, nur einen Tag vor Heiligabend\u00ab, sagte Matti S\u00e4llberg von der Universit\u00e4t."
+                },
+                {
+                    "text": "\u00bbAm schlimmsten betroffen sind die Leuk\u00e4mieforscher, die \u00fcber 30 Jahre lang Proben von Patienten gesammelt haben\u00ab, so S\u00e4llberg."
+                }
+            ],
+            "occupations": [
+                {
+                    "text": "Matti S\u00e4llberg von der Universit\u00e4t"
+                }
+            ],
+            "directQuotes": [
+                {
+                    "text": "Es geschah zum denkbar schlechtesten Zeitpunkt in Schweden, nur einen Tag vor Heiligabend"
+                },
+                {
+                    "text": "Am schlimmsten betroffen sind die Leuk\u00e4mieforscher, die \u00fcber 30 Jahre lang Proben von Patienten gesammelt haben"
+                }
+            ],
+            "quotedInTitle": false,
+            "quotedInIntro": false
+        }
+    ]
+}

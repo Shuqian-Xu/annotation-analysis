@@ -1,0 +1,313 @@
+{
+  "persons": [
+    {
+      "age": -1, 
+      "alternativeNames": [],
+      "birthday": null,
+      "descriptiveTexts": [
+        {
+          "text": "Das Friedensangebot der Saudis – und das Hindernis Netanyahu"
+        },
+        {
+          "text": "Für die Zeit nach Netanyahu könnte die Offerte eine große Chance sein."
+        },
+        {
+          "text": "Frieden ist mit der Hamas nicht zu machen, aber auch nicht mit Israels Premier Benjamin Netanyahu."
+        },
+        {
+          "text": "Dieser wies die Forderung nach einer Zweistaatenlösung am Donnerstag erneut zurück und ließ dieser Tage durchblicken, der Krieg werde sich womöglich bis ins Jahr 2025 hinziehen."
+        },
+        {
+          "text": "Netanyahu hat die Hamas über viele Jahre gewähren lassen"
+        },
+        {
+          "text": "Die in Aussicht gestellte Dauer des Krieges könnte auch der Versuch Netanyahus sein, sich möglichst lange an der Macht zu halten."
+        },
+        {
+          "text": "Als Premier trägt Netanyahu die Hauptverantwortung für das Versagen des Staates am 7. Oktober."
+        },
+        {
+          "text": "Daher will ihn eine überwältigende Mehrheit in Israel loswerden, am liebsten sofort."
+        },
+        {
+            "text": "Das aber wolle der Premier unbedingt verhindern, darum müsse der Krieg andauern, so Melman."
+          },
+          {
+          "text": "Was Netanyahu ebenso verhindern will: Einen palästinensischen Staat."
+        },
+        {
+          "text": "Darum mag er sich dem wachsenden Druck der USA nicht beugen."
+        },
+        {
+          "text": "Für Netanyahu wäre dieses Szenario ein Albtraum."
+        },
+        {
+          "text": "Über viele Jahre hat er die Hamas in Gaza gewähren lassen, hat er Katar erlaubt, die Islamistenorganisation mit Millionen Dollar zu unterstützen, um so einen mächtigen Gegenspieler zur Autonomiebehörde zu haben."
+        },
+        {
+          "text": "Doch selbst dann: Netanyahu würde nie und nimmer mit Präsident Abbas verhandeln, die Rechtsextremisten in seiner Koalition würden die Regierung platzen lassen, falls sie das nicht schon vorher getan hätten."
+        },
+          {
+            "text": "Zwei palästinensische »Regierungen« ermöglichten dem rechtskonservativen Premier, Verhandlungen über eine Zweistaatenlösung zu vermeiden."
+          },
+        {
+          "text": "Netanyahu wäre sein Amt los, ein für allemal."
+        },
+        {
+          "text": "Genau an dieser Stelle würde das Angebot des saudischen Außenministers dem nächsten israelischen Premier nach Netanyahu eine Tür öffnen."
+        },
+        {
+          "text": "Und Benjamin Netanyahu sich von der politischen Bühne verabschiedet haben."
+        }
+      ],
+      "directQuotes": [],
+      "inIntro": true,
+      "inTitle": true,
+      "indirectQuotes": [
+        {
+          "text": "Dieser wies die Forderung nach einer Zweistaatenlösung am Donnerstag erneut zurück und ließ dieser Tage durchblicken, der Krieg werde sich womöglich bis ins Jahr 2025 hinziehen."
+        }
+      ],
+        "isMain": true,
+      "name": "Benjamin Netanyahu",
+      "occupations": [
+        {
+          "text": "Israels Premier"
+        }
+      ],
+      "occurences": {
+        "firstNameOnly": 0,
+        "fullName": 2,
+        "lastNameOnly": 10,
+        "total": 12
+      },
+      "quotedInIntro": false,
+      "quotedInTitle": false,
+      "sex": "male"
+    },
+    {
+      "age": -1, 
+      "alternativeNames": [],
+      "birthday": null,
+      "descriptiveTexts": [
+        {
+          "text": "Der saudische Außenminister erklärt, Frieden mit Israel sei möglich – wenn es einen palästinensischen Staat gebe."
+        },
+        {
+          "text": "Auf dem Weltwirtschaftsforum in Davos erklärte Prinz Faisal bin Farhan, Saudi-Arabiens Außenminister, am Dienstag: »Wir sind uns einig, dass Frieden in der Region Frieden für Israel einschließt«."
+        },
+        {
+          "text": "Auf die Frage, ob die Saudis Israel bei einer umfassenden politischen Einigung anerkennen würden, bestätigte Prinz Faisal das sehr entspannt mit einem »gewiss«."
+        },
+        {
+          "text": "Voraussetzung dafür sei aber ein palästinensischer Staat."
+        },
+        {
+          "text": "Nur so sei ein umfassender Frieden im Nahen Osten möglich, so der saudische Diplomat."
+        },
+        {
+          "text": "Genau an dieser Stelle würde das Angebot des saudischen Außenministers dem nächsten israelischen Premier nach Netanyahu eine Tür öffnen."
+        },
+        {
+          "text": "Am Dienstag machte Prinz Faisal jedoch klar, dass dem nicht so sei, wenngleich der Preis, den Israel für Frieden mit dem mächtigsten arabischen Staat wird bezahlen müssen, ungleich höher geworden ist."
+        }
+      ],
+      "directQuotes": [
+        {
+          "text": "Wir sind uns einig, dass Frieden in der Region Frieden für Israel einschließt"
+        },
+        {
+          "text": "gewiss"
+        }
+      ],
+        "inIntro": true,
+      "inTitle": false,
+      "indirectQuotes": [
+        {
+          "text": "Der saudische Außenminister erklärt, Frieden mit Israel sei möglich – wenn es einen palästinensischen Staat gebe."
+        },
+        {
+          "text": "Auf die Frage, ob die Saudis Israel bei einer umfassenden politischen Einigung anerkennen würden, bestätigte Prinz Faisal das sehr entspannt mit einem »gewiss«."
+        },
+        {
+          "text": "Voraussetzung dafür sei aber ein palästinensischer Staat."
+        },
+        {
+          "text": "Nur so sei ein umfassender Frieden im Nahen Osten möglich, so der saudische Diplomat."
+        },
+        {
+          "text": "Am Dienstag machte Prinz Faisal jedoch klar, dass dem nicht so sei, wenngleich der Preis, den Israel für Frieden mit dem mächtigsten arabischen Staat wird bezahlen müssen, ungleich höher geworden ist."
+        }
+      ],
+      "isMain": false,
+      "name": "Prinz Faisal bin Farhan",
+      "occupations": [
+        {
+          "text": "saudische Außenminister"
+        },
+        {
+          "text": "Saudi-Arabiens Außenminister"
+        },
+        {
+          "text": "saudische Diplomat"
+        }
+      ],
+      "occurences": {
+        "firstNameOnly": 0,
+        "fullName": 1,
+        "lastNameOnly": 0,
+        "total": 1
+      },
+      "quotedInIntro": false,
+      "quotedInTitle": false,
+      "sex": "male"
+    },
+    {
+      "age": -1, 
+      "alternativeNames": [],
+      "birthday": null,
+      "descriptiveTexts": [
+        {
+          "text": "Dass die Amerikaner das genauso sehen, bestätigte in Davos Jake Sullivan, der Nationale Sicherheitsberater der USA."
+        },
+        {
+          "text": "Ein Deal zwischen Israel und den Saudis und auch ein palästinensischer Staat seien in naher Zukunft möglich, sagte der enge Vertraute von US-Präsident Joe Biden."
+        }
+      ],
+      "directQuotes": [],
+        "inIntro": false,
+      "inTitle": false,
+      "indirectQuotes": [
+        {
+          "text": "Ein Deal zwischen Israel und den Saudis und auch ein palästinensischer Staat seien in naher Zukunft möglich, sagte der enge Vertraute von US-Präsident Joe Biden."
+        }
+      ],
+      "isMain": false,
+      "name": "Jake Sullivan",
+      "occupations": [
+        {
+          "text": "Nationale Sicherheitsberater der USA"
+        },
+        {
+          "text": "enge Vertraute von US-Präsident Joe Biden"
+        }
+      ],
+      "occurences": {
+        "firstNameOnly": 0,
+        "fullName": 1,
+        "lastNameOnly": 0,
+        "total": 1
+      },
+      "quotedInIntro": false,
+      "quotedInTitle": false,
+      "sex": "male"
+    },
+    {
+      "age": -1, 
+      "alternativeNames": [],
+      "birthday": null,
+      "descriptiveTexts": [
+        {
+          "text": "Ein Deal zwischen Israel und den Saudis und auch ein palästinensischer Staat seien in naher Zukunft möglich, sagte der enge Vertraute von US-Präsident Joe Biden."
+          },
+          {
+            "text": "Die Biden-Administration fordert seit Wochen ein Konzept für den »Tag danach«."
+        }
+      ],
+      "directQuotes": [],
+      "inIntro": false,
+      "inTitle": false,
+      "indirectQuotes": [],
+      "isMain": false,
+      "name": "Joe Biden",
+      "occupations": [
+        {
+          "text": "US-Präsident"
+        }
+      ],
+      "occurences": {
+        "firstNameOnly": 0,
+        "fullName": 1,
+          "lastNameOnly": 1,
+          "total": 2
+      },
+      "quotedInIntro": false,
+      "quotedInTitle": false,
+      "sex": "male"
+    },
+    {
+      "age": -1, 
+      "alternativeNames": [],
+      "birthday": null,
+      "descriptiveTexts": [
+        {
+          "text": "So zumindest sehen das viele israelische Kommentatoren, wie zuletzt Yossi Melman, ein Militär- und Geheimdienstexperte der linksliberalen Zeitung »Haaretz«."
+          },
+          {
+            "text": "Das aber wolle der Premier unbedingt verhindern, darum müsse der Krieg andauern, so Melman."
+        }
+      ],
+      "directQuotes": [],
+      "inIntro": false,
+      "inTitle": false,
+      "indirectQuotes": [
+        {
+          "text": "Das aber wolle der Premier unbedingt verhindern, darum müsse der Krieg andauern, so Melman."
+        }
+      ],
+      "isMain": false,
+      "name": "Yossi Melman",
+      "occupations": [
+        {
+          "text": "Militär- und Geheimdienstexperte der linksliberalen Zeitung »Haaretz«"
+        }
+      ],
+      "occurences": {
+        "firstNameOnly": 0,
+        "fullName": 1,
+        "lastNameOnly": 1,
+        "total": 2
+      },
+      "quotedInIntro": false,
+      "quotedInTitle": false,
+      "sex": "male"
+    },
+    {
+      "age": -1, 
+      "alternativeNames": [],
+      "birthday": null,
+      "descriptiveTexts": [
+        {
+          "text": "Die Palästinensische Autonomiebehörde (PA) von Palästinenserpräsident Mahmoud Abbas soll in Gaza die Kontrolle übernehmen, eine »revitalisierte« Autonomiebehörde, wie es heißt."
+        },
+        {
+          "text": "Doch selbst dann: Netanyahu würde nie und nimmer mit Präsident Abbas verhandeln, die Rechtsextremisten in seiner Koalition würden die Regierung platzen lassen, falls sie das nicht schon vorher getan hätten."
+        }
+      ],
+      "directQuotes": [],
+      "inIntro": false,
+      "inTitle": false,
+      "indirectQuotes": [],
+      "isMain": false,
+      "name": "Mahmoud Abbas",
+      "occupations": [
+        {
+          "text": "Palästinenserpräsident"
+        }
+      ],
+      "occurences": {
+        "firstNameOnly": 0,
+        "fullName": 1,
+        "lastNameOnly": 1,
+        "total": 2
+      },
+      "quotedInIntro": false,
+      "quotedInTitle": false,
+      "sex": "male"
+    }
+  ],
+  "subtopics": [
+    "Nahost-Konflikt", "Krieg", "Frieden", "Zweistaatenlösung",
+      "Friedensangebot"
+  ]
+}

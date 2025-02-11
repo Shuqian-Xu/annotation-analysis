@@ -1,0 +1,412 @@
+{
+  "persons": [
+    {
+      "age": -1,
+      "alternativeNames": [],
+      "birthday": null,
+      "descriptiveTexts": [
+        {
+          "text": "Jeden Abend fassen wir die wichtigsten Wirtschaftsnews des Tages zusammen."
+        },
+        {
+          "text": "»Aus dem Ausland höre ich schon, dass die vergangenen Skandale Auswirkungen haben«, so Fink im Gespräch mit meinem Kollegen Dietmar Student."
+        },
+        {
+          "text": "Ein Report meiner Kollegin Christina Kyriasoglou zeigte bereits die Diskriminierung von Frauen in Deutschlands Digital- und Start-up-Szene."
+        },
+        {
+          "text": "Für die Mediengruppe MFE gibt es bereits Interessenten, schreibt meine Kollegin Anna Driftschröer."
+        },
+        {
+          "text": "Meine Empfehlung für den Abend."
+        },
+        {
+          "text": "Was mit diesen Abfällen geschieht und wie hoch die durchschnittliche Recyclingquote der Konzerne ist, schreibt meine Kollegin Naila Lina Baldwin."
+        },
+        {
+          "text": "Viele Grüße, Ihre Hannah Steinharter."
+        },
+        {
+          "text": "Haben Sie Wünsche, Anregungen, Informationen, um die wir uns journalistisch kümmern sollten?"
+        },
+        {
+          "text": "Wir freuen uns auf Ihre Post unter chefredaktion@manager-magazin.de."
+        }
+      ],
+      "directQuotes": [],
+      "inIntro": true,
+      "inTitle": false,
+      "indirectQuotes": [],
+      "isMain": false,
+      "name": "Hannah Steinharter",
+      "occupations": [],
+      "occurrences": {
+        "firstNameOnly": 0,
+        "fullName": 1,
+        "lastNameOnly": 0,
+        "total": 1
+      },
+      "quotedInIntro": false,
+      "quotedInTitle": false,
+      "sex": "female"
+    },
+    {
+      "age": -1,
+      "alternativeNames": [],
+      "birthday": null,
+      "descriptiveTexts": [
+        {
+          "text": "Nach Berechnungen des Bonner Wirtschaftsprofessors Dietmar Fink und Branchenexpertin Bianka Knoblach wird es auch in diesem Jahr weiter aufwärtsgehen – mit einem Wachstumsplus von 11 Prozent."
+        },
+        {
+          "text": "Selbst Skandale scheinen da zur Nebensache zu werden: Obwohl zwei Journalisten der »New York Times« im vergangenen Jahr mit dem »Schwarzbuch McKinsey« (Orginaltitel: »When McKinsey Comes to Town«) eine Skandalchronik der Topberater veröffentlichten, lag Marktführer McKinsey in der Studie von Fink und Knoblach ausgerechnet bei der Kundenzufriedenheit vorn."
+        },
+        {
+          "text": "»Aus dem Ausland höre ich schon, dass die vergangenen Skandale Auswirkungen haben«, so Fink im Gespräch mit meinem Kollegen Dietmar Student."
+        }
+      ],
+      "directQuotes": [
+        {
+          "text": "Aus dem Ausland höre ich schon, dass die vergangenen Skandale Auswirkungen haben"
+        },
+        {
+          "text": "Aber in Deutschland scheint die Marke unkaputtbar."
+        }
+      ],
+      "inIntro": false,
+      "inTitle": false,
+      "indirectQuotes": [],
+      "isMain": false,
+      "name": "Dietmar Fink",
+      "occupations": [
+        {
+          "text": "Wirtschaftsprofessors"
+        }
+      ],
+      "occurrences": {
+        "firstNameOnly": 0,
+        "fullName": 1,
+        "lastNameOnly": 2,
+        "total": 3
+      },
+      "quotedInIntro": false,
+      "quotedInTitle": false,
+      "sex": "male"
+    },
+    {
+      "age": -1,
+      "alternativeNames": [],
+      "birthday": null,
+      "descriptiveTexts": [
+        {
+          "text": "Nach Berechnungen des Bonner Wirtschaftsprofessors Dietmar Fink und Branchenexpertin Bianka Knoblach wird es auch in diesem Jahr weiter aufwärtsgehen – mit einem Wachstumsplus von 11 Prozent."
+        },
+        {
+          "text": "Selbst Skandale scheinen da zur Nebensache zu werden: Obwohl zwei Journalisten der »New York Times« im vergangenen Jahr mit dem »Schwarzbuch McKinsey« (Orginaltitel: »When McKinsey Comes to Town«) eine Skandalchronik der Topberater veröffentlichten, lag Marktführer McKinsey in der Studie von Fink und Knoblach ausgerechnet bei der Kundenzufriedenheit vorn."
+        }
+      ],
+      "directQuotes": [],
+      "inIntro": false,
+      "inTitle": false,
+      "indirectQuotes": [],
+      "isMain": false,
+      "name": "Bianka Knoblach",
+      "occupations": [
+        {
+          "text": "Branchenexpertin"
+        }
+      ],
+      "occurrences": {
+        "firstNameOnly": 0,
+        "fullName": 1,
+        "lastNameOnly": 1,
+        "total": 2
+      },
+      "quotedInIntro": false,
+      "quotedInTitle": false,
+      "sex": "female"
+    },
+    {
+      "age": -1,
+      "alternativeNames": [],
+      "birthday": null,
+      "descriptiveTexts": [
+        {
+          "text": "»Aus dem Ausland höre ich schon, dass die vergangenen Skandale Auswirkungen haben«, so Fink im Gespräch mit meinem Kollegen Dietmar Student."
+        }
+      ],
+      "directQuotes": [],
+      "inIntro": false,
+      "inTitle": false,
+      "indirectQuotes": [],
+      "isMain": false,
+      "name": "Dietmar Student",
+      "occupations": [
+        {
+          "text": "Kollegen"
+        }
+      ],
+      "occurrences": {
+        "firstNameOnly": 0,
+        "fullName": 1,
+        "lastNameOnly": 0,
+        "total": 1
+      },
+      "quotedInIntro": false,
+      "quotedInTitle": false,
+      "sex": "male"
+    },
+    {
+      "age": -1,
+      "alternativeNames": [],
+      "birthday": null,
+      "descriptiveTexts": [
+        {
+          "text": "Ein Report meiner Kollegin Christina Kyriasoglou zeigte bereits die Diskriminierung von Frauen in Deutschlands Digital- und Start-up-Szene."
+        }
+      ],
+      "directQuotes": [],
+      "inIntro": false,
+      "inTitle": false,
+      "indirectQuotes": [],
+      "isMain": false,
+      "name": "Christina Kyriasoglou",
+      "occupations": [
+        {
+          "text": "Kollegin"
+        }
+      ],
+      "occurrences": {
+        "firstNameOnly": 0,
+        "fullName": 1,
+        "lastNameOnly": 0,
+        "total": 1
+      },
+      "quotedInIntro": false,
+      "quotedInTitle": false,
+      "sex": "female"
+    },
+    {
+      "age": 86,
+      "alternativeNames": [],
+      "birthday": null,
+      "descriptiveTexts": [
+        {
+          "text": "Was uns sonst noch beschäftigt hat: Zukunft eines Milliardenimperiums: Gestern verstarb Silvio Berlusconi im Alter von 86 Jahren in Mailand."
+        },
+        {
+          "text": "Der viermalige italienische Ex-Ministerpräsident hinterlässt nicht nur ein politisches Erbe, sondern auch ein milliardenschweres Geschäftsimperium."
+        },
+        {
+          "text": "Denn vor seiner Karriere in der Politik hatte Berlusconi mit dem Aufbau des größten Fernsehimperiums Italiens begonnen. "
+        }
+      ],
+      "directQuotes": [],
+      "inIntro": true,
+      "inTitle": false,
+      "indirectQuotes": [],
+      "isMain": false,
+      "name": "Silvio Berlusconi",
+      "occupations": [
+        {
+          "text": "italienische Ex-Ministerpräsident"
+        }
+      ],
+      "occurrences": {
+        "firstNameOnly": 0,
+        "fullName": 1,
+        "lastNameOnly": 2,
+        "total": 3
+      },
+      "quotedInIntro": false,
+      "quotedInTitle": false,
+      "sex": "male"
+    },
+    {
+      "age": -1,
+      "alternativeNames": [],
+      "birthday": null,
+      "descriptiveTexts": [
+        {
+          "text": "Für die Mediengruppe MFE gibt es bereits Interessenten, schreibt meine Kollegin Anna Driftschröer."
+        }
+      ],
+      "directQuotes": [],
+      "inIntro": false,
+      "inTitle": false,
+      "indirectQuotes": [],
+      "isMain": false,
+      "name": "Anna Driftschröer",
+      "occupations": [
+        {
+          "text": "Kollegin"
+        }
+      ],
+      "occurrences": {
+        "firstNameOnly": 0,
+        "fullName": 1,
+        "lastNameOnly": 0,
+        "total": 1
+      },
+      "quotedInIntro": false,
+      "quotedInTitle": false,
+      "sex": "female"
+    },
+    {
+      "age": -1,
+      "alternativeNames": [],
+      "birthday": null,
+      "descriptiveTexts": [
+        {
+          "text": "Folgen eines Millionenschadens: Die Staatsanwaltschaft ist sich sicher, dass der frühere Audi-Chef Rupert Stadler im Dieselskandal lediglich für einen Schaden von 69 Millionen Euro verantwortlich ist."
+        },
+        {
+          "text": "Seine beiden Mitangeklagten und früheren Untergebenen hätten hingegen einen Milliardenschaden verursacht."
+        }
+      ],
+      "directQuotes": [],
+      "inIntro": false,
+      "inTitle": false,
+      "indirectQuotes": [],
+      "isMain": false,
+      "name": "Rupert Stadler",
+      "occupations": [
+        {
+          "text": "frühere Audi-Chef"
+        }
+      ],
+      "occurrences": {
+        "firstNameOnly": 0,
+        "fullName": 1,
+        "lastNameOnly": 0,
+        "total": 1
+      },
+      "quotedInIntro": false,
+      "quotedInTitle": false,
+      "sex": "male"
+    },
+    {
+      "age": -1,
+      "alternativeNames": [],
+      "birthday": null,
+      "descriptiveTexts": [
+        {
+          "text": "Anahita Thoms, Juristin und Partnerin bei der Kanzlei Baker McKenzie, setzt sich seit Beginn ihrer Karriere für ethische Prinzipien ein."
+        },
+        {
+          "text": "Im Podcast Team A mit Astrid Maier und Antonia Götsch erklärt sie, was Führungskräfte über Ethik wissen müssen."
+        }
+      ],
+      "directQuotes": [],
+      "inIntro": false,
+      "inTitle": false,
+      "indirectQuotes": [],
+      "isMain": false,
+      "name": "Anahita Thoms",
+      "occupations": [
+        {
+          "text": "Juristin und Partnerin bei der Kanzlei Baker McKenzie"
+        }
+      ],
+      "occurrences": {
+        "firstNameOnly": 0,
+        "fullName": 1,
+        "lastNameOnly": 0,
+        "total": 1
+      },
+      "quotedInIntro": false,
+      "quotedInTitle": false,
+      "sex": "female"
+    },
+    {
+      "age": -1,
+      "alternativeNames": [],
+      "birthday": null,
+      "descriptiveTexts": [
+        {
+          "text": "Im Podcast Team A mit Astrid Maier und Antonia Götsch erklärt sie, was Führungskräfte über Ethik wissen müssen."
+        }
+      ],
+      "directQuotes": [],
+      "inIntro": false,
+      "inTitle": false,
+      "indirectQuotes": [],
+      "isMain": false,
+      "name": "Astrid Maier",
+      "occupations": [],
+      "occurrences": {
+        "firstNameOnly": 0,
+        "fullName": 1,
+        "lastNameOnly": 0,
+        "total": 1
+      },
+      "quotedInIntro": false,
+      "quotedInTitle": false,
+      "sex": "female"
+    },
+    {
+      "age": -1,
+      "alternativeNames": [],
+      "birthday": null,
+      "descriptiveTexts": [
+        {
+          "text": "Im Podcast Team A mit Astrid Maier und Antonia Götsch erklärt sie, was Führungskräfte über Ethik wissen müssen."
+        }
+      ],
+      "directQuotes": [],
+      "inIntro": false,
+      "inTitle": false,
+      "indirectQuotes": [],
+      "isMain": false,
+      "name": "Antonia Götsch",
+      "occupations": [],
+      "occurrences": {
+        "firstNameOnly": 0,
+        "fullName": 1,
+        "lastNameOnly": 0,
+        "total": 1
+      },
+      "quotedInIntro": false,
+      "quotedInTitle": false,
+      "sex": "female"
+    },
+    {
+      "age": -1,
+      "alternativeNames": [],
+      "birthday": null,
+      "descriptiveTexts": [
+        {
+          "text": "Was mit diesen Abfällen geschieht und wie hoch die durchschnittliche Recyclingquote der Konzerne ist, schreibt meine Kollegin Naila Lina Baldwin."
+        }
+      ],
+      "directQuotes": [],
+      "inIntro": false,
+      "inTitle": false,
+      "indirectQuotes": [],
+      "isMain": false,
+      "name": "Naila Lina Baldwin",
+      "occupations": [
+        {
+          "text": "Kollegin"
+        }
+      ],
+      "occurrences": {
+        "firstNameOnly": 0,
+        "fullName": 1,
+        "lastNameOnly": 0,
+        "total": 1
+      },
+      "quotedInIntro": false,
+      "quotedInTitle": false,
+      "sex": "female"
+    }
+  ],
+  "subtopics": [
+    "Unternehmen",
+    "Politik",
+    "Wirtschaft",
+    "McKinsey",
+    "Berlusconi-Imperium",
+    "Müllberg"
+  ]
+}

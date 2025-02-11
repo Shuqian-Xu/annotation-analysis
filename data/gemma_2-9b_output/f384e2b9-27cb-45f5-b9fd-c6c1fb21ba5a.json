@@ -1,0 +1,142 @@
+{
+    "persons": [
+        {
+            "name": "Dirk Zedler",
+            "alternativeNames": [],
+            "age": 60,
+            "sex": "male",
+            "occurences": {
+                "total": 2,
+                "firstNameOnly": 0,
+                "lastNameOnly": 1,
+                "fullName": 1,
+                "nickname": 0
+            },
+            "inTitle": false,
+            "inIntro": false,
+            "_name": {
+                "firstname": "Dirk",
+                "lastname": "Zedler",
+                "nickname": null,
+                "alternative_names": [],
+                "academic_title": null,
+                "nobility_title_or_rank": null
+            },
+            "descriptiveTexts": [
+                {
+                    "text": "\"Wenn hier keine Unterst\u00fctzung seitens Vanmoof mehr kommt, Server abgeschaltet werden, geht bald gar nichts mehr\", sagt Dirk Zedler (60) vom Institut f\u00fcr Fahrradtechnik und -Sicherheit."
+                },
+                {
+                    "text": "Auch Experte Zedler vom Institut f\u00fcr Fahrradtechnik ist \u00fcberzeugt: Der hohe Anteil an selbst designten Produkten verhindere jegliche Reparaturm\u00f6glichkeit im Fachhandel."
+                }
+            ],
+            "occupations": [
+                {
+                    "text": "Institut f\u00fcr Fahrradtechnik und -Sicherheit"
+                }
+            ],
+            "directQuotes": [
+                {
+                    "text": "Wenn hier keine Unterst\u00fctzung seitens Vanmoof mehr kommt, Server abgeschaltet werden, geht bald gar nichts mehr"
+                }
+            ],
+            "quotedInTitle": false,
+            "quotedInIntro": false
+        },
+        {
+            "name": "Tanguy Goretti",
+            "alternativeNames": [],
+            "age": -1,
+            "sex": "male",
+            "occurences": {
+                "total": 1,
+                "firstNameOnly": 0,
+                "lastNameOnly": 0,
+                "fullName": 1,
+                "nickname": 0
+            },
+            "inTitle": false,
+            "inIntro": false,
+            "_name": {
+                "firstname": "Tanguy",
+                "lastname": "Goretti",
+                "nickname": null,
+                "alternative_names": [],
+                "academic_title": null,
+                "nobility_title_or_rank": null
+            },
+            "descriptiveTexts": [
+                {
+                    "text": "Cowboy-Gr\u00fcnder und CTO Tanguy Goretti begr\u00fcndet auf Linkedin auch gleich, warum er helfen wolle: \"Wir glauben fest daran, dass jedes einzelne Fahrrad es verdient, auf der Stra\u00dfe zu fahren.\""
+                }
+            ],
+            "occupations": [
+                {
+                    "text": "Gr\u00fcnder und CTO"
+                },
+                {
+                    "text": "glauben fest daran, dass jedes einzelne Fahrrad es verdient, auf der Stra\u00dfe zu fahren"
+                }
+            ],
+            "directQuotes": [
+                {
+                    "text": "Wir glauben fest daran, dass jedes einzelne Fahrrad es verdient, auf der Stra\u00dfe zu fahren."
+                }
+            ],
+            "quotedInTitle": false,
+            "quotedInIntro": false
+        },
+        {
+            "name": "Bastian Dietz",
+            "alternativeNames": [],
+            "age": 43,
+            "sex": "male",
+            "occurences": {
+                "total": 1,
+                "firstNameOnly": 0,
+                "lastNameOnly": 0,
+                "fullName": 1,
+                "nickname": 0
+            },
+            "inTitle": false,
+            "inIntro": false,
+            "_name": {
+                "firstname": "Bastian",
+                "lastname": "Dietz",
+                "nickname": null,
+                "alternative_names": [],
+                "academic_title": null,
+                "nobility_title_or_rank": null
+            },
+            "descriptiveTexts": [
+                {
+                    "text": "Bei einem dieser H\u00e4ndler, SQlab, einem deutschen Spezialisten f\u00fcr Radsportzubeh\u00f6r, arbeitet Marktexperte und Vanmoof-Kenner Bastian Dietz (43) als Leiter f\u00fcr internationale Entwicklung."
+                },
+                {
+                    "text": "Vanmoof m\u00fcsse aufh\u00f6ren, vor allem auf Direktvertrieb zu setzen und unausgereifte Produkte in den Markt zu dr\u00fccken, sagt er."
+                }
+            ],
+            "occupations": [
+                {
+                    "text": "Marktexperte"
+                },
+                {
+                    "text": "Vanmoof m\u00fcsse aufh\u00f6ren, vor allem auf Direktvertrieb zu setzen und unausgereifte Produkte in den Markt zu dr\u00fccken"
+                },
+                {
+                    "text": "Vanmoof-Kenner"
+                },
+                {
+                    "text": "Leiter f\u00fcr internationale Entwicklung"
+                }
+            ],
+            "directQuotes": [
+                {
+                    "text": "unm\u00f6glich"
+                }
+            ],
+            "quotedInTitle": false,
+            "quotedInIntro": false
+        }
+    ]
+}

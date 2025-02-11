@@ -1,0 +1,545 @@
+{
+	"persons": [
+		{
+			"age": -1,
+			"alternativeNames": [],
+			"birthday": null,
+			"descriptiveTexts": [
+				{
+					"text": "Der Minirückgang der Euro-Kerninflation im April – an diesem Dienstag vermeldet – reicht jedenfalls nicht für ein »Mission Accomplished« von EZB-Chefin Christine Lagarde."
+				}
+			],
+			"directQuotes": [
+				{
+					"text": "Mission Accomplished"
+				}
+			],
+			"inIntro": false,
+			"inTitle": false,
+			"indirectQuotes": [],
+			"isMain": false,
+			"name": "Christine Lagarde",
+			"occupations": [
+				{
+					"text": "EZB-Chefin"
+				}
+			],
+			"occurrences": {
+				"firstNameOnly": 0,
+				"fullName": 1,
+				"lastNameOnly": 0,
+				"total": 1
+			},
+			"quotedInIntro": false,
+			"quotedInTitle": false,
+			"sex": "female"
+		},
+		{
+			"age": -1,
+			"alternativeNames": [],
+			"birthday": null,
+			"descriptiveTexts": [
+				{
+					"text": "Bei manchen Start-ups bleibt für die Topleute selbst bei einem Riesenerfolg nichts übrig, haben Christina Kyriasoglou und Jonas Rest recherchiert."
+				}
+			],
+			"directQuotes": [],
+			"inIntro": false,
+			"inTitle": false,
+			"indirectQuotes": [],
+			"isMain": false,
+			"name": "Christina Kyriasoglou",
+			"occupations": [],
+			"occurrences": {
+				"firstNameOnly": 0,
+				"fullName": 1,
+				"lastNameOnly": 0,
+				"total": 1
+			},
+			"quotedInIntro": false,
+			"quotedInTitle": false,
+			"sex": "female"
+		},
+		{
+			"age": -1,
+			"alternativeNames": [],
+			"birthday": null,
+			"descriptiveTexts": [
+				{
+					"text": "Bei manchen Start-ups bleibt für die Topleute selbst bei einem Riesenerfolg nichts übrig, haben Christina Kyriasoglou und Jonas Rest recherchiert."
+				}
+			],
+			"directQuotes": [],
+			"inIntro": false,
+			"inTitle": false,
+			"indirectQuotes": [],
+			"isMain": false,
+			"name": "Jonas Rest",
+			"occupations": [],
+			"occurrences": {
+				"firstNameOnly": 0,
+				"fullName": 1,
+				"lastNameOnly": 0,
+				"total": 1
+			},
+			"quotedInIntro": false,
+			"quotedInTitle": false,
+			"sex": "male"
+		},
+		{
+			"age": -1,
+			"alternativeNames": [],
+			"birthday": null,
+			"descriptiveTexts": [
+				{
+					"text": "Mein Kollege Christoph Rottwilm hat sich umgehört und den Krisencocktail analysiert."
+				},
+				{
+					"text": "Kleines Detail aus seiner Recherche: Den Abrissunternehmen fehlen Aufträge – und das verheißt leider nichts Gutes."
+				},
+				{
+					"text": "Aufstieg und Fall von Patrizia und die Geschichte des äußerst öffentlichkeitsscheuen Egger hat Christoph Rottwilm erst jüngst ausführlich vorgestellt."
+				}
+			],
+			"directQuotes": [],
+			"inIntro": false,
+			"inTitle": false,
+			"indirectQuotes": [],
+			"isMain": false,
+			"name": "Christoph Rottwilm",
+			"occupations": [
+				{
+					"text": "Kollege"
+				}
+			],
+			"occurrences": {
+				"firstNameOnly": 0,
+				"fullName": 2,
+				"lastNameOnly": 0,
+				"total": 2
+			},
+			"quotedInIntro": false,
+			"quotedInTitle": false,
+			"sex": "male"
+		},
+		{
+			"age": -1,
+			"alternativeNames": [],
+			"birthday": null,
+			"descriptiveTexts": [
+				{
+					"text": "Nun kündigt Ingolstadt intern eine Preiserhöhung an, hat mein Kollege Christoph Seyerlein erfahren."
+				}
+			],
+			"directQuotes": [],
+			"inIntro": false,
+			"inTitle": false,
+			"indirectQuotes": [],
+			"isMain": false,
+			"name": "Christoph Seyerlein",
+			"occupations": [
+				{
+					"text": "Kollege"
+				}
+			],
+			"occurrences": {
+				"firstNameOnly": 0,
+				"fullName": 1,
+				"lastNameOnly": 0,
+				"total": 1
+			},
+			"quotedInIntro": false,
+			"quotedInTitle": false,
+			"sex": "male"
+		},
+		{
+			"age": -1,
+			"alternativeNames": [],
+			"birthday": null,
+			"descriptiveTexts": [
+				{
+					"text": "Vertriebsvorständin Hildegard Wortmann nimmt dafür auch den massiven Unmut ihrer Händler in Kauf."
+				}
+			],
+			"directQuotes": [],
+			"inIntro": false,
+			"inTitle": false,
+			"indirectQuotes": [],
+			"isMain": false,
+			"name": "Hildegard Wortmann",
+			"occupations": [
+				{
+					"text": "Vertriebsvorständin"
+				}
+			],
+			"occurrences": {
+				"firstNameOnly": 0,
+				"fullName": 1,
+				"lastNameOnly": 0,
+				"total": 1
+			},
+			"quotedInIntro": false,
+			"quotedInTitle": false,
+			"sex": "female"
+		},
+		{
+			"age": -1,
+			"alternativeNames": [],
+			"birthday": null,
+			"descriptiveTexts": [
+				{
+					"text": "J.P.-Morgan-Chef Jamie Dimon triumphiert, denn er übernimmt eine Bank, die bis vor Kurzem selbst noch zu den Top 15 der Branche in den USA zählte."
+				},
+				{
+					"text": "Mal wieder, denn Dimon hatte schon in der Finanzkrise 2008 als Retter triumphiert."
+				}
+			],
+			"directQuotes": [],
+			"inIntro": false,
+			"inTitle": false,
+			"indirectQuotes": [],
+			"isMain": false,
+			"name": "Jamie Dimon",
+			"occupations": [
+				{
+					"text": "J.P.-Morgan-Chef"
+				}
+			],
+			"occurrences": {
+				"firstNameOnly": 0,
+				"fullName": 1,
+				"lastNameOnly": 1,
+				"total": 2
+			},
+			"quotedInIntro": false,
+			"quotedInTitle": false,
+			"sex": "male"
+		},
+		{
+			"age": -1,
+			"alternativeNames": [],
+			"birthday": null,
+			"descriptiveTexts": [
+				{
+					"text": "IBM-Chef Arvind Krishna will in den nächsten fünf Jahren allein im Personalressort rund ein Drittel der Jobs durch KI ersetzen."
+				}
+			],
+			"directQuotes": [],
+			"inIntro": false,
+			"inTitle": false,
+			"indirectQuotes": [],
+			"isMain": false,
+			"name": "Arvind Krishna",
+			"occupations": [
+				{
+					"text": "IBM-Chef"
+				}
+			],
+			"occurrences": {
+				"firstNameOnly": 0,
+				"fullName": 1,
+				"lastNameOnly": 0,
+				"total": 1
+			},
+			"quotedInIntro": false,
+			"quotedInTitle": false,
+			"sex": "male"
+		},
+		{
+			"age": -1,
+			"alternativeNames": [],
+			"birthday": null,
+			"descriptiveTexts": [
+				{
+					"text": "Ärger wegen Kanye: Die finanziell jahrelang höchst erfolgreiche, aber am Ende untragbare Partnerschaft mit US-Rapper Kanye West beschert Adidas neuen Ärger."
+				},
+				{
+					"text": "Dieses Mal pöbelt nicht der Star – sondern die eigenen Investoren klagen."
+				}
+			],
+			"directQuotes": [],
+			"inIntro": false,
+			"inTitle": false,
+			"indirectQuotes": [],
+			"isMain": false,
+			"name": "Kanye West",
+			"occupations": [
+				{
+					"text": "US-Rapper"
+				}
+			],
+			"occurrences": {
+				"firstNameOnly": 1,
+				"fullName": 1,
+				"lastNameOnly": 0,
+				"total": 2
+			},
+			"quotedInIntro": false,
+			"quotedInTitle": false,
+			"sex": "male"
+		},
+		{
+			"age": -1,
+			"alternativeNames": [],
+			"birthday": null,
+			"descriptiveTexts": [
+				{
+					"text": "Die Personalie des Tages: Zurück im Geschäft: Aufstieg und Fall von Asoka Wöhrmann bei der DWS waren spektakulär."
+				},
+				{
+					"text": "Als CEO der Fondsgesellschaft der Deutschen Bank erzeugte er ab 2018 neue Aufbruchstimmung."
+				},
+				{
+					"text": "Wegen des »Greenwashing«- Skandals samt Großrazzia in Frankfurt musste er vor elf Monaten abrupt zurücktreten."
+				},
+				{
+					"text": "Jetzt ist Wöhrmann wieder da: Er wird CEO des Immobilienmanagers Patrizia, den die Zinswende brutal durchschüttelt."
+				}
+			],
+			"directQuotes": [],
+			"inIntro": false,
+			"inTitle": false,
+			"indirectQuotes": [],
+			"isMain": false,
+			"name": "Asoka Wöhrmann",
+			"occupations": [
+				{
+					"text": "CEO der Fondsgesellschaft der Deutschen Bank"
+				},
+				{
+					"text": "CEO des Immobilienmanagers Patrizia"
+				}
+			],
+			"occurrences": {
+				"firstNameOnly": 0,
+				"fullName": 1,
+				"lastNameOnly": 1,
+				"total": 2
+			},
+			"quotedInIntro": false,
+			"quotedInTitle": false,
+			"sex": "male"
+		},
+		{
+			"age": -1,
+			"alternativeNames": [],
+			"birthday": null,
+			"descriptiveTexts": [
+				{
+					"text": "Der Patrizia-Gründer und bisherige CEO Wolfgang Egger zieht sich in den Verwaltungsrat zurück."
+				},
+				{
+					"text": "Aufstieg und Fall von Patrizia und die Geschichte des äußerst öffentlichkeitsscheuen Egger hat Christoph Rottwilm erst jüngst ausführlich vorgestellt."
+				}
+			],
+			"directQuotes": [],
+			"inIntro": false,
+			"inTitle": false,
+			"indirectQuotes": [],
+			"isMain": false,
+			"name": "Wolfgang Egger",
+			"occupations": [
+				{
+					"text": "Patrizia-Gründer und bisherige CEO"
+				}
+			],
+			"occurrences": {
+				"firstNameOnly": 0,
+				"fullName": 1,
+				"lastNameOnly": 1,
+				"total": 2
+			},
+			"quotedInIntro": false,
+			"quotedInTitle": false,
+			"sex": "male"
+		},
+		{
+			"age": -1,
+			"alternativeNames": [],
+			"birthday": null,
+			"descriptiveTexts": [
+				{
+					"text": "Wie weit das tragen kann, zeigt der Fall Barack Obama: Der über viele Jahre umjubelte Ex-US-Präsident bezeichnet sich selbst als introvertiert."
+				},
+				{
+					"text": "Die nötigen Ruheräume hat er sich immer konsequent geschaffen."
+				}
+			],
+			"directQuotes": [],
+			"inIntro": false,
+			"inTitle": false,
+			"indirectQuotes": [],
+			"isMain": false,
+			"name": "Barack Obama",
+			"occupations": [
+				{
+					"text": "Ex-US-Präsident"
+				}
+			],
+			"occurrences": {
+				"firstNameOnly": 0,
+				"fullName": 1,
+				"lastNameOnly": 0,
+				"total": 1
+			},
+			"quotedInIntro": false,
+			"quotedInTitle": false,
+			"sex": "male"
+		},
+		{
+			"age": -1,
+			"alternativeNames": [],
+			"birthday": null,
+			"descriptiveTexts": [
+				{
+					"text": "Bevor Sie gleich extrovertiert ausgehen oder introvertiert durchatmen, hier ein kurzer Einblick in einen ganz besonderen Partyplan: Klaus Becker, der langjährige Deutschland-Chef der Wirtschaftsprüfer und Berater von KPMG nimmt seinen Abschied und lädt zu einer opulenten Farewell-Feier."
+				},
+				{
+					"text": "Dabei sei der Gastgeber Becker eigentlich gar keiner, »der für das Bad in der Menge geschaffen ist«, meint mein Kollege Dietmar Palan, der weitere Details zum Programm hat."
+				}
+			],
+			"directQuotes": [],
+			"inIntro": false,
+			"inTitle": false,
+			"indirectQuotes": [],
+			"isMain": false,
+			"name": "Klaus Becker",
+			"occupations": [
+				{
+					"text": "Deutschland-Chef der Wirtschaftsprüfer und Berater von KPMG"
+				}
+			],
+			"occurrences": {
+				"firstNameOnly": 0,
+				"fullName": 1,
+				"lastNameOnly": 1,
+				"total": 2
+			},
+			"quotedInIntro": false,
+			"quotedInTitle": false,
+			"sex": "male"
+		},
+		{
+			"age": -1,
+			"alternativeNames": [],
+			"birthday": null,
+			"descriptiveTexts": [
+				{
+					"text": "Stargast: Robbie Williams."
+				}
+			],
+			"directQuotes": [],
+			"inIntro": false,
+			"inTitle": false,
+			"indirectQuotes": [],
+			"isMain": false,
+			"name": "Robbie Williams",
+			"occupations": [
+				{
+					"text": "Stargast"
+				}
+			],
+			"occurrences": {
+				"firstNameOnly": 0,
+				"fullName": 1,
+				"lastNameOnly": 0,
+				"total": 1
+			},
+			"quotedInIntro": false,
+			"quotedInTitle": false,
+			"sex": "male"
+		},
+		{
+			"age": -1,
+			"alternativeNames": [],
+			"birthday": null,
+			"descriptiveTexts": [
+				{
+					"text": "Dabei sei der Gastgeber Becker eigentlich gar keiner, »der für das Bad in der Menge geschaffen ist«, meint mein Kollege Dietmar Palan, der weitere Details zum Programm hat."
+				}
+			],
+			"directQuotes": [
+				{
+					"text": "der für das Bad in der Menge geschaffen ist"
+				}
+			],
+			"inIntro": false,
+			"inTitle": false,
+			"indirectQuotes": [
+				{
+					"text": "Dabei sei der Gastgeber Becker eigentlich gar keiner, »der für das Bad in der Menge geschaffen ist«, meint mein Kollege Dietmar Palan, der weitere Details zum Programm hat."
+				}
+			],
+			"isMain": false,
+			"name": "Dietmar Palan",
+			"occupations": [
+				{
+					"text": "Kollege"
+				}
+			],
+			"occurrences": {
+				"firstNameOnly": 0,
+				"fullName": 1,
+				"lastNameOnly": 0,
+				"total": 1
+			},
+			"quotedInIntro": false,
+			"quotedInTitle": false,
+			"sex": "male"
+		},
+		{
+			"age": -1,
+			"alternativeNames": [],
+			"birthday": null,
+			"descriptiveTexts": [
+				{
+					"text": "Jeden Abend fassen wir die wichtigsten Wirtschaftsnews des Tages zusammen."
+				},
+				{
+					"text": "Mein Kollege Christoph Rottwilm hat sich umgehört und den Krisencocktail analysiert."
+				},
+				{
+					"text": "Nun kündigt Ingolstadt intern eine Preiserhöhung an, hat mein Kollege Christoph Seyerlein erfahren."
+				},
+				{
+					"text": "Meine Empfehlung für den Abend: Bevor Sie gleich extrovertiert ausgehen oder introvertiert durchatmen, hier ein kurzer Einblick in einen ganz besonderen Partyplan: Klaus Becker, der langjährige Deutschland-Chef der Wirtschaftsprüfer und Berater von KPMG nimmt seinen Abschied und lädt zu einer opulenten Farewell-Feier."
+				},
+				{
+					"text": "Dabei sei der Gastgeber Becker eigentlich gar keiner, »der für das Bad in der Menge geschaffen ist«, meint mein Kollege Dietmar Palan, der weitere Details zum Programm hat."
+				},
+				{
+					"text": "Herzlich, Ihr Christian Schütte"
+				},
+				{
+					"text": "Haben Sie Wünsche, Anregungen, Informationen, um die wir uns journalistisch kümmern sollten?"
+				},
+				{
+					"text": "Wir freuen uns auf Ihre Post unter chefredaktion@manager-magazin.de."
+				}
+			],
+			"directQuotes": [],
+			"inIntro": false,
+			"inTitle": false,
+			"indirectQuotes": [],
+			"isMain": true,
+			"name": "Christian Schütte",
+			"occupations": [],
+			"occurrences": {
+				"firstNameOnly": 0,
+				"fullName": 1,
+				"lastNameOnly": 0,
+				"total": 1
+			},
+			"quotedInIntro": false,
+			"quotedInTitle": false,
+			"sex": "male"
+		}
+	],
+	"subtopics": [
+		"Wirtschaft",
+		"Unternehmen",
+		"Führungskräfte",
+		"Krise",
+		"Zins"
+	]
+}

@@ -1,0 +1,188 @@
+{
+    "persons": [
+        {
+            "name": "Egmont Koch",
+            "alternativeNames": [],
+            "age": -1,
+            "sex": "male",
+            "occurences": {
+                "total": 1,
+                "firstNameOnly": 0,
+                "lastNameOnly": 0,
+                "fullName": 1,
+                "nickname": 0
+            },
+            "inTitle": false,
+            "inIntro": false,
+            "_name": {
+                "firstname": "Egmont",
+                "lastname": "Koch",
+                "nickname": null,
+                "alternative_names": [],
+                "academic_title": null,
+                "nobility_title_or_rank": null
+            },
+            "descriptiveTexts": [
+                {
+                    "text": "Der promovierte Chemiker schrieb einen fr\u00fchen Klassiker der \u00d6kobewegung (\"Seveso ist \u00fcberall. Die t\u00f6dlichen Risiken der Chemie\", mit Egmont Koch, 1978)."
+                }
+            ],
+            "occupations": [],
+            "directQuotes": [],
+            "quotedInTitle": false,
+            "quotedInIntro": false
+        },
+        {
+            "name": "Robert Habeck",
+            "alternativeNames": [],
+            "age": -1,
+            "sex": "male",
+            "occurences": {
+                "total": 6,
+                "firstNameOnly": 0,
+                "lastNameOnly": 4,
+                "fullName": 2,
+                "nickname": 0
+            },
+            "inTitle": false,
+            "inIntro": false,
+            "_name": {
+                "firstname": "Robert",
+                "lastname": "Habeck",
+                "nickname": null,
+                "alternative_names": [],
+                "academic_title": null,
+                "nobility_title_or_rank": null
+            },
+            "descriptiveTexts": [
+                {
+                    "text": "Wirtschaftsminister Robert Habeck hat aber versprochen, dass er f\u00fcr einen Industriestrompreis von etwa 5 bis 9 Eurocent je Kilowattstunden sorgen wird."
+                },
+                {
+                    "text": "Habecks 5 bis 9 Cent sind eine breite Spanne."
+                },
+                {
+                    "text": "Wirtschaftsminister Habeck sagt, ihr Anteil an der Gesamterzeugung sei mit 6 Prozent gering."
+                },
+                {
+                    "text": "Habeck schlie\u00dft das aus, weil das Fracking zu hohe Umweltrisiken habe."
+                },
+                {
+                    "text": "Auch die Norweger haben dem Kanzler k\u00fcrzlich gesagt: Wir f\u00f6rdern f\u00fcr Dich Gas, Du kannst uns gerne CO2 zur\u00fcckgeben, das wir in denselben Sedimenten einlagern."
+                },
+                {
+                    "text": "Robert Habeck hat das Verbot von CCS (Carbon Capture and Storage, Anm. der Redaktion) seinerzeit entscheidend vorangebracht, er pr\u00e4gte als Oppositionspolitiker in Schleswig-Holstein den Spruch, man wolle nicht \"der M\u00fclleimer Deutschlands\" sein."
+                },
+                {
+                    "text": "Ende vergangenen Jahres hat Habeck selbst allerdings bekanntgegeben, dass wir \u00fcber die CO2-Abtrennung nachdenken m\u00fcssen."
+                },
+                {
+                    "text": "Er sieht das im Moment wohl nur f\u00fcr Zementwerke und Industriebetriebe."
+                }
+            ],
+            "occupations": [
+                {
+                    "text": "Wirtschaftsminister"
+                }
+            ],
+            "directQuotes": [
+                {
+                    "text": "der M\u00fclleimer Deutschlands"
+                }
+            ],
+            "quotedInTitle": false,
+            "quotedInIntro": false
+        },
+        {
+            "name": "Fritz Vahrenholt",
+            "alternativeNames": [],
+            "age": 73,
+            "sex": "male",
+            "occurences": {
+                "total": 4,
+                "firstNameOnly": 0,
+                "lastNameOnly": 2,
+                "fullName": 2,
+                "nickname": 0
+            },
+            "inTitle": false,
+            "inIntro": true,
+            "_name": {
+                "firstname": "Fritz",
+                "lastname": "Vahrenholt",
+                "nickname": null,
+                "alternative_names": [],
+                "academic_title": "Doktor",
+                "nobility_title_or_rank": null
+            },
+            "descriptiveTexts": [
+                {
+                    "text": "\"Ich k\u00e4mpfe weiter f\u00fcr die Braunkohle\""
+                },
+                {
+                    "text": "Nur mit Fracking oder Braunkohle, sagt der Energiewende-Kritiker Fritz Vahrenholt."
+                },
+                {
+                    "text": "Fritz Vahrenholt (73) arbeitet seit Jahrzehnten im Spannungsfeld von Umwelt und Wirtschaft."
+                },
+                {
+                    "text": "Er wurde sp\u00e4ter SPD-Umweltsenator in Hamburg, Vorstand f\u00fcr erneuerbare Energien bei der Deutschen Shell AG und Pionier des Windkraftausbaus als Vorstandschef von REpower Systems und der fr\u00fcheren RWE-Tochter Innogy."
+                },
+                {
+                    "text": "Wegen seiner Kritik an der Klima- und Energiepolitik ist er f\u00fcr manche gr\u00fcn Bewegte allerdings heute eine persona non grata."
+                },
+                {
+                    "text": "Vahrenholt leitet den Aufsichtsrat des Kupferverarbeiters Aurubis und ist Mitglied im Aufsichtsrat des Wind- und Solarparkbetreibers Encavis, beide M-Dax-Unternehmen."
+                },
+                {
+                    "text": "Herr Vahrenholt, der Strompreis f\u00fcr Privathaushalte ist auf 30 bis 40 Cent pro Kilowattstunde gestiegen."
+                },
+                {
+                    "text": "Sie warnen vor einer Deindustrialisierung des Landes."
+                },
+                {
+                    "text": "F\u00fcr die Industrie ist in der Tat der Preis entscheidend, zu dem sie den Strom direkt an der B\u00f6rse einkaufen kann."
+                },
+                {
+                    "text": "Sie sind als Aufsichtsratschef beim Kupferverarbeiter Aurubis nah an der stromintensiven Produktion."
+                },
+                {
+                    "text": "Wenn Sie die jetzt aus der Merit-Order rausnehmen, dann m\u00fcssen daf\u00fcr teurere Erzeuger nachr\u00fccken und das sind Gaskraftwerke."
+                },
+                {
+                    "text": "Wie wollen Sie den Strompreis k\u00fcnftig senken?"
+                },
+                {
+                    "text": "Ich k\u00e4mpfe weiter f\u00fcr die Braunkohle."
+                },
+                {
+                    "text": "Ich glaube das nicht."
+                },
+                {
+                    "text": "Das Thema Volatilit\u00e4t kommt ja noch dazu: An 140 Tagen haben wir keinen Wind, und selbst wenn Sie die installierte Leistung verdreifachen, dann gilt bei Flaute immer noch: Dreimal Null bleibt Null."
+                },
+                {
+                    "text": "Wir k\u00f6nnten dann zumindest von China verlangen, dass sie das selbst machen."
+                }
+            ],
+            "occupations": [
+                {
+                    "text": "Pionier des Windkraftausbaus als Vorstandschef von REpower Systems und der fr\u00fcheren RWE-Tochter Innogy"
+                },
+                {
+                    "text": "Energiewende-Kritiker"
+                }
+            ],
+            "directQuotes": [
+                {
+                    "text": "Ich k\u00e4mpfe weiter f\u00fcr die Braunkohle"
+                },
+                {
+                    "text": "Die gro\u00dfe Energiekrise und wie wir sie bew\u00e4ltigen k\u00f6nnen."
+                }
+            ],
+            "quotedInTitle": false,
+            "quotedInIntro": true
+        }
+    ]
+}

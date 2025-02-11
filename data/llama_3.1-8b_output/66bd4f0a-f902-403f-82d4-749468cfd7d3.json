@@ -1,0 +1,373 @@
+{
+    "persons": [
+        {
+            "name": "Taras",
+            "alternativeNames": [],
+            "age": 19,
+            "sex": "male",
+            "occurences": {
+                "total": 5,
+                "firstNameOnly": 0,
+                "lastNameOnly": 0,
+                "fullName": 5,
+                "nickname": 0
+            },
+            "inTitle": false,
+            "inIntro": false,
+            "_name": {
+                "firstname": "Taras",
+                "lastname": null,
+                "nickname": null,
+                "alternative_names": [],
+                "academic_title": null,
+                "nobility_title_or_rank": null
+            },
+            "descriptiveTexts": [
+                {
+                    "text": "In der kreisrunden Halle der U-Bahnhaltestelle Teatralna sitzt Taras, 19, der nur seinen Vornamen nennen m\u00f6chte, auf seiner Reisetasche."
+                },
+                {
+                    "text": "Er tr\u00e4gt eine schwarze Hose und eine schwarze Jacke."
+                },
+                {
+                    "text": "Er blickt auf sein Handy, schreibt seinen Eltern, alles sei gut, dann checkt er wieder den Telegram-Kanal der Luftstreitkr\u00e4fte."
+                },
+                {
+                    "text": "Der junge Mann erz\u00e4hlt, er sei gerade erst in Kiew angekommen."
+                },
+                {
+                    "text": "Er sei aus Pawlohrad, einer Stadt bei Dnipro."
+                },
+                {
+                    "text": "Er will in der Hauptstadt als Kellner und Barkeeper arbeiten."
+                },
+                {
+                    "text": "Nebenbei l\u00e4sst er sich online zum Logistikkaufmann ausbilden."
+                },
+                {
+                    "text": "In Kiew wolle er ein neues Leben beginnen."
+                },
+                {
+                    "text": "Eigentlich wollte er hier, an der U-Bahnstation, aussteigen, zu seiner Unterkunft laufen."
+                },
+                {
+                    "text": "\u00bbIch habe nicht erwartet, dass mein erster Tag in Kiew anders sein w\u00fcrde\u00ab, sagt Taras."
+                },
+                {
+                    "text": "\u00bbIch f\u00fchle nichts mehr, wenn Russland uns angreift.\u00ab"
+                },
+                {
+                    "text": "Den Kriegsbeginn habe er in Charkiw verbracht."
+                },
+                {
+                    "text": "Damals hatte er noch Angst, jetzt sei er daran gew\u00f6hnt, dass es jederzeit vorbei sein k\u00f6nnte."
+                },
+                {
+                    "text": "\u00bbNiemand in der Ukraine ist versichert gegen die Raketen, gegen die Angriffe, gegen den Tod\u00ab, sagt er."
+                },
+                {
+                    "text": "Deshalb lebe er von Tag zu Tag."
+                },
+                {
+                    "text": "Er hat einen Plan f\u00fcr das kommende Jahr."
+                },
+                {
+                    "text": "Weiter in die Zukunft blicken k\u00f6nne er nicht."
+                },
+                {
+                    "text": "\u00bbSie wollte Designerin werden, sie wollte die Welt sch\u00f6ner machen\u00ab, sagt er."
+                },
+                {
+                    "text": "Bei den K\u00e4mpfen um Mariupol sei sie gestorben, sagt Taras."
+                },
+                {
+                    "text": "Taras verzieht keine Miene, wenn er dar\u00fcber spricht."
+                },
+                {
+                    "text": "Morgen sei sein erster Arbeitstag, sagt er."
+                },
+                {
+                    "text": "Er ist trotz allem zuversichtlich, dass er neue Freunde findet."
+                },
+                {
+                    "text": "\u00bbMan darf nicht pessimistisch werden\u00ab, meint er."
+                },
+                {
+                    "text": "Taras zieht seine Reisetasche \u00fcber die Schulter."
+                }
+            ],
+            "occupations": [
+                {
+                    "text": "Kellner und Barkeeper"
+                }
+            ],
+            "directQuotes": [
+                {
+                    "text": "Ich habe nicht erwartet, dass mein erster Tag in Kiew anders sein w\u00fcrde"
+                },
+                {
+                    "text": "Die Russen haben uns allen die Zukunft genommen \u2013 meiner Schwester, meinen Freunden, meinen Verwandten und mir."
+                }
+            ],
+            "quotedInTitle": false,
+            "quotedInIntro": false
+        },
+        {
+            "name": "Selenskyj",
+            "alternativeNames": [],
+            "age": -1,
+            "sex": "male",
+            "occurences": {
+                "total": 1,
+                "firstNameOnly": 0,
+                "lastNameOnly": 0,
+                "fullName": 1,
+                "nickname": 0
+            },
+            "inTitle": false,
+            "inIntro": false,
+            "_name": {
+                "firstname": null,
+                "lastname": "Selenskyj",
+                "nickname": null,
+                "alternative_names": [],
+                "academic_title": null,
+                "nobility_title_or_rank": null
+            },
+            "descriptiveTexts": [
+                {
+                    "text": "Am selben Tag teilt Pr\u00e4sident Selenskyj mit, es seien vier Menschen get\u00f6tet, 45 weitere verletzt worden."
+                }
+            ],
+            "occupations": [
+                {
+                    "text": "Pr\u00e4sident"
+                }
+            ],
+            "directQuotes": [
+                {
+                    "text": "Angst wird uns nicht dabei helfen, den Krieg zu gewinnen"
+                }
+            ],
+            "quotedInTitle": false,
+            "quotedInIntro": false
+        },
+        {
+            "name": "Nastja",
+            "alternativeNames": [],
+            "age": 37,
+            "sex": "female",
+            "occurences": {
+                "total": 6,
+                "firstNameOnly": 0,
+                "lastNameOnly": 0,
+                "fullName": 6,
+                "nickname": 0
+            },
+            "inTitle": false,
+            "inIntro": false,
+            "_name": {
+                "firstname": "Nastja",
+                "lastname": null,
+                "nickname": null,
+                "alternative_names": [],
+                "academic_title": null,
+                "nobility_title_or_rank": null
+            },
+            "descriptiveTexts": [
+                {
+                    "text": "Viele wirken abgekl\u00e4rt \u2013 haben sie sich an den Krieg gew\u00f6hnt?"
+                },
+                {
+                    "text": "\u26a0\ufe0f Bedrohung durch Abschuss von Marschflugk\u00f6rpern durch Tu-95MS-Flieger Ignorieren Sie den Luftalarm nicht!"
+                },
+                {
+                    "text": "Gehen Sie in Deckung!"
+                },
+                {
+                    "text": "Fragt man die Kiewer, wie sie mit den verst\u00e4rkten Luftangriffen aus Russland umgehen, bekommt man von jedem eine andere Antwort."
+                },
+                {
+                    "text": "Sie wollen ausschlafen, sich nicht von den fast t\u00e4glichen Alarmmeldungen stressen lassen."
+                },
+                {
+                    "text": "Sie beobachten jede Telegram-Meldung und machen sich bereit, ihre Wohnung bei steigender Gefahr zu verlassen."
+                },
+                {
+                    "text": "Sie sind in der Minderheit."
+                },
+                {
+                    "text": "Eine Metromitarbeiterin holt Campingst\u00fchle aus einem Kabuff, verteilt sie an die Hereinkommenden."
+                },
+                {
+                    "text": "Das reiche, um sie vor m\u00f6glichen Raketeneinschl\u00e4gen zu sch\u00fctzen, sagen sie."
+                },
+                {
+                    "text": "Ein paar Meter weiter, unter einem Abbild sozialistischer Arbeiter, sitzen Nastja, 37, und Dmitro, 43, auf einer Isomatte."
+                },
+                {
+                    "text": "Sie suchten zum ersten Mal Schutz in einer Metrostation, sagen sie."
+                },
+                {
+                    "text": "2022 h\u00e4tten sie in den ersten beiden Kriegswochen im unterirdischen Parkhaus ihres Wohngeb\u00e4udes gelebt."
+                },
+                {
+                    "text": "In den vergangenen Wochen, als in Kiew die W\u00e4nde der Stadt von den Explosionen bebten, verbrachten sie die Morgen wieder im Parkhaus."
+                },
+                {
+                    "text": "\u00bbSo viele Explosionen und Ersch\u00fctterungen gab es bisher nur zu Beginn des Krieges\u00ab, sagt Nastja."
+                },
+                {
+                    "text": "Also h\u00e4tten sie sich f\u00fcr den n\u00e4chsten gr\u00f6\u00dferen Luftalarm vorgenommen, sich besser in Sicherheit zu bringen."
+                },
+                {
+                    "text": "Dass sie in die Metro gekommen sind, nennt Dmitro \u00bbTraining\u00ab."
+                },
+                {
+                    "text": "Sie wollten schauen, wie viel Zeit sie von zu Hause aus ben\u00f6tigten."
+                },
+                {
+                    "text": "Eigentlich m\u00fcssten sie schneller sein, sagt Nastja."
+                },
+                {
+                    "text": "\u00bbMan kann sich nicht an den Krieg gew\u00f6hnen\u00ab, sagt Nastja und l\u00e4chelt."
+                },
+                {
+                    "text": "In der Metrostation Teatralna falten die Schutzsuchenden die Klappst\u00fchle zusammen, geben sie an die Metroaufseher zur\u00fcck."
+                },
+                {
+                    "text": "Dmitro rollt seine Isomatte ein, Nastja weckt ihre Tochter."
+                },
+                {
+                    "text": "Sie verabschieden sich."
+                },
+                {
+                    "text": "Nastja wird die Kinder in den Kindergarten und zur Schule bringen."
+                }
+            ],
+            "occupations": [
+                {
+                    "text": "Angst wird uns nicht dabei helfen, den Krieg zu gewinnen"
+                },
+                {
+                    "text": "Man kann sich nicht an den Krieg gew\u00f6hnen"
+                }
+            ],
+            "directQuotes": [
+                {
+                    "text": "Niemand in der Ukraine ist versichert gegen die Raketen, gegen die Angriffe, gegen den Tod"
+                },
+                {
+                    "text": "Man darf nicht pessimistisch werden"
+                },
+                {
+                    "text": "Aber wir verfallen auch nicht in Panik. Angst wird uns nicht dabei helfen, den Krieg zu gewinnen."
+                }
+            ],
+            "quotedInTitle": false,
+            "quotedInIntro": false
+        },
+        {
+            "name": "Dmitro",
+            "alternativeNames": [],
+            "age": 43,
+            "sex": "male",
+            "occurences": {
+                "total": 5,
+                "firstNameOnly": 0,
+                "lastNameOnly": 0,
+                "fullName": 5,
+                "nickname": 0
+            },
+            "inTitle": false,
+            "inIntro": false,
+            "_name": {
+                "firstname": "Dmitro",
+                "lastname": null,
+                "nickname": null,
+                "alternative_names": [],
+                "academic_title": null,
+                "nobility_title_or_rank": null
+            },
+            "descriptiveTexts": [
+                {
+                    "text": "\u26a0\ufe0f Bedrohung durch Abschuss von Marschflugk\u00f6rpern durch Tu-95MS-Flieger Ignorieren Sie den Luftalarm nicht!"
+                },
+                {
+                    "text": "Gehen Sie in Deckung!"
+                },
+                {
+                    "text": "Fragt man die Kiewer, wie sie mit den verst\u00e4rkten Luftangriffen aus Russland umgehen, bekommt man von jedem eine andere Antwort."
+                },
+                {
+                    "text": "Sie wollen ausschlafen, sich nicht von den fast t\u00e4glichen Alarmmeldungen stressen lassen."
+                },
+                {
+                    "text": "Sie beobachten jede Telegram-Meldung und machen sich bereit, ihre Wohnung bei steigender Gefahr zu verlassen."
+                },
+                {
+                    "text": "Sie sind in der Minderheit."
+                },
+                {
+                    "text": "Eine Metromitarbeiterin holt Campingst\u00fchle aus einem Kabuff, verteilt sie an die Hereinkommenden."
+                },
+                {
+                    "text": "Das reiche, um sie vor m\u00f6glichen Raketeneinschl\u00e4gen zu sch\u00fctzen, sagen sie."
+                },
+                {
+                    "text": "Ein paar Meter weiter, unter einem Abbild sozialistischer Arbeiter, sitzen Nastja, 37, und Dmitro, 43, auf einer Isomatte."
+                },
+                {
+                    "text": "Sie suchten zum ersten Mal Schutz in einer Metrostation, sagen sie."
+                },
+                {
+                    "text": "2022 h\u00e4tten sie in den ersten beiden Kriegswochen im unterirdischen Parkhaus ihres Wohngeb\u00e4udes gelebt."
+                },
+                {
+                    "text": "In den vergangenen Wochen, als in Kiew die W\u00e4nde der Stadt von den Explosionen bebten, verbrachten sie die Morgen wieder im Parkhaus."
+                },
+                {
+                    "text": "Also h\u00e4tten sie sich f\u00fcr den n\u00e4chsten gr\u00f6\u00dferen Luftalarm vorgenommen, sich besser in Sicherheit zu bringen."
+                },
+                {
+                    "text": "Dass sie in die Metro gekommen sind, nennt Dmitro \u00bbTraining\u00ab."
+                },
+                {
+                    "text": "Sie wollten schauen, wie viel Zeit sie von zu Hause aus ben\u00f6tigten."
+                },
+                {
+                    "text": "Eigentlich m\u00fcssten sie schneller sein, sagt Nastja."
+                },
+                {
+                    "text": "Ihr Mann Dmitro sagt: \u00bbDiejenigen, die sich Sorgen machen, haben das Land schon l\u00e4ngst verlassen.\u00ab"
+                },
+                {
+                    "text": "In der Metrostation Teatralna falten die Schutzsuchenden die Klappst\u00fchle zusammen, geben sie an die Metroaufseher zur\u00fcck."
+                },
+                {
+                    "text": "Dmitro rollt seine Isomatte ein, Nastja weckt ihre Tochter."
+                },
+                {
+                    "text": "Sie verabschieden sich."
+                },
+                {
+                    "text": "Dmitro wird sich einen Anzug anziehen, zu seiner Kanzlei laufen."
+                }
+            ],
+            "occupations": [],
+            "directQuotes": [
+                {
+                    "text": "Sie wollte Designerin werden, sie wollte die Welt sch\u00f6ner machen"
+                },
+                {
+                    "text": "So viele Explosionen und Ersch\u00fctterungen gab es bisher nur zu Beginn des Krieges"
+                },
+                {
+                    "text": "Diejenigen, die sich Sorgen machen, haben das Land schon l\u00e4ngst verlassen."
+                }
+            ],
+            "quotedInTitle": false,
+            "quotedInIntro": false
+        }
+    ]
+}

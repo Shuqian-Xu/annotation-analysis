@@ -1,0 +1,446 @@
+{
+    "persons": [
+        {
+            "name": "Gibran Rakabuming",
+            "alternativeNames": [],
+            "age": -1,
+            "sex": "male",
+            "occurences": {
+                "total": 1,
+                "firstNameOnly": 0,
+                "lastNameOnly": 0,
+                "fullName": 1,
+                "nickname": 0
+            },
+            "inTitle": false,
+            "inIntro": false,
+            "_name": {
+                "firstname": "Gibran",
+                "lastname": "Rakabuming",
+                "nickname": null,
+                "alternative_names": [],
+                "academic_title": null,
+                "nobility_title_or_rank": null
+            },
+            "descriptiveTexts": [
+                {
+                    "text": "Denn Jokowi hat ihm seinen \u00e4ltesten Sohn, Gibran Rakabuming, als Vizekandidaten an die Seite gestellt."
+                }
+            ],
+            "occupations": [],
+            "directQuotes": [],
+            "quotedInTitle": false,
+            "quotedInIntro": false
+        },
+        {
+            "name": "Agung Wicaksono",
+            "alternativeNames": [],
+            "age": -1,
+            "sex": "male",
+            "occurences": {
+                "total": 6,
+                "firstNameOnly": 0,
+                "lastNameOnly": 5,
+                "fullName": 1,
+                "nickname": 0
+            },
+            "inTitle": false,
+            "inIntro": false,
+            "_name": {
+                "firstname": "Agung",
+                "lastname": "Wicaksono",
+                "nickname": null,
+                "alternative_names": [],
+                "academic_title": null,
+                "nobility_title_or_rank": null
+            },
+            "descriptiveTexts": [
+                {
+                    "text": "Ein Mann mit breitem Gang und gr\u00fcnem Hemd l\u00e4uft hektisch an den Touristen vorbei: Agung Wicaksono."
+                },
+                {
+                    "text": "Wicaksono hat vor gut einem Jahr den Anruf der Regierung bekommen, \u00bbvon ganz oben\u00ab, wie er sagt."
+                },
+                {
+                    "text": "Er sagt: \u00bbIch bin doch nur ein Verk\u00e4ufer.\u00ab"
+                },
+                {
+                    "text": "Aber man kann auch sagen: Er ist der wichtigste Mann der Stadt."
+                },
+                {
+                    "text": "Im Schlepptau hat Wicaksono an diesem Vormittag Anfang Februar einen Investor aus den USA, der eine verspiegelte Sonnenbrille tr\u00e4gt und seine Firma in New York hat."
+                },
+                {
+                    "text": "Wicaksono nennt sie \u00bbdie Pioniere\u00ab."
+                },
+                {
+                    "text": "Wicaksono versucht, CEOs gro\u00dfer indonesischer und ausl\u00e4ndischer Firmen zu \u00fcberzeugen."
+                },
+                {
+                    "text": "Wicaksono will, dass die Stadt einmal eine ist, die von allen geliebt wird."
+                }
+            ],
+            "occupations": [],
+            "directQuotes": [
+                {
+                    "text": "von ganz oben"
+                },
+                {
+                    "text": "Ich bin doch nur ein Verk\u00e4ufer."
+                }
+            ],
+            "quotedInTitle": false,
+            "quotedInIntro": false
+        },
+        {
+            "name": "Rostati",
+            "alternativeNames": [],
+            "age": -1,
+            "sex": "male",
+            "occurences": {
+                "total": 1,
+                "firstNameOnly": 0,
+                "lastNameOnly": 0,
+                "fullName": 1,
+                "nickname": 0
+            },
+            "inTitle": false,
+            "inIntro": false,
+            "_name": {
+                "firstname": "Rostati",
+                "lastname": null,
+                "nickname": null,
+                "alternative_names": [],
+                "academic_title": null,
+                "nobility_title_or_rank": null
+            },
+            "descriptiveTexts": [
+                {
+                    "text": "Sie transportieren Eisenstangen, Pflastersteine und Kies zur Baustelle."
+                },
+                {
+                    "text": "Sie bauen die k\u00fcnftige Hauptstadt Indonesiens."
+                },
+                {
+                    "text": "Auch Rostati ist gekommen, mit Familie."
+                },
+                {
+                    "text": "Sie stammt aus der Gegend und sagt: \u00bbIch bin ziemlich stolz, dass die neue Stadt hier gebaut wird. Aber es ist unm\u00f6glich, das innerhalb von f\u00fcnf Jahren zu schaffen.\u00ab"
+                },
+                {
+                    "text": "Wicaksono nennt sie \u00bbdie Pioniere\u00ab."
+                },
+                {
+                    "text": "Syamsiah, 49 Jahre, tr\u00e4gt ein rosa Kopftuch und sagt: \u00bbWenn sie uns wirklich von hier vertreiben, dann m\u00fcssen sie mich hier begraben. Ich werde nicht gehen. Das hier ist mein Land.\u00ab"
+                },
+                {
+                    "text": "Sie sitzt im Hinterhof ihres Hauses im D\u00f6rflein Sepaku, unweit der Baustelle von Nusantara."
+                },
+                {
+                    "text": "Fr\u00fcher haben sie dort Reis angebaut, heute ist die Fl\u00e4che oft \u00fcberschwemmt."
+                },
+                {
+                    "text": "\u00bbWenn wir gehen, starten wir bei null\u00ab, sagt sie."
+                },
+                {
+                    "text": "Ihre Leben fu\u00dfen auf der Annahme, dass sie bleiben k\u00f6nnen, wo sie schon lange sind."
+                },
+                {
+                    "text": "Die Frage ist, ob eine Stadt einen kann, wenn sie die Kultur und die Menschen vor Ort missachtet."
+                },
+                {
+                    "text": "Was haben sie f\u00fcr Vorstellungen von einem guten Leben?"
+                },
+                {
+                    "text": "Wie werden sie ihren Alltag gestalten?"
+                },
+                {
+                    "text": "Werden sie noch als Familien wohnen, oder wie viel Platz brauchen sie?"
+                },
+                {
+                    "text": "Sie k\u00f6nnte in 30 Jahren als Vorbild gelten."
+                },
+                {
+                    "text": "Sie haben das Gef\u00fchl, endlich denke die Regierung auch mal an sie."
+                },
+                {
+                    "text": "Sie bezweifeln auch, dass internationale Botschaften auf die Nachbarinsel umziehen, solange sich Nusantara nicht wie eine echte Hauptstadt anf\u00fchlt, sondern mehr wie ein Themenpark."
+                }
+            ],
+            "occupations": [],
+            "directQuotes": [
+                {
+                    "text": "Ich bin ziemlich stolz, dass die neue Stadt hier gebaut wird. Aber es ist unm\u00f6glich, das innerhalb von f\u00fcnf Jahren zu schaffen."
+                }
+            ],
+            "quotedInTitle": false,
+            "quotedInIntro": false
+        },
+        {
+            "name": "Joko Widodo",
+            "alternativeNames": [],
+            "age": -1,
+            "sex": "male",
+            "occurences": {
+                "total": 14,
+                "firstNameOnly": 0,
+                "lastNameOnly": 4,
+                "fullName": 5,
+                "nickname": 5
+            },
+            "inTitle": false,
+            "inIntro": false,
+            "_name": {
+                "firstname": "Joko",
+                "lastname": "Widodo",
+                "nickname": "Jokowi",
+                "alternative_names": [],
+                "academic_title": null,
+                "nobility_title_or_rank": null
+            },
+            "descriptiveTexts": [
+                {
+                    "text": "Der Mann, der den Traum der neuen Stadt anpackte und zu einem Projekt erkl\u00e4rte, hei\u00dft Joko Widodo, genannt Jokowi, der aktuelle Pr\u00e4sident Indonesiens."
+                },
+                {
+                    "text": "Er war selbst mal B\u00fcrgermeister von Jakarta."
+                },
+                {
+                    "text": "2019 verk\u00fcndete er: Der Bau geht los."
+                },
+                {
+                    "text": "Die neue Hauptstadt werde auf Borneo liegen, versprach er, 1300 Kilometer entfernt von Jakarta."
+                },
+                {
+                    "text": "Das Projekt Nusantara ist schwer zu trennen von den letzten Tagen Joko Widodos im Amt."
+                },
+                {
+                    "text": "Er wurde bekannt als \u00bbInfrastrukturpr\u00e4sident\u00ab, veranlasste den Bau vieler Stra\u00dfen, Hafen- und Bahnprojekte, ist \u00fcberaus beliebt in der Bev\u00f6lkerung."
+                },
+                {
+                    "text": "Zwar zerhagelte die Pandemie den Zeitplan geh\u00f6rig, er ist kaum noch einzuhalten."
+                },
+                {
+                    "text": "Doch Widodo h\u00e4lt an seinem Ziel fest."
+                },
+                {
+                    "text": "Noch 2024 sollen die ersten Ministerien umziehen und der Regierungspalast eingeweiht werden \u2013 ausgerechnet in dem Jahr, in dem Widodo als Pr\u00e4sident abtreten wird."
+                },
+                {
+                    "text": "Nach zwei Amtszeiten darf Widodo nicht noch einmal antreten."
+                },
+                {
+                    "text": "Wie wichtig Joko Widodo das Projekt Nusantara ist, zeigt der Deal, den er mit einem ehemaligen politischen Rivalen eingegangen ist: mit Prabowo Subianto, 72, der zwei Pr\u00e4sidentschaftswahlen gegen Jokowi verlor."
+                },
+                {
+                    "text": "F\u00fcr Joko Widodo ist er der Mann, der garantiert hat, sein Verm\u00e4chtnis fertigzustellen."
+                },
+                {
+                    "text": "Pr\u00e4sident Widodos Kritiker bef\u00fcrchten, Indonesien \u00fcbernehme sich finanziell massiv mit dem Megaprojekt."
+                },
+                {
+                    "text": "Was recht sicher ist: Der Palast wird bis dahin soweit fertig sein, dass Joko Widodo noch einziehen kann."
+                },
+                {
+                    "text": "Ein paar Wochen wird er die Geschicke des Landes noch aus einem B\u00fcro in Nusantara leiten k\u00f6nnen."
+                }
+            ],
+            "occupations": [
+                {
+                    "text": "Pr\u00e4sident Indonesiens"
+                }
+            ],
+            "directQuotes": [
+                {
+                    "text": "Wir wollen ein neues Indonesien bauen"
+                },
+                {
+                    "text": "Indonesien ist mehr als Jakarta."
+                },
+                {
+                    "text": "Wenn wir uns an die Pl\u00e4ne halten"
+                },
+                {
+                    "text": "dann ist diese Kritik falsch"
+                }
+            ],
+            "quotedInTitle": false,
+            "quotedInIntro": false
+        },
+        {
+            "name": "Prabowo Subianto",
+            "alternativeNames": [],
+            "age": 72,
+            "sex": "male",
+            "occurences": {
+                "total": 3,
+                "firstNameOnly": 2,
+                "lastNameOnly": 0,
+                "fullName": 1,
+                "nickname": 0
+            },
+            "inTitle": false,
+            "inIntro": false,
+            "_name": {
+                "firstname": "Prabowo",
+                "lastname": "Subianto",
+                "nickname": null,
+                "alternative_names": [],
+                "academic_title": null,
+                "nobility_title_or_rank": null
+            },
+            "descriptiveTexts": [
+                {
+                    "text": "Wie wichtig Joko Widodo das Projekt Nusantara ist, zeigt der Deal, den er mit einem ehemaligen politischen Rivalen eingegangen ist: mit Prabowo Subianto, 72, der zwei Pr\u00e4sidentschaftswahlen gegen Jokowi verlor."
+                },
+                {
+                    "text": "Nun hat er gute Chancen, Indonesiens n\u00e4chster Pr\u00e4sident zu werden."
+                },
+                {
+                    "text": "Sondern auch, weil Prabowo, ein ehemaliger Milit\u00e4rgeneral, schwere Menschenrechtsverletzungen w\u00e4hrend des Suharto-Regimes vorgeworfen werden, unter anderem in Timor-Leste und bei Unruhen gegen die Regierung im Mai 1998."
+                },
+                {
+                    "text": "F\u00fcr Kritiker ist Prabowo ein Verbrecher, der zur Verantwortung gezogen werden muss."
+                },
+                {
+                    "text": "F\u00fcr Joko Widodo ist er der Mann, der garantiert hat, sein Verm\u00e4chtnis fertigzustellen."
+                }
+            ],
+            "occupations": [
+                {
+                    "text": "einem ehemaligen politischen Rivalen"
+                }
+            ],
+            "directQuotes": [],
+            "quotedInTitle": false,
+            "quotedInIntro": false
+        },
+        {
+            "name": "Sibarani Sofian",
+            "alternativeNames": [],
+            "age": -1,
+            "sex": "male",
+            "occurences": {
+                "total": 9,
+                "firstNameOnly": 8,
+                "lastNameOnly": 0,
+                "fullName": 1,
+                "nickname": 0
+            },
+            "inTitle": false,
+            "inIntro": false,
+            "_name": {
+                "firstname": "Sibarani",
+                "lastname": "Sofian",
+                "nickname": null,
+                "alternative_names": [],
+                "academic_title": null,
+                "nobility_title_or_rank": null
+            },
+            "descriptiveTexts": [
+                {
+                    "text": "Sibarani Sofian ist der Architekt Nusantaras."
+                },
+                {
+                    "text": "Er schaue sich genau an, was in den anderen Planst\u00e4dten falsch gelaufen ist."
+                },
+                {
+                    "text": "Sibarani hat 2019 die Ausschreibung der Regierung gewonnen."
+                },
+                {
+                    "text": "Sechs bis acht Wochen hatte Sibarani Zeit, die Pl\u00e4ne zu zeichnen."
+                },
+                {
+                    "text": "Die Topografie der Stadt ist kompliziert, sagt Sibarani."
+                },
+                {
+                    "text": "Die Herausforderung sei, heute eine Stadt zu planen, die Menschen in zwei, drei, vier Jahrzehnten gut finden, sagt Sibarani."
+                },
+                {
+                    "text": "In seinem B\u00fcro besch\u00e4ftigt Sibarani deshalb viele Leute unter 30."
+                },
+                {
+                    "text": "\u00bbWenn wir uns an die Pl\u00e4ne halten\u00ab, sagt Architekt Sibarani, \u00bbdann ist diese Kritik falsch\u00ab."
+                },
+                {
+                    "text": "Aber Sibarani wei\u00df, wie schnell Pl\u00e4ne ge\u00e4ndert werden."
+                },
+                {
+                    "text": "Doch selbst Architekt Sibarani, der Designer der Stadt, ist unsicher, ob er wirklich einmal mit seinem B\u00fcro nach Nusantara umziehen will."
+                },
+                {
+                    "text": "Auch er wei\u00df nicht, ob das Herz Indonesien je woanders liegen wird als in Jakarta."
+                }
+            ],
+            "occupations": [
+                {
+                    "text": "Architekt"
+                }
+            ],
+            "directQuotes": [
+                {
+                    "text": "People\u2019s Boulevard"
+                },
+                {
+                    "text": "soll intim und nach den Menschen ausgerichtet sein"
+                },
+                {
+                    "text": "ein Ressort aus Regierungsgeb\u00e4uden im Dschungel"
+                }
+            ],
+            "quotedInTitle": false,
+            "quotedInIntro": false
+        },
+        {
+            "name": "Jokowi",
+            "alternativeNames": [],
+            "age": -1,
+            "sex": "male",
+            "occurences": {
+                "total": 5,
+                "firstNameOnly": 0,
+                "lastNameOnly": 0,
+                "fullName": 5,
+                "nickname": 0
+            },
+            "inTitle": false,
+            "inIntro": false,
+            "_name": {
+                "firstname": "Jokowi",
+                "lastname": null,
+                "nickname": null,
+                "alternative_names": [],
+                "academic_title": null,
+                "nobility_title_or_rank": null
+            },
+            "descriptiveTexts": [
+                {
+                    "text": "Der Mann, der den Traum der neuen Stadt anpackte und zu einem Projekt erkl\u00e4rte, hei\u00dft Joko Widodo, genannt Jokowi, der aktuelle Pr\u00e4sident Indonesiens."
+                },
+                {
+                    "text": "\u00bbWir wollen ein neues Indonesien bauen\u00ab, sagte Jokowi damals."
+                },
+                {
+                    "text": "Wenn Jokowi bald weg ist, so was wie der Gr\u00fcndungsvater der Stadt, \u2013 wird sein Nachfolger die Pl\u00e4ne \u00fcberhaupt weiterverfolgen?"
+                },
+                {
+                    "text": "Wie wichtig Joko Widodo das Projekt Nusantara ist, zeigt der Deal, den er mit einem ehemaligen politischen Rivalen eingegangen ist: mit Prabowo Subianto, 72, der zwei Pr\u00e4sidentschaftswahlen gegen Jokowi verlor."
+                },
+                {
+                    "text": "Denn Jokowi hat ihm seinen \u00e4ltesten Sohn, Gibran Rakabuming, als Vizekandidaten an die Seite gestellt."
+                }
+            ],
+            "occupations": [
+                {
+                    "text": "Pr\u00e4sident Indonesiens"
+                },
+                {
+                    "text": "Infrastrukturpr\u00e4sident"
+                }
+            ],
+            "directQuotes": [],
+            "quotedInTitle": false,
+            "quotedInIntro": false
+        }
+    ]
+}

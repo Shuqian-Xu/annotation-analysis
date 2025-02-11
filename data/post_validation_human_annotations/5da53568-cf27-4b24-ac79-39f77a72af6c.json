@@ -1,0 +1,494 @@
+{
+	"persons": [
+		{
+			"age": -1,
+			"alternativeNames": [
+				"Jokowi"
+			],
+			"birthday": null,
+			"descriptiveTexts": [
+				{
+					"text": "The man who set out to fulfill the dream of a new city and turned it into a real project is named Joko Widodo, known as Jokowi, the current president of Indonesia and former mayor of Jakarta."
+				},
+				{
+					"text": "In 2019, he announced that construction on the new capital was commencing and the government would ultimately be moving."
+				},
+				{
+					"text": "The new capital will be located on the island of Borneo, he promised, 1,300 kilometers from Jakarta."
+				},
+				{
+					"text": "»We want to build a new Indonesia,« Jokowi said in his announcement many years ago."
+				},
+				{
+					"text": "A city that seems a lot like a monument to an outgoing president."
+				},
+				{
+					"text": "The Nusantara project is difficult to separate from Joko Widodo's final days in office."
+				},
+				{
+					"text": "He became well known as the »infrastructure president« for the many roads, ports and rail projects he has built during his tenure, and he is generally well-liked by the populace."
+				},
+				{
+					"text": "His entire second term has ultimately been consumed by pushing forward the construction of the new capital, with the project even anchored in Indonesian law."
+				},
+				{
+					"text": "But Widodo continues to hold fast to his goal."
+				},
+				{
+					"text": "Indeed, the plan calls for the first ministries to move to the city this year and for the government palace to be inaugurated – in precisely the same year that Widodo will be leaving the presidency behind."
+				},
+				{
+					"text": "Indonesian voters went to the polls this week to elect a new president, with Widodo unable to run for a third stint in office due to term limitation laws."
+				},
+				{
+					"text": "Was he hoping that the new capital would be a kind of monument to his leadership?"
+				},
+				{
+					"text": "Once Jakowi is gone, nobody can be sure that his successor will pursue the project."
+				},
+				{
+					"text": "Just how important the Nusantara project is for Joko Widodo can be seen in a deal he made with a former political rival, Prabowo Subianto, who lost two previous elections against Jokowi."
+				},
+				{
+					"text": "In the hopes of just that result, Jokowi placed his eldest son Gibran Rakabuming, at his side as the vice-presidential candidate."
+				},
+				{
+					"text": "But for Joko Widobo, he is the one who has guaranteed the completion of his legacy."
+				},
+				{
+					"text": "Critics of outgoing President Widodo are worried that the megaproject is simply too great of a financial burden for Indonesia."
+				},
+				{
+					"text": "What is relatively certain, however, is that the palace will be sufficiently complete that Joko Widodo can move in."
+				},
+				{
+					"text": "His current term only ends in the autumn."
+				},
+				{
+					"text": "He will have a few weeks to lead his country from his new office in Nusantara."
+				}
+			],
+			"directQuotes": [
+				{
+					"text": "We want to build a new Indonesia,"
+				},
+				{
+					"text": "Indonesia is more than just Jakarta."
+				}
+			],
+			"inIntro": false,
+			"inTitle": false,
+			"indirectQuotes": [
+				{
+					"text": "In 2019, he announced that construction on the new capital was commencing and the government would ultimately be moving."
+				},
+				{
+					"text": "The new capital will be located on the island of Borneo, he promised, 1,300 kilometers from Jakarta."
+				}
+			],
+			"isMain": true,
+			"name": "Joko Widodo",
+			"occupations": [
+				{
+					"text": "current president of Indonesia"
+				},
+				{
+					"text": "former mayor of Jakarta"
+				}
+			],
+			"occurrences": {
+				"firstNameOnly": 0,
+				"fullName": 5,
+				"lastNameOnly": 4,
+				"total": 9
+			},
+			"quotedInIntro": false,
+			"quotedInTitle": false,
+			"sex": "male"
+		},
+		{
+			"age": -1,
+			"alternativeNames": [],
+			"birthday": null,
+			"descriptiveTexts": [
+				{
+					"text": "Rostati is also here, along with her family."
+				},
+				{
+					"text": "She is from the area and says: »I'm pretty proud that the new city is being built here. But it's impossible to finish it within five years.«"
+				}
+			],
+			"directQuotes": [
+				{
+					"text": "I'm pretty proud that the new city is being built here. But it's impossible to finish it within five years."
+				}
+			],
+			"inIntro": false,
+			"inTitle": false,
+			"indirectQuotes": [],
+			"isMain": false,
+			"name": "Rostati",
+			"occupations": [],
+			"occurrences": {
+				"firstNameOnly": 1,
+				"fullName": 0,
+				"lastNameOnly": 0,
+				"total": 1
+			},
+			"quotedInIntro": false,
+			"quotedInTitle": false,
+			"sex": "female"
+		},
+		{
+			"age": -1,
+			"alternativeNames": [],
+			"birthday": null,
+			"descriptiveTexts": [
+				{
+					"text": "A man in a green shirt strides rapidly past the gathered tourists: Agung Wicaksono, the deputy for funding and investment."
+				},
+				{
+					"text": "It is his job to secure investments for the new city."
+				},
+				{
+					"text": "Wicaksono received the call from the government – »from the very top,« as he says – just over a year ago."
+				},
+				{
+					"text": "He was told that he was badly needed."
+				},
+				{
+					"text": "He says he is »just a salesman,« but he is also perhaps the most important person engaged in the project."
+				},
+				{
+					"text": "On this morning in early February, Wicaksono has an investor from the U.S. in tow, a representative from a company in New York wearing mirrored sunglasses."
+				},
+				{
+					"text": "Wicaksono refers to them as »the pioneers.«"
+				},
+				{
+					"text": "Wicaksono is doing his best to convince the CEOs of large companies in both Indonesia and abroad, but it has been slow going."
+				},
+				{
+					"text": "Wicaksono hopes that the city ultimately becomes one that everybody loves."
+				}
+			],
+			"directQuotes": [
+				{
+					"text": "from the very top,"
+				},
+				{
+					"text": "just a salesman,"
+				},
+				{
+					"text": "the pioneers."
+				}
+			],
+			"inIntro": false,
+			"inTitle": false,
+			"indirectQuotes": [
+				{
+					"text": "Wicaksono hopes that the city ultimately becomes one that everybody loves."
+				}
+			],
+			"isMain": false,
+			"name": "Agung Wicaksono",
+			"occupations": [
+				{
+					"text": "deputy for funding and investment"
+				}
+			],
+			"occurrences": {
+				"firstNameOnly": 0,
+				"fullName": 1,
+				"lastNameOnly": 5,
+				"total": 6
+			},
+			"quotedInIntro": false,
+			"quotedInTitle": false,
+			"sex": "male"
+		},
+		{
+			"age": -1,
+			"alternativeNames": [],
+			"birthday": null,
+			"descriptiveTexts": [
+				{
+					"text": "Just how important the Nusantara project is for Joko Widodo can be seen in a deal he made with a former political rival, Prabowo Subianto, who lost two previous elections against Jokowi."
+				},
+				{
+					"text": "Prior to Wednesday's election, he was widely considered a frontrunner, and with the first results now in, it appears that he has secured enough of the vote to avoid a runoff."
+				},
+				{
+					"text": "But also because Prabowo, a former military general, has been accused of serious human rights violations committed during the Suharto regime in East Timor and while putting down protests against the Indonesian government in May 1998."
+				},
+				{
+					"text": "For critics, Prabowo is a criminal who must be brought to justice."
+				},
+				{
+					"text": "But for Joko Widobo, he is the one who has guaranteed the completion of his legacy."
+				}
+			],
+			"directQuotes": [],
+			"inIntro": false,
+			"inTitle": false,
+			"indirectQuotes": [],
+			"isMain": false,
+			"name": "Prabowo Subianto",
+			"occupations": [
+				{
+					"text": "former political rival"
+				},
+				{
+					"text": "former military general"
+				}
+			],
+			"occurrences": {
+				"firstNameOnly": 2,
+				"fullName": 1,
+				"lastNameOnly": 0,
+				"total": 3
+			},
+			"quotedInIntro": false,
+			"quotedInTitle": false,
+			"sex": "male"
+		},
+		{
+			"age": -1,
+			"alternativeNames": [],
+			"birthday": null,
+			"descriptiveTexts": [
+				{
+					"text": "In the hopes of just that result, Jokowi placed his eldest son Gibran Rakabuming, at his side as the vice-presidential candidate."
+				}
+			],
+			"directQuotes": [],
+			"inIntro": false,
+			"inTitle": false,
+			"indirectQuotes": [],
+			"isMain": false,
+			"name": "Gibran Rakabuming",
+			"occupations": [
+				{
+					"text": "vice-presidential candidate"
+				}
+			],
+			"occurrences": {
+				"firstNameOnly": 0,
+				"fullName": 1,
+				"lastNameOnly": 0,
+				"total": 1
+			},
+			"quotedInIntro": false,
+			"quotedInTitle": false,
+			"sex": "male"
+		},
+		{
+			"age": 49,
+			"alternativeNames": [],
+			"birthday": null,
+			"descriptiveTexts": [
+				{
+					"text": "Syamsiah, a 49-year-old in a pale orange headscarf, says: »If they really try to drive us away, then they'll have to bury me here. I am not leaving. This is my land.«"
+				},
+				{
+					"text": "She is sitting in the backyard of her house in the village of Sepaku, not far from the Nusantara construction site."
+				},
+				{
+					"text": "Syamsiah and her husband live with their six children in a wooden house on a small plot of land."
+				},
+				{
+					"text": "They used to plant rice, but now, the plot is frequently flooded."
+				},
+				{
+					"text": "»Everything here is being ruined,« says Syamsiah."
+				},
+				{
+					"text": "Syamsiah says that politicians have visited the village and tried to convince the residents to move away."
+				},
+				{
+					"text": "»If we go, we'll have to start over at zero,« says Syamsiah."
+				},
+				{
+					"text": "Syamsiah and the others belong to the Balik People, the local ethnicity."
+				},
+				{
+					"text": "Their ancestors are buried here and there are many spots of spiritual importance."
+				},
+				{
+					"text": "»We get nothing while the new residents of Nusantara get everything,« says Syamsiah."
+				}
+			],
+			"directQuotes": [
+				{
+					"text": "If they really try to drive us away, then they'll have to bury me here. I am not leaving. This is my land."
+				},
+				{
+					"text": "Everything here is being ruined,"
+				},
+				{
+					"text": "If we go, we'll have to start over at zero,"
+				},
+				{
+					"text": "We get nothing while the new residents of Nusantara get everything,"
+				}
+			],
+			"inIntro": false,
+			"inTitle": false,
+			"indirectQuotes": [
+				{
+					"text": "Syamsiah says that politicians have visited the village and tried to convince the residents to move away."
+				}
+			],
+			"isMain": false,
+			"name": "Syamsiah",
+			"occupations": [],
+			"occurrences": {
+				"firstNameOnly": 7,
+				"fullName": 0,
+				"lastNameOnly": 0,
+				"total": 7
+			},
+			"quotedInIntro": false,
+			"quotedInTitle": false,
+			"sex": "female"
+		},
+		{
+			"age": -1,
+			"alternativeNames": [],
+			"birthday": null,
+			"descriptiveTexts": [
+				{
+					"text": "Sibarani Sofian is the architect of Nusantara."
+				},
+				{
+					"text": "The walls of his office in Jakarta are plastered with drawings of building designs, promenades, bridges and roads."
+				},
+				{
+					"text": "Sibarani says that he has trouble thinking about anything other than the new capital and that he has taken a close look at what has gone wrong in other planned cities."
+				},
+				{
+					"text": "Sibarani won the tender for the project in 2019, one of almost 700 architects who took part in the competition."
+				},
+				{
+					"text": "He had between six and eight weeks to draw the plans."
+				},
+				{
+					"text": "And the architect had nothing to do with several ideas, such as building the palace in the shape of an eagle."
+				},
+				{
+					"text": "He would have preferred a far more modest design."
+				},
+				{
+					"text": "The city's topography is complicated, says Sibarani, a number of hills, lots of inclines and slopes."
+				},
+				{
+					"text": "The challenge, he says, is to plan a city today that people will still like in two, three or four decades."
+				},
+				{
+					"text": "»The baby boomers are making the decisions today, but those who will ultimately live in the city are Gen Z or even younger,« Sibarani says."
+				},
+				{
+					"text": "For them, he says, the issue of public transportation is important."
+				},
+				{
+					"text": "That is more than in both Tokyo and Singapore, he says."
+				},
+				{
+					"text": "»If we adhere to the plans,« says Sibarani, the architect, »then such criticism is misplaced.«"
+				},
+				{
+					"text": "Still, as attractive as the idea of such a city might be, Sibarani is fully aware of just how quickly plans can be changed."
+				},
+				{
+					"text": "But even Sibarani, the city's designer, is uncertain if he would ever want to move his office to Nusantara."
+				},
+				{
+					"text": "He also doesn't know if the heart of Indonesia will ever beat anywhere other than in Jakarta."
+				}
+			],
+			"directQuotes": [
+				{
+					"text": "The baby boomers are making the decisions today, but those who will ultimately live in the city are Gen Z or even younger,"
+				},
+				{
+					"text": "If we adhere to the plans,"
+				},
+				{
+					"text": "then such criticism is misplaced."
+				}
+			],
+			"inIntro": false,
+			"inTitle": false,
+			"indirectQuotes": [
+				{
+					"text": "Sibarani says that he has trouble thinking about anything other than the new capital and that he has taken a close look at what has gone wrong in other planned cities."
+				},
+				{
+					"text": "The city's topography is complicated, says Sibarani, a number of hills, lots of inclines and slopes."
+				},
+				{
+					"text": "The challenge, he says, is to plan a city today that people will still like in two, three or four decades."
+				},
+				{
+					"text": "For them, he says, the issue of public transportation is important."
+				},
+				{
+					"text": "That is more than in both Tokyo and Singapore, he says."
+				}
+			],
+			"isMain": false,
+			"name": "Sibarani Sofian",
+			"occupations": [
+				{
+					"text": "architect of Nusantara"
+				}
+			],
+			"occurrences": {
+				"firstNameOnly": 7,
+				"fullName": 1,
+				"lastNameOnly": 0,
+				"total": 8
+			},
+			"quotedInIntro": false,
+			"quotedInTitle": false,
+			"sex": "male"
+		},
+		{
+			"age": -1,
+			"alternativeNames": [],
+			"birthday": null,
+			"descriptiveTexts": [
+				{
+					"text": "In Egypt, President Abdel Fattah el-Sisi has been working on a city called New Cairo for the last decade."
+				}
+			],
+			"directQuotes": [],
+			"inIntro": false,
+			"inTitle": false,
+			"indirectQuotes": [],
+			"isMain": false,
+			"name": "Abdel Fattah el-Sisi",
+			"occupations": [
+				{
+					"text": "President"
+				}
+			],
+			"occurrences": {
+				"firstNameOnly": 0,
+				"fullName": 1,
+				"lastNameOnly": 0,
+				"total": 1
+			},
+			"quotedInIntro": false,
+			"quotedInTitle": false,
+			"sex": "male"
+		}
+	],
+	"subtopics": [
+		"Nusantara",
+		"Stadtplanung",
+		"Hauptstadtumsiedlung",
+		"Joko Widodo",
+		"Investition"
+	]
+}

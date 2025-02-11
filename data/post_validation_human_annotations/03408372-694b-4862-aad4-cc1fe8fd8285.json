@@ -1,0 +1,476 @@
+{
+	"persons": [
+		{
+			"age": -1,
+			"alternativeNames": [],
+			"birthday": null,
+			"descriptiveTexts": [
+				{
+					"text": "Drogerieunternehmer Dirk Roßmann gehört zu den reichsten Deutschen."
+				},
+				{
+					"text": "Arm aufgewachsen, arbeitete er sich ganz nach oben."
+				},
+				{
+					"text": "Heute ist er einer der wenigen, die offen darüber sprechen, wie es sich mit richtig viel Geld lebt."
+				},
+				{
+					"text": "manager magazin: Herr Roßmann, Sie sind Multimilliardär."
+				},
+				{
+					"text": "Dirk Roßmann: Ja."
+				},
+				{
+					"text": "Verraten Sie es uns?"
+				},
+				{
+					"text": "Damit meine ich: Man sollte lernen, wie wirtschaftliche Zusammenhänge funktionieren."
+				},
+				{
+					"text": "Im Laufe eines Lebens entwickelt sich die eigene Persönlichkeit – und ich kann nur sagen: Sorgen Sie dafür, dass sich auch Ihr Vermögen entwickelt."
+				},
+				{
+					"text": "Ich habe nicht gesagt, dass es einfach ist."
+				},
+				{
+					"text": "Und damit meine ich gar nicht ein materielles Erbe."
+				},
+				{
+					"text": "Sie selbst wuchsen im Hannover der Nachkriegszeit auf."
+				},
+				{
+					"text": "Nach dem frühen Tod Ihres Vaters – der, wie Sie erst später erfuhren, gar nicht Ihr leiblicher war – musste ihre Mutter alles verkaufen, um die Drogerie zu retten und die Familie durchzubringen."
+				},
+				{
+					"text": "Sie haben einmal gesagt: 'Wir waren bettelarm, lebten in allerkleinsten Verhältnissen'."
+				},
+				{
+					"text": "Denken Sie: Wenn ich es schaffen konnte, kann es jeder?"
+				},
+				{
+					"text": "Wir hatten damals wirklich nicht viel Geld."
+				},
+				{
+					"text": "Aber ich hatte trotzdem eine gute Basis."
+				},
+				{
+					"text": "Bei uns standen Goethe und Schopenhauer im Regal."
+				},
+				{
+					"text": "Meine Großeltern mütterlicherseits waren wohlhabende Leute, sie führten Anfang des 20. Jahrhunderts das größte Pelzgeschäft in Hannover."
+				},
+				{
+					"text": "Väterlicherseits eröffnete mein Großvater Rudolf Roßmann 1909 eine Drogerie, die im Zweiten Weltkrieg jedoch bei einem Bombenangriff völlig zerstört wurde."
+				},
+				{
+					"text": "Meine Eltern starteten dann 1947 noch mal ganz von vorne, mit einem deutlich kleineren Geschäft."
+				},
+				{
+					"text": "Während Ihr älterer Bruder studierte, haben Sie den Hauptschulabschluss gemacht und begannen eine Drogerielehre."
+				},
+				{
+					"text": "Ihr erstes selbst verdientes Geld war eigentlich Schwarzgeld."
+				},
+				{
+					"text": "Ja, da war ich zwölf Jahre alt."
+				},
+				{
+					"text": "Und Sie können sicher sein, das war das letzte Mal, dass ich etwas nicht versteuert habe."
+				},
+				{
+					"text": "Damals wusste ich es noch nicht besser."
+				},
+				{
+					"text": "Ich habe Drogerieartikel verkauft und mit dem Rad ausgeliefert."
+				},
+				{
+					"text": "Die Waren hatte ich von meiner Mutter, die mir alles zehn Prozent billiger verkauft hat als im Laden."
+				},
+				{
+					"text": "Mit der Marge habe ich mehrere Tausend Mark verdient."
+				},
+				{
+					"text": "Mit 16 habe ich mir davon eine Eigentumswohnung gekauft."
+				},
+				{
+					"text": "Wie erklären Sie sich die Tatsache, dass Armut oft über Generationen vererbt wird?"
+				},
+				{
+					"text": "Wir haben getan, was wir tun mussten, um zu überleben."
+				},
+				{
+					"text": "Das hat mich sehr geprägt."
+				},
+				{
+					"text": "Und ich habe in meinem Leben viele Menschen getroffen, die mit Nichts gestartet sind und viel erreicht haben."
+				},
+				{
+					"text": "Allein in meiner Firma kann ich Ihnen zig Mitarbeiterinnen und Mitarbeiter nennen, auf die das zutrifft."
+				},
+				{
+					"text": "Sie wollten anscheinend schon immer nach oben."
+				},
+				{
+					"text": "Wenn ich wüsste, woher intrinsische Motivation kommt, dann wäre ich ein Hellseher."
+				},
+				{
+					"text": "Ich hatte in meinem Leben ein paar richtig gute Ideen zur richtigen Zeit, und ich interessiere mich für Menschen."
+				},
+				{
+					"text": "Das alles hat zu meinem geschäftlichen Erfolg beigetragen."
+				},
+				{
+					"text": "Ich bin halt nicht so schlau."
+				},
+				{
+					"text": "Aber ich glaube, jeder muss das finden, worin er gut ist."
+				},
+				{
+					"text": "Von vielen jungen Leuten höre ich, wie wichtig es ihnen ist, dass ihnen ihr Job Spaß bringt."
+				},
+				{
+					"text": "Ich halte das, Entschuldigung, für ausgemachten Blödsinn."
+				},
+				{
+					"text": "Das ist der Grund, warum es so viele unglückliche, schlecht bezahlte Schauspieler gibt, aber wir alle wochenlang auf den Installateur warten müssen."
+				},
+				{
+					"text": "Was macht Ihnen Spaß?"
+				},
+				{
+					"text": "Für welchen Luxus geben Sie viel Geld aus?"
+				},
+				{
+					"text": "Ich kenne Leute, die ich persönlich eigentlich sehr sympathisch finde, die haben überall auf der Welt Häuser, ein Chalet in den Bergen oder eine Villa am Meer."
+				},
+				{
+					"text": "So etwas haben und brauchen wir nicht."
+				},
+				{
+					"text": "Meine Frau sagt immer: Das macht nur zusätzliche Arbeit."
+				},
+				{
+					"text": "Was bereitet Ihnen noch Freude?"
+				},
+				{
+					"text": "Ich interessiere mich sehr für Menschen – und in meinem Herzen bin ich wahrscheinlich immer noch der kleine Junge, der in Bombentrichtern spielte und der über sein heutiges Leben staunen kann."
+				},
+				{
+					"text": "Ich wollte immer dazugehören."
+				},
+				{
+					"text": "Um auf Ihre Frage zurückzukommen: Wenn ich heute irgendwo anrufe, kriege ich fast immer und mit fast jedem einen Termin."
+				},
+				{
+					"text": "Das war nicht immer so, und das finde ich ziemlich klasse."
+				},
+				{
+					"text": "Denn so lerne ich unglaublich spannende Menschen kennen."
+				},
+				{
+					"text": "Meinen Sie damit: andere reiche Leute?"
+				},
+				{
+					"text": "Ich erkläre mir das so: Wenn Sie beispielsweise in der Politik was werden wollen, müssen Sie clever auftreten, positiv in den Medien rüberkommen, Menschen für sich einnehmen können."
+				},
+				{
+					"text": "Viele Milliardäre, die ich kenne, sind extrem schüchtern, das sind zum Teil sehr introvertierte Menschen, die wollen nicht im Rampenlicht stehen."
+				},
+				{
+					"text": "Wie meinen Sie das?"
+				},
+				{
+					"text": "Wir kennen doch alle den Spruch: Geld allein macht nicht glücklich."
+				},
+				{
+					"text": "Ich kenne viele Menschen, die haben viel Geld, aber sie sind nicht glücklich."
+				},
+				{
+					"text": "Am Ende geht es nicht um die materiellen Dinge: Ich glaube, am glücklichsten ist man, wenn man einen Haufen Freunde hat, einen tollen Partner und gesunde Kinder."
+				},
+				{
+					"text": "Ich frage noch mal anders: In der Liste der reichsten Deutschen des manager magazins landeten Sie 2022 mit 3,7 Milliarden Euro auf Platz 56: Was bedeutet es Ihnen, so reich zu sein?"
+				},
+				{
+					"text": "Die Summe kommentiere ich nicht, und der Platz ist mir egal."
+				},
+				{
+					"text": "Verstehen Sie das nicht falsch, ich habe mich nie geärgert über diese Liste."
+				},
+				{
+					"text": "Ich weiß, dass ich richtig reich bin, ich hatte so verdammt viel Glück in meinem Leben, mitunter auch mehr, als ich verdient habe."
+				},
+				{
+					"text": "Dass ich stolz darauf bin, viele Steuern zu zahlen."
+				},
+				{
+					"text": "Und dass ich es großartig finde, heute anderen Menschen in Not helfen zu können."
+				},
+				{
+					"text": "Wie viel spenden Sie im Jahr?"
+				},
+				{
+					"text": "Menschen, die wenig haben und trotzdem etwas abgeben, sind weit großzügiger als ich."
+				},
+				{
+					"text": "Ich habe viel, und selbst wenn ich viel abgebe, habe ich hinterher immer noch viel."
+				},
+				{
+					"text": "Aber ich kann Ihnen versichern, ich verfolge auch da ehrgeizige Ziele."
+				},
+				{
+					"text": "Mehr will ich aber momentan noch nicht verraten."
+				},
+				{
+					"text": "Wir leben hier ein ziemlich normales Leben auf dem Land."
+				},
+				{
+					"text": "Wir haben zwar ein großes Haus und Leute, die uns im Haushalt helfen."
+				},
+				{
+					"text": "Meiner Frau und mir geht es vor allem um die Qualität von Beziehungen."
+				},
+				{
+					"text": "Ich kann mich mit der Schneiderin genauso großartig unterhalten wie mit einem Unternehmer."
+				},
+				{
+					"text": "Oder nehmen Sie meine Freunde, mit denen ich Skat und Tennis spiele."
+				},
+				{
+					"text": "Aber wir kennen und vertrauen uns alle schon seit Jahrzehnten."
+				},
+				{
+					"text": "Diese Menschen haben mit mir auch alle meine schlechten Zeiten durchlebt, als ich kurz davor stand, alles zu verlieren…"
+				},
+				{
+					"text": "...das war Mitte der Neunzigerjahre, als Sie und die Firma hoch verschuldet waren und Ihren eigenen Schilderungen zufolge kurz vor der Insolvenz standen."
+				},
+				{
+					"text": "Ich weiß, dass Sie gerne mit Aktien zocken."
+				},
+				{
+					"text": "Haben Sie keine Sorge, dass Sie all das, was Sie sich aufgebaut haben, durch einen Fehler auch wieder verlieren könnten?"
+				},
+				{
+					"text": "Nein, dazu bin ich viel zu vorsichtig, die Risiken sind überschaubar."
+				},
+				{
+					"text": "Selbst wenn es einen riesigen Börsencrash gäbe, würde ich vielleicht hundert Millionen verlieren, aber das würde mir privat nicht das Genick brechen."
+				},
+				{
+					"text": "Mein Sohn Raoul hat 2021 die Geschäftsführung übernommen, und der ist viel schlauer als ich."
+				},
+				{
+					"text": "Wir haben eine gute Eigenkapitalquote, keine Bankschulden."
+				},
+				{
+					"text": "Sie sind Anfang des Jahres zum fünften Mal Großvater geworden."
+				},
+				{
+					"text": "Wie erzieht man als Milliardär seine Kinder und Enkelkinder zu Bescheidenheit?"
+				},
+				{
+					"text": "Ich kann nur das vorleben, was ich für sinnvoll halte."
+				},
+				{
+					"text": "Wir alle können jeden Tag entscheiden, ob wir ein gutes oder schlechtes Vorbild sind."
+				},
+				{
+					"text": "Mir ist zum Beispiel wichtig, dass in meiner Familie Liebe, Empathie und Beständigkeit einen hohen Stellenwert haben."
+				},
+				{
+					"text": "Wenn ich sehe, dass manche ihren Kindern einen Porsche oder anderes dummes Zeug zum 18. Geburtstag schenken, kann ich nur den Kopf schütteln."
+				},
+				{
+					"text": "Und glauben Sie mir: Auch reiche Leute wollen geliebt werden."
+				}
+			],
+			"directQuotes": [
+				{
+					"text": "Ja. Es ist wichtig, dass man sich für Geld interessiert. Damit meine ich: Man sollte lernen, wie wirtschaftliche Zusammenhänge funktionieren. Reichtum fällt in der Regel nicht vom Himmel. Im Laufe eines Lebens entwickelt sich die eigene Persönlichkeit – und ich kann nur sagen: Sorgen Sie dafür, dass sich auch Ihr Vermögen entwickelt. Seien Sie ehrgeizig in diesem Punkt."
+				},
+				{
+					"text": "Ich habe nicht gesagt, dass es einfach ist. Sie müssen sich reinhängen. Natürlich hilft dabei ein gutes soziales Umfeld. Leider hat in Deutschland nicht jeder die gleichen Startchancen. Und damit meine ich gar nicht ein materielles Erbe. Ein Kind braucht Bildung, aber vor allem liebevolle Eltern, generell ein Umfeld, das ihm zugewandt ist, um sich gut entwickeln zu können. Und es gibt Schicksalsschläge, gegen die kommt der Stärkste nicht an."
+				},
+				{
+					"text": "Wir waren bettelarm, lebten in allerkleinsten Verhältnissen"
+				},
+				{
+					"text": "Wir hatten damals wirklich nicht viel Geld. Aber ich hatte trotzdem eine gute Basis. Bei uns standen Goethe und Schopenhauer im Regal. Meine Großeltern mütterlicherseits waren wohlhabende Leute, sie führten Anfang des 20. Jahrhunderts das größte Pelzgeschäft in Hannover. Väterlicherseits eröffnete mein Großvater Rudolf Roßmann 1909 eine Drogerie, die im Zweiten Weltkrieg jedoch bei einem Bombenangriff völlig zerstört wurde. Meine Eltern starteten dann 1947 noch mal ganz von vorne, mit einem deutlich kleineren Geschäft."
+				},
+				{
+					"text": "Ja, da war ich zwölf Jahre alt. Und Sie können sicher sein, das war das letzte Mal, dass ich etwas nicht versteuert habe. Damals wusste ich es noch nicht besser. Ich habe Drogerieartikel verkauft und mit dem Rad ausgeliefert. Die Waren hatte ich von meiner Mutter, die mir alles zehn Prozent billiger verkauft hat als im Laden. Mit der Marge habe ich mehrere Tausend Mark verdient. Mit 16 habe ich mir davon eine Eigentumswohnung gekauft."
+				},
+				{
+					"text": "Damals in den Fünfzigerjahren wurde nicht gefragt, wie viel staatliche Hilfe man wo bekommen könnte. Wir haben getan, was wir tun mussten, um zu überleben. Es stand allein die eigene Leistung im Fokus. Das hat mich sehr geprägt. Und ich habe in meinem Leben viele Menschen getroffen, die mit Nichts gestartet sind und viel erreicht haben. Allein in meiner Firma kann ich Ihnen zig Mitarbeiterinnen und Mitarbeiter nennen, auf die das zutrifft. Sie haben hier als Auszubildende angefangen und sich hochgearbeitet, heute haben sie eine leitende Position im Unternehmen, ein eigenes Haus gebaut, die Welt bereist. Die Gesellschaft ist nicht gerecht. Aber sich nur darüber zu beklagen bringt einen nicht weiter. Man muss sich Ziele setzen. Dass man im Leben etwas erreicht, was man gar nicht will, das kommt selten vor."
+				},
+				{
+					"text": "Wenn ich wüsste, woher intrinsische Motivation kommt, dann wäre ich ein Hellseher. Ich hatte in meinem Leben ein paar richtig gute Ideen zur richtigen Zeit, und ich interessiere mich für Menschen. Das alles hat zu meinem geschäftlichen Erfolg beigetragen."
+				},
+				{
+					"text": "Ich bin halt nicht so schlau. Aber ich glaube, jeder muss das finden, worin er gut ist. Und das ist mitunter nicht die Sache, die einem am meisten Spaß macht. Von vielen jungen Leuten höre ich, wie wichtig es ihnen ist, dass ihnen ihr Job Spaß bringt. Ich halte das, Entschuldigung, für ausgemachten Blödsinn. Das ist der Grund, warum es so viele unglückliche, schlecht bezahlte Schauspieler gibt, aber wir alle wochenlang auf den Installateur warten müssen. Warum absolviert jemand, der etwas erreichen will, nicht eine solide Ausbildung, macht seinen Meister und sich dann selbstständig? Der verdient schneller 150.000 Euro im Jahr, als er gucken kann. Sie müssen schon reich werden wollen. Und keine Sorge: Wenn Sie genug Geld verdienen, kommt der Spaß schon von allein."
+				},
+				{
+					"text": "Für richtig gute Hotels. Ich kenne Leute, die ich persönlich eigentlich sehr sympathisch finde, die haben überall auf der Welt Häuser, ein Chalet in den Bergen oder eine Villa am Meer. So etwas haben und brauchen wir nicht. Meine Frau sagt immer: Das macht nur zusätzliche Arbeit."
+				},
+				{
+					"text": "Ich interessiere mich sehr für Menschen – und in meinem Herzen bin ich wahrscheinlich immer noch der kleine Junge, der in Bombentrichtern spielte und der über sein heutiges Leben staunen kann. Ich wollte immer dazugehören. Um auf Ihre Frage zurückzukommen: Wenn ich heute irgendwo anrufe, kriege ich fast immer und mit fast jedem einen Termin. Das war nicht immer so, und das finde ich ziemlich klasse. Denn so lerne ich unglaublich spannende Menschen kennen."
+				},
+				{
+					"text": "Nein. Es gibt ja auch unfassbar langweilige Reiche. Ich erkläre mir das so: Wenn Sie beispielsweise in der Politik was werden wollen, müssen Sie clever auftreten, positiv in den Medien rüberkommen, Menschen für sich einnehmen können. In der Wirtschaft braucht es andere Qualitäten. Viele Milliardäre, die ich kenne, sind extrem schüchtern, das sind zum Teil sehr introvertierte Menschen, die wollen nicht im Rampenlicht stehen. Manche sind depressiv, haben Ängste, Sorge vor Entführungen. Das Leben ist manchmal auch für reiche Menschen schwer."
+				},
+				{
+					"text": "Alles. Und nichts. Das kommt auf die Persönlichkeit an."
+				},
+				{
+					"text": "Wir kennen doch alle den Spruch: Geld allein macht nicht glücklich. Das stimmt. Ich kenne viele Menschen, die haben viel Geld, aber sie sind nicht glücklich. Am Ende geht es nicht um die materiellen Dinge: Ich glaube, am glücklichsten ist man, wenn man einen Haufen Freunde hat, einen tollen Partner und gesunde Kinder."
+				},
+				{
+					"text": "Die Summe kommentiere ich nicht, und der Platz ist mir egal. Verstehen Sie das nicht falsch, ich habe mich nie geärgert über diese Liste. Sie bildet die Wirklichkeit ab: Es gibt reiche und es gibt arme Menschen in diesem Land. Ich weiß, dass ich richtig reich bin, ich hatte so verdammt viel Glück in meinem Leben, mitunter auch mehr, als ich verdient habe. Aber daraus muss man was machen, das bringt Verantwortung mit sich."
+				},
+				{
+					"text": "Dass ich stolz darauf bin, viele Steuern zu zahlen. Und dass ich es großartig finde, heute anderen Menschen in Not helfen zu können."
+				},
+				{
+					"text": "Einen zweistelligen Millionenbetrag."
+				},
+				{
+					"text": "Menschen, die wenig haben und trotzdem etwas abgeben, sind weit großzügiger als ich. Ich habe viel, und selbst wenn ich viel abgebe, habe ich hinterher immer noch viel. Aber ich kann Ihnen versichern, ich verfolge auch da ehrgeizige Ziele. Mehr will ich aber momentan noch nicht verraten."
+				},
+				{
+					"text": "Wir leben hier ein ziemlich normales Leben auf dem Land. Wir haben zwar ein großes Haus und Leute, die uns im Haushalt helfen. Aber das ist kein Leben wie in der Bunten. Meiner Frau und mir geht es vor allem um die Qualität von Beziehungen. Der Kontostand spielt da keine Rolle. Ich kann mich mit der Schneiderin genauso großartig unterhalten wie mit einem Unternehmer. Oder nehmen Sie meine Freunde, mit denen ich Skat und Tennis spiele. Manche davon, wie zum Beispiel Martin Kind, sind auch vermögend. Andere haben ganz normale Jobs. Aber wir kennen und vertrauen uns alle schon seit Jahrzehnten. Diese Menschen haben mit mir auch alle meine schlechten Zeiten durchlebt, als ich kurz davor stand, alles zu verlieren…"
+				},
+				{
+					"text": "Nein, dazu bin ich viel zu vorsichtig, die Risiken sind überschaubar. Selbst wenn es einen riesigen Börsencrash gäbe, würde ich vielleicht hundert Millionen verlieren, aber das würde mir privat nicht das Genick brechen. Außerdem: Wichtig ist vor allem, dass die Firma auf sicheren Beinen steht, denn daran hängen Tausende Arbeitsplätze. Mein Sohn Raoul hat 2021 die Geschäftsführung übernommen, und der ist viel schlauer als ich. Wir haben eine gute Eigenkapitalquote, keine Bankschulden. Es war ein guter Zeitpunkt, die Verantwortung zu übergeben."
+				},
+				{
+					"text": "Ich kann nur das vorleben, was ich für sinnvoll halte. Wir alle können jeden Tag entscheiden, ob wir ein gutes oder schlechtes Vorbild sind. Mir ist zum Beispiel wichtig, dass in meiner Familie Liebe, Empathie und Beständigkeit einen hohen Stellenwert haben. Wenn ich sehe, dass manche ihren Kindern einen Porsche oder anderes dummes Zeug zum 18. Geburtstag schenken, kann ich nur den Kopf schütteln. Wer solche fundamentalen Fehler macht, der muss sich auch als Reicher nicht wundern, wenn er nicht geliebt wird. Und glauben Sie mir: Auch reiche Leute wollen geliebt werden."
+				}
+			],
+			"inIntro": true,
+			"inTitle": false,
+			"indirectQuotes": [],
+			"isMain": true,
+			"name": "Dirk Roßmann",
+			"occupations": [
+				{
+					"text": "Drogerieunternehmer"
+				},
+				{
+					"text": "Multimilliardär"
+				}
+			],
+			"occurrences": {
+				"firstNameOnly": 0,
+				"fullName": 2,
+				"lastNameOnly": 1,
+				"total": 3
+			},
+			"quotedInIntro": false,
+			"quotedInTitle": true,
+			"sex": "male"
+		},
+		{
+			"age": -1,
+			"alternativeNames": [],
+			"birthday": null,
+			"descriptiveTexts": [
+				{
+					"text": "Väterlicherseits eröffnete mein Großvater Rudolf Roßmann 1909 eine Drogerie, die im Zweiten Weltkrieg jedoch bei einem Bombenangriff völlig zerstört wurde."
+				}
+			],
+			"directQuotes": [],
+			"inIntro": false,
+			"inTitle": false,
+			"indirectQuotes": [],
+			"isMain": false,
+			"name": "Rudolf Roßmann",
+			"occupations": [
+				{
+					"text": "Großvater"
+				}
+			],
+			"occurrences": {
+				"firstNameOnly": 0,
+				"fullName": 1,
+				"lastNameOnly": 0,
+				"total": 1
+			},
+			"quotedInIntro": false,
+			"quotedInTitle": false,
+			"sex": "male"
+		},
+		{
+			"age": -1,
+			"alternativeNames": [],
+			"birthday": null,
+			"descriptiveTexts": [
+				{
+					"text": "Manche davon, wie zum Beispiel Martin Kind, sind auch vermögend."
+				}
+			],
+			"directQuotes": [],
+			"inIntro": false,
+			"inTitle": false,
+			"indirectQuotes": [],
+			"isMain": false,
+			"name": "Martin Kind",
+			"occupations": [
+				{
+					"text": "Freunde"
+				}
+			],
+			"occurrences": {
+				"firstNameOnly": 0,
+				"fullName": 1,
+				"lastNameOnly": 0,
+				"total": 1
+			},
+			"quotedInIntro": false,
+			"quotedInTitle": false,
+			"sex": "male"
+		},
+		{
+			"age": -1,
+			"alternativeNames": [],
+			"birthday": null,
+			"descriptiveTexts": [
+				{
+					"text": "Mein Sohn Raoul hat 2021 die Geschäftsführung übernommen, und der ist viel schlauer als ich."
+				},
+				{
+					"text": "Wir haben eine gute Eigenkapitalquote, keine Bankschulden."
+				}
+			],
+			"directQuotes": [],
+			"inIntro": false,
+			"inTitle": false,
+			"indirectQuotes": [],
+			"isMain": false,
+			"name": "Raoul",
+			"occupations": [
+				{
+					"text": "Sohn"
+				},
+				{
+					"text": "Geschäftsführung"
+				}
+			],
+			"occurrences": {
+				"firstNameOnly": 1,
+				"fullName": 0,
+				"lastNameOnly": 0,
+				"total": 1
+			},
+			"quotedInIntro": false,
+			"quotedInTitle": false,
+			"sex": "male"
+		}
+	],
+	"subtopics": [
+		"Reichtum",
+		"Armut",
+		"Sozialungleichheit",
+		"Eigenverantwortung"
+	]
+}

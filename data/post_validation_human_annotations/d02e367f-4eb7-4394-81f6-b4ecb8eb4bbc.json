@@ -1,0 +1,398 @@
+{
+  "persons": [
+    {
+      "age": 62, 
+      "alternativeNames": [],
+      "birthday": null,
+      "descriptiveTexts": [
+        {
+          "text": "Vorstandschef Frank Göring meldet nun doch noch Vollzug."
+        },
+        {
+          "text": "Nun hat er also doch noch die größte Übernahme der Unternehmensgeschichte perfekt gemacht."
+        },
+        {
+          "text": "'Wir werden den Markt fluten mit Armaturen aus dem Hause Villeroy & Boch, ich kann es kaum erwarten', frohlockte Frank Göring (62), der Vorstandschef der Familienfirma aus Mettlach im Saarland, am Montag."
+        },
+        {
+          "text": "Und mit einem Unterton diebischer Freude setzte er hinzu: 'Das wird lustig für alle.'"
+        },
+        {
+          "text": "Göring steht seit 26 Jahren in Diensten der weitverzweigten Familie, die bis heute die kompletten Stammaktien an Villeroy & Boch hält und das börsennotierte Unternehmen kontrolliert."
+        },
+        {
+          "text": "Seit gut 16 Jahren leitet er den traditionsreichen Porzellanhersteller als erstes Nichtfamilienmitglied."
+        },
+        {
+          "text": "Im März hatte er angekündigt, eigentlich zum Jahresende aufzuhören."
+        },
+        {
+          "text": "Nun will er womöglich doch weitermachen."
+        },
+        {
+          "text": "Der Deal, der die Unternehmersippe im ersten Anlauf vor drei Jahren fast zerlegt hätte, ist Görings letzter großer Tusch."
+        },
+        {
+            "text": "Mit dem Zukauf des belgischen Herstellers Ideal Standard, einem Anbieter von Badarmaturen und -keramik, übernimmt er einen kaum kleineren Konkurrenten."
+          },
+          {
+          "text": "Göring durfte dafür tief in die Familienkasse greifen: Die erwartete Kaufpreiszahlung bezifferte er auf 428 Millionen Euro."
+        },
+        {
+          "text": "Auch Vorstandschef Göring war dafür."
+        },
+        {
+          "text": "'Damals hat es ein bisschen geruckelt', räumt Göring heute ein."
+        },
+        {
+          "text": "Der CEO habe alle Hände voll zu tun gehabt, ausgleichend auf die rivalisierenden Gesellschafter einzuwirken, berichten Insider."
+        },
+        {
+          "text": "Schon im Laufe des Frühjahrs 2020 hätte man die Wogen aber glätten können und sei in die erste Verhandlungsrunde mit Ideal Standard gestartet, sagt Göring heute."
+        },
+        {
+          "text": "Zum Abbruch habe damals ein anderer Faktor geführt: 'Wir haben Muffensausen bekommen wegen Covid.'"
+        },
+        {
+          "text": "'Vergangenes Jahr, als alles wieder gut lief, haben wir gesagt, jetzt sprechen wir wieder miteinander', sagte Göring."
+        },
+        {
+          "text": "Dass sie es dieses Mal geheim halten konnten, freut ihn besonders."
+        },
+        {
+          "text": "Für Göring ist die Übernahme ein 'Meilenstein', es entstehe eine 'schlagkräftige Verbindung'."
+        },
+        {
+          "text": "Für Göring entscheidend: Das Armaturengeschäft, das Ideal Standard mitbringt und das Villeroy & Boch bis dato fehlt."
+        },
+        {
+          "text": "Im Vergleich zu 2022 sei ein um 35 Millionen Euro besseres operatives Ergebnis drin, hat Göring der Familie vorgerechnet."
+        },
+        {
+          "text": "Die Euphorie, die der Vorstandschef verbreitet, passt nicht zu jemandem, der in einem Vierteljahr abtreten will."
+        },
+        {
+          "text": "Göring relativiert: 'Die Integration will ich auf jeden Fall begleiten.'"
+        }
+      ],
+      "directQuotes": [
+        {
+          "text": "Wir werden den Markt fluten mit Armaturen aus dem Hause Villeroy & Boch, ich kann es kaum erwarten"
+        },
+        {
+          "text": "Das wird lustig für alle."
+        },
+        {
+          "text": "Damals hat es ein bisschen geruckelt"
+        },
+        {
+          "text": "Wir haben Muffensausen bekommen wegen Covid."
+        },
+        {
+          "text": "Vergangenes Jahr, als alles wieder gut lief, haben wir gesagt, jetzt sprechen wir wieder miteinander"
+        },
+        {
+          "text": "Meilenstein"
+        },
+        {
+          "text": "schlagkräftige Verbindung"
+        },
+        {
+          "text": "Die Integration will ich auf jeden Fall begleiten."
+        }
+      ],
+        "inIntro": true,
+      "inTitle": false,
+      "indirectQuotes": [
+        {
+          "text": "Schon im Laufe des Frühjahrs 2020 hätte man die Wogen aber glätten können und sei in die erste Verhandlungsrunde mit Ideal Standard gestartet, sagt Göring heute."
+        },
+        {
+          "text": "Zum Abbruch habe damals ein anderer Faktor geführt: 'Wir haben Muffensausen bekommen wegen Covid.'"
+        },
+        {
+          "text": "Niemand habe gewusst, was mit der Pandemie passiere."
+        },
+        {
+          "text": "Für Göring ist die Übernahme ein 'Meilenstein', es entstehe eine 'schlagkräftige Verbindung'."
+          },
+          {
+            "text": "Man schließe auch umsatzmäßig zu den größten Akteuren auf dem europäischen Markt auf."
+          },
+          {
+            "text": "Im Vergleich zu 2022 sei ein um 35 Millionen Euro besseres operatives Ergebnis drin, hat Göring der Familie vorgerechnet."
+        }
+      ],
+        "isMain": true,
+      "name": "Frank Göring",
+      "occupations": [
+        {
+          "text": "Vorstandschef der Familienfirma"
+        },
+        {
+          "text": "CEO"
+        }
+      ],
+      "occurences": {
+        "firstNameOnly": 0,
+        "fullName": 2,
+        "lastNameOnly": 11,
+        "total": 13
+      },
+      "quotedInIntro": false,
+      "quotedInTitle": false,
+      "sex": "male"
+    },
+    {
+      "age": 69, 
+      "alternativeNames": [],
+      "birthday": null,
+      "descriptiveTexts": [
+        {
+            "text": "Die Familiengesellschafter sehen die Zukunft im Angriff – und nicht im Verkauf wie zuletzt etwa die Familie Viessmann."
+          },
+          {
+          "text": "Als Ausweg wählten Vater Martin Viessmann (69) und Sohn Maximilian (34) den Exit: Sie verkauften den Großteil des deutschen Vorzeigemittelständlers an den US-Hersteller Carrier Global, was ihnen Milliarden einbrachte."
+        }
+      ],
+      "directQuotes": [],
+      "inIntro": false,
+      "inTitle": false,
+      "indirectQuotes": [],
+      "isMain": false,
+      "name": "Martin Viessmann",
+      "occupations": [],
+      "occurences": {
+        "firstNameOnly": 0,
+        "fullName": 1,
+          "lastNameOnly": 0,
+          "total": 1
+      },
+      "quotedInIntro": false,
+      "quotedInTitle": false,
+      "sex": "male"
+    },
+    {
+      "age": 34, 
+      "alternativeNames": [],
+      "birthday": null,
+      "descriptiveTexts": [
+        {
+            "text": "Die Familiengesellschafter sehen die Zukunft im Angriff – und nicht im Verkauf wie zuletzt etwa die Familie Viessmann."
+          },
+          {
+          "text": "Als Ausweg wählten Vater Martin Viessmann (69) und Sohn Maximilian (34) den Exit: Sie verkauften den Großteil des deutschen Vorzeigemittelständlers an den US-Hersteller Carrier Global, was ihnen Milliarden einbrachte."
+        }
+      ],
+      "directQuotes": [],
+      "inIntro": false,
+      "inTitle": false,
+      "indirectQuotes": [],
+      "isMain": false,
+      "name": "Maximilian",
+      "occupations": [],
+      "occurences": {
+        "firstNameOnly": 1,
+        "fullName": 0,
+        "lastNameOnly": 0,
+        "total": 1
+      },
+      "quotedInIntro": false,
+      "quotedInTitle": false,
+      "sex": "male"
+    },
+    {
+      "age": 87, 
+      "alternativeNames": [],
+      "birthday": null,
+      "descriptiveTexts": [
+        {
+          "text": "Zu ihnen zählten damals Luitwin von Boch-Galhau (87), einst selbst Vorstandschef, Großaktionär und bis zum April 2023 Ehrenmitglied im Aufsichtsrat der Firma."
+        },
+        {
+          "text": "Gegen den Kauf stemmten sich damals vor allem die jüngeren Erben, angeführt von Luitwins Sohn, dem damals größten Einzelaktionär Michel von Boch-Galhau (54)."
+        }
+      ],
+      "directQuotes": [],
+      "inIntro": false,
+      "inTitle": false,
+      "indirectQuotes": [],
+      "isMain": false,
+      "name": "Luitwin von Boch-Galhau",
+      "occupations": [
+        {
+          "text": "Vorstandschef"
+        },
+        {
+          "text": "Großaktionär"
+        },
+        {
+          "text": "Ehrenmitglied im Aufsichtsrat der Firma"
+        }
+      ],
+      "occurences": {
+          "firstNameOnly": 1,
+        "fullName": 1,
+        "lastNameOnly": 0,
+          "total": 2
+      },
+      "quotedInIntro": false,
+      "quotedInTitle": false,
+      "sex": "male"
+    },
+    {
+      "age": 54, 
+      "alternativeNames": [],
+      "birthday": null,
+      "descriptiveTexts": [
+        {
+          "text": "Gegen den Kauf stemmten sich damals vor allem die jüngeren Erben, angeführt von Luitwins Sohn, dem damals größten Einzelaktionär Michel von Boch-Galhau (54)."
+        }
+      ],
+      "directQuotes": [],
+      "inIntro": false,
+      "inTitle": false,
+      "indirectQuotes": [],
+      "isMain": false,
+      "name": "Michel von Boch-Galhau",
+      "occupations": [
+        {
+          "text": "Luitwins Sohn"
+        },
+        {
+          "text": "damals größten Einzelaktionär"
+        }
+      ],
+      "occurences": {
+        "firstNameOnly": 0,
+        "fullName": 1,
+        "lastNameOnly": 0,
+        "total": 1
+      },
+      "quotedInIntro": false,
+      "quotedInTitle": false,
+      "sex": "male"
+    },
+    {
+      "age": 65, 
+      "alternativeNames": [],
+      "birthday": null,
+      "descriptiveTexts": [
+        {
+          "text": "Im Zuge des Richtungsstreits warf der damalige Aufsichtsratschef Yves Elsen (65) entnervt hin, mit Alexander von Boch-Galhau (74) übernahm ein Familienmitglied."
+        }
+      ],
+      "directQuotes": [],
+      "inIntro": false,
+      "inTitle": false,
+      "indirectQuotes": [],
+      "isMain": false,
+      "name": "Yves Elsen",
+      "occupations": [
+        {
+          "text": "damalige Aufsichtsratschef"
+        }
+      ],
+      "occurences": {
+        "firstNameOnly": 0,
+        "fullName": 1,
+        "lastNameOnly": 0,
+        "total": 1
+      },
+      "quotedInIntro": false,
+      "quotedInTitle": false,
+      "sex": "male"
+    },
+    {
+      "age": 74, 
+      "alternativeNames": [],
+      "birthday": null,
+      "descriptiveTexts": [
+        {
+          "text": "Im Zuge des Richtungsstreits warf der damalige Aufsichtsratschef Yves Elsen (65) entnervt hin, mit Alexander von Boch-Galhau (74) übernahm ein Familienmitglied."
+        }
+      ],
+      "directQuotes": [],
+      "inIntro": false,
+      "inTitle": false,
+      "indirectQuotes": [],
+      "isMain": false,
+      "name": "Alexander von Boch-Galhau",
+      "occupations": [
+        {
+          "text": "Familienmitglied"
+        }
+      ],
+      "occurences": {
+        "firstNameOnly": 0,
+        "fullName": 1,
+        "lastNameOnly": 0,
+        "total": 1
+      },
+      "quotedInIntro": false,
+      "quotedInTitle": false,
+      "sex": "male"
+    },
+    {
+      "age": -1, 
+      "alternativeNames": [],
+      "birthday": null,
+      "descriptiveTexts": [
+        {
+          "text": "Inzwischen steht mit Andreas Schmid ein im Umgang mit vermögenden Familien erfahrener Schweizer an der Spitze des Aufsichtsrats."
+        }
+      ],
+      "directQuotes": [],
+      "inIntro": false,
+      "inTitle": false,
+      "indirectQuotes": [],
+      "isMain": false,
+      "name": "Andreas Schmid",
+      "occupations": [],
+      "occurences": {
+        "firstNameOnly": 0,
+        "fullName": 1,
+        "lastNameOnly": 0,
+        "total": 1
+      },
+      "quotedInIntro": false,
+      "quotedInTitle": false,
+      "sex": "male"
+    },
+    {
+        "age": -1,
+        "alternativeNames": [],
+        "birthday": null,
+        "descriptiveTexts": [
+          {
+            "text": "Und so kommt ausgerechnet im Jubiläumsjahr, im Jahr 275 nach Gründung durch den Keramikfabrikanten François Boch, der schon einmal anvisierte Deal zustande."
+          }
+        ],
+        "directQuotes": [],
+        "inIntro": false,
+        "inTitle": false,
+        "indirectQuotes": [],
+        "isMain": false,
+        "name": "François Boch",
+        "occupations": [
+          {
+            "text": "Keramikfabrikant"
+          }
+        ],
+        "occurrences": {
+          "firstNameOnly": 0,
+          "fullName": 1,
+          "lastNameOnly": 0,
+          "total": 1
+        },
+        "quotedInIntro": false,
+        "quotedInTitle": false,
+        "sex": "male"
+      }
+    
+  ],
+  "subtopics": [
+    "Familiendynastie", "Familienunternehmen", "Firmenübernahme", "Villeroy & Boch",
+      "Ideal Standard"
+  ]
+}

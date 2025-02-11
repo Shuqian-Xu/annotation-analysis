@@ -1,0 +1,1155 @@
+{
+    "persons": [
+        {
+            "name": "Amin Nasser",
+            "alternativeNames": [],
+            "age": -1,
+            "sex": "male",
+            "occurences": {
+                "total": 1,
+                "firstNameOnly": 0,
+                "lastNameOnly": 0,
+                "fullName": 1,
+                "nickname": 0
+            },
+            "inTitle": false,
+            "inIntro": false,
+            "_name": {
+                "firstname": "Amin",
+                "lastname": "Nasser",
+                "nickname": null,
+                "alternative_names": [],
+                "academic_title": null,
+                "nobility_title_or_rank": null
+            },
+            "descriptiveTexts": [
+                {
+                    "text": "\"I did that  because that phrase has been weaponised.\u201d Recently, BlackRock appointed Amin Nasser, the chief executive of Saudi Aramco, the Saudi state oil company, to its board."
+                }
+            ],
+            "occupations": [],
+            "directQuotes": [
+                {
+                    "text": "It\u2019s a bit like the Rolling Stones on tour\u201d\n\nFrom the mid-2010s onwards, Fink started to display some of the same zeal about environmental matters writ large. Climate change presented a clear business opportunity for BlackRock. Its clients, especially those in Europe, were starting to take it seriously. BlackRock held assets on behalf of pension funds, which wanted stable returns that would accumulate over decades. Fink\u2019s background selling mortgage bonds disposed him more than other financiers to worry about the state of the planet in 30 years\u2019 time. He saw that the push to decarbonise the world\u2019s energy infrastructure would require huge new investments that his firm could help finance.\n\nMany of Fink\u2019s clients \u2013 especially younger ones \u2013 welcomed him taking a stand. Moreover, like the global financial crisis, climate change was a problem that politicians were failing to solve. Fink felt it posed a risk that chief executives had a responsibility to tackle.\n\nClimate change wasn\u2019t just a sound financial concern: it gave Fink an unparalleled opportunity to grandstand from what one former colleague calls the "
+                }
+            ],
+            "quotedInTitle": false,
+            "quotedInIntro": false
+        },
+        {
+            "name": "Hugh Frater",
+            "alternativeNames": [],
+            "age": -1,
+            "sex": "male",
+            "occurences": {
+                "total": 2,
+                "firstNameOnly": 0,
+                "lastNameOnly": 1,
+                "fullName": 1,
+                "nickname": 0
+            },
+            "inTitle": false,
+            "inIntro": false,
+            "_name": {
+                "firstname": "Hugh",
+                "lastname": "Frater",
+                "nickname": null,
+                "alternative_names": [],
+                "academic_title": null,
+                "nobility_title_or_rank": null
+            },
+            "descriptiveTexts": [
+                {
+                    "text": "Hugh Frater, one of the co-founders, concedes that Fink was a \"bit of a yeller\u201d in the early days, but also recalls how he would ask, \"Do you want a bagel?\u201d as a peace offering."
+                },
+                {
+                    "text": "He says one of his employees recently exclaimed to him: \"God, I don\u2019t even know how I would ever want to be a ceo watching what\u2019s going on with you and all this.\u201d Frater, one of his co-founders, told me, \"If I faced these deeply personal attacks the phrase going through my mind would be 'I don\u2019t need this shit.\u2019\u201d"
+                }
+            ],
+            "occupations": [],
+            "directQuotes": [
+                {
+                    "text": "Larry was in his early 30s,\u201d he says. "
+                }
+            ],
+            "quotedInTitle": false,
+            "quotedInIntro": false
+        },
+        {
+            "name": "Lewis Ranieri",
+            "alternativeNames": [],
+            "age": -1,
+            "sex": "male",
+            "occurences": {
+                "total": 2,
+                "firstNameOnly": 0,
+                "lastNameOnly": 1,
+                "fullName": 1,
+                "nickname": 0
+            },
+            "inTitle": false,
+            "inIntro": false,
+            "_name": {
+                "firstname": "Lewis",
+                "lastname": "Ranieri",
+                "nickname": null,
+                "alternative_names": [],
+                "academic_title": null,
+                "nobility_title_or_rank": null
+            },
+            "descriptiveTexts": [
+                {
+                    "text": "Fink set his sights on toppling Lewis Ranieri, a bond trader who had worked his way up from the postroom to lead Salomon Brothers to pre-eminence in the mortgage market."
+                },
+                {
+                    "text": "As the competition between him and Ranieri brewed, Fink loaded up on mortgages that led to cratering losses when interest rates unexpectedly fell."
+                }
+            ],
+            "occupations": [],
+            "directQuotes": [
+                {
+                    "text": "We all would.\u201d\n\nHis yearning for admiration can make him thin-skinned and conscious of his status. In recent years, as he has jetted around the world to chew the fat with corporate clients, prime ministers and central bankers, he seems to have enjoyed his job as much for the platform it gave him as for the money it generates. Raising the banner for esg seemed to offer the opportunity to cement his importance as a financial statesman \u2013 and for BlackRock to make a killing at the same time. Instead, the experience has been chastening. To understand Larry Fink, you need to understand what went wrong.\n\nI first spoke to Fink via a video call in February, as he sat in his office in a converted barn on the farm, where he spends the weekends. Even on screen, he is an imposing presence. His voice booms as he expresses his reluctance to be profiled. "
+                }
+            ],
+            "quotedInTitle": false,
+            "quotedInIntro": false
+        },
+        {
+            "name": "Ron DeSantis",
+            "alternativeNames": [],
+            "age": -1,
+            "sex": "male",
+            "occurences": {
+                "total": 1,
+                "firstNameOnly": 0,
+                "lastNameOnly": 0,
+                "fullName": 1,
+                "nickname": 0
+            },
+            "inTitle": false,
+            "inIntro": false,
+            "_name": {
+                "firstname": "Ron",
+                "lastname": "DeSantis",
+                "nickname": null,
+                "alternative_names": [],
+                "academic_title": null,
+                "nobility_title_or_rank": null
+            },
+            "descriptiveTexts": [
+                {
+                    "text": "Ron DeSantis, the governor of Florida and the leading challenger to Donald Trump in next year\u2019s Republican presidential primary contest, is its most prominent advocate."
+                }
+            ],
+            "occupations": [],
+            "directQuotes": [
+                {
+                    "text": "woke\u201d. Ron DeSantis, the governor of Florida and the leading challenger to Donald Trump in next year\u2019s Republican presidential primary contest, is its most prominent advocate.\n\nOne of the main targets of this vituperative cabal is esg: environmental, social and governance investing. A lot of esg is flim-flam. The theory behind it suggests that you can measure companies\u2019 performance on metrics other than financial returns, though the scoring systems are subjective, inconsistent and often set goals that conflict with each other. Less than 3% of BlackRock\u2019s investments in America are esg-related, but Fink has made himself the face of the movement since 2016, when he began urging the chief executives of the companies in BlackRock\u2019s portfolio, in increasingly strident terms, to make their businesses more sustainable.\n\nConsumers\u2019 Research and other well-funded right-wing organisations have formed a powerful lobby transmitting the message deep into Republican-governed states that esg is wrecking social norms and dooming fossil-fuel production, on which many rely for jobs and tax revenue. This year alone, Republican lawmakers in 37 states have proposed at least 167 laws targeting esg (most have not passed). Some states have blacklisted firms like BlackRock from handling their investments. Call it defunding the climate police.\n\nFink has become the right wing\u2019s b\u00eate noire. This was made clear last year when Peter Thiel, a venture capitalist and conservative rabble-rouser, attacked esg at a Bitcoin conference in Miami, as Fink\u2019s face stared out of the screen behind him. "
+                }
+            ],
+            "quotedInTitle": false,
+            "quotedInIntro": false
+        },
+        {
+            "name": "Henry Fernandez",
+            "alternativeNames": [],
+            "age": -1,
+            "sex": "male",
+            "occurences": {
+                "total": 2,
+                "firstNameOnly": 1,
+                "lastNameOnly": 0,
+                "fullName": 1,
+                "nickname": 0
+            },
+            "inTitle": false,
+            "inIntro": false,
+            "_name": {
+                "firstname": "Henry",
+                "lastname": "Fernandez",
+                "nickname": null,
+                "alternative_names": [],
+                "academic_title": null,
+                "nobility_title_or_rank": null
+            },
+            "descriptiveTexts": [
+                {
+                    "text": "Henry Tricks meets the face of woke capitalism"
+                },
+                {
+                    "text": "Henry Fernandez, ceo of msci, a provider of investment indices, watched in awe from the sidelines as Fink single-handedly sought to dethrone Salomon."
+                }
+            ],
+            "occupations": [],
+            "directQuotes": [
+                {
+                    "text": "amid orange groves and tumbleweed\u201d.\n\nFink was born in 1952 to a Jewish family in Van Nuys, a sprawling suburb. His parents were Democrats \u2013 his father ran a shoe shop and his mother was a university professor. He went to state schools, which, he says, made him the person he is. His entrepreneurialism started young. The family would visit the Mojave desert, where Larry would collect snakes (conventional pets were not allowed at home because his mother was allergic to animal hair). He developed a small business dealing in them and would post his haul to collectors across America \u2013 until some slithered out in transit. When he was 12 or 13, the fbi showed up at his parents\u2019 door. Despite the scolding, his passion for snakes continues. He can still identify a venomous one at a glance.\n\nFink imbibed the free-spirited atmosphere of the west coast in the 1960s. He wore his hair long and, he claims, once served George Harrison while working as a waiter during his teens. At university he developed an interest in real estate. To this day he can reel off the square footage of the house and holiday home he grew up in.\n\nBut in the 1970s, Wall Street offered more excitement than selling property. Michael Milken, an earlier graduate of the same secondary school as Fink, was innovating in risky high-yield bonds. The first private-equity firms were beginning their corporate raids. Fink abandoned his early passion and joined First Boston in New York, an investment bank with a wasp-y reputation. "
+                }
+            ],
+            "quotedInTitle": false,
+            "quotedInIntro": false
+        },
+        {
+            "name": "Larry Fink",
+            "alternativeNames": [],
+            "age": -1,
+            "sex": "male",
+            "occurences": {
+                "total": 109,
+                "firstNameOnly": 8,
+                "lastNameOnly": 94,
+                "fullName": 7,
+                "nickname": 0
+            },
+            "inTitle": true,
+            "inIntro": true,
+            "_name": {
+                "firstname": "Larry",
+                "lastname": "Fink",
+                "nickname": null,
+                "alternative_names": [],
+                "academic_title": null,
+                "nobility_title_or_rank": null
+            },
+            "descriptiveTexts": [
+                {
+                    "text": "Zu Besuch bei Blackrock-Chef Larry Fink"
+                },
+                {
+                    "text": "Larry Fink ist Chef des weltgr\u00f6\u00dften Verm\u00f6gensverwalters Blackrock, der rund zehn Billionen Dollar verwaltet."
+                },
+                {
+                    "text": "Als Gesicht der ESG-Bewegung muss Fink scharfe Kritik einstecken \u2013 sowohl von linker wie rechter Seite."
+                },
+                {
+                    "text": "The demonisation of BlackRock\u2019s Larry Fink"
+                },
+                {
+                    "text": "A columnist for the New York Post wrote, tongue-in-cheek, that \"it made me wonder whether this dude was about to assign a hit squad to come to my house.\u201d Beneath the advertisement was a question and a website url. Both asked \"Who is Larry Fink?\u201d"
+                },
+                {
+                    "text": "Whoislarryfink.com accuses Fink of being enamoured of China and exploiting those in financial misfortune, but it doesn\u2019t mention the most salient facts."
+                },
+                {
+                    "text": "When Fink talks, people listen \u2013 and Fink certainly likes to talk."
+                },
+                {
+                    "text": "Less than 3% of BlackRock\u2019s investments in America are esg-related, but Fink has made himself the face of the movement since 2016, when he began urging the chief executives of the companies in BlackRock\u2019s portfolio, in increasingly strident terms, to make their businesses more sustainable."
+                },
+                {
+                    "text": "Fink has become the right wing\u2019s b\u00eate noire."
+                },
+                {
+                    "text": "This was made clear last year when Peter Thiel, a venture capitalist and conservative rabble-rouser, attacked esg at a Bitcoin conference in Miami, as Fink\u2019s face stared out of the screen behind him."
+                },
+                {
+                    "text": "When I met Fink at his bucolic farm an hour from New York City, he was determined to show that he had put all this furore behind him."
+                },
+                {
+                    "text": "And I would say nothing,\u201d Fink said."
+                },
+                {
+                    "text": "One former colleague, usually in awe of Fink\u2019s energy, was shocked to find him looking \"sad, tired and older\u201d last year as the campaign against him heated up. Another close observer likens the treatment of Fink to that of Emmanuel Goldstein, the enemy of the state in George Orwell\u2019s \"1984\u201d, whose image is shown on a screen and abused by viewers during a daily ritual called the \"Two Minutes Hate\u201d."
+                },
+                {
+                    "text": "Fink receives sinister emails every day."
+                },
+                {
+                    "text": "BlackRock\u2019s success has been built on a rigorous approach to risk management \u2013 a lesson Fink learned after a career-defining mishap on Wall Street."
+                },
+                {
+                    "text": "Yet Fink couldn\u2019t be more different."
+                },
+                {
+                    "text": "One former employee called him \"exceptionally intuitive\u201d. He loves shooting the breeze on the phone \u2013 he calls his wife multiple times a day \u2013 and improvises in meetings with global poobahs. Another former employee once sent Fink a text message saying he\u2019d rather be loved than respected. Fink replied, \"We all would.\u201d"
+                },
+                {
+                    "text": "To understand Larry Fink, you need to understand what went wrong."
+                },
+                {
+                    "text": "I first spoke to Fink via a video call in February, as he sat in his office in a converted barn on the farm, where he spends the weekends."
+                },
+                {
+                    "text": "Fink was born in 1952 to a Jewish family in Van Nuys, a sprawling suburb."
+                },
+                {
+                    "text": "The family would visit the Mojave desert, where Larry would collect snakes (conventional pets were not allowed at home because his mother was allergic to animal hair)."
+                },
+                {
+                    "text": "Fink imbibed the free-spirited atmosphere of the west coast in the 1960s."
+                },
+                {
+                    "text": "Michael Milken, an earlier graduate of the same secondary school as Fink, was innovating in risky high-yield bonds."
+                },
+                {
+                    "text": "Fink abandoned his early passion and joined First Boston in New York, an investment bank with a wasp-y reputation."
+                },
+                {
+                    "text": "Fink\u2019s property experience landed him a job as a mortgage trader, a much lowlier position than the plummy investment bankers doing mergers and acquisitions."
+                },
+                {
+                    "text": "A former employee once sent Fink a text message saying he\u2019d rather be loved than respected."
+                },
+                {
+                    "text": "Fink replied, \"We all would\u201d"
+                },
+                {
+                    "text": "Fink set his sights on toppling Lewis Ranieri, a bond trader who had worked his way up from the postroom to lead Salomon Brothers to pre-eminence in the mortgage market."
+                },
+                {
+                    "text": "Henry Fernandez, ceo of msci, a provider of investment indices, watched in awe from the sidelines as Fink single-handedly sought to dethrone Salomon."
+                },
+                {
+                    "text": "\"Larry was in his early 30s,\u201d he says. \"Imagine a guy of that age joining a genteel firm and building its mortgage business from scratch."
+                },
+                {
+                    "text": "As the competition between him and Ranieri brewed, Fink loaded up on mortgages that led to cratering losses when interest rates unexpectedly fell."
+                },
+                {
+                    "text": "Stung by the trading debacle, Fink and seven partners co-founded an asset-management company a year and a half later in 1988."
+                },
+                {
+                    "text": "From the inception, Fink put risk management at its core, bringing in mathematical experts and computer whizzkids to calculate the repayment probabilities of individual loans in a bond portfolio and assess how their value would be affected by changes in interest rates."
+                },
+                {
+                    "text": "The two firms were united for seven years until Stephen Schwarzman, Blackstone\u2019s co-founder, rebelled after finding out that Fink and the other founders were diluting everyone\u2019s stakes by issuing stock options to new joiners."
+                },
+                {
+                    "text": "After a row with Fink, he agreed to sell his shares."
+                },
+                {
+                    "text": "Co-founders and former colleagues say that, from the start, Fink behaved as though the firm were a kibbutz or a family \u2013 clan-like, energised, argumentative."
+                },
+                {
+                    "text": "Hugh Frater, one of the co-founders, concedes that Fink was a \"bit of a yeller\u201d in the early days, but also recalls how he would ask, \"Do you want a bagel?\u201d as a peace offering."
+                },
+                {
+                    "text": "Barbara Novick, one of two women co-founders, says Fink was \"very supportive and open\u201d about maternity leave before it was customary. But the informality could also become incestuous. For years, several people say, the company turned a blind eye to office romances, even those between bosses and their subordinates. (In 2019 two senior executives were fired for having affairs.) \"It is a very melodramatic firm."
+                },
+                {
+                    "text": "To this day, Fink is the undisputed patriarch, setting long-term strategy."
+                },
+                {
+                    "text": "The old-timers formed a court around King Larry from which more recent joiners could feel excluded."
+                },
+                {
+                    "text": "Like many heads of family businesses, Fink cares more about the health of the firm than what he can extract."
+                },
+                {
+                    "text": "Fink may not measure himself by the billions in his bank account, but he has other ways of valuing his self-worth."
+                },
+                {
+                    "text": "Fink had three traits \u2013 his understanding of mortgages, his stomach for big wagers and his clubbable ease with the titans of Wall Street and Washington \u2013 that swiftly catapulted him and his firm to prominence."
+                },
+                {
+                    "text": "Fink has a passion for fishing in remote places."
+                },
+                {
+                    "text": "Many members of the party will be clients or colleagues, but he also takes along Kenny Smith, an instructor who gave Fink his first fly-fishing lesson 25 years ago."
+                },
+                {
+                    "text": "On the river bank, the deference towards Fink falls away."
+                },
+                {
+                    "text": "One participant says they all \"take the piss out of each other\u201d. Everyone slums it: sleeping in tents, digging latrines and chowing down on gas-station burritos. Smith notes the patience with which Fink pursues his catch. He is \"analysing all the time he\u2019s out there,\u201d Smith says."
+                },
+                {
+                    "text": "Fink went from being the wunderkind who had brought in $1bn in the space of a few years to the pariah blamed for losing $100m in a quarter"
+                },
+                {
+                    "text": "Fink has stalked the acquisitions which have turned BlackRock into a financial leviathan with similar circumspection."
+                },
+                {
+                    "text": "The purchase in 2009 of Barclays Global Investors (bgi), the world\u2019s biggest seller of low-fee passive funds, was Fink\u2019s second attempt at buying the firm."
+                },
+                {
+                    "text": "Even then, the deal almost fell apart at the last minute, because of Fink\u2019s concerns about the provenance of some of the finance for the transaction."
+                },
+                {
+                    "text": "Robert Fairbairn, a vice-chairman of BlackRock, remembers how winningly blunt Fink was about his predicament as he called in favours."
+                },
+                {
+                    "text": "For the first time, Fink brought two conflicting investment strategies under one roof: active management, led by specialists charging fat fees for their supposed clairvoyance in picking stocks; and low-fee passive investing, in which funds buy the entire index on the assumption that the market always wins in the end."
+                },
+                {
+                    "text": "Fink\u2019s bet on bgi helped slash the investment costs for millions whose retirement savings are invested via BlackRock."
+                },
+                {
+                    "text": "The old-timers formed a court around King Larry from which more recent joiners could feel excluded"
+                },
+                {
+                    "text": "The bgi transaction coincided with Fink\u2019s growing stature as a financial Mr Fix-it."
+                },
+                {
+                    "text": "As markets sank, Fink frequently acted as a conduit of information between officials and Wall Street\u2019s masters of the universe \u2013 eventually he picked up lots of business for BlackRock selling off troubled assets on behalf of the government."
+                },
+                {
+                    "text": "A former employee there at the time says Fink used to talk in private about his childhood dream of becoming a rock star, though he confessed to them that he was not good-looking enough."
+                },
+                {
+                    "text": "The acquisition of bgi gave Fink a platform from which to pontificate."
+                },
+                {
+                    "text": "Fink swiftly exercised his clout."
+                },
+                {
+                    "text": "Rumour has it that during President Barack Obama\u2019s second term he was approached to become America\u2019s treasury secretary, a post that some of his friends say he covets dearly \u2013 though Fink demurs when asked about it."
+                },
+                {
+                    "text": "Those around him say these trips are exhausting, if exhilarating; despite his age, Fink is always pushing for more meetings."
+                },
+                {
+                    "text": "His travels also allow Fink to indulge his passion for name-dropping, which he does more to gossip than brag."
+                },
+                {
+                    "text": "Fink is not picky about whom he gets close to."
+                },
+                {
+                    "text": "\"The last thing he will do is stop talking to people, even when it\u2019s uncomfortable,\u201d says Fairbairn. David Rubenstein, co-chairman of the Carlyle Group, a private-equity firm, says Fink\u2019s stature in global financial circles is greater than that of many government ministers. \"He\u2019s effectively become global secretary of the Treasury without the official title,\u201d he quips."
+                },
+                {
+                    "text": "Fink\u2019s farm is in a wealthy part of New York state that is so horsey the local coffee shop has free carrots as well as dog treats on the counter."
+                },
+                {
+                    "text": "Over two decades, Fink and his landscapers have turned the property into a wildlife sanctuary."
+                },
+                {
+                    "text": "So devoted is Fink to rewilding that he once harangued a colleague who became a beekeeper because honey bees are \"non-native\u201d."
+                },
+                {
+                    "text": "Fink fancies himself able to get an audience with almost anyone."
+                },
+                {
+                    "text": "From the mid-2010s onwards, Fink started to display some of the same zeal about environmental matters writ large."
+                },
+                {
+                    "text": "Fink\u2019s background selling mortgage bonds disposed him more than other financiers to worry about the state of the planet in 30 years\u2019 time."
+                },
+                {
+                    "text": "Many of Fink\u2019s clients \u2013 especially younger ones \u2013 welcomed him taking a stand."
+                },
+                {
+                    "text": "Fink felt it posed a risk that chief executives had a responsibility to tackle."
+                },
+                {
+                    "text": "Climate change wasn\u2019t just a sound financial concern: it gave Fink an unparalleled opportunity to grandstand from what one former colleague calls the \"bully pulpit\u201d that BlackRock offers."
+                },
+                {
+                    "text": "Months after the Paris agreement in 2015, in which governments committed themselves to limiting global warming to less than two degrees above pre-industrial times by 2100, Fink used his annual letter to invoke esg for the first time, saying BlackRock expected companies to incorporate environmental and social considerations into their discussions with boards."
+                },
+                {
+                    "text": "Though Fink continues to deny to this day that he was on a crusade, saying that he was simply looking after his clients\u2019 long-term interests, he sounded more evangelical with each passing year."
+                },
+                {
+                    "text": "Fink, who has a salesman\u2019s knack for seeing which way the wind is blowing \u2013 quite literally, he has a collection of antique weather vanes at his farm \u2013 was quick to spot the potential for growth."
+                },
+                {
+                    "text": "\"Larry has an incredible nose for the trends that are coming down in the industry,\u201d says Robert Kapito, BlackRock\u2019s president and Fink\u2019s partner for 40 years. Tariq Fancy, former chief investment officer for sustainability at BlackRock, who, after quitting, wrote a lengthy critique of esg, says Fink was quick to seize on the chance to turn BlackRock into a sustainability champion, though with the bottom line in mind. The view of the firm was, according to Fancy, \"If we could save the world and it doesn\u2019t cost us a cent, we\u2019ll do it."
+                },
+                {
+                    "text": "Regardless of the actual extent of Fink\u2019s fervour for sustainable investment, there was growing concern within parts of the firm that he risked overstepping the mark."
+                },
+                {
+                    "text": "\"Once you opine on these political issues, you expose yourself to the same campaigns as a politician would,\u201d says one former colleague who took part in the discussions. Another saw \"a lot of people tell Larry we don\u2019t need to be vocal about this."
+                },
+                {
+                    "text": "But Larry was absolutely at the forefront of it.\u201d Not everyone has toed the party line."
+                },
+                {
+                    "text": "According to one senior Republican official in a red state, \"If you talk to his employees, they go: 'Oh don\u2019t worry about what Larry says. That\u2019s not what we\u2019re doing.\u2019\u201d He adds, \"I cannot tell you how many conversations we\u2019ve had where  said: 'We\u2019d get rid of him too, but, you know, we can\u2019t.\u2019\u201d Some ceos also began to express concerns that Fink had grown too big for his boots."
+                },
+                {
+                    "text": "\"I think the world of Larry Fink, but I\u2019m not sure I want him to be my emperor,\u201d said Charlie Munger, Warren Buffett\u2019s business partner."
+                },
+                {
+                    "text": "Fink says he doesn\u2019t recall any colleagues telling him that his letters were too political."
+                },
+                {
+                    "text": "The pushback emerged chiefly from a group of politicians with whom the firm had almost completely lost touch as Fink swanned around the globe: Republicans in America\u2019s heartland."
+                },
+                {
+                    "text": "According to Fink, the trouble came to a head in the run-up to Russia\u2019s invasion of Ukraine in 2022."
+                },
+                {
+                    "text": "Texas senator Ted Cruz blasted Fink on television, accusing him of contributing directly to petrol-price rises by allegedly dissuading companies from investing in fossil fuels."
+                },
+                {
+                    "text": "He called it the \"Larry Fink surcharge\u201d."
+                },
+                {
+                    "text": "Fink was horrified at how quickly the attacks became personal, especially as he had never insisted on divestment."
+                },
+                {
+                    "text": "Brad Lander, a Democrat who scrutinises the New York City budget in his role of comptroller and is a trustee of three public-sector pension funds, fired a letter off to Fink arguing that BlackRock, in recognising its fossil-fuel investments, was effectively abdicating responsibility for reducing carbon emissions to net zero by 2050."
+                },
+                {
+                    "text": "Fink acknowledges that BlackRock\u2019s political antennae malfunctioned during this saga."
+                },
+                {
+                    "text": "Fink also confesses to having been blindsided by the angry response to his letters."
+                },
+                {
+                    "text": "Fink consoles himself with the knowledge that the brouhaha has not stopped clients from pouring money into the firm."
+                },
+                {
+                    "text": "\"The numbers speak for themselves,\u201d he says. \"It is working out.\u201d But the experience has caused Fink to rein himself in."
+                },
+                {
+                    "text": "These days Fink has worries that are closer to home."
+                },
+                {
+                    "text": "Fink looked fit when I met him."
+                },
+                {
+                    "text": "Fink was the only one who felt he merited top marks on all counts."
+                },
+                {
+                    "text": "Fink disputes this and leaves little doubt he is taking a thoughtful approach to succession."
+                },
+                {
+                    "text": "Despite his own buffeting, Fink remains optimistic about BlackRock\u2019s future."
+                },
+                {
+                    "text": "Fink\u2019s bruising encounter with the esg vigilantes is unlikely to define his legacy."
+                },
+                {
+                    "text": "Fink himself is neither hero nor villain: he is a businessman, by all accounts an exceptionally intuitive one."
+                },
+                {
+                    "text": "Fink waded into political territory, despite warnings about the risks involved."
+                },
+                {
+                    "text": "In business terms, esg was a success for BlackRock and, had Fink been a politician to his bones, he might have toughed it out as the face of virtuous investing."
+                }
+            ],
+            "occupations": [
+                {
+                    "text": "Chef des weltgr\u00f6\u00dften Verm\u00f6gensverwalters Blackrock"
+                },
+                {
+                    "text": "Gesicht der ESG-Bewegung"
+                }
+            ],
+            "directQuotes": [
+                {
+                    "text": "Everyone asks me what are the things in life that I would do differently. And I would say nothing,\u201d Fink said.\n\nStill, the demonisation has taken a toll. One former colleague, usually in awe of Fink\u2019s energy, was shocked to find him looking "
+                },
+                {
+                    "text": "I was told I was hired because I was Jewish and Jews were smart. But it was a meritocracy.\u201d\n\nFink\u2019s property experience landed him a job as a mortgage trader, a much lowlier position than the plummy investment bankers doing mergers and acquisitions. Despite a surge in homeownership during the 1970s, the market in mortgages barely existed, as they had been considered too fiddly and opaque for Wall Street to dabble in.\n\nA former employee once sent Fink a text message saying he\u2019d rather be loved than respected. Fink replied, "
+                },
+                {
+                    "text": "It is a very melodramatic firm. It\u2019s like being in an Italian opera,\u201d says one former executive.\n\nTo this day, Fink is the undisputed patriarch, setting long-term strategy. His own contribution is more charismatic than forensic: he charms clients on board, immerses himself in leadership development and gossips with influential contacts about the state of the markets. He leaves the dogsbody work of running the firm to others. Colleagues recall withering put-downs if he feels they are being complacent. "
+                },
+                {
+                    "text": "It\u2019s a bit like the Rolling Stones on tour,\u201d says Philipp Hildebrand, another BlackRock vice-chairman and frequent travel buddy.\n\nHis travels also allow Fink to indulge his passion for name-dropping, which he does more to gossip than brag. You might hear him relate how he has discussed Brexit with a British prime minister, or struck up a personal friendship with Andr\u00e9s Manuel L\u00f3pez Obrador, Mexico\u2019s strongly anti-elite leftist president. Fink is not picky about whom he gets close to. He was one of the first New York financiers to declare he wasn\u2019t cutting ties with Saudi Arabia after the murder of Jamal Khashoggi, a columnist for the Washington Post. "
+                },
+                {
+                    "text": "Once you opine on these political issues, you expose yourself to the same campaigns as a politician would,\u201d says one former colleague who took part in the discussions. Another saw "
+                },
+                {
+                    "text": "Larry Fink surcharge\u201d. Fink was horrified at how quickly the attacks became personal, especially as he had never insisted on divestment.\n\nHis annual letter in 2020 was pivotal. In it he wrote that climate change had become "
+                },
+                {
+                    "text": "I take that as a responsibility,\u201d he says. "
+                },
+                {
+                    "text": "We don\u2019t use the word 'esg\u2019 anymore,\u201d he says. Instead BlackRock uses words like "
+                },
+                {
+                    "text": "I did that [on purpose] because that phrase has been weaponised.\u201d Recently, BlackRock appointed Amin Nasser, the chief executive of Saudi Aramco, the Saudi state oil company, to its board.\n\nHis regrets may be deeper than he is willing to admit. He says one of his employees recently exclaimed to him: "
+                },
+                {
+                    "text": "It is working out.\u201d But the experience has caused Fink to rein himself in. The man who aspired to be the plenipotentiary of American finance has been reminded, for the second time in his career, that tall poppies risk being scythed down.\n\nThese days Fink has worries that are closer to home. Minutes after meeting me, he reveals that just over a month before, he had suffered a severe illness. On a work trip to Spain in mid-March, he began to feel stomach pains and was rushed back on BlackRock\u2019s private jet to nyu Langone, a New York hospital on whose board he sits. While crossing the Atlantic, he spent the whole time "
+                }
+            ],
+            "quotedInTitle": true,
+            "quotedInIntro": true
+        },
+        {
+            "name": "Philipp Hildebrand",
+            "alternativeNames": [],
+            "age": -1,
+            "sex": "male",
+            "occurences": {
+                "total": 1,
+                "firstNameOnly": 0,
+                "lastNameOnly": 0,
+                "fullName": 1,
+                "nickname": 0
+            },
+            "inTitle": false,
+            "inIntro": false,
+            "_name": {
+                "firstname": "Philipp",
+                "lastname": "Hildebrand",
+                "nickname": null,
+                "alternative_names": [],
+                "academic_title": null,
+                "nobility_title_or_rank": null
+            },
+            "descriptiveTexts": [
+                {
+                    "text": "\"It\u2019s a bit like the Rolling Stones on tour,\u201d says Philipp Hildebrand, another BlackRock vice-chairman and frequent travel buddy."
+                }
+            ],
+            "occupations": [],
+            "directQuotes": [],
+            "quotedInTitle": false,
+            "quotedInIntro": false
+        },
+        {
+            "name": "Ted Cruz",
+            "alternativeNames": [],
+            "age": -1,
+            "sex": "male",
+            "occurences": {
+                "total": 1,
+                "firstNameOnly": 0,
+                "lastNameOnly": 0,
+                "fullName": 1,
+                "nickname": 0
+            },
+            "inTitle": false,
+            "inIntro": false,
+            "_name": {
+                "firstname": "Ted",
+                "lastname": "Cruz",
+                "nickname": null,
+                "alternative_names": [],
+                "academic_title": null,
+                "nobility_title_or_rank": null
+            },
+            "descriptiveTexts": [
+                {
+                    "text": "Texas senator Ted Cruz blasted Fink on television, accusing him of contributing directly to petrol-price rises by allegedly dissuading companies from investing in fossil fuels."
+                }
+            ],
+            "occupations": [],
+            "directQuotes": [],
+            "quotedInTitle": false,
+            "quotedInIntro": false
+        },
+        {
+            "name": "Robert Fairbairn",
+            "alternativeNames": [],
+            "age": -1,
+            "sex": "male",
+            "occurences": {
+                "total": 3,
+                "firstNameOnly": 1,
+                "lastNameOnly": 1,
+                "fullName": 1,
+                "nickname": 0
+            },
+            "inTitle": false,
+            "inIntro": false,
+            "_name": {
+                "firstname": "Robert",
+                "lastname": "Fairbairn",
+                "nickname": null,
+                "alternative_names": [],
+                "academic_title": null,
+                "nobility_title_or_rank": null
+            },
+            "descriptiveTexts": [
+                {
+                    "text": "Robert Fairbairn, a vice-chairman of BlackRock, remembers how winningly blunt Fink was about his predicament as he called in favours."
+                },
+                {
+                    "text": "\"The last thing he will do is stop talking to people, even when it\u2019s uncomfortable,\u201d says Fairbairn. David Rubenstein, co-chairman of the Carlyle Group, a private-equity firm, says Fink\u2019s stature in global financial circles is greater than that of many government ministers. \"He\u2019s effectively become global secretary of the Treasury without the official title,\u201d he quips."
+                },
+                {
+                    "text": "\"Larry has an incredible nose for the trends that are coming down in the industry,\u201d says Robert Kapito, BlackRock\u2019s president and Fink\u2019s partner for 40 years. Tariq Fancy, former chief investment officer for sustainability at BlackRock, who, after quitting, wrote a lengthy critique of esg, says Fink was quick to seize on the chance to turn BlackRock into a sustainability champion, though with the bottom line in mind. The view of the firm was, according to Fancy, \"If we could save the world and it doesn\u2019t cost us a cent, we\u2019ll do it."
+                }
+            ],
+            "occupations": [],
+            "directQuotes": [
+                {
+                    "text": "take the piss out of each other\u201d. Everyone slums it: sleeping in tents, digging latrines and chowing down on gas-station burritos. Smith notes the patience with which Fink pursues his catch. He is "
+                }
+            ],
+            "quotedInTitle": false,
+            "quotedInIntro": false
+        },
+        {
+            "name": "Salomon",
+            "alternativeNames": [],
+            "age": -1,
+            "sex": "unknown",
+            "occurences": {
+                "total": 2,
+                "firstNameOnly": 0,
+                "lastNameOnly": 0,
+                "fullName": 2,
+                "nickname": 0
+            },
+            "inTitle": false,
+            "inIntro": false,
+            "_name": {
+                "firstname": null,
+                "lastname": "Salomon",
+                "nickname": null,
+                "alternative_names": [],
+                "academic_title": null,
+                "nobility_title_or_rank": null
+            },
+            "descriptiveTexts": [
+                {
+                    "text": "Fink set his sights on toppling Lewis Ranieri, a bond trader who had worked his way up from the postroom to lead Salomon Brothers to pre-eminence in the mortgage market."
+                },
+                {
+                    "text": "Henry Fernandez, ceo of msci, a provider of investment indices, watched in awe from the sidelines as Fink single-handedly sought to dethrone Salomon."
+                }
+            ],
+            "occupations": [],
+            "directQuotes": [],
+            "quotedInTitle": false,
+            "quotedInIntro": false
+        },
+        {
+            "name": "Barbara Novick",
+            "alternativeNames": [],
+            "age": -1,
+            "sex": "female",
+            "occurences": {
+                "total": 1,
+                "firstNameOnly": 0,
+                "lastNameOnly": 0,
+                "fullName": 1,
+                "nickname": 0
+            },
+            "inTitle": false,
+            "inIntro": false,
+            "_name": {
+                "firstname": "Barbara",
+                "lastname": "Novick",
+                "nickname": null,
+                "alternative_names": [],
+                "academic_title": null,
+                "nobility_title_or_rank": null
+            },
+            "descriptiveTexts": [
+                {
+                    "text": "Barbara Novick, one of two women co-founders, says Fink was \"very supportive and open\u201d about maternity leave before it was customary. But the informality could also become incestuous. For years, several people say, the company turned a blind eye to office romances, even those between bosses and their subordinates. (In 2019 two senior executives were fired for having affairs.) \"It is a very melodramatic firm."
+                }
+            ],
+            "occupations": [],
+            "directQuotes": [
+                {
+                    "text": "leper\u201d, he recalls. When we talk, it\u2019s clear he still ruminates on his failure.\n\nThe experience gave him a life-long obsession with risk. Stung by the trading debacle, Fink and seven partners co-founded an asset-management company a year and a half later in 1988. Its main business was investing money from pension funds and other long-term asset holders in bonds. From the inception, Fink put risk management at its core, bringing in mathematical experts and computer whizzkids to calculate the repayment probabilities of individual loans in a bond portfolio and assess how their value would be affected by changes in interest rates. Eventually, the software would be so successful that BlackRock would license it to 130,000 financial-services firms.\n\nInitially, the firm was called Blackstone Financial Management since Blackstone, a private-equity firm, took a half-stake in the project. The two firms were united for seven years until Stephen Schwarzman, Blackstone\u2019s co-founder, rebelled after finding out that Fink and the other founders were diluting everyone\u2019s stakes by issuing stock options to new joiners. After a row with Fink, he agreed to sell his shares. The liberated firm was renamed BlackRock.\n\nBlackRock\u2019s central nervous system may be attuned to risk mitigation, but its culture is far from bloodless. Co-founders and former colleagues say that, from the start, Fink behaved as though the firm were a kibbutz or a family \u2013 clan-like, energised, argumentative. Hugh Frater, one of the co-founders, concedes that Fink was a "
+                }
+            ],
+            "quotedInTitle": false,
+            "quotedInIntro": false
+        },
+        {
+            "name": "Michael Milken",
+            "alternativeNames": [],
+            "age": -1,
+            "sex": "male",
+            "occurences": {
+                "total": 1,
+                "firstNameOnly": 0,
+                "lastNameOnly": 0,
+                "fullName": 1,
+                "nickname": 0
+            },
+            "inTitle": false,
+            "inIntro": false,
+            "_name": {
+                "firstname": "Michael",
+                "lastname": "Milken",
+                "nickname": null,
+                "alternative_names": [],
+                "academic_title": null,
+                "nobility_title_or_rank": null
+            },
+            "descriptiveTexts": [
+                {
+                    "text": "Michael Milken, an earlier graduate of the same secondary school as Fink, was innovating in risky high-yield bonds."
+                }
+            ],
+            "occupations": [],
+            "directQuotes": [],
+            "quotedInTitle": false,
+            "quotedInIntro": false
+        },
+        {
+            "name": "Van Nuys",
+            "alternativeNames": [],
+            "age": -1,
+            "sex": "unknown",
+            "occurences": {
+                "total": 1,
+                "firstNameOnly": 0,
+                "lastNameOnly": 0,
+                "fullName": 1,
+                "nickname": 0
+            },
+            "inTitle": false,
+            "inIntro": false,
+            "_name": {
+                "firstname": null,
+                "lastname": null,
+                "nickname": null,
+                "alternative_names": [],
+                "academic_title": null,
+                "nobility_title_or_rank": null
+            },
+            "descriptiveTexts": [
+                {
+                    "text": "Fink was born in 1952 to a Jewish family in Van Nuys, a sprawling suburb."
+                }
+            ],
+            "occupations": [],
+            "directQuotes": [],
+            "quotedInTitle": false,
+            "quotedInIntro": false
+        },
+        {
+            "name": "Andr\u00e9s Manuel L\u00f3pez Obrador",
+            "alternativeNames": [],
+            "age": -1,
+            "sex": "male",
+            "occurences": {
+                "total": 1,
+                "firstNameOnly": 0,
+                "lastNameOnly": 0,
+                "fullName": 1,
+                "nickname": 0
+            },
+            "inTitle": false,
+            "inIntro": false,
+            "_name": {
+                "firstname": "Andr\u00e9s Manuel",
+                "lastname": "L\u00f3pez Obrador",
+                "nickname": null,
+                "alternative_names": [],
+                "academic_title": null,
+                "nobility_title_or_rank": null
+            },
+            "descriptiveTexts": [
+                {
+                    "text": "You might hear him relate how he has discussed Brexit with a British prime minister, or struck up a personal friendship with Andr\u00e9s Manuel L\u00f3pez Obrador, Mexico\u2019s strongly anti-elite leftist president."
+                }
+            ],
+            "occupations": [],
+            "directQuotes": [],
+            "quotedInTitle": false,
+            "quotedInIntro": false
+        },
+        {
+            "name": "Bernie Madoff",
+            "alternativeNames": [],
+            "age": -1,
+            "sex": "male",
+            "occurences": {
+                "total": 1,
+                "firstNameOnly": 0,
+                "lastNameOnly": 0,
+                "fullName": 1,
+                "nickname": 0
+            },
+            "inTitle": false,
+            "inIntro": false,
+            "_name": {
+                "firstname": "Bernie",
+                "lastname": "Madoff",
+                "nickname": null,
+                "alternative_names": [],
+                "academic_title": null,
+                "nobility_title_or_rank": null
+            },
+            "descriptiveTexts": [
+                {
+                    "text": "He also expanded his domain by buying land from a neighbour who lost a fortune after investing with Bernie Madoff."
+                }
+            ],
+            "occupations": [],
+            "directQuotes": [],
+            "quotedInTitle": false,
+            "quotedInIntro": false
+        },
+        {
+            "name": "Barack Obama",
+            "alternativeNames": [],
+            "age": -1,
+            "sex": "male",
+            "occurences": {
+                "total": 1,
+                "firstNameOnly": 0,
+                "lastNameOnly": 0,
+                "fullName": 1,
+                "nickname": 0
+            },
+            "inTitle": false,
+            "inIntro": false,
+            "_name": {
+                "firstname": "Barack",
+                "lastname": "Obama",
+                "nickname": null,
+                "alternative_names": [],
+                "academic_title": null,
+                "nobility_title_or_rank": null
+            },
+            "descriptiveTexts": [
+                {
+                    "text": "Rumour has it that during President Barack Obama\u2019s second term he was approached to become America\u2019s treasury secretary, a post that some of his friends say he covets dearly \u2013 though Fink demurs when asked about it."
+                }
+            ],
+            "occupations": [],
+            "directQuotes": [],
+            "quotedInTitle": false,
+            "quotedInIntro": false
+        },
+        {
+            "name": "Charlie Munger",
+            "alternativeNames": [],
+            "age": -1,
+            "sex": "male",
+            "occurences": {
+                "total": 1,
+                "firstNameOnly": 0,
+                "lastNameOnly": 0,
+                "fullName": 1,
+                "nickname": 0
+            },
+            "inTitle": false,
+            "inIntro": false,
+            "_name": {
+                "firstname": "Charlie",
+                "lastname": "Munger",
+                "nickname": null,
+                "alternative_names": [],
+                "academic_title": null,
+                "nobility_title_or_rank": null
+            },
+            "descriptiveTexts": [
+                {
+                    "text": "\"I think the world of Larry Fink, but I\u2019m not sure I want him to be my emperor,\u201d said Charlie Munger, Warren Buffett\u2019s business partner."
+                }
+            ],
+            "occupations": [],
+            "directQuotes": [
+                {
+                    "text": "I think the world of Larry Fink, but I\u2019m not sure I want him to be my emperor,\u201d said Charlie Munger, Warren Buffett\u2019s business partner.\n\nFink says he doesn\u2019t recall any colleagues telling him that his letters were too political. But that suggests another potential problem: those who have worked at BlackRock describe him as a difficult person to contradict. He still dominates the firm and has a fearsome temper. More than one person described him to me as a narcissist. His reputation may explain why a firm renowned for its risk-management machinery managed to overlook the political backlash against esg. "
+                }
+            ],
+            "quotedInTitle": false,
+            "quotedInIntro": false
+        },
+        {
+            "name": "David Rubenstein",
+            "alternativeNames": [],
+            "age": -1,
+            "sex": "male",
+            "occurences": {
+                "total": 1,
+                "firstNameOnly": 0,
+                "lastNameOnly": 0,
+                "fullName": 1,
+                "nickname": 0
+            },
+            "inTitle": false,
+            "inIntro": false,
+            "_name": {
+                "firstname": "David",
+                "lastname": "Rubenstein",
+                "nickname": null,
+                "alternative_names": [],
+                "academic_title": null,
+                "nobility_title_or_rank": null
+            },
+            "descriptiveTexts": [
+                {
+                    "text": "\"The last thing he will do is stop talking to people, even when it\u2019s uncomfortable,\u201d says Fairbairn. David Rubenstein, co-chairman of the Carlyle Group, a private-equity firm, says Fink\u2019s stature in global financial circles is greater than that of many government ministers. \"He\u2019s effectively become global secretary of the Treasury without the official title,\u201d he quips."
+                }
+            ],
+            "occupations": [],
+            "directQuotes": [
+                {
+                    "text": "He\u2019s effectively become global secretary of the Treasury without the official title,\u201d he quips.\n\nFink\u2019s farm is in a wealthy part of New York state that is so horsey the local coffee shop has free carrots as well as dog treats on the counter. In 2003 he bought the house and outbuildings, which were built in the 18th century, from the actor and film-maker Stanley Tucci. They were in a dilapidated state and he has since restored them. He also expanded his domain by buying land from a neighbour who lost a fortune after investing with Bernie Madoff.\n\nIt is a world away from life in the fast lane of global capitalism. Over two decades, Fink and his landscapers have turned the property into a wildlife sanctuary. They\u2019ve ripped out invasive species, such as Japanese barberry, and seeded vast meadows with indigenous flowers \u2013 milkweeds, echinacea and Indian paintbrush \u2013 creating a haven for birds and insects. So devoted is Fink to rewilding that he once harangued a colleague who became a beekeeper because honey bees are "
+                }
+            ],
+            "quotedInTitle": false,
+            "quotedInIntro": false
+        },
+        {
+            "name": "Robert Kapito",
+            "alternativeNames": [],
+            "age": -1,
+            "sex": "male",
+            "occurences": {
+                "total": 2,
+                "firstNameOnly": 1,
+                "lastNameOnly": 0,
+                "fullName": 1,
+                "nickname": 0
+            },
+            "inTitle": false,
+            "inIntro": false,
+            "_name": {
+                "firstname": "Robert",
+                "lastname": "Kapito",
+                "nickname": null,
+                "alternative_names": [],
+                "academic_title": null,
+                "nobility_title_or_rank": null
+            },
+            "descriptiveTexts": [
+                {
+                    "text": "Robert Fairbairn, a vice-chairman of BlackRock, remembers how winningly blunt Fink was about his predicament as he called in favours."
+                },
+                {
+                    "text": "\"Larry has an incredible nose for the trends that are coming down in the industry,\u201d says Robert Kapito, BlackRock\u2019s president and Fink\u2019s partner for 40 years. Tariq Fancy, former chief investment officer for sustainability at BlackRock, who, after quitting, wrote a lengthy critique of esg, says Fink was quick to seize on the chance to turn BlackRock into a sustainability champion, though with the bottom line in mind. The view of the firm was, according to Fancy, \"If we could save the world and it doesn\u2019t cost us a cent, we\u2019ll do it."
+                }
+            ],
+            "occupations": [],
+            "directQuotes": [],
+            "quotedInTitle": false,
+            "quotedInIntro": false
+        },
+        {
+            "name": "Peter Thiel",
+            "alternativeNames": [],
+            "age": -1,
+            "sex": "male",
+            "occurences": {
+                "total": 1,
+                "firstNameOnly": 0,
+                "lastNameOnly": 0,
+                "fullName": 1,
+                "nickname": 0
+            },
+            "inTitle": false,
+            "inIntro": false,
+            "_name": {
+                "firstname": "Peter",
+                "lastname": "Thiel",
+                "nickname": null,
+                "alternative_names": [],
+                "academic_title": null,
+                "nobility_title_or_rank": null
+            },
+            "descriptiveTexts": [
+                {
+                    "text": "This was made clear last year when Peter Thiel, a venture capitalist and conservative rabble-rouser, attacked esg at a Bitcoin conference in Miami, as Fink\u2019s face stared out of the screen behind him."
+                }
+            ],
+            "occupations": [],
+            "directQuotes": [],
+            "quotedInTitle": false,
+            "quotedInIntro": false
+        },
+        {
+            "name": "Brad Lander",
+            "alternativeNames": [],
+            "age": -1,
+            "sex": "male",
+            "occurences": {
+                "total": 1,
+                "firstNameOnly": 0,
+                "lastNameOnly": 0,
+                "fullName": 1,
+                "nickname": 0
+            },
+            "inTitle": false,
+            "inIntro": false,
+            "_name": {
+                "firstname": "Brad",
+                "lastname": "Lander",
+                "nickname": null,
+                "alternative_names": [],
+                "academic_title": null,
+                "nobility_title_or_rank": null
+            },
+            "descriptiveTexts": [
+                {
+                    "text": "Brad Lander, a Democrat who scrutinises the New York City budget in his role of comptroller and is a trustee of three public-sector pension funds, fired a letter off to Fink arguing that BlackRock, in recognising its fossil-fuel investments, was effectively abdicating responsibility for reducing carbon emissions to net zero by 2050."
+                }
+            ],
+            "occupations": [],
+            "directQuotes": [
+                {
+                    "text": "Larry has an incredible nose for the trends that are coming down in the industry,\u201d says Robert Kapito, BlackRock\u2019s president and Fink\u2019s partner for 40 years. Tariq Fancy, former chief investment officer for sustainability at BlackRock, who, after quitting, wrote a lengthy critique of esg, says Fink was quick to seize on the chance to turn BlackRock into a sustainability champion, though with the bottom line in mind. The view of the firm was, according to Fancy, "
+                }
+            ],
+            "quotedInTitle": false,
+            "quotedInIntro": false
+        },
+        {
+            "name": "Stephen Schwarzman",
+            "alternativeNames": [],
+            "age": -1,
+            "sex": "male",
+            "occurences": {
+                "total": 2,
+                "firstNameOnly": 0,
+                "lastNameOnly": 1,
+                "fullName": 1,
+                "nickname": 0
+            },
+            "inTitle": false,
+            "inIntro": false,
+            "_name": {
+                "firstname": "Stephen",
+                "lastname": "Schwarzman",
+                "nickname": null,
+                "alternative_names": [],
+                "academic_title": null,
+                "nobility_title_or_rank": null
+            },
+            "descriptiveTexts": [
+                {
+                    "text": "The two firms were united for seven years until Stephen Schwarzman, Blackstone\u2019s co-founder, rebelled after finding out that Fink and the other founders were diluting everyone\u2019s stakes by issuing stock options to new joiners."
+                },
+                {
+                    "text": "According to Forbes, he\u2019s worth $1bn; Schwarzman\u2019s net worth is about $30bn."
+                }
+            ],
+            "occupations": [],
+            "directQuotes": [],
+            "quotedInTitle": false,
+            "quotedInIntro": false
+        },
+        {
+            "name": "Kenny Smith",
+            "alternativeNames": [],
+            "age": -1,
+            "sex": "male",
+            "occurences": {
+                "total": 3,
+                "firstNameOnly": 0,
+                "lastNameOnly": 2,
+                "fullName": 1,
+                "nickname": 0
+            },
+            "inTitle": false,
+            "inIntro": false,
+            "_name": {
+                "firstname": "Kenny",
+                "lastname": "Smith",
+                "nickname": null,
+                "alternative_names": [],
+                "academic_title": null,
+                "nobility_title_or_rank": null
+            },
+            "descriptiveTexts": [
+                {
+                    "text": "Many members of the party will be clients or colleagues, but he also takes along Kenny Smith, an instructor who gave Fink his first fly-fishing lesson 25 years ago."
+                },
+                {
+                    "text": "One participant says they all \"take the piss out of each other\u201d. Everyone slums it: sleeping in tents, digging latrines and chowing down on gas-station burritos. Smith notes the patience with which Fink pursues his catch. He is \"analysing all the time he\u2019s out there,\u201d Smith says."
+                }
+            ],
+            "occupations": [],
+            "directQuotes": [
+                {
+                    "text": "I\u2019m in a bind,\u201d he confessed to his potential rescuers. "
+                }
+            ],
+            "quotedInTitle": false,
+            "quotedInIntro": false
+        }
+    ]
+}

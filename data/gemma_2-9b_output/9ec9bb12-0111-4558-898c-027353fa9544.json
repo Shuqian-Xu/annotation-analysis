@@ -1,0 +1,182 @@
+{
+    "persons": [
+        {
+            "name": "Max Verstappen",
+            "alternativeNames": [],
+            "age": -1,
+            "sex": "male",
+            "occurences": {
+                "total": 2,
+                "firstNameOnly": 0,
+                "lastNameOnly": 1,
+                "fullName": 1,
+                "nickname": 0
+            },
+            "inTitle": false,
+            "inIntro": false,
+            "_name": {
+                "firstname": "Max",
+                "lastname": "Verstappen",
+                "nickname": null,
+                "alternative_names": [],
+                "academic_title": null,
+                "nobility_title_or_rank": null
+            },
+            "descriptiveTexts": [
+                {
+                    "text": "Die Verwerfungen bei Red Bull sorgen gar f\u00fcr Spekulationen \u00fcber einen vorzeitigen Abschied des dreimaligen Weltmeisters Max Verstappen, der eigentlich bis 2028 unter Vertrag steht."
+                },
+                {
+                    "text": "Verstappen gewann die beiden bisherigen Saisonrennen jeweils vor seinem Teamkollegen Sergio P\u00e9rez."
+                }
+            ],
+            "occupations": [
+                {
+                    "text": "Sportlich l\u00e4uft es f\u00fcr den Rennstall derweil weiterhin hervorragend"
+                }
+            ],
+            "directQuotes": [],
+            "quotedInTitle": false,
+            "quotedInIntro": false
+        },
+        {
+            "name": "Christian Horner",
+            "alternativeNames": [],
+            "age": 50,
+            "sex": "male",
+            "occurences": {
+                "total": 7,
+                "firstNameOnly": 0,
+                "lastNameOnly": 5,
+                "fullName": 2,
+                "nickname": 0
+            },
+            "inTitle": false,
+            "inIntro": true,
+            "_name": {
+                "firstname": "Christian",
+                "lastname": "Horner",
+                "nickname": null,
+                "alternative_names": [],
+                "academic_title": null,
+                "nobility_title_or_rank": null
+            },
+            "descriptiveTexts": [
+                {
+                    "text": "Geht der Fall Christian Horner in die n\u00e4chste Runde?"
+                },
+                {
+                    "text": "Der Automobil-Weltverband Fia wird sich wohl mit dem Fall Christian Horner besch\u00e4ftigen m\u00fcssen."
+                },
+                {
+                    "text": "Laut der BBC tat dies die Ex-Mitarbeiterin, die Horner beschuldigte."
+                },
+                {
+                    "text": "F\u00fcr Horner, 50, blieben die Vorw\u00fcrfe bislang ohne Folgen."
+                },
+                {
+                    "text": "Horner war \u00bbunangemessenes Verhalten\u00ab vorgeworfen worden."
+                },
+                {
+                    "text": "Horner hatte die Vorw\u00fcrfe stets zur\u00fcckgewiesen."
+                },
+                {
+                    "text": "Im Verlauf der vergangenen Wochen wurde immer deutlicher, dass sich innerhalb des Teams, aber auch innerhalb des Konzerns in der Causa Horner zwei Lager gegen\u00fcberstehen."
+                }
+            ],
+            "occupations": [
+                {
+                    "text": "Teamchef vom Weltmeister-Rennstall Red Bull Racing"
+                }
+            ],
+            "directQuotes": [],
+            "quotedInTitle": false,
+            "quotedInIntro": true
+        },
+        {
+            "name": "Sergio P\u00e9rez",
+            "alternativeNames": [],
+            "age": -1,
+            "sex": "male",
+            "occurences": {
+                "total": 1,
+                "firstNameOnly": 0,
+                "lastNameOnly": 0,
+                "fullName": 1,
+                "nickname": 0
+            },
+            "inTitle": false,
+            "inIntro": false,
+            "_name": {
+                "firstname": "Sergio",
+                "lastname": "P\u00e9rez",
+                "nickname": null,
+                "alternative_names": [],
+                "academic_title": null,
+                "nobility_title_or_rank": null
+            },
+            "descriptiveTexts": [
+                {
+                    "text": "Verstappen gewann die beiden bisherigen Saisonrennen jeweils vor seinem Teamkollegen Sergio P\u00e9rez."
+                }
+            ],
+            "occupations": [
+                {
+                    "text": "Teamkollege"
+                }
+            ],
+            "directQuotes": [],
+            "quotedInTitle": false,
+            "quotedInIntro": false
+        },
+        {
+            "name": "Mohammed Ben Sulayem",
+            "alternativeNames": [],
+            "age": -1,
+            "sex": "male",
+            "occurences": {
+                "total": 1,
+                "firstNameOnly": 0,
+                "lastNameOnly": 0,
+                "fullName": 1,
+                "nickname": 0
+            },
+            "inTitle": false,
+            "inIntro": false,
+            "_name": {
+                "firstname": "Mohammed",
+                "lastname": "Ben Sulayem",
+                "nickname": null,
+                "alternative_names": [],
+                "academic_title": null,
+                "nobility_title_or_rank": "Fr\u00e4ulein von"
+            },
+            "descriptiveTexts": [
+                {
+                    "text": "Anfang M\u00e4rz hatte sich Fia-Pr\u00e4sident Mohammed Ben Sulayem zu dem Chaos bei Red Bull ge\u00e4u\u00dfert."
+                },
+                {
+                    "text": "\u00bbEs besch\u00e4digt den Sport\u00ab, hatte er der \u00bbFinancial Times\u00ab gesagt."
+                }
+            ],
+            "occupations": [
+                {
+                    "text": "Es besch\u00e4digt den Sport"
+                },
+                {
+                    "text": "Fia-Pr\u00e4sident"
+                },
+                {
+                    "text": "Es sei wichtig, den Sport zu sch\u00fctzen"
+                }
+            ],
+            "directQuotes": [
+                {
+                    "text": "Es besch\u00e4digt den Sport"
+                }
+            ],
+            "quotedInTitle": false,
+            "quotedInIntro": false
+        }
+    ]
+}

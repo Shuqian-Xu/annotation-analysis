@@ -1,0 +1,340 @@
+{
+    "persons": [
+        {
+            "name": "Luke Littler",
+            "alternativeNames": [],
+            "age": -1,
+            "sex": "male",
+            "occurences": {
+                "total": 2,
+                "firstNameOnly": 1,
+                "lastNameOnly": 0,
+                "fullName": 1,
+                "nickname": 0
+            },
+            "inTitle": false,
+            "inIntro": false,
+            "_name": {
+                "firstname": "Luke",
+                "lastname": "Littler",
+                "nickname": null,
+                "alternative_names": [],
+                "academic_title": null,
+                "nobility_title_or_rank": null
+            },
+            "descriptiveTexts": [
+                {
+                    "text": "Nach 28 WM-Teilnahmen ist das Endspiel zwischen Luke Humphries und Luke Littler das letzte, bei dem Tausende Zuschauer in der Halle und Millionen vor den Bildschirmen \u00bbThe Voice\u00ab Russ Bray mit seiner markanten Stimme \u00bbOnehundredandeighty\u00ab ins Mikrofon br\u00fcllen h\u00f6ren werden."
+                }
+            ],
+            "occupations": [],
+            "directQuotes": [],
+            "quotedInTitle": false,
+            "quotedInIntro": false
+        },
+        {
+            "name": "Luke Humphries",
+            "alternativeNames": [],
+            "age": -1,
+            "sex": "male",
+            "occurences": {
+                "total": 2,
+                "firstNameOnly": 1,
+                "lastNameOnly": 0,
+                "fullName": 1,
+                "nickname": 0
+            },
+            "inTitle": false,
+            "inIntro": false,
+            "_name": {
+                "firstname": "Luke",
+                "lastname": "Humphries",
+                "nickname": null,
+                "alternative_names": [],
+                "academic_title": null,
+                "nobility_title_or_rank": null
+            },
+            "descriptiveTexts": [
+                {
+                    "text": "Nach 28 WM-Teilnahmen ist das Endspiel zwischen Luke Humphries und Luke Littler das letzte, bei dem Tausende Zuschauer in der Halle und Millionen vor den Bildschirmen \u00bbThe Voice\u00ab Russ Bray mit seiner markanten Stimme \u00bbOnehundredandeighty\u00ab ins Mikrofon br\u00fcllen h\u00f6ren werden."
+                }
+            ],
+            "occupations": [],
+            "directQuotes": [
+                {
+                    "text": "Onehundredandeighty"
+                }
+            ],
+            "quotedInTitle": false,
+            "quotedInIntro": false
+        },
+        {
+            "name": "Phil Taylor",
+            "alternativeNames": [],
+            "age": -1,
+            "sex": "male",
+            "occurences": {
+                "total": 1,
+                "firstNameOnly": 0,
+                "lastNameOnly": 0,
+                "fullName": 1,
+                "nickname": 0
+            },
+            "inTitle": false,
+            "inIntro": false,
+            "_name": {
+                "firstname": "Phil",
+                "lastname": "Taylor",
+                "nickname": null,
+                "alternative_names": [],
+                "academic_title": null,
+                "nobility_title_or_rank": null
+            },
+            "descriptiveTexts": [
+                {
+                    "text": "Bray war unter anderem der Schiedsrichter, als Phil Taylor beim World Matchplay 2002 als erstem Spieler in der Geschichte der PDC ein Neundarter (mit neun Pfeilen von 501 auf null Punkten), der seit jeher als das perfekte Spiel gilt, im Livefernsehen gelang."
+                }
+            ],
+            "occupations": [],
+            "directQuotes": [],
+            "quotedInTitle": false,
+            "quotedInIntro": false
+        },
+        {
+            "name": "Russ Bray",
+            "alternativeNames": [
+                "Bray"
+            ],
+            "age": 66,
+            "sex": "male",
+            "occurences": {
+                "total": 23,
+                "firstNameOnly": 1,
+                "lastNameOnly": 16,
+                "fullName": 2,
+                "nickname": 4
+            },
+            "inTitle": false,
+            "inIntro": true,
+            "_name": {
+                "firstname": "Russ",
+                "lastname": "Bray",
+                "nickname": "The Voice",
+                "alternative_names": [
+                    "Bray"
+                ],
+                "academic_title": null,
+                "nobility_title_or_rank": null
+            },
+            "descriptiveTexts": [
+                {
+                    "text": "Russ Bray war fast 30 Jahre lang Schiedsrichter und Ansager bei der Darts-WM."
+                },
+                {
+                    "text": "Mit seiner markanten Stimme, die nach Zigaretten und Whisky klingt, hat er den Sport gepr\u00e4gt."
+                },
+                {
+                    "text": "Am Abend leitet er sein letztes Finale."
+                },
+                {
+                    "text": "Nach 28 WM-Teilnahmen ist das Endspiel zwischen Luke Humphries und Luke Littler das letzte, bei dem Tausende Zuschauer in der Halle und Millionen vor den Bildschirmen \u00bbThe Voice\u00ab Russ Bray mit seiner markanten Stimme \u00bbOnehundredandeighty\u00ab ins Mikrofon br\u00fcllen h\u00f6ren werden."
+                },
+                {
+                    "text": "Als sogenannter Caller hat er dabei gleich mehrere Funktionen: Er fungiert als Schiedsrichter und tr\u00e4gt somit die Verantwortung f\u00fcr den reibungslosen Ablauf der Spiele."
+                },
+                {
+                    "text": "Bei Konflikten zwischen den Profis oder St\u00f6rungen seitens des Publikums greift er im Notfall ein."
+                },
+                {
+                    "text": "Er und seine Ansagerkollegen sind auch bei anderen Vorkommnissen Ansprechpartner f\u00fcr die Spieler, zum Beispiel, wenn diese der Meinung sind, dass die Scheibe nicht mehr bespielbar ist."
+                },
+                {
+                    "text": "Bray ist \u2013 gemessen an seinen Kollegen \u2013 nicht f\u00fcr seine Rechenst\u00e4rke bekannt, macht mehr Fehler als die anderen."
+                },
+                {
+                    "text": "Dennoch ist er der mit Abstand bekannteste, dienst\u00e4lteste und wohl auch beliebteste Caller der Professional Darts Corporation (PDC)."
+                },
+                {
+                    "text": "Das hat er vor allem seiner Reibeisenstimme zu verdanken."
+                },
+                {
+                    "text": "Seine Berufung zum Caller entdeckte er noch als ambitionierter Spieler durch einen Zufall."
+                },
+                {
+                    "text": "Als bei einem Bezirksligaspiel der Schiedsrichter nicht erschien, sprang Bray spontan ein."
+                },
+                {
+                    "text": "Seine Stimme kam nach Brays Aussage sofort gut an bei Spielern und Zuschauern."
+                },
+                {
+                    "text": "Zuf\u00e4llig war der Schatzmeister von Brays Darts-Team in gleicher Funktion f\u00fcr die PDC t\u00e4tig."
+                },
+                {
+                    "text": "Er empfahl Bray weiter."
+                },
+                {
+                    "text": "Bis dahin hatte Bray als Ger\u00fcstbauer gearbeitet."
+                },
+                {
+                    "text": "Fortan war er fester Bestandteil der Tour."
+                },
+                {
+                    "text": "Zu vielen ikonischen Momenten des Sports lieferte er den Soundtrack."
+                },
+                {
+                    "text": "Bray war unter anderem der Schiedsrichter, als Phil Taylor beim World Matchplay 2002 als erstem Spieler in der Geschichte der PDC ein Neundarter (mit neun Pfeilen von 501 auf null Punkten), der seit jeher als das perfekte Spiel gilt, im Livefernsehen gelang."
+                },
+                {
+                    "text": "Fast immer bei seinen 28 WM-Teilnahmen durfte Bray das Finale leiten."
+                },
+                {
+                    "text": "Abertausende Stunden stand er insgesamt als Stimme des Darts auf der B\u00fchne."
+                },
+                {
+                    "text": "Bray nutzte sein Markenzeichen auch abseits des Darts."
+                },
+                {
+                    "text": "Zudem spielte Bray in mehreren Fernsehproduktionen mit."
+                },
+                {
+                    "text": "Rauchen in jungen Jahren sei in den Sechzigerjahren ganz normal gewesen, erz\u00e4hlte er der \u00bbSport Bild\u00ab k\u00fcrzlich."
+                },
+                {
+                    "text": "Mit 53 gab Bray die Zigaretten auf."
+                },
+                {
+                    "text": "\u00bbMeine Stimme hat sich seitdem nicht ge\u00e4ndert\u00ab, sagt er."
+                },
+                {
+                    "text": "Er wolle demn\u00e4chst mehr Zeit mit der Familie und auf dem Golfplatz verbringen, erz\u00e4hlte Bray dartn.de in einem Interview."
+                },
+                {
+                    "text": "Er freue sich nun auf einen letzten Auftritt im Alexandra Palace, dem Ally Pally."
+                },
+                {
+                    "text": "Auf die Frage, ob sein letztes Finale f\u00fcr ihn emotional werde, antwortet er: \u00bbEs geht nicht um mich, um meine letzte Weltmeisterschaft. Es geht um den Champion. Ich habe ein Spiel zu leiten.\u00ab"
+                },
+                {
+                    "text": "In London dreht sich aktuell aber einiges um Bray."
+                },
+                {
+                    "text": "Fans stehen Schlange, um sich im Ally Pally f\u00fcr zehn britische Pfund mit Bray und dem WM-Pokal fotografieren zu lassen."
+                },
+                {
+                    "text": "\u00bbJeder verbindet Darts mit ihm. Auch ich als damaliger Zuschauer wei\u00df noch ganz genau, dass er ein Aush\u00e4ngeschild war. Man hat sich immer schon auf seine Stimme gefreut\u00ab, sagt etwa der Deutsche Martin Schindler."
+                },
+                {
+                    "text": "PDC-Boss Matthew Porter dankte Bray f\u00fcr einen \u00bbunglaublichen Beitrag\u00ab."
+                },
+                {
+                    "text": "\u00bbDie Stimme von Russ ist ein Synonym f\u00fcr unseren Sport.\u00ab"
+                },
+                {
+                    "text": "Auf Showveranstaltungen und der World Series der PDC, die zum Beispiel in Australien oder in Asien ausgetragen werden, wird Bray weiterhin zum Einsatz kommen."
+                },
+                {
+                    "text": "Ebenso soll er als PDC-Botschafter t\u00e4tig sein."
+                }
+            ],
+            "occupations": [
+                {
+                    "text": "PDC-Botschafter"
+                },
+                {
+                    "text": "Aush\u00e4ngeschild"
+                },
+                {
+                    "text": "Ansager"
+                },
+                {
+                    "text": "beliebter als viele Spieler"
+                },
+                {
+                    "text": "Schiedsrichter"
+                }
+            ],
+            "directQuotes": [
+                {
+                    "text": "The Voice"
+                },
+                {
+                    "text": "Es geht nicht um mich, um meine letzte Weltmeisterschaft. Es geht um den Champion. Ich habe ein Spiel zu leiten."
+                }
+            ],
+            "quotedInTitle": false,
+            "quotedInIntro": true
+        },
+        {
+            "name": "Matthew Porter",
+            "alternativeNames": [],
+            "age": -1,
+            "sex": "male",
+            "occurences": {
+                "total": 1,
+                "firstNameOnly": 0,
+                "lastNameOnly": 0,
+                "fullName": 1,
+                "nickname": 0
+            },
+            "inTitle": false,
+            "inIntro": false,
+            "_name": {
+                "firstname": "Matthew",
+                "lastname": "Porter",
+                "nickname": null,
+                "alternative_names": [],
+                "academic_title": null,
+                "nobility_title_or_rank": null
+            },
+            "descriptiveTexts": [
+                {
+                    "text": "PDC-Boss Matthew Porter dankte Bray f\u00fcr einen \u00bbunglaublichen Beitrag\u00ab."
+                }
+            ],
+            "occupations": [
+                {
+                    "text": "PDC-Boss"
+                }
+            ],
+            "directQuotes": [],
+            "quotedInTitle": false,
+            "quotedInIntro": false
+        },
+        {
+            "name": "Martin Schindler",
+            "alternativeNames": [],
+            "age": -1,
+            "sex": "male",
+            "occurences": {
+                "total": 1,
+                "firstNameOnly": 0,
+                "lastNameOnly": 0,
+                "fullName": 1,
+                "nickname": 0
+            },
+            "inTitle": false,
+            "inIntro": false,
+            "_name": {
+                "firstname": "Martin",
+                "lastname": "Schindler",
+                "nickname": null,
+                "alternative_names": [],
+                "academic_title": null,
+                "nobility_title_or_rank": null
+            },
+            "descriptiveTexts": [
+                {
+                    "text": "\u00bbJeder verbindet Darts mit ihm. Auch ich als damaliger Zuschauer wei\u00df noch ganz genau, dass er ein Aush\u00e4ngeschild war. Man hat sich immer schon auf seine Stimme gefreut\u00ab, sagt etwa der Deutsche Martin Schindler."
+                }
+            ],
+            "occupations": [],
+            "directQuotes": [
+                {
+                    "text": "Jeder verbindet Darts mit ihm. Auch ich als damaliger Zuschauer wei\u00df noch ganz genau, dass er ein Aush\u00e4ngeschild war. Man hat sich immer schon auf seine Stimme gefreut"
+                }
+            ],
+            "quotedInTitle": false,
+            "quotedInIntro": false
+        }
+    ]
+}

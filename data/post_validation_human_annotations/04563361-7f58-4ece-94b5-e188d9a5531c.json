@@ -1,0 +1,776 @@
+{
+	"persons": [
+		{
+			"age": -1,
+			"alternativeNames": [],
+			"birthday": null,
+			"descriptiveTexts": [
+				{
+					"text": "Jeden Abend fassen wir die wichtigsten Wirtschaftsnews des Tages zusammen."
+				},
+				{
+					"text": "Meine Empfehlung für den Abend: Was Viessmann jetzt vorhat: Als das nordhessische Familienunternehmen Viessmann sein Heizungsgeschäft für 12 Milliarden Euro an den US-Konkurrenten Carrier verkaufte, war der Jammer in Deutschland groß."
+				},
+				{
+					"text": "Herzlich, Ihr Kai Lange"
+				},
+				{
+					"text": "PS: Haben Sie Wünsche, Anregungen, Informationen, um die wir uns journalistisch kümmern sollten?"
+				},
+				{
+					"text": "Wir freuen uns auf Ihre Post unter chefredaktion@manager-magazin.de."
+				}
+			],
+			"directQuotes": [],
+			"inIntro": true,
+			"inTitle": false,
+			"indirectQuotes": [],
+			"isMain": false,
+			"name": "Kai Lange",
+			"occupations": [],
+			"occurrences": {
+				"firstNameOnly": 0,
+				"fullName": 1,
+				"lastNameOnly": 0,
+				"total": 1
+			},
+			"quotedInIntro": false,
+			"quotedInTitle": false,
+			"sex": "male"
+		},
+		{
+			"age": -1,
+			"alternativeNames": [],
+			"birthday": null,
+			"descriptiveTexts": [
+				{
+					"text": "Heute: Was Apple und der FC Bayern gemeinsam haben, wie Henkel sich neu aufstellt und wie Martin und Max Viessmann noch einmal angreifen wollen."
+				},
+				{
+					"text": "Im Gespräch mit meinem Kollegen Martin Noé verteidigen Martin Viessmann und Sohn Maximilian den Verkauf – und erklären, wie sie mit dem Milliardenerlös eine Industriegruppe rund um das Megathema Klima aufbauen wollen."
+				},
+				{
+					"text": "'Wir werden das Gros des Erlöses in unternehmerische Aktivitäten reinvestieren', ergänzt Vater Martin Viessmann."
+				},
+				{
+					"text": "'Uns mangelt es nicht an Ideen', sagen die Viessmanns."
+				}
+			],
+			"directQuotes": [
+				{
+					"text": "Wir werden das Gros des Erlöses in unternehmerische Aktivitäten reinvestieren"
+				},
+				{
+					"text": "Uns mangelt es nicht an Ideen"
+				}
+			],
+			"inIntro": true,
+			"inTitle": false,
+			"indirectQuotes": [],
+			"isMain": false,
+			"name": "Martin Viessmann",
+			"occupations": [],
+			"occurrences": {
+				"firstNameOnly": 0,
+				"fullName": 3,
+				"lastNameOnly": 1,
+				"total": 4
+			},
+			"quotedInIntro": false,
+			"quotedInTitle": false,
+			"sex": "male"
+		},
+		{
+			"age": -1,
+			"alternativeNames": [
+				"Maximilian"
+			],
+			"birthday": null,
+			"descriptiveTexts": [
+				{
+					"text": "Heute: Was Apple und der FC Bayern gemeinsam haben, wie Henkel sich neu aufstellt und wie Martin und Max Viessmann noch einmal angreifen wollen."
+				},
+				{
+					"text": "Im Gespräch mit meinem Kollegen Martin Noé verteidigen Martin Viessmann und Sohn Maximilian den Verkauf – und erklären, wie sie mit dem Milliardenerlös eine Industriegruppe rund um das Megathema Klima aufbauen wollen."
+				},
+				{
+					"text": "'Uns ging es nicht ums Geld', sagt Max Viessmann."
+				},
+				{
+					"text": "'Uns mangelt es nicht an Ideen', sagen die Viessmanns."
+				}
+			],
+			"directQuotes": [
+				{
+					"text": "Uns ging es nicht ums Geld"
+				},
+				{
+					"text": "Uns mangelt es nicht an Ideen"
+				}
+			],
+			"inIntro": true,
+			"inTitle": false,
+			"indirectQuotes": [],
+			"isMain": false,
+			"name": "Max Viessmann",
+			"occupations": [],
+			"occurrences": {
+				"firstNameOnly": 1,
+				"fullName": 2,
+				"lastNameOnly": 1,
+				"total": 4
+			},
+			"quotedInIntro": false,
+			"quotedInTitle": false,
+			"sex": "male"
+		},
+		{
+			"age": 62,
+			"alternativeNames": [],
+			"birthday": null,
+			"descriptiveTexts": [
+				{
+					"text": "Doch im Gegensatz zur geschassten Bayern-Spitze hat Apple-Chef Tim Cook (62) bereits einen konkreten Plan, um dauerhaft an der Spitze zu bleiben."
+				},
+				{
+					"text": "Und selbst ist er absolut unumstritten: Cook gilt als erfolgreichster Manager unserer Zeit, größer sogar als Hoeneß-Rummenigge-Hainer."
+				},
+				{
+					"text": "Er hat Apple zum wertvollsten Konzern der Welt gemacht, akut aber hat er zwei Probleme: Apple ist extrem abhängig von China."
+				},
+				{
+					"text": "Um sein Gewinnbollwerk in Zeiten der künstlichen Intelligenz gegenüber Microsoft und Alphabet zu verteidigen, muss sich Cook etwas einfallen lassen."
+				},
+				{
+					"text": "Den Abwehrkampf hat er bereits begonnen."
+				},
+				{
+					"text": "Im Juni wird Apple eine neue Datenbrille vorstellen: Ähnlich wie bei der Apple Watch rechnet Cook nicht mit dem schnellen Erfolg, wie mein Kollege Jonas Rest in seinem Inside-Report über Apples Zukunftsstrategie berichtet."
+				},
+				{
+					"text": "Bis dahin bleibt das iPhone die Gewinnmaschine der Apple-Welt – und ist Cooks größte Hoffnung auch für eigene KI-Ambitionen, schreibt Kollege Rest in unserer mm-Titelstory."
+				},
+				{
+					"text": "Sollte Cooks Kalkül aufgehen, wäre Apple auch in den kommenden Jahren unbesiegbar – ganz so, wie es sich Oli Kahn für den FCB gewünscht hat."
+				}
+			],
+			"directQuotes": [],
+			"inIntro": false,
+			"inTitle": false,
+			"indirectQuotes": [],
+			"isMain": false,
+			"name": "Tim Cook",
+			"occupations": [
+				{
+					"text": "Apple-Chef"
+				},
+				{
+					"text": "erfolgreichster Manager unserer Zeit"
+				}
+			],
+			"occurrences": {
+				"firstNameOnly": 0,
+				"fullName": 1,
+				"lastNameOnly": 5,
+				"total": 6
+			},
+			"quotedInIntro": false,
+			"quotedInTitle": false,
+			"sex": "male"
+		},
+		{
+			"age": -1,
+			"alternativeNames": [],
+			"birthday": null,
+			"descriptiveTexts": [
+				{
+					"text": "Und selbst ist er absolut unumstritten: Cook gilt als erfolgreichster Manager unserer Zeit, größer sogar als Hoeneß-Rummenigge-Hainer."
+				},
+				{
+					"text": "Das ist fast so wie zwischen Hoeneß und Rummenigge."
+				}
+			],
+			"directQuotes": [],
+			"inIntro": false,
+			"inTitle": false,
+			"indirectQuotes": [],
+			"isMain": false,
+			"name": "Hoeneß",
+			"occupations": [],
+			"occurrences": {
+				"firstNameOnly": 0,
+				"fullName": 0,
+				"lastNameOnly": 2,
+				"total": 2
+			},
+			"quotedInIntro": false,
+			"quotedInTitle": false,
+			"sex": "male"
+		},
+		{
+			"age": -1,
+			"alternativeNames": [],
+			"birthday": null,
+			"descriptiveTexts": [
+				{
+					"text": "Und selbst ist er absolut unumstritten: Cook gilt als erfolgreichster Manager unserer Zeit, größer sogar als Hoeneß-Rummenigge-Hainer."
+				},
+				{
+					"text": "Karl-Heinz Rummenigge by the way, auf der Insel bekannt für seine »sexy knees«, steht nicht zur Verfügung."
+				},
+				{
+					"text": "Er tritt in Kürze einen Job in München an."
+				},
+				{
+					"text": "Das ist fast so wie zwischen Hoeneß und Rummenigge."
+				}
+			],
+			"directQuotes": [],
+			"inIntro": false,
+			"inTitle": false,
+			"indirectQuotes": [],
+			"isMain": false,
+			"name": "Karl-Heinz Rummenigge",
+			"occupations": [],
+			"occurrences": {
+				"firstNameOnly": 0,
+				"fullName": 1,
+				"lastNameOnly": 2,
+				"total": 3
+			},
+			"quotedInIntro": false,
+			"quotedInTitle": false,
+			"sex": "male"
+		},
+		{
+			"age": -1,
+			"alternativeNames": [],
+			"birthday": null,
+			"descriptiveTexts": [
+				{
+					"text": "Und selbst ist er absolut unumstritten: Cook gilt als erfolgreichster Manager unserer Zeit, größer sogar als Hoeneß-Rummenigge-Hainer."
+				}
+			],
+			"directQuotes": [],
+			"inIntro": false,
+			"inTitle": false,
+			"indirectQuotes": [],
+			"isMain": false,
+			"name": "Hainer",
+			"occupations": [],
+			"occurrences": {
+				"firstNameOnly": 0,
+				"fullName": 0,
+				"lastNameOnly": 1,
+				"total": 1
+			},
+			"quotedInIntro": false,
+			"quotedInTitle": false,
+			"sex": "male"
+		},
+		{
+			"age": -1,
+			"alternativeNames": [],
+			"birthday": null,
+			"descriptiveTexts": [
+				{
+					"text": "Im Juni wird Apple eine neue Datenbrille vorstellen: Ähnlich wie bei der Apple Watch rechnet Cook nicht mit dem schnellen Erfolg, wie mein Kollege Jonas Rest in seinem Inside-Report über Apples Zukunftsstrategie berichtet."
+				},
+				{
+					"text": "Bis dahin bleibt das iPhone die Gewinnmaschine der Apple-Welt – und ist Cooks größte Hoffnung auch für eigene KI-Ambitionen, schreibt Kollege Rest in unserer mm-Titelstory."
+				}
+			],
+			"directQuotes": [],
+			"inIntro": false,
+			"inTitle": false,
+			"indirectQuotes": [],
+			"isMain": false,
+			"name": "Jonas Rest",
+			"occupations": [
+				{
+					"text": "Kollege"
+				}
+			],
+			"occurrences": {
+				"firstNameOnly": 0,
+				"fullName": 1,
+				"lastNameOnly": 1,
+				"total": 2
+			},
+			"quotedInIntro": false,
+			"quotedInTitle": false,
+			"sex": "male"
+		},
+		{
+			"age": -1,
+			"alternativeNames": [],
+			"birthday": null,
+			"descriptiveTexts": [
+				{
+					"text": "Sollte Cooks Kalkül aufgehen, wäre Apple auch in den kommenden Jahren unbesiegbar – ganz so, wie es sich Oli Kahn für den FCB gewünscht hat."
+				}
+			],
+			"directQuotes": [],
+			"inIntro": false,
+			"inTitle": false,
+			"indirectQuotes": [],
+			"isMain": false,
+			"name": "Oli Kahn",
+			"occupations": [],
+			"occurrences": {
+				"firstNameOnly": 0,
+				"fullName": 1,
+				"lastNameOnly": 0,
+				"total": 1
+			},
+			"quotedInIntro": false,
+			"quotedInTitle": false,
+			"sex": "male"
+		},
+		{
+			"age": -1,
+			"alternativeNames": [],
+			"birthday": null,
+			"descriptiveTexts": [
+				{
+					"text": "Das Landgericht Wiesbaden hat den Rechtsanwalt Hanno Berger zu einer Freiheitsstrafe von acht Jahren und drei Monaten verurteilt."
+				},
+				{
+					"text": "Er sei wegen Steuerhinterziehung schuldig, entschied das Gericht."
+				},
+				{
+					"text": "Der ehemalige Steuerbeamte gilt als einer der geistigen Väter des Cum-ex-Betrugssystems, mit dem sich Investoren Kapitalertragsteuern mehrfach erstatten ließen."
+				},
+				{
+					"text": "Für Berger ist es schon das zweite Urteil, das eine Haftstrafe vorsieht."
+				}
+			],
+			"directQuotes": [],
+			"inIntro": false,
+			"inTitle": false,
+			"indirectQuotes": [],
+			"isMain": false,
+			"name": "Hanno Berger",
+			"occupations": [
+				{
+					"text": "Rechtsanwalt"
+				},
+				{
+					"text": "ehemalige Steuerbeamte"
+				},
+				{
+					"text": "einer der geistigen Väter des Cum-ex-Betrugssystems"
+				}
+			],
+			"occurrences": {
+				"firstNameOnly": 0,
+				"fullName": 2,
+				"lastNameOnly": 1,
+				"total": 3
+			},
+			"quotedInIntro": false,
+			"quotedInTitle": false,
+			"sex": "male"
+		},
+		{
+			"age": -1,
+			"alternativeNames": [],
+			"birthday": null,
+			"descriptiveTexts": [
+				{
+					"text": "Bei Nestlé löst Anna Manz, bislang Finanzchefin bei der Londoner Börse, ihren Kollegen François Roger ab."
+				}
+			],
+			"directQuotes": [],
+			"inIntro": false,
+			"inTitle": false,
+			"indirectQuotes": [],
+			"isMain": false,
+			"name": "Anna Manz",
+			"occupations": [
+				{
+					"text": "Finanzchefin bei der Londoner Börse"
+				}
+			],
+			"occurrences": {
+				"firstNameOnly": 0,
+				"fullName": 1,
+				"lastNameOnly": 0,
+				"total": 1
+			},
+			"quotedInIntro": false,
+			"quotedInTitle": false,
+			"sex": "female"
+		},
+		{
+			"age": -1,
+			"alternativeNames": [],
+			"birthday": null,
+			"descriptiveTexts": [
+				{
+					"text": "Bei Nestlé löst Anna Manz, bislang Finanzchefin bei der Londoner Börse, ihren Kollegen François Roger ab."
+				}
+			],
+			"directQuotes": [],
+			"inIntro": false,
+			"inTitle": false,
+			"indirectQuotes": [],
+			"isMain": false,
+			"name": "François Roger",
+			"occupations": [
+				{
+					"text": "Kollegen"
+				}
+			],
+			"occurrences": {
+				"firstNameOnly": 0,
+				"fullName": 1,
+				"lastNameOnly": 0,
+				"total": 1
+			},
+			"quotedInIntro": false,
+			"quotedInTitle": false,
+			"sex": "male"
+		},
+		{
+			"age": -1,
+			"alternativeNames": [],
+			"birthday": null,
+			"descriptiveTexts": [
+				{
+					"text": "Bei Unilever wird Finanzvorstand Graeme Pitkethly ausgewechselt, die Neuverpflichtung steht noch nicht fest."
+				}
+			],
+			"directQuotes": [],
+			"inIntro": false,
+			"inTitle": false,
+			"indirectQuotes": [],
+			"isMain": false,
+			"name": "Graeme Pitkethly",
+			"occupations": [
+				{
+					"text": "Finanzvorstand"
+				}
+			],
+			"occurrences": {
+				"firstNameOnly": 0,
+				"fullName": 1,
+				"lastNameOnly": 0,
+				"total": 1
+			},
+			"quotedInIntro": false,
+			"quotedInTitle": false,
+			"sex": "male"
+		},
+		{
+			"age": -1,
+			"alternativeNames": [],
+			"birthday": null,
+			"descriptiveTexts": [
+				{
+					"text": "Der neue Douglas-Chef Sander van der Laan hat der Parfümeriekette Douglas einen Sparkurs verordnet, um die Rendite rechtzeitig vor dem geplanten Börsengang (über den wir gerade erst berichtet haben) in die Höhe zu treiben."
+				}
+			],
+			"directQuotes": [],
+			"inIntro": false,
+			"inTitle": false,
+			"indirectQuotes": [],
+			"isMain": false,
+			"name": "Sander van der Laan",
+			"occupations": [
+				{
+					"text": "Douglas-Chef"
+				}
+			],
+			"occurrences": {
+				"firstNameOnly": 0,
+				"fullName": 1,
+				"lastNameOnly": 0,
+				"total": 1
+			},
+			"quotedInIntro": false,
+			"quotedInTitle": false,
+			"sex": "male"
+		},
+		{
+			"age": -1,
+			"alternativeNames": [],
+			"birthday": null,
+			"descriptiveTexts": [
+				{
+					"text": "Henkel-Vorstand Wolfgang König ist für Konzernchef Carsten Knobel ein Schlüsselspieler: König soll die Kosmetiksparte (Schwarzkopf, Dial) mit dem Waschmittelgeschäft (Persil, Pril) zusammenführen und dafür sorgen, dass die Düsseldorfer an der Börse wieder Offensivkraft entfalten."
+				},
+				{
+					"text": "Allein: Seit dem Abgang von Alan Wolpert muss sich König zusätzlich um das kriselnde Nordamerika-Geschäft kümmern."
+				},
+				{
+					"text": "Wie König mit seiner Doppelrolle umgeht und was das für Teamchef Knobel bedeutet, lesen Sie hier."
+				}
+			],
+			"directQuotes": [],
+			"inIntro": false,
+			"inTitle": false,
+			"indirectQuotes": [],
+			"isMain": false,
+			"name": "Wolfgang König",
+			"occupations": [
+				{
+					"text": "Henkel-Vorstand"
+				}
+			],
+			"occurrences": {
+				"firstNameOnly": 0,
+				"fullName": 1,
+				"lastNameOnly": 3,
+				"total": 4
+			},
+			"quotedInIntro": false,
+			"quotedInTitle": false,
+			"sex": "male"
+		},
+		{
+			"age": -1,
+			"alternativeNames": [],
+			"birthday": null,
+			"descriptiveTexts": [
+				{
+					"text": "Henkel-Vorstand Wolfgang König ist für Konzernchef Carsten Knobel ein Schlüsselspieler: König soll die Kosmetiksparte (Schwarzkopf, Dial) mit dem Waschmittelgeschäft (Persil, Pril) zusammenführen und dafür sorgen, dass die Düsseldorfer an der Börse wieder Offensivkraft entfalten."
+				},
+				{
+					"text": "Wie König mit seiner Doppelrolle umgeht und was das für Teamchef Knobel bedeutet, lesen Sie hier."
+				}
+			],
+			"directQuotes": [],
+			"inIntro": false,
+			"inTitle": false,
+			"indirectQuotes": [],
+			"isMain": false,
+			"name": "Carsten Knobel",
+			"occupations": [
+				{
+					"text": "Konzernchef"
+				},
+				{
+					"text": "Teamchef"
+				}
+			],
+			"occurrences": {
+				"firstNameOnly": 0,
+				"fullName": 1,
+				"lastNameOnly": 1,
+				"total": 2
+			},
+			"quotedInIntro": false,
+			"quotedInTitle": false,
+			"sex": "male"
+		},
+		{
+			"age": -1,
+			"alternativeNames": [],
+			"birthday": null,
+			"descriptiveTexts": [
+				{
+					"text": "Allein: Seit dem Abgang von Alan Wolpert muss sich König zusätzlich um das kriselnde Nordamerika-Geschäft kümmern."
+				}
+			],
+			"directQuotes": [],
+			"inIntro": false,
+			"inTitle": false,
+			"indirectQuotes": [],
+			"isMain": false,
+			"name": "Alan Wolpert",
+			"occupations": [],
+			"occurrences": {
+				"firstNameOnly": 0,
+				"fullName": 1,
+				"lastNameOnly": 0,
+				"total": 1
+			},
+			"quotedInIntro": false,
+			"quotedInTitle": false,
+			"sex": "male"
+		},
+		{
+			"age": -1,
+			"alternativeNames": [],
+			"birthday": null,
+			"descriptiveTexts": [
+				{
+					"text": "Das ist in etwa so, als müsste Bayern-Stürmer Jamal Musiala auch noch in der Viererkette mitwirken."
+				}
+			],
+			"directQuotes": [],
+			"inIntro": false,
+			"inTitle": false,
+			"indirectQuotes": [],
+			"isMain": false,
+			"name": "Jamal Musiala",
+			"occupations": [
+				{
+					"text": "Bayern-Stürmer"
+				}
+			],
+			"occurrences": {
+				"firstNameOnly": 0,
+				"fullName": 1,
+				"lastNameOnly": 0,
+				"total": 1
+			},
+			"quotedInIntro": false,
+			"quotedInTitle": false,
+			"sex": "male"
+		},
+		{
+			"age": -1,
+			"alternativeNames": [],
+			"birthday": null,
+			"descriptiveTexts": [
+				{
+					"text": "»Für Juristen, Berater oder Wirtschaftsprüfer wird es künftig schwieriger, einen ersten Job zu finden«, sagt KI-Experte Damian Borth."
+				},
+				{
+					"text": "Im Podcast unserer Kolleginnen vom Harvard Business Manager erklärt Borth, was Generative KI für die Karriereplanung in heutigen Prestigejobs bedeutet."
+				}
+			],
+			"directQuotes": [
+				{
+					"text": "Für Juristen, Berater oder Wirtschaftsprüfer wird es künftig schwieriger, einen ersten Job zu finden"
+				}
+			],
+			"inIntro": false,
+			"inTitle": false,
+			"indirectQuotes": [],
+			"isMain": false,
+			"name": "Damian Borth",
+			"occupations": [
+				{
+					"text": "KI-Experte"
+				}
+			],
+			"occurrences": {
+				"firstNameOnly": 0,
+				"fullName": 1,
+				"lastNameOnly": 1,
+				"total": 2
+			},
+			"quotedInIntro": false,
+			"quotedInTitle": false,
+			"sex": "male"
+		},
+		{
+			"age": -1,
+			"alternativeNames": [],
+			"birthday": null,
+			"descriptiveTexts": [
+				{
+					"text": "Vor Kurzem hat Elon Musk seine Nachfolgerin als CEO von Twitter benannt."
+				},
+				{
+					"text": "Schwieriger dürfte ihre Sandwichposition sein, eingeklemmt zwischen dem Twitter-Eigentümer Musk und dem künftigen Technik-Vorstand Musk."
+				}
+			],
+			"directQuotes": [],
+			"inIntro": false,
+			"inTitle": false,
+			"indirectQuotes": [],
+			"isMain": false,
+			"name": "Elon Musk",
+			"occupations": [
+				{
+					"text": "Twitter-Eigentümer"
+				},
+				{
+					"text": "Technik-Vorstand"
+				}
+			],
+			"occurrences": {
+				"firstNameOnly": 0,
+				"fullName": 1,
+				"lastNameOnly": 2,
+				"total": 3
+			},
+			"quotedInIntro": false,
+			"quotedInTitle": false,
+			"sex": "male"
+		},
+		{
+			"age": -1,
+			"alternativeNames": [],
+			"birthday": null,
+			"descriptiveTexts": [
+				{
+					"text": "Vor Kurzem hat Elon Musk seine Nachfolgerin als CEO von Twitter benannt."
+				},
+				{
+					"text": "Linda Yaccarino, bislang Werbekönigin beim Medienriesen NBC Universal, soll die Plattform profitabel und bei Werbekunden wieder beliebt machen."
+				},
+				{
+					"text": "Operativ ist das tough, voll mit Sanierungsaufgaben bei einem um 80 Prozent reduziertem Team – aber für eine Managerin mit dem Spitznamen 'Samthammer' vielleicht machbar."
+				},
+				{
+					"text": "Schwieriger dürfte ihre Sandwichposition sein, eingeklemmt zwischen dem Twitter-Eigentümer Musk und dem künftigen Technik-Vorstand Musk."
+				}
+			],
+			"directQuotes": [],
+			"inIntro": false,
+			"inTitle": false,
+			"indirectQuotes": [],
+			"isMain": false,
+			"name": "Linda Yaccarino",
+			"occupations": [
+				{
+					"text": "CEO von Twitter"
+				},
+				{
+					"text": "Werbekönigin beim Medienriesen NBC Universal"
+				}
+			],
+			"occurrences": {
+				"firstNameOnly": 0,
+				"fullName": 1,
+				"lastNameOnly": 0,
+				"total": 1
+			},
+			"quotedInIntro": false,
+			"quotedInTitle": false,
+			"sex": "female"
+		},
+		{
+			"age": -1,
+			"alternativeNames": [],
+			"birthday": null,
+			"descriptiveTexts": [
+				{
+					"text": "Im Gespräch mit meinem Kollegen Martin Noé verteidigen Martin Viessmann und Sohn Maximilian den Verkauf – und erklären, wie sie mit dem Milliardenerlös eine Industriegruppe rund um das Megathema Klima aufbauen wollen."
+				}
+			],
+			"directQuotes": [],
+			"inIntro": false,
+			"inTitle": false,
+			"indirectQuotes": [],
+			"isMain": false,
+			"name": "Martin Noé",
+			"occupations": [
+				{
+					"text": "Kollegen"
+				}
+			],
+			"occurrences": {
+				"firstNameOnly": 0,
+				"fullName": 1,
+				"lastNameOnly": 0,
+				"total": 1
+			},
+			"quotedInIntro": false,
+			"quotedInTitle": false,
+			"sex": "male"
+		}
+	],
+	"subtopics": [
+		"Personalwesen",
+		"Führungskräfte",
+		"Wirtschaft",
+		"Unternehmen",
+		"Management"
+	]
+}

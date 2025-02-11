@@ -1,0 +1,980 @@
+{
+	"persons": [
+		{
+			"age": 17,
+			"alternativeNames": [],
+			"birthday": null,
+			"descriptiveTexts": [
+				{
+					"text": "Dhanush, Udeni und die Staatspleite"
+				},
+				{
+					"text": "Die Geschichte eines Geschwisterpaars, das fast alles verloren hat."
+				},
+				{
+					"text": "Dhanush ist zu jung, um am Leben zerbrochen zu sein; aber er ist davon gezeichnet."
+				},
+				{
+					"text": "Er ist 17, sein Bart ist noch weich, aber sein Blick wirkt resigniert."
+				},
+				{
+					"text": "So, als hätte er schon zu viel Schlechtes erlebt."
+				},
+				{
+					"text": "Morgens früh, wenn die Luft schwüler wird und die Sonne durch die Blätter der Kumbukbäume bricht, geht Dhanush in der Zentralprovinz Sri Lankas zum Mahaweli-Fluss, fährt mit einem Floß ans andere Ufer und kratzt mit einer Schöpfkelle Sand vom Grund, stundenlang, bis seine dünnen Arme nicht mehr können."
+				},
+				{
+					"text": "Abends kommt ein Laster und kauft Dhanush die Tagesausbeute ab."
+				},
+				{
+					"text": "Bis zu 4000 Rupien, rund zwölf Euro, verdient er am Tag."
+				},
+				{
+					"text": "Dhanush müsste eigentlich zur Schule gehen."
+				},
+				{
+					"text": "Doch ohne seinen Lohn würden seine Schwester Udeni, ihr Sohn Oshada, sein Großvater Madasamy und er kaum überleben."
+				},
+				{
+					"text": "Dhanush und seiner Familie geht es seitdem schlecht."
+				},
+				{
+					"text": "Das Haus, in dem Dhanush und Udeni leben, steht an einem schlammigen Feldweg am Rande der Siedlung Janaudanagama, was sich mit »Dorf der glücklichen Menschen« übersetzen lässt."
+				},
+				{
+					"text": "Im Eingangsbereich des Hauses stehen Familienbilder, Erinnerungen an die Kindheit der beiden Geschwister."
+				},
+				{
+					"text": "Kurz nach Dhanushs Geburt sollte Udeni für den Bruder eine Milchflasche holen."
+				},
+				{
+					"text": "»Seit ich denken kann, hatte ich immer nur meine Schwester«, sagt Dhanush."
+				},
+				{
+					"text": "»Und meine Schwester hatte immer nur mich.«"
+				},
+				{
+					"text": "Dhanush fürchtete, nach der Mutter auch noch die geliebte Schwester zu verlieren."
+				},
+				{
+					"text": "Dhanush schmiss die Schule und ging arbeiten, erst als Gärtner, dann als Holzhacker, schließlich in der Sandmine."
+				},
+				{
+					"text": "Die Schule, auf die Dhanush gegangen ist, wird von einem Mönch geleitet."
+				},
+				{
+					"text": "Dhanushs Familie hätte es sicher auch auf die Caritas-Liste geschafft, sagt Rasika Mudannayake, seine ehemalige Klassenlehrerin."
+				},
+				{
+					"text": "Aber er sei ab Mai 2022 nicht mehr zum Unterricht gekommen."
+				},
+				{
+					"text": "Frau Mudannayake möchte wissen, was aus Dhanush geworden ist."
+				},
+				{
+					"text": "»Er ist ein guter Junge«, sagt sie."
+				},
+				{
+					"text": "»Aber es war nie jemand für ihn da.«"
+				},
+				{
+					"text": "In Dhanushs Dorf verstummten alle Feste."
+				},
+				{
+					"text": "Manchmal schlug er betrunken auf Udeni ein – bis sich Dhanush brüllend dazwischenwarf."
+				},
+				{
+					"text": "Fast immer aßen sie Reis mit Gemüse, fast nie mehr Fleisch, Fisch oder Eier."
+				},
+				{
+					"text": "Dhanush und Udeni haben bis heute kein Geld gesehen."
+				},
+				{
+					"text": "Udeni würde gern ins Ausland flüchten, zusammen mit ihrem Bruder."
+				},
+				{
+					"text": "Dhanush ähnelt manchmal schon dem Vater."
+				},
+				{
+					"text": "Auch wenn er das auf keinen Fall will."
+				},
+				{
+					"text": "»Äußerlich wirke ich ruhig«, sagt er."
+				},
+				{
+					"text": "»Aber in mir gärt eine große Wut.«"
+				}
+			],
+			"directQuotes": [
+				{
+					"text": "Seit ich denken kann, hatte ich immer nur meine Schwester"
+				},
+				{
+					"text": "Und meine Schwester hatte immer nur mich."
+				},
+				{
+					"text": "Äußerlich wirke ich ruhig"
+				},
+				{
+					"text": "Aber in mir gärt eine große Wut."
+				}
+			],
+			"inIntro": true,
+			"inTitle": true,
+			"indirectQuotes": [],
+			"isMain": true,
+			"name": "Dhanush",
+			"occupations": [
+				{
+					"text": "Gärtner"
+				},
+				{
+					"text": "Holzhacker"
+				}
+			],
+			"occurrences": {
+				"firstNameOnly": 18,
+				"fullName": 0,
+				"lastNameOnly": 0,
+				"total": 18
+			},
+			"quotedInIntro": false,
+			"quotedInTitle": false,
+			"sex": "male"
+		},
+		{
+			"age": 26,
+			"alternativeNames": [],
+			"birthday": null,
+			"descriptiveTexts": [
+				{
+					"text": "Dhanush, Udeni und die Staatspleite"
+				},
+				{
+					"text": "Die Geschichte eines Geschwisterpaars, das fast alles verloren hat."
+				},
+				{
+					"text": "Doch ohne seinen Lohn würden seine Schwester Udeni, ihr Sohn Oshada, sein Großvater Madasamy und er kaum überleben."
+				},
+				{
+					"text": "Das Haus, in dem Dhanush und Udeni leben, steht an einem schlammigen Feldweg am Rande der Siedlung Janaudanagama, was sich mit »Dorf der glücklichen Menschen« übersetzen lässt."
+				},
+				{
+					"text": "Udeni würde das Haus gern streichen, doch das können sie sich nicht leisten."
+				},
+				{
+					"text": "»Wir waren schon immer arm«, sagt die 26-Jährige."
+				},
+				{
+					"text": "»Aber wir kamen zurecht.«"
+				},
+				{
+					"text": "Erst seit der Staatspleite habe sich ihre Armut in Elend verwandelt."
+				},
+				{
+					"text": "Udeni ist mager und selbst für sri-lankische Verhältnisse klein."
+				},
+				{
+					"text": "Sie erfasst Situationen und Menschen sofort und koordiniert souverän die Angelegenheiten der Familie."
+				},
+				{
+					"text": "In einem anderen Teil der Welt hätte sie vermutlich gute Chancen, sich etwas aufzubauen."
+				},
+				{
+					"text": "Im Eingangsbereich des Hauses stehen Familienbilder, Erinnerungen an die Kindheit der beiden Geschwister."
+				},
+				{
+					"text": "Kurz nach Dhanushs Geburt sollte Udeni für den Bruder eine Milchflasche holen."
+				},
+				{
+					"text": "Auf dem Weg nach Hause zerfetzte ein Hund ihr den Rücken."
+				},
+				{
+					"text": "Sie blutete stark, doch sie schleppte sich mit der Flasche zurück bis zur Klinik."
+				},
+				{
+					"text": "Noch heute ist ihr Rücken voller Narben."
+				},
+				{
+					"text": "»Seit ich denken kann, hatte ich immer nur meine Schwester«, sagt Dhanush."
+				},
+				{
+					"text": "»Und meine Schwester hatte immer nur mich.«"
+				},
+				{
+					"text": "Etwa zu dieser Zeit wurde Udeni schwanger und zog zu ihrem Mann."
+				},
+				{
+					"text": "Doch schon im Juli 2020 kehrte Udeni zurück, zusammen mit dem damals einjährigen Oshada."
+				},
+				{
+					"text": "Ihr Mann habe sie schlecht behandelt, sagt sie heute."
+				},
+				{
+					"text": "Mehr möchte sie darüber nicht erzählen."
+				},
+				{
+					"text": "Udeni erinnert sich, wie sie selbst für eine Packung Zucker einen halben Tag lang anstehen musste."
+				},
+				{
+					"text": "Udeni begann, in einer Textilfabrik zu arbeiten."
+				},
+				{
+					"text": "Teils saß sie von 7.30 bis 22 Uhr an der Nähmaschine."
+				},
+				{
+					"text": "Eine ihrer Tanten passte auf Oshada auf."
+				},
+				{
+					"text": "»Es fühlte sich schrecklich an, ihn allein zu lassen«, sagt Udeni."
+				},
+				{
+					"text": "»Aber wir brauchten das Geld.«"
+				},
+				{
+					"text": "Udeni musste ihren Job in der Fabrik aufgeben."
+				},
+				{
+					"text": "Dabei brauchten sie dringender denn je Geld."
+				},
+				{
+					"text": "Udeni verpfändete ihren Schmuck."
+				},
+				{
+					"text": "Manchmal schlug er betrunken auf Udeni ein – bis sich Dhanush brüllend dazwischenwarf."
+				},
+				{
+					"text": "Fast immer aßen sie Reis mit Gemüse, fast nie mehr Fleisch, Fisch oder Eier."
+				},
+				{
+					"text": "Oshada weinte manchmal vor Hunger, Udeni schickte ihn dann früh ins Bett."
+				},
+				{
+					"text": "Sie hoffte, er würde bald schlafen und seinen knurrenden Magen nicht mehr spüren."
+				},
+				{
+					"text": "»Ich fühlte mich wie eine Versagerin«, sagt sie."
+				},
+				{
+					"text": "Udeni sagt, der Preis für Elektrizität habe sich mehr als verdoppelt."
+				},
+				{
+					"text": "In ihrem Haus schalteten sie seitdem kaum noch das Licht an."
+				},
+				{
+					"text": "Dhanush und Udeni haben bis heute kein Geld gesehen."
+				},
+				{
+					"text": "Vor ein paar Monaten hat Udeni ihre Mutter angerufen."
+				},
+				{
+					"text": "Udeni würde gern ins Ausland flüchten, zusammen mit ihrem Bruder."
+				},
+				{
+					"text": "Das Leben, das sie sich nicht ausgesucht hat, weit hinter sich lassen."
+				}
+			],
+			"directQuotes": [
+				{
+					"text": "Wir waren schon immer arm"
+				},
+				{
+					"text": "Aber wir kamen zurecht."
+				},
+				{
+					"text": "Es fühlte sich schrecklich an, ihn allein zu lassen"
+				},
+				{
+					"text": "Aber wir brauchten das Geld."
+				},
+				{
+					"text": "Ich fühlte mich wie eine Versagerin"
+				},
+				{
+					"text": "Welche Mutter lässt ihr Kind hungern?"
+				}
+			],
+			"inIntro": true,
+			"inTitle": true,
+			"indirectQuotes": [
+				{
+					"text": "Erst seit der Staatspleite habe sich ihre Armut in Elend verwandelt."
+				},
+				{
+					"text": "Ihr Mann habe sie schlecht behandelt, sagt sie heute."
+				},
+				{
+					"text": "Sie hoffte, er würde bald schlafen und seinen knurrenden Magen nicht mehr spüren."
+				},
+				{
+					"text": "Udeni sagt, der Preis für Elektrizität habe sich mehr als verdoppelt."
+				}
+			],
+			"isMain": true,
+			"name": "Udeni",
+			"occupations": [
+				{
+					"text": "Schwester"
+				}
+			],
+			"occurrences": {
+				"firstNameOnly": 19,
+				"fullName": 0,
+				"lastNameOnly": 0,
+				"total": 19
+			},
+			"quotedInIntro": false,
+			"quotedInTitle": false,
+			"sex": "female"
+		},
+		{
+			"age": -1,
+			"alternativeNames": [],
+			"birthday": null,
+			"descriptiveTexts": [
+				{
+					"text": "Doch ohne seinen Lohn würden seine Schwester Udeni, ihr Sohn Oshada, sein Großvater Madasamy und er kaum überleben."
+				},
+				{
+					"text": "Doch schon im Juli 2020 kehrte Udeni zurück, zusammen mit dem damals einjährigen Oshada."
+				},
+				{
+					"text": "Eine ihrer Tanten passte auf Oshada auf."
+				},
+				{
+					"text": "Ausgerechnet zu dieser Zeit wurde Oshada krank."
+				},
+				{
+					"text": "Fast immer aßen sie Reis mit Gemüse, fast nie mehr Fleisch, Fisch oder Eier."
+				},
+				{
+					"text": "Oshada weinte manchmal vor Hunger, Udeni schickte ihn dann früh ins Bett."
+				},
+				{
+					"text": "Sie hoffte, er würde bald schlafen und seinen knurrenden Magen nicht mehr spüren."
+				},
+				{
+					"text": "Oshada ein Studium ermöglichen."
+				}
+			],
+			"directQuotes": [],
+			"inIntro": false,
+			"inTitle": false,
+			"indirectQuotes": [],
+			"isMain": false,
+			"name": "Oshada",
+			"occupations": [
+				{
+					"text": "Sohn"
+				}
+			],
+			"occurrences": {
+				"firstNameOnly": 6,
+				"fullName": 0,
+				"lastNameOnly": 0,
+				"total": 6
+			},
+			"quotedInIntro": false,
+			"quotedInTitle": false,
+			"sex": "male"
+		},
+		{
+			"age": -1,
+			"alternativeNames": [],
+			"birthday": null,
+			"descriptiveTexts": [
+				{
+					"text": "Doch ohne seinen Lohn würden seine Schwester Udeni, ihr Sohn Oshada, sein Großvater Madasamy und er kaum überleben."
+				},
+				{
+					"text": "Der Großvater verzichtete auf die Medikamente für seine schmerzenden Beine."
+				},
+				{
+					"text": "Fast immer aßen sie Reis mit Gemüse, fast nie mehr Fleisch, Fisch oder Eier."
+				}
+			],
+			"directQuotes": [],
+			"inIntro": false,
+			"inTitle": false,
+			"indirectQuotes": [],
+			"isMain": false,
+			"name": "Madasamy",
+			"occupations": [
+				{
+					"text": "Großvater"
+				}
+			],
+			"occurrences": {
+				"firstNameOnly": 1,
+				"fullName": 0,
+				"lastNameOnly": 0,
+				"total": 1
+			},
+			"quotedInIntro": false,
+			"quotedInTitle": false,
+			"sex": "male"
+		},
+		{
+			"age": -1,
+			"alternativeNames": [],
+			"birthday": null,
+			"descriptiveTexts": [
+				{
+					"text": "Uno-Generalsekretär António Guterres sprach vergangenen Sommer von einem »systemischen Versagen«."
+				}
+			],
+			"directQuotes": [
+				{
+					"text": "systemischen Versagen"
+				}
+			],
+			"inIntro": false,
+			"inTitle": false,
+			"indirectQuotes": [],
+			"isMain": false,
+			"name": "António Guterres",
+			"occupations": [
+				{
+					"text": "Uno-Generalsekretär"
+				}
+			],
+			"occurrences": {
+				"firstNameOnly": 0,
+				"fullName": 1,
+				"lastNameOnly": 0,
+				"total": 1
+			},
+			"quotedInIntro": false,
+			"quotedInTitle": false,
+			"sex": "male"
+		},
+		{
+			"age": -1,
+			"alternativeNames": [],
+			"birthday": null,
+			"descriptiveTexts": [
+				{
+					"text": "»Entwicklungsländer hatten plötzlich Zugang zu den internationalen Kapitalmärkten«, sagt der Ökonom Ulrich Volz, der an der Universität London zur globalen Schuldenkrise forscht."
+				},
+				{
+					"text": "»Die Regeln, wie Staatspleiten ablaufen, werden noch immer stark von reichen Gläubigerstaaten und dem IWF bestimmt«, sagt Ökonom Volz."
+				},
+				{
+					"text": "Für kriselnde Banken wie die Credit Suisse seien teils binnen Tagen Milliardenhilfen mobilisiert worden, sagt Schuldenökonom Volz."
+				}
+			],
+			"directQuotes": [
+				{
+					"text": "Entwicklungsländer hatten plötzlich Zugang zu den internationalen Kapitalmärkten"
+				},
+				{
+					"text": "Sie konnten sich praktisch aussuchen, von wem sie sich Geld leihen."
+				},
+				{
+					"text": "Die Regeln, wie Staatspleiten ablaufen, werden noch immer stark von reichen Gläubigerstaaten und dem IWF bestimmt"
+				},
+				{
+					"text": "Doch China möchte das nicht mehr hinnehmen."
+				},
+				{
+					"text": "Politiker ärmerer Länder deuten das als Hinweis, wie wenig sich die Welt um sie schert."
+				}
+			],
+			"inIntro": false,
+			"inTitle": false,
+			"indirectQuotes": [
+				{
+					"text": "Für kriselnde Banken wie die Credit Suisse seien teils binnen Tagen Milliardenhilfen mobilisiert worden, sagt Schuldenökonom Volz."
+				},
+				{
+					"text": "Entwicklungsländer seien oft jahrelang bankrott."
+				}
+			],
+			"isMain": false,
+			"name": "Ulrich Volz",
+			"occupations": [
+				{
+					"text": "Schuldenökonom"
+				}
+			],
+			"occurrences": {
+				"firstNameOnly": 0,
+				"fullName": 1,
+				"lastNameOnly": 2,
+				"total": 3
+			},
+			"quotedInIntro": false,
+			"quotedInTitle": false,
+			"sex": "male"
+		},
+		{
+			"age": -1,
+			"alternativeNames": [],
+			"birthday": null,
+			"descriptiveTexts": [
+				{
+					"text": "»Die Folge ist ein millionenfaches Elend«, sagt Carmen Reinhart, die einmal Chefökonomin der Weltbank war."
+				}
+			],
+			"directQuotes": [
+				{
+					"text": "Die Folge ist ein millionenfaches Elend"
+				}
+			],
+			"inIntro": false,
+			"inTitle": false,
+			"indirectQuotes": [],
+			"isMain": false,
+			"name": "Carmen Reinhart",
+			"occupations": [
+				{
+					"text": "Chefökonomin der Weltbank"
+				}
+			],
+			"occurrences": {
+				"firstNameOnly": 0,
+				"fullName": 1,
+				"lastNameOnly": 0,
+				"total": 1
+			},
+			"quotedInIntro": false,
+			"quotedInTitle": false,
+			"sex": "female"
+		},
+		{
+			"age": -1,
+			"alternativeNames": [],
+			"birthday": null,
+			"descriptiveTexts": [
+				{
+					"text": "Im November 2015 versprach der damalige Premierminister Ranil Wickremesinghe, die Einfuhren zu senken und Produktion und Export von Hightech-Gütern anzukurbeln."
+				},
+				{
+					"text": "Auch das marode Steuersystem wollte er modernisieren."
+				}
+			],
+			"directQuotes": [],
+			"inIntro": false,
+			"inTitle": false,
+			"indirectQuotes": [
+				{
+					"text": "Im November 2015 versprach der damalige Premierminister Ranil Wickremesinghe, die Einfuhren zu senken und Produktion und Export von Hightech-Gütern anzukurbeln."
+				}
+			],
+			"isMain": false,
+			"name": "Ranil Wickremesinghe",
+			"occupations": [
+				{
+					"text": "damalige Premierminister"
+				}
+			],
+			"occurrences": {
+				"firstNameOnly": 0,
+				"fullName": 1,
+				"lastNameOnly": 0,
+				"total": 1
+			},
+			"quotedInIntro": false,
+			"quotedInTitle": false,
+			"sex": "male"
+		},
+		{
+			"age": -1,
+			"alternativeNames": [],
+			"birthday": null,
+			"descriptiveTexts": [
+				{
+					"text": "Der neue Präsident Gotabaya Rajapaksa ließ, kaum im Amt, die Steuern senken."
+				},
+				{
+					"text": "Am 9. Juli stürmte ein wütender Mob den Palast von Präsident Rajapaksa."
+				},
+				{
+					"text": "Videos von Demonstranten, die in seinem Swimmingpool badeten, gingen um die Welt."
+				},
+				{
+					"text": "Rajapaksa floh auf die Malediven."
+				},
+				{
+					"text": "Er entkam womöglich durch einen Geheimtunnel."
+				}
+			],
+			"directQuotes": [],
+			"inIntro": false,
+			"inTitle": false,
+			"indirectQuotes": [],
+			"isMain": false,
+			"name": "Gotabaya Rajapaksa",
+			"occupations": [
+				{
+					"text": "Präsident"
+				}
+			],
+			"occurrences": {
+				"firstNameOnly": 0,
+				"fullName": 1,
+				"lastNameOnly": 2,
+				"total": 3
+			},
+			"quotedInIntro": false,
+			"quotedInTitle": false,
+			"sex": "male"
+		},
+		{
+			"age": -1,
+			"alternativeNames": [],
+			"birthday": null,
+			"descriptiveTexts": [
+				{
+					"text": "Anfang Mai trat Premierminister Mahinda Rajapaksa zurück."
+				}
+			],
+			"directQuotes": [],
+			"inIntro": false,
+			"inTitle": false,
+			"indirectQuotes": [],
+			"isMain": false,
+			"name": "Mahinda Rajapaksa",
+			"occupations": [
+				{
+					"text": "Premierminister"
+				}
+			],
+			"occurrences": {
+				"firstNameOnly": 0,
+				"fullName": 1,
+				"lastNameOnly": 0,
+				"total": 1
+			},
+			"quotedInIntro": false,
+			"quotedInTitle": false,
+			"sex": "male"
+		},
+		{
+			"age": -1,
+			"alternativeNames": [],
+			"birthday": null,
+			"descriptiveTexts": [
+				{
+					"text": "Entsprechend gut kann Direktor Venereble Imbulpitiya Vipassi gerade Spenden organisieren."
+				},
+				{
+					"text": "Vipassi zeigt eine Liste, die er für die Hilfsorganisation Caritas erstellt hat."
+				},
+				{
+					"text": "»Viele Kinder bringen nur noch eine kleine Portion Reis und etwas Gemüse mit«, sagt Vipassi."
+				}
+			],
+			"directQuotes": [
+				{
+					"text": "Viele Kinder bringen nur noch eine kleine Portion Reis und etwas Gemüse mit"
+				},
+				{
+					"text": "Aber Menschen mit leerem Magen kann man nicht für Bildung begeistern."
+				}
+			],
+			"inIntro": false,
+			"inTitle": false,
+			"indirectQuotes": [],
+			"isMain": false,
+			"name": "Venereble Imbulpitiya Vipassi",
+			"occupations": [
+				{
+					"text": "Direktor"
+				}
+			],
+			"occurrences": {
+				"firstNameOnly": 0,
+				"fullName": 1,
+				"lastNameOnly": 2,
+				"total": 3
+			},
+			"quotedInIntro": false,
+			"quotedInTitle": false,
+			"sex": "male"
+		},
+		{
+			"age": -1,
+			"alternativeNames": [],
+			"birthday": null,
+			"descriptiveTexts": [
+				{
+					"text": "Dhanushs Familie hätte es sicher auch auf die Caritas-Liste geschafft, sagt Rasika Mudannayake, seine ehemalige Klassenlehrerin."
+				},
+				{
+					"text": "Frau Mudannayake möchte wissen, was aus Dhanush geworden ist."
+				},
+				{
+					"text": "Als der Fotograf ihr die Bilder aus der Sandmine zeigt, werden ihre Augen feucht."
+				},
+				{
+					"text": "»Er ist ein guter Junge«, sagt sie."
+				}
+			],
+			"directQuotes": [
+				{
+					"text": "Manche kommen schon in der fünften Klasse nicht mehr. Die Mädchen passen auf ihre jüngeren Geschwister auf, damit die Eltern länger arbeiten können. Und die Jungs müssen oft selbst Geld verdienen."
+				},
+				{
+					"text": "Er ist ein guter Junge"
+				},
+				{
+					"text": "Aber es war nie jemand für ihn da."
+				}
+			],
+			"inIntro": false,
+			"inTitle": false,
+			"indirectQuotes": [
+				{
+					"text": "Dhanushs Familie hätte es sicher auch auf die Caritas-Liste geschafft, sagt Rasika Mudannayake, seine ehemalige Klassenlehrerin."
+				},
+				{
+					"text": "Aber er sei ab Mai 2022 nicht mehr zum Unterricht gekommen."
+				}
+			],
+			"isMain": false,
+			"name": "Rasika Mudannayake",
+			"occupations": [
+				{
+					"text": "ehemalige Klassenlehrerin"
+				}
+			],
+			"occurrences": {
+				"firstNameOnly": 0,
+				"fullName": 1,
+				"lastNameOnly": 1,
+				"total": 2
+			},
+			"quotedInIntro": false,
+			"quotedInTitle": false,
+			"sex": "female"
+		},
+		{
+			"age": -1,
+			"alternativeNames": [],
+			"birthday": null,
+			"descriptiveTexts": [
+				{
+					"text": "In einem der Büros sitzt Zentralbankchef Nandalal Weerasinghe hinter einem großen Schreibtisch und überfliegt die internationale Finanzpresse."
+				},
+				{
+					"text": "»Wir hätten den IWF schon ein Jahr früher um Unterstützung bitten sollen«, sagt er."
+				},
+				{
+					"text": "Zentralbankchef Weerasinghe und seine Kollegen trafen Dutzende Gläubiger."
+				},
+				{
+					"text": "Zentralbankchef Weerasinghe sagt, die Reformen seien kompliziert."
+				}
+			],
+			"directQuotes": [
+				{
+					"text": "Wir hätten den IWF schon ein Jahr früher um Unterstützung bitten sollen"
+				},
+				{
+					"text": "Dann wären die sozialen Folgen der Krise nicht so hart gewesen."
+				},
+				{
+					"text": "Es dürfte noch zwei bis drei Jahre dauern, bis sich die Lage bessert."
+				}
+			],
+			"inIntro": false,
+			"inTitle": false,
+			"indirectQuotes": [
+				{
+					"text": "Zentralbankchef Weerasinghe sagt, die Reformen seien kompliziert."
+				},
+				{
+					"text": "Man müsse alles gleichzeitig voranbringen."
+				},
+				{
+					"text": "Den Schuldenabbau."
+				},
+				{
+					"text": "Die Reform der Staatsfinanzen."
+				},
+				{
+					"text": "Den Aufbau neuer Wirtschaftszweige."
+				},
+				{
+					"text": "Den Kampf gegen die soziale Krise."
+				}
+			],
+			"isMain": false,
+			"name": "Nandalal Weerasinghe",
+			"occupations": [
+				{
+					"text": "Zentralbankchef"
+				}
+			],
+			"occurrences": {
+				"firstNameOnly": 0,
+				"fullName": 1,
+				"lastNameOnly": 2,
+				"total": 3
+			},
+			"quotedInIntro": false,
+			"quotedInTitle": false,
+			"sex": "male"
+		},
+		{
+			"age": -1,
+			"alternativeNames": [],
+			"birthday": null,
+			"descriptiveTexts": [
+				{
+					"text": "»Die Elite zahlt fast nichts für diese Krise«, sagt Jayadeva Uyangoda, emeritierter Politologe der Universität in Colombo."
+				}
+			],
+			"directQuotes": [
+				{
+					"text": "Die Elite zahlt fast nichts für diese Krise"
+				},
+				{
+					"text": "Praktisch jede Demonstration kann inzwischen zum Terrorakt erklärt werden."
+				},
+				{
+					"text": "Die Krise hat dieses Land auch autokratischer gemacht."
+				}
+			],
+			"inIntro": false,
+			"inTitle": false,
+			"indirectQuotes": [
+				{
+					"text": "Obendrein beschneide der Staat die Rechte der Bürger."
+				}
+			],
+			"isMain": false,
+			"name": "Jayadeva Uyangoda",
+			"occupations": [
+				{
+					"text": "emeritierter Politologe der Universität in Colombo"
+				}
+			],
+			"occurrences": {
+				"firstNameOnly": 0,
+				"fullName": 1,
+				"lastNameOnly": 0,
+				"total": 1
+			},
+			"quotedInIntro": false,
+			"quotedInTitle": false,
+			"sex": "male"
+		},
+		{
+			"age": -1,
+			"alternativeNames": [],
+			"birthday": null,
+			"descriptiveTexts": [
+				{
+					"text": "Nach einer Analyse des Weltbank-Ökonomen Clemens Graf von Luckner sinkt in zahlungsunfähigen Ländern die Lebenserwartung."
+				}
+			],
+			"directQuotes": [],
+			"inIntro": false,
+			"inTitle": false,
+			"indirectQuotes": [],
+			"isMain": false,
+			"name": "Clemens Graf von Luckner",
+			"occupations": [
+				{
+					"text": "Weltbank-Ökonomen"
+				}
+			],
+			"occurrences": {
+				"firstNameOnly": 0,
+				"fullName": 1,
+				"lastNameOnly": 0,
+				"total": 1
+			},
+			"quotedInIntro": false,
+			"quotedInTitle": false,
+			"sex": "male"
+		},
+		{
+			"age": -1,
+			"alternativeNames": [],
+			"birthday": null,
+			"descriptiveTexts": [
+				{
+					"text": "Fotos und Videos: Kiên Hoàng Lê; Mitarbeit und Übersetzung: Susitha Fernando, Indika Arana Kumara"
+				}
+			],
+			"directQuotes": [],
+			"inIntro": false,
+			"inTitle": false,
+			"indirectQuotes": [],
+			"isMain": false,
+			"name": "Kiên Hoàng Lê",
+			"occupations": [],
+			"occurrences": {
+				"firstNameOnly": 0,
+				"fullName": 1,
+				"lastNameOnly": 0,
+				"total": 1
+			},
+			"quotedInIntro": false,
+			"quotedInTitle": false,
+			"sex": "male"
+		},
+		{
+			"age": -1,
+			"alternativeNames": [],
+			"birthday": null,
+			"descriptiveTexts": [
+				{
+					"text": "Fotos und Videos: Kiên Hoàng Lê; Mitarbeit und Übersetzung: Susitha Fernando, Indika Arana Kumara"
+				}
+			],
+			"directQuotes": [],
+			"inIntro": false,
+			"inTitle": false,
+			"indirectQuotes": [],
+			"isMain": false,
+			"name": "Susitha Fernando",
+			"occupations": [],
+			"occurrences": {
+				"firstNameOnly": 0,
+				"fullName": 1,
+				"lastNameOnly": 0,
+				"total": 1
+			},
+			"quotedInIntro": false,
+			"quotedInTitle": false,
+			"sex": "male"
+		},
+		{
+			"age": -1,
+			"alternativeNames": [],
+			"birthday": null,
+			"descriptiveTexts": [
+				{
+					"text": "Fotos und Videos: Kiên Hoàng Lê; Mitarbeit und Übersetzung: Susitha Fernando, Indika Arana Kumara"
+				}
+			],
+			"directQuotes": [],
+			"inIntro": false,
+			"inTitle": false,
+			"indirectQuotes": [],
+			"isMain": false,
+			"name": "Indika Arana Kumara",
+			"occupations": [],
+			"occurrences": {
+				"firstNameOnly": 0,
+				"fullName": 1,
+				"lastNameOnly": 0,
+				"total": 1
+			},
+			"quotedInIntro": false,
+			"quotedInTitle": false,
+			"sex": "male"
+		}
+	],
+	"subtopics": [
+		"Staatspleite",
+		"Inflation",
+		"Schuldenkrise",
+		"Armut",
+		"Sri Lanka"
+	]
+}

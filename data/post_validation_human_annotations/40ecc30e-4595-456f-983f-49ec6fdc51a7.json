@@ -1,0 +1,846 @@
+{
+  "persons": [
+    {
+      "age": 42,
+      "alternativeNames": [],
+      "birthday": null,
+      "descriptiveTexts": [
+        {
+          "text": "Der Herr der Busse."
+        },
+        {
+          "text": "André Schwämmlein hat mit seinem Start-up Flixbus geschafft, woran deutsche Konzerne regelmäßig scheitern: mit einer Technologieplattform zum Weltmarktführer zu werden."
+        },
+        {
+          "text": "Kann er den Erfolg im Bahngeschäft wiederholen?"
+        },
+        {
+          "text": "André Schwämmlein, 42, Co-Gründer des Mobilitätsunternehmens Flix, die rötlichen Haare kühn anrasiert, schwingt sich in beigefarbenen Chinos und blauem Pulli auf eine kleine Bühne."
+        },
+        {
+          "text": "»I’ll do some magic tricks now«, begrüßt er die Zuschauer."
+        },
+        {
+          "text": "Dann erzählt Schwämmlein, wie Flix binnen elf Jahren zum Weltmarktführer im Busreiseverkehr aufgestiegen ist – und warum seine Firma ein verkannter Hightechstar ist."
+        },
+        {
+          "text": "Mit der Liberalisierung fielen die Fesseln – Schwämmlein und seine Mitgründer Jochen Engert und Daniel Krauss nutzten die Gunst der Stunde."
+        },
+        {
+          "text": "Schwämmlein sagt ganz unbescheiden: »Wir haben den Fernreiseverkehr neu erfunden wie Spotify die Musik.«"
+        },
+        {
+          "text": "Viele hätten anfangs gesagt, dass es eine dumme Idee sei, ein Busunternehmen zu gründen, erzählt Schwämmlein am Harvard-Club-Abend."
+        },
+        {
+          "text": "Eigentlich ist er niemand, der den öffentlichen Auftritt sucht, er meidet Konferenzen und Talkshows."
+        },
+        {
+          "text": "Einen Harvard-Abschluss hat er auch nicht, in den Klub ist er auf Bitten eines Freundes gekommen."
+        },
+        {
+          "text": "Schwämmlein hat sich nach seinem Vortrag auf den Rand der Bühne gesetzt, die Luft ist heiß und stickig."
+        },
+        {
+          "text": "Natürlich habe auch er Zweifel gehabt."
+        },
+        {
+          "text": "Aber er musste überzeugen: Mitarbeiter, Busunternehmer, Investoren."
+        },
+        {
+          "text": "Anfangs wandelten Schwämmlein und seine Mitgründer an der Grenze zum Bluff."
+        },
+        {
+          "text": "In den Gesprächen lernten sie den »Busfahrer-Schnack«, wie Schwämmlein sagt, und die Denke von Familienunternehmern kennen."
+        },
+        {
+          "text": "»Wir waren natürlich nicht auf alle Fragen vorbereitet«, sagt Schwämmlein."
+        },
+        {
+          "text": "Die Gespräche aus der Anfangszeit verbucht er als »Weiterentwicklung des Geschäftsmodells«."
+        },
+        {
+          "text": "Unternehmertum und Reisefieber waren Schwämmlein nicht in die Wiege gelegt, auch wenn sich seine Mutter später erinnert habe, sein erstes Wort sei »Bus« gewesen."
+        },
+        {
+          "text": "Von seinen Eltern, die lokalpolitisch bei den Grünen engagiert waren, erbte er eher das Interesse an Politik."
+        },
+        {
+          "text": "Er wurde als Schüler Kreistagsabgeordneter für die Grünen in Fürth, später Fraktionsvorsitzender."
+        },
+        {
+          "text": "Schwämmlein studierte Wirtschaftsingenieurwesen, mit seinem Schulfreund und Wirtschaftsinformatiker Daniel Krauss suchte er früh nach »unternehmerischen Aufgaben«."
+        },
+        {
+          "text": "Er half Krauss, aus einer eher ehrenamtlich betriebenen IT-Beratung ein Geschäft zu machen – die erste gemeinsame Firma."
+        },
+        {
+          "text": "»André ist Realist, und was Zahlen und Geschäftssinn angeht, einfach exzellent«, sagt Krauss."
+        },
+        {
+          "text": "Die Aufgabenteilung wiederholte sich bei Flix: Schwämmlein ist der kühl rechnende Stratege, Krauss der Techie."
+        },
+        {
+          "text": "Schwämmlein lernte ihn im Praktikum bei der Unternehmensberatung BCG in München kennen."
+        },
+        {
+          "text": "In hohem Tempo zogen die Flix-Gründer in den Anfangsjahren eine Busfirma nach der anderen auf ihre Plattform."
+        },
+        {
+          "text": "Ihnen half, dass die meist mittelständischen Firmen weder über Kapital noch Technologie verfügen, um ein landesweites Netz aufzubauen und den Preiskampf durchzuhalten."
+        },
+        {
+          "text": "Geld sammelten die Jungunternehmer bei großen Risikofonds ein."
+        },
+        {
+          "text": "Schwämmlein sitzt jetzt auf einem der grünen Flixbus-Sessel, die für das Vorstandszimmer in der Unternehmenszentrale in München zu Bürostühlen umfunktioniert wurden."
+        },
+        {
+          "text": "Die Phasen der Firma kann er klar benennen: Die erste endete 2015, als Flix mit dem Wettbewerber »Mein Fernbus« fusionierte."
+        },
+        {
+          "text": "Von ihm blieb nur die grüne Farbe übrig."
+        },
+        {
+          "text": "Das einzige Land, aus dem sich das Unternehmen wieder zurückgezogen habe, sei Russland, sagt Schwämmlein."
+        },
+        {
+          "text": "Nicht, weil die Russen nicht gern Flixbus gefahren wären, sondern weil Schwämmlein sich auf die Seite der Ukraine stellen wollte."
+        },
+        {
+          "text": "Noch kurz vor Kriegsbeginn hatte Flix sogar mit dem russischen Bahntechnikunternehmen Transmashholding über die Beschaffung von Zügen für das dortige Bahngeschäft verhandelt, was Schwämmlein offiziell nicht bestätigt."
+        },
+        {
+          "text": "»Wir hatten Sorge, dass irgendjemand an der Westküste sich bei einem der großen Risikofonds einen Sack voll Geld holt und sagt: Was diese Flix-Leute in Europa machen, das mache ich in den USA«, sagt Schwämmlein."
+        },
+        {
+          "text": "Schwämmlein plante eine Art Präventivschlag."
+        },
+        {
+          "text": "»Uns war klar: In dem Moment, in dem wir in den USA loslegen, ist es eigentlich für die anderen zu spät«, sagt Schwämmlein."
+        },
+        {
+          "text": "Jetzt freut er sich diebisch, wenn er auf Amerikas Highways »seine« Busse sieht oder bei einer Investorenkonferenz in Las Vegas den mit Privatjets eingeflogenen Investoren erzählt, er sei aus Los Angeles mit dem Flixbus angereist."
+        },
+        {
+          "text": "Er macht das aus Spaß am Busfahren, aus grüner Überzeugung und weil er trotz der Erfolge jeden Euro umdreht."
+        },
+        {
+          "text": "Schwämmlein fährt S-Bahn statt Taxi und verlangt das auch von seinen Mitarbeitern."
+        },
+        {
+          "text": "Der Stolz, in den USA als deutsches Unternehmen eine wichtige Säule des Verkehrssystems zu sein, ist Schwämmlein anzumerken."
+        },
+        {
+          "text": "Umso mehr wurmt es ihn, dass er für diesen Erfolg in Deutschland, wie er findet, wenig Anerkennung bekommt."
+        },
+        {
+          "text": "»Ich erwarte nicht, dass uns jemand Geld schenkt, wir können auch ohne Subventionen«, sagt er."
+        },
+        {
+          "text": "Die Deutsche Bahn ist für Schwämmlein so etwas wie der Endgegner, wenig bringt ihn so in Rage wie das Quasi-Monopol des Staatskonzerns."
+        },
+        {
+          "text": "Den Plan, Fernverbindungen auf der Schiene anzubieten, hatten die Gründer von Beginn an."
+        },
+        {
+          "text": "Wenn es nach Schwämmlein geht, ist das erst der Anfang."
+        },
+        {
+          "text": "Von seinem Büro aus blickt er auf die Bahntrasse, die vom Münchner Hauptbahnhof die Stadt Richtung Westen durchschneidet."
+        },
+        {
+          "text": "Es ärgert ihn, dass ausgerechnet in München noch keine grünen Flix-Züge fahren."
+        },
+        {
+          "text": "»In Deutschland wollen wir im Zugverkehr ganz klar wachsen«, sagt Schwämmlein."
+        },
+        {
+          "text": "Schwämmlein legt sich gern mit großen Gegnern an und gilt in Berlin als geschickter Netzwerker."
+        },
+        {
+          "text": "Immer wieder hat er in den vergangenen Jahren die Trennung von Schienennetz und Bahnbetrieb gefordert, damit mehr Wettbewerb möglich wird."
+        },
+        {
+          "text": "Bei Verkehrsminister Volker Wissing (FDP) und Kanzler Olaf Scholz (SPD) prallt er jedoch ebenso ab wie die Grünen, deren Parteibuch er noch hat."
+        },
+        {
+          "text": "Die Ansage von Bahn und Verkehrsministerium, man wolle mehr Verkehr auf die Schiene verlagern, hält Schwämmlein daher für Heuchelei."
+        },
+        {
+          "text": "Schwämmlein hat kurz in den Ticketshop geschaut, ein paar Monate zuvor hat er hier einen Tag mitgearbeitet."
+        },
+        {
+          "text": "Schwämmlein mag solche Geschichten."
+        },
+        {
+          "text": "Er steigt jetzt in einen aus Innsbruck kommenden Bus zum Flughafen, checkt das WLAN (funktioniert), erklärt, warum es weder Kaffee noch Snacks gibt (die Fahrer sollen sich auf das Kerngeschäft konzentrieren), ob die Busse künftig mit Batterie oder Brennstoffzelle fahren sollen (hält er sich offen)."
+        },
+        {
+          "text": "Dem früheren Verkehrsminister Andreas Scheuer hat er mal einen ganzen Aktenordner in die Hand gedrückt: der Konzessionsantrag für eine einzige neue Busstrecke."
+        },
+        {
+          "text": "Bremsen lässt er sich von so etwas nicht."
+        },
+        {
+          "text": "Und typische Start-up-Fehler hat Schwämmlein bisher vermieden, es sei ihm wie wenigen anderen gelungen, »eine Firma zu gründen, sie groß zu machen und dann als etablierte Firma zu führen«, lobt Jörn Nikolay, Partner beim Finanzinvestor General Atlantic, der mit rund 18 Prozent an Flix beteiligt ist."
+        },
+        {
+          "text": "Den nächsten großen Schritt hat der Gründer schon geplant: Flixbus soll an die Börse."
+        },
+        {
+          "text": "Schwämmlein selbst will seine Anteile behalten."
+        },
+        {
+          "text": "Er versteht sich nicht als Seriengründer: einen Laden groß machen, verkaufen, und ab ins nächste Abenteuer, das ist nicht sein Ding."
+        },
+        {
+          "text": "»Wir haben Flix nie gegründet, um die Firma irgendwann zu verkaufen«, sagt er, »sondern um etwas zu schaffen, das in 50 oder 100 Jahren noch da ist.«"
+        }
+      ],
+      "directQuotes": [
+        {
+          "text": "I’ll do some magic tricks now"
+        },
+        {
+          "text": "Wir haben den Fernreiseverkehr neu erfunden wie Spotify die Musik."
+        },
+        {
+          "text": "Da kann man nicht zögern, man muss sagen, es ist eine gute Idee, auch wenn 40 von 40 Leuten sagen, es ist eine dumme Idee."
+        },
+        {
+          "text": "Busfahrer-Schnack"
+        },
+        {
+          "text": "Wir waren natürlich nicht auf alle Fragen vorbereitet"
+        },
+        {
+          "text": "Weiterentwicklung des Geschäftsmodells"
+        },
+        {
+          "text": "unternehmerischen Aufgaben"
+        },
+        {
+          "text": "Wir hatten Sorge, dass irgendjemand an der Westküste sich bei einem der großen Risikofonds einen Sack voll Geld holt und sagt: Was diese Flix-Leute in Europa machen, das mache ich in den USA"
+        },
+        {
+          "text": "Das wollten wir vermeiden."
+        },
+        {
+          "text": "Uns war klar: In dem Moment, in dem wir in den USA loslegen, ist es eigentlich für die anderen zu spät"
+        },
+        {
+          "text": "Ich erwarte nicht, dass uns jemand Geld schenkt, wir können auch ohne Subventionen"
+        },
+        {
+          "text": "Aber etwas mehr Unterstützung für eines von ganz wenigen deutschen, global führenden Techunternehmen wäre schön."
+        },
+        {
+          "text": "In Deutschland wollen wir im Zugverkehr ganz klar wachsen"
+        },
+        {
+          "text": "dann wollen wir da sein."
+        },
+        {
+          "text": "Leider wirkt es manchmal so, als ob das Interesse der Deutschen Bahn nicht ist, maximal viel Verkehr auf die Schiene zu bekommen, sondern 100 Prozent Marktanteil."
+        },
+        {
+          "text": "Wir haben Flix nie gegründet, um die Firma irgendwann zu verkaufen"
+        },
+        {
+          "text": "sondern um etwas zu schaffen, das in 50 oder 100 Jahren noch da ist."
+        }
+      ],
+      "inIntro": true,
+      "inTitle": true,
+      "indirectQuotes": [
+        {
+          "text": "Viele hätten anfangs gesagt, dass es eine dumme Idee sei, ein Busunternehmen zu gründen, erzählt Schwämmlein am Harvard-Club-Abend."
+        },
+        {
+          "text": "Natürlich habe auch er Zweifel gehabt."
+        },
+        {
+          "text": "Aber er musste überzeugen: Mitarbeiter, Busunternehmer, Investoren."
+        },
+        {
+          "text": "Unternehmertum und Reisefieber waren Schwämmlein nicht in die Wiege gelegt, auch wenn sich seine Mutter später erinnert habe, sein erstes Wort sei »Bus« gewesen."
+        },
+        {
+          "text": "Er half Krauss, aus einer eher ehrenamtlich betriebenen IT-Beratung ein Geschäft zu machen – die erste gemeinsame Firma."
+        },
+        {
+          "text": "Bekamen sie ein Date, erklärten die Jungspunde den Busveteranen, dass Flixbus die Technologieplattform biete und sich um Fahrpläne und Ticketvertrieb kümmere."
+        },
+        {
+          "text": "Busse kaufen, Fahrer einstellen und den Betrieb übernehmen – all das bleibe Aufgabe der Fuhrunternehmen."
+        },
+        {
+          "text": "Daran arbeiten wir gerade, das bringen wir nächstes Mal mit, antworteten sie."
+        },
+        {
+          "text": "Die Regulierung werde sich schon anpassen."
+        },
+        {
+          "text": "Das einzige Land, aus dem sich das Unternehmen wieder zurückgezogen habe, sei Russland"
+        },
+        {
+          "text": "Jetzt freut er sich diebisch, wenn er auf Amerikas Highways »seine« Busse sieht oder bei einer Investorenkonferenz in Las Vegas den mit Privatjets eingeflogenen Investoren erzählt, er sei aus Los Angeles mit dem Flixbus angereist."
+        },
+        {
+          "text": "Er sei aus Los Angeles mit dem Flixbus angereist."
+        },
+        {
+          "text": "Die Bundesregierung könne sich für offenere Märkte in Europa einsetzen. Und für mehr Wettbewerb auf der Schiene."
+        },
+        {
+          "text": "Irgendwann könne der Bahnverkehr auch ein paneuropäisches Geschäft werden, »dann wollen wir da sein.«"
+        }
+      ],
+      "isMain": true,
+      "name": "André Schwämmlein",
+      "occupations": [
+        {
+          "text": "Co-Gründer des Mobilitätsunternehmens Flix"
+        }
+      ],
+      "occurrences": {
+        "firstNameOnly": 1,
+        "fullName": 2,
+        "lastNameOnly": 30,
+        "total": 33
+      },
+      "quotedInIntro": false,
+      "quotedInTitle": false,
+      "sex": "male"
+    },
+    {
+      "age": -1,
+      "alternativeNames": [],
+      "birthday": null,
+      "descriptiveTexts": [
+        {
+          "text": "Mit der Liberalisierung fielen die Fesseln – Schwämmlein und seine Mitgründer Jochen Engert und Daniel Krauss nutzten die Gunst der Stunde."
+        },
+        {
+          "text": "Sie verbanden kleine regionale Busanbieter zu einem flächendeckenden Liniennetz, das sich über die Onlineplattform buchen lässt – als günstige Alternative zur Bahn."
+        },
+        {
+          "text": "Nun wollen die Gründer in Indien starten, sagen der Deutschen Bahn den Kampf an und sind auf dem Sprung an die Börse."
+        },
+        {
+          "text": "Spätestens dann dürften die drei, denen zusammen rund 18 Prozent der Firma gehören, zu den reichsten Männern des Landes aufsteigen."
+        },
+        {
+          "text": "Anfangs wandelten Schwämmlein und seine Mitgründer an der Grenze zum Bluff."
+        },
+        {
+          "text": "Vor der Marktöffnung 2013 ließen sie sich eine Liste der damals rund 5000, meist regionalen Busunternehmen geben und telefonierten sie ab."
+        },
+        {
+          "text": "Bekamen sie ein Date, erklärten die Jungspunde den Busveteranen, dass Flixbus die Technologieplattform biete und sich um Fahrpläne und Ticketvertrieb kümmere."
+        },
+        {
+          "text": "In den Gesprächen lernten sie den »Busfahrer-Schnack«, wie Schwämmlein sagt, und die Denke von Familienunternehmern kennen."
+        },
+        {
+          "text": "Auf viele Fragen der Busbetriebe aber hatten die Gründer anfangs keine Antwort: Preise? Verbindungen? Treueprogramme?"
+        },
+        {
+          "text": "Daran arbeiten wir gerade, das bringen wir nächstes Mal mit, antworteten sie."
+        },
+        {
+          "text": "»Wir waren natürlich nicht auf alle Fragen vorbereitet«, sagt Schwämmlein."
+        },
+        {
+          "text": "Für das Visionäre ist der Dritte im Bund zuständig: Jochen Engert, mittlerweile in den Aufsichtsrat gewechselt."
+        },
+        {
+          "text": "Schwämmlein lernte ihn im Praktikum bei der Unternehmensberatung BCG in München kennen."
+        },
+        {
+          "text": "Auf dem Rückweg von einem Skiausflug im Jahr 2009 lasen die beiden, dass CDU und FDP den Fernbusmarkt deregulieren wollten."
+        },
+        {
+          "text": "Den Busmarkt sahen die Gründer von Anfang an als Plattformgeschäft, in dem vor allem eine Regel gilt: »The winner takes it all«: Wer am schnellsten wächst, mit der besten Software die meisten Kunden und Daten sammelt, kann das kostengünstigste und beste Angebot machen – und gewinnt am Ende den ganzen Markt."
+        },
+        {
+          "text": "In hohem Tempo zogen die Flix-Gründer in den Anfangsjahren eine Busfirma nach der anderen auf ihre Plattform."
+        },
+        {
+          "text": "Ihnen half, dass die meist mittelständischen Firmen weder über Kapital noch Technologie verfügen, um ein landesweites Netz aufzubauen und den Preiskampf durchzuhalten."
+        },
+        {
+          "text": "Geld sammelten die Jungunternehmer bei großen Risikofonds ein."
+        },
+        {
+          "text": "Den Plan, Fernverbindungen auf der Schiene anzubieten, hatten die Gründer von Beginn an."
+        }
+      ],
+      "directQuotes": [],
+      "inIntro": false,
+      "inTitle": false,
+      "indirectQuotes": [
+        {
+          "text": "Bekamen sie ein Date, erklärten die Jungspunde den Busveteranen, dass Flixbus die Technologieplattform biete und sich um Fahrpläne und Ticketvertrieb kümmere."
+        },
+        {
+          "text": "Busse kaufen, Fahrer einstellen und den Betrieb übernehmen – all das bleibe Aufgabe der Fuhrunternehmen."
+        },
+        {
+          "text": "Daran arbeiten wir gerade, das bringen wir nächstes Mal mit, antworteten sie."
+        }
+      ],
+      "isMain": false,
+      "name": "Jochen Engert",
+      "occupations": [
+        {
+          "text": "Mitgründer"
+        },
+        {
+          "text": "Aufsichtsrat"
+        }
+      ],
+      "occurrences": {
+        "firstNameOnly": 0,
+        "fullName": 2,
+        "lastNameOnly": 0,
+        "total": 2
+      },
+      "quotedInIntro": false,
+      "quotedInTitle": false,
+      "sex": "male"
+    },
+    {
+      "age": -1,
+      "alternativeNames": [],
+      "birthday": null,
+      "descriptiveTexts": [
+        {
+          "text": "Mit der Liberalisierung fielen die Fesseln – Schwämmlein und seine Mitgründer Jochen Engert und Daniel Krauss nutzten die Gunst der Stunde."
+        },
+        {
+          "text": "Sie verbanden kleine regionale Busanbieter zu einem flächendeckenden Liniennetz, das sich über die Onlineplattform buchen lässt – als günstige Alternative zur Bahn."
+        },
+        {
+          "text": "Nun wollen die Gründer in Indien starten, sagen der Deutschen Bahn den Kampf an und sind auf dem Sprung an die Börse."
+        },
+        {
+          "text": "Spätestens dann dürften die drei, denen zusammen rund 18 Prozent der Firma gehören, zu den reichsten Männern des Landes aufsteigen."
+        },
+        {
+          "text": "Anfangs wandelten Schwämmlein und seine Mitgründer an der Grenze zum Bluff."
+        },
+        {
+          "text": "Vor der Marktöffnung 2013 ließen sie sich eine Liste der damals rund 5000, meist regionalen Busunternehmen geben und telefonierten sie ab."
+        },
+        {
+          "text": "Bekamen sie ein Date, erklärten die Jungspunde den Busveteranen, dass Flixbus die Technologieplattform biete und sich um Fahrpläne und Ticketvertrieb kümmere."
+        },
+        {
+          "text": "In den Gesprächen lernten sie den »Busfahrer-Schnack«, wie Schwämmlein sagt, und die Denke von Familienunternehmern kennen."
+        },
+        {
+          "text": "Auf viele Fragen der Busbetriebe aber hatten die Gründer anfangs keine Antwort: Preise? Verbindungen? Treueprogramme?"
+        },
+        {
+          "text": "Daran arbeiten wir gerade, das bringen wir nächstes Mal mit, antworteten sie."
+        },
+        {
+          "text": "»Wir waren natürlich nicht auf alle Fragen vorbereitet«, sagt Schwämmlein."
+        },
+        {
+          "text": "Schwämmlein studierte Wirtschaftsingenieurwesen, mit seinem Schulfreund und Wirtschaftsinformatiker Daniel Krauss suchte er früh nach »unternehmerischen Aufgaben«."
+        },
+        {
+          "text": "Er half Krauss, aus einer eher ehrenamtlich betriebenen IT-Beratung ein Geschäft zu machen – die erste gemeinsame Firma."
+        },
+        {
+          "text": "»André ist Realist, und was Zahlen und Geschäftssinn angeht, einfach exzellent«, sagt Krauss."
+        },
+        {
+          "text": "Die Aufgabenteilung wiederholte sich bei Flix: Schwämmlein ist der kühl rechnende Stratege, Krauss der Techie."
+        },
+        {
+          "text": "Den Busmarkt sahen die Gründer von Anfang an als Plattformgeschäft, in dem vor allem eine Regel gilt: »The winner takes it all«: Wer am schnellsten wächst, mit der besten Software die meisten Kunden und Daten sammelt, kann das kostengünstigste und beste Angebot machen – und gewinnt am Ende den ganzen Markt."
+        },
+        {
+          "text": "»Verkehr funktioniert wie Gravitation«, sagt Krauss, ein Mann mit Hipsterbart und Hoodie."
+        },
+        {
+          "text": "In hohem Tempo zogen die Flix-Gründer in den Anfangsjahren eine Busfirma nach der anderen auf ihre Plattform."
+        },
+        {
+          "text": "Ihnen half, dass die meist mittelständischen Firmen weder über Kapital noch Technologie verfügen, um ein landesweites Netz aufzubauen und den Preiskampf durchzuhalten."
+        },
+        {
+          "text": "Geld sammelten die Jungunternehmer bei großen Risikofonds ein."
+        },
+        {
+          "text": "Den Plan, Fernverbindungen auf der Schiene anzubieten, hatten die Gründer von Beginn an."
+        }
+      ],
+      "directQuotes": [
+        {
+          "text": "André ist Realist, und was Zahlen und Geschäftssinn angeht, einfach exzellent"
+        },
+        {
+          "text": "Verkehr funktioniert wie Gravitation"
+        }
+      ],
+      "inIntro": false,
+      "inTitle": false,
+      "indirectQuotes": [
+        {
+          "text": "Bekamen sie ein Date, erklärten die Jungspunde den Busveteranen, dass Flixbus die Technologieplattform biete und sich um Fahrpläne und Ticketvertrieb kümmere."
+        },
+        {
+          "text": "Busse kaufen, Fahrer einstellen und den Betrieb übernehmen – all das bleibe Aufgabe der Fuhrunternehmen."
+        },
+        {
+          "text": "Daran arbeiten wir gerade, das bringen wir nächstes Mal mit, antworteten sie."
+        },
+        {
+          "text": "Lägen zwei große Städte nah beieinander, gebe es einen großen täglichen Reisebedarf."
+        },
+        {
+          "text": "Hamburg und Berlin in hoher Taktung zu verbinden, sei simpel."
+        },
+        {
+          "text": "Zwischen kleineren, weiter entfernten Städten wie Freiburg oder Nürnberg werde die Anziehungskraft schwächer."
+        },
+        {
+          "text": "Beide aber könnten Stationen auf dem Weg zu größeren Metropolen sein."
+        },
+        {
+          "text": "Nur wer über genug Daten und Technologie verfüge, könne sein Netz optimal auslasten und Busfahren für die Kunden einfacher und günstiger machen."
+        }
+      ],
+      "isMain": false,
+      "name": "Daniel Krauss",
+      "occupations": [
+        {
+          "text": "Mitgründer"
+        },
+        {
+          "text": "Wirtschaftsinformatiker"
+        }
+      ],
+      "occurrences": {
+        "firstNameOnly": 0,
+        "fullName": 2,
+        "lastNameOnly": 4,
+        "total": 6
+      },
+      "quotedInIntro": false,
+      "quotedInTitle": false,
+      "sex": "male"
+    },
+    {
+      "age": -1,
+      "alternativeNames": [],
+      "birthday": null,
+      "descriptiveTexts": [
+        {
+          "text": "Thomas Blaguss gehört zu den mittelständischen Busunternehmern alter Schule, die sich auf Flix eingelassen haben."
+        },
+        {
+          "text": "Im dunkelblauen Jackett mit großem Karo und eckiger Brille sitzt er in seinem Büro in Wien, ein paar vertrocknende Topfpflanzen schmücken die Fensterbank vor grauen Jalousien."
+        },
+        {
+          "text": " Seit den Siebzigerjahren bietet »Blaguss Bus« Fernreisen an, vor allem Richtung Balkan."
+        },
+        {
+          "text": "Als der deutsche Markt liberalisiert wurde, schwappte der Boom auch nach Österreich, über Nacht hatte Blaguss neue Konkurrenz."
+        },
+        {
+          "text": "Wie alle Flix-Partner bekommt Blaguss drei Viertel der Ticketeinnahmen."
+        }
+      ],
+      "directQuotes": [
+        {
+          "text": "Wir standen vor der Entscheidung, als relativ kleiner Anbieter um unsere Selbstständigkeit zu kämpfen und gegen die neue Konkurrenz anzutreten oder bei Flix mitzumachen."
+        },
+        {
+          "text": "Der Kampf war nicht zu gewinnen."
+        }
+      ],
+      "inIntro": false,
+      "inTitle": false,
+      "indirectQuotes": [
+        {
+          "text": "Die Entscheidung sei schnell gefallen."
+        }
+      ],
+      "isMain": false,
+      "name": "Thomas Blaguss",
+      "occupations": [
+        {
+          "text": "eingelassen auf Flix"
+        }
+      ],
+      "occurrences": {
+        "firstNameOnly": 0,
+        "fullName": 1,
+        "lastNameOnly": 3,
+        "total": 4
+      },
+      "quotedInIntro": false,
+      "quotedInTitle": false,
+      "sex": "male"
+    },
+    {
+      "age": -1,
+      "alternativeNames": [],
+      "birthday": null,
+      "descriptiveTexts": [
+        {
+          "text": "»In vielen privaten Busfirmen, meist in Familienbesitz, gibt es keine Betriebsräte. Sie sind gewerkschaftlich nicht organisiert, und die Busfahrer sind Einzelkämpfer«, sagt Andreas Schackert, Leiter der Fachgruppe Busse und Bahnen bei der Gewerkschaft Ver.di."
+        }
+      ],
+      "directQuotes": [
+        {
+          "text": "In vielen privaten Busfirmen, meist in Familienbesitz, gibt es keine Betriebsräte."
+        },
+        {
+          "text": "Sie sind gewerkschaftlich nicht organisiert, und die Busfahrer sind Einzelkämpfer"
+        }
+      ],
+      "inIntro": false,
+      "inTitle": false,
+      "indirectQuotes": [],
+      "isMain": false,
+      "name": "Andreas Schackert",
+      "occupations": [
+        {
+          "text": "Leiter der Fachgruppe Busse und Bahnen bei der Gewerkschaft Ver.di"
+        }
+      ],
+      "occurrences": {
+        "firstNameOnly": 0,
+        "fullName": 1,
+        "lastNameOnly": 0,
+        "total": 1
+      },
+      "quotedInIntro": false,
+      "quotedInTitle": false,
+      "sex": "male"
+    },
+    {
+      "age": -1,
+      "alternativeNames": [],
+      "birthday": null,
+      "descriptiveTexts": [
+        {
+          "text": "In der Vergangenheit hätten Flix-Partner oft untertariflich bezahlt, sagt Dirk Schlömer."
+        },
+        {
+          "text": "Der Vorstandsvorsitzende von Mobifair, einem Verein für fairen Wettbewerb in der Mobilitätswirtschaft, konzediert allerdings, die Situation habe sich gebessert."
+        }
+      ],
+      "directQuotes": [
+        {
+          "text": "Wir hören aktuell keine Klagen aus den Subunternehmen."
+        }
+      ],
+      "inIntro": false,
+      "inTitle": false,
+      "indirectQuotes": [
+        {
+          "text": "In der Vergangenheit hätten Flix-Partner oft untertariflich bezahlt, sagt Dirk Schlömer."
+        },
+        {
+          "text": "Der Vorstandsvorsitzende von Mobifair, einem Verein für fairen Wettbewerb in der Mobilitätswirtschaft, konzediert allerdings, die Situation habe sich gebessert."
+        },
+        {
+          "text": "Der Arbeitsmarkt für Busfahrer sei leer gefegt, wer im Geschäft bleiben wolle, müsse höhere Gehälter zahlen."
+        }
+      ],
+      "isMain": false,
+      "name": "Dirk Schlömer",
+      "occupations": [
+        {
+          "text": "Vorstandsvorsitzender von Mobifair"
+        }
+      ],
+      "occurrences": {
+        "firstNameOnly": 0,
+        "fullName": 1,
+        "lastNameOnly": 0,
+        "total": 1
+      },
+      "quotedInIntro": false,
+      "quotedInTitle": false,
+      "sex": "male"
+    },
+    {
+      "age": -1,
+      "alternativeNames": [],
+      "birthday": null,
+      "descriptiveTexts": [
+        {
+          "text": "Bei Verkehrsminister Volker Wissing (FDP) und Kanzler Olaf Scholz (SPD) prallt er jedoch ebenso ab wie die Grünen, deren Parteibuch er noch hat."
+        }
+      ],
+      "directQuotes": [],
+      "inIntro": false,
+      "inTitle": false,
+      "indirectQuotes": [],
+      "isMain": false,
+      "name": "Volker Wissing",
+      "occupations": [
+        {
+          "text": "Verkehrsminister"
+        }
+      ],
+      "occurrences": {
+        "firstNameOnly": 0,
+        "fullName": 1,
+        "lastNameOnly": 0,
+        "total": 1
+      },
+      "quotedInIntro": false,
+      "quotedInTitle": false,
+      "sex": "male"
+    },
+    {
+      "age": -1,
+      "alternativeNames": [],
+      "birthday": null,
+      "descriptiveTexts": [
+        {
+          "text": "Bei Verkehrsminister Volker Wissing (FDP) und Kanzler Olaf Scholz (SPD) prallt er jedoch ebenso ab wie die Grünen, deren Parteibuch er noch hat."
+        }
+      ],
+      "directQuotes": [],
+      "inIntro": false,
+      "inTitle": false,
+      "indirectQuotes": [],
+      "isMain": false,
+      "name": "Olaf Scholz",
+      "occupations": [
+        {
+          "text": "Kanzler"
+        }
+      ],
+      "occurrences": {
+        "firstNameOnly": 0,
+        "fullName": 1,
+        "lastNameOnly": 0,
+        "total": 1
+      },
+      "quotedInIntro": false,
+      "quotedInTitle": false,
+      "sex": "male"
+    },
+    {
+      "age": -1,
+      "alternativeNames": [],
+      "birthday": null,
+      "descriptiveTexts": [
+        {
+          "text": "Dem früheren Verkehrsminister Andreas Scheuer hat er mal einen ganzen Aktenordner in die Hand gedrückt: der Konzessionsantrag für eine einzige neue Busstrecke."
+        }
+      ],
+      "directQuotes": [],
+      "inIntro": false,
+      "inTitle": false,
+      "indirectQuotes": [],
+      "isMain": false,
+      "name": "Andreas Scheuer",
+      "occupations": [
+        {
+          "text": "früherer Verkehrsminister"
+        }
+      ],
+      "occurrences": {
+        "firstNameOnly": 0,
+        "fullName": 1,
+        "lastNameOnly": 0,
+        "total": 1
+      },
+      "quotedInIntro": false,
+      "quotedInTitle": false,
+      "sex": "male"
+    },
+    {
+      "age": -1,
+      "alternativeNames": [],
+      "birthday": null,
+      "descriptiveTexts": [
+        {
+          "text": "Und typische Start-up-Fehler hat Schwämmlein bisher vermieden, es sei ihm wie wenigen anderen gelungen, »eine Firma zu gründen, sie groß zu machen und dann als etablierte Firma zu führen«, lobt Jörn Nikolay, Partner beim Finanzinvestor General Atlantic, der mit rund 18 Prozent an Flix beteiligt ist."
+        }
+      ],
+      "directQuotes": [
+        {
+          "text": "eine Firma zu gründen, sie groß zu machen und dann als etablierte Firma zu führen"
+        }
+      ],
+      "inIntro": false,
+      "inTitle": false,
+      "indirectQuotes": [
+        {
+          "text": "Und typische Start-up-Fehler hat Schwämmlein bisher vermieden, es sei ihm wie wenigen anderen gelungen, »eine Firma zu gründen, sie groß zu machen und dann als etablierte Firma zu führen«, lobt Jörn Nikolay, Partner beim Finanzinvestor General Atlantic, der mit rund 18 Prozent an Flix beteiligt ist."
+        }
+      ],
+      "isMain": false,
+      "name": "Jörn Nikolay",
+      "occupations": [
+        {
+          "text": "Partner beim Finanzinvestor General Atlantic"
+        }
+      ],
+      "occurrences": {
+        "firstNameOnly": 0,
+        "fullName": 1,
+        "lastNameOnly": 0,
+        "total": 1
+      },
+      "quotedInIntro": false,
+      "quotedInTitle": false,
+      "sex": "male"
+    },
+    {
+      "age": -1,
+      "alternativeNames": [],
+      "birthday": null,
+      "descriptiveTexts": [
+        {
+          "text": "Gerade hat Flix den früheren Daimler-Finanzvorstand Bodo Uebber als Aufsichtsratschef angeheuert, einen Kapitalmarktprofi."
+        }
+      ],
+      "directQuotes": [],
+      "inIntro": false,
+      "inTitle": false,
+      "indirectQuotes": [],
+      "isMain": false,
+      "name": "Bodo Uebber",
+      "occupations": [
+        {
+          "text": "Aufsichtsratschef"
+        },
+        {
+          "text": "früherer Daimler-Finanzvorstand"
+        },
+        {
+          "text": "Kapitalmarktprofi"
+        }
+      ],
+      "occurrences": {
+        "firstNameOnly": 0,
+        "fullName": 1,
+        "lastNameOnly": 0,
+        "total": 1
+      },
+      "quotedInIntro": false,
+      "quotedInTitle": false,
+      "sex": "male"
+    }
+  ],
+  "subtopics": [
+    "Unternehmen",
+    "Wirtschaft",
+    "Flix"
+  ]
+}

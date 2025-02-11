@@ -1,0 +1,1039 @@
+{
+    "persons": [
+        {
+            "name": "Mika H\u00e4kkinen",
+            "alternativeNames": [],
+            "age": 54,
+            "sex": "male",
+            "occurences": {
+                "total": 1,
+                "firstNameOnly": 0,
+                "lastNameOnly": 0,
+                "fullName": 1,
+                "nickname": 0
+            },
+            "inTitle": false,
+            "inIntro": false,
+            "_name": {
+                "firstname": "Mika",
+                "lastname": "H\u00e4kkinen",
+                "nickname": null,
+                "alternative_names": [],
+                "academic_title": null,
+                "nobility_title_or_rank": null
+            },
+            "descriptiveTexts": [
+                {
+                    "text": "Wer, entscheidet Janne Honkanen (43) mit Freund und Gesch\u00e4ftspartner Formel-1-Weltmeister Mika H\u00e4kkinen (54)."
+                }
+            ],
+            "occupations": [
+                {
+                    "text": "Formel-1-Weltmeister"
+                }
+            ],
+            "directQuotes": [],
+            "quotedInTitle": false,
+            "quotedInIntro": false
+        },
+        {
+            "name": "Ludwig II",
+            "alternativeNames": [],
+            "age": -1,
+            "sex": "male",
+            "occurences": {
+                "total": 1,
+                "firstNameOnly": 0,
+                "lastNameOnly": 0,
+                "fullName": 1,
+                "nickname": 0
+            },
+            "inTitle": false,
+            "inIntro": false,
+            "_name": {
+                "firstname": "Ludwig",
+                "lastname": "II",
+                "nickname": null,
+                "alternative_names": [],
+                "academic_title": null,
+                "nobility_title_or_rank": "K\u00f6nig"
+            },
+            "descriptiveTexts": [
+                {
+                    "text": "1913 entschied sie, in der Kutsche auf dem Weg zur Bergh\u00fctte von K\u00f6nig Ludwig II. am Fu\u00dfe des Wettersteinmassivs: \"Hier werde ich mir mein Hideaway bauen.\""
+                }
+            ],
+            "occupations": [],
+            "directQuotes": [],
+            "quotedInTitle": false,
+            "quotedInIntro": false
+        },
+        {
+            "name": "Virat Kohli",
+            "alternativeNames": [],
+            "age": -1,
+            "sex": "male",
+            "occurences": {
+                "total": 1,
+                "firstNameOnly": 0,
+                "lastNameOnly": 0,
+                "fullName": 1,
+                "nickname": 0
+            },
+            "inTitle": false,
+            "inIntro": false,
+            "_name": {
+                "firstname": "Virat",
+                "lastname": "Kohli",
+                "nickname": null,
+                "alternative_names": [],
+                "academic_title": null,
+                "nobility_title_or_rank": null
+            },
+            "descriptiveTexts": [
+                {
+                    "text": "Prinz Albert von Monaco, Cricket-Star Virat Kohli und Techtycoone der Silicon Valley waren schon hier."
+                }
+            ],
+            "occupations": [
+                {
+                    "text": "Cricket-Star"
+                }
+            ],
+            "directQuotes": [],
+            "quotedInTitle": false,
+            "quotedInIntro": false
+        },
+        {
+            "name": "Paul McCartney",
+            "alternativeNames": [],
+            "age": 75,
+            "sex": "male",
+            "occurences": {
+                "total": 1,
+                "firstNameOnly": 0,
+                "lastNameOnly": 0,
+                "fullName": 1,
+                "nickname": 0
+            },
+            "inTitle": false,
+            "inIntro": false,
+            "_name": {
+                "firstname": "Paul",
+                "lastname": "McCartney",
+                "nickname": null,
+                "alternative_names": [],
+                "academic_title": null,
+                "nobility_title_or_rank": null
+            },
+            "descriptiveTexts": [
+                {
+                    "text": "Heute checkt auch mal Paul McCartney ein, 750 Euro kostet eine Nacht, mindestens."
+                }
+            ],
+            "occupations": [],
+            "directQuotes": [],
+            "quotedInTitle": false,
+            "quotedInIntro": false
+        },
+        {
+            "name": "Mussolini",
+            "alternativeNames": [],
+            "age": -1,
+            "sex": "male",
+            "occurences": {
+                "total": 1,
+                "firstNameOnly": 0,
+                "lastNameOnly": 0,
+                "fullName": 1,
+                "nickname": 0
+            },
+            "inTitle": false,
+            "inIntro": false,
+            "_name": {
+                "firstname": null,
+                "lastname": "Mussolini",
+                "nickname": null,
+                "alternative_names": [],
+                "academic_title": null,
+                "nobility_title_or_rank": null
+            },
+            "descriptiveTexts": [
+                {
+                    "text": "Das Problem: Das 170 Jahre alte Fort der \u00d6sterreicher hatte Mussolini im Zweiten Weltkrieg als Gef\u00e4ngnis f\u00fcr Antifaschisten genutzt, ein Teil wurde gefoltert, verhungerte, starb."
+                }
+            ],
+            "occupations": [
+                {
+                    "text": "Folter"
+                }
+            ],
+            "directQuotes": [],
+            "quotedInTitle": false,
+            "quotedInIntro": false
+        },
+        {
+            "name": "Anja Kirig",
+            "alternativeNames": [],
+            "age": -1,
+            "sex": "female",
+            "occurences": {
+                "total": 1,
+                "firstNameOnly": 0,
+                "lastNameOnly": 0,
+                "fullName": 1,
+                "nickname": 0
+            },
+            "inTitle": false,
+            "inIntro": false,
+            "_name": {
+                "firstname": "Anja",
+                "lastname": "Kirig",
+                "nickname": null,
+                "alternative_names": [],
+                "academic_title": null,
+                "nobility_title_or_rank": null
+            },
+            "descriptiveTexts": [
+                {
+                    "text": "\"Man will ber\u00fchrt werden von Natur und Menschen\", sagt Anja Kirig, Tourismusexpertin beim Frankfurter Zukunftsinstitut."
+                }
+            ],
+            "occupations": [
+                {
+                    "text": "Tourismusexpertin"
+                }
+            ],
+            "directQuotes": [
+                {
+                    "text": "Man will ber\u00fchrt werden von Natur und Menschen"
+                },
+                {
+                    "text": "eine Grundsehnsucht nach einer Welt, die einem antwortet"
+                }
+            ],
+            "quotedInTitle": false,
+            "quotedInIntro": false
+        },
+        {
+            "name": "Covid",
+            "alternativeNames": [],
+            "age": -1,
+            "sex": "unknown",
+            "occurences": {
+                "total": 2,
+                "firstNameOnly": 0,
+                "lastNameOnly": 0,
+                "fullName": 2,
+                "nickname": 0
+            },
+            "inTitle": false,
+            "inIntro": false,
+            "_name": {
+                "firstname": null,
+                "lastname": null,
+                "nickname": null,
+                "alternative_names": [],
+                "academic_title": null,
+                "nobility_title_or_rank": null
+            },
+            "descriptiveTexts": [
+                {
+                    "text": "Vor allem seit Covid sind echte Auszeiten gesucht: Etwa 10 Prozent aller Corona-Patienten, schreibt Hirnforscher Martin Korte, Neurobiologe an der TU Braunschweig, in seinem Buch \"Long Covid\", leiden selbst nach mildem Verlauf unter Ersch\u00f6pfung, Konzentrationsproblemen."
+                }
+            ],
+            "occupations": [
+                {
+                    "text": "Ersch\u00f6pfung, Konzentrationsprobleme"
+                },
+                {
+                    "text": "Depressionen und Angstzust\u00e4nde"
+                }
+            ],
+            "directQuotes": [],
+            "quotedInTitle": false,
+            "quotedInIntro": false
+        },
+        {
+            "name": "Janne Honkanen",
+            "alternativeNames": [],
+            "age": 43,
+            "sex": "male",
+            "occurences": {
+                "total": 2,
+                "firstNameOnly": 0,
+                "lastNameOnly": 1,
+                "fullName": 1,
+                "nickname": 0
+            },
+            "inTitle": false,
+            "inIntro": false,
+            "_name": {
+                "firstname": "Janne",
+                "lastname": "Honkanen",
+                "nickname": null,
+                "alternative_names": [],
+                "academic_title": null,
+                "nobility_title_or_rank": null
+            },
+            "descriptiveTexts": [
+                {
+                    "text": "Wer, entscheidet Janne Honkanen (43) mit Freund und Gesch\u00e4ftspartner Formel-1-Weltmeister Mika H\u00e4kkinen (54)."
+                },
+                {
+                    "text": "Honkanen fuhr fr\u00fcher Schneemobilrennen, f\u00fchrte wohlhabende Familien durch die Wildnis Lapplands."
+                }
+            ],
+            "occupations": [
+                {
+                    "text": "Gesch\u00e4ftspartner"
+                }
+            ],
+            "directQuotes": [
+                {
+                    "text": "Octola"
+                }
+            ],
+            "quotedInTitle": false,
+            "quotedInIntro": false
+        },
+        {
+            "name": "Albert von Monaco",
+            "alternativeNames": [],
+            "age": -1,
+            "sex": "male",
+            "occurences": {
+                "total": 1,
+                "firstNameOnly": 0,
+                "lastNameOnly": 0,
+                "fullName": 1,
+                "nickname": 0
+            },
+            "inTitle": false,
+            "inIntro": false,
+            "_name": {
+                "firstname": "Albert",
+                "lastname": "von Monaco",
+                "nickname": null,
+                "alternative_names": [],
+                "academic_title": null,
+                "nobility_title_or_rank": "F\u00fcrst"
+            },
+            "descriptiveTexts": [
+                {
+                    "text": "Prinz Albert von Monaco, Cricket-Star Virat Kohli und Techtycoone der Silicon Valley waren schon hier."
+                }
+            ],
+            "occupations": [
+                {
+                    "text": "Prinz"
+                }
+            ],
+            "directQuotes": [],
+            "quotedInTitle": false,
+            "quotedInIntro": false
+        },
+        {
+            "name": "Henning A. Schaub",
+            "alternativeNames": [],
+            "age": -1,
+            "sex": "male",
+            "occurences": {
+                "total": 2,
+                "firstNameOnly": 0,
+                "lastNameOnly": 1,
+                "fullName": 1,
+                "nickname": 0
+            },
+            "inTitle": false,
+            "inIntro": false,
+            "_name": {
+                "firstname": "Henning A.",
+                "lastname": "Schaub",
+                "nickname": null,
+                "alternative_names": [],
+                "academic_title": null,
+                "nobility_title_or_rank": null
+            },
+            "descriptiveTexts": [
+                {
+                    "text": "Schaub ist von Berlin an die Adria gezogen: \"Montenegro wirkt rauer als die Toskana, besitzt aber auch Tr\u00fcffel, Oliven\u00f6l, Wein, Oktopus.\""
+                }
+            ],
+            "occupations": [
+                {
+                    "text": "Hoteldirektor"
+                },
+                {
+                    "text": "Montenegro wirkt rauer als die Toskana, besitzt aber auch Tr\u00fcffel, Oliven\u00f6l, Wein, Oktopus."
+                }
+            ],
+            "directQuotes": [
+                {
+                    "text": "Forbes"
+                }
+            ],
+            "quotedInTitle": false,
+            "quotedInIntro": false
+        },
+        {
+            "name": "Mamula",
+            "alternativeNames": [],
+            "age": -1,
+            "sex": "unknown",
+            "occurences": {
+                "total": 3,
+                "firstNameOnly": 0,
+                "lastNameOnly": 0,
+                "fullName": 3,
+                "nickname": 0
+            },
+            "inTitle": false,
+            "inIntro": false,
+            "_name": {
+                "firstname": null,
+                "lastname": null,
+                "nickname": null,
+                "alternative_names": [],
+                "academic_title": null,
+                "nobility_title_or_rank": null
+            },
+            "descriptiveTexts": [
+                {
+                    "text": "Mit dem Helikopter flog er die Adriak\u00fcste entlang und fand eine Insel: Die musste es sein, Mamula."
+                },
+                {
+                    "text": "Jetzt er\u00f6ffnet \"Mamula Island\", die Nacht ab 500 Euro, 1300 Euro im Sommer."
+                },
+                {
+                    "text": "Jede Segeljacht, die in die Bucht von Kotor einl\u00e4uft, den l\u00e4ngsten Fjord S\u00fcdeuropas, schippert an Mamula vorbei."
+                }
+            ],
+            "occupations": [
+                {
+                    "text": "Investor"
+                },
+                {
+                    "text": "verfallen, Graffiti \u00fcberall, M\u00fcll"
+                },
+                {
+                    "text": "ein Kompromiss aus altem Modebad und neuem Eskapismus"
+                },
+                {
+                    "text": "Ferien auf der Folterinsel"
+                }
+            ],
+            "directQuotes": [],
+            "quotedInTitle": false,
+            "quotedInIntro": false
+        },
+        {
+            "name": "Jakob Edinger",
+            "alternativeNames": [],
+            "age": 78,
+            "sex": "male",
+            "occurences": {
+                "total": 7,
+                "firstNameOnly": 0,
+                "lastNameOnly": 5,
+                "fullName": 2,
+                "nickname": 0
+            },
+            "inTitle": false,
+            "inIntro": false,
+            "_name": {
+                "firstname": "Jakob",
+                "lastname": "Edinger",
+                "nickname": null,
+                "alternative_names": [],
+                "academic_title": null,
+                "nobility_title_or_rank": null
+            },
+            "descriptiveTexts": [
+                {
+                    "text": "Da haben Sie garantiert Ihre Ruhe."
+                },
+                {
+                    "text": "Es geh\u00f6rt Jakob Edinger (78), einem Tiroler Unternehmensberater, wei\u00dfes Haar, Brille, gro\u00df gewachsen."
+                },
+                {
+                    "text": "Edinger sitzt im Salon am Kamin."
+                },
+                {
+                    "text": "Edinger kaufte es der Kirche ab, nannte es \"Das Kranzbach\"."
+                },
+                {
+                    "text": "Zwei Gipfel hat Edinger hinter sich, \u00fcberall Panzerglas, Security, die Weltpolitik mietet alles komplett."
+                },
+                {
+                    "text": "Einen dritten Gipfel braucht er nicht."
+                },
+                {
+                    "text": "Fast 5000 touristische Destinationen hat Edinger in seinem Leben beraten, jetzt will er sein eigenes Ding machen: \u00dcber 40 Millionen Euro hat er aufgetrieben und ins \"Kranzbach\" investiert."
+                },
+                {
+                    "text": "Es gibt aktuell, findet er, f\u00fcr Hoteliers so viel zu tun wie vielleicht nie zuvor."
+                },
+                {
+                    "text": "Die Menschen, sagt der heutige Wohlf\u00fchlberater Edinger, br\u00e4uchten jetzt Ruhe, F\u00fcrsorge, Eleganz."
+                },
+                {
+                    "text": "\"Seien Sie von nun an unerreichbar\", steht an der Garageneinfahrt."
+                },
+                {
+                    "text": "Hausherr Jakob Edinger schenkt Earl-Grey-Tee nach."
+                }
+            ],
+            "occupations": [
+                {
+                    "text": "Unternehmensberater"
+                },
+                {
+                    "text": "Wohlf\u00fchlberater"
+                },
+                {
+                    "text": "Hotelier"
+                }
+            ],
+            "directQuotes": [
+                {
+                    "text": "Kranzbach"
+                },
+                {
+                    "text": "Vielen geht es nicht gut"
+                }
+            ],
+            "quotedInTitle": false,
+            "quotedInIntro": false
+        },
+        {
+            "name": "Christine Lagarde",
+            "alternativeNames": [],
+            "age": 67,
+            "sex": "female",
+            "occurences": {
+                "total": 1,
+                "firstNameOnly": 0,
+                "lastNameOnly": 0,
+                "fullName": 1,
+                "nickname": 0
+            },
+            "inTitle": false,
+            "inIntro": false,
+            "_name": {
+                "firstname": "Christine",
+                "lastname": "Lagarde",
+                "nickname": null,
+                "alternative_names": [],
+                "academic_title": null,
+                "nobility_title_or_rank": null
+            },
+            "descriptiveTexts": [
+                {
+                    "text": "Zum G7-Gipfel 2015 kamen Christine Lagarde (67) und afrikanische Staatschefs."
+                }
+            ],
+            "occupations": [
+                {
+                    "text": "Christine Lagarde"
+                }
+            ],
+            "directQuotes": [],
+            "quotedInTitle": false,
+            "quotedInIntro": false
+        },
+        {
+            "name": "Mary Isabel Portman",
+            "alternativeNames": [],
+            "age": -1,
+            "sex": "female",
+            "occurences": {
+                "total": 1,
+                "firstNameOnly": 0,
+                "lastNameOnly": 0,
+                "fullName": 1,
+                "nickname": 0
+            },
+            "inTitle": false,
+            "inIntro": false,
+            "_name": {
+                "firstname": "Mary Isabel",
+                "lastname": "Portman",
+                "nickname": null,
+                "alternative_names": [],
+                "academic_title": null,
+                "nobility_title_or_rank": null
+            },
+            "descriptiveTexts": [
+                {
+                    "text": "Erbauen lie\u00df das M\u00e4rchenschloss einst die britische Adlige Mary Isabel Portman, unverheiratet, reich, von der Familie aus London abgeschoben."
+                },
+                {
+                    "text": "1913 entschied sie, in der Kutsche auf dem Weg zur Bergh\u00fctte von K\u00f6nig Ludwig II. am Fu\u00dfe des Wettersteinmassivs: \"Hier werde ich mir mein Hideaway bauen.\""
+                },
+                {
+                    "text": "Das sie wohl nie betrat."
+                }
+            ],
+            "occupations": [
+                {
+                    "text": "britische Adlige"
+                }
+            ],
+            "directQuotes": [
+                {
+                    "text": "Zauberberg"
+                }
+            ],
+            "quotedInTitle": false,
+            "quotedInIntro": false
+        },
+        {
+            "name": "Andreas F\u00f6rderer",
+            "alternativeNames": [],
+            "age": -1,
+            "sex": "male",
+            "occurences": {
+                "total": 1,
+                "firstNameOnly": 0,
+                "lastNameOnly": 0,
+                "fullName": 1,
+                "nickname": 0
+            },
+            "inTitle": false,
+            "inIntro": false,
+            "_name": {
+                "firstname": "Andreas",
+                "lastname": "F\u00f6rderer",
+                "nickname": null,
+                "alternative_names": [],
+                "academic_title": null,
+                "nobility_title_or_rank": null
+            },
+            "descriptiveTexts": [
+                {
+                    "text": "Andreas F\u00f6rderer hat im Auftrag der Stadt Baden-Baden eine Studie dazu durchgef\u00fchrt."
+                },
+                {
+                    "text": "Er nennt die Orte \"Playgrounds of Europe\"."
+                }
+            ],
+            "occupations": [],
+            "directQuotes": [
+                {
+                    "text": "Playgrounds of Europe"
+                }
+            ],
+            "quotedInTitle": false,
+            "quotedInIntro": false
+        },
+        {
+            "name": "Santa Claus",
+            "alternativeNames": [],
+            "age": -1,
+            "sex": "male",
+            "occurences": {
+                "total": 1,
+                "firstNameOnly": 0,
+                "lastNameOnly": 0,
+                "fullName": 1,
+                "nickname": 0
+            },
+            "inTitle": false,
+            "inIntro": false,
+            "_name": {
+                "firstname": "Santa",
+                "lastname": "Claus",
+                "nickname": null,
+                "alternative_names": [],
+                "academic_title": null,
+                "nobility_title_or_rank": null
+            },
+            "descriptiveTexts": [
+                {
+                    "text": "In der Tundra kann man Nordlichter sehen (mit Gl\u00fcck), Santa Claus (wird arrangiert), Eisangeln und Eisbaden, Husky-Schlitten fahren, Rentiere f\u00fcttern."
+                }
+            ],
+            "occupations": [
+                {
+                    "text": "Santa Claus"
+                }
+            ],
+            "directQuotes": [],
+            "quotedInTitle": false,
+            "quotedInIntro": false
+        },
+        {
+            "name": "Karen Roos",
+            "alternativeNames": [],
+            "age": -1,
+            "sex": "female",
+            "occurences": {
+                "total": 2,
+                "firstNameOnly": 0,
+                "lastNameOnly": 1,
+                "fullName": 1,
+                "nickname": 0
+            },
+            "inTitle": false,
+            "inIntro": false,
+            "_name": {
+                "firstname": "Karen",
+                "lastname": "Roos",
+                "nickname": null,
+                "alternative_names": [],
+                "academic_title": null,
+                "nobility_title_or_rank": null
+            },
+            "descriptiveTexts": [
+                {
+                    "text": "Bekker fragte seine Frau Karen Roos, wo sie gern leben w\u00fcrde, so erz\u00e4hlt sie es im Girlahead-Podcast von Mary Gostelow."
+                },
+                {
+                    "text": "Roos ist mit englischer Literatur aufgewachsen und Jane-Austen-Fan."
+                },
+                {
+                    "text": "Wenn man sie denn unter den G\u00e4rtnern erkennt."
+                }
+            ],
+            "occupations": [
+                {
+                    "text": "Jane-Austen-Fan"
+                }
+            ],
+            "directQuotes": [
+                {
+                    "text": "Ferien auf der Folterinsel"
+                }
+            ],
+            "quotedInTitle": false,
+            "quotedInIntro": false
+        },
+        {
+            "name": "Tencent",
+            "alternativeNames": [],
+            "age": -1,
+            "sex": "unknown",
+            "occurences": {
+                "total": 1,
+                "firstNameOnly": 0,
+                "lastNameOnly": 0,
+                "fullName": 1,
+                "nickname": 0
+            },
+            "inTitle": false,
+            "inIntro": false,
+            "_name": {
+                "firstname": null,
+                "lastname": null,
+                "nickname": null,
+                "alternative_names": [],
+                "academic_title": null,
+                "nobility_title_or_rank": null
+            },
+            "descriptiveTexts": [
+                {
+                    "text": "Heute ist Tencent einer der am schnellsten wachsenden IT-Giganten, dem WeChat geh\u00f6rt."
+                }
+            ],
+            "occupations": [],
+            "directQuotes": [],
+            "quotedInTitle": false,
+            "quotedInIntro": false
+        },
+        {
+            "name": "Ilse Crawford",
+            "alternativeNames": [],
+            "age": -1,
+            "sex": "female",
+            "occurences": {
+                "total": 1,
+                "firstNameOnly": 0,
+                "lastNameOnly": 0,
+                "fullName": 1,
+                "nickname": 0
+            },
+            "inTitle": false,
+            "inIntro": false,
+            "_name": {
+                "firstname": "Ilse",
+                "lastname": "Crawford",
+                "nickname": null,
+                "alternative_names": [],
+                "academic_title": null,
+                "nobility_title_or_rank": null
+            },
+            "descriptiveTexts": [
+                {
+                    "text": "\"Soho House\"-Designerin Ilse Crawford hat das Domizil eingerichtet, auch einen Dart-Raum und einen mit Brettspielen f\u00fcr Erwachsene."
+                }
+            ],
+            "occupations": [
+                {
+                    "text": "Designerin"
+                }
+            ],
+            "directQuotes": [
+                {
+                    "text": "Soho House"
+                }
+            ],
+            "quotedInTitle": false,
+            "quotedInIntro": false
+        },
+        {
+            "name": "Samih Sawiris",
+            "alternativeNames": [],
+            "age": 66,
+            "sex": "male",
+            "occurences": {
+                "total": 6,
+                "firstNameOnly": 0,
+                "lastNameOnly": 5,
+                "fullName": 1,
+                "nickname": 0
+            },
+            "inTitle": false,
+            "inIntro": false,
+            "_name": {
+                "firstname": "Samih",
+                "lastname": "Sawiris",
+                "nickname": null,
+                "alternative_names": [],
+                "academic_title": null,
+                "nobility_title_or_rank": null
+            },
+            "descriptiveTexts": [
+                {
+                    "text": "Und Samih Sawiris (66) segelt gern."
+                },
+                {
+                    "text": "850 Millionen Dollar, so \"Forbes\", soll er besitzen, der Sawiris-Clan ist unter anderem beteiligt am Dax-Konzern Adidas."
+                },
+                {
+                    "text": "Die Sawiris-Familie ist die reichste \u00c4gyptens."
+                },
+                {
+                    "text": "Der 66-J\u00e4hrige ist in Kairo geboren, hat in Berlin an der TU Wirtschaftsingenieurwesen studiert, spricht flie\u00dfend Deutsch und hat ein Hobby, das eines Fastmilliard\u00e4rs w\u00fcrdig ist: Er baut St\u00e4dte aus dem Nichts, etwa El Gouna, Andermatt, Lu\u0161tica Bay in Montenegro."
+                },
+                {
+                    "text": "\"Geduld und Sturheit\" zeichnen ihn aus, sagt Sawiris \u00fcber sich selbst."
+                },
+                {
+                    "text": "Er baute Lu\u0161tica Bay, wurde montenegrinischer Staatsb\u00fcrger, aber damit war er noch nicht am Ziel."
+                },
+                {
+                    "text": "Er suchte ein Versteck, einen Zufluchtsort."
+                },
+                {
+                    "text": "Mit dem Helikopter flog er die Adriak\u00fcste entlang und fand eine Insel: Die musste es sein, Mamula."
+                },
+                {
+                    "text": "F\u00fcr 49 Jahre hat Sawiris die Insel gemietet, das dortige Fort zum Boutiquehotel mit 32 Zimmern, Pools, Restaurants, Strand umgebaut."
+                },
+                {
+                    "text": "Mehr als 15 Millionen Euro hat Sawiris investiert, Fresken restauriert, eine Gedenkst\u00e4tte er\u00f6ffnet und Familien der Opfer, der fr\u00fcheren Insassen, als Erste eingeladen, die Memorial Hall zu besuchen."
+                }
+            ],
+            "occupations": [
+                {
+                    "text": "Investor"
+                }
+            ],
+            "directQuotes": [
+                {
+                    "text": "Octola"
+                }
+            ],
+            "quotedInTitle": false,
+            "quotedInIntro": false
+        },
+        {
+            "name": "Mary Gostelow",
+            "alternativeNames": [],
+            "age": -1,
+            "sex": "female",
+            "occurences": {
+                "total": 2,
+                "firstNameOnly": 1,
+                "lastNameOnly": 0,
+                "fullName": 1,
+                "nickname": 0
+            },
+            "inTitle": false,
+            "inIntro": false,
+            "_name": {
+                "firstname": "Mary",
+                "lastname": "Gostelow",
+                "nickname": null,
+                "alternative_names": [],
+                "academic_title": null,
+                "nobility_title_or_rank": null
+            },
+            "descriptiveTexts": [
+                {
+                    "text": "Erbauen lie\u00df das M\u00e4rchenschloss einst die britische Adlige Mary Isabel Portman, unverheiratet, reich, von der Familie aus London abgeschoben."
+                },
+                {
+                    "text": "1913 entschied sie, in der Kutsche auf dem Weg zur Bergh\u00fctte von K\u00f6nig Ludwig II. am Fu\u00dfe des Wettersteinmassivs: \"Hier werde ich mir mein Hideaway bauen.\""
+                },
+                {
+                    "text": "Das sie wohl nie betrat."
+                },
+                {
+                    "text": "Bekker fragte seine Frau Karen Roos, wo sie gern leben w\u00fcrde, so erz\u00e4hlt sie es im Girlahead-Podcast von Mary Gostelow."
+                }
+            ],
+            "occupations": [],
+            "directQuotes": [],
+            "quotedInTitle": false,
+            "quotedInIntro": false
+        },
+        {
+            "name": "Koos Bekker",
+            "alternativeNames": [],
+            "age": 70,
+            "sex": "male",
+            "occurences": {
+                "total": 4,
+                "firstNameOnly": 0,
+                "lastNameOnly": 2,
+                "fullName": 2,
+                "nickname": 0
+            },
+            "inTitle": false,
+            "inIntro": false,
+            "_name": {
+                "firstname": "Koos",
+                "lastname": "Bekker",
+                "nickname": null,
+                "alternative_names": [],
+                "academic_title": null,
+                "nobility_title_or_rank": null
+            },
+            "descriptiveTexts": [
+                {
+                    "text": "Mit dem \"Newt\", 50 Kilometer s\u00fcdlich von Bristol, hat Koos Bekker so einen R\u00fcckzugsort aufgebaut."
+                },
+                {
+                    "text": "Vor mehr als 20 Jahren investierte er in ein chinesisches Start-up, das niemand kannte."
+                },
+                {
+                    "text": "Bekker fragte seine Frau Karen Roos, wo sie gern leben w\u00fcrde, so erz\u00e4hlt sie es im Girlahead-Podcast von Mary Gostelow."
+                },
+                {
+                    "text": "Koos Bekker begeistert sich f\u00fcr Geschichte, die Reste einer benachbarten r\u00f6mischen Villa lie\u00df er aufwendig restaurieren: Die Villa Ventorum mit Mosaikfu\u00dfboden ist jetzt ein Museum."
+                },
+                {
+                    "text": "Denn so fing alles an: Bekker interessiert sich schon l\u00e4nger f\u00fcr \u00c4pfel."
+                },
+                {
+                    "text": "Wenn man sie denn unter den G\u00e4rtnern erkennt."
+                }
+            ],
+            "occupations": [
+                {
+                    "text": "Investor"
+                },
+                {
+                    "text": "einer der reichsten Afrikaner"
+                },
+                {
+                    "text": "Ex-Chef des Medienhauses Nasper"
+                },
+                {
+                    "text": "gr\u00f6\u00dfter Aktion\u00e4r des Berliner Start-ups Delivery Hero"
+                }
+            ],
+            "directQuotes": [
+                {
+                    "text": "Geduld und Sturheit"
+                },
+                {
+                    "text": "Montenegro wirkt rauer als die Toskana, besitzt aber auch Tr\u00fcffel, Oliven\u00f6l, Wein, Oktopus."
+                },
+                {
+                    "text": "Newt"
+                }
+            ],
+            "quotedInTitle": false,
+            "quotedInIntro": false
+        },
+        {
+            "name": "Kengo Kuma",
+            "alternativeNames": [],
+            "age": -1,
+            "sex": "male",
+            "occurences": {
+                "total": 1,
+                "firstNameOnly": 0,
+                "lastNameOnly": 0,
+                "fullName": 1,
+                "nickname": 0
+            },
+            "inTitle": false,
+            "inIntro": false,
+            "_name": {
+                "firstname": "Kengo",
+                "lastname": "Kuma",
+                "nickname": null,
+                "alternative_names": [],
+                "academic_title": null,
+                "nobility_title_or_rank": null
+            },
+            "descriptiveTexts": [
+                {
+                    "text": "Am Morgen geht eine Gruppe schweigend zum Meditationshaus von Stararchitekt Kengo Kuma: Glasfenster, 1550 Schindeln aus Wei\u00dftanne, ein St\u00fcck Japan-Zen mitten im Wald."
+                }
+            ],
+            "occupations": [
+                {
+                    "text": "Stararchitekt"
+                }
+            ],
+            "directQuotes": [],
+            "quotedInTitle": false,
+            "quotedInIntro": false
+        },
+        {
+            "name": "Martin Korte",
+            "alternativeNames": [],
+            "age": -1,
+            "sex": "male",
+            "occurences": {
+                "total": 1,
+                "firstNameOnly": 0,
+                "lastNameOnly": 0,
+                "fullName": 1,
+                "nickname": 0
+            },
+            "inTitle": false,
+            "inIntro": false,
+            "_name": {
+                "firstname": "Martin",
+                "lastname": "Korte",
+                "nickname": null,
+                "alternative_names": [],
+                "academic_title": null,
+                "nobility_title_or_rank": null
+            },
+            "descriptiveTexts": [
+                {
+                    "text": "Vor allem seit Covid sind echte Auszeiten gesucht: Etwa 10 Prozent aller Corona-Patienten, schreibt Hirnforscher Martin Korte, Neurobiologe an der TU Braunschweig, in seinem Buch \"Long Covid\", leiden selbst nach mildem Verlauf unter Ersch\u00f6pfung, Konzentrationsproblemen."
+                }
+            ],
+            "occupations": [
+                {
+                    "text": "Neurobiologe an der TU Braunschweig"
+                }
+            ],
+            "directQuotes": [
+                {
+                    "text": "Long Covid"
+                }
+            ],
+            "quotedInTitle": false,
+            "quotedInIntro": false
+        }
+    ]
+}

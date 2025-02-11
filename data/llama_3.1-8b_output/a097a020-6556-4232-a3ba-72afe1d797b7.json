@@ -1,0 +1,760 @@
+{
+    "persons": [
+        {
+            "name": "Jonas Rest",
+            "alternativeNames": [],
+            "age": -1,
+            "sex": "male",
+            "occurences": {
+                "total": 1,
+                "firstNameOnly": 0,
+                "lastNameOnly": 0,
+                "fullName": 1,
+                "nickname": 0
+            },
+            "inTitle": false,
+            "inIntro": false,
+            "_name": {
+                "firstname": "Jonas",
+                "lastname": "Rest",
+                "nickname": null,
+                "alternative_names": [],
+                "academic_title": null,
+                "nobility_title_or_rank": null
+            },
+            "descriptiveTexts": [
+                {
+                    "text": "Allerdings weist die 3500-Dollar-Brille noch einige Schw\u00e4chen auf, wie unser Tech-Reporter Jonas Rest j\u00fcngst analysierte."
+                }
+            ],
+            "occupations": [
+                {
+                    "text": "Tech-Reporter"
+                }
+            ],
+            "directQuotes": [],
+            "quotedInTitle": false,
+            "quotedInIntro": false
+        },
+        {
+            "name": "Larry Ellison",
+            "alternativeNames": [],
+            "age": -1,
+            "sex": "male",
+            "occurences": {
+                "total": 1,
+                "firstNameOnly": 0,
+                "lastNameOnly": 0,
+                "fullName": 1,
+                "nickname": 0
+            },
+            "inTitle": false,
+            "inIntro": false,
+            "_name": {
+                "firstname": "Larry",
+                "lastname": "Ellison",
+                "nickname": null,
+                "alternative_names": [],
+                "academic_title": null,
+                "nobility_title_or_rank": null
+            },
+            "descriptiveTexts": [
+                {
+                    "text": "Tech-Dino hebt ab: Im Alter von 78 Jahren ist Oracle-Gr\u00fcnder Larry Ellison noch einmal an Jeff Bezos vorbeigezogen \u2013 zumindest was den pers\u00f6nlichen Reichtum angeht."
+                }
+            ],
+            "occupations": [
+                {
+                    "text": "Tech-Dino"
+                }
+            ],
+            "directQuotes": [],
+            "quotedInTitle": false,
+            "quotedInIntro": false
+        },
+        {
+            "name": "Nico Rose",
+            "alternativeNames": [],
+            "age": -1,
+            "sex": "male",
+            "occurences": {
+                "total": 1,
+                "firstNameOnly": 0,
+                "lastNameOnly": 0,
+                "fullName": 1,
+                "nickname": 0
+            },
+            "inTitle": false,
+            "inIntro": false,
+            "_name": {
+                "firstname": "Nico",
+                "lastname": "Rose",
+                "nickname": null,
+                "alternative_names": [],
+                "academic_title": null,
+                "nobility_title_or_rank": null
+            },
+            "descriptiveTexts": [
+                {
+                    "text": "Der Karriere-Guide: Der Buchautor Nico Rose traf einst den Schwergewichtsweltmeister Wladimir Klitschko zuf\u00e4llig in einem Bostoner Fitnessstudio."
+                }
+            ],
+            "occupations": [
+                {
+                    "text": "Buchautor"
+                }
+            ],
+            "directQuotes": [],
+            "quotedInTitle": false,
+            "quotedInIntro": false
+        },
+        {
+            "name": "Michael Evans",
+            "alternativeNames": [],
+            "age": -1,
+            "sex": "male",
+            "occurences": {
+                "total": 1,
+                "firstNameOnly": 0,
+                "lastNameOnly": 0,
+                "fullName": 1,
+                "nickname": 0
+            },
+            "inTitle": false,
+            "inIntro": false,
+            "_name": {
+                "firstname": "Michael",
+                "lastname": "Evans",
+                "nickname": null,
+                "alternative_names": [],
+                "academic_title": null,
+                "nobility_title_or_rank": null
+            },
+            "descriptiveTexts": [
+                {
+                    "text": "Nun hat sich Alibaba-Pr\u00e4sident Michael Evans zu dem Fall ge\u00e4u\u00dfert und sagt: \"Jack ist am Leben. Es geht ihm gut.\""
+                }
+            ],
+            "occupations": [],
+            "directQuotes": [
+                {
+                    "text": "Jack ist am Leben. Es geht ihm gut."
+                }
+            ],
+            "quotedInTitle": false,
+            "quotedInIntro": false
+        },
+        {
+            "name": "Armin Papperger",
+            "alternativeNames": [],
+            "age": -1,
+            "sex": "male",
+            "occurences": {
+                "total": 1,
+                "firstNameOnly": 0,
+                "lastNameOnly": 0,
+                "fullName": 1,
+                "nickname": 0
+            },
+            "inTitle": false,
+            "inIntro": false,
+            "_name": {
+                "firstname": "Armin",
+                "lastname": "Papperger",
+                "nickname": null,
+                "alternative_names": [],
+                "academic_title": null,
+                "nobility_title_or_rank": null
+            },
+            "descriptiveTexts": [
+                {
+                    "text": "Die Papiere reagierten mit deutlichen Gewinnen auf Aussagen von Konzernchef Armin Papperger, demzufolge der R\u00fcstungskonzern kurz vor einem Milliardenvertrag mit der Bundesregierung steht."
+                }
+            ],
+            "occupations": [
+                {
+                    "text": "Das wird das beste Jahr im Auftragseingang sein ever"
+                }
+            ],
+            "directQuotes": [
+                {
+                    "text": "Das wird das beste Jahr im Auftragseingang sein ever"
+                }
+            ],
+            "quotedInTitle": false,
+            "quotedInIntro": false
+        },
+        {
+            "name": "Jeff Bezos",
+            "alternativeNames": [],
+            "age": -1,
+            "sex": "male",
+            "occurences": {
+                "total": 1,
+                "firstNameOnly": 0,
+                "lastNameOnly": 0,
+                "fullName": 1,
+                "nickname": 0
+            },
+            "inTitle": false,
+            "inIntro": false,
+            "_name": {
+                "firstname": "Jeff",
+                "lastname": "Bezos",
+                "nickname": null,
+                "alternative_names": [],
+                "academic_title": null,
+                "nobility_title_or_rank": null
+            },
+            "descriptiveTexts": [
+                {
+                    "text": "Tech-Dino hebt ab: Im Alter von 78 Jahren ist Oracle-Gr\u00fcnder Larry Ellison noch einmal an Jeff Bezos vorbeigezogen \u2013 zumindest was den pers\u00f6nlichen Reichtum angeht."
+                }
+            ],
+            "occupations": [],
+            "directQuotes": [],
+            "quotedInTitle": false,
+            "quotedInIntro": false
+        },
+        {
+            "name": "Jack Ma",
+            "alternativeNames": [],
+            "age": -1,
+            "sex": "male",
+            "occurences": {
+                "total": 3,
+                "firstNameOnly": 1,
+                "lastNameOnly": 1,
+                "fullName": 1,
+                "nickname": 0
+            },
+            "inTitle": false,
+            "inIntro": false,
+            "_name": {
+                "firstname": "Jack",
+                "lastname": "Ma",
+                "nickname": null,
+                "alternative_names": [],
+                "academic_title": null,
+                "nobility_title_or_rank": null
+            },
+            "descriptiveTexts": [
+                {
+                    "text": "\"Am Leben\": Immer wieder gibt es Spekulation \u00fcber das Wohlbefinden von Alibaba-Gr\u00fcnder Jack Ma, der 2020 bei der chinesischen Regierung in Ungnade fiel."
+                },
+                {
+                    "text": "Nun hat sich Alibaba-Pr\u00e4sident Michael Evans zu dem Fall ge\u00e4u\u00dfert und sagt: \"Jack ist am Leben. Es geht ihm gut.\""
+                },
+                {
+                    "text": "Demnach soll Ma sich in Japan aufhalten, aber auch immer mehr Zeit in China verbringen."
+                }
+            ],
+            "occupations": [],
+            "directQuotes": [],
+            "quotedInTitle": false,
+            "quotedInIntro": false
+        },
+        {
+            "name": "Klaus Schweinsberg",
+            "alternativeNames": [],
+            "age": -1,
+            "sex": "male",
+            "occurences": {
+                "total": 1,
+                "firstNameOnly": 0,
+                "lastNameOnly": 0,
+                "fullName": 1,
+                "nickname": 0
+            },
+            "inTitle": false,
+            "inIntro": false,
+            "_name": {
+                "firstname": "Klaus",
+                "lastname": "Schweinsberg",
+                "nickname": null,
+                "alternative_names": [],
+                "academic_title": null,
+                "nobility_title_or_rank": null
+            },
+            "descriptiveTexts": [
+                {
+                    "text": "Unser Mittelstands-Kolumnist Klaus Schweinsberg ist allerdings der Meinung, dass Martin Viessmann und sein Sohn Max richtig entschieden haben."
+                }
+            ],
+            "occupations": [
+                {
+                    "text": "Mittelstands-Kolumnist"
+                }
+            ],
+            "directQuotes": [],
+            "quotedInTitle": false,
+            "quotedInIntro": false
+        },
+        {
+            "name": "Martin Viessmann",
+            "alternativeNames": [],
+            "age": -1,
+            "sex": "male",
+            "occurences": {
+                "total": 2,
+                "firstNameOnly": 0,
+                "lastNameOnly": 1,
+                "fullName": 1,
+                "nickname": 0
+            },
+            "inTitle": false,
+            "inIntro": false,
+            "_name": {
+                "firstname": "Martin",
+                "lastname": "Viessmann",
+                "nickname": null,
+                "alternative_names": [],
+                "academic_title": null,
+                "nobility_title_or_rank": null
+            },
+            "descriptiveTexts": [
+                {
+                    "text": "Die Vorreiter der Mittelst\u00e4ndler: Familie Viessmann bekam f\u00fcr den Verkauf ihres Heizungsgesch\u00e4fts inklusive der h\u00f6chst erfolgreichen W\u00e4rmepumpensparte viel Kritik."
+                },
+                {
+                    "text": "Unser Mittelstands-Kolumnist Klaus Schweinsberg ist allerdings der Meinung, dass Martin Viessmann und sein Sohn Max richtig entschieden haben."
+                }
+            ],
+            "occupations": [],
+            "directQuotes": [],
+            "quotedInTitle": false,
+            "quotedInIntro": false
+        },
+        {
+            "name": "Marleen Gr\u00fcndel",
+            "alternativeNames": [],
+            "age": -1,
+            "sex": "female",
+            "occurences": {
+                "total": 1,
+                "firstNameOnly": 0,
+                "lastNameOnly": 0,
+                "fullName": 1,
+                "nickname": 0
+            },
+            "inTitle": false,
+            "inIntro": false,
+            "_name": {
+                "firstname": "Marleen",
+                "lastname": "Gr\u00fcndel",
+                "nickname": null,
+                "alternative_names": [],
+                "academic_title": null,
+                "nobility_title_or_rank": null
+            },
+            "descriptiveTexts": [
+                {
+                    "text": "Ich auch nicht."
+                },
+                {
+                    "text": "Herzliche Gr\u00fc\u00dfe und ein erholsames Wochenende, Ihre Marleen Gr\u00fcndel"
+                }
+            ],
+            "occupations": [],
+            "directQuotes": [],
+            "quotedInTitle": false,
+            "quotedInIntro": false
+        },
+        {
+            "name": "Sonja Laud",
+            "alternativeNames": [],
+            "age": -1,
+            "sex": "female",
+            "occurences": {
+                "total": 3,
+                "firstNameOnly": 0,
+                "lastNameOnly": 2,
+                "fullName": 1,
+                "nickname": 0
+            },
+            "inTitle": false,
+            "inIntro": false,
+            "_name": {
+                "firstname": "Sonja",
+                "lastname": "Laud",
+                "nickname": null,
+                "alternative_names": [],
+                "academic_title": null,
+                "nobility_title_or_rank": null
+            },
+            "descriptiveTexts": [
+                {
+                    "text": "Sonja Laud betrachtet diese Entwicklung mit Skepsis."
+                },
+                {
+                    "text": "Und die Investmentchefin von Legal & General in London, einer der zw\u00f6lf gr\u00f6\u00dften globalen Asset Manager, sollte wissen, wovon sie spricht."
+                },
+                {
+                    "text": "Laud verwaltet immerhin 1,4 Billionen Euro und damit mehr als jede andere Frau auf der Welt."
+                },
+                {
+                    "text": "Sie startete ihre Karriere in der Dotcom-Blase, es folgten die Finanzkrise und die Euro-Krise."
+                },
+                {
+                    "text": "Angesichts der aktuellen Gemengelage aus Pandemiefolgen, Ukraine-Krieg und Inflation investiert sie derzeit eher risikoscheu, etwa in Staatsanleihen."
+                },
+                {
+                    "text": "\"In den vergangenen 70 Jahren hat jeder Zinszyklus (...) entweder zu einer Rezession oder zu einer Finanzkrise gef\u00fchrt \u2013 oder zu beidem\", erkl\u00e4rt Laud im Interview mit meiner Kollegin Maren Jensen."
+                },
+                {
+                    "text": "Mein Kollege Helmut Reich hat sich angeschaut, welche Reeder von dem Boom in der Schifffahrt besonders profitiert haben und wof\u00fcr sie das viele Geld ausgeben."
+                }
+            ],
+            "occupations": [
+                {
+                    "text": "Investmentchefin"
+                },
+                {
+                    "text": "CIO"
+                }
+            ],
+            "directQuotes": [
+                {
+                    "text": "In den vergangenen 70 Jahren hat jeder Zinszyklus (...) entweder zu einer Rezession oder zu einer Finanzkrise gef\u00fchrt \u2013 oder zu beidem"
+                }
+            ],
+            "quotedInTitle": false,
+            "quotedInIntro": false
+        },
+        {
+            "name": "Meghan",
+            "alternativeNames": [],
+            "age": -1,
+            "sex": "female",
+            "occurences": {
+                "total": 1,
+                "firstNameOnly": 0,
+                "lastNameOnly": 0,
+                "fullName": 1,
+                "nickname": 0
+            },
+            "inTitle": false,
+            "inIntro": false,
+            "_name": {
+                "firstname": "Meghan",
+                "lastname": null,
+                "nickname": null,
+                "alternative_names": [],
+                "academic_title": null,
+                "nobility_title_or_rank": null
+            },
+            "descriptiveTexts": [
+                {
+                    "text": "Am Ende: Der Streamingriese Spotify beendet die Zusammenarbeit mit Prinz Harry und Herzogin Meghan nach nur einer Staffel ihres Podcasts."
+                }
+            ],
+            "occupations": [],
+            "directQuotes": [],
+            "quotedInTitle": false,
+            "quotedInIntro": false
+        },
+        {
+            "name": "Max",
+            "alternativeNames": [],
+            "age": -1,
+            "sex": "male",
+            "occurences": {
+                "total": 1,
+                "firstNameOnly": 0,
+                "lastNameOnly": 0,
+                "fullName": 1,
+                "nickname": 0
+            },
+            "inTitle": false,
+            "inIntro": false,
+            "_name": {
+                "firstname": "Max",
+                "lastname": null,
+                "nickname": null,
+                "alternative_names": [],
+                "academic_title": null,
+                "nobility_title_or_rank": null
+            },
+            "descriptiveTexts": [
+                {
+                    "text": "Unser Mittelstands-Kolumnist Klaus Schweinsberg ist allerdings der Meinung, dass Martin Viessmann und sein Sohn Max richtig entschieden haben."
+                }
+            ],
+            "occupations": [
+                {
+                    "text": "Sohn"
+                }
+            ],
+            "directQuotes": [],
+            "quotedInTitle": false,
+            "quotedInIntro": false
+        },
+        {
+            "name": "Dino",
+            "alternativeNames": [],
+            "age": -1,
+            "sex": "male",
+            "occurences": {
+                "total": 1,
+                "firstNameOnly": 0,
+                "lastNameOnly": 0,
+                "fullName": 1,
+                "nickname": 0
+            },
+            "inTitle": false,
+            "inIntro": false,
+            "_name": {
+                "firstname": "Dino",
+                "lastname": null,
+                "nickname": null,
+                "alternative_names": [],
+                "academic_title": null,
+                "nobility_title_or_rank": null
+            },
+            "descriptiveTexts": [
+                {
+                    "text": "Tech-Dino hebt ab: Im Alter von 78 Jahren ist Oracle-Gr\u00fcnder Larry Ellison noch einmal an Jeff Bezos vorbeigezogen \u2013 zumindest was den pers\u00f6nlichen Reichtum angeht."
+                }
+            ],
+            "occupations": [],
+            "directQuotes": [],
+            "quotedInTitle": false,
+            "quotedInIntro": false
+        },
+        {
+            "name": "Helmut Reich",
+            "alternativeNames": [],
+            "age": -1,
+            "sex": "male",
+            "occurences": {
+                "total": 1,
+                "firstNameOnly": 0,
+                "lastNameOnly": 0,
+                "fullName": 1,
+                "nickname": 0
+            },
+            "inTitle": false,
+            "inIntro": false,
+            "_name": {
+                "firstname": "Helmut",
+                "lastname": "Reich",
+                "nickname": null,
+                "alternative_names": [],
+                "academic_title": null,
+                "nobility_title_or_rank": null
+            },
+            "descriptiveTexts": [
+                {
+                    "text": "Mein Kollege Helmut Reich hat sich angeschaut, welche Reeder von dem Boom in der Schifffahrt besonders profitiert haben und wof\u00fcr sie das viele Geld ausgeben."
+                }
+            ],
+            "occupations": [],
+            "directQuotes": [],
+            "quotedInTitle": false,
+            "quotedInIntro": false
+        },
+        {
+            "name": "Harry",
+            "alternativeNames": [],
+            "age": -1,
+            "sex": "male",
+            "occurences": {
+                "total": 1,
+                "firstNameOnly": 0,
+                "lastNameOnly": 0,
+                "fullName": 1,
+                "nickname": 0
+            },
+            "inTitle": false,
+            "inIntro": false,
+            "_name": {
+                "firstname": "Harry",
+                "lastname": null,
+                "nickname": null,
+                "alternative_names": [],
+                "academic_title": null,
+                "nobility_title_or_rank": null
+            },
+            "descriptiveTexts": [
+                {
+                    "text": "Am Ende: Der Streamingriese Spotify beendet die Zusammenarbeit mit Prinz Harry und Herzogin Meghan nach nur einer Staffel ihres Podcasts."
+                }
+            ],
+            "occupations": [],
+            "directQuotes": [],
+            "quotedInTitle": false,
+            "quotedInIntro": false
+        },
+        {
+            "name": "Christian Busch",
+            "alternativeNames": [],
+            "age": -1,
+            "sex": "male",
+            "occurences": {
+                "total": 1,
+                "firstNameOnly": 0,
+                "lastNameOnly": 0,
+                "fullName": 1,
+                "nickname": 0
+            },
+            "inTitle": false,
+            "inIntro": false,
+            "_name": {
+                "firstname": "Christian",
+                "lastname": "Busch",
+                "nickname": null,
+                "alternative_names": [],
+                "academic_title": null,
+                "nobility_title_or_rank": null
+            },
+            "descriptiveTexts": [
+                {
+                    "text": "Diese F\u00e4higkeit, genannt Serendipity, z\u00e4hlt in der Forschung zu den Kernkompetenzen f\u00fcr den eigenen Erfolg, wie Christian Busch, Direktor des Wirtschaftsstudiengangs an der New York University, im aktuellen Harvard Business manager erkl\u00e4rt."
+                }
+            ],
+            "occupations": [],
+            "directQuotes": [],
+            "quotedInTitle": false,
+            "quotedInIntro": false
+        },
+        {
+            "name": "Tim Cook",
+            "alternativeNames": [],
+            "age": -1,
+            "sex": "male",
+            "occurences": {
+                "total": 1,
+                "firstNameOnly": 0,
+                "lastNameOnly": 0,
+                "fullName": 1,
+                "nickname": 0
+            },
+            "inTitle": false,
+            "inIntro": false,
+            "_name": {
+                "firstname": "Tim",
+                "lastname": "Cook",
+                "nickname": null,
+                "alternative_names": [],
+                "academic_title": null,
+                "nobility_title_or_rank": null
+            },
+            "descriptiveTexts": [
+                {
+                    "text": "Aber das, was Tim Cook der Welt vor Kurzem als \"Vision Pro\" pr\u00e4sentiert hat, sieht verdammt \u00e4hnlich aus."
+                }
+            ],
+            "occupations": [
+                {
+                    "text": "Apple-Chef"
+                }
+            ],
+            "directQuotes": [],
+            "quotedInTitle": false,
+            "quotedInIntro": false
+        },
+        {
+            "name": "Sven Clausen",
+            "alternativeNames": [],
+            "age": -1,
+            "sex": "male",
+            "occurences": {
+                "total": 1,
+                "firstNameOnly": 0,
+                "lastNameOnly": 0,
+                "fullName": 1,
+                "nickname": 0
+            },
+            "inTitle": false,
+            "inIntro": false,
+            "_name": {
+                "firstname": "Sven",
+                "lastname": "Clausen",
+                "nickname": null,
+                "alternative_names": [],
+                "academic_title": null,
+                "nobility_title_or_rank": null
+            },
+            "descriptiveTexts": [
+                {
+                    "text": "Warum, das hat er unserem Chefredakteur Sven Clausen in einer neuen Folge unseres Podcasts \"Das Thema\" erz\u00e4hlt."
+                }
+            ],
+            "occupations": [],
+            "directQuotes": [],
+            "quotedInTitle": false,
+            "quotedInIntro": false
+        },
+        {
+            "name": "Maren Jensen",
+            "alternativeNames": [],
+            "age": -1,
+            "sex": "female",
+            "occurences": {
+                "total": 1,
+                "firstNameOnly": 0,
+                "lastNameOnly": 0,
+                "fullName": 1,
+                "nickname": 0
+            },
+            "inTitle": false,
+            "inIntro": false,
+            "_name": {
+                "firstname": "Maren",
+                "lastname": "Jensen",
+                "nickname": null,
+                "alternative_names": [],
+                "academic_title": null,
+                "nobility_title_or_rank": null
+            },
+            "descriptiveTexts": [
+                {
+                    "text": "\"In den vergangenen 70 Jahren hat jeder Zinszyklus (...) entweder zu einer Rezession oder zu einer Finanzkrise gef\u00fchrt \u2013 oder zu beidem\", erkl\u00e4rt Laud im Interview mit meiner Kollegin Maren Jensen."
+                }
+            ],
+            "occupations": [],
+            "directQuotes": [],
+            "quotedInTitle": false,
+            "quotedInIntro": false
+        },
+        {
+            "name": "Wladimir Klitschko",
+            "alternativeNames": [],
+            "age": -1,
+            "sex": "male",
+            "occurences": {
+                "total": 2,
+                "firstNameOnly": 0,
+                "lastNameOnly": 1,
+                "fullName": 1,
+                "nickname": 0
+            },
+            "inTitle": false,
+            "inIntro": false,
+            "_name": {
+                "firstname": "Wladimir",
+                "lastname": "Klitschko",
+                "nickname": null,
+                "alternative_names": [],
+                "academic_title": null,
+                "nobility_title_or_rank": null
+            },
+            "descriptiveTexts": [
+                {
+                    "text": "Der Karriere-Guide: Der Buchautor Nico Rose traf einst den Schwergewichtsweltmeister Wladimir Klitschko zuf\u00e4llig in einem Bostoner Fitnessstudio."
+                },
+                {
+                    "text": "Er nutzte die Chance, sp\u00e4ter schrieb Klitschko das Vorwort f\u00fcr sein Buch."
+                }
+            ],
+            "occupations": [
+                {
+                    "text": "Schwergewichtsweltmeister"
+                }
+            ],
+            "directQuotes": [],
+            "quotedInTitle": false,
+            "quotedInIntro": false
+        }
+    ]
+}

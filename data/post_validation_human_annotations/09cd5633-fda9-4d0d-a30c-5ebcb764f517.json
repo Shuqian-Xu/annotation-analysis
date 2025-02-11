@@ -1,0 +1,146 @@
+{
+	"persons": [
+		{
+			"age": -1,
+			"alternativeNames": [],
+			"birthday": null,
+			"descriptiveTexts": [
+				{
+					"text": "»Es gibt keine allgemein gültige Definition von Mittelschicht und Oberschicht«, sagt Judith Niehues, Leiterin der Clusters Mikrodaten und Verteilung am Institut für Wirtschaft in Köln."
+				},
+				{
+					"text": "Sie beobachtet die Einkommen und Gehälter der Deutschen."
+				},
+				{
+					"text": "Dabei »rechnen sich die meisten Menschen hierzulande zur Mittelschicht«, sagt Niehues."
+				},
+				{
+					"text": "Ein Ein-Personenhaushalt mit einem Nettoeinkommen zwischen 1690 und 3160 Euro zählt dem Kölner Institut zufolge zur Mittelschicht im engeren Sinne, berichtet Niehues."
+				},
+				{
+					"text": "Den aktuellen Einfluss der Inflation, Energiepreise, Zinssteigerungen, aber auch von staatlichen Entlastungspaketen könne man aus der jetzigen Datenlage nicht ersehen, sagt die Expertin."
+				},
+				{
+					"text": "»Die Auswirkungen auf das rein einkommensbezogene Schichtgefüge werden möglicherweise gar nicht so groß sein«, sagt die Expertin."
+				},
+				{
+					"text": "»Die beiden Gruppen, die in der oberen Mittelschicht überproportional zu finden sind, sind Doppelverdiener-Paare ohne Kinder und Paare, die noch nicht verrentet sind und deren Kinder nicht mehr im gleichen Haushalt leben«, sagt Niehues."
+				},
+				{
+					"text": "Die reichsten Vermögenden machen sogar nur 0,1 Prozent der Bevölkerung aus, berichtet Niehues."
+				},
+				{
+					"text": "Auch Niehues berichtet, dass in Umfragen über Vermögen die Angaben sehr unterschiedlich ausfallen, da jeder anders auf Abfragen reagiere und antworte."
+				}
+			],
+			"directQuotes": [
+				{
+					"text": "Es gibt keine allgemein gültige Definition von Mittelschicht und Oberschicht"
+				},
+				{
+					"text": "rechnen sich die meisten Menschen hierzulande zur Mittelschicht"
+				},
+				{
+					"text": "Die Auswirkungen auf das rein einkommensbezogene Schichtgefüge werden möglicherweise gar nicht so groß sein"
+				},
+				{
+					"text": "Aber die Belastungen werden in den unteren Einkommensschichten stärker zu spüren sein."
+				},
+				{
+					"text": "Die beiden Gruppen, die in der oberen Mittelschicht überproportional zu finden sind, sind Doppelverdiener-Paare ohne Kinder und Paare, die noch nicht verrentet sind und deren Kinder nicht mehr im gleichen Haushalt leben"
+				},
+				{
+					"text": "Jedoch ist die Wahrnehmung anders."
+				}
+			],
+			"inIntro": false,
+			"inTitle": false,
+			"indirectQuotes": [
+				{
+					"text": "Ein Ein-Personenhaushalt mit einem Nettoeinkommen zwischen 1690 und 3160 Euro zählt dem Kölner Institut zufolge zur Mittelschicht im engeren Sinne, berichtet Niehues."
+				},
+				{
+					"text": "Den aktuellen Einfluss der Inflation, Energiepreise, Zinssteigerungen, aber auch von staatlichen Entlastungspaketen könne man aus der jetzigen Datenlage nicht ersehen, sagt die Expertin."
+				},
+				{
+					"text": "Die reichsten Vermögenden machen sogar nur 0,1 Prozent der Bevölkerung aus, berichtet Niehues."
+				},
+				{
+					"text": "Auch Niehues berichtet, dass in Umfragen über Vermögen die Angaben sehr unterschiedlich ausfallen, da jeder anders auf Abfragen reagiere und antworte."
+				}
+			],
+			"isMain": true,
+			"name": "Judith Niehues",
+			"occupations": [
+				{
+					"text": "Leiterin der Clusters Mikrodaten und Verteilung am Institut für Wirtschaft in Köln"
+				}
+			],
+			"occurrences": {
+				"firstNameOnly": 0,
+				"fullName": 1,
+				"lastNameOnly": 5,
+				"total": 6
+			},
+			"quotedInIntro": false,
+			"quotedInTitle": false,
+			"sex": "female"
+		},
+		{
+			"age": -1,
+			"alternativeNames": [],
+			"birthday": null,
+			"descriptiveTexts": [
+				{
+					"text": "»Das Bruttogehalt allein reicht aber nicht aus, um festzustellen, ob man zu den Wohlhabenden in Deutschland zählt«, sagt Markus M. Grabka, der beim Berliner Deutschen Institut für Wirtschaftsforschung das Sozio-oekonomische Panel (SOEP) mit betreut."
+				},
+				{
+					"text": "Zur Vermögenselite, wie sie Markus Grabka vom Deutschen Institut für Wirtschaftsforschung in Berlin nennt, gehört man seiner Beobachtung nach ab etwa zehn Millionen Euro Nettovermögen."
+				},
+				{
+					"text": "Von Vermögenden spricht er bereits ab einer Million Euro, wenn man von den Erträgen daraus im Prinzip leben kann."
+				},
+				{
+					"text": "Grabka macht jedoch in einem Bericht des DIW darauf aufmerksam, dass das Median-Nettovermögen deutlich unter dem durchschnittlichen Vermögen liegt."
+				}
+			],
+			"directQuotes": [
+				{
+					"text": "Das Bruttogehalt allein reicht aber nicht aus, um festzustellen, ob man zu den Wohlhabenden in Deutschland zählt"
+				},
+				{
+					"text": "Wichtig ist das gesamte Nettohaushaltseinkommen."
+				},
+				{
+					"text": "Allein das Gehalt zu betrachten, reicht nicht."
+				}
+			],
+			"inIntro": false,
+			"inTitle": false,
+			"indirectQuotes": [],
+			"isMain": true,
+			"name": "Markus M. Grabka",
+			"occupations": [
+				{
+					"text": "der beim Berliner Deutschen Institut für Wirtschaftsforschung das Sozio-oekonomische Panel (SOEP) mit betreut"
+				}
+			],
+			"occurrences": {
+				"firstNameOnly": 0,
+				"fullName": 2,
+				"lastNameOnly": 1,
+				"total": 3
+			},
+			"quotedInIntro": false,
+			"quotedInTitle": false,
+			"sex": "male"
+		}
+	],
+	"subtopics": [
+		"Vermögensverteilung",
+		"Sozialgerechtigkeit",
+		"Mittelschicht",
+		"Haushalt",
+		"Sozioökonomie"
+	]
+}

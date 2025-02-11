@@ -1,0 +1,95 @@
+{
+  "persons": [
+    {
+      "age": -1, 
+      "alternativeNames": [],
+      "birthday": null,
+      "descriptiveTexts": [
+        {
+          "text": "Begeisterung wie sie Firmengründer Elon Musk mit seinen PR-Shows regelmäßig auslöst, ist hier nicht zu finden."
+        }
+      ],
+      "directQuotes": [],
+      "inIntro": false,
+      "inTitle": false,
+      "indirectQuotes": [],
+      "isMain": false,
+      "name": "Elon Musk",
+      "occupations": [
+        {
+          "text": "Firmengründer"
+        }
+      ],
+      "occurences": {
+        "firstNameOnly": 0,
+        "fullName": 1,
+        "lastNameOnly": 0,
+        "total": 1
+      },
+      "quotedInIntro": false,
+      "quotedInTitle": false,
+      "sex": "male"
+    },
+      {
+        "age": -1,
+        "alternativeNames": [],
+        "birthday": null,
+        "descriptiveTexts": [
+          {
+            "text": "Nur wenige Beteiligte bemühen sich an diesem Vormittag um ein paar Zwischentöne."
+          },
+          {
+            "text": "Eine von ihnen ist Eva Mohn vom Regionalverband der Grünen in Grünheide/Spreenhagen – kurz SpreeGrün."
+          },
+          {
+            "text": "»Fundamentalopposition löst keine Probleme. Wir müssen Kompromisse finden und dabei auch die Belange der Bewohner berücksichtigen«, sagt Mohn."
+          },
+          {
+            "text": "»Aber wenn wir die Mobilitätswende schaffen wollen, brauchen wir Elektroautos. Und irgendwo müssen sie gebaut werden.«"
+          },
+          {
+            "text": "Dennoch sieht Mohn noch genügend Möglichkeiten an der Erweiterungsfläche zu sparen und so die Zahl der gefällten Bäume möglichst klein zu halten."
+          }
+        ],
+        "directQuotes": [
+          {
+            "text": "Fundamentalopposition löst keine Probleme. Wir müssen Kompromisse finden und dabei auch die Belange der Bewohner berücksichtigen."
+          },
+          {
+            "text": "Aber wenn wir die Mobilitätswende schaffen wollen, brauchen wir Elektroautos. Und irgendwo müssen sie gebaut werden."
+          }
+        ],
+        "inIntro": false,
+        "inTitle": false,
+        "indirectQuotes": [
+          {
+            "text": "Es sei nicht zielführend, das Werk durch kleinteilige Einsprüche zu bremsen, wo es nur ginge."
+          },
+          {
+            "text": "Einen Teil der riesigen Parkflächen vor der Fabrik zum Beispiel könne man gut für ein Lagerhaus nutzen, wenn man ein Parkhaus für die Pendler errichten würde."
+          }
+        ],
+        "isMain": false,
+        "name": "Eva Mohn",
+        "occupations": [
+          {
+            "text": "Beteiligte"
+          }
+        ],
+        "occurrences": {
+          "firstNameOnly": 0,
+          "fullName": 1,
+          "lastNameOnly": 2,
+          "total": 3
+        },
+        "quotedInIntro": false,
+        "quotedInTitle": false,
+        "sex": "female"
+      }
+  ],
+  "subtopics": [
+    "Autoindustrie", "Umweltschutz", "PR", "Tesla",
+      "Gigafactory",
+      "Widerruf"
+  ]
+}

@@ -1,0 +1,345 @@
+{
+	"persons": [
+		{
+			"age": 33,
+			"alternativeNames": [],
+			"birthday": null,
+			"descriptiveTexts": [
+				{
+					"text": "Swiftonomics – das gigantische Geschäft hinter Taylor Swift"
+				},
+				{
+					"text": "Taylor Swift hat das Musikgeschäft perfektioniert."
+				},
+				{
+					"text": "Ihre aktuelle Tour könnte sie laut aktuellen Schätzungen bis zu eine halbe Milliarde Dollar reicher machen."
+				},
+				{
+					"text": "Und dort, wo sie auftritt, erblüht auch die örtliche Wirtschaft."
+				},
+				{
+					"text": "»Ratet, wer Tickets für Taylor Swift hat?«, twitterte die Parteivorsitzende Ricarda Lang kürzlich und postete dazu ein GIF des Stars."
+				},
+				{
+					"text": "Das »Swift-Virus« hat Politik, Wirtschaft und Gesellschaft in weiten Teilen der Welt erfasst."
+				},
+				{
+					"text": "Anschließend geht es ab Ende August zunächst in Lateinamerika, dann in Asien und Australien weiter, ehe Swift ab Mai 2024 endlich in Europa erwartet wird."
+				},
+				{
+					"text": "Für den temporären Kollaps der Seite, der sich jüngst in Frankreich wiederholte, sei die »Taylor-Swift-Gleichung« verantwortlich: »Die Webseite sollte 1,5 Millionen verifizierten Taylor-Swift-Fans zur Verfügung stehen. Es haben 14 Millionen Leute darauf zugegriffen, einschließlich Bots.«"
+				},
+				{
+					"text": "Im Vergleich zu ihrer letzten Tour 2018 verlangt Taylor Swift – wie auch andere Musiker – inzwischen deutlich mehr von ihren Fans."
+				},
+				{
+					"text": "An der gesamten Tour 2023/24 könnte sie selbst nach Berechnungen des Wall Street Journal zwischen 300 und 500 Millionen Dollar verdienen – plus überschlägig weitere 140 Millionen Dollar aus dem Verkauf aus Fanartikeln."
+				},
+				{
+					"text": "Und dann ist da auch noch ihr ansehnliches Immobilienportfolio mit Anwesen unter anderem in New York, Nashville und Westerly in Rhode Island."
+				},
+				{
+					"text": "Die frühere Gouverneurin von Rhode Island und jetzige US-Handelsministerin Gina Raimondo hat einst versucht, den Bundesstaat an dem Wohlstand in der Gegend teilhaben zu lassen – mit einer Zweitwohnungsteuer auf Luxusanwesen, der sogenannten Taylor-Swift-Steuer."
+				},
+				{
+					"text": "Insgesamt bringt es die Ausnahmekünstlerin laut »Forbes« auf ein Nettovermögen von 740 Millionen Dollar."
+				},
+				{
+					"text": "Kritik ihrer Fans muss sie deswegen nicht befürchten."
+				},
+				{
+					"text": "»Ist Taylor Swift unterbezahlt?«, sorgte sich gar der Nobelpreisträger Paul Krugman."
+				},
+				{
+					"text": "Taylor Swift, die ihren Aufstieg mit 16 als Country-Sängerin begann, ist begnadet – auch als Unternehmerin."
+				},
+				{
+					"text": "In ihrer langen Karriere hat sie der Branche ihren Stempel aufgedrückt."
+				},
+				{
+					"text": "»Taylor Swift ist die Musikindustrie«, schrieb Bloomberg Businessweek schon vor Jahren über sie."
+				},
+				{
+					"text": "Sie hat sich erfolgreich mit Spotify und Apple angelegt, kämpft für die Rechte von Künstlern und hat ihre Adaptionsfähigkeit in sich verändernden Märkten unter Beweis gestellt."
+				},
+				{
+					"text": "Mit ihren 33 Jahren zähle der Popstar Swift zu den weltweit einflussreichsten Wirtschaftsführern, bescheinigt ihr das »Wall Street Journal«."
+				},
+				{
+					"text": "Man kann es Taylornomics nennen oder Swiftonomics, das volkswirtschaftliche Phänomen ist dasselbe: Wo Taylor Swift singt, erlebt die örtliche Wirtschaft eine Blüte."
+				},
+				{
+					"text": "So wie in Las Vegas, das dank ihres Auftritts Besucherzahlen wie zuletzt vor Corona verzeichnet."
+				},
+				{
+					"text": "Selbst Menschen, die kein Ticket ergattert haben, reisen an, um dem Star nahe zu sein."
+				},
+				{
+					"text": "Egal, was der Konzertbesuch am Ende kostet: Aus Sicht ihrer Fans ist Taylor Swift das wert."
+				}
+			],
+			"directQuotes": [],
+			"inIntro": true,
+			"inTitle": true,
+			"indirectQuotes": [],
+			"isMain": true,
+			"name": "Taylor Swift",
+			"occupations": [
+				{
+					"text": "Musikerin"
+				},
+				{
+					"text": "Ausnahmekünstlerin"
+				},
+				{
+					"text": "Unternehmerin"
+				},
+				{
+					"text": "Popstar"
+				}
+			],
+			"occurrences": {
+				"firstNameOnly": 0,
+				"fullName": 12,
+				"lastNameOnly": 3,
+				"total": 15
+			},
+			"quotedInIntro": false,
+			"quotedInTitle": false,
+			"sex": "female"
+		},
+		{
+			"age": -1,
+			"alternativeNames": [],
+			"birthday": null,
+			"descriptiveTexts": [
+				{
+					"text": "»Ratet, wer Tickets für Taylor Swift hat?«, twitterte die Parteivorsitzende Ricarda Lang kürzlich und postete dazu ein GIF des Stars."
+				},
+				{
+					"text": "Sollte heißen: Die Grünenchefin hat eines der begehrten Tickets für die »Eras«-Tour ergattert, deren Europa-Termine fürs kommende Jahr überall rasend schnell ausverkauft waren."
+				}
+			],
+			"directQuotes": [
+				{
+					"text": "Ratet, wer Tickets für Taylor Swift hat?"
+				}
+			],
+			"inIntro": false,
+			"inTitle": false,
+			"indirectQuotes": [],
+			"isMain": false,
+			"name": "Ricarda Lang",
+			"occupations": [
+				{
+					"text": "Parteivorsitzende"
+				},
+				{
+					"text": "Grünenchefin"
+				}
+			],
+			"occurrences": {
+				"firstNameOnly": 0,
+				"fullName": 1,
+				"lastNameOnly": 0,
+				"total": 1
+			},
+			"quotedInIntro": false,
+			"quotedInTitle": false,
+			"sex": "female"
+		},
+		{
+			"age": 77,
+			"alternativeNames": [],
+			"birthday": null,
+			"descriptiveTexts": [
+				{
+					"text": "Klarer Sieger: der 77-jährige Richard Blumenthal."
+				},
+				{
+					"text": "Der Demokrat forderte, »Ticketmaster sollte in den Spiegel schauen und sagen: »I'm the problem. It's me.«"
+				}
+			],
+			"directQuotes": [
+				{
+					"text": "Ticketmaster sollte in den Spiegel schauen und sagen: »I'm the problem. It's me."
+				}
+			],
+			"inIntro": false,
+			"inTitle": false,
+			"indirectQuotes": [],
+			"isMain": false,
+			"name": "Richard Blumenthal",
+			"occupations": [
+				{
+					"text": "Senator"
+				},
+				{
+					"text": "Amerikas Spitzenpolitiker"
+				}
+			],
+			"occurrences": {
+				"firstNameOnly": 0,
+				"fullName": 1,
+				"lastNameOnly": 0,
+				"total": 1
+			},
+			"quotedInIntro": false,
+			"quotedInTitle": false,
+			"sex": "male"
+		},
+		{
+			"age": -1,
+			"alternativeNames": [],
+			"birthday": null,
+			"descriptiveTexts": [
+				{
+					"text": "Das wäre rekordverdächtig, wenn auch nur der zweite Platz hinter dem erwarteten Ticketumsatz von mehr als zwei Milliarden Dollar auf Beyoncés aktueller »Renaissance«-Reise."
+				}
+			],
+			"directQuotes": [],
+			"inIntro": false,
+			"inTitle": false,
+			"indirectQuotes": [],
+			"isMain": false,
+			"name": "Beyoncé",
+			"occupations": [
+				{
+					"text": "Musikerin"
+				}
+			],
+			"occurrences": {
+				"firstNameOnly": 1,
+				"fullName": 0,
+				"lastNameOnly": 0,
+				"total": 1
+			},
+			"quotedInIntro": false,
+			"quotedInTitle": false,
+			"sex": "female"
+		},
+		{
+			"age": -1,
+			"alternativeNames": [],
+			"birthday": null,
+			"descriptiveTexts": [
+				{
+					"text": "Aber es würde den bisherigen Spitzenreiter Elton John weit in den Schatten stellen."
+				}
+			],
+			"directQuotes": [],
+			"inIntro": false,
+			"inTitle": false,
+			"indirectQuotes": [],
+			"isMain": false,
+			"name": "Elton John",
+			"occupations": [
+				{
+					"text": "Spitzenreiter"
+				}
+			],
+			"occurrences": {
+				"firstNameOnly": 0,
+				"fullName": 1,
+				"lastNameOnly": 0,
+				"total": 1
+			},
+			"quotedInIntro": false,
+			"quotedInTitle": false,
+			"sex": "male"
+		},
+		{
+			"age": -1,
+			"alternativeNames": [],
+			"birthday": null,
+			"descriptiveTexts": [
+				{
+					"text": "Die frühere Gouverneurin von Rhode Island und jetzige US-Handelsministerin Gina Raimondo hat einst versucht, den Bundesstaat an dem Wohlstand in der Gegend teilhaben zu lassen – mit einer Zweitwohnungsteuer auf Luxusanwesen, der sogenannten Taylor-Swift-Steuer."
+				},
+				{
+					"text": "Sie zog den Plan zurück."
+				},
+				{
+					"text": "Kritik ihrer Fans muss sie deswegen nicht befürchten."
+				}
+			],
+			"directQuotes": [],
+			"inIntro": false,
+			"inTitle": false,
+			"indirectQuotes": [],
+			"isMain": false,
+			"name": "Gina Raimondo",
+			"occupations": [
+				{
+					"text": "frühere Gouverneurin von Rhode Island"
+				},
+				{
+					"text": "jetzige US-Handelsministerin"
+				}
+			],
+			"occurrences": {
+				"firstNameOnly": 0,
+				"fullName": 1,
+				"lastNameOnly": 0,
+				"total": 1
+			},
+			"quotedInIntro": false,
+			"quotedInTitle": false,
+			"sex": "female"
+		},
+		{
+			"age": -1,
+			"alternativeNames": [],
+			"birthday": null,
+			"descriptiveTexts": [
+				{
+					"text": "»Ist Taylor Swift unterbezahlt?«, sorgte sich gar der Nobelpreisträger Paul Krugman."
+				},
+				{
+					"text": "Verglichen mit dem 19. Jahrhundert sei Livemusik heute »ein Schnäppchen«, argumentiert der Ökonom – dank technischen Fortschritts, und weil heute 80.000 Menschen in ein Stadion passen."
+				}
+			],
+			"directQuotes": [
+				{
+					"text": "Ist Taylor Swift unterbezahlt?"
+				},
+				{
+					"text": "ein Schnäppchen"
+				}
+			],
+			"inIntro": false,
+			"inTitle": false,
+			"indirectQuotes": [
+				{
+					"text": "Verglichen mit dem 19. Jahrhundert sei Livemusik heute »ein Schnäppchen« – dank technischen Fortschritts, und weil heute 80.000 Menschen in ein Stadion passen."
+				}
+			],
+			"isMain": false,
+			"name": "Paul Krugman",
+			"occupations": [
+				{
+					"text": "Nobelpreisträger"
+				},
+				{
+					"text": "Ökonom"
+				}
+			],
+			"occurrences": {
+				"firstNameOnly": 0,
+				"fullName": 1,
+				"lastNameOnly": 0,
+				"total": 1
+			},
+			"quotedInIntro": false,
+			"quotedInTitle": false,
+			"sex": "male"
+		}
+	],
+	"subtopics": [
+		"Lifestyle",
+		"Musik",
+		"Kultur",
+		"Wirtschaft",
+		"Musikindustrie"
+	]
+}

@@ -1,0 +1,766 @@
+{
+    "persons": [
+        {
+            "name": "Claas Tatje",
+            "alternativeNames": [],
+            "age": -1,
+            "sex": "male",
+            "occurences": {
+                "total": 1,
+                "firstNameOnly": 0,
+                "lastNameOnly": 0,
+                "fullName": 1,
+                "nickname": 0
+            },
+            "inTitle": false,
+            "inIntro": false,
+            "_name": {
+                "firstname": "Claas",
+                "lastname": "Tatje",
+                "nickname": null,
+                "alternative_names": [],
+                "academic_title": null,
+                "nobility_title_or_rank": null
+            },
+            "descriptiveTexts": [
+                {
+                    "text": "Wie de Vries die Interessen des vielstimmigen Chors der europ\u00e4ischen Autokonzerne in Br\u00fcssel durchsetzen will, schildert mein Kollege Claas Tatje."
+                }
+            ],
+            "occupations": [
+                {
+                    "text": "mein Kollege"
+                }
+            ],
+            "directQuotes": [],
+            "quotedInTitle": false,
+            "quotedInIntro": false
+        },
+        {
+            "name": "Katharina Slodczyk",
+            "alternativeNames": [],
+            "age": -1,
+            "sex": "female",
+            "occurences": {
+                "total": 1,
+                "firstNameOnly": 0,
+                "lastNameOnly": 0,
+                "fullName": 1,
+                "nickname": 0
+            },
+            "inTitle": false,
+            "inIntro": false,
+            "_name": {
+                "firstname": "Katharina",
+                "lastname": "Slodczyk",
+                "nickname": null,
+                "alternative_names": [],
+                "academic_title": null,
+                "nobility_title_or_rank": null
+            },
+            "descriptiveTexts": [
+                {
+                    "text": "Unsere Reporter Katharina Slodczyk und Michael Freitag haben sich intensiv mit den neuen Stars der Juristenszene besch\u00e4ftigt."
+                }
+            ],
+            "occupations": [
+                {
+                    "text": "intensiv mit den neuen Stars der Juristenszene besch\u00e4ftigt"
+                }
+            ],
+            "directQuotes": [],
+            "quotedInTitle": false,
+            "quotedInIntro": false
+        },
+        {
+            "name": "Simone K\u00e4mpfer",
+            "alternativeNames": [],
+            "age": -1,
+            "sex": "female",
+            "occurences": {
+                "total": 2,
+                "firstNameOnly": 0,
+                "lastNameOnly": 1,
+                "fullName": 1,
+                "nickname": 0
+            },
+            "inTitle": false,
+            "inIntro": false,
+            "_name": {
+                "firstname": "Simone",
+                "lastname": "K\u00e4mpfer",
+                "nickname": null,
+                "alternative_names": [],
+                "academic_title": null,
+                "nobility_title_or_rank": null
+            },
+            "descriptiveTexts": [
+                {
+                    "text": "Privatermittler wie Simone K\u00e4mpfer, Eike Bicker oder Andreas Pohlmann treten stets dann in Erscheinung, wenn sonst nichts mehr geht."
+                },
+                {
+                    "text": "Spezialisiert auf Compliance-Verst\u00f6\u00dfe, agieren sie als juristische Tatortreiniger."
+                },
+                {
+                    "text": "Die einstige Staatsanw\u00e4ltin und heutige Freshfields-Partnerin K\u00e4mpfer soll f\u00fcr den Springer-Konzern die Wirrnisse um Ex-Bild-Chefredakteur Julian Reichelt aufkl\u00e4ren."
+                }
+            ],
+            "occupations": [
+                {
+                    "text": "Staatsanw\u00e4ltin"
+                },
+                {
+                    "text": "Freshfields-Partnerin"
+                }
+            ],
+            "directQuotes": [],
+            "quotedInTitle": false,
+            "quotedInIntro": false
+        },
+        {
+            "name": "Dietmar Palan",
+            "alternativeNames": [],
+            "age": -1,
+            "sex": "male",
+            "occurences": {
+                "total": 1,
+                "firstNameOnly": 0,
+                "lastNameOnly": 0,
+                "fullName": 1,
+                "nickname": 0
+            },
+            "inTitle": false,
+            "inIntro": false,
+            "_name": {
+                "firstname": "Dietmar",
+                "lastname": "Palan",
+                "nickname": null,
+                "alternative_names": [],
+                "academic_title": null,
+                "nobility_title_or_rank": null
+            },
+            "descriptiveTexts": [
+                {
+                    "text": "In einem Reformpapier fordert sie, die Bereiche Netze, Bahnh\u00f6fe sowie die Energiesparte aus dem Verbund herauszul\u00f6sen und in einer vom Bund gehaltenen Infrastruktur-Gesellschaft zu b\u00fcndeln."
+                },
+                {
+                    "text": "Herzliche Gr\u00fc\u00dfe, Ihr Dietmar Palan"
+                }
+            ],
+            "occupations": [
+                {
+                    "text": "Chefredakteur"
+                },
+                {
+                    "text": "Ihr Dietmar Palan"
+                }
+            ],
+            "directQuotes": [],
+            "quotedInTitle": false,
+            "quotedInIntro": false
+        },
+        {
+            "name": "Peter L\u00f6scher",
+            "alternativeNames": [],
+            "age": -1,
+            "sex": "male",
+            "occurences": {
+                "total": 1,
+                "firstNameOnly": 0,
+                "lastNameOnly": 0,
+                "fullName": 1,
+                "nickname": 0
+            },
+            "inTitle": false,
+            "inIntro": false,
+            "_name": {
+                "firstname": "Peter",
+                "lastname": "L\u00f6scher",
+                "nickname": null,
+                "alternative_names": [],
+                "academic_title": null,
+                "nobility_title_or_rank": null
+            },
+            "descriptiveTexts": [
+                {
+                    "text": "Er wurde vom einstigen Siemens Chef Peter L\u00f6scher engagiert, um Licht in das System der konzerneigenen schwarzen Kassen zu bringen."
+                }
+            ],
+            "occupations": [
+                {
+                    "text": "einstigen Siemens Chef"
+                }
+            ],
+            "directQuotes": [],
+            "quotedInTitle": false,
+            "quotedInIntro": false
+        },
+        {
+            "name": "Sundar Pichai",
+            "alternativeNames": [],
+            "age": -1,
+            "sex": "male",
+            "occurences": {
+                "total": 2,
+                "firstNameOnly": 0,
+                "lastNameOnly": 1,
+                "fullName": 1,
+                "nickname": 0
+            },
+            "inTitle": false,
+            "inIntro": false,
+            "_name": {
+                "firstname": "Sundar",
+                "lastname": "Pichai",
+                "nickname": null,
+                "alternative_names": [],
+                "academic_title": null,
+                "nobility_title_or_rank": null
+            },
+            "descriptiveTexts": [
+                {
+                    "text": "Elon Musk f\u00e4hrt auf KI ab, Google-Chef Sundar Pichai bremst: V\u00f6llig unterschiedliche Signale erreichen uns in Sachen K\u00fcnstliche Intelligenz aus dem Silicon Valley."
+                },
+                {
+                    "text": "CEO Pichai ruft nach gesellschaftlichen Regeln und regulatorischen Leitplanken f\u00fcr KI."
+                }
+            ],
+            "occupations": [
+                {
+                    "text": "ruft nach gesellschaftlichen Regeln und regulatorischen Leitplanken f\u00fcr KI"
+                },
+                {
+                    "text": "Zur\u00fcckhaltung"
+                },
+                {
+                    "text": "CEO"
+                }
+            ],
+            "directQuotes": [],
+            "quotedInTitle": false,
+            "quotedInIntro": false
+        },
+        {
+            "name": "Elon Musk",
+            "alternativeNames": [],
+            "age": -1,
+            "sex": "male",
+            "occurences": {
+                "total": 2,
+                "firstNameOnly": 0,
+                "lastNameOnly": 0,
+                "fullName": 2,
+                "nickname": 0
+            },
+            "inTitle": false,
+            "inIntro": false,
+            "_name": {
+                "firstname": "Elon",
+                "lastname": "Musk",
+                "nickname": null,
+                "alternative_names": [],
+                "academic_title": null,
+                "nobility_title_or_rank": null
+            },
+            "descriptiveTexts": [
+                {
+                    "text": "Elon Musk f\u00e4hrt auf KI ab, Google-Chef Sundar Pichai bremst: V\u00f6llig unterschiedliche Signale erreichen uns in Sachen K\u00fcnstliche Intelligenz aus dem Silicon Valley."
+                },
+                {
+                    "text": "Multi-Unternehmer Elon Musk wittert das Gesch\u00e4ft, gr\u00fcndete eine neue Firma und spricht bereits mit Ingenieuren und Investoren."
+                }
+            ],
+            "occupations": [
+                {
+                    "text": "wittert das Gesch\u00e4ft"
+                },
+                {
+                    "text": "Multi-Unternehmer"
+                }
+            ],
+            "directQuotes": [],
+            "quotedInTitle": false,
+            "quotedInIntro": false
+        },
+        {
+            "name": "Martin Mehringer",
+            "alternativeNames": [],
+            "age": -1,
+            "sex": "male",
+            "occurences": {
+                "total": 1,
+                "firstNameOnly": 0,
+                "lastNameOnly": 0,
+                "fullName": 1,
+                "nickname": 0
+            },
+            "inTitle": false,
+            "inIntro": false,
+            "_name": {
+                "firstname": "Martin",
+                "lastname": "Mehringer",
+                "nickname": null,
+                "alternative_names": [],
+                "academic_title": null,
+                "nobility_title_or_rank": null
+            },
+            "descriptiveTexts": [
+                {
+                    "text": "Warum er heute lieber Rasen m\u00e4ht und Jugendlichen an Brennpunktschulen das Programmieren n\u00e4her bringt, hat er unserem Handelsexperten Martin Mehringer erz\u00e4hlt."
+                }
+            ],
+            "occupations": [
+                {
+                    "text": "Handelsexperte"
+                }
+            ],
+            "directQuotes": [],
+            "quotedInTitle": false,
+            "quotedInIntro": false
+        },
+        {
+            "name": "Eike Bicker",
+            "alternativeNames": [],
+            "age": -1,
+            "sex": "male",
+            "occurences": {
+                "total": 2,
+                "firstNameOnly": 0,
+                "lastNameOnly": 1,
+                "fullName": 1,
+                "nickname": 0
+            },
+            "inTitle": false,
+            "inIntro": false,
+            "_name": {
+                "firstname": "Eike",
+                "lastname": "Bicker",
+                "nickname": null,
+                "alternative_names": [],
+                "academic_title": null,
+                "nobility_title_or_rank": null
+            },
+            "descriptiveTexts": [
+                {
+                    "text": "Privatermittler wie Simone K\u00e4mpfer, Eike Bicker oder Andreas Pohlmann treten stets dann in Erscheinung, wenn sonst nichts mehr geht."
+                },
+                {
+                    "text": "Spezialisiert auf Compliance-Verst\u00f6\u00dfe, agieren sie als juristische Tatortreiniger."
+                },
+                {
+                    "text": "Gleiss-Lutz-Anwalt Bicker arbeitete erst f\u00fcr den kurzzeitigen Wirecard-Chef James Freis und sp\u00e4ter f\u00fcr den Insolvenzverwalter Michael Jaff\u00e9 den Zusammenbruch des Finanzdienstleisters auf."
+                }
+            ],
+            "occupations": [
+                {
+                    "text": "Gleiss-Lutz-Anwalt"
+                }
+            ],
+            "directQuotes": [],
+            "quotedInTitle": false,
+            "quotedInIntro": false
+        },
+        {
+            "name": "Julian Reichelt",
+            "alternativeNames": [],
+            "age": -1,
+            "sex": "male",
+            "occurences": {
+                "total": 1,
+                "firstNameOnly": 0,
+                "lastNameOnly": 0,
+                "fullName": 1,
+                "nickname": 0
+            },
+            "inTitle": false,
+            "inIntro": false,
+            "_name": {
+                "firstname": "Julian",
+                "lastname": "Reichelt",
+                "nickname": null,
+                "alternative_names": [],
+                "academic_title": null,
+                "nobility_title_or_rank": null
+            },
+            "descriptiveTexts": [
+                {
+                    "text": "Die einstige Staatsanw\u00e4ltin und heutige Freshfields-Partnerin K\u00e4mpfer soll f\u00fcr den Springer-Konzern die Wirrnisse um Ex-Bild-Chefredakteur Julian Reichelt aufkl\u00e4ren."
+                }
+            ],
+            "occupations": [
+                {
+                    "text": "Wirrnisse"
+                },
+                {
+                    "text": "Ex-Bild-Chefredakteur"
+                }
+            ],
+            "directQuotes": [],
+            "quotedInTitle": false,
+            "quotedInIntro": false
+        },
+        {
+            "name": "James Freis",
+            "alternativeNames": [],
+            "age": -1,
+            "sex": "male",
+            "occurences": {
+                "total": 1,
+                "firstNameOnly": 0,
+                "lastNameOnly": 0,
+                "fullName": 1,
+                "nickname": 0
+            },
+            "inTitle": false,
+            "inIntro": false,
+            "_name": {
+                "firstname": "James",
+                "lastname": "Freis",
+                "nickname": null,
+                "alternative_names": [],
+                "academic_title": null,
+                "nobility_title_or_rank": null
+            },
+            "descriptiveTexts": [
+                {
+                    "text": "Gleiss-Lutz-Anwalt Bicker arbeitete erst f\u00fcr den kurzzeitigen Wirecard-Chef James Freis und sp\u00e4ter f\u00fcr den Insolvenzverwalter Michael Jaff\u00e9 den Zusammenbruch des Finanzdienstleisters auf."
+                }
+            ],
+            "occupations": [],
+            "directQuotes": [],
+            "quotedInTitle": false,
+            "quotedInIntro": false
+        },
+        {
+            "name": "Michael Jaff\u00e9",
+            "alternativeNames": [],
+            "age": -1,
+            "sex": "male",
+            "occurences": {
+                "total": 2,
+                "firstNameOnly": 1,
+                "lastNameOnly": 0,
+                "fullName": 1,
+                "nickname": 0
+            },
+            "inTitle": false,
+            "inIntro": false,
+            "_name": {
+                "firstname": "Michael",
+                "lastname": "Jaff\u00e9",
+                "nickname": null,
+                "alternative_names": [],
+                "academic_title": null,
+                "nobility_title_or_rank": null
+            },
+            "descriptiveTexts": [
+                {
+                    "text": "Gleiss-Lutz-Anwalt Bicker arbeitete erst f\u00fcr den kurzzeitigen Wirecard-Chef James Freis und sp\u00e4ter f\u00fcr den Insolvenzverwalter Michael Jaff\u00e9 den Zusammenbruch des Finanzdienstleisters auf."
+                },
+                {
+                    "text": "Unsere Reporter Katharina Slodczyk und Michael Freitag haben sich intensiv mit den neuen Stars der Juristenszene besch\u00e4ftigt."
+                }
+            ],
+            "occupations": [
+                {
+                    "text": "Insolvenzverwalter"
+                }
+            ],
+            "directQuotes": [],
+            "quotedInTitle": false,
+            "quotedInIntro": false
+        },
+        {
+            "name": "Sigrid de Vries",
+            "alternativeNames": [],
+            "age": -1,
+            "sex": "female",
+            "occurences": {
+                "total": 2,
+                "firstNameOnly": 0,
+                "lastNameOnly": 1,
+                "fullName": 1,
+                "nickname": 0
+            },
+            "inTitle": false,
+            "inIntro": false,
+            "_name": {
+                "firstname": "Sigrid",
+                "lastname": "de Vries",
+                "nickname": null,
+                "alternative_names": [],
+                "academic_title": null,
+                "nobility_title_or_rank": null
+            },
+            "descriptiveTexts": [
+                {
+                    "text": "Ausgerechnet als Europas erste Autolobbyistin Sigrid de Vries ihr Amt als Generalsekret\u00e4rin des europ\u00e4ischen Verbands der Automobilhersteller und Lastenwagenbauer Acea antrat, scherte Stellantis mitsamt seinen Massenmarken Fiat, Peugeot und Opel aus dem Kampfverband aus."
+                },
+                {
+                    "text": "\"Wir wollen die Klimaziele der EU nicht aufweichen\", sagt sie: \"Es ist aber auch wichtig, die Klimaziele auf die effizienteste Art zu erreichen und dabei m\u00f6glichst viele Arbeitspl\u00e4tze zu retten.\u201c"
+                },
+                {
+                    "text": "Wie de Vries die Interessen des vielstimmigen Chors der europ\u00e4ischen Autokonzerne in Br\u00fcssel durchsetzen will, schildert mein Kollege Claas Tatje."
+                }
+            ],
+            "occupations": [
+                {
+                    "text": "kraftvollen Antritt"
+                },
+                {
+                    "text": "Wir wollen die Klimaziele der EU nicht aufweichen"
+                },
+                {
+                    "text": "Europas erste Autolobbyistin"
+                },
+                {
+                    "text": "Generalsekret\u00e4rin des europ\u00e4ischen Verbands der Automobilhersteller und Lastenwagenbauer Acea"
+                }
+            ],
+            "directQuotes": [
+                {
+                    "text": "Wir wollen die Klimaziele der EU nicht aufweichen"
+                }
+            ],
+            "quotedInTitle": false,
+            "quotedInIntro": false
+        },
+        {
+            "name": "Jeff Bezos",
+            "alternativeNames": [],
+            "age": -1,
+            "sex": "male",
+            "occurences": {
+                "total": 1,
+                "firstNameOnly": 0,
+                "lastNameOnly": 0,
+                "fullName": 1,
+                "nickname": 0
+            },
+            "inTitle": false,
+            "inIntro": false,
+            "_name": {
+                "firstname": "Jeff",
+                "lastname": "Bezos",
+                "nickname": null,
+                "alternative_names": [],
+                "academic_title": null,
+                "nobility_title_or_rank": null
+            },
+            "descriptiveTexts": [
+                {
+                    "text": "Kulturschock made in Germany: Manchmal, wenn Ralf Kleber den Amazon Gr\u00fcnder Jeff Bezos in seinem Auto durch die Republik chauffierte, dr\u00f6hnte Metallica aus den Lautsprechern."
+                }
+            ],
+            "occupations": [
+                {
+                    "text": "Amazon Gr\u00fcnder"
+                }
+            ],
+            "directQuotes": [],
+            "quotedInTitle": false,
+            "quotedInIntro": false
+        },
+        {
+            "name": "Stellantis",
+            "alternativeNames": [],
+            "age": -1,
+            "sex": "unknown",
+            "occurences": {
+                "total": 1,
+                "firstNameOnly": 0,
+                "lastNameOnly": 0,
+                "fullName": 1,
+                "nickname": 0
+            },
+            "inTitle": false,
+            "inIntro": false,
+            "_name": {
+                "firstname": null,
+                "lastname": "Stellantis",
+                "nickname": null,
+                "alternative_names": [],
+                "academic_title": null,
+                "nobility_title_or_rank": null
+            },
+            "descriptiveTexts": [
+                {
+                    "text": "Ausgerechnet als Europas erste Autolobbyistin Sigrid de Vries ihr Amt als Generalsekret\u00e4rin des europ\u00e4ischen Verbands der Automobilhersteller und Lastenwagenbauer Acea antrat, scherte Stellantis mitsamt seinen Massenmarken Fiat, Peugeot und Opel aus dem Kampfverband aus."
+                }
+            ],
+            "occupations": [
+                {
+                    "text": "Automobilhersteller und Lastenwagenbauer"
+                }
+            ],
+            "directQuotes": [],
+            "quotedInTitle": false,
+            "quotedInIntro": false
+        },
+        {
+            "name": "Rae Ringel",
+            "alternativeNames": [],
+            "age": -1,
+            "sex": "female",
+            "occurences": {
+                "total": 1,
+                "firstNameOnly": 0,
+                "lastNameOnly": 0,
+                "fullName": 1,
+                "nickname": 0
+            },
+            "inTitle": false,
+            "inIntro": false,
+            "_name": {
+                "firstname": "Rae",
+                "lastname": "Ringel",
+                "nickname": null,
+                "alternative_names": [],
+                "academic_title": null,
+                "nobility_title_or_rank": null
+            },
+            "descriptiveTexts": [
+                {
+                    "text": "Wie Sie mit ein wenig Disziplin Struktur in die t\u00e4glich wiederkehrenden Besprechungsrituale bringen, hat die auf Zeitmanagement spezialisierte Beraterin Rae Ringel f\u00fcr den Harvard Business Manager aufgeschrieben und auf f\u00fcnf leicht zu befolgende Regeln eingedampft."
+                }
+            ],
+            "occupations": [
+                {
+                    "text": "auf Zeitmanagement spezialisierte Beraterin"
+                }
+            ],
+            "directQuotes": [],
+            "quotedInTitle": false,
+            "quotedInIntro": false
+        },
+        {
+            "name": "Andreas Pohlmann",
+            "alternativeNames": [],
+            "age": -1,
+            "sex": "male",
+            "occurences": {
+                "total": 2,
+                "firstNameOnly": 0,
+                "lastNameOnly": 1,
+                "fullName": 1,
+                "nickname": 0
+            },
+            "inTitle": false,
+            "inIntro": false,
+            "_name": {
+                "firstname": "Andreas",
+                "lastname": "Pohlmann",
+                "nickname": null,
+                "alternative_names": [],
+                "academic_title": null,
+                "nobility_title_or_rank": null
+            },
+            "descriptiveTexts": [
+                {
+                    "text": "Privatermittler wie Simone K\u00e4mpfer, Eike Bicker oder Andreas Pohlmann treten stets dann in Erscheinung, wenn sonst nichts mehr geht."
+                },
+                {
+                    "text": "Spezialisiert auf Compliance-Verst\u00f6\u00dfe, agieren sie als juristische Tatortreiniger."
+                },
+                {
+                    "text": "Pohlmann machte dabei den Anfang."
+                },
+                {
+                    "text": "Er wurde vom einstigen Siemens Chef Peter L\u00f6scher engagiert, um Licht in das System der konzerneigenen schwarzen Kassen zu bringen."
+                }
+            ],
+            "occupations": [
+                {
+                    "text": "zu einer ebenso kleinen wie elit\u00e4ren Gruppe von Anw\u00e4ltinnen und Anw\u00e4lten"
+                },
+                {
+                    "text": "Anwalt"
+                }
+            ],
+            "directQuotes": [],
+            "quotedInTitle": false,
+            "quotedInIntro": false
+        },
+        {
+            "name": "Ralf Kleber",
+            "alternativeNames": [],
+            "age": -1,
+            "sex": "male",
+            "occurences": {
+                "total": 2,
+                "firstNameOnly": 0,
+                "lastNameOnly": 1,
+                "fullName": 1,
+                "nickname": 0
+            },
+            "inTitle": false,
+            "inIntro": false,
+            "_name": {
+                "firstname": "Ralf",
+                "lastname": "Kleber",
+                "nickname": null,
+                "alternative_names": [],
+                "academic_title": null,
+                "nobility_title_or_rank": null
+            },
+            "descriptiveTexts": [
+                {
+                    "text": "Kulturschock made in Germany: Manchmal, wenn Ralf Kleber den Amazon Gr\u00fcnder Jeff Bezos in seinem Auto durch die Republik chauffierte, dr\u00f6hnte Metallica aus den Lautsprechern."
+                },
+                {
+                    "text": "Vergangenen Sommer war f\u00fcr Kleber nach 22 Jahren, 9 Monaten und 11 Tagen Schluss."
+                },
+                {
+                    "text": "Warum er heute lieber Rasen m\u00e4ht und Jugendlichen an Brennpunktschulen das Programmieren n\u00e4her bringt, hat er unserem Handelsexperten Martin Mehringer erz\u00e4hlt."
+                }
+            ],
+            "occupations": [
+                {
+                    "text": "Deutschlandstatthalter des Internetgiganten"
+                }
+            ],
+            "directQuotes": [],
+            "quotedInTitle": false,
+            "quotedInIntro": false
+        },
+        {
+            "name": "Michael Freitag",
+            "alternativeNames": [],
+            "age": -1,
+            "sex": "male",
+            "occurences": {
+                "total": 2,
+                "firstNameOnly": 1,
+                "lastNameOnly": 0,
+                "fullName": 1,
+                "nickname": 0
+            },
+            "inTitle": false,
+            "inIntro": false,
+            "_name": {
+                "firstname": "Michael",
+                "lastname": "Freitag",
+                "nickname": null,
+                "alternative_names": [],
+                "academic_title": null,
+                "nobility_title_or_rank": null
+            },
+            "descriptiveTexts": [
+                {
+                    "text": "Gleiss-Lutz-Anwalt Bicker arbeitete erst f\u00fcr den kurzzeitigen Wirecard-Chef James Freis und sp\u00e4ter f\u00fcr den Insolvenzverwalter Michael Jaff\u00e9 den Zusammenbruch des Finanzdienstleisters auf."
+                },
+                {
+                    "text": "Unsere Reporter Katharina Slodczyk und Michael Freitag haben sich intensiv mit den neuen Stars der Juristenszene besch\u00e4ftigt."
+                }
+            ],
+            "occupations": [
+                {
+                    "text": "Reporter"
+                }
+            ],
+            "directQuotes": [],
+            "quotedInTitle": false,
+            "quotedInIntro": false
+        }
+    ]
+}

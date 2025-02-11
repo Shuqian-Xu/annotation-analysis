@@ -1,0 +1,86 @@
+{
+    "persons": [
+        {
+            "name": "Sven Clausen",
+            "alternativeNames": [],
+            "age": -1,
+            "sex": "male",
+            "occurences": {
+                "total": 2,
+                "firstNameOnly": 0,
+                "lastNameOnly": 0,
+                "fullName": 2,
+                "nickname": 0
+            },
+            "inTitle": false,
+            "inIntro": false,
+            "_name": {
+                "firstname": "Sven",
+                "lastname": "Clausen",
+                "nickname": null,
+                "alternative_names": [],
+                "academic_title": null,
+                "nobility_title_or_rank": null
+            },
+            "descriptiveTexts": [
+                {
+                    "text": "Dar\u00fcber informiert in diesem Podcast Mark B\u00f6schen im Gespr\u00e4ch mit Chefredakteur Sven Clausen."
+                },
+                {
+                    "text": "Im Podcast \"Das Thema\" informiert Chefredakteur Sven Clausen jede Woche \u00fcber den internen Recherchestand zu einem relevanten aktuellen und zugleich zukunftstr\u00e4chtigen Thema der Wirtschaft."
+                }
+            ],
+            "occupations": [
+                {
+                    "text": "Chefredakteur"
+                }
+            ],
+            "directQuotes": [],
+            "quotedInTitle": false,
+            "quotedInIntro": false
+        },
+        {
+            "name": "Mark B\u00f6schen",
+            "alternativeNames": [],
+            "age": -1,
+            "sex": "male",
+            "occurences": {
+                "total": 2,
+                "firstNameOnly": 0,
+                "lastNameOnly": 0,
+                "fullName": 2,
+                "nickname": 0
+            },
+            "inTitle": false,
+            "inIntro": false,
+            "_name": {
+                "firstname": "Mark",
+                "lastname": "B\u00f6schen",
+                "nickname": null,
+                "alternative_names": [],
+                "academic_title": null,
+                "nobility_title_or_rank": null
+            },
+            "descriptiveTexts": [
+                {
+                    "text": "Tats\u00e4chlich aber sind diese Hoffnungen vermutlich verfr\u00fcht, auf jeden Fall aber basieren sie auf br\u00fcchigem Fundament \u2013 wie manager-magazin-Experte Mark B\u00f6schen in diesem Podcast analysiert."
+                },
+                {
+                    "text": "Dar\u00fcber informiert in diesem Podcast Mark B\u00f6schen im Gespr\u00e4ch mit Chefredakteur Sven Clausen."
+                }
+            ],
+            "occupations": [
+                {
+                    "text": "br\u00fcchigem Fundament"
+                }
+            ],
+            "directQuotes": [
+                {
+                    "text": "Das Thema"
+                }
+            ],
+            "quotedInTitle": false,
+            "quotedInIntro": false
+        }
+    ]
+}

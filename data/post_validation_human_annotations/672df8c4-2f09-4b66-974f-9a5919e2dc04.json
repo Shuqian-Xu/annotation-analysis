@@ -1,0 +1,100 @@
+{
+  "persons": [
+    {
+      "age": 66, 
+      "alternativeNames": [],
+      "birthday": null,
+      "descriptiveTexts": [
+        {
+          "text": "Diesen Krisenfall dürfte es eigentlich gar nicht geben: In seiner Zeit als Siemens-Chef hatte Joe Kaeser (66) die Energiesparte abgespalten, um ihr als eigenständigem Konzern volle Bewegungsfreiheit für die Energiewende zu geben - unter anderem mit Gasturbinen und einem aufgemotzten Geschäft mit Windturbinen für Land und See."
+        }
+      ],
+      "directQuotes": [],
+      "inIntro": false,
+      "inTitle": false,
+      "indirectQuotes": [],
+      "isMain": false,
+      "name": "Joe Kaeser",
+      "occupations": [
+        {
+          "text": "Siemens-Chef"
+        }
+      ],
+      "occurences": {
+        "firstNameOnly": 0,
+        "fullName": 1,
+        "lastNameOnly": 0,
+        "total": 1
+      },
+      "quotedInIntro": false,
+      "quotedInTitle": false,
+      "sex": "male"
+    },
+    {
+      "age": -1, 
+      "alternativeNames": [],
+      "birthday": null,
+      "descriptiveTexts": [
+        {
+          "text": "Darüber informiert in diesem Podcast Claas Tatje, Siemens-Experte des manager magazins, im Gespräch mit Chefredakteur Sven Clausen."
+        }
+      ],
+      "directQuotes": [],
+      "inIntro": false,
+      "inTitle": false,
+      "indirectQuotes": [],
+      "isMain": false,
+      "name": "Claas Tatje",
+      "occupations": [
+        {
+          "text": "Siemens-Experte des manager magazins"
+        }
+      ],
+      "occurences": {
+        "firstNameOnly": 0,
+        "fullName": 1,
+        "lastNameOnly": 0,
+        "total": 1
+      },
+      "quotedInIntro": false,
+      "quotedInTitle": false,
+      "sex": "male"
+    },
+    {
+      "age": -1, 
+      "alternativeNames": [],
+      "birthday": null,
+      "descriptiveTexts": [
+        {
+          "text": "Darüber informiert in diesem Podcast Claas Tatje, Siemens-Experte des manager magazins, im Gespräch mit Chefredakteur Sven Clausen."
+        },
+        {
+          "text": "Im Podcast »Das Thema« informiert Chefredakteur Sven Clausen jede Woche über den internen Recherchestand zu jeweils einem für die deutsche Wirtschaft entscheidenden Thema."
+        }
+      ],
+      "directQuotes": [],
+      "inIntro": false,
+      "inTitle": false,
+      "indirectQuotes": [],
+      "isMain": false,
+      "name": "Sven Clausen",
+      "occupations": [
+        {
+          "text": "Chefredakteur"
+        }
+      ],
+      "occurences": {
+        "firstNameOnly": 0,
+        "fullName": 2,
+        "lastNameOnly": 0,
+        "total": 2
+      },
+      "quotedInIntro": false,
+      "quotedInTitle": false,
+      "sex": "male"
+    }
+  ],
+  "subtopics": [
+    "Energiewende", "Unternehmensstrategie", "Podcast"
+  ]
+}

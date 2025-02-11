@@ -1,0 +1,128 @@
+{
+    "persons": [
+        {
+            "name": "Josip Broz Tito",
+            "alternativeNames": [],
+            "age": -1,
+            "sex": "male",
+            "occurences": {
+                "total": 2,
+                "firstNameOnly": 0,
+                "lastNameOnly": 1,
+                "fullName": 1,
+                "nickname": 0
+            },
+            "inTitle": false,
+            "inIntro": true,
+            "_name": {
+                "firstname": "Josip Broz",
+                "lastname": "Tito",
+                "nickname": null,
+                "alternative_names": [],
+                "academic_title": null,
+                "nobility_title_or_rank": null
+            },
+            "descriptiveTexts": [
+                {
+                    "text": "Von Staatspr\u00e4sident Tito gab es sogar Pokale \u2013 in fragw\u00fcrdiger Absicht."
+                },
+                {
+                    "text": "Im Kalten Krieg wollte Staatspr\u00e4sident Josip Broz Tito die Arbeitskr\u00e4fte nicht dauerhaft an die westdeutsche Wirtschaft verlieren."
+                }
+            ],
+            "occupations": [
+                {
+                    "text": "Staatspr\u00e4sident"
+                },
+                {
+                    "text": "fragw\u00fcrdiger Absicht"
+                }
+            ],
+            "directQuotes": [],
+            "quotedInTitle": false,
+            "quotedInIntro": true
+        },
+        {
+            "name": "Luka Babi\u0107",
+            "alternativeNames": [],
+            "age": -1,
+            "sex": "male",
+            "occurences": {
+                "total": 1,
+                "firstNameOnly": 0,
+                "lastNameOnly": 0,
+                "fullName": 1,
+                "nickname": 0
+            },
+            "inTitle": false,
+            "inIntro": false,
+            "_name": {
+                "firstname": "Luka",
+                "lastname": "Babi\u0107",
+                "nickname": null,
+                "alternative_names": [],
+                "academic_title": null,
+                "nobility_title_or_rank": null
+            },
+            "descriptiveTexts": [
+                {
+                    "text": "Schnell entdeckten sie das runde Leder f\u00fcr sich: \u00bbZwischen Arbeit, Familie und regelm\u00e4\u00dfigen Reisen nach Jugoslawien war der Fu\u00dfball f\u00fcr sie eine beliebte und simple Freizeitgestaltung\u00ab, res\u00fcmiert der T\u00fcbinger Historiker Luka Babi\u0107, der die \u00bbJugoliga\u00ab erforscht hat."
+                }
+            ],
+            "occupations": [
+                {
+                    "text": "T\u00fcbinger Historiker"
+                }
+            ],
+            "directQuotes": [
+                {
+                    "text": "Zwischen Arbeit, Familie und regelm\u00e4\u00dfigen Reisen nach Jugoslawien war der Fu\u00dfball f\u00fcr sie eine beliebte und simple Freizeitgestaltung"
+                },
+                {
+                    "text": "Entlang ethnisch-nationaler Linien feindeten sich ehemalige Freunde und Mitspieler an, attackierten einander verbal und physisch"
+                },
+                {
+                    "text": "Die Vereine wurden ein Spiegel ihrer zerfallenden Heimat."
+                }
+            ],
+            "quotedInTitle": false,
+            "quotedInIntro": false
+        },
+        {
+            "name": "Babi\u010d",
+            "alternativeNames": [],
+            "age": -1,
+            "sex": "unknown",
+            "occurences": {
+                "total": 1,
+                "firstNameOnly": 0,
+                "lastNameOnly": 0,
+                "fullName": 1,
+                "nickname": 0
+            },
+            "inTitle": false,
+            "inIntro": false,
+            "_name": {
+                "firstname": null,
+                "lastname": null,
+                "nickname": null,
+                "alternative_names": [],
+                "academic_title": null,
+                "nobility_title_or_rank": null
+            },
+            "descriptiveTexts": [
+                {
+                    "text": "\u00bbEntlang ethnisch-nationaler Linien feindeten sich ehemalige Freunde und Mitspieler an, attackierten einander verbal und physisch\u00ab, konstatiert Historiker Babi\u010d."
+                }
+            ],
+            "occupations": [
+                {
+                    "text": "T\u00fcbinger Historiker"
+                }
+            ],
+            "directQuotes": [],
+            "quotedInTitle": false,
+            "quotedInIntro": false
+        }
+    ]
+}

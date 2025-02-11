@@ -1,0 +1,400 @@
+{
+    "persons": [
+        {
+            "name": "Lisa Paus",
+            "alternativeNames": [],
+            "age": -1,
+            "sex": "female",
+            "occurences": {
+                "total": 14,
+                "firstNameOnly": 0,
+                "lastNameOnly": 13,
+                "fullName": 1,
+                "nickname": 0
+            },
+            "inTitle": false,
+            "inIntro": false,
+            "_name": {
+                "firstname": "Lisa",
+                "lastname": "Paus",
+                "nickname": null,
+                "alternative_names": [],
+                "academic_title": null,
+                "nobility_title_or_rank": null
+            },
+            "descriptiveTexts": [
+                {
+                    "text": "Lisa Paus will heute mal ein bisschen Optimismus verbreiten."
+                },
+                {
+                    "text": "Sie sollen besser gesch\u00fctzt werden."
+                },
+                {
+                    "text": "Eigentlich ist das ein kleiner Schritt im Gesetzgebungsprozess: Die Regierung verst\u00e4ndigt sich auf etwas, das sie sich im Koalitionsvertrag vorgenommen hat."
+                },
+                {
+                    "text": "Wer Schwangere durch Protest vor Arztpraxen und Beratungsstellen an einem Abbruch hindere, erkl\u00e4rt Paus l\u00e4chelnd in die Kameras, soll k\u00fcnftig bis zu 5000 Euro Bu\u00dfgeld zahlen."
+                },
+                {
+                    "text": "Als sie sich auf einen Koalitionsvertrag einigten, wollten SPD, Gr\u00fcne und FDP eine neue \u00c4ra einleiten: Klimaschutz, Gerechtigkeit, Digitalisierung, Einwanderung, \u00fcberall sollte es vorw\u00e4rts gehen, die Partner planten au\u00dferdem eine neue Gesellschafts- und Familienpolitik."
+                },
+                {
+                    "text": "\u00bbEs ist jetzt Halbzeit. Wir haben schon einiges geschafft. Einiges ist noch in der Pipeline\u00ab, sagt Paus, nachdem sie am Mittwoch ihren Gesetzentwurf vorgestellt hat."
+                },
+                {
+                    "text": "Der Familienministerin ist bewusst, dass sie jetzt liefern muss."
+                },
+                {
+                    "text": "Paus geh\u00f6rt zu jenem Teil der Ampel, dem die sogenannten Fortschrittsthemen immer noch besonders am Herzen liegen."
+                },
+                {
+                    "text": "Manchmal so sehr, dass sie damit aneckt."
+                },
+                {
+                    "text": "Etwa, wenn sie selbstbewusst sagt: \u00bbTransfrauen sind Frauen.\u00ab"
+                },
+                {
+                    "text": "Oder damals, als sie im Sommer 2022 unabgesprochen die sogenannte Progress-Regenbogenflagge vor ihrem Ministerium hisste \u2013 eine Flagge, die auch die Anliegen von Trans- und Intersexuellen miteinbezieht."
+                },
+                {
+                    "text": "Sofort kam der Vorwurf, Paus verprelle mit solchen Symbolen einen Teil der Gesellschaft."
+                },
+                {
+                    "text": "Das habe enorme Ressourcen gebunden, sagt Paus."
+                },
+                {
+                    "text": "Bereits 2022 wies das Kanzleramt Paus an, das Projekt zu verschieben."
+                },
+                {
+                    "text": "Im April 2023 legte Paus einen Gesetzentwurf vor, der seither vor sich hin d\u00fcmpelt."
+                },
+                {
+                    "text": "\u00bbUnternehmen wie Henkel f\u00fchren solche Zeiten f\u00fcr den zweiten Elternteil direkt nach der Geburt bereits von sich aus ein \u2013 das zeigt, die Wirtschaft sieht den Handlungsbedarf und ist weiter als die FDP\u00ab, sagt Paus' Parteikollegin Nina Stahr, in der Bundestagsfraktion zust\u00e4ndig f\u00fcr Familienpolitik."
+                },
+                {
+                    "text": "\u00bbWir ben\u00f6tigen einen Gesetzentwurf, der f\u00fcr die gesamte Koalition konsensf\u00e4hig ist und nicht nur f\u00fcr Ministerin Paus\u00ab, sagte k\u00fcrzlich die stellvertretende FDP-Fraktionsvorsitzende Gyde Jensen dem Redaktionsnetzwerk Deutschland."
+                },
+                {
+                    "text": "Und was ist eigentlich mit der Kindergrundsicherung, Paus' gro\u00dfem Vorzeigeprojekt?"
+                },
+                {
+                    "text": "Dabei k\u00f6nnte das Gesetz ein weiteres Problem l\u00f6sen, verspricht Paus: Den Streit um Lindners geplante Erh\u00f6hung des Kinderfreibetrags, von dem vor allem Besserverdiener profitieren."
+                },
+                {
+                    "text": "Paus m\u00fcsste sich dann fragen lassen, was sie als Ministerin \u00fcberhaupt erreicht hat."
+                },
+                {
+                    "text": "Bisher brauchen sie daf\u00fcr zwei Gutachten und einen Gerichtsbeschluss."
+                },
+                {
+                    "text": "Als Paus und Buschmann im Sommer 2022 erste Ideen vorstellten, brach ein kleiner Kulturkampf los."
+                },
+                {
+                    "text": "Unterst\u00fctzer der Reform waren entsetzt, weil sie transgeschlechtliche Menschen dadurch stigmatisiert sahen."
+                }
+            ],
+            "occupations": [
+                {
+                    "text": "Familienministerin"
+                }
+            ],
+            "directQuotes": [
+                {
+                    "text": "Es ist jetzt Halbzeit. Wir haben schon einiges geschafft. Einiges ist noch in der Pipeline"
+                },
+                {
+                    "text": "Transfrauen sind Frauen."
+                },
+                {
+                    "text": "Wir machen keine Identit\u00e4tspolitik, sondern setzen die Vorgaben unserer Verfassung um, allen Menschen die gleichen Rechte f\u00fcr freie Entfaltung zu geben."
+                }
+            ],
+            "quotedInTitle": false,
+            "quotedInIntro": false
+        },
+        {
+            "name": "Nina Stahr",
+            "alternativeNames": [],
+            "age": -1,
+            "sex": "female",
+            "occurences": {
+                "total": 1,
+                "firstNameOnly": 0,
+                "lastNameOnly": 0,
+                "fullName": 1,
+                "nickname": 0
+            },
+            "inTitle": false,
+            "inIntro": false,
+            "_name": {
+                "firstname": "Nina",
+                "lastname": "Stahr",
+                "nickname": null,
+                "alternative_names": [],
+                "academic_title": null,
+                "nobility_title_or_rank": null
+            },
+            "descriptiveTexts": [
+                {
+                    "text": "\u00bbUnternehmen wie Henkel f\u00fchren solche Zeiten f\u00fcr den zweiten Elternteil direkt nach der Geburt bereits von sich aus ein \u2013 das zeigt, die Wirtschaft sieht den Handlungsbedarf und ist weiter als die FDP\u00ab, sagt Paus' Parteikollegin Nina Stahr, in der Bundestagsfraktion zust\u00e4ndig f\u00fcr Familienpolitik."
+                },
+                {
+                    "text": "Sie w\u00fcnscht sich \u00bbeine gr\u00f6\u00dfere Priorit\u00e4t der gesamten Koalition f\u00fcr das Thema Familien\u00ab."
+                }
+            ],
+            "occupations": [],
+            "directQuotes": [
+                {
+                    "text": "Unternehmen wie Henkel f\u00fchren solche Zeiten f\u00fcr den zweiten Elternteil direkt nach der Geburt bereits von sich aus ein \u2013 das zeigt, die Wirtschaft sieht den Handlungsbedarf und ist weiter als die FDP"
+                }
+            ],
+            "quotedInTitle": false,
+            "quotedInIntro": false
+        },
+        {
+            "name": "Jan Plobner",
+            "alternativeNames": [],
+            "age": -1,
+            "sex": "male",
+            "occurences": {
+                "total": 1,
+                "firstNameOnly": 0,
+                "lastNameOnly": 0,
+                "fullName": 1,
+                "nickname": 0
+            },
+            "inTitle": false,
+            "inIntro": false,
+            "_name": {
+                "firstname": "Jan",
+                "lastname": "Plobner",
+                "nickname": null,
+                "alternative_names": [],
+                "academic_title": null,
+                "nobility_title_or_rank": null
+            },
+            "descriptiveTexts": [
+                {
+                    "text": "\u00bbDie hoch emotionalisierten und zum Teil menschenverachtenden Debatten der letzten Monate haben Spuren im Gesetz hinterlassen\u00ab, sagt Jan Plobner, SPD-Abgeordneter und Berichterstatter f\u00fcr das Thema."
+                },
+                {
+                    "text": "\u00bbDas ist bitter. Denn im Grunde ver\u00e4ndern wir nur ein Verwaltungsverfahren. Ich w\u00fcnsche mir f\u00fcr die Zukunft von allen Beteiligten mehr Mut zur Klarheit.\u00ab"
+                }
+            ],
+            "occupations": [
+                {
+                    "text": "SPD-Abgeordneter"
+                }
+            ],
+            "directQuotes": [
+                {
+                    "text": "Die hoch emotionalisierten und zum Teil menschenverachtenden Debatten der letzten Monate haben Spuren im Gesetz hinterlassen"
+                }
+            ],
+            "quotedInTitle": false,
+            "quotedInIntro": false
+        },
+        {
+            "name": "Christian Lindner",
+            "alternativeNames": [],
+            "age": -1,
+            "sex": "male",
+            "occurences": {
+                "total": 3,
+                "firstNameOnly": 0,
+                "lastNameOnly": 2,
+                "fullName": 1,
+                "nickname": 0
+            },
+            "inTitle": false,
+            "inIntro": false,
+            "_name": {
+                "firstname": "Christian",
+                "lastname": "Lindner",
+                "nickname": null,
+                "alternative_names": [],
+                "academic_title": null,
+                "nobility_title_or_rank": null
+            },
+            "descriptiveTexts": [
+                {
+                    "text": "Was wenig n\u00fctzt, so lange Finanzminister Christian Lindner dagegen ist."
+                },
+                {
+                    "text": "Dabei k\u00f6nnte das Gesetz ein weiteres Problem l\u00f6sen, verspricht Paus: Den Streit um Lindners geplante Erh\u00f6hung des Kinderfreibetrags, von dem vor allem Besserverdiener profitieren."
+                },
+                {
+                    "text": "\u00bbBubatz 2023 legal\u00ab versprach etwa FDP-Chef Lindner."
+                }
+            ],
+            "occupations": [
+                {
+                    "text": "Finanzminister"
+                }
+            ],
+            "directQuotes": [],
+            "quotedInTitle": false,
+            "quotedInIntro": false
+        },
+        {
+            "name": "Karl Lauterbach",
+            "alternativeNames": [],
+            "age": -1,
+            "sex": "male",
+            "occurences": {
+                "total": 3,
+                "firstNameOnly": 0,
+                "lastNameOnly": 2,
+                "fullName": 1,
+                "nickname": 0
+            },
+            "inTitle": false,
+            "inIntro": false,
+            "_name": {
+                "firstname": "Karl",
+                "lastname": "Lauterbach",
+                "nickname": null,
+                "alternative_names": [],
+                "academic_title": null,
+                "nobility_title_or_rank": null
+            },
+            "descriptiveTexts": [
+                {
+                    "text": "Verantwortlich f\u00fcr das Gesetz ist ausgerechnet der Minister, den wohl kaum jemand mit Genuss und Kontrollverlust verbindet: Karl Lauterbach von der SPD."
+                },
+                {
+                    "text": "Er soll umsetzen, wovon er selbst sich nur z\u00f6gerlich hat \u00fcberzeugen lassen."
+                },
+                {
+                    "text": "Eine Reihe von Innenpolitikern aus Lauterbachs SPD blockiert die n\u00e4chsten Schritte."
+                },
+                {
+                    "text": "Die Genossen halten das Gesetz f\u00fcr nicht kontrollierbar, sie f\u00fcrchten, man z\u00fcchte sich eine ganz neue Generation von Drogens\u00fcchtigen heran."
+                },
+                {
+                    "text": "Lauterbach ist sich trotzdem sicher, dass das Gesetz beschlossen wird."
+                },
+                {
+                    "text": "Zumindest tut er so."
+                },
+                {
+                    "text": "\u00bbWenn man es angefangen hat, muss man es auch durchziehen\u00ab, sagt er."
+                }
+            ],
+            "occupations": [],
+            "directQuotes": [
+                {
+                    "text": "Das ist bitter. Denn im Grunde ver\u00e4ndern wir nur ein Verwaltungsverfahren. Ich w\u00fcnsche mir f\u00fcr die Zukunft von allen Beteiligten mehr Mut zur Klarheit."
+                }
+            ],
+            "quotedInTitle": false,
+            "quotedInIntro": false
+        },
+        {
+            "name": "Gyde Jensen",
+            "alternativeNames": [],
+            "age": -1,
+            "sex": "female",
+            "occurences": {
+                "total": 1,
+                "firstNameOnly": 0,
+                "lastNameOnly": 0,
+                "fullName": 1,
+                "nickname": 0
+            },
+            "inTitle": false,
+            "inIntro": false,
+            "_name": {
+                "firstname": "Gyde",
+                "lastname": "Jensen",
+                "nickname": null,
+                "alternative_names": [],
+                "academic_title": null,
+                "nobility_title_or_rank": null
+            },
+            "descriptiveTexts": [
+                {
+                    "text": "\u00bbWir ben\u00f6tigen einen Gesetzentwurf, der f\u00fcr die gesamte Koalition konsensf\u00e4hig ist und nicht nur f\u00fcr Ministerin Paus\u00ab, sagte k\u00fcrzlich die stellvertretende FDP-Fraktionsvorsitzende Gyde Jensen dem Redaktionsnetzwerk Deutschland."
+                }
+            ],
+            "occupations": [],
+            "directQuotes": [
+                {
+                    "text": "Wir ben\u00f6tigen einen Gesetzentwurf, der f\u00fcr die gesamte Koalition konsensf\u00e4hig ist und nicht nur f\u00fcr Ministerin Paus"
+                },
+                {
+                    "text": "Wenn die Ministerin jedoch nicht rechtzeitig mit uns \u00fcber M\u00f6glichkeiten und Finanzierung spricht und am Ende das Finanzministerium als alleinigen Schuldigen darstellt, funktioniert das nicht."
+                }
+            ],
+            "quotedInTitle": false,
+            "quotedInIntro": false
+        },
+        {
+            "name": "Marco Buschmann",
+            "alternativeNames": [],
+            "age": -1,
+            "sex": "male",
+            "occurences": {
+                "total": 7,
+                "firstNameOnly": 0,
+                "lastNameOnly": 6,
+                "fullName": 1,
+                "nickname": 0
+            },
+            "inTitle": false,
+            "inIntro": false,
+            "_name": {
+                "firstname": "Marco",
+                "lastname": "Buschmann",
+                "nickname": null,
+                "alternative_names": [],
+                "academic_title": null,
+                "nobility_title_or_rank": null
+            },
+            "descriptiveTexts": [
+                {
+                    "text": "Im Kabinett steht nicht nur sie unter Druck."
+                },
+                {
+                    "text": "Zu Beginn seiner Amtszeit hatte Justizminister Marco Buschmann (FDP) die \u00bbvermutlich gr\u00f6\u00dfte familienrechtliche Reform der letzten Jahrzehnte\u00ab angek\u00fcndigt."
+                },
+                {
+                    "text": "Vor f\u00fcnf Monaten k\u00fcndigte Buschmann an, zeitnah Eckpunkte daf\u00fcr vorzulegen \u2013 die allerdings noch immer nicht da sind."
+                },
+                {
+                    "text": "Zumindest f\u00fcr die Reform des Familienrechts hat Buschmann nun erste Ideen vorgestellt."
+                },
+                {
+                    "text": "Buschmann versprach: \u00bbWir halten Wort.\u00ab"
+                },
+                {
+                    "text": "Als Paus und Buschmann im Sommer 2022 erste Ideen vorstellten, brach ein kleiner Kulturkampf los."
+                },
+                {
+                    "text": "Zu heftiger Kritik f\u00fchrte auch der Plan, dass Jugendliche ab 14 Jahren mit Zustimmung der Eltern ihren Eintrag selbstst\u00e4ndig \u00e4ndern k\u00f6nnen \u2013 wenn es so kommt, wie Buschmann es will."
+                },
+                {
+                    "text": "Sein Parteifreund Buschmann wollte \u00bbden Dealer arbeitslos\u00ab machen."
+                }
+            ],
+            "occupations": [
+                {
+                    "text": "Justizminister"
+                },
+                {
+                    "text": "Politiker"
+                }
+            ],
+            "directQuotes": [
+                {
+                    "text": "vermutlich gr\u00f6\u00dfte familienrechtliche Reform der letzten Jahrzehnte"
+                },
+                {
+                    "text": "Wir halten Wort."
+                }
+            ],
+            "quotedInTitle": false,
+            "quotedInIntro": false
+        }
+    ]
+}

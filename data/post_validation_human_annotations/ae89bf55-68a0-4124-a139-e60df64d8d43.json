@@ -1,0 +1,148 @@
+{
+	"persons": [
+		{
+			"age": 59,
+			"alternativeNames": [],
+			"birthday": null,
+			"descriptiveTexts": [
+				{
+					"text": "Die Leistungen des staatseigenen Betriebs und seines CEO Richard Lutz werden immer schlechter, dennoch lässt die Politik sie gewähren."
+				},
+				{
+					"text": "Gleichzeitig wird die Leistung des Führungsteams um Vorstandschef Richard Lutz (59) nachweislich immer schlechter."
+				},
+				{
+					"text": "Wie konnte Lutz sich den Verkehrsminister derart gefügig machen?"
+				}
+			],
+			"directQuotes": [],
+			"inIntro": true,
+			"inTitle": false,
+			"indirectQuotes": [],
+			"isMain": false,
+			"name": "Richard Lutz",
+			"occupations": [
+				{
+					"text": "CEO"
+				},
+				{
+					"text": "Vorstandschef"
+				}
+			],
+			"occurrences": {
+				"firstNameOnly": 0,
+				"fullName": 2,
+				"lastNameOnly": 1,
+				"total": 3
+			},
+			"quotedInIntro": false,
+			"quotedInTitle": false,
+			"sex": "male"
+		},
+		{
+			"age": 53,
+			"alternativeNames": [],
+			"birthday": null,
+			"descriptiveTexts": [
+				{
+					"text": "Statt aber einzuschreiten, verzwergt sich der zuständige Verkehrsminister Volker Wissing (53) zusehends."
+				},
+				{
+					"text": "Er lässt den Vorstand des staatseigenen Großkonzerns weitgehend ungehindert agieren und Milliarden in zweifelhafte Projekte verstreuen."
+				},
+				{
+					"text": "Wie konnte Lutz sich den Verkehrsminister derart gefügig machen?"
+				}
+			],
+			"directQuotes": [],
+			"inIntro": false,
+			"inTitle": false,
+			"indirectQuotes": [],
+			"isMain": false,
+			"name": "Volker Wissing",
+			"occupations": [
+				{
+					"text": "Verkehrsminister"
+				}
+			],
+			"occurrences": {
+				"firstNameOnly": 0,
+				"fullName": 1,
+				"lastNameOnly": 0,
+				"total": 1
+			},
+			"quotedInIntro": false,
+			"quotedInTitle": false,
+			"sex": "male"
+		},
+		{
+			"age": -1,
+			"alternativeNames": [],
+			"birthday": null,
+			"descriptiveTexts": [
+				{
+					"text": "Darüber informiert in diesem Podcast Michael Machatschke, langjähriger Bahn-Kenner des manager magazins, im Gespräch mit Chefredakteur Sven Clausen."
+				}
+			],
+			"directQuotes": [],
+			"inIntro": false,
+			"inTitle": false,
+			"indirectQuotes": [],
+			"isMain": false,
+			"name": "Michael Machatschke",
+			"occupations": [
+				{
+					"text": "langjähriger Bahn-Kenner des manager magazins"
+				}
+			],
+			"occurrences": {
+				"firstNameOnly": 0,
+				"fullName": 1,
+				"lastNameOnly": 0,
+				"total": 1
+			},
+			"quotedInIntro": false,
+			"quotedInTitle": false,
+			"sex": "male"
+		},
+		{
+			"age": -1,
+			"alternativeNames": [],
+			"birthday": null,
+			"descriptiveTexts": [
+				{
+					"text": "Darüber informiert in diesem Podcast Michael Machatschke, langjähriger Bahn-Kenner des manager magazins, im Gespräch mit Chefredakteur Sven Clausen."
+				},
+				{
+					"text": "Im Podcast »Das Thema« informiert Chefredakteur Sven Clausen jede Woche über den internen Recherchestand zu einem relevanten aktuellen und zugleich zukunftsträchtigen Thema der Wirtschaft."
+				}
+			],
+			"directQuotes": [],
+			"inIntro": false,
+			"inTitle": false,
+			"indirectQuotes": [],
+			"isMain": false,
+			"name": "Sven Clausen",
+			"occupations": [
+				{
+					"text": "Chefredakteur"
+				}
+			],
+			"occurrences": {
+				"firstNameOnly": 0,
+				"fullName": 2,
+				"lastNameOnly": 0,
+				"total": 2
+			},
+			"quotedInIntro": false,
+			"quotedInTitle": false,
+			"sex": "male"
+		}
+	],
+	"subtopics": [
+		"Verkehrswende",
+		"Deutsche Bahn",
+		"Missmanagement",
+		"Unternehmen"
+	]
+}

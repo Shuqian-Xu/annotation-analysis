@@ -1,0 +1,401 @@
+{
+    "persons": [
+        {
+            "name": "Kirill",
+            "alternativeNames": [],
+            "age": -1,
+            "sex": "male",
+            "occurences": {
+                "total": 1,
+                "firstNameOnly": 0,
+                "lastNameOnly": 0,
+                "fullName": 1,
+                "nickname": 0
+            },
+            "inTitle": false,
+            "inIntro": false,
+            "_name": {
+                "firstname": "Kirill",
+                "lastname": null,
+                "nickname": null,
+                "alternative_names": [],
+                "academic_title": null,
+                "nobility_title_or_rank": null
+            },
+            "descriptiveTexts": [
+                {
+                    "text": "Hungary, for example, prevented the sanctions against Patriarch Kirill, the head of the Russian Orthodox Church, which were supported by a majority of the EU member states."
+                }
+            ],
+            "occupations": [
+                {
+                    "text": "supported by a majority of the EU member states"
+                },
+                {
+                    "text": "Patriarch"
+                }
+            ],
+            "directQuotes": [],
+            "quotedInTitle": false,
+            "quotedInIntro": false
+        },
+        {
+            "name": "Arkady Volozh",
+            "alternativeNames": [],
+            "age": -1,
+            "sex": "male",
+            "occurences": {
+                "total": 37,
+                "firstNameOnly": 0,
+                "lastNameOnly": 35,
+                "fullName": 2,
+                "nickname": 0
+            },
+            "inTitle": true,
+            "inIntro": false,
+            "_name": {
+                "firstname": "Arkady",
+                "lastname": "Volozh",
+                "nickname": null,
+                "alternative_names": [],
+                "academic_title": null,
+                "nobility_title_or_rank": null
+            },
+            "descriptiveTexts": [
+                {
+                    "text": "Does Billionaire Arkady Volozh Really Belong on the EU Sanctions List?"
+                },
+                {
+                    "text": "The fate of Russian businessman Arkady Volozh is more than just astonishing."
+                },
+                {
+                    "text": "Volozh has become an enemy of state on both sides in the confrontation between Russia and the West."
+                },
+                {
+                    "text": "Volozh is one of Russia\u2019s smartest tech entrepreneurs."
+                },
+                {
+                    "text": "The EU has therefore classified Volozh\u2019s activities as a \u201csubstantial source of income\u201d for the Kremlin and targeted him with sanctions."
+                },
+                {
+                    "text": "Volozh now presents himself as an \u201cIsraeli tech entrepreneur born in Kazakhstan.\u201d This has outraged many in Russia, both pro-Kremlin propagandists and members of the opposition."
+                },
+                {
+                    "text": "Volozh\u2019s name still occupies position 1,175 on the European Council\u2019s sanctions list."
+                },
+                {
+                    "text": "Volozh's case is more than just bad luck or a chain of unfortunate circumstances."
+                },
+                {
+                    "text": "Which is why some members of the Moscow business elite are closely following the Volozh case."
+                },
+                {
+                    "text": "Volozh is one of the few entrepreneurs who have built a business beyond oil, gas and metal, and without relying on political ties."
+                },
+                {
+                    "text": "\u201cWe wanted to create a new Russia, open and able to offer the world more than just raw materials,\u201d as Volozh himself once put it."
+                },
+                {
+                    "text": "The company, she adds, \u201cadapted its algorithms accordingly in order to get out of the line of fire.\u201d She argues that Volozh should have done more to push back against the state pressure. Yandex was so important for the development of the Russian tech industry that the conglomerate \u201ccould have used its weight to influence the formulation of Russian internet laws in negotiations with the Kremlin,\u201d says Epifanova."
+                },
+                {
+                    "text": "Is it possible that the EU has hit the wrong person and that it is punishing Volozh for what he had been required to do under Russian law?"
+                },
+                {
+                    "text": "The EU is \u201ctreading on thin ice\u201d in this case, says Gerhard Mangott, a Russia expert at the University of Innsbruck. \u201cIt is hard to understand what Volozh is being accused of.\u201d"
+                },
+                {
+                    "text": "He argues that the reasons given by the EU for sanctioning Volozh are \u201cpoor and dubious.\u201d No one suspects \u00c5slund of holding a particularly lenient view of Putin and Russia's oligarchs."
+                },
+                {
+                    "text": "\u00c5slund describes Volozh's Yandex as being one of the few examples to the contrary."
+                },
+                {
+                    "text": "Although Volozh didn\u2019t protest against the annexation of Crimea, he was \u201cclearly not been a sympathizer\u201d of the development at the time."
+                },
+                {
+                    "text": "\u00c5slund found it particularly bothersome that the EU made reference to his book, of all things, when it made the decision to issue sanctions against Volozh."
+                },
+                {
+                    "text": "It is unclear what evidence the EU has against Volozh."
+                },
+                {
+                    "text": "It didn't even take particularly clear signals from the EU for Yandex founder Volozh to distance himself from the Kremlin."
+                },
+                {
+                    "text": "Volozh announced in August 2023 that he was \u201ctotally against Russia\u2019s barbaric invasion.\u201d A short time later, it became clear why Russian businessmen are usually reluctant to make such political statements. President Putin reacted in his usual manner. First he called Volozh a \u201ctalented entrepreneur.\u201d He had made similar comments about mercenary leader Prigozhin \u2013 only to see his plane fall out of the sky a short time later."
+                },
+                {
+                    "text": "Then, in what he clearly intended as a threat, he wished the tech entrepreneur \u201cgood health.\u201d Putin's spokesman, Dmitry Peskov, was even more direct not long later. People like Volozh, he said, would deliver Russia to the enemy for money, just as Judas once delivered Jesus. \u201cThey are traitors,\u201d Peskov said."
+                },
+                {
+                    "text": "In the U.S., Volozh has been the subject of praise."
+                },
+                {
+                    "text": "Michael McFaul, a Russia expert and professor at Stanford, has applauded Volozh's courage."
+                },
+                {
+                    "text": "It seems that it has only been in Brussels that Volozh\u2019s criticism of the war has had no noticeable effect."
+                },
+                {
+                    "text": "After the same round of negotiations, Volozh appeared on the sanctions list."
+                },
+                {
+                    "text": "Nonetheless, an EU diplomat confirmed that the Volozh case will be revisited in the coming weeks."
+                },
+                {
+                    "text": "The diplomat said that Volozh\u2019s position against the war is only one of the criteria that matters."
+                },
+                {
+                    "text": "The more important question is whether Volozh will continue to be classified as an important Russian businessman who helps the Kremlin, either directly or indirectly."
+                },
+                {
+                    "text": "In other words, Volozh doesn\u2019t have great prospects."
+                },
+                {
+                    "text": "At the beginning of February, Volozh went even one step further."
+                },
+                {
+                    "text": "They will pay out the existing shareholders, including Volozh, who still holds around 8 percent of the shares."
+                },
+                {
+                    "text": "Volozh had been planning this step for some time."
+                },
+                {
+                    "text": "However, if the EU officials make a complete departure from Russia a condition, the Kremlin could ultimately decide on Volozh's fate again."
+                },
+                {
+                    "text": "Volozh would like to locate the headquarters of his new company in Amsterdam."
+                },
+                {
+                    "text": "However, if the sanctions remain in force, Volozh would have to look at other locations."
+                }
+            ],
+            "occupations": [
+                {
+                    "text": "one of Russia\u2019s smartest tech entrepreneurs"
+                },
+                {
+                    "text": "Israeli tech entrepreneur"
+                }
+            ],
+            "directQuotes": [],
+            "quotedInTitle": true,
+            "quotedInIntro": false
+        },
+        {
+            "name": "Gerhard Mangott",
+            "alternativeNames": [],
+            "age": -1,
+            "sex": "male",
+            "occurences": {
+                "total": 1,
+                "firstNameOnly": 0,
+                "lastNameOnly": 0,
+                "fullName": 1,
+                "nickname": 0
+            },
+            "inTitle": false,
+            "inIntro": false,
+            "_name": {
+                "firstname": "Gerhard",
+                "lastname": "Mangott",
+                "nickname": null,
+                "alternative_names": [],
+                "academic_title": null,
+                "nobility_title_or_rank": null
+            },
+            "descriptiveTexts": [
+                {
+                    "text": "The EU is \u201ctreading on thin ice\u201d in this case, says Gerhard Mangott, a Russia expert at the University of Innsbruck. \u201cIt is hard to understand what Volozh is being accused of.\u201d"
+                }
+            ],
+            "occupations": [],
+            "directQuotes": [],
+            "quotedInTitle": false,
+            "quotedInIntro": false
+        },
+        {
+            "name": "Dmitry Peskov",
+            "alternativeNames": [],
+            "age": -1,
+            "sex": "male",
+            "occurences": {
+                "total": 2,
+                "firstNameOnly": 0,
+                "lastNameOnly": 1,
+                "fullName": 1,
+                "nickname": 0
+            },
+            "inTitle": false,
+            "inIntro": false,
+            "_name": {
+                "firstname": "Dmitry",
+                "lastname": "Peskov",
+                "nickname": null,
+                "alternative_names": [],
+                "academic_title": null,
+                "nobility_title_or_rank": null
+            },
+            "descriptiveTexts": [
+                {
+                    "text": "Then, in what he clearly intended as a threat, he wished the tech entrepreneur \u201cgood health.\u201d Putin's spokesman, Dmitry Peskov, was even more direct not long later. People like Volozh, he said, would deliver Russia to the enemy for money, just as Judas once delivered Jesus. \u201cThey are traitors,\u201d Peskov said."
+                }
+            ],
+            "occupations": [],
+            "directQuotes": [],
+            "quotedInTitle": false,
+            "quotedInIntro": false
+        },
+        {
+            "name": "Alena Epifanova",
+            "alternativeNames": [],
+            "age": -1,
+            "sex": "female",
+            "occurences": {
+                "total": 3,
+                "firstNameOnly": 0,
+                "lastNameOnly": 2,
+                "fullName": 1,
+                "nickname": 0
+            },
+            "inTitle": false,
+            "inIntro": false,
+            "_name": {
+                "firstname": "Alena",
+                "lastname": "Epifanova",
+                "nickname": null,
+                "alternative_names": [],
+                "academic_title": null,
+                "nobility_title_or_rank": null
+            },
+            "descriptiveTexts": [
+                {
+                    "text": "\u201cOver the years, Yandex has transformed from a start-up to a propaganda distribution channel,\u201d says Alena Epifanova."
+                },
+                {
+                    "text": "Epifanova says that no one from the company\u2019s top management wanted to talk to her."
+                },
+                {
+                    "text": "The company, she adds, \u201cadapted its algorithms accordingly in order to get out of the line of fire.\u201d She argues that Volozh should have done more to push back against the state pressure. Yandex was so important for the development of the Russian tech industry that the conglomerate \u201ccould have used its weight to influence the formulation of Russian internet laws in negotiations with the Kremlin,\u201d says Epifanova."
+                }
+            ],
+            "occupations": [
+                {
+                    "text": "Yandex has been compelled by Russian legislation to present users with more and more state-loyal media"
+                },
+                {
+                    "text": "could have used its weight to influence the formulation of Russian internet laws in negotiations with the Kremlin"
+                }
+            ],
+            "directQuotes": [],
+            "quotedInTitle": false,
+            "quotedInIntro": false
+        },
+        {
+            "name": "Andrei Yakovlev",
+            "alternativeNames": [],
+            "age": -1,
+            "sex": "male",
+            "occurences": {
+                "total": 5,
+                "firstNameOnly": 0,
+                "lastNameOnly": 4,
+                "fullName": 1,
+                "nickname": 0
+            },
+            "inTitle": false,
+            "inIntro": false,
+            "_name": {
+                "firstname": "Andrei",
+                "lastname": "Yakovlev",
+                "nickname": null,
+                "alternative_names": [],
+                "academic_title": null,
+                "nobility_title_or_rank": null
+            },
+            "descriptiveTexts": [
+                {
+                    "text": "Russian economist and elite researcher Andrei Yakovlev argues that the penalties imposed are a \u201cparticularly ineffective and unfortunate mechanism.\u201d Yakovlev left Russia at the beginning of the invasion of Ukraine."
+                },
+                {
+                    "text": "Yakovlev argues that only clear criteria can help persuade parts of the elite to do more to distance themselves from the Kremlin."
+                },
+                {
+                    "text": "That also poses a problem for the West, says Yakovlev."
+                },
+                {
+                    "text": "\u201cElites who are still subject to sanctions today could play a role,\u201d Yakovlev says."
+                }
+            ],
+            "occupations": [
+                {
+                    "text": "Russia expert"
+                },
+                {
+                    "text": "Russian economist and elite researcher"
+                },
+                {
+                    "text": "architect of the White House's Russia policy under President Barack Obama"
+                }
+            ],
+            "directQuotes": [],
+            "quotedInTitle": false,
+            "quotedInIntro": false
+        },
+        {
+            "name": "Michael McFaul",
+            "alternativeNames": [],
+            "age": -1,
+            "sex": "male",
+            "occurences": {
+                "total": 3,
+                "firstNameOnly": 0,
+                "lastNameOnly": 2,
+                "fullName": 1,
+                "nickname": 0
+            },
+            "inTitle": false,
+            "inIntro": false,
+            "_name": {
+                "firstname": "Michael",
+                "lastname": "McFaul",
+                "nickname": null,
+                "alternative_names": [],
+                "academic_title": null,
+                "nobility_title_or_rank": null
+            },
+            "descriptiveTexts": [
+                {
+                    "text": "Michael McFaul, a Russia expert and professor at Stanford, has applauded Volozh's courage."
+                },
+                {
+                    "text": "McFaul was the architect of the White House's Russia policy under President Barack Obama and later served as ambassador to Moscow."
+                },
+                {
+                    "text": "In 2018, Putin even tried to get Donald Trump to allow Russian officials to interrogate McFaul."
+                }
+            ],
+            "occupations": [
+                {
+                    "text": "Russia expert"
+                },
+                {
+                    "text": "has applauded Volozh's courage"
+                },
+                {
+                    "text": "ambassador to Moscow"
+                },
+                {
+                    "text": "Russia expert and professor at Stanford"
+                },
+                {
+                    "text": "architect of the White House's Russia policy under President Barack Obama"
+                }
+            ],
+            "directQuotes": [],
+            "quotedInTitle": false,
+            "quotedInIntro": false
+        }
+    ]
+}

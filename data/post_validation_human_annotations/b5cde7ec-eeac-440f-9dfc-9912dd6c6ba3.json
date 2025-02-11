@@ -1,0 +1,648 @@
+{
+  "persons": [
+    {
+      "age": -1,
+      "alternativeNames": [],
+      "birthday": null,
+      "descriptiveTexts": [
+        {
+          "text": "Liebe Leserin, lieber Leser, die Zalando-Gründer Robert Gentz und David Schneider galten lange als die Nice Guys der Start-up-Szene."
+        },
+        {
+          "text": "Doch Ende Februar kündigten sie an, mehrere Hundert Mitarbeiterinnen und Mitarbeiter zu entlassen."
+        },
+        {
+          "text": "Gleichzeitig hoben sie die Gebühren für Modehersteller auf ihrer Plattform um bis zu 100 Prozent an."
+        },
+        {
+          "text": "Die beiden Co-Chefs sahen sich zum Handeln gezwungen, das Wachstum ist fast zum Erliegen gekommen, das Umsatzziel auf unbestimmte Zeit verschoben."
+        }
+      ],
+      "directQuotes": [],
+      "inIntro": false,
+      "inTitle": false,
+      "indirectQuotes": [],
+      "isMain": false,
+      "name": "Robert Gentz",
+      "occupations": [
+        {
+          "text": "Zalando-Gründer"
+        },
+        {
+          "text": "Co-Chefs"
+        }
+      ],
+      "occurrences": {
+        "firstNameOnly": 0,
+        "fullName": 1,
+        "lastNameOnly": 0,
+        "total": 1
+      },
+      "quotedInIntro": false,
+      "quotedInTitle": false,
+      "sex": "male"
+    },
+    {
+      "age": -1,
+      "alternativeNames": [],
+      "birthday": null,
+      "descriptiveTexts": [
+        {
+          "text": "Liebe Leserin, lieber Leser, die Zalando-Gründer Robert Gentz und David Schneider galten lange als die Nice Guys der Start-up-Szene."
+        },
+        {
+          "text": "Doch Ende Februar kündigten sie an, mehrere Hundert Mitarbeiterinnen und Mitarbeiter zu entlassen."
+        },
+        {
+          "text": "Gleichzeitig hoben sie die Gebühren für Modehersteller auf ihrer Plattform um bis zu 100 Prozent an."
+        },
+        {
+          "text": "Die beiden Co-Chefs sahen sich zum Handeln gezwungen, das Wachstum ist fast zum Erliegen gekommen, das Umsatzziel auf unbestimmte Zeit verschoben."
+        }
+      ],
+      "directQuotes": [],
+      "inIntro": false,
+      "inTitle": false,
+      "indirectQuotes": [],
+      "isMain": false,
+      "name": "David Schneider",
+      "occupations": [
+        {
+          "text": "Zalando-Gründer"
+        },
+        {
+          "text": "Co-Chefs"
+        }
+      ],
+      "occurrences": {
+        "firstNameOnly": 0,
+        "fullName": 1,
+        "lastNameOnly": 0,
+        "total": 1
+      },
+      "quotedInIntro": false,
+      "quotedInTitle": false,
+      "sex": "male"
+    },
+    {
+      "age": -1,
+      "alternativeNames": [],
+      "birthday": null,
+      "descriptiveTexts": [
+        {
+          "text": "Meine Kollegen Christina Kyriasoglou und Jonas Rest sind tief eingetaucht in die neue Start-up-Welt, haben mit Investoren, Gründerinnen, Anwälten und Beratern gesprochen."
+        },
+        {
+          "text": "Ihre Recherchen belegen anhand vieler, bislang unbekannter Details den aktuellen Wandel."
+        },
+        {
+          "text": "Ihr Fazit: Die kuschelige Start-up-Welt ist zur Battle Royale mutiert, mit einem gnadenlosen Kampf: jeder gegen jeden."
+        }
+      ],
+      "directQuotes": [],
+      "inIntro": false,
+      "inTitle": false,
+      "indirectQuotes": [],
+      "isMain": false,
+      "name": "Christina Kyriasoglou",
+      "occupations": [
+        {
+          "text": "Kollegen"
+        }
+      ],
+      "occurrences": {
+        "firstNameOnly": 0,
+        "fullName": 1,
+        "lastNameOnly": 0,
+        "total": 1
+      },
+      "quotedInIntro": false,
+      "quotedInTitle": false,
+      "sex": "female"
+    },
+    {
+      "age": -1,
+      "alternativeNames": [],
+      "birthday": null,
+      "descriptiveTexts": [
+        {
+          "text": "Meine Kollegen Christina Kyriasoglou und Jonas Rest sind tief eingetaucht in die neue Start-up-Welt, haben mit Investoren, Gründerinnen, Anwälten und Beratern gesprochen."
+        },
+        {
+          "text": "Ihre Recherchen belegen anhand vieler, bislang unbekannter Details den aktuellen Wandel."
+        },
+        {
+          "text": "Ihr Fazit: Die kuschelige Start-up-Welt ist zur Battle Royale mutiert, mit einem gnadenlosen Kampf: jeder gegen jeden."
+        }
+      ],
+      "directQuotes": [],
+      "inIntro": false,
+      "inTitle": false,
+      "indirectQuotes": [],
+      "isMain": false,
+      "name": "Jonas Rest",
+      "occupations": [
+        {
+          "text": "Kollegen"
+        }
+      ],
+      "occurrences": {
+        "firstNameOnly": 0,
+        "fullName": 1,
+        "lastNameOnly": 0,
+        "total": 1
+      },
+      "quotedInIntro": false,
+      "quotedInTitle": false,
+      "sex": "male"
+    },
+    {
+      "age": -1,
+      "alternativeNames": [],
+      "birthday": null,
+      "descriptiveTexts": [
+        {
+          "text": "Die Wirtschaftsnews des Tages: Audi verpatzt Neuorganisation: Die Ära von Markus Duesmann bei Audi verläuft bislang alles andere als rund."
+        },
+        {
+          "text": "Nun verlor er auch noch in einem internen Machtkampf."
+        },
+        {
+          "text": "Der CEO wollte die Organisation des Autokonzerns umbauen, Audi sollte schneller werden."
+        }
+      ],
+      "directQuotes": [],
+      "inIntro": false,
+      "inTitle": false,
+      "indirectQuotes": [],
+      "isMain": false,
+      "name": "Markus Duesmann",
+      "occupations": [
+        {
+          "text": "CEO"
+        }
+      ],
+      "occurrences": {
+        "firstNameOnly": 0,
+        "fullName": 1,
+        "lastNameOnly": 0,
+        "total": 1
+      },
+      "quotedInIntro": false,
+      "quotedInTitle": false,
+      "sex": "male"
+    },
+    {
+      "age": -1,
+      "alternativeNames": [],
+      "birthday": null,
+      "descriptiveTexts": [
+        {
+          "text": "Es gab eine offene Rebellion, wie mein Kollege Michael Freitag recherchiert hat."
+        }
+      ],
+      "directQuotes": [],
+      "inIntro": false,
+      "inTitle": false,
+      "indirectQuotes": [],
+      "isMain": false,
+      "name": "Michael Freitag",
+      "occupations": [
+        {
+          "text": "Kollege"
+        }
+      ],
+      "occurrences": {
+        "firstNameOnly": 0,
+        "fullName": 1,
+        "lastNameOnly": 0,
+        "total": 1
+      },
+      "quotedInIntro": false,
+      "quotedInTitle": false,
+      "sex": "male"
+    },
+    {
+      "age": -1,
+      "alternativeNames": [],
+      "birthday": null,
+      "descriptiveTexts": [
+        {
+          "text": "Didier Stoessel, eine Art Chefmedienmanager der neuen, tschechischen Großaktionärin Renáta Kellnerová, hat sich erstmals ausführlich zur Gesamtlage geäußert."
+        },
+        {
+          "text": "Aus seiner Sicht sind die Münchener bereits ein »Sanierungsfall«, sagte er meinem Kollegen Henning Hinze."
+        }
+      ],
+      "directQuotes": [
+        {
+          "text": "»Sanierungsfall«"
+        }
+      ],
+      "inIntro": false,
+      "inTitle": false,
+      "indirectQuotes": [],
+      "isMain": false,
+      "name": "Didier Stoessel",
+      "occupations": [
+        {
+          "text": "Chefmedienmanager"
+        }
+      ],
+      "occurrences": {
+        "firstNameOnly": 0,
+        "fullName": 1,
+        "lastNameOnly": 0,
+        "total": 1
+      },
+      "quotedInIntro": false,
+      "quotedInTitle": false,
+      "sex": "male"
+    },
+    {
+      "age": -1,
+      "alternativeNames": [],
+      "birthday": null,
+      "descriptiveTexts": [
+        {
+          "text": "Didier Stoessel, eine Art Chefmedienmanager der neuen, tschechischen Großaktionärin Renáta Kellnerová, hat sich erstmals ausführlich zur Gesamtlage geäußert."
+        }
+      ],
+      "directQuotes": [],
+      "inIntro": false,
+      "inTitle": false,
+      "indirectQuotes": [],
+      "isMain": false,
+      "name": "Renáta Kellnerová",
+      "occupations": [
+        {
+          "text": "Großaktionärin"
+        }
+      ],
+      "occurrences": {
+        "firstNameOnly": 0,
+        "fullName": 1,
+        "lastNameOnly": 0,
+        "total": 1
+      },
+      "quotedInIntro": false,
+      "quotedInTitle": false,
+      "sex": "female"
+    },
+    {
+      "age": -1,
+      "alternativeNames": [],
+      "birthday": null,
+      "descriptiveTexts": [
+        {
+          "text": "Aus seiner Sicht sind die Münchener bereits ein »Sanierungsfall«, sagte er meinem Kollegen Henning Hinze."
+        }
+      ],
+      "directQuotes": [],
+      "inIntro": false,
+      "inTitle": false,
+      "indirectQuotes": [],
+      "isMain": false,
+      "name": "Henning Hinze",
+      "occupations": [
+        {
+          "text": "Kollegen"
+        }
+      ],
+      "occurrences": {
+        "firstNameOnly": 0,
+        "fullName": 1,
+        "lastNameOnly": 0,
+        "total": 1
+      },
+      "quotedInIntro": false,
+      "quotedInTitle": false,
+      "sex": "male"
+    },
+    {
+      "age": -1,
+      "alternativeNames": [],
+      "birthday": null,
+      "descriptiveTexts": [
+        {
+          "text": "Christiana Riley verlässt die Deutsche Bank: Die Amerika-Chefin wird Deutschlands größtes Geldhaus bereits zum 17. Mai verlassen und geht zur Großbank Santander."
+        },
+        {
+          "text": "Das Frauenverhältnis im Vorstand übrigens verschlechtert sich durch Rileys Abgang: von 2:10 auf 1:9."
+        }
+      ],
+      "directQuotes": [],
+      "inIntro": false,
+      "inTitle": false,
+      "indirectQuotes": [],
+      "isMain": false,
+      "name": "Christiana Riley",
+      "occupations": [
+        {
+          "text": "Amerika-Chefin"
+        }
+      ],
+      "occurrences": {
+        "firstNameOnly": 0,
+        "fullName": 1,
+        "lastNameOnly": 1,
+        "total": 2
+      },
+      "quotedInIntro": false,
+      "quotedInTitle": false,
+      "sex": "female"
+    },
+    {
+      "age": -1,
+      "alternativeNames": [],
+      "birthday": null,
+      "descriptiveTexts": [
+        {
+          "text": "So wie das Unternehmen insgesamt, in dem Chef Christian Sewing weitere Stellen abbauen will."
+        },
+        {
+          "text": "Und das, obwohl er mit den Quartalszahlen an diesem Donnerstag die Erwartungen der Analysten übertraf."
+        }
+      ],
+      "directQuotes": [],
+      "inIntro": false,
+      "inTitle": false,
+      "indirectQuotes": [],
+      "isMain": false,
+      "name": "Christian Sewing",
+      "occupations": [
+        {
+          "text": "Chef"
+        }
+      ],
+      "occurrences": {
+        "firstNameOnly": 0,
+        "fullName": 1,
+        "lastNameOnly": 0,
+        "total": 1
+      },
+      "quotedInIntro": false,
+      "quotedInTitle": false,
+      "sex": "male"
+    },
+    {
+      "age": -1,
+      "alternativeNames": ["Manas Fuloria"],
+      "birthday": null,
+      "descriptiveTexts": [
+        {
+          "text": "Durchbruch bei Linkedin: Wie Sie es bei dem Businessnetzwerk von null auf hundert schaffen können, zeigt Ihnen Manas Human aka Manas Fuloria."
+        },
+        {
+          "text": "Der weitgehend unbekannte Vorstandschef des deutschen IT-Dienstleisters Nagarro hat sich aus dem Stand auf den zweiten Platz eines Linkedin-CEO-Rankings geschoben, wie unsere Kollegen vom Harvard Business manager berichten."
+        },
+        {
+          "text": "Der Manager begeistert vor allem mit der empathischen Interpretation seiner Rolle als Führungskraft."
+        }
+      ],
+      "directQuotes": [],
+      "inIntro": false,
+      "inTitle": false,
+      "indirectQuotes": [],
+      "isMain": false,
+      "name": "Manas Human",
+      "occupations": [
+        {
+          "text": "Vorstandschef des deutschen IT-Dienstleisters Nagarro"
+        }
+      ],
+      "occurrences": {
+        "firstNameOnly": 0,
+        "fullName": 1,
+        "lastNameOnly": 0,
+        "total": 1
+      },
+      "quotedInIntro": false,
+      "quotedInTitle": false,
+      "sex": "male"
+    },
+    {
+      "age": -1,
+      "alternativeNames": [],
+      "birthday": null,
+      "descriptiveTexts": [
+        {
+          "text": "Seit Wochen beherrscht der Streit zwischen Axel-Springer-Chef Mathias Döpfner und dem ehemaligen »Bild«-Chefredakteur Julian Reichelt die Schlagzeilen."
+        }
+      ],
+      "directQuotes": [],
+      "inIntro": false,
+      "inTitle": false,
+      "indirectQuotes": [],
+      "isMain": false,
+      "name": "Mathias Döpfner",
+      "occupations": [
+        {
+          "text": "Axel-Springer-Chef"
+        }
+      ],
+      "occurrences": {
+        "firstNameOnly": 0,
+        "fullName": 1,
+        "lastNameOnly": 0,
+        "total": 1
+      },
+      "quotedInIntro": false,
+      "quotedInTitle": false,
+      "sex": "male"
+    },
+    {
+      "age": -1,
+      "alternativeNames": [],
+      "birthday": null,
+      "descriptiveTexts": [
+        {
+          "text": "Seit Wochen beherrscht der Streit zwischen Axel-Springer-Chef Mathias Döpfner und dem ehemaligen »Bild«-Chefredakteur Julian Reichelt die Schlagzeilen."
+        },
+        {
+          "text": "Dabei spielt auch Holger Friedrich eine Rolle: Der Verleger der »Berliner Zeitung« hatte von Reichelt vertrauliche Dokumente zugespielt bekommen, sich allerdings gegen eine Veröffentlichung und damit eine Ausweitung der Affäre entschieden."
+        }
+      ],
+      "directQuotes": [],
+      "inIntro": false,
+      "inTitle": false,
+      "indirectQuotes": [],
+      "isMain": false,
+      "name": "Julian Reichelt",
+      "occupations": [
+        {
+          "text": "ehemaliger »Bild«-Chefredakteur"
+        }
+      ],
+      "occurrences": {
+        "firstNameOnly": 0,
+        "fullName": 1,
+        "lastNameOnly": 1,
+        "total": 2
+      },
+      "quotedInIntro": false,
+      "quotedInTitle": false,
+      "sex": "male"
+    },
+    {
+      "age": -1,
+      "alternativeNames": [],
+      "birthday": null,
+      "descriptiveTexts": [
+        {
+          "text": "Dabei spielt auch Holger Friedrich eine Rolle: Der Verleger der »Berliner Zeitung« hatte von Reichelt vertrauliche Dokumente zugespielt bekommen, sich allerdings gegen eine Veröffentlichung und damit eine Ausweitung der Affäre entschieden."
+        },
+        {
+          "text": "Stattdessen hatte er sogar Springer über den Vorgang sowie die Quelle informiert."
+        },
+        {
+          "text": "Im Interview mit unseren Kollegen Martin Noé und Katharina Slodczyk erklärt er ausführlich sein ungewöhnliches Verhalten und die Missachtung des Quellenschutzes."
+        },
+        {
+          "text": "Friedrich fordert eine Debatte über Medienethik: »Wir müssen über den schmalen Grat zwischen Aufklärung und Denunziation sprechen.«"
+        }
+      ],
+      "directQuotes": [
+        {
+          "text": "Wir müssen über den schmalen Grat zwischen Aufklärung und Denunziation sprechen."
+        }
+      ],
+      "inIntro": false,
+      "inTitle": false,
+      "indirectQuotes": [],
+      "isMain": false,
+      "name": "Holger Friedrich",
+      "occupations": [
+        {
+          "text": "Verleger der »Berliner Zeitung«"
+        }
+      ],
+      "occurrences": {
+        "firstNameOnly": 0,
+        "fullName": 1,
+        "lastNameOnly": 1,
+        "total": 2
+      },
+      "quotedInIntro": false,
+      "quotedInTitle": false,
+      "sex": "male"
+    },
+    {
+      "age": -1,
+      "alternativeNames": [],
+      "birthday": null,
+      "descriptiveTexts": [
+        {
+          "text": "Im Interview mit unseren Kollegen Martin Noé und Katharina Slodczyk erklärt er ausführlich sein ungewöhnliches Verhalten und die Missachtung des Quellenschutzes."
+        }
+      ],
+      "directQuotes": [],
+      "inIntro": false,
+      "inTitle": false,
+      "indirectQuotes": [],
+      "isMain": false,
+      "name": "Martin Noé",
+      "occupations": [
+        {
+          "text": "Kollegen"
+        }
+      ],
+      "occurrences": {
+        "firstNameOnly": 0,
+        "fullName": 1,
+        "lastNameOnly": 0,
+        "total": 1
+      },
+      "quotedInIntro": false,
+      "quotedInTitle": false,
+      "sex": "male"
+    },
+    {
+      "age": -1,
+      "alternativeNames": [],
+      "birthday": null,
+      "descriptiveTexts": [
+        {
+          "text": "Im Interview mit unseren Kollegen Martin Noé und Katharina Slodczyk erklärt er ausführlich sein ungewöhnliches Verhalten und die Missachtung des Quellenschutzes."
+        }
+      ],
+      "directQuotes": [],
+      "inIntro": false,
+      "inTitle": false,
+      "indirectQuotes": [],
+      "isMain": false,
+      "name": "Katharina Slodczyk",
+      "occupations": [
+        {
+          "text": "Kollegen"
+        }
+      ],
+      "occurrences": {
+        "firstNameOnly": 0,
+        "fullName": 1,
+        "lastNameOnly": 0,
+        "total": 1
+      },
+      "quotedInIntro": false,
+      "quotedInTitle": false,
+      "sex": "female"
+    },
+    {
+      "age": -1,
+      "alternativeNames": [],
+      "birthday": null,
+      "descriptiveTexts": [
+        {
+          "text": "Jeden Abend fassen wir die wichtigsten Wirtschaftsnews des Tages zusammen."
+        },
+        {
+          "text": "Meine Kollegen Christina Kyriasoglou und Jonas Rest sind tief eingetaucht in die neue Start-up-Welt, haben mit Investoren, Gründerinnen, Anwälten und Beratern gesprochen."
+        },
+        {
+          "text": "Es gab eine offene Rebellion, wie mein Kollege Michael Freitag recherchiert hat."
+        },
+        {
+          "text": "Aus seiner Sicht sind die Münchener bereits ein 'Sanierungsfall', sagte er meinem Kollegen Henning Hinze."
+        },
+        {
+          "text": "Meine Empfehlung für den Abend."
+        },
+        {
+          "text": "Im Interview mit unseren Kollegen Martin Noé und Katharina Slodczyk erklärt er ausführlich sein ungewöhnliches Verhalten und die Missachtung des Quellenschutzes."
+        },
+        {
+          "text": "Herzliche Grüße und einen schönen Feierabend, Ihre Marleen Gründel."
+        },
+        {
+          "text": "Haben Sie Wünsche, Anregungen, Informationen, um die wir uns journalistisch kümmern sollten?"
+        },
+        {
+          "text": "Wir freuen uns auf Ihre Post unter chefredaktion@manager-magazin.de."
+        }
+      ],
+      "directQuotes": [],
+      "inIntro": true,
+      "inTitle": false,
+      "indirectQuotes": [],
+      "isMain": true,
+      "name": "Marleen Gründel",
+      "occupations": [],
+      "occurrences": {
+        "firstNameOnly": 0,
+        "fullName": 1,
+        "lastNameOnly": 0,
+        "total": 1
+      },
+      "quotedInIntro": false,
+      "quotedInTitle": false,
+      "sex": "female"
+    }
+  ],
+  "subtopics": [
+    "Unternehmen",
+    "Wirtschaft",
+    "Start-up",
+    "Audirebellion",
+    "Springeraffäre"
+  ]
+}

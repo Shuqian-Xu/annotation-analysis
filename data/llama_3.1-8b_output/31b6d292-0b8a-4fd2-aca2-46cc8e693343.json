@@ -1,0 +1,657 @@
+{
+    "persons": [
+        {
+            "name": "Oleg Deripaska",
+            "alternativeNames": [],
+            "age": 55,
+            "sex": "male",
+            "occurences": {
+                "total": 2,
+                "firstNameOnly": 1,
+                "lastNameOnly": 0,
+                "fullName": 1,
+                "nickname": 0
+            },
+            "inTitle": false,
+            "inIntro": false,
+            "_name": {
+                "firstname": "Oleg",
+                "lastname": "Deripaska",
+                "nickname": null,
+                "alternative_names": [],
+                "academic_title": null,
+                "nobility_title_or_rank": null
+            },
+            "descriptiveTexts": [
+                {
+                    "text": "Angesichts dessen hat die EU bislang davon abgesehen, Nornickel zu sanktionieren, zumal fr\u00fchere Strafma\u00dfnahmen gegen Potanins Rivalen Oleg Deripaska (55) und seinen Aluminiumkonzern Rusal massive Verwerfungen auf den Rohstoffm\u00e4rkten ausgel\u00f6st hatten."
+                },
+                {
+                    "text": "Als der russische Milliard\u00e4r Oleg Tinkow (55) den Angriffskrieg in der Ukraine scharf kritisierte, dr\u00e4ngte ihn seinen Angaben zufolge der Kreml dazu, seinen 35-prozentigen Anteil an seiner Internetbank Tinkoff an den Minenmogul zu verkaufen."
+                },
+                {
+                    "text": "Er habe dabei lediglich 3 Prozent des eigentlichen Wertes f\u00fcr seine Anteile erhalten, erz\u00e4hlte Tinkow sp\u00e4ter."
+                }
+            ],
+            "occupations": [
+                {
+                    "text": "Milliard\u00e4r"
+                }
+            ],
+            "directQuotes": [],
+            "quotedInTitle": false,
+            "quotedInIntro": false
+        },
+        {
+            "name": "Oleg Tinkow",
+            "alternativeNames": [],
+            "age": 55,
+            "sex": "male",
+            "occurences": {
+                "total": 3,
+                "firstNameOnly": 1,
+                "lastNameOnly": 1,
+                "fullName": 1,
+                "nickname": 0
+            },
+            "inTitle": false,
+            "inIntro": false,
+            "_name": {
+                "firstname": "Oleg",
+                "lastname": "Tinkow",
+                "nickname": null,
+                "alternative_names": [],
+                "academic_title": null,
+                "nobility_title_or_rank": null
+            },
+            "descriptiveTexts": [
+                {
+                    "text": "Angesichts dessen hat die EU bislang davon abgesehen, Nornickel zu sanktionieren, zumal fr\u00fchere Strafma\u00dfnahmen gegen Potanins Rivalen Oleg Deripaska (55) und seinen Aluminiumkonzern Rusal massive Verwerfungen auf den Rohstoffm\u00e4rkten ausgel\u00f6st hatten."
+                },
+                {
+                    "text": "Als der russische Milliard\u00e4r Oleg Tinkow (55) den Angriffskrieg in der Ukraine scharf kritisierte, dr\u00e4ngte ihn seinen Angaben zufolge der Kreml dazu, seinen 35-prozentigen Anteil an seiner Internetbank Tinkoff an den Minenmogul zu verkaufen."
+                },
+                {
+                    "text": "Er habe dabei lediglich 3 Prozent des eigentlichen Wertes f\u00fcr seine Anteile erhalten, erz\u00e4hlte Tinkow sp\u00e4ter."
+                }
+            ],
+            "occupations": [
+                {
+                    "text": "Milliard\u00e4r"
+                }
+            ],
+            "directQuotes": [],
+            "quotedInTitle": false,
+            "quotedInIntro": false
+        },
+        {
+            "name": "Burderm\u00fcller",
+            "alternativeNames": [],
+            "age": -1,
+            "sex": "male",
+            "occurences": {
+                "total": 1,
+                "firstNameOnly": 0,
+                "lastNameOnly": 0,
+                "fullName": 1,
+                "nickname": 0
+            },
+            "inTitle": false,
+            "inIntro": false,
+            "_name": {
+                "firstname": null,
+                "lastname": "Burderm\u00fcller",
+                "nickname": null,
+                "alternative_names": [],
+                "academic_title": null,
+                "nobility_title_or_rank": null
+            },
+            "descriptiveTexts": [
+                {
+                    "text": "In der Hoffnung auf \"einen einzigartigen Zugang\" lie\u00df Burderm\u00fcller seine Anlage direkt neben der Metallraffinerie von Nornickel bauen."
+                }
+            ],
+            "occupations": [
+                {
+                    "text": "BASF-Chef"
+                }
+            ],
+            "directQuotes": [],
+            "quotedInTitle": false,
+            "quotedInIntro": false
+        },
+        {
+            "name": "Martin Bruderm\u00fcller",
+            "alternativeNames": [],
+            "age": -1,
+            "sex": "male",
+            "occurences": {
+                "total": 1,
+                "firstNameOnly": 0,
+                "lastNameOnly": 0,
+                "fullName": 1,
+                "nickname": 0
+            },
+            "inTitle": false,
+            "inIntro": false,
+            "_name": {
+                "firstname": "Martin",
+                "lastname": "Bruderm\u00fcller",
+                "nickname": null,
+                "alternative_names": [],
+                "academic_title": null,
+                "nobility_title_or_rank": null
+            },
+            "descriptiveTexts": [
+                {
+                    "text": "Damit wollte BASF-Chef Martin Bruderm\u00fcller (62) im finnischen Harjavalta ein Vorprodukt f\u00fcr seine Kathoden produzieren."
+                }
+            ],
+            "occupations": [
+                {
+                    "text": "BASF-Chef"
+                }
+            ],
+            "directQuotes": [],
+            "quotedInTitle": false,
+            "quotedInIntro": false
+        },
+        {
+            "name": "Alexei Mordaschow",
+            "alternativeNames": [],
+            "age": 57,
+            "sex": "male",
+            "occurences": {
+                "total": 1,
+                "firstNameOnly": 0,
+                "lastNameOnly": 0,
+                "fullName": 1,
+                "nickname": 0
+            },
+            "inTitle": false,
+            "inIntro": false,
+            "_name": {
+                "firstname": "Alexei",
+                "lastname": "Mordaschow",
+                "nickname": null,
+                "alternative_names": [],
+                "academic_title": null,
+                "nobility_title_or_rank": null
+            },
+            "descriptiveTexts": [
+                {
+                    "text": "Darunter zum Beispiel Roman Abramowitsch (56), ehemals Besitzer des FC Chelsea, Alexei Mordaschow (57), Stahlmagnat und bis vergangenes Jahr noch Gro\u00dfaktion\u00e4r des deutschen Tui-Konzerns, Andrei Leonidovich Kostin (66), der Chef der russischen VTB-Bank, Igor Sechin (62), der Boss des \u00d6lriesen Rosneft oder auch der Milliard\u00e4r Alisher Usmanov (69), gegen den die deutschen Steuerfahnder ermitteln und der seit den Sanktionen nicht mehr auf seinem Anwesen am Tegernsee gesehen wurde."
+                }
+            ],
+            "occupations": [
+                {
+                    "text": "Stahlmagnat"
+                },
+                {
+                    "text": "Gro\u00dfaktion\u00e4r"
+                }
+            ],
+            "directQuotes": [],
+            "quotedInTitle": false,
+            "quotedInIntro": false
+        },
+        {
+            "name": "Wladimir Putin",
+            "alternativeNames": [],
+            "age": 70,
+            "sex": "male",
+            "occurences": {
+                "total": 8,
+                "firstNameOnly": 4,
+                "lastNameOnly": 2,
+                "fullName": 2,
+                "nickname": 0
+            },
+            "inTitle": false,
+            "inIntro": true,
+            "_name": {
+                "firstname": "Wladimir",
+                "lastname": "Putin",
+                "nickname": null,
+                "alternative_names": [],
+                "academic_title": null,
+                "nobility_title_or_rank": null
+            },
+            "descriptiveTexts": [
+                {
+                    "text": "Wladimir Potanin ist einer der reichsten russischen Oligarchen und gilt als Vertrauter von Pr\u00e4sident Wladimir Putin."
+                },
+                {
+                    "text": "Ein Name fehlt jedoch: Wladimir Potanin (62)."
+                },
+                {
+                    "text": "Er gilt als Vertrauter von Kreml-Chef Wladimir Putin (70) und profitiert noch dazu so massiv von den wirtschaftlichen Verwerfungen wie kaum ein anderer russischer Gesch\u00e4ftsmann."
+                },
+                {
+                    "text": "Schon kurz nach Beginn des Kriegs begann er, zum Schn\u00e4ppchenpreis Verm\u00f6genswerte von westlichen Investoren aufzukaufen, die sich wegen des Angriffskriegs zur\u00fcckzogen."
+                },
+                {
+                    "text": "Potanin ist einer der russischen Superreichen, die ihr Verm\u00f6gen im Zuge der Privatisierungswelle in den 1990er Jahren aufbauten, und enge Beziehungen zu Putin pflegen."
+                },
+                {
+                    "text": "Grunds\u00e4tzlich unterst\u00fctzt er aber seit Jahren den Kreml und gilt als loyaler Putin-Freund."
+                },
+                {
+                    "text": "Seine Macht verdankt Potanin heute vor allem seiner Beteiligung am Bergbauunternehmen Norilsk Nickel, auch Nornickel genannt, an dem er \u00fcber seine Holding Interros 37 Prozent h\u00e4lt."
+                },
+                {
+                    "text": "Am Rohstoffmarkt ist er von enormer Bedeutung, denn der Konzern produziert so viele wichtige Metalle f\u00fcr verschiedenste Industriezweige wie kaum ein anderer."
+                },
+                {
+                    "text": "Er ist Weltmarktf\u00fchrer bei hochwertigem Nickel und Palladium und einer der gr\u00f6\u00dften Platin- und Kupferproduzenten."
+                },
+                {
+                    "text": "So klagte er j\u00fcngst dar\u00fcber, dass sein Unternehmen trotzdem von den \"v\u00f6llig zerst\u00f6rerischen\" Sanktionen betroffen sei, da sie sich auf Logistikketten, Zahlungssysteme und die F\u00e4higkeit zum Kauf neuer Anlagen auswirken und die Entwicklung traditioneller M\u00e4rkte einschr\u00e4nken."
+                },
+                {
+                    "text": "Potanin versucht daher umzusteuern, indem er sein Gesch\u00e4ft mehr nach Asien verlagert (siehe Grafik) und seine Beziehungen zu China, der T\u00fcrkei und Marokko verst\u00e4rkt."
+                },
+                {
+                    "text": "Zu seiner Holding Interros geh\u00f6ren auch noch diverse Banken, ein Immobiliengesch\u00e4ft, das bekannte Skiresort in Sotschi, in das er 2,6 Milliarden Dollar investierte und wo 2014 die Olympischen Winterspiele stattfanden, sowie Hightech-, Risikokapital- und Private Equity-Firmen."
+                },
+                {
+                    "text": "Immerhin 47 Prozent der Anteile an der fr\u00fcheren Soc-Gen-Tochter Rosbank transferierte der Oligarch im Oktober an seine Stiftung: Die Wladimir Potanin Foundation."
+                },
+                {
+                    "text": "Damit gab sich Wladimir Potanin wiederum nicht zufrieden."
+                },
+                {
+                    "text": "Zuletzt bekam er die Erlaubnis, vor den Obersten Gerichtshof zu ziehen."
+                }
+            ],
+            "occupations": [
+                {
+                    "text": "Eishockeykumpel"
+                },
+                {
+                    "text": "Pr\u00e4sident"
+                },
+                {
+                    "text": "Vertrauter"
+                }
+            ],
+            "directQuotes": [],
+            "quotedInTitle": false,
+            "quotedInIntro": true
+        },
+        {
+            "name": "Carlos Tavares",
+            "alternativeNames": [],
+            "age": 65,
+            "sex": "male",
+            "occurences": {
+                "total": 1,
+                "firstNameOnly": 0,
+                "lastNameOnly": 0,
+                "fullName": 1,
+                "nickname": 0
+            },
+            "inTitle": false,
+            "inIntro": false,
+            "_name": {
+                "firstname": "Carlos",
+                "lastname": "Tavares",
+                "nickname": null,
+                "alternative_names": [],
+                "academic_title": null,
+                "nobility_title_or_rank": null
+            },
+            "descriptiveTexts": [
+                {
+                    "text": "Stellantis-Chef Carlos Tavares (65) warnte vor dramatischen Kostensteigerungen."
+                }
+            ],
+            "occupations": [
+                {
+                    "text": "Stellantis-Chef"
+                }
+            ],
+            "directQuotes": [],
+            "quotedInTitle": false,
+            "quotedInIntro": false
+        },
+        {
+            "name": "Alisher Usmanov",
+            "alternativeNames": [],
+            "age": 69,
+            "sex": "male",
+            "occurences": {
+                "total": 1,
+                "firstNameOnly": 0,
+                "lastNameOnly": 0,
+                "fullName": 1,
+                "nickname": 0
+            },
+            "inTitle": false,
+            "inIntro": false,
+            "_name": {
+                "firstname": "Alisher",
+                "lastname": "Usmanov",
+                "nickname": null,
+                "alternative_names": [],
+                "academic_title": null,
+                "nobility_title_or_rank": null
+            },
+            "descriptiveTexts": [
+                {
+                    "text": "Darunter zum Beispiel Roman Abramowitsch (56), ehemals Besitzer des FC Chelsea, Alexei Mordaschow (57), Stahlmagnat und bis vergangenes Jahr noch Gro\u00dfaktion\u00e4r des deutschen Tui-Konzerns, Andrei Leonidovich Kostin (66), der Chef der russischen VTB-Bank, Igor Sechin (62), der Boss des \u00d6lriesen Rosneft oder auch der Milliard\u00e4r Alisher Usmanov (69), gegen den die deutschen Steuerfahnder ermitteln und der seit den Sanktionen nicht mehr auf seinem Anwesen am Tegernsee gesehen wurde."
+                }
+            ],
+            "occupations": [
+                {
+                    "text": "Unternehmer"
+                },
+                {
+                    "text": "Milliard\u00e4r"
+                }
+            ],
+            "directQuotes": [],
+            "quotedInTitle": false,
+            "quotedInIntro": false
+        },
+        {
+            "name": "Roman Abramowitsch",
+            "alternativeNames": [],
+            "age": 56,
+            "sex": "male",
+            "occurences": {
+                "total": 1,
+                "firstNameOnly": 0,
+                "lastNameOnly": 0,
+                "fullName": 1,
+                "nickname": 0
+            },
+            "inTitle": false,
+            "inIntro": false,
+            "_name": {
+                "firstname": "Roman",
+                "lastname": "Abramowitsch",
+                "nickname": null,
+                "alternative_names": [],
+                "academic_title": null,
+                "nobility_title_or_rank": null
+            },
+            "descriptiveTexts": [
+                {
+                    "text": "Darunter zum Beispiel Roman Abramowitsch (56), ehemals Besitzer des FC Chelsea, Alexei Mordaschow (57), Stahlmagnat und bis vergangenes Jahr noch Gro\u00dfaktion\u00e4r des deutschen Tui-Konzerns, Andrei Leonidovich Kostin (66), der Chef der russischen VTB-Bank, Igor Sechin (62), der Boss des \u00d6lriesen Rosneft oder auch der Milliard\u00e4r Alisher Usmanov (69), gegen den die deutschen Steuerfahnder ermitteln und der seit den Sanktionen nicht mehr auf seinem Anwesen am Tegernsee gesehen wurde."
+                }
+            ],
+            "occupations": [
+                {
+                    "text": "Milliard\u00e4r"
+                }
+            ],
+            "directQuotes": [],
+            "quotedInTitle": false,
+            "quotedInIntro": false
+        },
+        {
+            "name": "Andrei Leonidovich Kostin",
+            "alternativeNames": [],
+            "age": -1,
+            "sex": "male",
+            "occurences": {
+                "total": 1,
+                "firstNameOnly": 0,
+                "lastNameOnly": 0,
+                "fullName": 1,
+                "nickname": 0
+            },
+            "inTitle": false,
+            "inIntro": false,
+            "_name": {
+                "firstname": "Andrei Leonidovich",
+                "lastname": "Kostin",
+                "nickname": null,
+                "alternative_names": [],
+                "academic_title": null,
+                "nobility_title_or_rank": null
+            },
+            "descriptiveTexts": [
+                {
+                    "text": "Darunter zum Beispiel Roman Abramowitsch (56), ehemals Besitzer des FC Chelsea, Alexei Mordaschow (57), Stahlmagnat und bis vergangenes Jahr noch Gro\u00dfaktion\u00e4r des deutschen Tui-Konzerns, Andrei Leonidovich Kostin (66), der Chef der russischen VTB-Bank, Igor Sechin (62), der Boss des \u00d6lriesen Rosneft oder auch der Milliard\u00e4r Alisher Usmanov (69), gegen den die deutschen Steuerfahnder ermitteln und der seit den Sanktionen nicht mehr auf seinem Anwesen am Tegernsee gesehen wurde."
+                }
+            ],
+            "occupations": [],
+            "directQuotes": [],
+            "quotedInTitle": false,
+            "quotedInIntro": false
+        },
+        {
+            "name": "Wladimir Potanin",
+            "alternativeNames": [],
+            "age": 62,
+            "sex": "male",
+            "occurences": {
+                "total": 24,
+                "firstNameOnly": 2,
+                "lastNameOnly": 18,
+                "fullName": 4,
+                "nickname": 0
+            },
+            "inTitle": false,
+            "inIntro": true,
+            "_name": {
+                "firstname": "Wladimir",
+                "lastname": "Potanin",
+                "nickname": null,
+                "alternative_names": [],
+                "academic_title": null,
+                "nobility_title_or_rank": null
+            },
+            "descriptiveTexts": [
+                {
+                    "text": "Wladimir Potanin ist einer der reichsten russischen Oligarchen und gilt als Vertrauter von Pr\u00e4sident Wladimir Putin."
+                },
+                {
+                    "text": "Ein Name fehlt jedoch: Wladimir Potanin (62)."
+                },
+                {
+                    "text": "Er gilt als Vertrauter von Kreml-Chef Wladimir Putin (70) und profitiert noch dazu so massiv von den wirtschaftlichen Verwerfungen wie kaum ein anderer russischer Gesch\u00e4ftsmann."
+                },
+                {
+                    "text": "Schon kurz nach Beginn des Kriegs begann er, zum Schn\u00e4ppchenpreis Verm\u00f6genswerte von westlichen Investoren aufzukaufen, die sich wegen des Angriffskriegs zur\u00fcckzogen."
+                },
+                {
+                    "text": "Sein Verm\u00f6gen hat Potanin laut Forbes inzwischen auf 23,7 Milliarden Dollar gesteigert (siehe Grafik)."
+                },
+                {
+                    "text": "Doch der Westen tut sich schwer mit Potanin."
+                },
+                {
+                    "text": "Potanin ist einer der russischen Superreichen, die ihr Verm\u00f6gen im Zuge der Privatisierungswelle in den 1990er Jahren aufbauten, und enge Beziehungen zu Putin pflegen."
+                },
+                {
+                    "text": "Der russische Pr\u00e4sident ist Potanins Eishockeykumpel."
+                },
+                {
+                    "text": "Zwar warnte Potanin im Zuge des Ukraine-Kriegs \u00f6ffentlich davor, dass sich die turbulenten Zeiten der Revolution 1917 wiederholen, wenn das Land westlichen Unternehmen und Investoren die T\u00fcr vor der Nase zuschlage."
+                },
+                {
+                    "text": "Seine Macht verdankt Potanin heute vor allem seiner Beteiligung am Bergbauunternehmen Norilsk Nickel, auch Nornickel genannt, an dem er \u00fcber seine Holding Interros 37 Prozent h\u00e4lt."
+                },
+                {
+                    "text": "\"Nickel-K\u00f6nig\" Potanin selbst lenkt den Konzern mit Sitz in Moskau seit Ende 2012."
+                },
+                {
+                    "text": "Am Rohstoffmarkt ist er von enormer Bedeutung, denn der Konzern produziert so viele wichtige Metalle f\u00fcr verschiedenste Industriezweige wie kaum ein anderer."
+                },
+                {
+                    "text": "Er ist Weltmarktf\u00fchrer bei hochwertigem Nickel und Palladium und einer der gr\u00f6\u00dften Platin- und Kupferproduzenten."
+                },
+                {
+                    "text": "Inzwischen droht das Prestigeprojekt am Umweltschutz zu scheitern, an Potanins Einfluss \u00e4ndert das nichts."
+                },
+                {
+                    "text": "Sp\u00e4testens als im M\u00e4rz 2022 auch aus Sorge vor m\u00f6glichen Sanktionen gegen Potanin und Nornickel die Preise f\u00fcr Nickel und Palladium an der Londoner Metallb\u00f6rse (LME) auf Rekordh\u00f6hen sprangen, herrschte Alarmstimmung in den Vorstandsetagen."
+                },
+                {
+                    "text": "Neben der Auto- und Chemieindustrie sind auch die Luft- und Raumfahrt, die Energiewirtschaft oder das Gesundheitswesen auf Produkte von Potanins Konzern angewiesen."
+                },
+                {
+                    "text": "Angesichts dessen hat die EU bislang davon abgesehen, Nornickel zu sanktionieren, zumal fr\u00fchere Strafma\u00dfnahmen gegen Potanins Rivalen Oleg Deripaska (55) und seinen Aluminiumkonzern Rusal massive Verwerfungen auf den Rohstoffm\u00e4rkten ausgel\u00f6st hatten."
+                },
+                {
+                    "text": "F\u00fcr Potanin wird das Gesch\u00e4ft im Westen dennoch schwerer."
+                },
+                {
+                    "text": "So klagte er j\u00fcngst dar\u00fcber, dass sein Unternehmen trotzdem von den \"v\u00f6llig zerst\u00f6rerischen\" Sanktionen betroffen sei, da sie sich auf Logistikketten, Zahlungssysteme und die F\u00e4higkeit zum Kauf neuer Anlagen auswirken und die Entwicklung traditioneller M\u00e4rkte einschr\u00e4nken."
+                },
+                {
+                    "text": "Potanin versucht daher umzusteuern, indem er sein Gesch\u00e4ft mehr nach Asien verlagert (siehe Grafik) und seine Beziehungen zu China, der T\u00fcrkei und Marokko verst\u00e4rkt."
+                },
+                {
+                    "text": "Potanins Milliardenimperium erstreckt sich jedoch l\u00e4ngst nicht nur auf Nornickel."
+                },
+                {
+                    "text": "Zu seiner Holding Interros geh\u00f6ren auch noch diverse Banken, ein Immobiliengesch\u00e4ft, das bekannte Skiresort in Sotschi, in das er 2,6 Milliarden Dollar investierte und wo 2014 die Olympischen Winterspiele stattfanden, sowie Hightech-, Risikokapital- und Private Equity-Firmen."
+                },
+                {
+                    "text": "Im Mai 2022 fiel auch die Rosbank in die H\u00e4nde Potanins, eine der f\u00fchrenden Banken."
+                },
+                {
+                    "text": "Auch bei einer anderen Bank profitierte Potanin von einem Notverkauf."
+                },
+                {
+                    "text": "In der \u00d6ffentlichkeit spielt Potanin hingegen den gro\u00dfen Wohlt\u00e4ter."
+                },
+                {
+                    "text": "Immerhin 47 Prozent der Anteile an der fr\u00fcheren Soc-Gen-Tochter Rosbank transferierte der Oligarch im Oktober an seine Stiftung: Die Wladimir Potanin Foundation."
+                },
+                {
+                    "text": "Weniger spendabel zeigte sich Potanin dagegen bei seiner Ex-Frau Natalia Potanina (62)."
+                },
+                {
+                    "text": "Damit gab sich Wladimir Potanin wiederum nicht zufrieden."
+                },
+                {
+                    "text": "Zuletzt bekam er die Erlaubnis, vor den Obersten Gerichtshof zu ziehen."
+                }
+            ],
+            "occupations": [
+                {
+                    "text": "Milliard\u00e4r und Unternehmer"
+                },
+                {
+                    "text": "Vertrauter von Pr\u00e4sident Wladimir Putin"
+                }
+            ],
+            "directQuotes": [],
+            "quotedInTitle": false,
+            "quotedInIntro": true
+        },
+        {
+            "name": "Andrey Bougrov",
+            "alternativeNames": [],
+            "age": -1,
+            "sex": "male",
+            "occurences": {
+                "total": 1,
+                "firstNameOnly": 0,
+                "lastNameOnly": 0,
+                "fullName": 1,
+                "nickname": 0
+            },
+            "inTitle": false,
+            "inIntro": false,
+            "_name": {
+                "firstname": "Andrey",
+                "lastname": "Bougrov",
+                "nickname": null,
+                "alternative_names": [],
+                "academic_title": null,
+                "nobility_title_or_rank": null
+            },
+            "descriptiveTexts": [
+                {
+                    "text": "So begr\u00fcndete auch der Verwaltungsratsvorsitzende Andrey Bougrov die entt\u00e4uschenden Gesch\u00e4ftszahlen f\u00fcr 2022: \"Die beispiellosen Sanktionen, die von einer Reihe von L\u00e4ndern gegen Russland verh\u00e4ngt wurden, hatten erhebliche negative Auswirkungen auf unser Gesch\u00e4ft und stellten uns vor die Herausforderung, unseren Betrieb, unsere Beschaffung, unseren Vertrieb und unsere Finanzaktivit\u00e4ten umgehend an die neue Normalit\u00e4t anzupassen\", sagt er laut Gesch\u00e4ftsbericht."
+                }
+            ],
+            "occupations": [],
+            "directQuotes": [
+                {
+                    "text": "Die beispiellosen Sanktionen, die von einer Reihe von L\u00e4ndern gegen Russland verh\u00e4ngt wurden, hatten erhebliche negative Auswirkungen auf unser Gesch\u00e4ft und stellten uns vor die Herausforderung, unseren Betrieb, unsere Beschaffung, unseren Vertrieb und unsere Finanzaktivit\u00e4ten umgehend an die neue Normalit\u00e4t anzupassen"
+                }
+            ],
+            "quotedInTitle": false,
+            "quotedInIntro": false
+        },
+        {
+            "name": "Natalia Potanina",
+            "alternativeNames": [],
+            "age": 62,
+            "sex": "female",
+            "occurences": {
+                "total": 1,
+                "firstNameOnly": 0,
+                "lastNameOnly": 0,
+                "fullName": 1,
+                "nickname": 0
+            },
+            "inTitle": false,
+            "inIntro": false,
+            "_name": {
+                "firstname": "Natalia",
+                "lastname": "Potanina",
+                "nickname": null,
+                "alternative_names": [],
+                "academic_title": null,
+                "nobility_title_or_rank": null
+            },
+            "descriptiveTexts": [
+                {
+                    "text": "Weniger spendabel zeigte sich Potanin dagegen bei seiner Ex-Frau Natalia Potanina (62)."
+                }
+            ],
+            "occupations": [
+                {
+                    "text": "Ex-Frau"
+                }
+            ],
+            "directQuotes": [],
+            "quotedInTitle": false,
+            "quotedInIntro": false
+        },
+        {
+            "name": "Igor Sechin",
+            "alternativeNames": [],
+            "age": 62,
+            "sex": "male",
+            "occurences": {
+                "total": 1,
+                "firstNameOnly": 0,
+                "lastNameOnly": 0,
+                "fullName": 1,
+                "nickname": 0
+            },
+            "inTitle": false,
+            "inIntro": false,
+            "_name": {
+                "firstname": "Igor",
+                "lastname": "Sechin",
+                "nickname": null,
+                "alternative_names": [],
+                "academic_title": null,
+                "nobility_title_or_rank": null
+            },
+            "descriptiveTexts": [
+                {
+                    "text": "Darunter zum Beispiel Roman Abramowitsch (56), ehemals Besitzer des FC Chelsea, Alexei Mordaschow (57), Stahlmagnat und bis vergangenes Jahr noch Gro\u00dfaktion\u00e4r des deutschen Tui-Konzerns, Andrei Leonidovich Kostin (66), der Chef der russischen VTB-Bank, Igor Sechin (62), der Boss des \u00d6lriesen Rosneft oder auch der Milliard\u00e4r Alisher Usmanov (69), gegen den die deutschen Steuerfahnder ermitteln und der seit den Sanktionen nicht mehr auf seinem Anwesen am Tegernsee gesehen wurde."
+                }
+            ],
+            "occupations": [
+                {
+                    "text": "Boss des \u00d6lriesen Rosneft"
+                }
+            ],
+            "directQuotes": [],
+            "quotedInTitle": false,
+            "quotedInIntro": false
+        }
+    ]
+}

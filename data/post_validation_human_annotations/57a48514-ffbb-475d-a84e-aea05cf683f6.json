@@ -1,0 +1,120 @@
+{
+	"persons": [
+		{
+			"age": -1,
+			"alternativeNames": [],
+			"birthday": null,
+			"descriptiveTexts": [
+				{
+					"text": "Bestes Beispiel: Wolfgang Speck, der CEO von Knaus Tabbert, dem Traditionshersteller aus der niederbayerischen Jandelsbrunn."
+				},
+				{
+					"text": "»Wir sind sehr stolz darauf, was wir im vergangenen Jahr erreicht haben«, erklärte Speck mit Juni."
+				},
+				{
+					"text": "Insgesamt 11.426 Wohnmobile und 18.130 Wohnwagen haben seine Leute verkauft."
+				},
+				{
+					"text": "Die Bücher seien mit Aufträgen über 1,3 Milliarden Euro prall gefüllt, so Speck."
+				},
+				{
+					"text": "Beim Rivalen Knaus Tabbert hat CEO Wolfgang Speck ebenfalls erfreuliche Monate hinter sich."
+				},
+				{
+					"text": "Auch seine Leute berichten für die ersten drei Monate des Geschäftsjahres von einer deutlich besseren Verfügbarkeit bei den Fahrgestellen."
+				}
+			],
+			"directQuotes": [
+				{
+					"text": "Wir sind sehr stolz darauf, was wir im vergangenen Jahr erreicht haben"
+				}
+			],
+			"inIntro": false,
+			"inTitle": false,
+			"indirectQuotes": [
+				{
+					"text": "Die Bücher seien mit Aufträgen über 1,3 Milliarden Euro prall gefüllt, so Speck."
+				}
+			],
+			"isMain": true,
+			"name": "Wolfgang Speck",
+			"occupations": [
+				{
+					"text": "CEO von Knaus Tabbert"
+				}
+			],
+			"occurrences": {
+				"firstNameOnly": 0,
+				"fullName": 2,
+				"lastNameOnly": 2,
+				"total": 4
+			},
+			"quotedInIntro": false,
+			"quotedInTitle": false,
+			"sex": "male"
+		},
+		{
+			"age": -1,
+			"alternativeNames": [],
+			"birthday": null,
+			"descriptiveTexts": [
+				{
+					"text": "»Von einer sinkenden Nachfrage oder weniger Interesse kann nicht die Rede sein – ganz im Gegenteil«, sagt Daniel Onggowinarso, CIVD-Geschäftsführer gegenüber manager magazin."
+				},
+				{
+					"text": "»Aktuell bewegt sich die Branche zwar unter den außergewöhnlichen Rekordzahlen der ersten Coronajahre, aber liegt insgesamt immer noch auf einem guten Niveau«, betont Onggowinarso."
+				},
+				{
+					"text": "»Die aktuell größte Herausforderung der Branche ist nicht die Nachfrage-, sondern vielmehr die Angebotsseite«, sagt Onggowinarso."
+				}
+			],
+			"directQuotes": [
+				{
+					"text": "Von einer sinkenden Nachfrage oder weniger Interesse kann nicht die Rede sein – ganz im Gegenteil"
+				},
+				{
+					"text": "Aktuell bewegt sich die Branche zwar unter den außergewöhnlichen Rekordzahlen der ersten Coronajahre, aber liegt insgesamt immer noch auf einem guten Niveau"
+				},
+				{
+					"text": "Die aktuell größte Herausforderung der Branche ist nicht die Nachfrage-, sondern vielmehr die Angebotsseite"
+				}
+			],
+			"inIntro": false,
+			"inTitle": false,
+			"indirectQuotes": [
+				{
+					"text": "Caravaning sei so beliebt wie nie und werde auch in den kommenden Jahren weiter Urlauber begeistern."
+				},
+				{
+					"text": "Wie schon im vergangenen Jahr leiden die Hersteller unter angespannten Lieferketten."
+				},
+				{
+					"text": "Aktuell entspanne sich zwar die Liefersituation, aber bis die Branche wieder unter relativ normalen Rahmenbedingungen produzieren könne, werde es noch dauern."
+				}
+			],
+			"isMain": true,
+			"name": "Daniel Onggowinarso",
+			"occupations": [
+				{
+					"text": "CIVD-Geschäftsführer"
+				}
+			],
+			"occurrences": {
+				"firstNameOnly": 0,
+				"fullName": 1,
+				"lastNameOnly": 2,
+				"total": 3
+			},
+			"quotedInIntro": false,
+			"quotedInTitle": false,
+			"sex": "male"
+		}
+	],
+	"subtopics": [
+		"Caravaning",
+		"Reisemobile",
+		"Wohnwagen",
+		"Automobilindustrie",
+		"Wirtschaft"
+	]
+}

@@ -1,0 +1,127 @@
+{
+  "persons": [
+    {
+      "age": -1,
+      "alternativeNames": [],
+      "birthday": null,
+      "descriptiveTexts": [
+        {
+          "text": "»Aber nicht jedem ist die Straßenverkehrsordnung klar«, gibt Siegfried Brockmann, Unfallforscher bei der Björn Steiger Stiftung, zu bedenken."
+        },
+        {
+          "text": "Mit Blick auf eine zunehmende Aggressivität im Straßenverkehr könne die Anzeige daher womöglich hilfreich sein, sagt Brockmann."
+        },
+        {
+          "text": "Für Unfallforscher Brockmann bleibt daher der Eindruck: »Praktische Effekte auf die Verkehrssicherheit wird die neue Ampel nicht haben.«"
+        }
+      ],
+      "directQuotes": [
+        {
+          "text": "Aber nicht jedem ist die Straßenverkehrsordnung klar"
+        },
+        {
+          "text": "Das Sicherheitsproblem löst diese neue Ampel sicher nicht."
+        },
+        {
+          "text": "Ältere oder Menschen mit Handicap schaffen das nicht."
+        },
+        {
+          "text": "Praktische Effekte auf die Verkehrssicherheit wird die neue Ampel nicht haben."
+        }
+      ],
+      "inIntro": false,
+      "inTitle": false,
+      "indirectQuotes": [
+        {
+          "text": "Mit Blick auf eine zunehmende Aggressivität im Straßenverkehr könne die Anzeige daher womöglich hilfreich sein, sagt Brockmann."
+        },
+        {
+          "text": "Denn: Das Grundproblem liege in den ohnehin viel zu kurz bemessenen Grünphasen, die sich an Menschen orientieren, die gut zu Fuß sind."
+        }
+      ],
+      "isMain": false,
+      "name": "Siegfried Brockmann",
+      "occupations": [
+        {
+          "text": "Unfallforscher"
+        }
+      ],
+      "occurrences": {
+        "firstNameOnly": 0,
+        "fullName": 1,
+        "lastNameOnly": 2,
+        "total": 3
+      },
+      "quotedInIntro": false,
+      "quotedInTitle": false,
+      "sex": "male"
+    },
+    {
+      "age": -1,
+      "alternativeNames": [],
+      "birthday": null,
+      "descriptiveTexts": [
+        {
+          "text": "In Deutschland werde den Menschen von Kindesbeinen eingetrichtert, dass der Autoverkehr Vorfahrt hat, sagt Roland Stimpel von der Interessenvertretung Fuss e. V."
+        },
+        {
+          "text": "»Das Grundübel, das ja erst zu dieser Erfindung geführt hat, liegt in der Schaltung der Ampeln«, sagt Stimpel."
+        },
+        {
+          "text": "»Allein in Berlin starben so in diesem Winter drei Menschen«, sagt Stimpel."
+        }
+      ],
+      "directQuotes": [
+        {
+          "text": "Da heißt es: Kusch dich, lass die Anderen vor"
+        },
+        {
+          "text": "Das Grundübel, das ja erst zu dieser Erfindung geführt hat, liegt in der Schaltung der Ampeln"
+        },
+        {
+          "text": "Da wird eine Gefährdung billigend in Kauf genommen."
+        },
+        {
+          "text": "Allein in Berlin starben so in diesem Winter drei Menschen"
+        },
+        {
+          "text": "Jetzt soll das Countdown-Signal mehr Sicherheit suggerieren, ohne sie tatsächlich zu bringen."
+        }
+      ],
+      "inIntro": false,
+      "inTitle": false,
+      "indirectQuotes": [
+        {
+          "text": "In Deutschland werde den Menschen von Kindesbeinen eingetrichtert, dass der Autoverkehr Vorfahrt hat, sagt Roland Stimpel von der Interessenvertretung Fuss e. V."
+        },
+        {
+          "text": "Ein Umdenken, vor allem aber eine Umsetzung von Fußgänger- und Fahrradfreundlichen Plänen falle der Verkehrspolitik bis heute schwer."
+        },
+        {
+          "text": "Um dem Autoverkehr möglichst lange freie Fahrt zu verschaffen, bekämen Abbieger gleichzeitig mit den Fußgängern Grün, die in der Querstraße über die Fahrbahn gehen."
+        },
+        {
+          "text": "Diese sogenannte bedingt verträgliche Schaltung führe ständig zu Konflikten und Verunsicherung und führe jedes Jahr zu über 1000 Verletzten."
+        }
+      ],
+      "isMain": false,
+      "name": "Roland Stimpel",
+      "occupations": [],
+      "occurrences": {
+        "firstNameOnly": 0,
+        "fullName": 1,
+        "lastNameOnly": 2,
+        "total": 3
+      },
+      "quotedInIntro": false,
+      "quotedInTitle": false,
+      "sex": "male"
+    }
+  ],
+  "subtopics": [
+    "Verkehr",
+    "Politik",
+    "Verkehrssicherheit",
+    "Verkehrsplanung"
+  ]
+}

@@ -1,0 +1,48 @@
+{
+  "persons": [
+    {
+      "age": -1, 
+      "alternativeNames": [],
+      "birthday": null,
+      "descriptiveTexts": [
+        {
+          "text": "»Es geschah zum denkbar schlechtesten Zeitpunkt in Schweden, nur einen Tag vor Heiligabend«, sagte Matti Sällberg von der Universität."
+        },
+        {
+          "text": "»Am schlimmsten betroffen sind die Leukämieforscher, die über 30 Jahre lang Proben von Patienten gesammelt haben«, so Sällberg."
+        }
+      ],
+      "directQuotes": [
+        {
+          "text": "Es geschah zum denkbar schlechtesten Zeitpunkt in Schweden, nur einen Tag vor Heiligabend"
+        },
+        {
+          "text": "Am schlimmsten betroffen sind die Leukämieforscher, die über 30 Jahre lang Proben von Patienten gesammelt haben"
+        }
+      ],
+      "inIntro": false,
+      "inTitle": false,
+      "indirectQuotes": [
+        {
+          "text": "Der Wert der verlorenen Proben könne in die Millionen gehen, eine offizielle Schätzung gebe es aber nicht."
+        }
+      ],
+      "isMain": true,
+      "name": "Matti Sällberg",
+      "occupations": [
+      ],
+      "occurences": {
+        "firstNameOnly": 0,
+        "fullName": 1,
+        "lastNameOnly": 1,
+        "total": 2
+      },
+      "quotedInIntro": false,
+      "quotedInTitle": false,
+      "sex": "male"
+    }
+  ],
+  "subtopics": [
+    "Medizin", "Unfall", "Forschung"
+  ]
+}

@@ -1,0 +1,282 @@
+{
+    "persons": [
+        {
+            "name": "Jake Sullivan",
+            "alternativeNames": [],
+            "age": -1,
+            "sex": "male",
+            "occurences": {
+                "total": 1,
+                "firstNameOnly": 0,
+                "lastNameOnly": 0,
+                "fullName": 1,
+                "nickname": 0
+            },
+            "inTitle": false,
+            "inIntro": false,
+            "_name": {
+                "firstname": "Jake",
+                "lastname": "Sullivan",
+                "nickname": null,
+                "alternative_names": [],
+                "academic_title": null,
+                "nobility_title_or_rank": null
+            },
+            "descriptiveTexts": [
+                {
+                    "text": "Diese Forderung mag im Augenblick unrealistisch erscheinen, doch sie bietet einen denkbaren Weg aus dem aktuellen Desaster."
+                },
+                {
+                    "text": "Dass die Amerikaner das genauso sehen, best\u00e4tigte in Davos Jake Sullivan, der Nationale Sicherheitsberater der USA."
+                }
+            ],
+            "occupations": [],
+            "directQuotes": [],
+            "quotedInTitle": false,
+            "quotedInIntro": false
+        },
+        {
+            "name": "Yossi Melman",
+            "alternativeNames": [],
+            "age": -1,
+            "sex": "male",
+            "occurences": {
+                "total": 2,
+                "firstNameOnly": 0,
+                "lastNameOnly": 1,
+                "fullName": 1,
+                "nickname": 0
+            },
+            "inTitle": false,
+            "inIntro": false,
+            "_name": {
+                "firstname": "Yossi",
+                "lastname": "Melman",
+                "nickname": null,
+                "alternative_names": [],
+                "academic_title": null,
+                "nobility_title_or_rank": null
+            },
+            "descriptiveTexts": [
+                {
+                    "text": "So zumindest sehen das viele israelische Kommentatoren, wie zuletzt Yossi Melman, ein Milit\u00e4r- und Geheimdienstexperte der linksliberalen Zeitung \u00bbHaaretz\u00ab."
+                },
+                {
+                    "text": "Das aber wolle der Premier unbedingt verhindern, darum m\u00fcsse der Krieg andauern, so Melman."
+                }
+            ],
+            "occupations": [],
+            "directQuotes": [],
+            "quotedInTitle": false,
+            "quotedInIntro": false
+        },
+        {
+            "name": "Joe Biden",
+            "alternativeNames": [],
+            "age": -1,
+            "sex": "male",
+            "occurences": {
+                "total": 2,
+                "firstNameOnly": 0,
+                "lastNameOnly": 1,
+                "fullName": 1,
+                "nickname": 0
+            },
+            "inTitle": false,
+            "inIntro": false,
+            "_name": {
+                "firstname": "Joe",
+                "lastname": "Biden",
+                "nickname": null,
+                "alternative_names": [],
+                "academic_title": null,
+                "nobility_title_or_rank": null
+            },
+            "descriptiveTexts": [
+                {
+                    "text": "Ein Deal zwischen Israel und den Saudis und auch ein pal\u00e4stinensischer Staat seien in naher Zukunft m\u00f6glich, sagte der enge Vertraute von US-Pr\u00e4sident Joe Biden."
+                },
+                {
+                    "text": "Die Biden-Administration fordert seit Wochen ein Konzept f\u00fcr den \u00bbTag danach\u00ab."
+                }
+            ],
+            "occupations": [
+                {
+                    "text": "US-Pr\u00e4sident"
+                }
+            ],
+            "directQuotes": [],
+            "quotedInTitle": false,
+            "quotedInIntro": false
+        },
+        {
+            "name": "Benjamin Netanyahu",
+            "alternativeNames": [],
+            "age": -1,
+            "sex": "male",
+            "occurences": {
+                "total": 12,
+                "firstNameOnly": 0,
+                "lastNameOnly": 10,
+                "fullName": 2,
+                "nickname": 0
+            },
+            "inTitle": true,
+            "inIntro": true,
+            "_name": {
+                "firstname": "Benjamin",
+                "lastname": "Netanyahu",
+                "nickname": null,
+                "alternative_names": [],
+                "academic_title": null,
+                "nobility_title_or_rank": null
+            },
+            "descriptiveTexts": [
+                {
+                    "text": "Das Friedensangebot der Saudis \u2013 und das Hindernis Netanyahu"
+                },
+                {
+                    "text": "F\u00fcr die Zeit nach Netanyahu k\u00f6nnte die Offerte eine gro\u00dfe Chance sein."
+                },
+                {
+                    "text": "Frieden ist mit der Hamas nicht zu machen, aber auch nicht mit Israels Premier Benjamin Netanyahu."
+                },
+                {
+                    "text": "Netanyahu hat die Hamas \u00fcber viele Jahre gew\u00e4hren lassen"
+                },
+                {
+                    "text": "Die in Aussicht gestellte Dauer des Krieges k\u00f6nnte auch der Versuch Netanyahus sein, sich m\u00f6glichst lange an der Macht zu halten."
+                },
+                {
+                    "text": "Als Premier tr\u00e4gt Netanyahu die Hauptverantwortung f\u00fcr das Versagen des Staates am 7. Oktober."
+                },
+                {
+                    "text": "Was Netanyahu ebenso verhindern will: Einen pal\u00e4stinensischen Staat."
+                },
+                {
+                    "text": "Darum mag er sich dem wachsenden Druck der USA nicht beugen."
+                },
+                {
+                    "text": "F\u00fcr Netanyahu w\u00e4re dieses Szenario ein Albtraum."
+                },
+                {
+                    "text": "\u00dcber viele Jahre hat er die Hamas in Gaza gew\u00e4hren lassen, hat er Katar erlaubt, die Islamistenorganisation mit Millionen Dollar zu unterst\u00fctzen, um so einen m\u00e4chtigen Gegenspieler zur Autonomiebeh\u00f6rde zu haben."
+                },
+                {
+                    "text": "Doch selbst dann: Netanyahu w\u00fcrde nie und nimmer mit Pr\u00e4sident Abbas verhandeln, die Rechtsextremisten in seiner Koalition w\u00fcrden die Regierung platzen lassen, falls sie das nicht schon vorher getan h\u00e4tten."
+                },
+                {
+                    "text": "Netanyahu w\u00e4re sein Amt los, ein f\u00fcr allemal."
+                },
+                {
+                    "text": "Genau an dieser Stelle w\u00fcrde das Angebot des saudischen Au\u00dfenministers dem n\u00e4chsten israelischen Premier nach Netanyahu eine T\u00fcr \u00f6ffnen."
+                },
+                {
+                    "text": "Und Benjamin Netanyahu sich von der politischen B\u00fchne verabschiedet haben."
+                }
+            ],
+            "occupations": [
+                {
+                    "text": "israelischer Premier"
+                }
+            ],
+            "directQuotes": [],
+            "quotedInTitle": true,
+            "quotedInIntro": true
+        },
+        {
+            "name": "Faisal bin Farhan",
+            "alternativeNames": [],
+            "age": -1,
+            "sex": "male",
+            "occurences": {
+                "total": 3,
+                "firstNameOnly": 2,
+                "lastNameOnly": 0,
+                "fullName": 1,
+                "nickname": 0
+            },
+            "inTitle": false,
+            "inIntro": false,
+            "_name": {
+                "firstname": "Faisal",
+                "lastname": "bin Farhan",
+                "nickname": null,
+                "alternative_names": [],
+                "academic_title": null,
+                "nobility_title_or_rank": null
+            },
+            "descriptiveTexts": [
+                {
+                    "text": "Auf dem Weltwirtschaftsforum in Davos erkl\u00e4rte Prinz Faisal bin Farhan, Saudi-Arabiens Au\u00dfenminister, am Dienstag: \u00bbWir sind uns einig, dass Frieden in der Region Frieden f\u00fcr Israel einschlie\u00dft\u00ab."
+                },
+                {
+                    "text": "Auf die Frage, ob die Saudis Israel bei einer umfassenden politischen Einigung anerkennen w\u00fcrden, best\u00e4tigte Prinz Faisal das sehr entspannt mit einem \u00bbgewiss\u00ab."
+                },
+                {
+                    "text": "Diese Forderung mag im Augenblick unrealistisch erscheinen, doch sie bietet einen denkbaren Weg aus dem aktuellen Desaster."
+                },
+                {
+                    "text": "Am Dienstag machte Prinz Faisal jedoch klar, dass dem nicht so sei, wenngleich der Preis, den Israel f\u00fcr Frieden mit dem m\u00e4chtigsten arabischen Staat wird bezahlen m\u00fcssen, ungleich h\u00f6her geworden ist."
+                }
+            ],
+            "occupations": [
+                {
+                    "text": "Saudi-Arabiens Au\u00dfenminister"
+                },
+                {
+                    "text": "Diplomat"
+                }
+            ],
+            "directQuotes": [
+                {
+                    "text": "Wir sind uns einig, dass Frieden in der Region Frieden f\u00fcr Israel einschlie\u00dft"
+                },
+                {
+                    "text": "gewiss"
+                }
+            ],
+            "quotedInTitle": false,
+            "quotedInIntro": false
+        },
+        {
+            "name": "Mahmoud Abbas",
+            "alternativeNames": [],
+            "age": -1,
+            "sex": "male",
+            "occurences": {
+                "total": 2,
+                "firstNameOnly": 0,
+                "lastNameOnly": 1,
+                "fullName": 1,
+                "nickname": 0
+            },
+            "inTitle": false,
+            "inIntro": false,
+            "_name": {
+                "firstname": "Mahmoud",
+                "lastname": "Abbas",
+                "nickname": null,
+                "alternative_names": [],
+                "academic_title": null,
+                "nobility_title_or_rank": null
+            },
+            "descriptiveTexts": [
+                {
+                    "text": "Die Pal\u00e4stinensische Autonomiebeh\u00f6rde (PA) von Pal\u00e4stinenserpr\u00e4sident Mahmoud Abbas soll in Gaza die Kontrolle \u00fcbernehmen, eine \u00bbrevitalisierte\u00ab Autonomiebeh\u00f6rde, wie es hei\u00dft."
+                },
+                {
+                    "text": "Doch selbst dann: Netanyahu w\u00fcrde nie und nimmer mit Pr\u00e4sident Abbas verhandeln, die Rechtsextremisten in seiner Koalition w\u00fcrden die Regierung platzen lassen, falls sie das nicht schon vorher getan h\u00e4tten."
+                }
+            ],
+            "occupations": [
+                {
+                    "text": "Pal\u00e4stinenserpr\u00e4sident"
+                }
+            ],
+            "directQuotes": [],
+            "quotedInTitle": false,
+            "quotedInIntro": false
+        }
+    ]
+}

@@ -1,0 +1,379 @@
+{
+    "persons": [
+        {
+            "name": "Andreas Str\u00fcngmann",
+            "alternativeNames": [
+                "unbekannt"
+            ],
+            "age": -1,
+            "sex": "male",
+            "occurences": {
+                "total": 2,
+                "firstNameOnly": 0,
+                "lastNameOnly": 1,
+                "fullName": 1,
+                "nickname": 0
+            },
+            "inTitle": false,
+            "inIntro": false,
+            "_name": {
+                "firstname": "Andreas",
+                "lastname": "Str\u00fcngmann",
+                "nickname": null,
+                "alternative_names": [
+                    "unbekannt"
+                ],
+                "academic_title": null,
+                "nobility_title_or_rank": null
+            },
+            "descriptiveTexts": [
+                {
+                    "text": "Sie sind mit Andreas Str\u00fcngmann, einem der Str\u00fcngmann-Zwillinge, gut befreundet."
+                }
+            ],
+            "occupations": [],
+            "directQuotes": [],
+            "quotedInTitle": false,
+            "quotedInIntro": false
+        },
+        {
+            "name": "David Gitlin",
+            "alternativeNames": [
+                "unbekannt"
+            ],
+            "age": 52,
+            "sex": "male",
+            "occurences": {
+                "total": 1,
+                "firstNameOnly": 0,
+                "lastNameOnly": 0,
+                "fullName": 1,
+                "nickname": 0
+            },
+            "inTitle": false,
+            "inIntro": false,
+            "_name": {
+                "firstname": "David",
+                "lastname": "Gitlin",
+                "nickname": null,
+                "alternative_names": [
+                    "unbekannt"
+                ],
+                "academic_title": null,
+                "nobility_title_or_rank": null
+            },
+            "descriptiveTexts": [
+                {
+                    "text": "Bald hat hier nicht mehr die Familie das Sagen, sondern ein Amerikaner aus Florida: David Gitlin (52), CEO der Firma Carrier."
+                }
+            ],
+            "occupations": [],
+            "directQuotes": [],
+            "quotedInTitle": false,
+            "quotedInIntro": false
+        },
+        {
+            "name": "Maximilian Viessmann",
+            "alternativeNames": [
+                "unbekannt"
+            ],
+            "age": 34,
+            "sex": "male",
+            "occurences": {
+                "total": 37,
+                "firstNameOnly": 23,
+                "lastNameOnly": 10,
+                "fullName": 4,
+                "nickname": 0
+            },
+            "inTitle": false,
+            "inIntro": true,
+            "_name": {
+                "firstname": "Maximilian",
+                "lastname": "Viessmann",
+                "nickname": null,
+                "alternative_names": [
+                    "unbekannt"
+                ],
+                "academic_title": null,
+                "nobility_title_or_rank": null
+            },
+            "descriptiveTexts": [
+                {
+                    "text": "Martin und Maximilian Viessmann erkl\u00e4ren, wie sie mit dem Geld aus dem Unternehmensverkauf eine gro\u00dfe industrielle Gruppe rund um das Megathema Klima aufbauen wollen."
+                },
+                {
+                    "text": "Im TV-Studio von Viessmann ist schon alles aufgebaut f\u00fcr eine au\u00dferordentliche Betriebsversammlung gleich am Nachmittag: Ein Rednerpult mit Mikro wartet auf Firmenchef Maximilian Viessmann (34), eine Assistentin stellt gerade noch den Ton ein."
+                },
+                {
+                    "text": "Maximilian Viessmann und sein Vater Martin (69), Chairman und Miteigent\u00fcmer, nehmen sich f\u00fcr die Antworten gut 90 intensive Minuten Zeit, bevor die Betriebsr\u00e4te das Wort haben."
+                },
+                {
+                    "text": "\nmanager magazin: Herr Viessmann, als Sie vergangenes Jahr im Herbst in die Hall of Fame des manager magazins aufgenommen wurden, liefen schon erste Gespr\u00e4che mit Carrier."
+                },
+                {
+                    "text": "Hatten Sie damals nicht ein mulmiges Gef\u00fchl, als der Laudator sagte, Sie seien ein hartn\u00e4ckiger und unbeirrbarer Familienunternehmer?"
+                },
+                {
+                    "text": "Maximilian Viessmann: Wir sind Familienunternehmer, und wir bleiben Familienunternehmer."
+                },
+                {
+                    "text": "Allerdings schneiden Sie aus der Firmengruppe den wichtigsten Teil heraus."
+                },
+                {
+                    "text": "Sie haben zwischenzeitlich auch \u00fcber einen B\u00f6rsengang nachgedacht."
+                },
+                {
+                    "text": "Hatten Sie Angst, \u00fcberrannt zu werden, so wie das um 2010 den deutschen Solarherstellern erging, als die Chinesen einen hoch subventionierten Markt eroberten?"
+                },
+                {
+                    "text": "Anders als in den 2000er Jahren will die EU die europ\u00e4ischen Anbieter sch\u00fctzen, indem sie eine Quote von bis zu 60 Prozent f\u00fcr W\u00e4rmepumpen aus europ\u00e4ischer Produktion festschreibt."
+                },
+                {
+                    "text": "Gleichzeitig haben Sie auch einen sehr guten Preis erzielt, mehr als das 20-fache des durchschnittlichen Gewinns vor Steuern, Zinsen und Abschreibungen."
+                },
+                {
+                    "text": "Sie haben einige Verabredungen zum Schutz der Besch\u00e4ftigten getroffen."
+                },
+                {
+                    "text": "Maximilian: Carrier hat bekannt gegeben, dass sie sich von zwei Gesch\u00e4ftsbereichen trennen werden."
+                },
+                {
+                    "text": "Damit wollen sie ihre eigene Transformation und auch diese Transaktion finanzieren und unterstreichen, dass sie sich voll auf das Klima-, Heizungs- und Ventilationsgesch\u00e4ft konzentrieren werden."
+                },
+                {
+                    "text": "Ja, aber daf\u00fcr m\u00fcssen sie erst mal K\u00e4ufer finden."
+                },
+                {
+                    "text": "Maximilian: Da mache ich mir keine Sorgen, das sind sehr gut aufgestellte Sparten."
+                },
+                {
+                    "text": "Das zeigt, dass sie die Finanzkraft und Strategie von Carrier weiterhin sehr positiv beurteilen."
+                },
+                {
+                    "text": "Martin: Lassen Sie es mich so sagen: Carrier investiert nicht in unsere Klimal\u00f6sungen, um Fabriken zu schlie\u00dfen oder Arbeitspl\u00e4tze abzubauen, sondern um zu wachsen."
+                },
+                {
+                    "text": "Sie wollen den Arbeitnehmern 106 Millionen Euro Pr\u00e4mie auszahlen."
+                },
+                {
+                    "text": "Wie war denn die Reaktion bei den Mitarbeitern und Mitarbeiterinnen \u2013 fanden sie das okay oder fanden sie es zu wenig?"
+                },
+                {
+                    "text": "Aber was noch viel wichtiger ist: Sie haben auch f\u00fcr sich erkannt, dass das Unternehmen dadurch eine sehr gute Zukunftsperspektive hat und dass wir diese Entscheidung getroffen haben, um die Arbeitspl\u00e4tze zu sichern."
+                },
+                {
+                    "text": "Sie behalten Teile des Unternehmens, vor allem die K\u00e4ltesparte."
+                },
+                {
+                    "text": "Sie haben angek\u00fcndigt, dass Viessmann sp\u00e4testens bis zum Ende des Jahrzehnts auf eine Gr\u00f6\u00dfe wachsen soll, die den Gesch\u00e4ftsbereich Climate Solutions heute \u00fcbertrifft."
+                },
+                {
+                    "text": "\u2026 Sie haben oft gro\u00dfe Anteile oder die Mehrheit \u00fcbernommen \u2026"
+                },
+                {
+                    "text": "Wir haben in den vergangenen Jahren gezeigt, dass wir erfolgreich mit anderen Unternehmerfamilien zusammenarbeiten k\u00f6nnen: Wir integrieren sie nicht vollst\u00e4ndig, sondern bauen auf ihre Kultur und ihre St\u00e4rken auf, indem wir unser Know-how und unsere Erfahrung einbringen."
+                },
+                {
+                    "text": "Maximilian: Ich w\u00fcrde bei uns von Family Capital sprechen."
+                },
+                {
+                    "text": "Hei\u00dft das, Sie wollen eine industrielle Gruppe rund um das Megathema Klima aufbauen?"
+                },
+                {
+                    "text": "Ist das ein Vorbild f\u00fcr Sie?"
+                }
+            ],
+            "occupations": [
+                {
+                    "text": "Unternehmer"
+                },
+                {
+                    "text": "Venture Capital Investor"
+                },
+                {
+                    "text": "Eigent\u00fcmerfamilie"
+                },
+                {
+                    "text": "Firmenchef"
+                },
+                {
+                    "text": "hartn\u00e4ckiger und unbeirrbarer Familienunternehmer"
+                },
+                {
+                    "text": "Investor"
+                },
+                {
+                    "text": "Familienunternehmer"
+                }
+            ],
+            "directQuotes": [],
+            "quotedInTitle": false,
+            "quotedInIntro": true
+        },
+        {
+            "name": "Martin Viessmann",
+            "alternativeNames": [
+                "unbekannt"
+            ],
+            "age": 69,
+            "sex": "male",
+            "occurences": {
+                "total": 10,
+                "firstNameOnly": 9,
+                "lastNameOnly": 0,
+                "fullName": 1,
+                "nickname": 0
+            },
+            "inTitle": false,
+            "inIntro": false,
+            "_name": {
+                "firstname": "Martin",
+                "lastname": "Viessmann",
+                "nickname": null,
+                "alternative_names": [
+                    "unbekannt"
+                ],
+                "academic_title": null,
+                "nobility_title_or_rank": null
+            },
+            "descriptiveTexts": [
+                {
+                    "text": "Martin und Maximilian Viessmann erkl\u00e4ren, wie sie mit dem Geld aus dem Unternehmensverkauf eine gro\u00dfe industrielle Gruppe rund um das Megathema Klima aufbauen wollen."
+                },
+                {
+                    "text": "Martin Viessmann: Was zeichnet einen Familienunternehmer aus?"
+                },
+                {
+                    "text": "Dass er f\u00fcr Werte steht, soziale Verantwortung lebt, vorausschauende Entscheidungen trifft und langfristigen Erfolg anstrebt."
+                },
+                {
+                    "text": "Allerdings schneiden Sie aus der Firmengruppe den wichtigsten Teil heraus."
+                },
+                {
+                    "text": "Sie haben zwischenzeitlich auch \u00fcber einen B\u00f6rsengang nachgedacht."
+                },
+                {
+                    "text": "Anders als in den 2000er Jahren will die EU die europ\u00e4ischen Anbieter sch\u00fctzen, indem sie eine Quote von bis zu 60 Prozent f\u00fcr W\u00e4rmepumpen aus europ\u00e4ischer Produktion festschreibt."
+                },
+                {
+                    "text": "Sie haben einige Verabredungen zum Schutz der Besch\u00e4ftigten getroffen."
+                },
+                {
+                    "text": "Maximilian: Carrier hat bekannt gegeben, dass sie sich von zwei Gesch\u00e4ftsbereichen trennen werden."
+                },
+                {
+                    "text": "Damit wollen sie ihre eigene Transformation und auch diese Transaktion finanzieren und unterstreichen, dass sie sich voll auf das Klima-, Heizungs- und Ventilationsgesch\u00e4ft konzentrieren werden."
+                },
+                {
+                    "text": "Ja, aber daf\u00fcr m\u00fcssen sie erst mal K\u00e4ufer finden."
+                },
+                {
+                    "text": "Das zeigt, dass sie die Finanzkraft und Strategie von Carrier weiterhin sehr positiv beurteilen."
+                },
+                {
+                    "text": "Martin: Lassen Sie es mich so sagen: Carrier investiert nicht in unsere Klimal\u00f6sungen, um Fabriken zu schlie\u00dfen oder Arbeitspl\u00e4tze abzubauen, sondern um zu wachsen."
+                },
+                {
+                    "text": "Sie wollen den Arbeitnehmern 106 Millionen Euro Pr\u00e4mie auszahlen."
+                },
+                {
+                    "text": "Wie war denn die Reaktion bei den Mitarbeitern und Mitarbeiterinnen \u2013 fanden sie das okay oder fanden sie es zu wenig?"
+                },
+                {
+                    "text": "Aber was noch viel wichtiger ist: Sie haben auch f\u00fcr sich erkannt, dass das Unternehmen dadurch eine sehr gute Zukunftsperspektive hat und dass wir diese Entscheidung getroffen haben, um die Arbeitspl\u00e4tze zu sichern."
+                },
+                {
+                    "text": "Sie behalten Teile des Unternehmens, vor allem die K\u00e4ltesparte."
+                },
+                {
+                    "text": "Sie haben angek\u00fcndigt, dass Viessmann sp\u00e4testens bis zum Ende des Jahrzehnts auf eine Gr\u00f6\u00dfe wachsen soll, die den Gesch\u00e4ftsbereich Climate Solutions heute \u00fcbertrifft."
+                },
+                {
+                    "text": "\u2026 Sie haben oft gro\u00dfe Anteile oder die Mehrheit \u00fcbernommen \u2026"
+                },
+                {
+                    "text": "Wir haben in den vergangenen Jahren gezeigt, dass wir erfolgreich mit anderen Unternehmerfamilien zusammenarbeiten k\u00f6nnen: Wir integrieren sie nicht vollst\u00e4ndig, sondern bauen auf ihre Kultur und ihre St\u00e4rken auf, indem wir unser Know-how und unsere Erfahrung einbringen."
+                },
+                {
+                    "text": "Hei\u00dft das, Sie wollen eine industrielle Gruppe rund um das Megathema Klima aufbauen?"
+                },
+                {
+                    "text": "Ist das ein Vorbild f\u00fcr Sie?"
+                },
+                {
+                    "text": "Martin: Ich finde es sehr beispielgebend, was die Br\u00fcder gemacht haben \u2013 vor allem ihre Investitionen in die Forschung."
+                }
+            ],
+            "occupations": [
+                {
+                    "text": "langfristigen Erfolg anstrebt"
+                },
+                {
+                    "text": "eine sehr, sehr schwere Entscheidung"
+                },
+                {
+                    "text": "Chairman und Miteigent\u00fcmer"
+                },
+                {
+                    "text": "vorausschauende Entscheidungen trifft"
+                },
+                {
+                    "text": "soziale Verantwortung lebt"
+                },
+                {
+                    "text": "hartn\u00e4ckiger und unbeirrbarer Familienunternehmer"
+                },
+                {
+                    "text": "Familienunternehmer"
+                }
+            ],
+            "directQuotes": [],
+            "quotedInTitle": false,
+            "quotedInIntro": false
+        },
+        {
+            "name": "Frank Asbeck",
+            "alternativeNames": [
+                "unbekannt"
+            ],
+            "age": -1,
+            "sex": "male",
+            "occurences": {
+                "total": 1,
+                "firstNameOnly": 0,
+                "lastNameOnly": 0,
+                "fullName": 1,
+                "nickname": 0
+            },
+            "inTitle": false,
+            "inIntro": false,
+            "_name": {
+                "firstname": "Frank",
+                "lastname": "Asbeck",
+                "nickname": null,
+                "alternative_names": [
+                    "unbekannt"
+                ],
+                "academic_title": null,
+                "nobility_title_or_rank": null
+            },
+            "descriptiveTexts": [
+                {
+                    "text": "Sie sollen sich h\u00e4ufiger auch mit Frank Asbeck unterhalten haben, dem ehemaligen deutschen Sonnenk\u00f6nig, der sein Reich gegen die asiatischen Anbieter verloren hat."
+                },
+                {
+                    "text": "Hat er zu Ihrer Entscheidung beigetragen?"
+                }
+            ],
+            "occupations": [
+                {
+                    "text": "Unternehmer"
+                }
+            ],
+            "directQuotes": [],
+            "quotedInTitle": false,
+            "quotedInIntro": false
+        }
+    ]
+}

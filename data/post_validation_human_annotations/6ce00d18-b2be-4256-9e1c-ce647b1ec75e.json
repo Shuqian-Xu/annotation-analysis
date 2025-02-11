@@ -1,0 +1,484 @@
+{
+  "persons": [
+    {
+      "age": 75,
+      "alternativeNames": [],
+      "birthday": null,
+      "descriptiveTexts": [
+        {
+          "text": "Mit seiner Band MC5 schuf er die erste Hymne des Punk."
+        },
+        {
+          "text": "Nun ist der Politaktivist, Überlebenskünstler und Riff-König Wayne Kramer im Alter von 75 Jahren gestorben."
+        },
+        {
+          "text": "Über die genaue Bedeutung des Songs »Kick Out the Jams« wurde viel spekuliert; sein Mitschöpfer Wayne Kramer selbst ließ, wenn er dazu befragt wurde, großzügig alle Interpretationen gelten."
+        },
+        {
+          "text": "Rausch, Randale und Revolution waren bei seiner Band MC5 sowieso immer eng gekoppelt."
+        },
+        {
+          "text": "Wer Filmdokumente aus der Zeit und kurz danach anschaut, sieht einen extrem entfesselten Wayne Kramer, der einerseits auf seiner Gitarre Riffs von bis dahin ungehörter Härte spielte und zugleich mit breitem Grinsen das ganz große Rock-’n’-Roll-Ballett aufführte."
+        },
+        {
+          "text": "Er schlug Pirouetten und twerkte mit dem Hintern Richtung Publikum, er machte den Windmühlenarm und ahmte Chuck Berrys berühmten Entengang nach."
+        },
+        {
+          "text": "Manchmal hielt Kramer seine Gitarre aber auch wie ein Maschinengewehr."
+        },
+        {
+          "text": "1975 folgte Wayne Kramer dem Ex-Manager ins Gefängnis."
+        },
+        {
+          "text": "Zuvor war er dabei erwischt worden, wie er verdeckten Drogenermittlern Kokain verkaufen wollte."
+        },
+        {
+          "text": "Er selbst drückte zu dieser Zeit Heroin."
+        },
+        {
+          "text": "Rückblickend sah Kramer den Knast als persönliche Rettung, weil er nach eigener Einschätzung wohl auf freiem Fuß an den Drogen gestorben wäre."
+        },
+        {
+          "text": "Gleichzeitig trat er immer wieder als Kritiker des US-Strafvollzugssystems auf, das seiner Ansicht nach mehr Kriminalität produziert als verhindert."
+        },
+        {
+          "text": "An die großen Tage von MC5 konnte er nach der Haftentlassung 1979 nicht anknüpfen."
+        },
+        {
+          "text": "Er schlug sich durch, spielte gelegentlich in kleinen Klubs, später wurde er Tischler."
+        },
+        {
+          "text": "Am spannendsten war seine Zusammenarbeit mit Johnny Thunders, einem weiteren Punkpionier, der ebenfalls an der Nadel hing."
+        },
+        {
+          "text": "Thunders und Kramer, das war eine Art Traumpaar des Junkrock."
+        },
+        {
+          "text": "Kurz darauf verlor Kramer mit dem Sänger Rob Tyner und dem Gitarristen Fred »Sonic« Smith zwei seiner MC5-Wegbegleiter."
+        },
+        {
+          "text": "Kramer überlebte die Verheerungen der ersten Punkwelle – und wurde dann zur wichtigen Referenzgröße für die Musiker der zweiten und dritten Welle an politisch motivierten Vertretern des Fachs."
+        },
+        {
+          "text": "Die linken aktivistischen Megastars Rage Against The Machine coverten »Kick Out the Jams«, Bad Religion gaben Kramer auf ihrem Label Epitaph ein neues künstlerisches Zuhause."
+        },
+        {
+          "text": "Ab Mitte der Neunzigerjahre spielte er regelmäßig Soloalben ein."
+        },
+        {
+          "text": "In Deutschland konnte man über die zweite Hälfte der Neunzigerjahre während etlicher Tourneen Kramers Zeuge seiner unverwüstlichen Kraft werden: Dem unvermeidlichen Fanal »Kick Out the Jams«, mit dem er die Auftritte eröffnete, folgten Punksongs, die er mal auf Bluestemperatur dimmte, mal zu infernalischen Freejazz-Exkursionen ausweitete."
+        },
+        {
+          "text": "Dass in den Neunzigerjahren oft keine 50 zahlenden Gäste kamen, betrachtete Kramer mit dem Gleichmut desjenigen, der sich des blanken Überlebens freut."
+        },
+        {
+          "text": "Zuletzt arbeitete er mit dem Schlagzeuger Dennis »Machine Gun« Thompson, dem anderen Überlebenden von MC5, an einem weiteren Album unter dem legendären Bandnamen."
+        },
+        {
+          "text": "Am Freitag ist Wayne Kramer, der Riff-König und möglicherweise größte Punkrockgitarrist aller Zeiten, in einem Krankenhaus in Los Angeles gestorben."
+        },
+        {
+          "text": "Er wurde 75 Jahre alt."
+        }
+      ],
+      "directQuotes": [
+        {
+          "text": "Kick out the jams, motherfucker!"
+        }
+      ],
+      "inIntro": true,
+      "inTitle": false,
+      "indirectQuotes": [],
+      "isMain": true,
+      "name": "Wayne Kramer",
+      "occupations": [
+        {
+          "text": "Politaktivist"
+        },
+        {
+          "text": "Überlebenskünstler"
+        },
+        {
+          "text": "Riff-König"
+        },
+        {
+          "text": "Kritiker des US-Strafvollzugssystems"
+        }
+      ],
+      "occurrences": {
+        "firstNameOnly": 0,
+        "fullName": 5,
+        "lastNameOnly": 8,
+        "total": 13
+      },
+      "quotedInIntro": true,
+      "quotedInTitle": false,
+      "sex": "male"
+    },
+    {
+      "age": -1,
+      "alternativeNames": [],
+      "birthday": null,
+      "descriptiveTexts": [
+        {
+          "text": "Es waren die letzten heißen Tage des US-Präsidentschaftswahlkampfs zwischen Hubert Humphrey und Richard Nixon, der durch vorangegangene Race Riots, Anti-Vietnamkriegsdemonstrationen und der Ermordung Robert F. Kennedys gefährlich aufgeladen war."
+        }
+      ],
+      "directQuotes": [],
+      "inIntro": false,
+      "inTitle": false,
+      "indirectQuotes": [],
+      "isMain": false,
+      "name": "Hubert Humphrey",
+      "occupations": [
+        {
+          "text": "US-Präsidentschaftswahlkampfs"
+        }
+      ],
+      "occurrences": {
+        "firstNameOnly": 0,
+        "fullName": 1,
+        "lastNameOnly": 0,
+        "total": 1
+      },
+      "quotedInIntro": false,
+      "quotedInTitle": false,
+      "sex": "male"
+    },
+    {
+      "age": -1,
+      "alternativeNames": [],
+      "birthday": null,
+      "descriptiveTexts": [
+        {
+          "text": "Es waren die letzten heißen Tage des US-Präsidentschaftswahlkampfs zwischen Hubert Humphrey und Richard Nixon, der durch vorangegangene Race Riots, Anti-Vietnamkriegsdemonstrationen und der Ermordung Robert F. Kennedys gefährlich aufgeladen war."
+        }
+      ],
+      "directQuotes": [],
+      "inIntro": false,
+      "inTitle": false,
+      "indirectQuotes": [],
+      "isMain": false,
+      "name": "Richard Nixon",
+      "occupations": [
+        {
+          "text": "US-Präsidentschaftswahlkampfs"
+        }
+      ],
+      "occurrences": {
+        "firstNameOnly": 0,
+        "fullName": 1,
+        "lastNameOnly": 0,
+        "total": 1
+      },
+      "quotedInIntro": false,
+      "quotedInTitle": false,
+      "sex": "male"
+    },
+    {
+      "age": -1,
+      "alternativeNames": [],
+      "birthday": null,
+      "descriptiveTexts": [
+        {
+          "text": "Es waren die letzten heißen Tage des US-Präsidentschaftswahlkampfs zwischen Hubert Humphrey und Richard Nixon, der durch vorangegangene Race Riots, Anti-Vietnamkriegsdemonstrationen und der Ermordung Robert F. Kennedys gefährlich aufgeladen war."
+        }
+      ],
+      "directQuotes": [],
+      "inIntro": false,
+      "inTitle": false,
+      "indirectQuotes": [],
+      "isMain": false,
+      "name": "Robert F. Kennedys",
+      "occupations": [],
+      "occurrences": {
+        "firstNameOnly": 0,
+        "fullName": 1,
+        "lastNameOnly": 0,
+        "total": 1
+      },
+      "quotedInIntro": false,
+      "quotedInTitle": false,
+      "sex": "male"
+    },
+    {
+      "age": -1,
+      "alternativeNames": [],
+      "birthday": null,
+      "descriptiveTexts": [
+        {
+          "text": "Als Manager von MC5 fungierte damals der Anarchist John Sinclair, der allerdings schon 1969 wegen Marihuanaverkaufs ins Gefängnis kam."
+        },
+        {
+          "text": "Die Band spielte etliche Benefizkonzerte für ihn."
+        },
+        {
+          "text": "1968 hatte Sinclair die White Panther Party gegründet, sie sollte die Black Panther in ihrem Kampf um Selbstermächtigung unterstützen."
+        },
+        {
+          "text": "Im selben Jahr wurde Sinclair angeklagt, einen Anschlag auf ein CIA-Büro begangen zu haben."
+        },
+        {
+          "text": "MC5 teilten viele seiner radikalen Ansichten, trennten sich dann aber von ihm, während er in Haft war."
+        },
+        {
+          "text": "Die Band blieb Zeit ihres kurzen Bestehens kommerziell erfolglos, nach dem Abgang Sinclairs saß sie zudem auf einem Haufen Schulden."
+        },
+        {
+          "text": "Später soll der geschasste Manager in Richtung MC5 gesagt haben: »Ihr wolltet größer sein als die Beatles, ich wollte, dass ihr größer werdet als Mao.«"
+        },
+        {
+          "text": "1975 folgte Wayne Kramer dem Ex-Manager ins Gefängnis."
+        }
+      ],
+      "directQuotes": [
+        {
+          "text": "Ihr wolltet größer sein als die Beatles, ich wollte, dass ihr größer werdet als Mao."
+        }
+      ],
+      "inIntro": false,
+      "inTitle": false,
+      "indirectQuotes": [],
+      "isMain": false,
+      "name": "John Sinclair",
+      "occupations": [
+        {
+          "text": "Anarchist"
+        },
+        {
+          "text": "geschasste Manager"
+        },
+        {
+          "text": "Ex-Manager"
+        }
+      ],
+      "occurrences": {
+        "firstNameOnly": 0,
+        "fullName": 1,
+        "lastNameOnly": 3,
+        "total": 4
+      },
+      "quotedInIntro": false,
+      "quotedInTitle": false,
+      "sex": "male"
+    },
+    {
+      "age": -1,
+      "alternativeNames": [],
+      "birthday": null,
+      "descriptiveTexts": [
+        {
+          "text": "Er schlug Pirouetten und twerkte mit dem Hintern Richtung Publikum, er machte den Windmühlenarm und ahmte Chuck Berrys berühmten Entengang nach."
+        }
+      ],
+      "directQuotes": [],
+      "inIntro": false,
+      "inTitle": false,
+      "indirectQuotes": [],
+      "isMain": false,
+      "name": "Chuck Berrys",
+      "occupations": [],
+      "occurrences": {
+        "firstNameOnly": 0,
+        "fullName": 1,
+        "lastNameOnly": 0,
+        "total": 1
+      },
+      "quotedInIntro": false,
+      "quotedInTitle": false,
+      "sex": "male"
+    },
+    {
+      "age": -1,
+      "alternativeNames": [],
+      "birthday": null,
+      "descriptiveTexts": [
+        {
+          "text": "Am spannendsten war seine Zusammenarbeit mit Johnny Thunders, einem weiteren Punkpionier, der ebenfalls an der Nadel hing."
+        },
+        {
+          "text": "Thunders und Kramer, das war eine Art Traumpaar des Junkrock."
+        },
+        {
+          "text": "Thunders starb 1991."
+        }
+      ],
+      "directQuotes": [],
+      "inIntro": false,
+      "inTitle": false,
+      "indirectQuotes": [],
+      "isMain": false,
+      "name": "Johnny Thunders",
+      "occupations": [
+        {
+          "text": "Punkpionier"
+        }
+      ],
+      "occurrences": {
+        "firstNameOnly": 0,
+        "fullName": 1,
+        "lastNameOnly": 2,
+        "total": 3
+      },
+      "quotedInIntro": false,
+      "quotedInTitle": false,
+      "sex": "male"
+    },
+    {
+      "age": -1,
+      "alternativeNames": [],
+      "birthday": null,
+      "descriptiveTexts": [
+        {
+          "text": "Kurz darauf verlor Kramer mit dem Sänger Rob Tyner und dem Gitarristen Fred »Sonic« Smith zwei seiner MC5-Wegbegleiter."
+        }
+      ],
+      "directQuotes": [],
+      "inIntro": false,
+      "inTitle": false,
+      "indirectQuotes": [],
+      "isMain": false,
+      "name": "Rob Tyner",
+      "occupations": [
+        {
+          "text": "Sänger"
+        }
+      ],
+      "occurrences": {
+        "firstNameOnly": 0,
+        "fullName": 1,
+        "lastNameOnly": 0,
+        "total": 1
+      },
+      "quotedInIntro": false,
+      "quotedInTitle": false,
+      "sex": "male"
+    },
+    {
+      "age": -1,
+      "alternativeNames": ["Sonic"],
+      "birthday": null,
+      "descriptiveTexts": [
+        {
+          "text": "Kurz darauf verlor Kramer mit dem Sänger Rob Tyner und dem Gitarristen Fred »Sonic« Smith zwei seiner MC5-Wegbegleiter."
+        }
+      ],
+      "directQuotes": [],
+      "inIntro": false,
+      "inTitle": false,
+      "indirectQuotes": [],
+      "isMain": false,
+      "name": "Fred Smith",
+      "occupations": [
+        {
+          "text": "Gitarristen"
+        }
+      ],
+      "occurrences": {
+        "firstNameOnly": 0,
+        "fullName": 1,
+        "lastNameOnly": 0,
+        "total": 1
+      },
+      "quotedInIntro": false,
+      "quotedInTitle": false,
+      "sex": "male"
+    },
+    {
+      "age": -1,
+      "alternativeNames": ["Machine Gun"],
+      "birthday": null,
+      "descriptiveTexts": [
+        {
+          "text": "Zuletzt arbeitete er mit dem Schlagzeuger Dennis »Machine Gun« Thompson, dem anderen Überlebenden von MC5, an einem weiteren Album unter dem legendären Bandnamen."
+        }
+      ],
+      "directQuotes": [],
+      "inIntro": false,
+      "inTitle": false,
+      "indirectQuotes": [],
+      "isMain": false,
+      "name": "Dennis Thompson",
+      "occupations": [
+        {
+          "text": "Schlagzeuger"
+        }
+      ],
+      "occurrences": {
+        "firstNameOnly": 0,
+        "fullName": 1,
+        "lastNameOnly": 0,
+        "total": 1
+      },
+      "quotedInIntro": false,
+      "quotedInTitle": false,
+      "sex": "male"
+    },
+    {
+      "age": -1,
+      "alternativeNames": [],
+      "birthday": null,
+      "descriptiveTexts": [
+        {
+          "text": "Schon MC5 hatten in ihren Anfangstagen Anleihen bei Freejazz-Größen wie John Coltrane und Sun Ra vorgenommen."
+        }
+      ],
+      "directQuotes": [],
+      "inIntro": false,
+      "inTitle": false,
+      "indirectQuotes": [],
+      "isMain": false,
+      "name": "John Coltrane",
+      "occupations": [
+        {
+          "text": "Freejazz-Größen"
+        }
+      ],
+      "occurrences": {
+        "firstNameOnly": 0,
+        "fullName": 1,
+        "lastNameOnly": 0,
+        "total": 1
+      },
+      "quotedInIntro": false,
+      "quotedInTitle": false,
+      "sex": "male"
+    },
+    {
+      "age": -1,
+      "alternativeNames": [],
+      "birthday": null,
+      "descriptiveTexts": [
+        {
+          "text": "Schon MC5 hatten in ihren Anfangstagen Anleihen bei Freejazz-Größen wie John Coltrane und Sun Ra vorgenommen."
+        }
+      ],
+      "directQuotes": [],
+      "inIntro": false,
+      "inTitle": false,
+      "indirectQuotes": [],
+      "isMain": false,
+      "name": "Sun Ra",
+      "occupations": [
+        {
+          "text": "Freejazz-Größen"
+        }
+      ],
+      "occurrences": {
+        "firstNameOnly": 0,
+        "fullName": 1,
+        "lastNameOnly": 0,
+        "total": 1
+      },
+      "quotedInIntro": false,
+      "quotedInTitle": false,
+      "sex": "male"
+    }
+  ],
+  "subtopics": [
+    "Kultur",
+    "Politik",
+    "Musik",
+    "Biografie"
+  ]
+}

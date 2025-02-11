@@ -1,0 +1,402 @@
+{
+  "persons": [
+    {
+      "age": -1,
+      "alternativeNames": [],
+      "birthday": null,
+      "descriptiveTexts": [
+        {
+          "text": "Lisa Paus will heute mal ein bisschen Optimismus verbreiten."
+        },
+        {
+          "text": "Die Familienministerin hat an diesem Mittwoch im Januar in ihr Haus geladen, um eine freudige Nachricht zu verkünden."
+        },
+        {
+          "text": "Wer Schwangere durch Protest vor Arztpraxen und Beratungsstellen an einem Abbruch hindere, erklärt Paus lächelnd in die Kameras, soll künftig bis zu 5000 Euro Bußgeld zahlen."
+        },
+        {
+          "text": "»Es ist jetzt Halbzeit. Wir haben schon einiges geschafft. Einiges ist noch in der Pipeline«, sagt Paus, nachdem sie am Mittwoch ihren Gesetzentwurf vorgestellt hat."
+        },
+        {
+          "text": "Der Familienministerin ist bewusst, dass sie jetzt liefern muss."
+        },
+        {
+          "text": "Paus gehört zu jenem Teil der Ampel, dem die sogenannten Fortschrittsthemen immer noch besonders am Herzen liegen."
+        },
+        {
+          "text": "Manchmal so sehr, dass sie damit aneckt."
+        },
+        {
+          "text": "Etwa, wenn sie selbstbewusst sagt: »Transfrauen sind Frauen.«"
+        },
+        {
+          "text": "Oder damals, als sie im Sommer 2022 unabgesprochen die sogenannte Progress-Regenbogenflagge vor ihrem Ministerium hisste – eine Flagge, die auch die Anliegen von Trans- und Intersexuellen miteinbezieht."
+        },
+        {
+          "text": "Sofort kam der Vorwurf, Paus verprelle mit solchen Symbolen einen Teil der Gesellschaft."
+        },
+        {
+          "text": "Die Ministerin verteidigt sich: »Wir machen keine Identitätspolitik, sondern setzen die Vorgaben unserer Verfassung um, allen Menschen die gleichen Rechte für freie Entfaltung zu geben.«"
+        },
+        {
+          "text": "Das habe enorme Ressourcen gebunden, sagt Paus."
+        },
+        {
+          "text": "Bereits 2022 wies das Kanzleramt Paus an, das Projekt zu verschieben."
+        },
+        {
+          "text": "Im April 2023 legte Paus einen Gesetzentwurf vor, der seither vor sich hin dümpelt."
+        },
+        {
+          "text": "»Unternehmen wie Henkel führen solche Zeiten für den zweiten Elternteil direkt nach der Geburt bereits von sich aus ein – das zeigt, die Wirtschaft sieht den Handlungsbedarf und ist weiter als die FDP«, sagt Paus' Parteikollegin Nina Stahr, in der Bundestagsfraktion zuständig für Familienpolitik."
+        },
+        {
+          "text": "»Wir benötigen einen Gesetzentwurf, der für die gesamte Koalition konsensfähig ist und nicht nur für Ministerin Paus«, sagte kürzlich die stellvertretende FDP-Fraktionsvorsitzende Gyde Jensen dem Redaktionsnetzwerk Deutschland."
+        },
+        {
+          "text": "»Wenn die Ministerin jedoch nicht rechtzeitig mit uns über Möglichkeiten und Finanzierung spricht und am Ende das Finanzministerium als alleinigen Schuldigen darstellt, funktioniert das nicht.«"
+        },
+        {
+          "text": "Und was ist eigentlich mit der Kindergrundsicherung, Paus' großem Vorzeigeprojekt?"
+        },
+        {
+          "text": "Dabei könnte das Gesetz ein weiteres Problem lösen, verspricht Paus: Den Streit um Lindners geplante Erhöhung des Kinderfreibetrags, von dem vor allem Besserverdiener profitieren."
+        },
+        {
+          "text": "Paus müsste sich dann fragen lassen, was sie als Ministerin überhaupt erreicht hat."
+        },
+        {
+          "text": "Als Paus und Buschmann im Sommer 2022 erste Ideen vorstellten, brach ein kleiner Kulturkampf los."
+        }
+      ],
+      "directQuotes": [
+        {
+          "text": "Es ist jetzt Halbzeit. Wir haben schon einiges geschafft. Einiges ist noch in der Pipeline"
+        },
+        {
+          "text": "Transfrauen sind Frauen."
+        },
+        {
+          "text": "Wir machen keine Identitätspolitik, sondern setzen die Vorgaben unserer Verfassung um, allen Menschen die gleichen Rechte für freie Entfaltung zu geben."
+        },
+        {
+          "text": "positive Resonanz darauf bei Unternehmen"
+        }
+      ],
+      "inIntro": false,
+      "inTitle": false,
+      "indirectQuotes": [
+        {
+          "text": "Das habe enorme Ressourcen gebunden, sagt Paus."
+        },
+        {
+          "text": "Nun habe sich die Koalition vorgenommen, die weiteren Punkte abzuarbeiten."
+        },
+        {
+          "text": "Es gebe »positive Resonanz darauf bei Unternehmen«, heißt es."
+        },
+        {
+          "text": "Dabei könnte das Gesetz ein weiteres Problem lösen, verspricht Paus: Den Streit um Lindners geplante Erhöhung des Kinderfreibetrags, von dem vor allem Besserverdiener profitieren."
+        }
+      ],
+      "isMain": true,
+      "name": "Lisa Paus",
+      "occupations": [
+        {
+          "text": "Familienministerin"
+        }
+      ],
+      "occurrences": {
+        "firstNameOnly": 0,
+        "fullName": 1,
+        "lastNameOnly": 13,
+        "total": 14
+      },
+      "quotedInIntro": false,
+      "quotedInTitle": false,
+      "sex": "female"
+    },
+    {
+      "age": -1,
+      "alternativeNames": [],
+      "birthday": null,
+      "descriptiveTexts": [
+        {
+          "text": "»Unternehmen wie Henkel führen solche Zeiten für den zweiten Elternteil direkt nach der Geburt bereits von sich aus ein – das zeigt, die Wirtschaft sieht den Handlungsbedarf und ist weiter als die FDP«, sagt Paus' Parteikollegin Nina Stahr, in der Bundestagsfraktion zuständig für Familienpolitik."
+        },
+        {
+          "text": "Sie wünscht sich »eine größere Priorität der gesamten Koalition für das Thema Familien«."
+        }
+      ],
+      "directQuotes": [
+        {
+          "text": "Unternehmen wie Henkel führen solche Zeiten für den zweiten Elternteil direkt nach der Geburt bereits von sich aus ein – das zeigt, die Wirtschaft sieht den Handlungsbedarf und ist weiter als die FDP"
+        },
+        {
+          "text": "eine größere Priorität der gesamten Koalition für das Thema Familien"
+        },
+        {
+          "text": "mehr Mut"
+        }
+      ],
+      "inIntro": false,
+      "inTitle": false,
+      "indirectQuotes": [],
+      "isMain": false,
+      "name": "Nina Stahr",
+      "occupations": [
+        {
+          "text": "Paus' Parteikollegin"
+        },
+        {
+          "text": "Bundestagsfraktion zuständig für Familienpolitik"
+        }
+      ],
+      "occurrences": {
+        "firstNameOnly": 0,
+        "fullName": 1,
+        "lastNameOnly": 0,
+        "total": 1
+      },
+      "quotedInIntro": false,
+      "quotedInTitle": false,
+      "sex": "female"
+    },
+    {
+      "age": -1,
+      "alternativeNames": [],
+      "birthday": null,
+      "descriptiveTexts": [
+        {
+          "text": "»Wir benötigen einen Gesetzentwurf, der für die gesamte Koalition konsensfähig ist und nicht nur für Ministerin Paus«, sagte kürzlich die stellvertretende FDP-Fraktionsvorsitzende Gyde Jensen dem Redaktionsnetzwerk Deutschland."
+        }
+      ],
+      "directQuotes": [
+        {
+          "text": "Wir benötigen einen Gesetzentwurf, der für die gesamte Koalition konsensfähig ist und nicht nur für Ministerin Paus"
+        },
+        {
+          "text": "Wenn die Ministerin jedoch nicht rechtzeitig mit uns über Möglichkeiten und Finanzierung spricht und am Ende das Finanzministerium als alleinigen Schuldigen darstellt, funktioniert das nicht."
+        }
+      ],
+      "inIntro": false,
+      "inTitle": false,
+      "indirectQuotes": [],
+      "isMain": false,
+      "name": "Gyde Jensen",
+      "occupations": [
+        {
+          "text": "stellvertretende FDP-Fraktionsvorsitzende"
+        }
+      ],
+      "occurrences": {
+        "firstNameOnly": 0,
+        "fullName": 1,
+        "lastNameOnly": 0,
+        "total": 1
+      },
+      "quotedInIntro": false,
+      "quotedInTitle": false,
+      "sex": "female"
+    },
+    {
+      "age": -1,
+      "alternativeNames": [],
+      "birthday": null,
+      "descriptiveTexts": [
+        {
+          "text": "Was wenig nützt, so lange Finanzminister Christian Lindner dagegen ist."
+        },
+        {
+          "text": "Dabei könnte das Gesetz ein weiteres Problem lösen, verspricht Paus: Den Streit um Lindners geplante Erhöhung des Kinderfreibetrags, von dem vor allem Besserverdiener profitieren."
+        },
+        {
+          "text": "»Bubatz 2023 legal« versprach etwa FDP-Chef Lindner."
+        }
+      ],
+      "directQuotes": [
+        {
+          "text": "Bubatz 2023 legal"
+        }
+      ],
+      "inIntro": false,
+      "inTitle": false,
+      "indirectQuotes": [],
+      "isMain": false,
+      "name": "Christian Lindner",
+      "occupations": [
+        {
+          "text": "Finanzminister"
+        },
+        {
+          "text": "FDP-Chef"
+        }
+      ],
+      "occurrences": {
+        "firstNameOnly": 0,
+        "fullName": 1,
+        "lastNameOnly": 2,
+        "total": 3
+      },
+      "quotedInIntro": false,
+      "quotedInTitle": false,
+      "sex": "male"
+    },
+    {
+      "age": -1,
+      "alternativeNames": [],
+      "birthday": null,
+      "descriptiveTexts": [
+        {
+          "text": "Zu Beginn seiner Amtszeit hatte Justizminister Marco Buschmann (FDP) die »vermutlich größte familienrechtliche Reform der letzten Jahrzehnte« angekündigt."
+        },
+        {
+          "text": "Vor fünf Monaten kündigte Buschmann an, zeitnah Eckpunkte dafür vorzulegen – die allerdings noch immer nicht da sind."
+        },
+        {
+          "text": "Zumindest für die Reform des Familienrechts hat Buschmann nun erste Ideen vorgestellt."
+        },
+        {
+          "text": "Buschmann versprach: »Wir halten Wort.«"
+        },
+        {
+          "text": "Als Paus und Buschmann im Sommer 2022 erste Ideen vorstellten, brach ein kleiner Kulturkampf los."
+        },
+        {
+          "text": "Zu heftiger Kritik führte auch der Plan, dass Jugendliche ab 14 Jahren mit Zustimmung der Eltern ihren Eintrag selbstständig ändern können – wenn es so kommt, wie Buschmann es will."
+        },
+        {
+          "text": "Sein Parteifreund Buschmann wollte »den Dealer arbeitslos« machen."
+        }
+      ],
+      "directQuotes": [
+        {
+          "text": "vermutlich größte familienrechtliche Reform der letzten Jahrzehnte"
+        },
+        {
+          "text": "Wir halten Wort."
+        },
+        {
+          "text": "den Dealer arbeitslos"
+        }
+      ],
+      "inIntro": false,
+      "inTitle": false,
+      "indirectQuotes": [],
+      "isMain": false,
+      "name": "Marco Buschmann",
+      "occupations": [
+        {
+          "text": "Justizminister"
+        }
+      ],
+      "occurrences": {
+        "firstNameOnly": 0,
+        "fullName": 1,
+        "lastNameOnly": 6,
+        "total": 7
+      },
+      "quotedInIntro": false,
+      "quotedInTitle": false,
+      "sex": "male"
+    },
+    {
+      "age": -1,
+      "alternativeNames": [],
+      "birthday": null,
+      "descriptiveTexts": [
+        {
+          "text": "»Die hoch emotionalisierten und zum Teil menschenverachtenden Debatten der letzten Monate haben Spuren im Gesetz hinterlassen«, sagt Jan Plobner, SPD-Abgeordneter und Berichterstatter für das Thema."
+        }
+      ],
+      "directQuotes": [
+        {
+          "text": "Die hoch emotionalisierten und zum Teil menschenverachtenden Debatten der letzten Monate haben Spuren im Gesetz hinterlassen"
+        },
+        {
+          "text": "Das ist bitter. Denn im Grunde verändern wir nur ein Verwaltungsverfahren. Ich wünsche mir für die Zukunft von allen Beteiligten mehr Mut zur Klarheit."
+        }
+      ],
+      "inIntro": false,
+      "inTitle": false,
+      "indirectQuotes": [],
+      "isMain": false,
+      "name": "Jan Plobner",
+      "occupations": [
+        {
+          "text": "SPD-Abgeordneter"
+        },
+        {
+          "text": "Berichterstatter für das Thema"
+        }
+      ],
+      "occurrences": {
+        "firstNameOnly": 0,
+        "fullName": 1,
+        "lastNameOnly": 0,
+        "total": 1
+      },
+      "quotedInIntro": false,
+      "quotedInTitle": false,
+      "sex": "male"
+    },
+    {
+      "age": -1,
+      "alternativeNames": [],
+      "birthday": null,
+      "descriptiveTexts": [
+        {
+          "text": "Verantwortlich für das Gesetz ist ausgerechnet der Minister, den wohl kaum jemand mit Genuss und Kontrollverlust verbindet: Karl Lauterbach von der SPD."
+        },
+        {
+          "text": "Er soll umsetzen, wovon er selbst sich nur zögerlich hat überzeugen lassen."
+        },
+        {
+          "text": "Eine Reihe von Innenpolitikern aus Lauterbachs SPD blockiert die nächsten Schritte."
+        },
+        {
+          "text": "Lauterbach ist sich trotzdem sicher, dass das Gesetz beschlossen wird."
+        },
+        {
+          "text": "Zumindest tut er so."
+        },
+        {
+          "text": "»Wenn man es angefangen hat, muss man es auch durchziehen«, sagt er."
+        },
+        {
+          "text": "Klingt, als wäre auch bei ihm ziemlich die Luft raus."
+        }
+      ],
+      "directQuotes": [
+        {
+          "text": "Wenn man es angefangen hat, muss man es auch durchziehen"
+        }
+      ],
+      "inIntro": false,
+      "inTitle": false,
+      "indirectQuotes": [],
+      "isMain": false,
+      "name": "Karl Lauterbach",
+      "occupations": [
+        {
+          "text": "Minister"
+        }
+      ],
+      "occurrences": {
+        "firstNameOnly": 0,
+        "fullName": 1,
+        "lastNameOnly": 2,
+        "total": 3
+      },
+      "quotedInIntro": false,
+      "quotedInTitle": false,
+      "sex": "male"
+    }
+  ],
+  "subtopics": [
+    "Politik",
+    "Inland",
+    "Cannabis",
+    "Parteipolitik"
+  ]
+}

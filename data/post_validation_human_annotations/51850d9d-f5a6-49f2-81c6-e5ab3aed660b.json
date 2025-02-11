@@ -1,0 +1,117 @@
+{
+  "persons": [
+    {
+      "age": -1,
+      "alternativeNames": [],
+      "birthday": null,
+      "descriptiveTexts": [
+        {
+          "text": "In diesem Podcast informiert Auto-Korrespondentin Margret Hucko über die Strategie von Vorstandschef Ola Källenius."
+        },
+        {
+          "text": "Welche Strategie Källenius eingeschlagen hat, warum vor allem die Signale aus China in Stuttgart für Alarmstimmung sorgen, mit welchen Ideen Mercedes sich künftig noch stärker als Luxusmarke positionieren will und welche Rolle dabei ein Kaschmir-König aus Italien spielt, darüber informiert in diesem Podcast Auto-Korrespondentin Margret Hucko im Gespräch mit Chefredakteur Sven Clausen."
+        }
+      ],
+      "directQuotes": [],
+      "inIntro": true,
+      "inTitle": false,
+      "indirectQuotes": [],
+      "isMain": false,
+      "name": "Margret Hucko",
+      "occupations": [
+        {
+          "text": "Auto-Korrespondentin"
+        }
+      ],
+      "occurrences": {
+        "firstNameOnly": 0,
+        "fullName": 2,
+        "lastNameOnly": 0,
+        "total": 2
+      },
+      "quotedInIntro": false,
+      "quotedInTitle": false,
+      "sex": "female"
+    },
+    {
+      "age": 53,
+      "alternativeNames": [],
+      "birthday": null,
+      "descriptiveTexts": [
+        {
+          "text": "In diesem Podcast informiert Auto-Korrespondentin Margret Hucko über die Strategie von Vorstandschef Ola Källenius."
+        },
+        {
+          "text": "Die Mercedes-Welt wirkt gerade paradox: Der Auto-Hersteller meldet mit einem operativen Gewinn von rund 20 Milliarden Euro einen Rekordwert, trotzdem schreibt Vorstandschef Ola Källenius (53) einen Sparappell an seine Leute."
+        },
+        {
+          "text": "Der Schwede betont gegenüber seinen Investoren ständig und eindringlich, dass ein hoher Börsenwert für ihn das Maß aller Dinge sei."
+        },
+        {
+          "text": "Welche Strategie Källenius eingeschlagen hat, warum vor allem die Signale aus China in Stuttgart für Alarmstimmung sorgen, mit welchen Ideen Mercedes sich künftig noch stärker als Luxusmarke positionieren will und welche Rolle dabei ein Kaschmir-König aus Italien spielt, darüber informiert in diesem Podcast Auto-Korrespondentin Margret Hucko im Gespräch mit Chefredakteur Sven Clausen."
+        }
+      ],
+      "directQuotes": [],
+      "inIntro": true,
+      "inTitle": false,
+      "indirectQuotes": [
+        {
+          "text": "Der Schwede betont gegenüber seinen Investoren ständig und eindringlich, dass ein hoher Börsenwert für ihn das Maß aller Dinge sei."
+        }
+      ],
+      "isMain": false,
+      "name": "Ola Källenius",
+      "occupations": [
+        {
+          "text": "Vorstandschef"
+        }
+      ],
+      "occurrences": {
+        "firstNameOnly": 0,
+        "fullName": 2,
+        "lastNameOnly": 1,
+        "total": 3
+      },
+      "quotedInIntro": false,
+      "quotedInTitle": false,
+      "sex": "male"
+    },
+    {
+      "age": -1,
+      "alternativeNames": [],
+      "birthday": null,
+      "descriptiveTexts": [
+        {
+          "text": "Welche Strategie Källenius eingeschlagen hat, warum vor allem die Signale aus China in Stuttgart für Alarmstimmung sorgen, mit welchen Ideen Mercedes sich künftig noch stärker als Luxusmarke positionieren will und welche Rolle dabei ein Kaschmir-König aus Italien spielt, darüber informiert in diesem Podcast Auto-Korrespondentin Margret Hucko im Gespräch mit Chefredakteur Sven Clausen."
+        }
+      ],
+      "directQuotes": [],
+      "inIntro": false,
+      "inTitle": false,
+      "indirectQuotes": [],
+      "isMain": false,
+      "name": "Sven Clausen",
+      "occupations": [
+        {
+          "text": "Chefredakteur"
+        }
+      ],
+      "occurrences": {
+        "firstNameOnly": 0,
+        "fullName": 1,
+        "lastNameOnly": 0,
+        "total": 1
+      },
+      "quotedInIntro": false,
+      "quotedInTitle": false,
+      "sex": "male"
+    }
+  ],
+  "subtopics": [
+    "Unternehmen",
+    "Wirtschaft",
+    "Mercedes",
+    "Elektroauto",
+    "Strategie"
+  ]
+}

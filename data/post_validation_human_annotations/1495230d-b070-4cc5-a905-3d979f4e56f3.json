@@ -1,0 +1,413 @@
+{
+  "persons": [
+    {
+      "age": -1, 
+      "alternativeNames": [],
+      "birthday": null,
+      "descriptiveTexts": [
+        {
+          "text": "Federführend hatten das Wirtschaftsministerium von Robert Habeck (Grüne) und das Justizministerium von Marco Buschmann (FDP) den langen Entstehungsprozess begleitet."
+        }
+      ],
+      "directQuotes": [],
+      "inIntro": false,
+      "inTitle": false,
+      "indirectQuotes": [],
+      "isMain": false,
+      "name": "Robert Habeck",
+      "occupations": [],
+      "occurences": {
+        "firstNameOnly": 0,
+        "fullName": 1,
+        "lastNameOnly": 0,
+        "total": 1
+      },
+      "quotedInIntro": false,
+      "quotedInTitle": false,
+      "sex": "male"
+    },
+    {
+      "age": -1, 
+      "alternativeNames": [],
+      "birthday": null,
+      "descriptiveTexts": [
+        {
+          "text": "Federführend hatten das Wirtschaftsministerium von Robert Habeck (Grüne) und das Justizministerium von Marco Buschmann (FDP) den langen Entstehungsprozess begleitet."
+        }
+      ],
+      "directQuotes": [],
+      "inIntro": false,
+      "inTitle": false,
+      "indirectQuotes": [],
+      "isMain": false,
+      "name": "Marco Buschmann",
+      "occupations": [],
+      "occurences": {
+        "firstNameOnly": 0,
+        "fullName": 1,
+        "lastNameOnly": 0,
+        "total": 1
+      },
+      "quotedInIntro": false,
+      "quotedInTitle": false,
+      "sex": "male"
+    },
+    {
+      "age": -1, 
+      "alternativeNames": [],
+      "birthday": null,
+      "descriptiveTexts": [
+        {
+          "text": "Öffentlich hatte sich zuletzt indes vor allem Digitalminister Volker Wissing (FDP) zu den Brüsseler Plänen geäußert – mahnend und kritisch."
+        },
+        {
+          "text": "Die Lektüre des finalen Textes hat seine Bedenken offenbar nicht gemildert – eher im Gegenteil."
+        },
+        {
+          "text": "Die Zustimmung der Bundesregierung zum EU-Gesetz über künstliche Intelligenz steht offenbar infrage, vor allem, aber nicht nur aufgrund der Sorgen aus Wissings Digitalministerium."
+        },
+        {
+          "text": "Wissings Ministerium will sich zu Einzelheiten der aktuellen Auseinandersetzung nicht äußern und teilt auf SPIEGEL-Anfrage mit: »Bei der andauernden Bewertung des Texts stehen für das BMDV die Offenheit für Innovationen, ein geringer bürokratischer Aufwand für kleine und mittlere Unternehmen bei einer möglichen Umsetzung und die internationale Anschlussfähigkeit der Regeln im Mittelpunkt. Sobald die regierungsinternen Abstimmungen abgeschlossen sind, können wir mehr sagen.«"
+        }
+      ],
+      "directQuotes": [],
+      "inIntro": false,
+      "inTitle": false,
+      "indirectQuotes": [],
+      "isMain": false,
+      "name": "Volker Wissing",
+      "occupations": [
+        {
+          "text": "Digitalminister"
+        }
+      ],
+      "occurences": {
+        "firstNameOnly": 0,
+        "fullName": 1,
+        "lastNameOnly": 2,
+        "total": 3
+      },
+      "quotedInIntro": false,
+      "quotedInTitle": false,
+      "sex": "male"
+    },
+    {
+      "age": -1, 
+      "alternativeNames": [],
+      "birthday": null,
+      "descriptiveTexts": [
+        {
+          "text": "»Unsere Bewertung ist aber noch nicht abgeschlossen«, sagte der CDU-Abgeordnete Axel Voss dem SPIEGEL."
+          },
+          {
+            "text": "»Wir unterhalten uns nächste Woche darüber.«"
+        }
+      ],
+      "directQuotes": [
+        {
+          "text": "Unsere Bewertung ist aber noch nicht abgeschlossen"
+        },
+        {
+          "text": "Wir unterhalten uns nächste Woche darüber."
+        }
+      ],
+      "inIntro": false,
+      "inTitle": false,
+      "indirectQuotes": [],
+      "isMain": false,
+      "name": "Axel Voss",
+      "occupations": [
+        {
+          "text": "CDU-Abgeordnete"
+        }
+      ],
+      "occurences": {
+        "firstNameOnly": 0,
+        "fullName": 1,
+        "lastNameOnly": 0,
+        "total": 1
+      },
+      "quotedInIntro": false,
+      "quotedInTitle": false,
+      "sex": "male"
+    },
+    {
+      "age": -1, 
+      "alternativeNames": [],
+      "birthday": null,
+      "descriptiveTexts": [
+        {
+          "text": "Nicht nur für die Kommission unter Führung von Ursula von der Leyen wäre es eine peinliche Niederlage, es wäre ein herber Rückschlag für die Ambitionen der EU."
+        }
+      ],
+      "directQuotes": [],
+      "inIntro": false,
+      "inTitle": false,
+      "indirectQuotes": [],
+      "isMain": false,
+      "name": "Ursula von der Leyen",
+      "occupations": [],
+      "occurences": {
+        "firstNameOnly": 0,
+        "fullName": 1,
+        "lastNameOnly": 0,
+        "total": 1
+      },
+      "quotedInIntro": false,
+      "quotedInTitle": false,
+      "sex": "female"
+    },
+    {
+      "age": -1, 
+      "alternativeNames": [],
+      "birthday": null,
+      "descriptiveTexts": [
+        {
+          "text": "»Langsam frage ich mich, was diese Last-Minute-Taktik der FDP soll«, sagt der Grünen-Europaabgeordnete Sergey Lagodinsky."
+        },
+        {
+            "text": "»Es kann nicht sein, dass wir wichtige europäische Fragen jahrelang erfolgreich verhandeln und dann eine deutsche Partei, die auf verschiedenen Ebenen immer dabei war, den Stecker für 500 Millionen Europäer zieht.«"
+          },
+          {
+          "text": "Zeit für Bedenken und Mitgestaltung habe es »reichlich gegeben«, so Lagodinsky."
+        }
+      ],
+      "directQuotes": [
+        {
+            "text": "Langsam frage ich mich, was diese Last-Minute-Taktik der FDP soll."
+          },
+          {
+          "text": "Es kann nicht sein, dass wir wichtige europäische Fragen jahrelang erfolgreich verhandeln und dann eine deutsche Partei, die auf verschiedenen Ebenen immer dabei war, den Stecker für 500 Millionen Europäer zieht."
+        },
+        {
+          "text": "Jetzt ist der falsche Zeitpunkt, um alles zu entgleisen. Das ist nicht innovationsfreundlich, nicht bürgerrechtsfreundlich und nicht europafreundlich."
+        },
+        {
+          "text": "reichlich gegeben"
+        }
+      ],
+      "inIntro": false,
+      "inTitle": false,
+        "indirectQuotes": [
+          {
+            "text": "Zeit für Bedenken und Mitgestaltung habe es »reichlich gegeben«, so Lagodinsky."
+          }
+        ],
+      "isMain": false,
+      "name": "Sergey Lagodinsky.",
+      "occupations": [
+        {
+          "text": "Grünen-Europaabgeordnete"
+        }
+      ],
+      "occurences": {
+        "firstNameOnly": 0,
+        "fullName": 1,
+        "lastNameOnly": 1,
+        "total": 2
+      },
+      "quotedInIntro": false,
+      "quotedInTitle": false,
+      "sex": "male"
+    },
+    {
+      "age": -1, 
+      "alternativeNames": [],
+      "birthday": null,
+      "descriptiveTexts": [
+        {
+          "text": " Der französische Präsident Emmanuel Macron hatte sich schon im Vorfeld unzufrieden über den Stand der KI-Verordnung gezeigt."
+        }
+      ],
+      "directQuotes": [],
+      "inIntro": false,
+      "inTitle": false,
+      "indirectQuotes": [],
+      "isMain": false,
+      "name": "Emmanuel Macron",
+      "occupations": [
+        {
+          "text": "französische Präsident"
+        }
+      ],
+      "occurences": {
+        "firstNameOnly": 0,
+        "fullName": 1,
+        "lastNameOnly": 0,
+        "total": 1
+      },
+      "quotedInIntro": false,
+      "quotedInTitle": false,
+      "sex": "male"
+    },
+    {
+      "age": -1, 
+      "alternativeNames": [],
+      "birthday": null,
+      "descriptiveTexts": [
+        {
+          "text": "Linke Domscheit-Berg ist für Ablehnung "
+        },
+        {
+          "text": "Anke Domscheit-Berg etwa, Digitalexpertin der Linken im Bundestag, sagte dem SPIEGEL: »Der nun vorliegenden Fassung der KI-Verordnung kann die Bundesregierung eigentlich gar nicht zustimmen, da sie statt unsere europäischen Werte zu schützen, einen Frontalangriff auf sie darstellt.«"
+        },
+        {
+          "text": "Gleichzeitig macht Domscheit-Berg auch der Ampelkoalition schwere Vorwürfe."
+        },
+        {
+          "text": "Dennoch sagt Domscheit-Berg, es müsse »bei jedem Gesetz, das mehr Überwachung ermöglicht, bedacht werden, was eine rechtsextreme Partei in Regierungsverantwortung damit anstellen könnte. Ich möchte nicht, dass überall Kameras im öffentlichen Raum hängen, um einen Geflüchteten beim Einkauf im Supermarkt im falschen Landkreis zu identifizieren, oder eine Oma gegen Rechts beim Abkratzen eines Hakenkreuz-Aufklebers oder eine Journalistin, die missliebige Texte schreibt, beim Spaziergang mit dem Hund oder beim Treffen mit einer geschützten Quelle.« "
+        }
+      ],
+      "directQuotes": [
+        {
+          "text": "Der nun vorliegenden Fassung der KI-Verordnung kann die Bundesregierung eigentlich gar nicht zustimmen, da sie statt unsere europäischen Werte zu schützen, einen Frontalangriff auf sie darstellt."
+        },
+        {
+          "text": "den bereits schwer zustimmungsfähigen mündlichen Kompromiss so weitgehend zum Schlechteren verändert, dass er ein untragbarer Anschlag auf die Grundrechte geworden ist"
+        },
+        {
+          "text": "sich gegen die biometrische Überwachung im öffentlichen Raum"
+        },
+        {
+          "text": "Faktisch könnte künftig bei beliebigem Verdacht auf beliebige Straftaten oder Ordnungswidrigkeiten beliebige Personen im öffentlichen Raum ›nachträglich‹ biometrisch identifiziert werden, und nachträglich ist ja vielleicht schon eine Minute, nachdem die Demo an der Kamera vorbeigelaufen ist."
+        },
+        {
+          "text": "bei jedem Gesetz, das mehr Überwachung ermöglicht, bedacht werden, was eine rechtsextreme Partei in Regierungsverantwortung damit anstellen könnte. Ich möchte nicht, dass überall Kameras im öffentlichen Raum hängen, um einen Geflüchteten beim Einkauf im Supermarkt im falschen Landkreis zu identifizieren, oder eine Oma gegen Rechts beim Abkratzen eines Hakenkreuz-Aufklebers oder eine Journalistin, die missliebige Texte schreibt, beim Spaziergang mit dem Hund oder beim Treffen mit einer geschützten Quelle."
+        }
+      ],
+      "inIntro": false,
+      "inTitle": false,
+      "indirectQuotes": [
+        {
+          "text": "Die bis Ende Dezember amtierende spanische Ratspräsidentschaft habe das mit ihrer schriftlichen Ausarbeitung zu verantworten."
+        },
+        {
+          "text": "Sie habe »den bereits schwer zustimmungsfähigen mündlichen Kompromiss so weitgehend zum Schlechteren verändert, dass er ein untragbarer Anschlag auf die Grundrechte geworden ist«."
+        },
+        {
+          "text": "Sie habe ihr Versprechen gebrochen, »sich gegen die biometrische Überwachung im öffentlichen Raum« einzusetzen: »Faktisch könnte künftig bei beliebigem Verdacht auf beliebige Straftaten oder Ordnungswidrigkeiten beliebige Personen im öffentlichen Raum ›nachträglich‹ biometrisch identifiziert werden, und nachträglich ist ja vielleicht schon eine Minute, nachdem die Demo an der Kamera vorbeigelaufen ist.«"
+        },
+        {
+          "text": "Dennoch sagt Domscheit-Berg, es müsse »bei jedem Gesetz, das mehr Überwachung ermöglicht, bedacht werden, was eine rechtsextreme Partei in Regierungsverantwortung damit anstellen könnte. Ich möchte nicht, dass überall Kameras im öffentlichen Raum hängen, um einen Geflüchteten beim Einkauf im Supermarkt im falschen Landkreis zu identifizieren, oder eine Oma gegen Rechts beim Abkratzen eines Hakenkreuz-Aufklebers oder eine Journalistin, die missliebige Texte schreibt, beim Spaziergang mit dem Hund oder beim Treffen mit einer geschützten Quelle.« "
+        }
+      ],
+      "isMain": false,
+      "name": "Anke Domscheit-Berg",
+      "occupations": [
+        {
+          "text": "Linke"
+        }
+      ],
+      "occurences": {
+        "firstNameOnly": 0,
+        "fullName": 1,
+        "lastNameOnly": 3,
+        "total": 4
+      },
+      "quotedInIntro": false,
+      "quotedInTitle": false,
+      "sex": "female"
+    },
+    {
+      "age": -1, 
+      "alternativeNames": [],
+      "birthday": null,
+      "descriptiveTexts": [
+        {
+          "text": "Auch der Präsident des Digitalverbands Bitkom, Ralf Wintergerst, äußert grundsätzliche Kritik: »Viele entscheidende Fragen sind weiterhin ungeklärt und hängen maßgeblich von der jeweiligen Umsetzung in den Mitgliedsländern der EU ab. Und so ist zu erwarten, dass es innerhalb der EU höchst unterschiedliche Regelungen geben wird und keinen digitalen Binnenmarkt für KI.«"
+        },
+        {
+          "text": "Die Bundesregierung solle daher »dem vorliegenden Text nicht voreilig zustimmen«, so Wintergerst."
+        }
+      ],
+      "directQuotes": [
+        {
+          "text": "Viele entscheidende Fragen sind weiterhin ungeklärt und hängen maßgeblich von der jeweiligen Umsetzung in den Mitgliedsländern der EU ab. Und so ist zu erwarten, dass es innerhalb der EU höchst unterschiedliche Regelungen geben wird und keinen digitalen Binnenmarkt für KI."
+        },
+        {
+          "text": "dem vorliegenden Text nicht voreilig zustimmen"
+        },
+        {
+          "text": "Wichtig wäre die Einführung einer verpflichtenden regulierten Selbstregulierung für generative KI statt starren Anforderungen im Rechtstext."
+        }
+      ],
+      "inIntro": false,
+      "inTitle": false,
+      "indirectQuotes": [
+        {
+          "text": "Die Bundesregierung solle daher »dem vorliegenden Text nicht voreilig zustimmen«, so Wintergerst."
+        }
+      ],
+      "isMain": false,
+      "name": "Ralf Wintergerst",
+      "occupations": [
+        {
+          "text": "Präsident des Digitalverbands Bitkom"
+        }
+      ],
+      "occurences": {
+        "firstNameOnly": 0,
+        "fullName": 1,
+        "lastNameOnly": 1,
+        "total": 2
+      },
+      "quotedInIntro": false,
+      "quotedInTitle": false,
+      "sex": "male"
+    },
+    {
+      "age": -1, 
+      "alternativeNames": [],
+      "birthday": null,
+      "descriptiveTexts": [
+        {
+          "text": "Iris Plöger, Mitglied der Geschäftsführung im Bundesverband der Deutschen Industrie (BDI), gesteht der Bundesregierung dazu, »einige Verbesserungen am Gesetz« erzielt zu haben."
+        },
+        {
+          "text": "Plöger sieht daher die Wettbewerbsfähigkeit europäischer KI-Entwickler gefährdet."
+        }
+      ],
+      "directQuotes": [
+        {
+          "text": "einige Verbesserungen am Gesetz"
+        },
+        {
+          "text": "den Anschluss zu verlieren"
+        },
+        {
+          "text": "Vielzahl unbestimmter Rechtsbegriffe"
+        }
+      ],
+      "inIntro": false,
+      "inTitle": false,
+      "indirectQuotes": [
+        {
+          "text": "Iris Plöger, Mitglied der Geschäftsführung im Bundesverband der Deutschen Industrie (BDI), gesteht der Bundesregierung dazu, »einige Verbesserungen am Gesetz« erzielt zu haben."
+        },
+        {
+          "text": "Dennoch drohe Europa mit dem jetzigen Kompromiss »den Anschluss zu verlieren«, nicht zuletzt aufgrund einer »Vielzahl unbestimmter Rechtsbegriffe« im Text."
+        }
+      ],
+      "isMain": false,
+      "name": "Iris Plöger",
+      "occupations": [
+        {
+          "text": "Mitglied der Geschäftsführung im Bundesverband der Deutschen Industrie (BDI)"
+        }
+      ],
+      "occurences": {
+        "firstNameOnly": 0,
+        "fullName": 1,
+        "lastNameOnly": 1,
+        "total": 2
+      },
+      "quotedInIntro": false,
+      "quotedInTitle": false,
+      "sex": "female"
+    }
+  ],
+  "subtopics": [
+    "KI", "Gesetzgebung", "Innovation", "Bundesregierung",
+      "EU"
+  ]
+}

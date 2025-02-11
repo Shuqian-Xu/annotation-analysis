@@ -1,0 +1,602 @@
+{
+  "persons": [
+    {
+      "age": 45, 
+      "alternativeNames": [],
+      "birthday": null,
+      "descriptiveTexts": [
+        {
+          "text": "Investoren vertrauten dem schillernden E-Bike-Start-up der Carlier-Brüder viele Millionen Euro an."
+        },
+        {
+            "text": "Die Suche nach den Gründen führt zu ein paar unangenehmen Wahrheiten – auch über die beiden Gründer."
+          },
+          {
+          "text": "Ein paar Jahre bevor Taco (45) und Ties Carlier (44) den Fahrradhersteller Vanmoof aus der Taufe hoben, hatten die Niederländer Dutchband gegründet, ein Start-up für Veranstaltungsbedarf."
+        },
+        {
+          "text": "Als eines ihrer Produkte dafür hatten die Brüder Automaten für Biermarken ersonnen."
+        },
+        {
+          "text": "Doch als der große Tag kam, an dem die Gründer das Produkt auf einem Festival präsentieren sollten, gab es ein Problem: Die fünf Prototypen »funktionierten nicht ganz so gut«, wie Taco Carlier vor über zwei Jahren in einem Podcast erzählte."
+        },
+        {
+          "text": "Was machten die pfiffigen Brüder?"
+        },
+        {
+          "text": "Sie versteckten sich vier Tage lang in den großen Kästen und hielten sie rund um die Uhr mit eigener Hände Arbeit am Laufen."
+        },
+        {
+          "text": "Sie gaben die Biertoken einfach selbst den ahnungslosen Kunden aus."
+        },
+        {
+          "text": "Keiner bemerkte den Trick, die Illusion einer Automatik »hat perfekt funktioniert«, erinnerte sich Taco Carlier."
+        },
+        {
+          "text": "Man kann aus dieser Erzählung kaum einen anderen Schluss ziehen, als dass die beiden Gründer eine gewisse Hemdsärmeligkeit und Naivität auszeichnet – und zugleich die Bereitschaft, auch mit einer Portion Gerissenheit ihre unternehmerische Vision ins Licht des Machbaren zu rücken."
+        },
+        {
+          "text": "Mit einem visionären Narrativ gelang es ihnen auch, bei Vanmoof die Investoren einzufangen: Sie wollten die Fahrradwelt revolutionieren, nicht mehr und nicht weniger."
+        },
+        {
+          "text": "Inzwischen ist klar: Taco Carlier und sein Bruder Ties sind mit ihrem Ansatz, das Fahrrad von Grund auf neu zu denken, nach gut 14 Jahren gescheitert."
+        },
+        {
+          "text": "Begibt man sich auf die Suche nach Gründen des Niedergangs, etwa bei frühen Kritikern und Insidern, die ihre Namen meist lieber nicht in der Öffentlichkeit sehen wollen, dann finden sich ein paar unbequeme Wahrheiten: Investoren hätten den Absturz wohl vorhersehen können – angesichts von Selbstüberschätzung und handwerklicher Fehler der beiden Gründer, der Carlier-Brüder."
+        },
+        {
+          "text": "Dass Taco Carlier wie sein Vater ein Unternehmen gründen wollte, wusste er schon mit Beginn seines Industriedesignstudiums an der Technischen Universität Delft."
+        },
+        {
+          "text": "2001 entstand besagter Veranstaltungsdienstleister Dutchband, den die Brüder zusammen gründeten."
+        },
+        {
+          "text": "»Das haben wir zehn Jahre lang gemacht«, erzählte Taco."
+        },
+        {
+          "text": "Danach setzten sie einen externen CEO ein und widmeten sich fortan ihrem im Mai 2009 gegründeten zweiten Unternehmen: Vanmoof."
+        },
+        {
+          "text": "Taco Carlier gilt als der charismatische ältere Bruder, der die Vision hatte, zusammen mit seinem jüngeren Bruder Ties das beste Citybike der Welt zu entwickeln."
+        },
+        {
+          "text": "Sie wollten damit das Pendeln mit dem E-Bike aus ihrer Heimatstadt Amsterdam in die Welt tragen."
+        },
+        {
+          "text": "Zusammen wollten sie den Markt aufmischen und der »Tesla« der E-Bike-Branche werden."
+        },
+        {
+          "text": "»Wir haben eine unbegrenzte Nachfrage gesehen«, sagte Taco Carlier einmal in einem Interview 2021."
+        },
+        {
+          "text": "Rund 190.000 Räder haben die Niederländer seit ihrer Gründung 2009 nach eigenen Angaben weltweit auf die Straßen gebracht, die meisten davon in Deutschland."
+        },
+        {
+          "text": "Investoren kauften den Brüdern die Geschichte des grenzenlosen Erfolgs ab: 2017 und 2019 sammelten die Carliers insgesamt fünf Millionen Dollar über Crowdfunding ein, nachdem sie Vanmoof anfangs aus den Umsätzen ihrer ersten Unternehmensgründung finanziert hatten."
+        },
+        {
+          "text": "2019 knackten sie sogar den niederländischen Crowdfunding-Rekord mit 2,5 Millionen Dollar in zwölf Stunden."
+        },
+        {
+          "text": "Lange sah es so aus, als ob die Brüder liefern würden."
+        },
+        {
+          "text": "Zeitgleich bereitete Vanmoof noch den Launch neuer Modelle vor, wie Taco Carlier später erzählte."
+        },
+        {
+          "text": "»Es war ein wirklich hartes Jahr«, sagte er über 2020."
+        },
+        {
+            "text": "»Erst war es die 'Production Hell', wie Elon Musk sagt, dann Betriebsprobleme, also wie bekommen wir die Räder von der Produktion zum Kunden, und dann Customer-Support-Probleme.«"
+          },
+        {
+          "text": "Fragt man frühe Kritiker und Branchenkenner, lassen sich fünf Problemfelder destillieren, die zum Niedergang beitrugen:die Strategie ganz überwiegend selbst entwickelter Teile, die mangelhafte Auswahl der zuliefernden Partnerunternehmen, zwei von sich selbst überzeugte Gründer ohne eigenes, echtes Fahrrad-Knowhow,schnelles Wachstum um nahezu jeden Preis und eine miserable Kundenbetreuung nach dem Kauf."
+        },
+        {
+            "text": "Die Ursache vieler Übel lag in der Strategie der Gründer, auf proprietäre Teile zu setzen, also im eigenen Unternehmen entwickelte Teile anstatt Standardkomponenten von Drittanbietern, wie die Experten Bastian Dietz und Dirk Zedler manager magazin bereits im Frühjahr berichteten."
+          },
+          {
+            "text": "Gründern und Partnern fehlt Fahrrad-Knowhow."
+          },
+          {
+            "text": "Als problematisch sieht die Expertin, dass es auch Taco und Ties Carlier, beide studierte Industriedesigner, selbst an Fahrrad-Knowhow fehlte."
+          },
+        {
+          "text": "In ihren früheren Unternehmensgründungen hatten die Brüder besagten Biermarkenautomaten und digital vernetzte Armbänder für die Eventindustrie entwickelt."
+        },
+        {
+          "text": "Taco gründete ohne den Bruder zudem die Firma Shifter, die Software für die Mitarbeiterplanung von Unternehmen anbietet."
+        },
+        {
+          "text": "Vanmoof sahen die Brüder wohl als ein weiteres Projekt, bei dem sie Software, Hardware und Elektronik zusammenführten und in ein integriertes Produkt umsetzten."
+        },
+        {
+          "text": "Mit der Fahrradtechnik betraten sie Neuland."
+        },
+        {
+          "text": "Die Expertin kritisiert, die Brüder seien – anders als etwa Bosch bei seinem Einstieg ins Fahrradgeschäft – nicht bescheiden genug gewesen, sich Fahrradexperten ins Haus zu holen und von ihnen zu lernen."
+        },
+        {
+          "text": "Auch Expertise aufzubauen, also Erfahrungen mit den Rädern zu sammeln und weiterzugeben, gestaltete sich für die Partner offenbar schwierig."
+        },
+        {
+          "text": "Die Niederländer hätten häufig ihre Lieferanten gewechselt angesichts des Preiskampfs, den die Taiwaner eingegangen sein, um konkurrenzfähig zu bleiben."
+        },
+        {
+          "text": "In anderen Belangen sollen die Gründer das eingesammelte Geld dagegen »großzügig« ausgegeben und vor allem in schnelles Wachstum investiert haben: mehr Mitarbeiter, mehr Filialen, mehr Fertigungskapazitäten, begleitet von beträchtlichen Ausgaben für Marketing."
+        },
+        {
+          "text": "Für ihre Flagshipstores leisteten sich die Vanmoof-Gründer – ganz nach ihren Vorbildern Tesla und Apple – Ladenflächen in exquisiten Lagen der Stadt: im Fall von Hamburg gerade einmal einen halben Kilometer vom Rathausplatz entfernt."
+        },
+        {
+          "text": "Warum die Brüder so sehr auf schnelles Wachstum drängten?"
+        },
+        {
+          "text": "Die Nachfrage war da und Geld war günstig, antwortete Taco Carlier einmal."
+        },
+        {
+          "text": "Anfang des Jahres gelang es den Brüdern zwar, noch einmal frisches Kapital von ihren Ankerinvestoren zu erhalten."
+        },
+        {
+          "text": "In den Monaten davor war ihnen das Geld ausgegangen, um Rechnungen zu bezahlen."
+        },
+        {
+          "text": "Mit dem Geld unternahmen die Carliers im Frühjahr einen letzten Rettungsversuch: Sie erhöhten die Preise für die bestehenden Räder der Modelle S5 und A5, brachten mit dem S4 und X4 erschwinglichere Räder auf den Markt, schlossen weltweit Filialen und kündigten wegen der Serviceprobleme an, mehr Partnerschaften mit Werkstätten einzugehen."
+        },
+        {
+          "text": "Bis zum bitteren Ende versuchte Taco Carlier, den Glauben an Vanmoofs Erfolgsgeschichte am Leben zu erhalten."
+        },
+        {
+          "text": "Noch Anfang Juni – also rund vier Wochen vor der Insolvenz – beschwor Taco Carlier auf einem Branchentreffen in Amsterdam das Alleinstellungsmerkmal des Fahrradherstellers, die besagte Strategie der selbst entwickelten Teile: »Wichtig ist, wo die Komponenten hergestellt werden. Nimmst du sie von der Stange oder designst und entwickelst inhouse? Das ist für mich die große Frage: Was wird sich in den nächsten fünf bis zehn Jahren durchsetzen?«"
+        },
+        {
+          "text": "Im Hintergrund muss sich bereits das Scheitern des Rettungsversuchs abgezeichnet haben, doch er hielt die Illusion aufrecht."
+        },
+        {
+            "text": "»Uns hilft es wirklich, dass wir eine Montagelinie in Taiwan aufgebaut haben.«"
+          },
+          {
+          "text": "Für die beiden Carlier-Brüder scheint der Traum, die Fahrradindustrie zu revolutionieren, vorerst ausgeträumt."
+        },
+        {
+          "text": "In einer Art Abschiedsmail wendeten sich die Gründer nach der Pleite an die Vanmoofer: Vergeblich hätten sie versucht, die Zukunft des Unternehmens zu sichern."
+        },
+        {
+          "text": "Es täte ihnen »sehr leid«, trotz aller Bemühungen nun den Konkurs mitteilen zu müssen."
+        },
+        {
+            "text": "»Wir haben Vanmoof vor 14 Jahren mit einer verrückten Idee gegründet, um die Welt zu verändern. Der einzige Grund, warum wir überhaupt etwas bewirken konnten, seid ihr: Die Hunderte von engagierten und loyalen Menschen, die uns bei unserer Mission, Städte zum Besseren zu verändern, geholfen haben. Wir sind jedem Einzelnen von euch dankbar und bedauern, dass wir diese Mission nicht gemeinsam zu Ende führen können.«"
+          },
+          {
+          "text": "Aus Ihren Sätzen ist eine gewisse Niedergeschlagenheit über ihr Scheitern zu lesen."
+        },
+        {
+          "text": "»Wir sind traurig«, schreiben die Brüder weiter, »aber vor allem sind wir sehr stolz auf das, was wir gemeinsam erreicht haben. Für uns war es die Ehre unseres Lebens.«"
+        }
+      ],
+      "directQuotes": [
+        {
+          "text": "funktionierten nicht ganz so gut"
+        },
+        {
+          "text": "hat perfekt funktioniert"
+        },
+        {
+          "text": "Das haben wir zehn Jahre lang gemacht"
+        },
+        {
+          "text": "Wir haben eine unbegrenzte Nachfrage gesehen"
+        },
+        {
+          "text": "»Es war ein wirklich hartes Jahr«, sagte er über 2020."
+        },
+        {
+          "text": "Erst war es die 'Production Hell', wie Elon Musk sagt, dann Betriebsprobleme, also wie bekommen wir die Räder von der Produktion zum Kunden, und dann Customer-Support-Probleme."
+        },
+        {
+          "text": "Wichtig ist, wo die Komponenten hergestellt werden. Nimmst du sie von der Stange oder designst und entwickelst inhouse? Das ist für mich die große Frage: Was wird sich in den nächsten fünf bis zehn Jahren durchsetzen?"
+        },
+        {
+          "text": "Uns hilft es wirklich, dass wir eine Montagelinie in Taiwan aufgebaut haben."
+        },
+        {
+          "text": "sehr leid"
+        },
+        {
+          "text": "Wir haben Vanmoof vor 14 Jahren mit einer verrückten Idee gegründet, um die Welt zu verändern. Der einzige Grund, warum wir überhaupt etwas bewirken konnten, seid ihr: Die Hunderte von engagierten und loyalen Menschen, die uns bei unserer Mission, Städte zum Besseren zu verändern, geholfen haben. Wir sind jedem Einzelnen von euch dankbar und bedauern, dass wir diese Mission nicht gemeinsam zu Ende führen können."
+        },
+        {
+          "text": "Wir sind traurig"
+        },
+        {
+          "text": "aber vor allem sind wir sehr stolz auf das, was wir gemeinsam erreicht haben. Für uns war es die Ehre unseres Lebens."
+        }
+      ],
+      "inIntro": true,
+      "inTitle": false,
+      "indirectQuotes": [
+        {
+          "text": "Keiner bemerkte den Trick, die Illusion einer Automatik »hat perfekt funktioniert«, erinnerte sich Taco Carlier."
+        },
+        {
+          "text": "Doch als der große Tag kam, an dem die Gründer das Produkt auf einem Festival präsentieren sollten, gab es ein Problem: Die fünf Prototypen »funktionierten nicht ganz so gut«, wie Taco Carlier vor über zwei Jahren in einem Podcast erzählte."
+        },
+        
+        {
+          "text": "Die Nachfrage war da und Geld war günstig, antwortete Taco Carlier einmal."
+        },
+        {
+          "text": "In einer Art Abschiedsmail wendeten sich die Gründer nach der Pleite an die Vanmoofer: Vergeblich hätten sie versucht, die Zukunft des Unternehmens zu sichern."
+        },
+        {
+          "text": "Es täte ihnen »sehr leid«, trotz aller Bemühungen nun den Konkurs mitteilen zu müssen."
+        }
+      ],
+      "isMain": true,
+      "name": "Taco Carlier",
+      "occupations": [
+        {
+          "text": "Gründer"
+        },
+        {
+          "text": "Partner"
+        },
+          {
+            "text": "Industriedesigner"
+          }
+      ],
+      "occurences": {
+        "firstNameOnly": 4, 
+        "fullName": 10, 
+        "lastNameOnly": 5,
+        "total": 19 
+      },
+      "quotedInIntro": false,
+      "quotedInTitle": false,
+      "sex": "male"
+    },
+    {
+      "age": 44, 
+      "alternativeNames": [],
+      "birthday": null,
+      "descriptiveTexts": [
+        {
+          "text": "Investoren vertrauten dem schillernden E-Bike-Start-up der Carlier-Brüder viele Millionen Euro an."
+        },
+        {
+            "text": "Die Suche nach den Gründen führt zu ein paar unangenehmen Wahrheiten – auch über die beiden Gründer."
+          },
+          {
+          "text": "Ein paar Jahre bevor Taco (45) und Ties Carlier (44) den Fahrradhersteller Vanmoof aus der Taufe hoben, hatten die Niederländer Dutchband gegründet, ein Start-up für Veranstaltungsbedarf."
+        },
+        {
+          "text": "Als eines ihrer Produkte dafür hatten die Brüder Automaten für Biermarken ersonnen."
+        },
+        {
+          "text": "Doch als der große Tag kam, an dem die Gründer das Produkt auf einem Festival präsentieren sollten, gab es ein Problem: Die fünf Prototypen »funktionierten nicht ganz so gut«, wie Taco Carlier vor über zwei Jahren in einem Podcast erzählte."
+        },
+        {
+          "text": "Was machten die pfiffigen Brüder?"
+        },
+        {
+            "text": "Sie versteckten sich vier Tage lang in den großen Kästen und hielten sie rund um die Uhr mit eigener Hände Arbeit am Laufen."
+        },
+        {
+          "text": "Sie gaben die Biertoken einfach selbst den ahnungslosen Kunden aus."
+        },
+        {
+            "text": "Man kann aus dieser Erzählung kaum einen anderen Schluss ziehen, als dass die beiden Gründer eine gewisse Hemdsärmeligkeit und Naivität auszeichnet – und zugleich die Bereitschaft, auch mit einer Portion Gerissenheit ihre unternehmerische Vision ins Licht des Machbaren zu rücken."
+          },
+          {
+            "text": "Mit einem visionären Narrativ gelang es ihnen auch, bei Vanmoof die Investoren einzufangen: Sie wollten die Fahrradwelt revolutionieren, nicht mehr und nicht weniger."
+          },
+          {
+            "text": "Inzwischen ist klar: Taco Carlier und sein Bruder Ties sind mit ihrem Ansatz, das Fahrrad von Grund auf neu zu denken, nach gut 14 Jahren gescheitert."
+          },
+          {
+            "text": "Investoren hätten den Absturz wohl vorhersehen können – angesichts von Selbstüberschätzung und handwerklicher Fehler der beiden Gründer, der Carlier-Brüder."
+          },
+          {
+          "text": "2001 entstand besagter Veranstaltungsdienstleister Dutchband, den die Brüder zusammen gründeten."
+        },
+        {
+          "text": "Danach setzten sie einen externen CEO ein und widmeten sich fortan ihrem im Mai 2009 gegründeten zweiten Unternehmen: Vanmoof."
+        },
+        {
+          "text": "Taco Carlier gilt als der charismatische ältere Bruder, der die Vision hatte, zusammen mit seinem jüngeren Bruder Ties das beste Citybike der Welt zu entwickeln."
+        },
+        {
+          "text": "Sie wollten damit das Pendeln mit dem E-Bike aus ihrer Heimatstadt Amsterdam in die Welt tragen."
+        },
+        {
+          "text": "Ties zog dafür sogar nach Taiwan, ein Zentrum der weltweiten Fahrradindustrie, um die Lieferkette zu managen."
+        },
+        {
+          "text": "Zusammen wollten sie den Markt aufmischen und der »Tesla« der E-Bike-Branche werden."
+        },
+        {
+          "text": "Rund 190.000 Räder haben die Niederländer seit ihrer Gründung 2009 nach eigenen Angaben weltweit auf die Straßen gebracht, die meisten davon in Deutschland."
+        },
+        {
+          "text": "Investoren kauften den Brüdern die Geschichte des grenzenlosen Erfolgs ab: 2017 und 2019 sammelten die Carliers insgesamt fünf Millionen Dollar über Crowdfunding ein, nachdem sie Vanmoof anfangs aus den Umsätzen ihrer ersten Unternehmensgründung finanziert hatten."
+        },
+        {
+          "text": "2019 knackten sie sogar den niederländischen Crowdfunding-Rekord mit 2,5 Millionen Dollar in zwölf Stunden."
+        },
+        {
+          "text": "Lange sah es so aus, als ob die Brüder liefern würden."
+        },
+        {
+            "text": "»Erst war es die 'Production Hell', wie Elon Musk sagt, dann Betriebsprobleme, also wie bekommen wir die Räder von der Produktion zum Kunden, und dann Customer-Support-Probleme.«"
+          },
+          {
+            "text": "Die Ursache vieler Übel lag in der Strategie der Gründer, auf proprietäre Teile zu setzen, also im eigenen Unternehmen entwickelte Teile anstatt Standardkomponenten von Drittanbietern, wie die Experten Bastian Dietz und Dirk Zedler manager magazin bereits im Frühjahr berichteten."
+          },
+          {
+            "text": "Gründern und Partnern fehlt Fahrrad-Knowhow."
+          },
+          {
+            "text": "Als problematisch sieht die Expertin, dass es auch Taco und Ties Carlier, beide studierte Industriedesigner, selbst an Fahrrad-Knowhow fehlte."
+          },
+        {
+          "text": "Fragt man frühe Kritiker und Branchenkenner, lassen sich fünf Problemfelder destillieren, die zum Niedergang beitrugen:die Strategie ganz überwiegend selbst entwickelter Teile,die mangelhafte Auswahl der zuliefernden Partnerunternehmen, zwei von sich selbst überzeugte Gründer ohne eigenes, echtes Fahrrad-Knowhow,schnelles Wachstum um nahezu jeden Preis und eine miserable Kundenbetreuung nach dem Kauf."
+        },
+        {
+          "text": "In ihren früheren Unternehmensgründungen hatten die Brüder besagten Biermarkenautomaten und digital vernetzte Armbänder für die Eventindustrie entwickelt."
+        },
+        {
+          "text": "Taco gründete ohne den Bruder zudem die Firma Shifter, die Software für die Mitarbeiterplanung von Unternehmen anbietet."
+        },
+        {
+          "text": "Vanmoof sahen die Brüder wohl als ein weiteres Projekt, bei dem sie Software, Hardware und Elektronik zusammenführten und in ein integriertes Produkt umsetzten."
+        },
+        {
+          "text": "Mit der Fahrradtechnik betraten sie Neuland."
+        },
+        {
+          "text": "Die Expertin kritisiert, die Brüder seien – anders als etwa Bosch bei seinem Einstieg ins Fahrradgeschäft – nicht bescheiden genug gewesen, sich Fahrradexperten ins Haus zu holen und von ihnen zu lernen."
+        },
+        {
+          "text": "Auch Expertise aufzubauen, also Erfahrungen mit den Rädern zu sammeln und weiterzugeben, gestaltete sich für die Partner offenbar schwierig."
+        },
+        {
+          "text": "Die Niederländer hätten häufig ihre Lieferanten gewechselt angesichts des Preiskampfs, den die Taiwaner eingegangen sein, um konkurrenzfähig zu bleiben."
+        },
+        {
+          "text": "In anderen Belangen sollen die Gründer das eingesammelte Geld dagegen »großzügig« ausgegeben und vor allem in schnelles Wachstum investiert haben: mehr Mitarbeiter, mehr Filialen, mehr Fertigungskapazitäten, begleitet von beträchtlichen Ausgaben für Marketing."
+        },
+        {
+          "text": "Für ihre Flagshipstores leisteten sich die Vanmoof-Gründer – ganz nach ihren Vorbildern Tesla und Apple – Ladenflächen in exquisiten Lagen der Stadt: im Fall von Hamburg gerade einmal einen halben Kilometer vom Rathausplatz entfernt."
+        },
+        {
+          "text": "Warum die Brüder so sehr auf schnelles Wachstum drängten?"
+        },
+        {
+          "text": "Anfang des Jahres gelang es den Brüdern zwar, noch einmal frisches Kapital von ihren Ankerinvestoren zu erhalten."
+        },
+        {
+          "text": "In den Monaten davor war ihnen das Geld ausgegangen, um Rechnungen zu bezahlen."
+        },
+        {
+          "text": "Mit dem Geld unternahmen die Carliers im Frühjahr einen letzten Rettungsversuch: Sie erhöhten die Preise für die bestehenden Räder der Modelle S5 und A5, brachten mit dem S4 und X4 erschwinglichere Räder auf den Markt, schlossen weltweit Filialen und kündigten wegen der Serviceprobleme an, mehr Partnerschaften mit Werkstätten einzugehen."
+        },
+        {
+            "text": "»Uns hilft es wirklich, dass wir eine Montagelinie in Taiwan aufgebaut haben.«"
+          },
+          {
+          "text": "Für die beiden Carlier-Brüder scheint der Traum, die Fahrradindustrie zu revolutionieren, vorerst ausgeträumt."
+        },
+        {
+          "text": "In einer Art Abschiedsmail wendeten sich die Gründer nach der Pleite an die Vanmoofer: Vergeblich hätten sie versucht, die Zukunft des Unternehmens zu sichern."
+        },
+        {
+          "text": "Es täte ihnen »sehr leid«, trotz aller Bemühungen nun den Konkurs mitteilen zu müssen."
+        },
+        {
+            "text": "»Wir haben Vanmoof vor 14 Jahren mit einer verrückten Idee gegründet, um die Welt zu verändern. Der einzige Grund, warum wir überhaupt etwas bewirken konnten, seid ihr: Die Hunderte von engagierten und loyalen Menschen, die uns bei unserer Mission, Städte zum Besseren zu verändern, geholfen haben. Wir sind jedem Einzelnen von euch dankbar und bedauern, dass wir diese Mission nicht gemeinsam zu Ende führen können.«"
+          },
+          {
+          "text": "Aus Ihren Sätzen ist eine gewisse Niedergeschlagenheit über ihr Scheitern zu lesen."
+        },
+        {
+          "text": "»Wir sind traurig«, schreiben die Brüder weiter, »aber vor allem sind wir sehr stolz auf das, was wir gemeinsam erreicht haben. Für uns war es die Ehre unseres Lebens.«"
+        }
+      ],
+      "directQuotes": [
+        {
+          "text": "sehr leid"
+        },
+        {
+          "text": "Wir haben Vanmoof vor 14 Jahren mit einer verrückten Idee gegründet, um die Welt zu verändern. Der einzige Grund, warum wir überhaupt etwas bewirken konnten, seid ihr: Die Hunderte von engagierten und loyalen Menschen, die uns bei unserer Mission, Städte zum Besseren zu verändern, geholfen haben. Wir sind jedem Einzelnen von euch dankbar und bedauern, dass wir diese Mission nicht gemeinsam zu Ende führen können."
+        },
+        {
+          "text": "Wir sind traurig"
+        },
+        {
+          "text": "aber vor allem sind wir sehr stolz auf das, was wir gemeinsam erreicht haben. Für uns war es die Ehre unseres Lebens."
+        }
+      ],
+      "inIntro": true,
+      "inTitle": false,
+      "indirectQuotes": [
+        {
+          "text": "In einer Art Abschiedsmail wendeten sich die Gründer nach der Pleite an die Vanmoofer: Vergeblich hätten sie versucht, die Zukunft des Unternehmens zu sichern."
+        },
+        {
+          "text": "Es täte ihnen »sehr leid«, trotz aller Bemühungen nun den Konkurs mitteilen zu müssen."
+        }
+      ],
+      "isMain": true,
+      "name": "Ties Carlier",
+      "occupations": [
+        {
+          "text": "Gründer"
+        },
+        {
+          "text": "Partner"
+        },
+          {
+            "text": "Industriedesigner"
+          }
+      ],
+      "occurences": {
+        "firstNameOnly": 3,
+        "fullName": 2,
+        "lastNameOnly": 5,
+        "total": 10
+      },
+      "quotedInIntro": false,
+      "quotedInTitle": false,
+      "sex": "male"
+    },
+    {
+      "age": -1, 
+      "alternativeNames": [],
+      "birthday": null,
+      "descriptiveTexts": [
+        {
+          "text": "Erst war es die 'Production Hell', wie Elon Musk sagt, dann Betriebsprobleme, also wie bekommen wir die Räder von der Produktion zum Kunden, und dann Customer-Support-Probleme."
+        },
+        {
+          "text": "Die Fangemeinde, die »Vanmoofer«, rufen derweil mit einem Augenzwinkern Elon Musk zur Rettung des Unternehmens auf."
+        },
+        {
+          "text": "Doch der Techmilliardär dürfte gerade andere Prioritäten haben, etwa aus X, alias Twitter, ein profitables Geschäft zu machen."
+        }
+      ],
+      "directQuotes": [
+        {
+          "text": "Production Hell"
+        }
+      ],
+      "inIntro": false,
+      "inTitle": false,
+      "indirectQuotes": [],
+      "isMain": false,
+      "name": "Elon Musk",
+      "occupations": [
+        {
+          "text": "Techmilliardär"
+        }
+      ],
+      "occurences": {
+        "firstNameOnly": 0,
+        "fullName": 2,
+        "lastNameOnly": 0,
+        "total": 2
+      },
+      "quotedInIntro": false,
+      "quotedInTitle": false,
+      "sex": "male"
+    },
+    {
+        "age": -1,
+        "alternativeNames": [],
+        "birthday": null,
+        "descriptiveTexts": [
+          {
+            "text": "Die Ursache vieler Übel lag in der Strategie der Gründer, auf proprietäre Teile zu setzen, also im eigenen Unternehmen entwickelte Teile anstatt Standardkomponenten von Drittanbietern, wie die Experten Bastian Dietz und Dirk Zedler manager magazin bereits im Frühjahr berichteten."
+          }
+        ],
+        "directQuotes": [],
+        "inIntro": false,
+        "inTitle": false,
+        "indirectQuotes": [
+          {
+            "text": "Die Ursache vieler Übel lag in der Strategie der Gründer, auf proprietäre Teile zu setzen, also im eigenen Unternehmen entwickelte Teile anstatt Standardkomponenten von Drittanbietern."
+          }
+        ],
+        "isMain": false,
+        "name": "Bastian Dietz",
+        "occupations": [
+          {
+            "text": "Experten"
+          }
+        ],
+        "occurrences": {
+          "firstNameOnly": 0,
+          "fullName": 1,
+          "lastNameOnly": 0,
+          "total": 1
+        },
+        "quotedInIntro": false,
+        "quotedInTitle": false,
+        "sex": "male"
+      },
+      {
+        "age": -1,
+        "alternativeNames": [],
+        "birthday": null,
+        "descriptiveTexts": [
+          {
+            "text": "Die Ursache vieler Übel lag in der Strategie der Gründer, auf proprietäre Teile zu setzen, also im eigenen Unternehmen entwickelte Teile anstatt Standardkomponenten von Drittanbietern, wie die Experten Bastian Dietz und Dirk Zedler manager magazin bereits im Frühjahr berichteten."
+          }
+        ],
+        "directQuotes": [],
+        "inIntro": false,
+        "inTitle": false,
+        "indirectQuotes": [
+          {
+            "text": "Die Ursache vieler Übel lag in der Strategie der Gründer, auf proprietäre Teile zu setzen, also im eigenen Unternehmen entwickelte Teile anstatt Standardkomponenten von Drittanbietern."
+          }
+        ],
+        "isMain": false,
+        "name": "Dirk Zedler",
+        "occupations": [
+          {
+            "text": "Experten"
+          }
+        ],
+        "occurrences": {
+          "firstNameOnly": 0,
+          "fullName": 1,
+          "lastNameOnly": 0,
+          "total": 1
+        },
+        "quotedInIntro": false,
+        "quotedInTitle": false,
+        "sex": "male"
+      },
+    {
+      "age": -1, 
+      "alternativeNames": [],
+      "birthday": null,
+      "descriptiveTexts": [
+        {
+          "text": "Vanmoofs ehemaliger Entwicklungschef Job Stehmann hat sich im Nachhinein auf Linkedin seine eigenen Gedanken zum teuer erkauften Wachstum gemacht: »Vielleicht war alles zu schnell zu viel, aber man braucht mutige Kreative, Designer und Ingenieure, die keine Angst haben, die immer wieder versuchen und scheitern und Lösungen für das Unmögliche entwickeln. Auch wenn sie wissen, dass es vielleicht zu verrückt ist, in fünf Jahren fünf völlig neue Produkte auf den Markt zu bringen, damit sie reifen können. [...] Wir alle müssen daraus lernen. ... Kleiner neu anfangen und zirkulär neu anfangen«, schreibt Stehmann der jahrelang zum Spitzenteam bei Vanmoof zählte, zuletzt als Chef für Produktdesign und Innovation."
+        }
+      ],
+      "directQuotes": [
+      	{
+            "text": "Vielleicht war alles zu schnell zu viel, aber man braucht mutige Kreative, Designer und Ingenieure, die keine Angst haben, die immer wieder versuchen und scheitern und Lösungen für das Unmögliche entwickeln. Auch wenn sie wissen, dass es vielleicht zu verrückt ist, in fünf Jahren fünf völlig neue Produkte auf den Markt zu bringen, damit sie reifen können. [...] Wir alle müssen daraus lernen. ... Kleiner neu anfangen und zirkulär neu anfangen."
+          }],
+      "inIntro": false,
+      "inTitle": false,
+      "indirectQuotes": [],
+      "isMain": false,
+      "name": "Job Stehmann",
+      "occupations": [
+        {
+          "text": "Vanmoofs ehemaliger Entwicklungschef"
+        },
+        {
+          "text": "Chef für Produktdesign und Innovation"
+        }
+      ],
+      "occurences": {
+        "firstNameOnly": 0,
+        "fullName": 1,
+        "lastNameOnly": 1,
+        "total": 2
+      },
+      "quotedInIntro": false,
+      "quotedInTitle": false,
+      "sex": "male"
+    }
+    
+  ],
+  "subtopics": [
+    "Fahrradindustrie", "Unternehmensgründung", "Insolvenz","Vanmoof",
+      "E-Bike"
+  ]
+}

@@ -1,0 +1,1233 @@
+{
+    "persons": [
+        {
+            "name": "Jonathan Glazer",
+            "alternativeNames": [],
+            "age": -1,
+            "sex": "male",
+            "occurences": {
+                "total": 1,
+                "firstNameOnly": 0,
+                "lastNameOnly": 0,
+                "fullName": 1,
+                "nickname": 0
+            },
+            "inTitle": false,
+            "inIntro": false,
+            "_name": {
+                "firstname": "Jonathan",
+                "lastname": "Glazer",
+                "nickname": null,
+                "alternative_names": [],
+                "academic_title": null,
+                "nobility_title_or_rank": null
+            },
+            "descriptiveTexts": [
+                {
+                    "text": "Mit dabei: Matteo Garrone aus Italien (\u00bbIo capitano\u00ab), J.A. Bayona aus Spanien (\u00bbDie Schneegesellschaft\u00ab) und der britische Produzent James Wilson (\u00bbZone of Interest\u00ab), da Regisseur Jonathan Glazer verhindert ist."
+                },
+                {
+                    "text": "Vorher haben sie backstage noch Gruppenfotos gemacht, \u00c7atak setzt sich dazu grinsend eine Sonnenbrille auf."
+                },
+                {
+                    "text": "Als Rajendra Roy, der Co-Chef des internationalen Komitees der Academy, sie nach vorne bittet, ruft er: \u00bbAus Japan, Wim Wenders!\u00ab"
+                },
+                {
+                    "text": "Moderator Roy fragt sie denn auch bald nach ihrer nicht immer leicht zu definierenden Identit\u00e4t \u2013 und spricht \u00c7atak prompt auf seine Schelte der deutschen Medien an, die seinen t\u00fcrkischen Namen ausgeblendet oder falsch geschrieben hatten."
+                },
+                {
+                    "text": "Zum Schluss sollen sie, wie es bei der Academy Tradition ist, etwas Nettes \u00fcber einen der anderen sagen."
+                }
+            ],
+            "occupations": [
+                {
+                    "text": "Regisseur"
+                }
+            ],
+            "directQuotes": [],
+            "quotedInTitle": false,
+            "quotedInIntro": false
+        },
+        {
+            "name": "Lion Feuchtwanger",
+            "alternativeNames": [],
+            "age": -1,
+            "sex": "male",
+            "occurences": {
+                "total": 1,
+                "firstNameOnly": 0,
+                "lastNameOnly": 0,
+                "fullName": 1,
+                "nickname": 0
+            },
+            "inTitle": false,
+            "inIntro": false,
+            "_name": {
+                "firstname": "Lion",
+                "lastname": "Feuchtwanger",
+                "nickname": null,
+                "alternative_names": [],
+                "academic_title": null,
+                "nobility_title_or_rank": null
+            },
+            "descriptiveTexts": [
+                {
+                    "text": "Am Samstag finden sie dann noch mal zusammen, an einem wirklich passenden Ort: Die Villa Aurora, ein mediterranes Anwesen in den H\u00fcgeln hoch \u00fcber dem Pazifik, geh\u00f6rte fr\u00fcher dem vor den Nazis geflohenen Schriftsteller Lion Feuchtwanger und war ein Refugium f\u00fcr europ\u00e4ische Exilanten: Thomas und Heinrich Mann, Bertolt Brecht, Charlie Chaplin."
+                }
+            ],
+            "occupations": [
+                {
+                    "text": "Schriftsteller"
+                }
+            ],
+            "directQuotes": [],
+            "quotedInTitle": false,
+            "quotedInIntro": false
+        },
+        {
+            "name": "Leonie Benesch",
+            "alternativeNames": [],
+            "age": -1,
+            "sex": "female",
+            "occurences": {
+                "total": 1,
+                "firstNameOnly": 0,
+                "lastNameOnly": 0,
+                "fullName": 1,
+                "nickname": 0
+            },
+            "inTitle": false,
+            "inIntro": false,
+            "_name": {
+                "firstname": "Leonie",
+                "lastname": "Benesch",
+                "nickname": null,
+                "alternative_names": [],
+                "academic_title": null,
+                "nobility_title_or_rank": null
+            },
+            "descriptiveTexts": [
+                {
+                    "text": "Wenders, \u00c7atak und H\u00fcller plaudern mit Leonie Benesch, dem Star von \u00bbDas Lehrerzimmer\u00ab."
+                },
+                {
+                    "text": "Sie machen Selfies, umarmen sich, lachen."
+                },
+                {
+                    "text": "Als Rajendra Roy, der Co-Chef des internationalen Komitees der Academy, sie nach vorne bittet, ruft er: \u00bbAus Japan, Wim Wenders!\u00ab"
+                }
+            ],
+            "occupations": [],
+            "directQuotes": [],
+            "quotedInTitle": false,
+            "quotedInIntro": false
+        },
+        {
+            "name": "Mira von der Osten",
+            "alternativeNames": [],
+            "age": -1,
+            "sex": "female",
+            "occurences": {
+                "total": 1,
+                "firstNameOnly": 0,
+                "lastNameOnly": 0,
+                "fullName": 1,
+                "nickname": 0
+            },
+            "inTitle": false,
+            "inIntro": false,
+            "_name": {
+                "firstname": "Mira",
+                "lastname": "von der Osten",
+                "nickname": null,
+                "alternative_names": [],
+                "academic_title": null,
+                "nobility_title_or_rank": null
+            },
+            "descriptiveTexts": [
+                {
+                    "text": "F\u00fcr die Oscars wird sie ein Kleid tragen, das die Berliner Modesch\u00f6pferin Mira von der Osten f\u00fcr sie aus Magnetb\u00e4ndern von alten VHS-Kassetten gestrickt hat."
+                }
+            ],
+            "occupations": [
+                {
+                    "text": "Berliner Modesch\u00f6pferin"
+                }
+            ],
+            "directQuotes": [],
+            "quotedInTitle": false,
+            "quotedInIntro": false
+        },
+        {
+            "name": "Michael Klammer",
+            "alternativeNames": [],
+            "age": -1,
+            "sex": "male",
+            "occurences": {
+                "total": 2,
+                "firstNameOnly": 1,
+                "lastNameOnly": 0,
+                "fullName": 1,
+                "nickname": 0
+            },
+            "inTitle": false,
+            "inIntro": false,
+            "_name": {
+                "firstname": "Michael",
+                "lastname": "Klammer",
+                "nickname": null,
+                "alternative_names": [],
+                "academic_title": null,
+                "nobility_title_or_rank": null
+            },
+            "descriptiveTexts": [
+                {
+                    "text": "Studioleute sind da, Produzenten und, juxend auf einer Bank, Tom Bernard und Michael Baker, die Chefs von Sony Pictures Classics, dem Verleih, der f\u00fcr den US-Kinoerfolg vieler deutscher Filme verantwortlich ist, darunter der von Wenders."
+                },
+                {
+                    "text": "Sein Vater Michael Klammer, der einen Lehrer spielt, steht grinsend daneben: Der Weg ihres kleinen Films zu den Oscars sei immerhin \u00bbeine einzigartige Geschichte\u00ab."
+                }
+            ],
+            "occupations": [
+                {
+                    "text": "Vater"
+                },
+                {
+                    "text": "Schauspieler"
+                }
+            ],
+            "directQuotes": [],
+            "quotedInTitle": false,
+            "quotedInIntro": false
+        },
+        {
+            "name": "Lemaire",
+            "alternativeNames": [],
+            "age": -1,
+            "sex": "unknown",
+            "occurences": {
+                "total": 1,
+                "firstNameOnly": 0,
+                "lastNameOnly": 0,
+                "fullName": 1,
+                "nickname": 0
+            },
+            "inTitle": false,
+            "inIntro": false,
+            "_name": {
+                "firstname": null,
+                "lastname": "Lemaire",
+                "nickname": null,
+                "alternative_names": [],
+                "academic_title": null,
+                "nobility_title_or_rank": null
+            },
+            "descriptiveTexts": [
+                {
+                    "text": "Was sie tr\u00e4gt: \u00bbLemaire.\u00ab"
+                }
+            ],
+            "occupations": [],
+            "directQuotes": [
+                {
+                    "text": "Lemaire."
+                }
+            ],
+            "quotedInTitle": false,
+            "quotedInIntro": false
+        },
+        {
+            "name": "Bertolt Brecht",
+            "alternativeNames": [],
+            "age": -1,
+            "sex": "male",
+            "occurences": {
+                "total": 1,
+                "firstNameOnly": 0,
+                "lastNameOnly": 0,
+                "fullName": 1,
+                "nickname": 0
+            },
+            "inTitle": false,
+            "inIntro": false,
+            "_name": {
+                "firstname": "Bertolt",
+                "lastname": "Brecht",
+                "nickname": null,
+                "alternative_names": [],
+                "academic_title": null,
+                "nobility_title_or_rank": null
+            },
+            "descriptiveTexts": [
+                {
+                    "text": "Am Samstag finden sie dann noch mal zusammen, an einem wirklich passenden Ort: Die Villa Aurora, ein mediterranes Anwesen in den H\u00fcgeln hoch \u00fcber dem Pazifik, geh\u00f6rte fr\u00fcher dem vor den Nazis geflohenen Schriftsteller Lion Feuchtwanger und war ein Refugium f\u00fcr europ\u00e4ische Exilanten: Thomas und Heinrich Mann, Bertolt Brecht, Charlie Chaplin."
+                }
+            ],
+            "occupations": [
+                {
+                    "text": "Schriftsteller"
+                }
+            ],
+            "directQuotes": [],
+            "quotedInTitle": false,
+            "quotedInIntro": false
+        },
+        {
+            "name": "Matthias Schweigh\u00f6fer",
+            "alternativeNames": [],
+            "age": -1,
+            "sex": "male",
+            "occurences": {
+                "total": 1,
+                "firstNameOnly": 0,
+                "lastNameOnly": 0,
+                "fullName": 1,
+                "nickname": 0
+            },
+            "inTitle": false,
+            "inIntro": false,
+            "_name": {
+                "firstname": "Matthias",
+                "lastname": "Schweigh\u00f6fer",
+                "nickname": null,
+                "alternative_names": [],
+                "academic_title": null,
+                "nobility_title_or_rank": null
+            },
+            "descriptiveTexts": [
+                {
+                    "text": "Und Matthias Schweigh\u00f6fer spielt in \u00bbOppenheimer\u00ab mit."
+                }
+            ],
+            "occupations": [
+                {
+                    "text": "Schauspieler"
+                }
+            ],
+            "directQuotes": [],
+            "quotedInTitle": false,
+            "quotedInIntro": false
+        },
+        {
+            "name": "Lily Gladstone",
+            "alternativeNames": [],
+            "age": -1,
+            "sex": "female",
+            "occurences": {
+                "total": 1,
+                "firstNameOnly": 0,
+                "lastNameOnly": 0,
+                "fullName": 1,
+                "nickname": 0
+            },
+            "inTitle": false,
+            "inIntro": false,
+            "_name": {
+                "firstname": "Lily",
+                "lastname": "Gladstone",
+                "nickname": null,
+                "alternative_names": [],
+                "academic_title": null,
+                "nobility_title_or_rank": null
+            },
+            "descriptiveTexts": [
+                {
+                    "text": "H\u00fcller konkurriert mit Emma Stone, Lily Gladstone, Annette Bening und Carey Mulligan (Britin)."
+                }
+            ],
+            "occupations": [
+                {
+                    "text": "Schauspielerin"
+                }
+            ],
+            "directQuotes": [],
+            "quotedInTitle": false,
+            "quotedInIntro": false
+        },
+        {
+            "name": "Annette Bening",
+            "alternativeNames": [],
+            "age": -1,
+            "sex": "female",
+            "occurences": {
+                "total": 1,
+                "firstNameOnly": 0,
+                "lastNameOnly": 0,
+                "fullName": 1,
+                "nickname": 0
+            },
+            "inTitle": false,
+            "inIntro": false,
+            "_name": {
+                "firstname": "Annette",
+                "lastname": "Bening",
+                "nickname": null,
+                "alternative_names": [],
+                "academic_title": null,
+                "nobility_title_or_rank": null
+            },
+            "descriptiveTexts": [
+                {
+                    "text": "H\u00fcller konkurriert mit Emma Stone, Lily Gladstone, Annette Bening und Carey Mulligan (Britin)."
+                }
+            ],
+            "occupations": [
+                {
+                    "text": "Schauspielerin"
+                }
+            ],
+            "directQuotes": [],
+            "quotedInTitle": false,
+            "quotedInIntro": false
+        },
+        {
+            "name": "Donata Wenders",
+            "alternativeNames": [],
+            "age": -1,
+            "sex": "female",
+            "occurences": {
+                "total": 3,
+                "firstNameOnly": 1,
+                "lastNameOnly": 0,
+                "fullName": 2,
+                "nickname": 0
+            },
+            "inTitle": false,
+            "inIntro": false,
+            "_name": {
+                "firstname": "Donata",
+                "lastname": "Wenders",
+                "nickname": null,
+                "alternative_names": [],
+                "academic_title": null,
+                "nobility_title_or_rank": null
+            },
+            "descriptiveTexts": [
+                {
+                    "text": "\u00bbIch werde \u00fcberrascht sein, wenn er gewinnt\u00ab, sagt sie."
+                },
+                {
+                    "text": "\u00bbIch werde \u00fcberrascht sein, wenn er nicht gewinnt.\u00ab"
+                },
+                {
+                    "text": "Donata Wenders ist Fotografin, in \u00bbPerfect Days\u00ab hat sie die Traumszenen gedreht."
+                },
+                {
+                    "text": "F\u00fcr die Oscars wird sie ein Kleid tragen, das die Berliner Modesch\u00f6pferin Mira von der Osten f\u00fcr sie aus Magnetb\u00e4ndern von alten VHS-Kassetten gestrickt hat."
+                },
+                {
+                    "text": "Verarbeitet hat sie drei Wenders-Filme: \u00bbParis, Texas\u00ab, \u00bbDer Himmel \u00fcber Berlin\u00ab und \u00bbTokyo-Ga\u00ab."
+                },
+                {
+                    "text": "\u00bbTotal nachhaltig\u00ab, sagt Donata Wenders."
+                }
+            ],
+            "occupations": [
+                {
+                    "text": "Fotografin"
+                }
+            ],
+            "directQuotes": [
+                {
+                    "text": "Ich werde \u00fcberrascht sein, wenn er gewinnt"
+                },
+                {
+                    "text": "Ich werde \u00fcberrascht sein, wenn er nicht gewinnt."
+                },
+                {
+                    "text": "Total nachhaltig"
+                }
+            ],
+            "quotedInTitle": false,
+            "quotedInIntro": false
+        },
+        {
+            "name": "Thanassis Karathanos",
+            "alternativeNames": [],
+            "age": -1,
+            "sex": "male",
+            "occurences": {
+                "total": 1,
+                "firstNameOnly": 0,
+                "lastNameOnly": 0,
+                "fullName": 1,
+                "nickname": 0
+            },
+            "inTitle": false,
+            "inIntro": false,
+            "_name": {
+                "firstname": "Thanassis",
+                "lastname": "Karathanos",
+                "nickname": null,
+                "alternative_names": [],
+                "academic_title": null,
+                "nobility_title_or_rank": null
+            },
+            "descriptiveTexts": [
+                {
+                    "text": "Weitere Deutsche, die an den Oscars beteiligt sind: Schauspieler Christian Friedel (und erneut H\u00fcller) mit \u00bbThe Zone of Interest\u00ab \u2013 der Auslandsfavorit \u2013 und der Berliner Produzent Thanassis Karathanos mit dem Dokumentarfilm \u00bbFour Daughters\u00ab."
+                }
+            ],
+            "occupations": [
+                {
+                    "text": "Produzent"
+                }
+            ],
+            "directQuotes": [],
+            "quotedInTitle": false,
+            "quotedInIntro": false
+        },
+        {
+            "name": "Charlie Chaplin",
+            "alternativeNames": [],
+            "age": -1,
+            "sex": "male",
+            "occurences": {
+                "total": 1,
+                "firstNameOnly": 0,
+                "lastNameOnly": 0,
+                "fullName": 1,
+                "nickname": 0
+            },
+            "inTitle": false,
+            "inIntro": false,
+            "_name": {
+                "firstname": "Charlie",
+                "lastname": "Chaplin",
+                "nickname": null,
+                "alternative_names": [],
+                "academic_title": null,
+                "nobility_title_or_rank": null
+            },
+            "descriptiveTexts": [
+                {
+                    "text": "Am Samstag finden sie dann noch mal zusammen, an einem wirklich passenden Ort: Die Villa Aurora, ein mediterranes Anwesen in den H\u00fcgeln hoch \u00fcber dem Pazifik, geh\u00f6rte fr\u00fcher dem vor den Nazis geflohenen Schriftsteller Lion Feuchtwanger und war ein Refugium f\u00fcr europ\u00e4ische Exilanten: Thomas und Heinrich Mann, Bertolt Brecht, Charlie Chaplin."
+                }
+            ],
+            "occupations": [
+                {
+                    "text": "Exilant"
+                },
+                {
+                    "text": "K\u00fcnstler"
+                }
+            ],
+            "directQuotes": [],
+            "quotedInTitle": false,
+            "quotedInIntro": false
+        },
+        {
+            "name": "Emma Stone",
+            "alternativeNames": [],
+            "age": -1,
+            "sex": "female",
+            "occurences": {
+                "total": 1,
+                "firstNameOnly": 0,
+                "lastNameOnly": 0,
+                "fullName": 1,
+                "nickname": 0
+            },
+            "inTitle": false,
+            "inIntro": false,
+            "_name": {
+                "firstname": "Emma",
+                "lastname": "Stone",
+                "nickname": null,
+                "alternative_names": [],
+                "academic_title": null,
+                "nobility_title_or_rank": null
+            },
+            "descriptiveTexts": [
+                {
+                    "text": "H\u00fcller konkurriert mit Emma Stone, Lily Gladstone, Annette Bening und Carey Mulligan (Britin)."
+                }
+            ],
+            "occupations": [
+                {
+                    "text": "Schauspielerin"
+                }
+            ],
+            "directQuotes": [],
+            "quotedInTitle": false,
+            "quotedInIntro": false
+        },
+        {
+            "name": "Ilker \u00c7atak",
+            "alternativeNames": [],
+            "age": -1,
+            "sex": "male",
+            "occurences": {
+                "total": 19,
+                "firstNameOnly": 0,
+                "lastNameOnly": 17,
+                "fullName": 2,
+                "nickname": 0
+            },
+            "inTitle": false,
+            "inIntro": true,
+            "_name": {
+                "firstname": "Ilker",
+                "lastname": "\u00c7atak",
+                "nickname": null,
+                "alternative_names": [],
+                "academic_title": null,
+                "nobility_title_or_rank": null
+            },
+            "descriptiveTexts": [
+                {
+                    "text": "Dabei erfahren Sandra H\u00fcller, Wim Wenders und \u0130lker \u00c7atak aber auch, dass die Academy Awards immer internationaler werden."
+                },
+                {
+                    "text": "\u0130lker \u00c7atak blickt \u00fcber die K\u00f6pfe der G\u00e4ste aufs Meer hinaus."
+                },
+                {
+                    "text": "Er erinnert sich daran, wie alles anfing, damals, als sie \u00bbdieses winzige Projekt\u00ab zu filmen begannen."
+                },
+                {
+                    "text": "Da scheint es ihn auch nicht mehr zu st\u00f6ren, dass der Gastgeber, wie so viele, \u00c7ataks Vornamen falsch ausspricht."
+                },
+                {
+                    "text": "Wenders, H\u00fcller, \u00c7atak: Treffen sich drei Deutsche in Hollywood."
+                },
+                {
+                    "text": "Denn alle drei, die dieser Tage kreuz und quer durch Los Angeles tingeln, sind f\u00fcr Academy Awards nominiert: die beiden Berliner Wenders und \u00c7atak f\u00fcr ihre Filme \u00bbPerfect Days\u00ab und \u00bbDas Lehrerzimmer\u00ab, und H\u00fcller, die in Leipzig lebt, f\u00fcr ihre Hauptrolle in \u00bbAnatomie eines Falls\u00ab."
+                },
+                {
+                    "text": "Die dreifache Oscar-Hoffnung elektrisiert Deutschlands Filmszene, die in ihrem Gefolge hier aufgeschlagen ist, um sie, aber auch sich selbst zu feiern."
+                },
+                {
+                    "text": "Zwei Deutsche streiten um den \u00bbBest International Feature Film\u00ab: \u00c7atak (teils in der T\u00fcrkei aufgewachsen) f\u00fcr Deutschland, Wenders (Berliner Weltb\u00fcrger) f\u00fcr Japan."
+                },
+                {
+                    "text": "Wenders, \u00c7atak und H\u00fcller sind zum gro\u00dfen Finale dieser langen, globalen Filmsaison jetzt zwar in Hollywood gelandet, doch mehr noch in \u00bbHollyworld\u00ab (\u00bbEconomist\u00ab)."
+                },
+                {
+                    "text": "Das sp\u00fcrt man \u00fcberall auf ihrer Reise durch die vielen Empf\u00e4nge, Fototermine, Interviews, Talkrunden und Anproben, die sie erst noch absolvieren m\u00fcssen, bevor sie dann in wenigen Stunden \u00fcber den 300 Meter langen roten Teppich ins Dolby Theatre gescheucht werden wie glamour\u00f6se Herdentiere."
+                },
+                {
+                    "text": "Sie meistern diese Pflicht vor der K\u00fcr souver\u00e4n, ohne sich Nervosit\u00e4t anmerken zu lassen, mal getrennt, oft gemeinsam, doch immer mit Geduld \u2013 auch wenn diese Geduld zuletzt manchmal etwas abbl\u00e4ttert."
+                },
+                {
+                    "text": "Wenders, \u00c7atak und H\u00fcller plaudern mit Leonie Benesch, dem Star von \u00bbDas Lehrerzimmer\u00ab."
+                },
+                {
+                    "text": "Wenders, zum vierten Mal als Oscarkandidat dabei, legt \u00c7atak v\u00e4terlich die Hand auf die Schulter."
+                },
+                {
+                    "text": "\u00bbIch dr\u00fccke Sandra die Daumen und Wim die Daumen\u00ab, sagt \u00c7atak, der im selben Jahr geboren wurde wie Wenders\u2019 \u00bbParis, Texas\u00ab."
+                },
+                {
+                    "text": "\u00bbDieser Mann hat sein Leben dem Kino verpflichtet. Das ist jemand, dem ich das so sehr w\u00fcnsche w\u00fcrde.\u00ab"
+                },
+                {
+                    "text": "Doch die Chance stehen f\u00fcr Wenders \u00e4hnlich schlecht wie f\u00fcr \u00c7atak, jedenfalls im Vergleich zum Holocaustdrama \u00bbThe Zone of Interest\u00ab."
+                },
+                {
+                    "text": "\u00c7atak sieht\u2019s gelassen."
+                },
+                {
+                    "text": "\u00bbWir sind ja krasse Au\u00dfenseiter\u00ab, sagt er."
+                },
+                {
+                    "text": "\u00bbIch geh da hin und lehn mich zur\u00fcck.\u00ab"
+                },
+                {
+                    "text": "Was er mitnehmen m\u00f6chte, \u00bbist einfach mal dabei gewesen zu sein und zu sehen, wie sie das, was sie hier tun, auf H\u00e4nden tragen wie ein Heiligtum.\u00ab"
+                },
+                {
+                    "text": "Als er im Februar schon mal da war, zum Treffen aller Nominierten, gab ihm die Academy eine Urkunde mit der goldenen Gravur: \u00bbWe are craftsmen \u2013 guardians \u2013 educators. We are the champions of filmmakers \u2013 past \u2013 present \u2013 future.\u00ab"
+                },
+                {
+                    "text": "Abends sitzen Wenders und \u00c7atak auf der B\u00fchne des enormen Hauskinos des Academy Museums."
+                },
+                {
+                    "text": "Vorher haben sie backstage noch Gruppenfotos gemacht, \u00c7atak setzt sich dazu grinsend eine Sonnenbrille auf."
+                },
+                {
+                    "text": "Als Rajendra Roy, der Co-Chef des internationalen Komitees der Academy, sie nach vorne bittet, ruft er: \u00bbAus Japan, Wim Wenders!\u00ab"
+                },
+                {
+                    "text": "Moderator Roy fragt sie denn auch bald nach ihrer nicht immer leicht zu definierenden Identit\u00e4t \u2013 und spricht \u00c7atak prompt auf seine Schelte der deutschen Medien an, die seinen t\u00fcrkischen Namen ausgeblendet oder falsch geschrieben hatten."
+                },
+                {
+                    "text": "\u00bbOh man, really?\u00ab, sagt \u00c7atak, als wolle er nicht noch mal in diese Debatte eintauchen."
+                },
+                {
+                    "text": "\u00bbIch liebe Deutschland und ich liebe es, dort zu leben, und deshalb kritisiere ich das Land.\u00ab"
+                },
+                {
+                    "text": "Zum Schluss sollen sie, wie es bei der Academy Tradition ist, etwas Nettes \u00fcber einen der anderen sagen."
+                },
+                {
+                    "text": "\u00c7atak lobt \u00bbZone of Interest\u00ab als \u00bbeine unglaubliche Leistung\u00ab."
+                },
+                {
+                    "text": "Am Samstag finden sie dann noch mal zusammen, an einem wirklich passenden Ort: Die Villa Aurora, ein mediterranes Anwesen in den H\u00fcgeln hoch \u00fcber dem Pazifik, geh\u00f6rte fr\u00fcher dem vor den Nazis geflohenen Schriftsteller Lion Feuchtwanger und war ein Refugium f\u00fcr europ\u00e4ische Exilanten: Thomas und Heinrich Mann, Bertolt Brecht, Charlie Chaplin."
+                },
+                {
+                    "text": "Mit seelenruhigem L\u00e4cheln handelt derweil \u00c7atak die Interviews ab, mittlerweile ein eiskalter Profi auf diesem Feld."
+                },
+                {
+                    "text": "Auch wenn er dabei immer wieder nach Sandra H\u00fcller gefragt wird statt nach seinem eigenen Film."
+                },
+                {
+                    "text": "\u00bbDie Sandra\u00ab, sagt \u00c7atak, \u00bbhat das total verdient.\u00ab"
+                }
+            ],
+            "occupations": [
+                {
+                    "text": "unglaubliche Leistung"
+                },
+                {
+                    "text": "Regisseur"
+                }
+            ],
+            "directQuotes": [
+                {
+                    "text": "Es ist ein M\u00e4rchen, heute hier zu sein"
+                },
+                {
+                    "text": "dieses winzige Projekt"
+                },
+                {
+                    "text": "Meine Kollegen, meine Freunde, danke f\u00fcr alles."
+                },
+                {
+                    "text": "Ich dr\u00fccke Sandra die Daumen und Wim die Daumen"
+                },
+                {
+                    "text": "Dieser Mann hat sein Leben dem Kino verpflichtet. Das ist jemand, dem ich das so sehr w\u00fcnsche w\u00fcrde."
+                },
+                {
+                    "text": "Wir sind ja krasse Au\u00dfenseiter"
+                },
+                {
+                    "text": "Ich geh da hin und lehn mich zur\u00fcck."
+                },
+                {
+                    "text": "ist einfach mal dabei gewesen zu sein und zu sehen, wie sie das, was sie hier tun, auf H\u00e4nden tragen wie ein Heiligtum."
+                },
+                {
+                    "text": "Ich habe mich daf\u00fcr immer nur gesch\u00e4mt."
+                },
+                {
+                    "text": "Oh man, really?"
+                },
+                {
+                    "text": "Ich liebe Deutschland und ich liebe es, dort zu leben, und deshalb kritisiere ich das Land."
+                },
+                {
+                    "text": "Zone of Interest"
+                },
+                {
+                    "text": "eine unglaubliche Leistung"
+                },
+                {
+                    "text": "eine einzigartige Geschichte"
+                },
+                {
+                    "text": "Die Sandra"
+                }
+            ],
+            "quotedInTitle": false,
+            "quotedInIntro": true
+        },
+        {
+            "name": "Carey Mulligan",
+            "alternativeNames": [],
+            "age": -1,
+            "sex": "female",
+            "occurences": {
+                "total": 1,
+                "firstNameOnly": 0,
+                "lastNameOnly": 0,
+                "fullName": 1,
+                "nickname": 0
+            },
+            "inTitle": false,
+            "inIntro": false,
+            "_name": {
+                "firstname": "Carey",
+                "lastname": "Mulligan",
+                "nickname": null,
+                "alternative_names": [],
+                "academic_title": null,
+                "nobility_title_or_rank": null
+            },
+            "descriptiveTexts": [
+                {
+                    "text": "H\u00fcller konkurriert mit Emma Stone, Lily Gladstone, Annette Bening und Carey Mulligan (Britin)."
+                }
+            ],
+            "occupations": [
+                {
+                    "text": "Schauspielerin"
+                }
+            ],
+            "directQuotes": [],
+            "quotedInTitle": false,
+            "quotedInIntro": false
+        },
+        {
+            "name": "Teo Yoo",
+            "alternativeNames": [],
+            "age": -1,
+            "sex": "male",
+            "occurences": {
+                "total": 1,
+                "firstNameOnly": 0,
+                "lastNameOnly": 0,
+                "fullName": 1,
+                "nickname": 0
+            },
+            "inTitle": false,
+            "inIntro": false,
+            "_name": {
+                "firstname": "Teo",
+                "lastname": "Yoo",
+                "nickname": null,
+                "alternative_names": [],
+                "academic_title": null,
+                "nobility_title_or_rank": null
+            },
+            "descriptiveTexts": [
+                {
+                    "text": "Und Teo Yoo, Co-Star des Films \u00bbPast Lives\u00ab, wurde in K\u00f6ln geboren."
+                }
+            ],
+            "occupations": [
+                {
+                    "text": "Co-Star"
+                }
+            ],
+            "directQuotes": [],
+            "quotedInTitle": false,
+            "quotedInIntro": false
+        },
+        {
+            "name": "Wim Wenders",
+            "alternativeNames": [],
+            "age": -1,
+            "sex": "male",
+            "occurences": {
+                "total": 23,
+                "firstNameOnly": 1,
+                "lastNameOnly": 18,
+                "fullName": 4,
+                "nickname": 0
+            },
+            "inTitle": false,
+            "inIntro": true,
+            "_name": {
+                "firstname": "Wim",
+                "lastname": "Wenders",
+                "nickname": null,
+                "alternative_names": [],
+                "academic_title": null,
+                "nobility_title_or_rank": null
+            },
+            "descriptiveTexts": [
+                {
+                    "text": "Dabei erfahren Sandra H\u00fcller, Wim Wenders und \u0130lker \u00c7atak aber auch, dass die Academy Awards immer internationaler werden."
+                },
+                {
+                    "text": "Wim Wenders schaut in den Spiegel, als wolle er die Unruhe ringsum ausblenden."
+                },
+                {
+                    "text": "Er ist ganz in Schwarz, die einzigen Farbflecken eine rote Binde am Kragen und die lila Hornbrille."
+                },
+                {
+                    "text": "Trotzdem entkommt er dem L\u00e4rm auch hier nicht."
+                },
+                {
+                    "text": "Die dreifache Oscar-Hoffnung elektrisiert Deutschlands Filmszene, die in ihrem Gefolge hier aufgeschlagen ist, um sie, aber auch sich selbst zu feiern."
+                },
+                {
+                    "text": "Das sp\u00fcrt man \u00fcberall auf ihrer Reise durch die vielen Empf\u00e4nge, Fototermine, Interviews, Talkrunden und Anproben, die sie erst noch absolvieren m\u00fcssen, bevor sie dann in wenigen Stunden \u00fcber den 300 Meter langen roten Teppich ins Dolby Theatre gescheucht werden wie glamour\u00f6se Herdentiere."
+                },
+                {
+                    "text": "Sie meistern diese Pflicht vor der K\u00fcr souver\u00e4n, ohne sich Nervosit\u00e4t anmerken zu lassen, mal getrennt, oft gemeinsam, doch immer mit Geduld \u2013 auch wenn diese Geduld zuletzt manchmal etwas abbl\u00e4ttert."
+                },
+                {
+                    "text": "\u00bbIch werde \u00fcberrascht sein, wenn er gewinnt\u00ab, sagt sie."
+                },
+                {
+                    "text": "\u00bbIch werde \u00fcberrascht sein, wenn er nicht gewinnt.\u00ab"
+                },
+                {
+                    "text": "Ein Kleid aus Wim Wenders\u2019 VHS-Kassetten"
+                },
+                {
+                    "text": "Ihr Mann erg\u00e4nzt, dass er diese Kassetten sowieso habe loswerden wollen, wegen der schlechten Bildqualit\u00e4t: \u00bbIch habe mich daf\u00fcr immer nur gesch\u00e4mt.\u00ab"
+                },
+                {
+                    "text": "Vorher haben sie backstage noch Gruppenfotos gemacht, \u00c7atak setzt sich dazu grinsend eine Sonnenbrille auf."
+                },
+                {
+                    "text": "Als Rajendra Roy, der Co-Chef des internationalen Komitees der Academy, sie nach vorne bittet, ruft er: \u00bbAus Japan, Wim Wenders!\u00ab"
+                },
+                {
+                    "text": "Moderator Roy fragt sie denn auch bald nach ihrer nicht immer leicht zu definierenden Identit\u00e4t \u2013 und spricht \u00c7atak prompt auf seine Schelte der deutschen Medien an, die seinen t\u00fcrkischen Namen ausgeblendet oder falsch geschrieben hatten."
+                },
+                {
+                    "text": "Zum Schluss sollen sie, wie es bei der Academy Tradition ist, etwas Nettes \u00fcber einen der anderen sagen."
+                },
+                {
+                    "text": "Wenders preist \u00bbDas Lehrerzimmer\u00ab: \u00bbIch liebe diesen Film.\u00ab"
+                },
+                {
+                    "text": "Am Samstag finden sie dann noch mal zusammen, an einem wirklich passenden Ort: Die Villa Aurora, ein mediterranes Anwesen in den H\u00fcgeln hoch \u00fcber dem Pazifik, geh\u00f6rte fr\u00fcher dem vor den Nazis geflohenen Schriftsteller Lion Feuchtwanger und war ein Refugium f\u00fcr europ\u00e4ische Exilanten: Thomas und Heinrich Mann, Bertolt Brecht, Charlie Chaplin."
+                },
+                {
+                    "text": "Woher er den hat?"
+                },
+                {
+                    "text": "\u00bbToll\u00ab, sagt Wenders, als habe er das Geheimnis Hollywoods entdeckt."
+                },
+                {
+                    "text": "\u00bbWenn ich keinen gewinne, hole ich mir auch so\u2019n Ding.\u00ab"
+                }
+            ],
+            "occupations": [
+                {
+                    "text": "Oscarkandidat"
+                },
+                {
+                    "text": "\u00bbcineastisches Haiku\u00ab"
+                },
+                {
+                    "text": "Regisseur"
+                }
+            ],
+            "directQuotes": [
+                {
+                    "text": "Paris, Texas"
+                },
+                {
+                    "text": "Der Himmel \u00fcber Berlin"
+                },
+                {
+                    "text": "Tokyo-Ga"
+                },
+                {
+                    "text": "Ich liebe diesen Film."
+                },
+                {
+                    "text": "Toll"
+                },
+                {
+                    "text": "Wenn ich keinen gewinne, hole ich mir auch so\u2019n Ding."
+                }
+            ],
+            "quotedInTitle": false,
+            "quotedInIntro": true
+        },
+        {
+            "name": "Matteo Garrone",
+            "alternativeNames": [],
+            "age": -1,
+            "sex": "male",
+            "occurences": {
+                "total": 1,
+                "firstNameOnly": 0,
+                "lastNameOnly": 0,
+                "fullName": 1,
+                "nickname": 0
+            },
+            "inTitle": false,
+            "inIntro": false,
+            "_name": {
+                "firstname": "Matteo",
+                "lastname": "Garrone",
+                "nickname": null,
+                "alternative_names": [],
+                "academic_title": null,
+                "nobility_title_or_rank": null
+            },
+            "descriptiveTexts": [
+                {
+                    "text": "Mit dabei: Matteo Garrone aus Italien (\u00bbIo capitano\u00ab), J.A. Bayona aus Spanien (\u00bbDie Schneegesellschaft\u00ab) und der britische Produzent James Wilson (\u00bbZone of Interest\u00ab), da Regisseur Jonathan Glazer verhindert ist."
+                },
+                {
+                    "text": "Vorher haben sie backstage noch Gruppenfotos gemacht, \u00c7atak setzt sich dazu grinsend eine Sonnenbrille auf."
+                },
+                {
+                    "text": "Als Rajendra Roy, der Co-Chef des internationalen Komitees der Academy, sie nach vorne bittet, ruft er: \u00bbAus Japan, Wim Wenders!\u00ab"
+                },
+                {
+                    "text": "Moderator Roy fragt sie denn auch bald nach ihrer nicht immer leicht zu definierenden Identit\u00e4t \u2013 und spricht \u00c7atak prompt auf seine Schelte der deutschen Medien an, die seinen t\u00fcrkischen Namen ausgeblendet oder falsch geschrieben hatten."
+                },
+                {
+                    "text": "Zum Schluss sollen sie, wie es bei der Academy Tradition ist, etwas Nettes \u00fcber einen der anderen sagen."
+                }
+            ],
+            "occupations": [
+                {
+                    "text": "Regisseur"
+                }
+            ],
+            "directQuotes": [
+                {
+                    "text": "cineastisches Haiku"
+                }
+            ],
+            "quotedInTitle": false,
+            "quotedInIntro": false
+        },
+        {
+            "name": "Christian Friedel",
+            "alternativeNames": [],
+            "age": -1,
+            "sex": "male",
+            "occurences": {
+                "total": 1,
+                "firstNameOnly": 0,
+                "lastNameOnly": 0,
+                "fullName": 1,
+                "nickname": 0
+            },
+            "inTitle": false,
+            "inIntro": false,
+            "_name": {
+                "firstname": "Christian",
+                "lastname": "Friedel",
+                "nickname": null,
+                "alternative_names": [],
+                "academic_title": null,
+                "nobility_title_or_rank": null
+            },
+            "descriptiveTexts": [
+                {
+                    "text": "Weitere Deutsche, die an den Oscars beteiligt sind: Schauspieler Christian Friedel (und erneut H\u00fcller) mit \u00bbThe Zone of Interest\u00ab \u2013 der Auslandsfavorit \u2013 und der Berliner Produzent Thanassis Karathanos mit dem Dokumentarfilm \u00bbFour Daughters\u00ab."
+                }
+            ],
+            "occupations": [
+                {
+                    "text": "Schauspieler"
+                }
+            ],
+            "directQuotes": [],
+            "quotedInTitle": false,
+            "quotedInIntro": false
+        },
+        {
+            "name": "Thomas",
+            "alternativeNames": [],
+            "age": -1,
+            "sex": "male",
+            "occurences": {
+                "total": 1,
+                "firstNameOnly": 0,
+                "lastNameOnly": 0,
+                "fullName": 1,
+                "nickname": 0
+            },
+            "inTitle": false,
+            "inIntro": false,
+            "_name": {
+                "firstname": "Thomas",
+                "lastname": null,
+                "nickname": null,
+                "alternative_names": [],
+                "academic_title": null,
+                "nobility_title_or_rank": null
+            },
+            "descriptiveTexts": [
+                {
+                    "text": "Am Samstag finden sie dann noch mal zusammen, an einem wirklich passenden Ort: Die Villa Aurora, ein mediterranes Anwesen in den H\u00fcgeln hoch \u00fcber dem Pazifik, geh\u00f6rte fr\u00fcher dem vor den Nazis geflohenen Schriftsteller Lion Feuchtwanger und war ein Refugium f\u00fcr europ\u00e4ische Exilanten: Thomas und Heinrich Mann, Bertolt Brecht, Charlie Chaplin."
+                }
+            ],
+            "occupations": [
+                {
+                    "text": "cineastisches Haiku"
+                }
+            ],
+            "directQuotes": [],
+            "quotedInTitle": false,
+            "quotedInIntro": false
+        },
+        {
+            "name": "Leonard Stettnisch",
+            "alternativeNames": [],
+            "age": -1,
+            "sex": "male",
+            "occurences": {
+                "total": 1,
+                "firstNameOnly": 0,
+                "lastNameOnly": 0,
+                "fullName": 1,
+                "nickname": 0
+            },
+            "inTitle": false,
+            "inIntro": false,
+            "_name": {
+                "firstname": "Leonard",
+                "lastname": "Stettnisch",
+                "nickname": null,
+                "alternative_names": [],
+                "academic_title": null,
+                "nobility_title_or_rank": null
+            },
+            "descriptiveTexts": [
+                {
+                    "text": "So richtig ver\u00e4ndert habe sich f\u00fcr ihn bisher nichts, sagt der 14-j\u00e4hrige Leonard Stettnisch, der in \u00bbDas Lehrerzimmer\u00ab seine erste Rolle hatte, als Sch\u00fcler."
+                },
+                {
+                    "text": "\u00bbIch bin immer noch der Leo.\u00ab"
+                }
+            ],
+            "occupations": [
+                {
+                    "text": "Sch\u00fcler"
+                }
+            ],
+            "directQuotes": [
+                {
+                    "text": "Ich bin immer noch der Leo."
+                }
+            ],
+            "quotedInTitle": false,
+            "quotedInIntro": false
+        },
+        {
+            "name": "Sandra H\u00fcller",
+            "alternativeNames": [],
+            "age": -1,
+            "sex": "female",
+            "occurences": {
+                "total": 16,
+                "firstNameOnly": 3,
+                "lastNameOnly": 10,
+                "fullName": 3,
+                "nickname": 0
+            },
+            "inTitle": false,
+            "inIntro": true,
+            "_name": {
+                "firstname": "Sandra",
+                "lastname": "H\u00fcller",
+                "nickname": null,
+                "alternative_names": [],
+                "academic_title": null,
+                "nobility_title_or_rank": null
+            },
+            "descriptiveTexts": [
+                {
+                    "text": "Dabei erfahren Sandra H\u00fcller, Wim Wenders und \u0130lker \u00c7atak aber auch, dass die Academy Awards immer internationaler werden."
+                },
+                {
+                    "text": "Sandra H\u00fcller wird drau\u00dfen von den Kameras abgefangen."
+                },
+                {
+                    "text": "Geduldig beantwortet die Schauspielerin Fragen, die sie schon zigmal beantwortet hat."
+                },
+                {
+                    "text": "Was sie tr\u00e4gt: \u00bbLemaire.\u00ab"
+                },
+                {
+                    "text": "Wie sie im th\u00fcringischen Suhl gefeiert wird: \u00bbWei\u00df ich nicht, ich kenn da niemanden, ich bin da nur geboren.\u00ab"
+                },
+                {
+                    "text": "Schlie\u00dflich entzieht sie sich dem Verh\u00f6r und flieht."
+                },
+                {
+                    "text": "Wenders, H\u00fcller, \u00c7atak: Treffen sich drei Deutsche in Hollywood."
+                },
+                {
+                    "text": "Denn alle drei, die dieser Tage kreuz und quer durch Los Angeles tingeln, sind f\u00fcr Academy Awards nominiert: die beiden Berliner Wenders und \u00c7atak f\u00fcr ihre Filme \u00bbPerfect Days\u00ab und \u00bbDas Lehrerzimmer\u00ab, und H\u00fcller, die in Leipzig lebt, f\u00fcr ihre Hauptrolle in \u00bbAnatomie eines Falls\u00ab."
+                },
+                {
+                    "text": "Die dreifache Oscar-Hoffnung elektrisiert Deutschlands Filmszene, die in ihrem Gefolge hier aufgeschlagen ist, um sie, aber auch sich selbst zu feiern."
+                },
+                {
+                    "text": "H\u00fcller konkurriert mit Emma Stone, Lily Gladstone, Annette Bening und Carey Mulligan (Britin)."
+                },
+                {
+                    "text": "Weitere Deutsche, die an den Oscars beteiligt sind: Schauspieler Christian Friedel (und erneut H\u00fcller) mit \u00bbThe Zone of Interest\u00ab \u2013 der Auslandsfavorit \u2013 und der Berliner Produzent Thanassis Karathanos mit dem Dokumentarfilm \u00bbFour Daughters\u00ab."
+                },
+                {
+                    "text": "Wenders, \u00c7atak und H\u00fcller sind zum gro\u00dfen Finale dieser langen, globalen Filmsaison jetzt zwar in Hollywood gelandet, doch mehr noch in \u00bbHollyworld\u00ab (\u00bbEconomist\u00ab)."
+                },
+                {
+                    "text": "Das sp\u00fcrt man \u00fcberall auf ihrer Reise durch die vielen Empf\u00e4nge, Fototermine, Interviews, Talkrunden und Anproben, die sie erst noch absolvieren m\u00fcssen, bevor sie dann in wenigen Stunden \u00fcber den 300 Meter langen roten Teppich ins Dolby Theatre gescheucht werden wie glamour\u00f6se Herdentiere."
+                },
+                {
+                    "text": "Sie meistern diese Pflicht vor der K\u00fcr souver\u00e4n, ohne sich Nervosit\u00e4t anmerken zu lassen, mal getrennt, oft gemeinsam, doch immer mit Geduld \u2013 auch wenn diese Geduld zuletzt manchmal etwas abbl\u00e4ttert."
+                },
+                {
+                    "text": "Am schwersten tut sich H\u00fcller, die mit dem ganzen Hollywood-Rummel noch nie viel anfangen konnte."
+                },
+                {
+                    "text": "\u00bbUnbehaglich im Rampenlicht\u00ab, so hat die \u00bbNew York Times\u00ab sie nach ihrer Oscar-Nominierung tituliert."
+                },
+                {
+                    "text": "H\u00fcller hatte dem \u00bbTimes\u00ab-Reporter \u00fcber ihren pl\u00f6tzlichen Ruhm gesagt, sie habe nicht unbedingt \u00bbdarauf gewartet, dass das passiert\u00ab."
+                },
+                {
+                    "text": "\u00bbJetzt bin ich erst mal hier\u00ab"
+                },
+                {
+                    "text": "Am Freitag steht sie also am Sunset Boulevard, um sich vernehmen zu lassen, auf Deutsch und Franz\u00f6sisch."
+                },
+                {
+                    "text": "\u00bbAnscheinend gibt\u2019s hier eine Menge Veranstaltungen, wo man teilnehmen muss\u00ab, informiert sie einen \u00fcber ihren prallen Terminkalender vor den Oscars."
+                },
+                {
+                    "text": "\u00bbJetzt bin ich erst mal hier, und dann fahr ich wieder weg, und dann sehen wir mal.\u00ab"
+                },
+                {
+                    "text": "Als sich ein Reporter beschwert, dass sie \u00bbimmer so bescheiden\u00ab sei, erwidert H\u00fcller, sie habe eben nicht \u00bbso eine Headline im Kopf wie Sie\u00ab."
+                },
+                {
+                    "text": "Wenders, \u00c7atak und H\u00fcller plaudern mit Leonie Benesch, dem Star von \u00bbDas Lehrerzimmer\u00ab."
+                },
+                {
+                    "text": "\u00bbIch dr\u00fccke Sandra die Daumen und Wim die Daumen\u00ab, sagt \u00c7atak, der im selben Jahr geboren wurde wie Wenders\u2019 \u00bbParis, Texas\u00ab."
+                },
+                {
+                    "text": "Sollte die britische Produktion, die hier hei\u00df gehandelt wird, den Auslandsoscar gewinnen, k\u00f6nnte es sein, dass H\u00fcller mit auf die B\u00fchne kommt, auch wenn sie und die anderen Deutschen leer ausgehen."
+                },
+                {
+                    "text": "Am Samstag finden sie dann noch mal zusammen, an einem wirklich passenden Ort: Die Villa Aurora, ein mediterranes Anwesen in den H\u00fcgeln hoch \u00fcber dem Pazifik, geh\u00f6rte fr\u00fcher dem vor den Nazis geflohenen Schriftsteller Lion Feuchtwanger und war ein Refugium f\u00fcr europ\u00e4ische Exilanten: Thomas und Heinrich Mann, Bertolt Brecht, Charlie Chaplin."
+                },
+                {
+                    "text": "\u00bbDie Sandra hat das total verdient\u00ab"
+                },
+                {
+                    "text": "Auch wenn er dabei immer wieder nach Sandra H\u00fcller gefragt wird statt nach seinem eigenen Film."
+                },
+                {
+                    "text": "Warum die denn so ist, wie sie ist, so verschlossen und geheimnisvoll?"
+                },
+                {
+                    "text": "\u00bbDie Sandra\u00ab, sagt \u00c7atak, \u00bbhat das total verdient.\u00ab"
+                }
+            ],
+            "occupations": [
+                {
+                    "text": "Unbehaglich im Rampenlicht"
+                },
+                {
+                    "text": "Schauspielerin"
+                }
+            ],
+            "directQuotes": [
+                {
+                    "text": "darauf gewartet, dass das passiert"
+                },
+                {
+                    "text": "Anscheinend gibt\u2019s hier eine Menge Veranstaltungen, wo man teilnehmen muss"
+                },
+                {
+                    "text": "Jetzt bin ich erst mal hier, und dann fahr ich wieder weg, und dann sehen wir mal."
+                },
+                {
+                    "text": "Die Sandra hat das total verdient"
+                }
+            ],
+            "quotedInTitle": false,
+            "quotedInIntro": true
+        }
+    ]
+}

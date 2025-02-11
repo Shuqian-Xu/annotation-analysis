@@ -1,0 +1,484 @@
+{
+  "persons": [
+    {
+      "age": -1, 
+      "alternativeNames": [],
+      "birthday": null,
+      "descriptiveTexts": [
+        {
+          "text": "Meine Kollegin Viola Keeve stellt Ihnen die neuen Luftkurorte des 21. Jahrhunderts vor."
+        }
+      ],
+      "directQuotes": [],
+      "inIntro": false,
+      "inTitle": false,
+      "indirectQuotes": [],
+      "isMain": false,
+      "name": "Viola Keeve",
+      "occupations": [
+        {
+          "text": "Kollegin"
+        }
+      ],
+      "occurences": {
+        "firstNameOnly": 0,
+        "fullName": 1,
+        "lastNameOnly": 0,
+        "total": 1
+      },
+      "quotedInIntro": false,
+      "quotedInTitle": false,
+      "sex": "female"
+    },
+    {
+      "age": -1,
+      "alternativeNames": [],
+      "birthday": null,
+      "descriptiveTexts": [
+        {
+          "text": "Die Wirtschaftsnews des Tages: Autoangreifer ohne Autos: Der vietnamesische Elektroauto-Hersteller Vinfast, der zum Reich des Nudelkönigs Pham Nhat Vuong gehört, sorgt seit einiger Zeit für Furore."
+        }
+      ],
+      "directQuotes": [
+      ],
+      "inIntro": false,
+      "inTitle": false,
+      "indirectQuotes": [
+      ],
+      "isMain": false,
+      "name": "Pham Nhat Vuong",
+      "occupations": [
+        {
+          "text": "Nudelkönig"
+        },
+        {
+          "text": "Inhaber Vinfast"
+        }
+      ],
+      "occurences": {
+        "firstNameOnly": 0,
+        "fullName": 1,
+        "lastNameOnly": 0,
+        "total": 1
+      },
+      "quotedInIntro": false,
+      "quotedInTitle": false,
+      "sex": "male"
+    },
+    {
+      "age": -1, 
+      "alternativeNames": [],
+      "birthday": null,
+      "descriptiveTexts": [
+        {
+          "text": "In Deutschland herrscht Chaos, wie mein Kollege Christoph Seyerlein recherchiert hat."
+        }
+      ],
+      "directQuotes": [],
+      "inIntro": false,
+      "inTitle": false,
+      "indirectQuotes": [],
+      "isMain": false,
+      "name": "Christoph Seyerlein",
+      "occupations": [
+        {
+          "text": "Kollege"
+        }
+      ],
+      "occurences": {
+        "firstNameOnly": 0,
+        "fullName": 1,
+        "lastNameOnly": 0,
+        "total": 1
+      },
+      "quotedInIntro": false,
+      "quotedInTitle": false,
+      "sex": "male"
+    },
+    {
+      "age": -1, 
+      "alternativeNames": [],
+      "birthday": null,
+      "descriptiveTexts": [
+        {
+          "text": "Zulieferer ohne Chef: 17 Jahre lang war Stefan Wolf der CEO des Autozulieferers ElringKlinger – und im Nebenjob beim Arbeitgeberverband Gesamtmetall zusätzlich einer der einflussreichsten Industrielobbyisten der Republik."
+        },
+        {
+          "text": "Jetzt tritt er unerwartet ab."
+        },
+        {
+          "text": "Ein Ermittlungsverfahren gegen ihn soll dabei keine Rolle spielen."
+        }
+      ],
+      "directQuotes": [],
+      "inIntro": false,
+      "inTitle": false,
+      "indirectQuotes": [],
+      "isMain": false,
+      "name": "Stefan Wolf",
+      "occupations": [
+        {
+          "text": "CEO des Autozulieferers ElringKlinger"
+        },
+        {
+          "text": "einer der einflussreichsten Industrielobbyisten der Republik"
+        }
+      ],
+      "occurences": {
+        "firstNameOnly": 0,
+        "fullName": 1,
+        "lastNameOnly": 0,
+        "total": 1
+      },
+      "quotedInIntro": false,
+      "quotedInTitle": false,
+      "sex": "male"
+    },
+    {
+      "age": -1, 
+      "alternativeNames": [],
+      "birthday": null,
+      "descriptiveTexts": [
+        {
+          "text": "Der lückenhafte Fahrradplan für Deutschland: Bundesverkehrsminister Volker Wissing hält Deutschland für 'eine der führenden Fahrradnationen' Europas."
+        },
+        {
+          "text": "Mein Kollege Lutz Reiche, selbst eine Legende auf dem Rennrad, beschreibt, wo Wissing bei seiner Fahrradpolitik die Luft ausgeht."
+        }
+      ],
+      "directQuotes": [],
+      "inIntro": false,
+      "inTitle": false,
+      "indirectQuotes": [],
+      "isMain": false,
+      "name": "Volker Wissing",
+      "occupations": [
+        {
+          "text": "Bundesverkehrsminister"
+        }
+      ],
+      "occurences": {
+        "firstNameOnly": 0,
+        "fullName": 1,
+        "lastNameOnly": 1,
+        "total": 2
+      },
+      "quotedInIntro": false,
+      "quotedInTitle": false,
+      "sex": "male"
+    },
+    {
+      "age": -1, 
+      "alternativeNames": [],
+      "birthday": null,
+      "descriptiveTexts": [{
+        "text": "Kritiker wie Zukunftsforscher Stefan Carsten können allenfalls Mittelmaß erkennen."
+      },
+      {
+        "text": "Carsten hat er im Interview gefragt, wie es besser ginge."
+      }],
+      "directQuotes": [],
+      "inIntro": false,
+      "inTitle": false,
+      "indirectQuotes": [],
+      "isMain": false,
+      "name": "Stefan Carsten",
+      "occupations": [
+        {
+          "text": "Zukunftsforscher"
+        }
+      ],
+      "occurences": {
+        "firstNameOnly": 0,
+        "fullName": 1,
+        "lastNameOnly": 1,
+        "total": 2
+      },
+      "quotedInIntro": false,
+      "quotedInTitle": false,
+      "sex": "male"
+    },
+    {
+      "age": -1, 
+      "alternativeNames": [],
+      "birthday": null,
+      "descriptiveTexts": [
+        {
+          "text": "Mein Kollege Lutz Reiche, selbst eine Legende auf dem Rennrad, beschreibt, wo Wissing bei seiner Fahrradpolitik die Luft ausgeht."
+        },
+        {
+          "text": "Carsten hat er im Interview gefragt, wie es besser ginge."
+        }
+      ],
+      "directQuotes": [],
+      "inIntro": false,
+      "inTitle": false,
+      "indirectQuotes": [
+      	{
+          "text": "Carsten hat er im Interview gefragt, wie es besser ginge."
+        }],
+      "isMain": false,
+      "name": "Lutz Reiche",
+      "occupations": [
+        {
+          "text": "Kollege"
+        }
+      ],
+      "occurences": {
+        "firstNameOnly": 0,
+        "fullName": 1,
+        "lastNameOnly": 0,
+        "total": 1
+      },
+      "quotedInIntro": false,
+      "quotedInTitle": false,
+      "sex": "male"
+    },
+    {
+      "age": 43, 
+      "alternativeNames": [],
+      "birthday": null,
+      "descriptiveTexts": [
+        {
+          "text": "Der tragische Tod im Silicon Valley: Der Gründer und Investor Bob Lee spielte bei der Entwicklung von Googles Betriebssystem Android eine wichtige Rolle und arbeitete eng mit Twitter-Mitgründer Jack Dorsey zusammen."
+        },
+        {
+          "text": "Zuletzt war er Vorstand einer Kryptoplattform. Nun ist 'Crazy Bob' im Alter von 43 Jahren in San Francisco einer tödlichen Messerattacke zum Opfer gefallen."
+        }
+      ],
+      "directQuotes": [],
+      "inIntro": false,
+      "inTitle": false,
+      "indirectQuotes": [],
+      "isMain": false,
+      "name": "Bob Lee",
+      "occupations": [
+        {
+          "text": "Gründer"
+        },
+        {
+          "text": "Investor"
+        },
+        {
+          "text": "Vorstand einer Kryptoplattform"
+        }
+      ],
+      "occurences": {
+        "firstNameOnly": 0,
+        "fullName": 1,
+        "lastNameOnly": 0,
+        "total": 1
+      },
+      "quotedInIntro": false,
+      "quotedInTitle": false,
+      "sex": "male"
+    },
+    {
+      "age": -1, 
+      "alternativeNames": [],
+      "birthday": null,
+      "descriptiveTexts": [
+        {
+          "text": "Der tragische Tod im Silicon Valley: Der Gründer und Investor Bob Lee spielte bei der Entwicklung von Googles Betriebssystem Android eine wichtige Rolle und arbeitete eng mit Twitter-Mitgründer Jack Dorsey zusammen."
+        }
+      ],
+      "directQuotes": [],
+      "inIntro": false,
+      "inTitle": false,
+      "indirectQuotes": [],
+      "isMain": false,
+      "name": "Jack Dorsey",
+      "occupations": [
+        {
+          "text": "Twitter-Mitgründer"
+        }
+      ],
+      "occurences": {
+        "firstNameOnly": 0,
+        "fullName": 1,
+        "lastNameOnly": 0,
+        "total": 1
+      },
+      "quotedInIntro": false,
+      "quotedInTitle": false,
+      "sex": "male"
+    },
+    {
+      "age": -1, 
+      "alternativeNames": [],
+      "birthday": null,
+      "descriptiveTexts": [
+        {
+          "text": "Meine Leseempfehlungen für das Oster-Wochenende: Ostern reloaded: Mit sehr viel Geld versuchen ein paar Superreiche wie Jeff Bezos oder Erwin Müller einen alten Menschheitstraum zu verwirklichen: den Tod überwinden."
+        }
+      ],
+      "directQuotes": [],
+      "inIntro": false,
+      "inTitle": false,
+      "indirectQuotes": [],
+      "isMain": false,
+      "name": "Jeff Bezos",
+      "occupations": [
+        {
+          "text": "Superreiche"
+        }
+      ],
+      "occurences": {
+        "firstNameOnly": 0,
+        "fullName": 1,
+        "lastNameOnly": 0,
+        "total": 1
+      },
+      "quotedInIntro": false,
+      "quotedInTitle": false,
+      "sex": "male"
+    },
+    {
+      "age": -1, 
+      "alternativeNames": [],
+      "birthday": null,
+      "descriptiveTexts": [
+        {
+          "text": "Meine Leseempfehlungen für das Oster-Wochenende: Ostern reloaded: Mit sehr viel Geld versuchen ein paar Superreiche wie Jeff Bezos oder Erwin Müller einen alten Menschheitstraum zu verwirklichen: den Tod überwinden."
+        }
+      ],
+      "directQuotes": [],
+      "inIntro": false,
+      "inTitle": false,
+      "indirectQuotes": [],
+      "isMain": false,
+      "name": "Erwin Müller",
+      "occupations": [
+        {
+          "text": "Superreiche"
+        }
+      ],
+      "occurences": {
+        "firstNameOnly": 0,
+        "fullName": 1,
+        "lastNameOnly": 0,
+        "total": 1
+      },
+      "quotedInIntro": false,
+      "quotedInTitle": false,
+      "sex": "male"
+    },
+    {
+      "age": -1, 
+      "alternativeNames": [],
+      "birthday": null,
+      "descriptiveTexts": [
+        {
+          "text": "Last Exit Luxus: Unsere aktuelle Titelgeschichte über den riskanten 200-Milliarden-Börsenplan von Mercedes-Benz-Boss Ola Källenius lesen Sie hier. "
+        }
+      ],
+      "directQuotes": [],
+      "inIntro": false,
+      "inTitle": false,
+      "indirectQuotes": [],
+      "isMain": false,
+      "name": "Ola Källenius",
+      "occupations": [
+        {
+          "text": "Mercedes-Benz-Boss"
+        }
+      ],
+      "occurences": {
+        "firstNameOnly": 0,
+        "fullName": 1,
+        "lastNameOnly": 0,
+        "total": 1
+      },
+      "quotedInIntro": false,
+      "quotedInTitle": false,
+      "sex": "male"
+    },
+    {
+      "age": -1, 
+      "alternativeNames": [],
+      "birthday": null,
+      "descriptiveTexts": [{
+        "text": "Passend übrigens fürs lange Wochenende dazu der Podcast mit der Co-Autorin: Margret Hucko über Protz und Proll unterm Stern."
+      }],
+      "directQuotes": [],
+      "inIntro": false,
+      "inTitle": false,
+      "indirectQuotes": [],
+      "isMain": false,
+      "name": "Margret Hucko",
+      "occupations": [
+        {
+          "text": "Co-Autorin"
+        }
+      ],
+      "occurences": {
+        "firstNameOnly": 0,
+        "fullName": 1,
+        "lastNameOnly": 0,
+        "total": 1
+      },
+      "quotedInIntro": false,
+      "quotedInTitle": false,
+      "sex": "female"
+    },
+    {
+      "age": -1, 
+      "alternativeNames": [],
+      "birthday": null,
+      "descriptiveTexts": [
+        {
+          "text": "Im goldenen Käfig: Unser umfangreicher Inside-Report zur Frage, ob der Red-Bull-Erbe Mark Mateschitz den Konzern seines Vaters bewahren kann."
+        }
+      ],
+      "directQuotes": [],
+      "inIntro": false,
+      "inTitle": false,
+      "indirectQuotes": [],
+      "isMain": false,
+      "name": "Mark Mateschitz",
+      "occupations": [
+        {
+          "text": "Red-Bull-Erbe"
+        }
+      ],
+      "occurences": {
+        "firstNameOnly": 0,
+        "fullName": 1,
+        "lastNameOnly": 0,
+        "total": 1
+      },
+      "quotedInIntro": false,
+      "quotedInTitle": false,
+      "sex": "male"
+    },
+    {
+      "age": -1, 
+      "alternativeNames": [],
+      "birthday": null,
+      "descriptiveTexts": [
+        {
+          "text": "Herzliche Grüße und einen entspannten Abend und ein schönes Oster-Wochenende, Ihr Lukas Heiny"
+        }
+      ],
+      "directQuotes": [],
+      "inIntro": false,
+      "inTitle": false,
+      "indirectQuotes": [],
+      "isMain": false,
+      "name": "Lukas Heiny",
+      "occupations": [],
+      "occurences": {
+        "firstNameOnly": 0,
+        "fullName": 1,
+        "lastNameOnly": 0,
+        "total": 1
+      },
+      "quotedInIntro": false,
+      "quotedInTitle": false,
+      "sex": "male"
+    }
+  ],
+  "subtopics": [
+    "Automobilindustrie", "Personalie", "Unternehmen"
+  ]
+}

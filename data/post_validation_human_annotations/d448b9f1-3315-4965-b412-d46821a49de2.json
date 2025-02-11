@@ -1,0 +1,358 @@
+{
+  "persons": [
+    {
+      "age": -1, 
+      "alternativeNames": [],
+      "birthday": null,
+      "descriptiveTexts": [
+        {
+          "text": "Der »Privatmann« beim Deportationsgipfel"
+        },
+        {
+          "text": "Ihr Fraktionschef Ulrich Siegmund will nur »privat« an dem Treffen teilgenommen haben, bei dem Abschiebepläne für Deutsche mit Migrationshintergrund erörtert worden sein sollen."
+        },
+        {
+            "text": "Als »Privatperson« hinreisen, als Politiker sprechen?"
+          },
+          {
+          "text": "Dort wird zwar erst 2026 gewählt, im Mittelpunkt der Diskussion steht aber der bislang einzige AfD-Spitzenfunktionär, der seine Teilnahme an dem »Masterplan«-Treffen im November bei Potsdam freimütig bestätigt hat: Ulrich Siegmund, Fraktionschef seiner in Sachsen-Anhalt als gesichert rechtsextrem eingestuften Partei."
+        },
+        {
+          "text": "Er sei als »Privatperson« dort gewesen, sagte er den »Correctiv«-Journalisten, seine von dort überlieferten Wortbeiträge sollen allerdings reichlich politisch gewesen sein: Er soll demnach gesagt haben, man müsse in seinem Bundesland dafür sorgen, dass es »für dieses Klientel möglichst unattraktiv zu leben« werde – und soll Menschen mit Migrationshintergrund gemeint haben, die eigentlich nicht abgeschoben werden könnten."
+        },
+        {
+          "text": "Siegmund spricht von absurden Vorwürfen."
+        },
+        {
+          "text": "Ihm gehe es, so formulierte er es gegenüber der Magdeburger »Volksstimme«, gar nicht um die Ausweisung deutscher Staatsbürger: »Abschiebungen sollen lediglich nach geltender Gesetzeslage konsequent und rechtskonform durchgeführt werden."
+        },
+        {
+          "text": "Das betrifft vor allem Menschen, die illegal hier sind, gegen Gesetze verstoßen oder gar Straftaten begehen.«"
+        },
+        {
+            "text": "SPD-Landeschef Andreas Schmidt sprach von einer »konspirativen Wannseekonferenz« und warf Siegmund vor, eine terroristische Vereinigung mitgebildet zu haben."
+          },
+          {
+            "text": "Und die Grünen forcieren gemeinsam mit Sozialdemokraten und Linken, den AfD-Mann als Chef des Sozialausschusses abzuberufen – ausgerechnet jenes Gremiums, das für Migration und Integration zuständig ist."
+          },
+        {
+          "text": "Gut möglich, dass Siegmund den Posten als Ausschussvorsitzender im Landtag verliert, am grundsätzlichen Dilemma änderte das jedoch nichts: Ginge es um das skandalöse Verhalten eines demokratischen Abgeordneten, stünde dieser nun massiv unter Druck, auch parteiintern, und müsste mindestens um den Posten als Fraktionschef bangen."
+        },
+        {
+          "text": "Die AfD aber ignoriert solche althergebrachten Regeln des Parlamentarismus, Siegmund wird bleiben und weitermachen."
+        },
+        {
+          "text": "Siegmunds Rolle bei dem Potsdamer Treffen hat einmal mehr den Charakter der sachsen-anhaltischen AfD illustriert – jenes Landesverbands, den der Verfassungsschutz bereits im Herbst als gesichert rechtsextrem eingestuft hat."
+        }
+      ],
+      "directQuotes": [
+        {
+          "text": "privat"
+        },
+        {
+          "text": "Privatperson"
+        },
+        {
+          "text": "für dieses Klientel möglichst unattraktiv zu leben"
+        },
+        {
+          "text": "Volksstimme"
+        },
+        {
+          "text": "Abschiebungen sollen lediglich nach geltender Gesetzeslage konsequent und rechtskonform durchgeführt werden. Das betrifft vor allem Menschen, die illegal hier sind, gegen Gesetze verstoßen oder gar Straftaten begehen."
+        }
+      ],
+      "inIntro": true,
+      "inTitle": true,
+      "indirectQuotes": [
+      	{
+          "text": "Er sei als »Privatperson« dort gewesen, sagte er den »Correctiv«-Journalisten, seine von dort überlieferten Wortbeiträge sollen allerdings reichlich politisch gewesen sein: Er soll demnach gesagt haben, man müsse in seinem Bundesland dafür sorgen, dass es »für dieses Klientel möglichst unattraktiv zu leben« werde – und soll Menschen mit Migrationshintergrund gemeint haben, die eigentlich nicht abgeschoben werden könnten."
+        },
+        {
+          "text": "Ihr Fraktionschef Ulrich Siegmund will nur »privat« an dem Treffen teilgenommen haben, bei dem Abschiebepläne für Deutsche mit Migrationshintergrund erörtert worden sein sollen."
+        },
+        {
+          "text": "Siegmund spricht von absurden Vorwürfen."
+        },
+        {
+          "text": "Ihm gehe es, so formulierte er es gegenüber der Magdeburger »Volksstimme«, gar nicht um die Ausweisung deutscher Staatsbürger: »Abschiebungen sollen lediglich nach geltender Gesetzeslage konsequent und rechtskonform durchgeführt werden. Das betrifft vor allem Menschen, die illegal hier sind, gegen Gesetze verstoßen oder gar Straftaten begehen.«"
+        }
+      ],
+      "isMain": true,
+      "name": "Ulrich Siegmund",
+      "occupations": [
+        {
+          "text": "Fraktionschef seiner in Sachsen-Anhalt als gesichert rechtsextrem eingestuften Partei"
+        },
+        {
+          "text": "Privatmann"
+        },
+          {
+            "text": "AfD-Spitzenfunktionär"
+          },
+          {
+            "text": "Chef des Sozialausschusses"
+          },
+          {
+            "text": "Ausschussvorsitzender im Landtag"
+          }
+      ],
+      "occurences": {
+        "firstNameOnly": 0,
+        "fullName": 2,
+        "lastNameOnly": 5,
+        "total": 7
+      },
+      "quotedInIntro": true,
+      "quotedInTitle": true,
+      "sex": "male"
+    },
+    {
+      "age": -1, 
+      "alternativeNames": [],
+      "birthday": null,
+      "descriptiveTexts": [
+        {
+          "text": "»Die AfD ist in Sachsen-Anhalt vom Verfassungsschutz als gesichert rechtsextremistisch eingeschätzt worden«, sagt CDU-Mann Reiner Haseloff dem SPIEGEL."
+        },
+        {
+          "text": "Man kann diese Äußerung des Ministerpräsidenten von Sachsen-Anhalt als sachlich korrekt verbuchen, man darf sich aber auch wundern: Reicht das als Reaktion angesichts eines Treffens hochrangiger AfD-Vertreter mit anderen Rechtsextremisten, bei dem offenkundig ein »Masterplan« zur Vertreibung von Millionen Menschen aus Deutschland diskutiert wurde?"
+        }
+      ],
+      "directQuotes": [
+        {
+          "text": "Die AfD ist in Sachsen-Anhalt vom Verfassungsschutz als gesichert rechtsextremistisch eingeschätzt worden"
+        },
+        {
+          "text": "Auch die aktuellen Ereignisse belegen die Richtigkeit dieser Einschätzung."
+        }
+      ],
+      "inIntro": false,
+      "inTitle": false,
+      "indirectQuotes": [],
+      "isMain": false,
+      "name": "Reiner Haseloff",
+      "occupations": [
+      	{
+          "text": "Regierungschef"
+        },
+        {
+          "text": "CDU-Mann"
+        },
+        {
+          "text": "Ministerpräsidenten von Sachsen-Anhalt"
+        }
+      ],
+      "occurences": {
+        "firstNameOnly": 0,
+        "fullName": 1,
+        "lastNameOnly": 0,
+        "total": 1
+      },
+      "quotedInIntro": false,
+      "quotedInTitle": false,
+      "sex": "male"
+    },
+    {
+      "age": -1, 
+      "alternativeNames": [],
+      "birthday": null,
+      "descriptiveTexts": [
+        {
+          "text": "Bundeskanzler Olaf Scholz etwa, selbst nicht gerade für Alarmismus und Pathos bekannt, verurteilt die »Assimilationsfantasien« dieser Leute inzwischen scharf und verspricht: »Wir schützen alle.«"
+        }
+      ],
+      "directQuotes": [
+        {
+          "text": "»Assimilationsfantasien«"
+        },
+        {
+          "text": "Wir schützen alle."
+        }
+      ],
+      "inIntro": false,
+      "inTitle": false,
+      "indirectQuotes": [],
+      "isMain": false,
+      "name": "Olaf Scholz",
+      "occupations": [
+        {
+          "text": "Bundeskanzler"
+        }
+      ],
+      "occurences": {
+        "firstNameOnly": 0,
+        "fullName": 1,
+        "lastNameOnly": 0,
+        "total": 1
+      },
+      "quotedInIntro": false,
+      "quotedInTitle": false,
+      "sex": "male"
+    },
+    {
+      "age": -1, 
+      "alternativeNames": [],
+      "birthday": null,
+      "descriptiveTexts": [
+        {
+          "text": "SPD-Landeschef Andreas Schmidt sprach von einer »konspirativen Wannseekonferenz« und warf Siegmund vor, eine terroristische Vereinigung mitgebildet zu haben."
+        }
+      ],
+      "directQuotes": [
+        {
+          "text": "konspirativen Wannseekonferenz"
+        }
+      ],
+      "inIntro": false,
+      "inTitle": false,
+      "indirectQuotes": [
+        {
+          "text": "SPD-Landeschef Andreas Schmidt sprach von einer »konspirativen Wannseekonferenz« und warf Siegmund vor, eine terroristische Vereinigung mitgebildet zu haben."
+        }
+      ],
+      "isMain": false,
+      "name": "Andreas Schmidt",
+      "occupations": [
+        {
+          "text": "SPD-Landeschef"
+        }
+      ],
+      "occurences": {
+        "firstNameOnly": 0,
+        "fullName": 1,
+        "lastNameOnly": 0,
+        "total": 1
+      },
+      "quotedInIntro": false,
+      "quotedInTitle": false,
+      "sex": "male"
+    },
+    {
+      "age": -1, 
+      "alternativeNames": [],
+      "birthday": null,
+      "descriptiveTexts": [
+        {
+          "text": "»Wer allen Menschen mit ausländischem Hintergrund signalisiert, dass sie nicht willkommen sind, setzt ein verheerendes Zeichen«, sagte Parteichef Sven Schulze der »Mitteldeutschen Zeitung«. "
+        }
+      ],
+      "directQuotes": [
+        {
+          "text": "Wer allen Menschen mit ausländischem Hintergrund signalisiert, dass sie nicht willkommen sind, setzt ein verheerendes Zeichen"
+        }
+      ],
+      "inIntro": false,
+      "inTitle": false,
+      "indirectQuotes": [],
+      "isMain": false,
+      "name": "Sven Schulze",
+      "occupations": [
+        {
+          "text": "Parteichef"
+        }
+      ],
+      "occurences": {
+        "firstNameOnly": 0,
+        "fullName": 1,
+        "lastNameOnly": 0,
+        "total": 1
+      },
+      "quotedInIntro": false,
+      "quotedInTitle": false,
+      "sex": "male"
+    },
+    {
+      "age": -1, 
+      "alternativeNames": [],
+      "birthday": null,
+      "descriptiveTexts": [
+        {
+          "text": "Die Linke fordert mehr von den Christdemokraten: »Spätestens jetzt muss die CDU aufhören, von der AfD verbreitete Ressentiments zu schüren und das politische Klima aus parteipolitischem Kalkül anzuheizen«, sagte Fraktionschefin Eva von Angern dem SPIEGEL."
+        }
+      ],
+      "directQuotes": [
+        {
+          "text": "Spätestens jetzt muss die CDU aufhören, von der AfD verbreitete Ressentiments zu schüren und das politische Klima aus parteipolitischem Kalkül anzuheizen"
+        }
+      ],
+      "inIntro": false,
+      "inTitle": false,
+      "indirectQuotes": [
+        {
+          "text": "Damit die Demokratie nicht ernsthaft in Gefahr gerate, müsse die größte Regierungspartei ihre Hausaufgaben machen."
+        }
+      ],
+      "isMain": false,
+      "name": "Eva von Angern",
+      "occupations": [
+        {
+          "text": "Fraktionschefin"
+        }
+      ],
+      "occurences": {
+        "firstNameOnly": 0,
+        "fullName": 1,
+        "lastNameOnly": 0,
+        "total": 1
+      },
+      "quotedInIntro": false,
+      "quotedInTitle": false,
+      "sex": "female"
+    },
+    {
+      "age": -1, 
+      "alternativeNames": [],
+      "birthday": null,
+      "descriptiveTexts": [
+        {
+          "text": "Aufschlussreich ist insofern die Stellungnahme der SPD-Landesvorsitzenden Juliane Kleemann."
+        },
+        {
+          "text": "Die AfD Sachsen-Anhalt stehe »bei Umsturzplänen an vorderster Front«, sagte sie, sprach von der »Gefährlichkeit der AfD-Ideologie und ihrer Anhänger« sowie von einer »direkten Bedrohung für unser Grundgesetz«."
+        },
+        {
+          "text": "Aber weder Kleemann noch sonst jemand aus der Landespolitik zog daraus die Konsequenz, offen den nächsten Schritt zu fordern: ein Parteiverbotsverfahren. "
+        }
+      ],
+      "directQuotes": [
+        {
+          "text": "Die AfD Sachsen-Anhalt stehe »bei Umsturzplänen an vorderster Front"
+        },
+        {
+          "text": "Gefährlichkeit der AfD-Ideologie und ihrer Anhänger"
+        },
+        {
+          "text": "direkten Bedrohung für unser Grundgesetz"
+        }
+      ],
+      "inIntro": false,
+      "inTitle": false,
+      "indirectQuotes": [
+      	{
+          "text": "Die AfD Sachsen-Anhalt stehe »bei Umsturzplänen an vorderster Front«, sagte sie, sprach von der »Gefährlichkeit der AfD-Ideologie und ihrer Anhänger« sowie von einer »direkten Bedrohung für unser Grundgesetz«."
+        }],
+      "isMain": false,
+      "name": "Juliane Kleemann",
+      "occupations": [
+        {
+          "text": "SPD-Landesvorsitzenden"
+        }
+      ],
+      "occurences": {
+        "firstNameOnly": 0,
+        "fullName": 1,
+        "lastNameOnly": 1,
+        "total": 2
+      },
+      "quotedInIntro": false,
+      "quotedInTitle": false,
+      "sex": "female"
+    }
+  ],
+  "subtopics": [
+    "Demokratie", "Rechtsextremismus", "Remigration",
+      "Parteiverbotsverfahren",
+      "AfD Sachsen-Anhalt"
+  ]
+}

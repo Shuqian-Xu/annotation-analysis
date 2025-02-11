@@ -1,0 +1,291 @@
+{
+    "persons": [
+        {
+            "name": "Michel Doukeris",
+            "alternativeNames": [],
+            "age": -1,
+            "sex": "male",
+            "occurences": {
+                "total": 1,
+                "firstNameOnly": 0,
+                "lastNameOnly": 0,
+                "fullName": 1,
+                "nickname": 0
+            },
+            "inTitle": false,
+            "inIntro": false,
+            "_name": {
+                "firstname": "Michel",
+                "lastname": "Doukeris",
+                "nickname": null,
+                "alternative_names": [],
+                "academic_title": null,
+                "nobility_title_or_rank": null
+            },
+            "descriptiveTexts": [
+                {
+                    "text": "\"Unternehmen geben sich h\u00e4ufig freundlicher gegen\u00fcber queeren Menschen als sie es tats\u00e4chlich sind\", sagt Frank Hensgens, Gesch\u00e4ftsf\u00fchrer DACH von Indeed im Gespr\u00e4ch mit manager magazin \u2013 das Ph\u00e4nomen wird als Pinkwashing bezeichnet."
+                },
+                {
+                    "text": "Michel Doukeris (50) gab an, Grund f\u00fcr die Boykottaufrufe seien \"Fehlinformationen in den sozialen Medien\" und distanzierte sich von der Influencerin."
+                }
+            ],
+            "occupations": [],
+            "directQuotes": [
+                {
+                    "text": "Fehlinformationen in den sozialen Medien"
+                }
+            ],
+            "quotedInTitle": false,
+            "quotedInIntro": false
+        },
+        {
+            "name": "Dylan Mulvaney",
+            "alternativeNames": [],
+            "age": 26,
+            "sex": "female",
+            "occurences": {
+                "total": 1,
+                "firstNameOnly": 0,
+                "lastNameOnly": 0,
+                "fullName": 1,
+                "nickname": 0
+            },
+            "inTitle": false,
+            "inIntro": false,
+            "_name": {
+                "firstname": "Dylan",
+                "lastname": "Mulvaney",
+                "nickname": null,
+                "alternative_names": [],
+                "academic_title": null,
+                "nobility_title_or_rank": null
+            },
+            "descriptiveTexts": [
+                {
+                    "text": "Arbeitgeber pr\u00e4sentieren sich queer-freundlicher als sie sind"
+                },
+                {
+                    "text": "Am Samstag werden eine Viertelmillion Besucher auf dem Christopher Street Day (CSD) in Hamburg erwartet, sie demonstrieren f\u00fcr die Rechte der queeren Community."
+                },
+                {
+                    "text": "Sie mussten sich beispielsweise transphobe \u00c4u\u00dferungen und Kommentare anh\u00f6ren oder wurden rundweg ignoriert."
+                },
+                {
+                    "text": "Es kam auch vor, dass sie gezwungen wurden, sich geschlechtsstereotyp zu verhalten, berichten Betroffene in der Studie."
+                },
+                {
+                    "text": "Auch in Bezug auf den Aufstieg innerhalb des Unternehmens geben 31 Prozent an, dass sie aufgrund ihrer Geschlechtsidentit\u00e4t oder sexuellen Orientierung schon einmal in ihrer Karriere benachteiligt wurden."
+                },
+                {
+                    "text": "22 Prozent haben sogar schon einmal ihren Job gek\u00fcndigt, weil sie Diskriminierung erlebt haben."
+                },
+                {
+                    "text": "Dylan Mulvaney (26) hatte Anfang April eine Zusammenarbeit mit der Biermarke des Brauerei-Riesen AbInbev \u00f6ffentlich gemacht."
+                },
+                {
+                    "text": "In einem Video wirbt sie \u2013 verkleidet als Charakter Holly Golightly aus dem Film \"Fr\u00fchst\u00fcck bei Tiffany\" \u2013 f\u00fcr die Marke."
+                },
+                {
+                    "text": "Wichtiger als kurzlebige PR-Aktionen ist laut Indeed-Chef Hensgens, dass Firmen im Alltag \u00fcberpr\u00fcfbar an sich arbeiten, indem sie beispielsweise Zeit, Geld und Treffpunkte f\u00fcr die LGBTIQ+-Community zur Verf\u00fcgung stellen."
+                }
+            ],
+            "occupations": [],
+            "directQuotes": [],
+            "quotedInTitle": false,
+            "quotedInIntro": false
+        },
+        {
+            "name": "Holly Golightly",
+            "alternativeNames": [],
+            "age": -1,
+            "sex": "female",
+            "occurences": {
+                "total": 3,
+                "firstNameOnly": 1,
+                "lastNameOnly": 1,
+                "fullName": 1,
+                "nickname": 0
+            },
+            "inTitle": false,
+            "inIntro": false,
+            "_name": {
+                "firstname": "Holly",
+                "lastname": "Golightly",
+                "nickname": null,
+                "alternative_names": [],
+                "academic_title": null,
+                "nobility_title_or_rank": null
+            },
+            "descriptiveTexts": [
+                {
+                    "text": "Arbeitgeber pr\u00e4sentieren sich queer-freundlicher als sie sind"
+                },
+                {
+                    "text": "Am Samstag werden eine Viertelmillion Besucher auf dem Christopher Street Day (CSD) in Hamburg erwartet, sie demonstrieren f\u00fcr die Rechte der queeren Community."
+                },
+                {
+                    "text": "Sie mussten sich beispielsweise transphobe \u00c4u\u00dferungen und Kommentare anh\u00f6ren oder wurden rundweg ignoriert."
+                },
+                {
+                    "text": "Es kam auch vor, dass sie gezwungen wurden, sich geschlechtsstereotyp zu verhalten, berichten Betroffene in der Studie."
+                },
+                {
+                    "text": "Auch in Bezug auf den Aufstieg innerhalb des Unternehmens geben 31 Prozent an, dass sie aufgrund ihrer Geschlechtsidentit\u00e4t oder sexuellen Orientierung schon einmal in ihrer Karriere benachteiligt wurden."
+                },
+                {
+                    "text": "22 Prozent haben sogar schon einmal ihren Job gek\u00fcndigt, weil sie Diskriminierung erlebt haben."
+                },
+                {
+                    "text": "In einem Video wirbt sie \u2013 verkleidet als Charakter Holly Golightly aus dem Film \"Fr\u00fchst\u00fcck bei Tiffany\" \u2013 f\u00fcr die Marke."
+                },
+                {
+                    "text": "Man habe auch nicht vorgehabt, die Holly-Golightly-Dosen in den Verkauf zu bringen."
+                },
+                {
+                    "text": "Wichtiger als kurzlebige PR-Aktionen ist laut Indeed-Chef Hensgens, dass Firmen im Alltag \u00fcberpr\u00fcfbar an sich arbeiten, indem sie beispielsweise Zeit, Geld und Treffpunkte f\u00fcr die LGBTIQ+-Community zur Verf\u00fcgung stellen."
+                }
+            ],
+            "occupations": [],
+            "directQuotes": [],
+            "quotedInTitle": false,
+            "quotedInIntro": false
+        },
+        {
+            "name": "Alissa Heinerscheid",
+            "alternativeNames": [],
+            "age": -1,
+            "sex": "female",
+            "occurences": {
+                "total": 1,
+                "firstNameOnly": 0,
+                "lastNameOnly": 0,
+                "fullName": 1,
+                "nickname": 0
+            },
+            "inTitle": false,
+            "inIntro": false,
+            "_name": {
+                "firstname": "Alissa",
+                "lastname": "Heinerscheid",
+                "nickname": null,
+                "alternative_names": [],
+                "academic_title": null,
+                "nobility_title_or_rank": null
+            },
+            "descriptiveTexts": [
+                {
+                    "text": "Alissa Heinerscheid, im Topmanagement zust\u00e4ndig f\u00fcr das Marketing und mit dem Versprechen angetreten, das Image der Biermarke zu entstauben, musste den Konzern bereits verlassen."
+                }
+            ],
+            "occupations": [],
+            "directQuotes": [
+                {
+                    "text": "Die queere Community sollte sich vernetzen k\u00f6nnen und etwa einen gesch\u00fctzten Raum zum Austausch bekommen"
+                }
+            ],
+            "quotedInTitle": false,
+            "quotedInIntro": false
+        },
+        {
+            "name": "Frank Hensgens",
+            "alternativeNames": [],
+            "age": -1,
+            "sex": "male",
+            "occurences": {
+                "total": 9,
+                "firstNameOnly": 0,
+                "lastNameOnly": 8,
+                "fullName": 1,
+                "nickname": 0
+            },
+            "inTitle": false,
+            "inIntro": false,
+            "_name": {
+                "firstname": "Frank",
+                "lastname": "Hensgens",
+                "nickname": null,
+                "alternative_names": [],
+                "academic_title": null,
+                "nobility_title_or_rank": null
+            },
+            "descriptiveTexts": [
+                {
+                    "text": "\"Unternehmen geben sich h\u00e4ufig freundlicher gegen\u00fcber queeren Menschen als sie es tats\u00e4chlich sind\", sagt Frank Hensgens, Gesch\u00e4ftsf\u00fchrer DACH von Indeed im Gespr\u00e4ch mit manager magazin \u2013 das Ph\u00e4nomen wird als Pinkwashing bezeichnet."
+                },
+                {
+                    "text": "Noch immer w\u00fcrden Mitgliedern der LGBTIQ+-Community in Firmen viele Rechte abgesprochen, sagt Hensgens."
+                },
+                {
+                    "text": "\"Es entsteht eine Abw\u00e4rtsspirale, die zu einem mangelnden Vertrauen in die F\u00fchrungskr\u00e4fte f\u00fchrt. Hier haben wir noch einen langen Weg vor uns\", sagt Hensgens."
+                },
+                {
+                    "text": "Das k\u00f6nnte l\u00e4ngst anders aussehen, sagt Hensgens."
+                },
+                {
+                    "text": "Wichtiger als kurzlebige PR-Aktionen ist laut Indeed-Chef Hensgens, dass Firmen im Alltag \u00fcberpr\u00fcfbar an sich arbeiten, indem sie beispielsweise Zeit, Geld und Treffpunkte f\u00fcr die LGBTIQ+-Community zur Verf\u00fcgung stellen."
+                },
+                {
+                    "text": "\"Die queere Community sollte sich vernetzen k\u00f6nnen und etwa einen gesch\u00fctzten Raum zum Austausch bekommen\", sagt er."
+                },
+                {
+                    "text": "Das zehre erheblich an den Kr\u00e4ften, wirke sich auch auf die Leistungen und damit auf die Karriere aus, sagt Hensgens."
+                },
+                {
+                    "text": "\"Vielmehr muss an der eigenen Unternehmenskultur gearbeitet werden, dann kommt die Diversit\u00e4t fast von allein\", sagt er."
+                },
+                {
+                    "text": "\"Wenn ein Kollege etwas Unpassendes sagt, sollte aus der F\u00fchrungsetage das Zeichen kommen, wieso das Verhalten verletzend sein kann und es keine Toleranz daf\u00fcr gibt\", sagt Hensgens."
+                },
+                {
+                    "text": "Und war es Absicht, dann bleibe nur durchgreifen: \"Mitarbeiter, die bewusst andere schikanieren, k\u00f6nnten so auch gek\u00fcndigt werden\", sagt Hensgens."
+                },
+                {
+                    "text": "Nicht nur f\u00fcr F\u00fchrungskr\u00e4fte, sondern auch f\u00fcr das gesamte Unternehmen, sagt Hensgens."
+                }
+            ],
+            "occupations": [
+                {
+                    "text": "Es entsteht eine Abw\u00e4rtsspirale, die zu einem mangelnden Vertrauen in die F\u00fchrungskr\u00e4fte f\u00fchrt"
+                },
+                {
+                    "text": "Es ist also auch wirtschaftlich betrachtet extrem wichtig, offen und divers zu sein"
+                },
+                {
+                    "text": "Unternehmen geben sich h\u00e4ufig freundlicher gegen\u00fcber queeren Menschen als sie es tats\u00e4chlich sind"
+                },
+                {
+                    "text": "Wenn ein Kollege etwas Unpassendes sagt, sollte aus der F\u00fchrungsetage das Zeichen kommen, wieso das Verhalten verletzend sein kann und es keine Toleranz daf\u00fcr gibt"
+                },
+                {
+                    "text": "Hier haben wir noch einen langen Weg vor uns"
+                }
+            ],
+            "directQuotes": [
+                {
+                    "text": "Unternehmen geben sich h\u00e4ufig freundlicher gegen\u00fcber queeren Menschen als sie es tats\u00e4chlich sind"
+                },
+                {
+                    "text": "Es entsteht eine Abw\u00e4rtsspirale, die zu einem mangelnden Vertrauen in die F\u00fchrungskr\u00e4fte f\u00fchrt. Hier haben wir noch einen langen Weg vor uns"
+                },
+                {
+                    "text": "Es ist also auch wirtschaftlich betrachtet extrem wichtig, offen und divers zu sein."
+                },
+                {
+                    "text": "Vielmehr muss an der eigenen Unternehmenskultur gearbeitet werden, dann kommt die Diversit\u00e4t fast von allein"
+                },
+                {
+                    "text": "Wenn ein Kollege etwas Unpassendes sagt, sollte aus der F\u00fchrungsetage das Zeichen kommen, wieso das Verhalten verletzend sein kann und es keine Toleranz daf\u00fcr gibt"
+                },
+                {
+                    "text": "Mitarbeiter, die bewusst andere schikanieren, k\u00f6nnten so auch gek\u00fcndigt werden"
+                },
+                {
+                    "text": "Solche Trainings k\u00f6nnten auch langfristig zu einer offeneren Kultur und damit Leistungssteigerung f\u00fchren."
+                }
+            ],
+            "quotedInTitle": false,
+            "quotedInIntro": false
+        }
+    ]
+}

@@ -1,0 +1,766 @@
+{
+  "persons": [
+    {
+      "age": 78, 
+      "alternativeNames": [],
+      "birthday": null,
+      "descriptiveTexts": [
+        {
+            "text": "Der letzte Jude von Harbin"
+          },
+          {
+          "text": "Als an einem Freitagabend der Schabbat beginnt, isst Dan Ben-Canaan chinesische Jiaozi, Teigtaschen, gefüllt mit Schweinefleisch."
+        },
+        {
+          "text": "Der 78-jährige Israeli ist nicht strenggläubig, ohnehin ist es schwer, in Harbin koscher zu leben."
+        },
+        {
+          "text": "Schließlich ist er der einzige Jude in dieser Siebenmillionenstadt in Heilongjiang, einer Provinz in Chinas eisigem Nordosten."
+        },
+        {
+          "text": "An der Wand seiner Wohnung hängen Tuschegemälde, auf einem Sims steht ein siebenarmiger Leuchter."
+        },
+        {
+          "text": "Der Historiker lebt in einer eigenen chinesisch-jüdischen Welt."
+        },
+        {
+          "text": "»Viele Leute denken, dass China sich dem jüdischen Volk nahe fühle und die beiden Kulturen einander ähnelten«, sagt Ben-Canaan."
+        },
+        {
+          "text": "So sieht es auch der 78-jährige Historiker Dan Ben-Canaan, heute laut eigenen Aussagen der einzige Jude in Harbin."
+        },
+        {
+          "text": "»Wenn ich in China jemanden treffe und der erfährt, dass ich Jude bin, bekomme ich sofort zu hören: Oh, du bist so schlau, du bist so reich«, sagt er."
+        },
+        {
+            "text": "»Ich finde diese Stereotypen sehr beleidigend. Tatsächlich bin ich nicht sehr schlau, und ich bin furchtbar arm, wissen Sie?«"
+          },
+          {
+          "text": "Nach China ist Ben-Canaan vor mehr als zwei Jahrzehnten gezogen, der Liebe wegen."
+        },
+        {
+          "text": "In Harbin gründete er 2002 das Sino-Israel Research and Study Center – Konkurrenz für Zhangs Institut."
+        },
+        {
+          "text": "Ben-Canaan kontaktierte Hunderte jüdische Familien in aller Welt, deren Vorfahren einst in Harbin lebten."
+        },
+        {
+          "text": "Sie schickten ihm Fotos, Dokumente, Tagebücher, Filmaufnahmen, er führte Interviews mit ihnen."
+        },
+        {
+          "text": "Aus dem Material destillierte er eine Erzählung über das jüdische Harbin, die ganz anders klingt als das offizielle Narrativ, das Zhang mitgeprägt hat."
+        },
+        {
+          "text": "Sicher, sagt Ben-Canaan, manche der Einwanderer hätten Erfolg gehabt, Fabriken gegründet und Handelskontore betrieben."
+        },
+        {
+          "text": "»Die meisten hatten eine schwierige Zeit hier«, sagt er."
+        },
+        {
+          "text": "Ben-Canaan findet das absurd."
+        },
+        {
+          "text": "Die russischen Besatzer hätten ihren Antisemitismus nach Heilongjiang mitgebracht, im Laufe der Jahre sei manches Vorurteil in das Denken der chinesischen Bevölkerung eingesickert, sagt er."
+        },
+        {
+          "text": "»Autoritäre Regime glauben, dass sie alles kontrollieren können, einschließlich der Geschichte«, sagt Ben-Canaan."
+        },
+        {
+          "text": "Ben-Canaan sagt, er halte es mit Theodor Herzl, dem Vordenker des Zionismus."
+        },
+        {
+            "text": "»Herzl schreibt: Wo Juden sind, gibt es Antisemitismus. Wo auch immer sie hingehen, wird Antisemitismus folgen. Dem stimme ich zu.«"
+          },
+          {
+          "text": "Trotzdem liebe er das Land."
+        },
+        {
+          "text": "»China ist mein Zuhause«, sagt er, »ich habe kein anderes.«"
+        }
+      ],
+      "directQuotes": [
+        {
+          "text": "Sie denken, China sei frei von Antisemitismus. Das ist absolut falsch."
+        },
+        {
+          "text": "Viele Leute denken, dass China sich dem jüdischen Volk nahe fühle und die beiden Kulturen einander ähnelten"
+        },
+        {
+          "text": "Wenn ich in China jemanden treffe und der erfährt, dass ich Jude bin, bekomme ich sofort zu hören: Oh, du bist so schlau, du bist so reich"
+        },
+        {
+          "text": "Ich finde diese Stereotypen sehr beleidigend. Tatsächlich bin ich nicht sehr schlau, und ich bin furchtbar arm, wissen Sie?"
+        },
+        {
+          "text": "Die meisten hatten eine schwierige Zeit hier"
+        },
+        {
+          "text": "Viele kamen als Flüchtlinge, sie waren Pogromen in Russland entkommen, hatten alles verloren, und viele von ihnen mussten die Kosaken bestechen, damit die sie über die Grenze ließen. In Harbin hatten sie weder Arbeit noch ein Zuhause."
+        },
+        {
+          "text": "Autoritäre Regime glauben, dass sie alles kontrollieren können, einschließlich der Geschichte"
+        },
+        {
+          "text": "Für sie ist Geschichte etwas Flüssiges, sie kann benutzt, verändert, gefärbt werden."
+        },
+        {
+          "text": "»Herzl schreibt: Wo Juden sind, gibt es Antisemitismus. Wo auch immer sie hingehen, wird Antisemitismus folgen. Dem stimme ich zu."
+        },
+        {
+          "text": "China ist mein Zuhause"
+        },
+        {
+          "text": "ich habe kein anderes."
+        }
+      ],
+      "inIntro": false,
+        "inTitle": true,
+      "indirectQuotes": [
+        {
+          "text": "Sicher, sagt Ben-Canaan, manche der Einwanderer hätten Erfolg gehabt, Fabriken gegründet und Handelskontore betrieben."
+        },
+        {
+          "text": "Die russischen Besatzer hätten ihren Antisemitismus nach Heilongjiang mitgebracht, im Laufe der Jahre sei manches Vorurteil in das Denken der chinesischen Bevölkerung eingesickert, sagt er."
+        },
+        {
+          "text": "Ben-Canaan sagt, er halte es mit Theodor Herzl, dem Vordenker des Zionismus."
+        },
+        {
+          "text": "China sei da keine Ausnahme."
+        },
+        {
+          "text": "Trotzdem liebe er das Land."
+        }
+      ],
+      "isMain": true,
+        "name": "Dan Ben-Canaan",
+      "occupations": [
+        {
+          "text": "Historiker"
+          },
+          {
+            "text": "Gründer vom Sino-Israel Research and Study Center"
+        }
+      ],
+      "occurences": {
+        "firstNameOnly": 0,
+          "fullName": 2,
+          "lastNameOnly": 7,
+        "total": 9
+      },
+      "quotedInIntro": false,
+      "quotedInTitle": false,
+      "sex": "male"
+    },
+    {
+      "age": -1, 
+      "alternativeNames": [],
+      "birthday": null,
+      "descriptiveTexts": [
+        {
+          "text": "So beurteilt es Israels Botschafterin in Peking, Irit Ben Abba."
+        },
+        {
+          "text": "»Einen derart extremen antisemitischen Diskurs haben wir in China in diesem Ausmaß zuvor noch nicht gesehen«, sagt sie."
+        }
+      ],
+      "directQuotes": [
+        {
+          "text": "ein Tsunami antisemitischer Äußerungen"
+        },
+        {
+          "text": "Einen derart extremen antisemitischen Diskurs haben wir in China in diesem Ausmaß zuvor noch nicht gesehen"
+        }
+      ],
+      "inIntro": false,
+      "inTitle": false,
+      "indirectQuotes": [
+        {
+          "text": "Nach dem Terrorangriff der Hamas auf Israel am 7. Oktober und seit Beginn des Krieges in Gaza sei »ein Tsunami antisemitischer Äußerungen« durch das chinesische Internet gerollt."
+        }
+      ],
+      "isMain": false,
+      "name": "Irit Ben Abba",
+      "occupations": [
+        {
+          "text": "Israels Botschafterin in Peking"
+        }
+      ],
+      "occurences": {
+        "firstNameOnly": 0,
+        "fullName": 1,
+        "lastNameOnly": 0,
+        "total": 1
+      },
+      "quotedInIntro": false,
+      "quotedInTitle": false,
+      "sex": "female"
+    },
+    {
+      "age": -1, 
+      "alternativeNames": [],
+      "birthday": null,
+      "descriptiveTexts": [
+        {
+          "text": "Tuvia Gering hat einige Antworten auf diese Frage."
+        },
+        {
+          "text": "Man erreicht den israelischen Chinaexperten telefonisch in Jerusalem, er hat gerade 24 Stunden Auszeit von seinem Reservistendienst bei der Armee."
+        },
+        {
+          "text": "In Friedenszeiten forscht er am Tel Aviver Institut für Nationale Sicherheitsstudien (INSS) über die Beziehungen seines Landes zur Volksrepublik, in letzter Zeit hat er sich viel mit chinesischem Antisemitismus beschäftigt."
+        },
+        {
+          "text": "»Der geopolitische Kontext ist von Bedeutung: Chinas Rivalität mit den USA«, sagt Gering."
+        },
+        {
+          "text": "»Seit zwei Jahren bekommen chinesische Internetnutzer aus russischen Quellen zu hören, dass Selenskyj ein Nazi sei und im Donbass einen Genozid verübe«, sagt Gering."
+        },
+        {
+          "text": "»Ich sehe nicht, dass großes Interesse besteht, die antisemitischen Inhalte zu entfernen«, sagt Wissenschaftler Gering."
+        },
+        {
+          "text": "Folgt man Gering, ist der offene Antisemitismus nicht unvermittelt oder in einem Vakuum entstanden: Auch schon vor dem Krieg fanden sich im chinesischen Diskurs dafür Anknüpfungspunkte."
+        },
+        {
+          "text": "Der Wissenschaftler Tuvia Gering vom INSS in Tel Aviv findet solche Aussagen trotzdem problematisch."
+        },
+        {
+          "text": "»Ich habe schon immer gesagt, dass diese positiven Stereotypen uns eines Tages in den Arsch beißen werden«, sagt er."
+        }
+      ],
+      "directQuotes": [
+        {
+          "text": "Der geopolitische Kontext ist von Bedeutung: Chinas Rivalität mit den USA"
+        },
+        {
+          "text": "Seit zwei Jahren bekommen chinesische Internetnutzer aus russischen Quellen zu hören, dass Selenskyj ein Nazi sei und im Donbass einen Genozid verübe"
+        },
+        {
+          "text": "Ich sehe nicht, dass großes Interesse besteht, die antisemitischen Inhalte zu entfernen"
+        },
+        {
+          "text": "Selbst wenn sie dem Geschwurbel nicht zustimmen, erkennen sie Punkte, die sie teilen – und finden es vertretbar, wenn einige Details ein bisschen verrutschen."
+        },
+        {
+          "text": "Ich habe schon immer gesagt, dass diese positiven Stereotypen uns eines Tages in den Arsch beißen werden"
+        },
+        {
+          "text": "Philosemitismus dreht schnell in Antisemitismus, das sind zwei Seiten einer Medaille."
+        }
+      ],
+      "inIntro": false,
+      "inTitle": false,
+      "indirectQuotes": [
+        {
+          "text": "Dieser nehme bereits seit einigen Jahren zu."
+        },
+        {
+          "text": "Für Chinas Machthaber habe die Angelegenheit keine Priorität, sie würden Antisemitismus für »eine Krankheit des Westens« halten."
+        }
+      ],
+      "isMain": true,
+      "name": "Tuvia Gering",
+      "occupations": [
+        {
+          "text": "israelischen Chinaexperten"},
+{
+            "text": "Forscher am Tel Aviver Institut für Nationale Sicherheitsstudien (INSS)"
+        },
+        {
+          "text": "Wissenschaftler"
+        }
+      ],
+      "occurences": {
+        "firstNameOnly": 0,
+        "fullName": 2,
+        "lastNameOnly": 4,
+        "total": 6
+      },
+      "quotedInIntro": false,
+      "quotedInTitle": false,
+      "sex": "male"
+    },
+    {
+      "age": -1, 
+      "alternativeNames": [],
+      "birthday": null,
+      "descriptiveTexts": [
+        {
+          "text": "»Seit zwei Jahren bekommen chinesische Internetnutzer aus russischen Quellen zu hören, dass Selenskyj ein Nazi sei und im Donbass einen Genozid verübe«, sagt Gering."
+          },
+          {
+            "text": "Tenor: »Vom Juden Selenskyj ist es nicht weit zu den Juden in Israel, die nun vermeintlich das Gleiche in Gaza anrichten.«"
+        }
+      ],
+      "directQuotes": [],
+      "inIntro": false,
+      "inTitle": false,
+      "indirectQuotes": [],
+      "isMain": false,
+      "name": "Selenskyj",
+      "occupations": [],
+      "occurences": {
+        "firstNameOnly": 0,
+          "fullName": 0,
+          "lastNameOnly": 2,
+        "total": 2
+      },
+      "quotedInIntro": false,
+      "quotedInTitle": false,
+      "sex": "male"
+    },
+    {
+      "age": -1, 
+      "alternativeNames": [],
+      "birthday": null,
+      "descriptiveTexts": [
+        {
+          "text": "Viele chinesische Internetnutzer fluteten Steven Spielbergs Holocaust-Film »Schindlers Liste« mit Ein-Stern-Bewertungen, sein Rating auf der Videoplattform Bilibili stürzte auf 4,5 von 10 Punkten ab."
+        }
+      ],
+      "directQuotes": [],
+      "inIntro": false,
+      "inTitle": false,
+      "indirectQuotes": [],
+      "isMain": false,
+      "name": "Steven Spielberg",
+      "occupations": [],
+      "occurences": {
+        "firstNameOnly": 0,
+        "fullName": 1,
+        "lastNameOnly": 0,
+        "total": 1
+      },
+      "quotedInIntro": false,
+      "quotedInTitle": false,
+      "sex": "male"
+    },
+    {
+      "age": -1, 
+      "alternativeNames": [],
+      "birthday": null,
+      "descriptiveTexts": [
+        {
+          "text": "So erklärte die Influencerin Su Lin ihrer Followern, knapp eine Million, die Hamas gehe mit Israel »immer noch zu sanft« um, sei der jüdische Staat doch eine Reinkarnation des deutschen Naziregimes."
+        }
+      ],
+      "directQuotes": [
+        {
+          "text": "immer noch zu sanft"
+        }
+      ],
+      "inIntro": false,
+      "inTitle": false,
+      "indirectQuotes": [
+        {
+          "text": "So erklärte die Influencerin Su Lin ihrer Followern, knapp eine Million, die Hamas gehe mit Israel »immer noch zu sanft« um, sei der jüdische Staat doch eine Reinkarnation des deutschen Naziregimes."
+        }
+      ],
+      "isMain": false,
+      "name": "Su Lin",
+      "occupations": [
+        {
+          "text": "Influencerin"
+        }
+      ],
+      "occurences": {
+        "firstNameOnly": 0,
+        "fullName": 1,
+        "lastNameOnly": 0,
+        "total": 1
+      },
+      "quotedInIntro": false,
+      "quotedInTitle": false,
+      "sex": "female"
+    },
+    {
+      "age": -1, 
+      "alternativeNames": [],
+      "birthday": null,
+      "descriptiveTexts": [
+        {
+          "text": "Am Grab von Ehud Olmerts Opa"
+        },
+        {
+          "text": "Sein Enkel, Israels Ex-Premier Ehud Olmert, hat die letzte Ruhestätte seines Großvaters 2009 besucht."
+        },
+        {
+          "text": "Nett sei Olmert gewesen, sagt Zhang, der ihn damals begleitete."
+        },
+        {
+            "text": "Eine Stele am Eingang erinnert an Olmerts Besuch."
+          },
+          {
+          "text": "Hinter Glas ein Dankesbrief Ehud Olmerts."
+        }
+      ],
+      "directQuotes": [],
+      "inIntro": false,
+      "inTitle": false,
+      "indirectQuotes": [],
+      "isMain": false,
+      "name": "Ehud Olmert",
+      "occupations": [
+        {
+          "text": "Enkel"
+        },
+        {
+          "text": "Israels Ex-Premier"
+        }
+      ],
+      "occurences": {
+        "firstNameOnly": 0,
+        "fullName": 3,
+        "lastNameOnly": 2,
+        "total": 5
+      },
+      "quotedInIntro": false,
+      "quotedInTitle": false,
+      "sex": "male"
+    },
+    {
+      "age": 62, 
+      "alternativeNames": [],
+      "birthday": null,
+      "descriptiveTexts": [
+        {
+          "text": "Auf dem jüdischen Friedhof von Harbin stapft der emeritierte Judaistikprofessor Zhang Tiejiang durch den Schnee."
+        },
+        {
+          "text": "Bald findet Zhang, was er sucht, einen polierten schwarzen Grabstein."
+        },
+        {
+          "text": "Nett sei Olmert gewesen, sagt Zhang, der ihn damals begleitete."
+        },
+        {
+          "text": "Der 62-Jährige geht in die Knie und wischt behutsam den Schnee von der Steinplatte."
+        },
+        {
+          "text": "Dass Harbin dennoch seine jüdische Vergangenheit konserviert hat, ist nicht zuletzt Zhangs Verdienst."
+        },
+        {
+          "text": "Bis zu seiner Pensionierung war er Vizedirektor des jüdischen Forschungszentrums, das im Jahr 2000 auf seine Initiative hin an der Akademie für Sozialwissenschaften von Heilongjiang gegründet worden war."
+        },
+        {
+          "text": "Schon als junger Bibliothekar hatte er historische Dokumente über die Stadtgeschichte durchforstet und war dabei auf jüdische Namen gestoßen."
+        },
+        {
+            "text": "»Ich begriff, dass viele derer, die einst die Elite der Stadt bildeten, Juden waren. So begann mein Interesse am jüdischen Volk.«"
+          },
+          {
+          "text": "Zhang steigt ins Auto, es geht ins frühere jüdische Viertel im Stadtzentrum."
+        },
+        {
+          "text": "Die Fördermittel für dessen Restaurierung hat Zhang aufgetrieben."
+        },
+        {
+          "text": "»Dort war das jüdische Altenheim«, sagt er und deutet aus dem Autofenster."
+        },
+        {
+          "text": "Zhang geht die Stufen hinauf und betritt den früheren Gebetssaal."
+        },
+        {
+          "text": "Zhang hat sie mitkuratiert."
+        },
+        {
+            "text": "In den Neunzigerjahren, als Zhang seine Forschung begann, hatten China und Israel  zum ersten Mal Botschafter ausgetauscht."
+          },
+          {
+            "text": "In seinen Aufsätzen hat Zhang dafür plädiert, Harbin solle seine jüdische Vergangenheit herauskehren, um die wirtschaftlichen Beziehungen zu Israel zu stärken."
+        },
+        {
+          "text": "Die Akademie für Sozialwissenschaften von Heilongjiang, Zhangs Arbeitgeber, hat dreimal ein »Internationales Forum zur Wirtschaftszusammenarbeit mit den Juden der Welt« in Harbin ausgerichtet."
+        },
+        {
+          "text": "»Als wirtschaftlich weniger entwickelte Region musste Heilongjiang sich anstrengen, Investitionen anzuziehen«, sagt Zhang."
+        },
+        {
+            "text": "In Harbin gründete er 2002 das Sino-Israel Research and Study Center – Konkurrenz für Zhangs Institut."
+          },
+          {
+          "text": "Aus dem Material destillierte er eine Erzählung über das jüdische Harbin, die ganz anders klingt als das offizielle Narrativ, das Zhang mitgeprägt hat."
+        }
+      ],
+      "directQuotes": [
+        {
+          "text": "Ich begriff, dass viele derer, die einst die Elite der Stadt bildeten, Juden waren. So begann mein Interesse am jüdischen Volk."
+        },
+        {
+          "text": "Dort war das jüdische Altenheim"
+        },
+        {
+          "text": "Als wirtschaftlich weniger entwickelte Region musste Heilongjiang sich anstrengen, Investitionen anzuziehen"
+        },
+        {
+          "text": "Man nennt die Juden auch die Kaufleute der Welt."
+        },
+        {
+          "text": "an der Spitze des Fortschritts"
+        }
+      ],
+      "inIntro": false,
+      "inTitle": false,
+      "indirectQuotes": [
+        {
+          "text": "Nett sei Olmert gewesen, sagt Zhang, der ihn damals begleitete."
+        },
+        {
+          "text": "In seinen Aufsätzen hat Zhang dafür plädiert, Harbin solle seine jüdische Vergangenheit herauskehren, um die wirtschaftlichen Beziehungen zu Israel zu stärken"
+        },
+        {
+          "text": "Sie stünden »an der Spitze des Fortschritts«."
+        }
+      ],
+      "isMain": false,
+      "name": "Zhang Tiejiang",
+      "occupations": [
+        {
+          "text": "emeritierte Judaistikprofessor"
+        },
+        {
+          "text": "Vizedirektor des jüdischen Forschungszentrums"
+        },
+        {
+          "text": "junger Bibliothekar"
+        }
+      ],
+      "occurences": {
+        "firstNameOnly": 0,
+        "fullName": 1,
+        "lastNameOnly": 13,
+        "total": 14
+      },
+      "quotedInIntro": false,
+      "quotedInTitle": false,
+      "sex": "male"
+    },
+    {
+      "age": -1, 
+      "alternativeNames": [],
+      "birthday": null,
+      "descriptiveTexts": [
+        {
+          "text": "Das Grab des russischen Einwanderers Josef Olmert, der in Harbin gelebt hatte und 1941 hier starb."
+          },
+          {
+            "text": "Sein Enkel, Israels Ex-Premier Ehud Olmert, hat die letzte Ruhestätte seines Großvaters 2009 besucht."
+        }
+      ],
+      "directQuotes": [],
+      "inIntro": false,
+      "inTitle": false,
+      "indirectQuotes": [],
+      "isMain": false,
+      "name": "Josef Olmert",
+      "occupations": [
+        {
+          "text": "russischen Einwanderers"
+        },
+        {
+            "text": "Ehud Olmerts Opa"
+          }
+      ],
+      "occurences": {
+        "firstNameOnly": 0,
+        "fullName": 1,
+        "lastNameOnly": 0,
+        "total": 1
+      },
+      "quotedInIntro": false,
+      "quotedInTitle": false,
+      "sex": "male"
+    },
+    {
+      "age": -1, 
+      "alternativeNames": [],
+      "birthday": null,
+      "descriptiveTexts": [
+        {
+          "text": "Und eine ganze Wand mit Bildern jüdischer Geistesgrößen: Karl Marx, Franz Kafka, Leo Trotzki, Albert Einstein, Rosa Luxemburg."
+        }
+      ],
+      "directQuotes": [],
+      "inIntro": false,
+      "inTitle": false,
+      "indirectQuotes": [],
+      "isMain": false,
+      "name": "Karl Marx",
+      "occupations": [
+        {
+          "text": "jüdischer Geistesgrößen"
+        }
+      ],
+      "occurences": {
+        "firstNameOnly": 0,
+        "fullName": 1,
+        "lastNameOnly": 0,
+        "total": 1
+      },
+      "quotedInIntro": false,
+      "quotedInTitle": false,
+      "sex": "male"
+    },
+    {
+      "age": -1, 
+      "alternativeNames": [],
+      "birthday": null,
+      "descriptiveTexts": [
+        {
+          "text": "Und eine ganze Wand mit Bildern jüdischer Geistesgrößen: Karl Marx, Franz Kafka, Leo Trotzki, Albert Einstein, Rosa Luxemburg."
+        }
+      ],
+      "directQuotes": [],
+      "inIntro": false,
+      "inTitle": false,
+      "indirectQuotes": [],
+      "isMain": false,
+      "name": "Franz Kafka",
+      "occupations": [
+        {
+          "text": "jüdischer Geistesgrößen"
+        }
+      ],
+      "occurences": {
+        "firstNameOnly": 0,
+        "fullName": 1,
+        "lastNameOnly": 0,
+        "total": 1
+      },
+      "quotedInIntro": false,
+      "quotedInTitle": false,
+      "sex": "male"
+    },
+    {
+      "age": -1, 
+      "alternativeNames": [],
+      "birthday": null,
+      "descriptiveTexts": [
+        {
+          "text": "Und eine ganze Wand mit Bildern jüdischer Geistesgrößen: Karl Marx, Franz Kafka, Leo Trotzki, Albert Einstein, Rosa Luxemburg."
+        }
+      ],
+      "directQuotes": [],
+      "inIntro": false,
+      "inTitle": false,
+      "indirectQuotes": [],
+      "isMain": false,
+      "name": "Leo Trotzki",
+      "occupations": [
+        {
+          "text": "jüdischer Geistesgrößen"
+        }
+      ],
+      "occurences": {
+        "firstNameOnly": 0,
+        "fullName": 1,
+        "lastNameOnly": 0,
+        "total": 1
+      },
+      "quotedInIntro": false,
+      "quotedInTitle": false,
+      "sex": "male"
+    },
+    {
+      "age": -1, 
+      "alternativeNames": [],
+      "birthday": null,
+      "descriptiveTexts": [
+        {
+          "text": "Und eine ganze Wand mit Bildern jüdischer Geistesgrößen: Karl Marx, Franz Kafka, Leo Trotzki, Albert Einstein, Rosa Luxemburg."
+        }
+      ],
+      "directQuotes": [],
+      "inIntro": false,
+      "inTitle": false,
+      "indirectQuotes": [],
+      "isMain": false,
+      "name": "Albert Einstein",
+      "occupations": [
+        {
+          "text": "jüdischer Geistesgrößen"
+        }
+      ],
+      "occurences": {
+        "firstNameOnly": 0,
+        "fullName": 1,
+        "lastNameOnly": 0,
+        "total": 1
+      },
+      "quotedInIntro": false,
+      "quotedInTitle": false,
+      "sex": "male"
+    },
+    {
+      "age": -1, 
+      "alternativeNames": [],
+      "birthday": null,
+      "descriptiveTexts": [
+        {
+          "text": "Und eine ganze Wand mit Bildern jüdischer Geistesgrößen: Karl Marx, Franz Kafka, Leo Trotzki, Albert Einstein, Rosa Luxemburg."
+        }
+      ],
+      "directQuotes": [],
+      "inIntro": false,
+      "inTitle": false,
+      "indirectQuotes": [],
+      "isMain": false,
+      "name": "Rosa Luxemburg",
+      "occupations": [
+        {
+          "text": "jüdischer Geistesgrößen"
+        }
+      ],
+      "occurences": {
+        "firstNameOnly": 0,
+        "fullName": 1,
+        "lastNameOnly": 0,
+        "total": 1
+      },
+      "quotedInIntro": false,
+      "quotedInTitle": false,
+      "sex": "female"
+    },
+    {
+      "age": -1, 
+      "alternativeNames": [],
+      "birthday": null,
+      "descriptiveTexts": [
+        {
+          "text": "Ben-Canaan sagt, er halte es mit Theodor Herzl, dem Vordenker des Zionismus."
+        },
+        {
+            "text": "»Herzl schreibt: Wo Juden sind, gibt es Antisemitismus. Wo auch immer sie hingehen, wird Antisemitismus folgen. Dem stimme ich zu.«"
+        }
+      ],
+      "directQuotes": [
+      	{
+            "text": "Wo Juden sind, gibt es Antisemitismus. Wo auch immer sie hingehen, wird Antisemitismus folgen."
+          }],
+      "inIntro": false,
+      "inTitle": false,
+      "indirectQuotes": [
+        
+      ],
+      "isMain": false,
+      "name": "Theodor Herzl",
+      "occupations": [
+        {
+          "text": "Vordenker des Zionismus"
+        }
+      ],
+      "occurences": {
+        "firstNameOnly": 0,
+        "fullName": 1,
+        "lastNameOnly": 1,
+        "total": 2
+      },
+      "quotedInIntro": false,
+      "quotedInTitle": false,
+      "sex": "male"
+    }
+  ],
+  "subtopics": [
+    "Antisemitismus", "China",
+      "Zensur"  ]
+}

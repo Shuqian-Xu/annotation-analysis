@@ -1,0 +1,407 @@
+{
+  "persons": [
+    {
+      "age": -1,
+      "alternativeNames": [],
+      "birthday": null,
+      "descriptiveTexts": [
+        {
+          "text": "Seither dürfen die Gründer und Co-Chefs Valentin Stalf und Maximilian Tayenthal pro Monat nur 50.000 Neukunden aufnehmen."
+        },
+        {
+          "text": "Wie Stalf und Tayenthal sich aus der misslichen Lage befreien wollen, lesen Sie heute auf unserer Website."
+        }
+      ],
+        "directQuotes": [],
+      "inIntro": false,
+      "inTitle": false,
+        "indirectQuotes": [],
+      "isMain": false,
+      "name": "Valentin Stalf",
+      "occupations": [
+        {
+            "text": "N26 Gründer und Co-Chef"
+        }
+      ],
+      "occurrences": {
+        "firstNameOnly": 0,
+        "fullName": 1,
+        "lastNameOnly": 1,
+        "total": 2
+      },
+      "quotedInIntro": false,
+      "quotedInTitle": false,
+      "sex": "male"
+    },
+    {
+      "age": -1,
+      "alternativeNames": [],
+      "birthday": null,
+      "descriptiveTexts": [
+        {
+          "text": "Seither dürfen die Gründer und Co-Chefs Valentin Stalf und Maximilian Tayenthal pro Monat nur 50.000 Neukunden aufnehmen."
+        },
+        {
+          "text": "Wie Stalf und Tayenthal sich aus der misslichen Lage befreien wollen, lesen Sie heute auf unserer Website."
+        }
+      ],
+        "directQuotes": [],
+      "inIntro": false,
+      "inTitle": false,
+        "indirectQuotes": [],
+      "isMain": false,
+      "name": "Maximilian Tayenthal",
+      "occupations": [
+        {
+            "text": "N26 Gründer und Co-Chef"
+        }
+      ],
+        "occurrences": {
+        "firstNameOnly": 0,
+        "fullName": 1,
+        "lastNameOnly": 1,
+        "total": 2
+      },
+      "quotedInIntro": false,
+      "quotedInTitle": false,
+      "sex": "male"
+    },
+    {
+      "age": -1,
+      "alternativeNames": [],
+      "birthday": null,
+      "descriptiveTexts": [
+        {
+          "text": "Wie meine Kollegen Katharina Slodczyk und Dietmar Palan exklusiv in Erfahrung brachten, versuchen die wichtigsten Finanziers mittlerweile ihr Kapital zu retten."
+        }
+      ],
+        "directQuotes": [],
+      "inIntro": false,
+      "inTitle": false,
+        "indirectQuotes": [],
+      "isMain": false,
+      "name": "Katharina Slodczyk",
+      "occupations": [
+        {
+          "text": "Kollegen"
+        }
+      ],
+      "occurrences": {
+        "firstNameOnly": 0,
+        "fullName": 1,
+        "lastNameOnly": 0,
+        "total": 1
+      },
+      "quotedInIntro": false,
+      "quotedInTitle": false,
+      "sex": "female"
+    },
+    {
+      "age": -1,
+      "alternativeNames": [],
+      "birthday": null,
+      "descriptiveTexts": [
+        {
+          "text": "Wie meine Kollegen Katharina Slodczyk und Dietmar Palan exklusiv in Erfahrung brachten, versuchen die wichtigsten Finanziers mittlerweile ihr Kapital zu retten."
+        }
+      ],
+        "directQuotes": [],
+      "inIntro": false,
+      "inTitle": false,
+      "indirectQuotes": [],
+      "isMain": false,
+      "name": "Dietmar Palan",
+      "occupations": [
+        {
+          "text": "Kollegen"
+        }
+      ],
+      "occurrences": {
+        "firstNameOnly": 0,
+        "fullName": 1,
+        "lastNameOnly": 0,
+        "total": 1
+      },
+      "quotedInIntro": false,
+      "quotedInTitle": false,
+      "sex": "male"
+    },
+    {
+      "age": -1,
+      "alternativeNames": [],
+      "birthday": null,
+      "descriptiveTexts": [
+        {
+          "text": "Gerry Weber verlässt die Börse: Der Damenmodehändler Gerry Weber steht vier Jahre nach der Insolvenz wieder vor drastischen Krisenmaßnahmen."
+        }
+      ],
+      "directQuotes": [],
+      "inIntro": false,
+      "inTitle": false,
+      "indirectQuotes": [],
+      "isMain": false,
+      "name": "Gerry Weber",
+      "occupations": [
+        {
+          "text": "Damenmodehändler"
+        }
+      ],
+      "occurrences": {
+        "firstNameOnly": 0,
+        "fullName": 2,
+        "lastNameOnly": 0,
+        "total": 2
+      },
+      "quotedInIntro": false,
+      "quotedInTitle": false,
+      "sex": "male"
+    },
+    {
+      "age": -1,
+      "alternativeNames": [],
+      "birthday": null,
+      "descriptiveTexts": [
+        {
+          "text": "Die Behauptungen stammen vom früheren US-Präsident Donald Trump und seinen Anwälten."
+        },
+        {
+          "text": "Das Unternehmen im Eigentum des Medienmoguls Rupert Murdoch zahlt nun 787 Millionen Dollar Schadensersatz und erkennt damit indirekt an, dass sich Fox-Moderatoren in den Dienst Trumps stellten und dabei auch Lügen verbreiteten."
+        },
+        {
+          "text": "Schon vor dem offiziellen Prozessauftakt förderte der Streit etliche saftige Details aus dem Innenleben von Fox News und seinem Verhältnis zum Trump-Lager zu Tage."
+        }
+      ],
+      "directQuotes": [],
+      "inIntro": false,
+      "inTitle": false,
+      "indirectQuotes": [],
+      "isMain": false,
+      "name": "Donald Trump",
+      "occupations": [
+        {
+          "text": "früherer US-Präsident"
+        }
+      ],
+      "occurrences": {
+        "firstNameOnly": 0,
+        "fullName": 1,
+        "lastNameOnly": 2,
+        "total": 3
+      },
+      "quotedInIntro": false,
+      "quotedInTitle": false,
+      "sex": "male"
+    },
+    {
+      "age": -1,
+      "alternativeNames": [],
+      "birthday": null,
+      "descriptiveTexts": [
+        {
+          "text": "Das Unternehmen im Eigentum des Medienmoguls Rupert Murdoch zahlt nun 787 Millionen Dollar Schadensersatz und erkennt damit indirekt an, dass sich Fox-Moderatoren in den Dienst Trumps stellten und dabei auch Lügen verbreiteten."
+        }
+      ],
+      "directQuotes": [],
+      "inIntro": false,
+      "inTitle": false,
+      "indirectQuotes": [],
+      "isMain": false,
+      "name": "Rupert Murdoch",
+      "occupations": [
+        {
+          "text": "Medienmogul"
+        }
+      ],
+      "occurrences": {
+        "firstNameOnly": 0,
+        "fullName": 1,
+        "lastNameOnly": 0,
+        "total": 1
+      },
+      "quotedInIntro": false,
+      "quotedInTitle": false,
+      "sex": "male"
+    },
+    {
+      "age": -1,
+      "alternativeNames": [],
+      "birthday": null,
+      "descriptiveTexts": [
+        {
+          "text": "Etwa die erst neun Jahre alte Firma Hoffmann Green Cement, geführt von dem Franzosen Julien Blanchard."
+        },
+        {
+          "text": "Vom beschaulichen Rives de l`Yon an der französischen Atlantikküste zettelt er mit seinem Partner David Hoffmann eine wahre Revolution an: vollwertigen Zement ohne Verbrennungsprozesse."
+        }
+      ],
+      "directQuotes": [],
+      "inIntro": false,
+      "inTitle": false,
+      "indirectQuotes": [],
+      "isMain": false,
+      "name": "Julien Blanchard",
+      "occupations": [
+        {
+          "text": "Chef von Hoffmann Green Cement"
+        }
+      ],
+      "occurrences": {
+        "firstNameOnly": 0,
+        "fullName": 1,
+        "lastNameOnly": 0,
+        "total": 1
+      },
+      "quotedInIntro": false,
+      "quotedInTitle": false,
+      "sex": "male"
+    },
+    {
+      "age": -1,
+      "alternativeNames": [],
+      "birthday": null,
+      "descriptiveTexts": [
+        {
+          "text": "Vom beschaulichen Rives de l`Yon an der französischen Atlantikküste zettelt er mit seinem Partner David Hoffmann eine wahre Revolution an: vollwertigen Zement ohne Verbrennungsprozesse."
+          },
+        {
+          "text": "Doch das Potenzial ist da, schreiben die Kollegen, für eine ordentliche 'Rendite mit grünen Baustoff-Herstellern.'"
+        }
+      ],
+      "directQuotes": [],
+      "inIntro": false,
+      "inTitle": false,
+      "indirectQuotes": [],
+      "isMain": false,
+      "name": "David Hoffmann",
+      "occupations": [
+        {
+          "text": "Partner von Julien Blanchard"
+        }
+      ],
+      "occurrences": {
+        "firstNameOnly": 0,
+        "fullName": 1,
+        "lastNameOnly": 0,
+        "total": 1
+      },
+      "quotedInIntro": false,
+      "quotedInTitle": false,
+      "sex": "male"
+    },
+    {
+      "age": -1,
+      "alternativeNames": [],
+      "birthday": null,
+      "descriptiveTexts": [
+        {
+          "text": "Anleger, die ihr Geld mit reinem Gewissen anlegen wollen, können hier investieren – und in etliche andere grüne Bauunternehmen, die meine Kollegen Stefan Merx und Thomas Mersch hier vorstellen."
+        },
+        {
+          "text": "Doch das Potenzial ist da, schreiben die Kollegen, für eine ordentliche 'Rendite mit grünen Baustoff-Herstellern.'"
+        }
+    ],
+      "directQuotes": [],
+      "inIntro": false,
+      "inTitle": false,
+      "indirectQuotes": [],
+      "isMain": false,
+      "name": "Stefan Merx",
+      "occupations": [
+        {
+            "text": "Kollege"
+        }
+      ],
+      "occurrences": {
+        "firstNameOnly": 0,
+        "fullName": 1,
+        "lastNameOnly": 0,
+        "total": 1
+      },
+      "quotedInIntro": false,
+      "quotedInTitle": false,
+      "sex": "male"
+    },
+    {
+      "age": -1,
+      "alternativeNames": [],
+      "birthday": null,
+      "descriptiveTexts": [
+        {
+          "text": "Anleger, die ihr Geld mit reinem Gewissen anlegen wollen, können hier investieren – und in etliche andere grüne Bauunternehmen, die meine Kollegen Stefan Merx und Thomas Mersch hier vorstellen."
+        }
+      ],
+      "directQuotes": [],
+      "inIntro": false,
+      "inTitle": false,
+      "indirectQuotes": [],
+      "isMain": false,
+      "name": "Thomas Mersch",
+      "occupations": [
+        {
+          "text": "Kollege"
+        }
+      ],
+      "occurrences": {
+        "firstNameOnly": 0,
+        "fullName": 1,
+        "lastNameOnly": 0,
+        "total": 1
+      },
+      "quotedInIntro": false,
+      "quotedInTitle": false,
+      "sex": "male"
+    },
+    {
+      "age": -1,
+      "alternativeNames": [],
+      "birthday": null,
+      "descriptiveTexts": [
+        {
+          "text": "Jeden Abend fassen wir die wichtigsten Wirtschaftsnews des Tages zusammen."
+        },
+        {
+          "text": "Wie meine Kollegen Katharina Slodczyk und Dietmar Palan exklusiv in Erfahrung brachten, versuchen die wichtigsten Finanziers mittlerweile ihr Kapital zu retten."
+        },
+        {
+          "text": "Meine Empfehlung für den Abend."
+        },
+        {
+          "text": "Anleger, die ihr Geld mit reinem Gewissen anlegen wollen, können hier investieren – und in etliche andere grüne Bauunternehmen, die meine Kollegen Stefan Merx und Thomas Mersch hier vorstellen."
+        },
+        {
+          "text": "Herzliche Grüße und einen entspannten Abend, Ihre Eva Buchhorn."
+        },
+        {
+          "text": "Haben Sie Wünsche, Anregungen, Informationen, um die wir uns journalistisch kümmern sollten?"
+        },
+        {
+          "text": "Wir freuen uns auf Ihre Post unter chefredaktion@manager-magazin.de."
+        }
+      ],
+      "directQuotes": [],
+      "inIntro": false,
+      "inTitle": false,
+      "indirectQuotes": [],
+      "isMain": false,
+      "name": "Eva Buchhorn",
+      "occupations": [],
+      "occurrences": {
+      "firstNameOnly": 0,
+      "fullName": 1,
+      "lastNameOnly": 0,
+      "total": 1
+      },
+      "quotedInIntro": false,
+      "quotedInTitle": false,
+      "sex": "female"
+    }
+  ],
+  "subtopics": [
+    "Unternehmen",
+    "Wirtschaft",
+    "Politik",
+    "Digitalbank N26",
+    "Bahnstreik",
+    "Anlagen"
+  ]
+}

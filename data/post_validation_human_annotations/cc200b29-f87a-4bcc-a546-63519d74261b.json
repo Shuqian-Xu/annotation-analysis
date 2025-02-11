@@ -1,0 +1,73 @@
+{
+  "persons": [
+    {
+      "age": -1,
+      "alternativeNames": [],
+      "birthday": null,
+      "descriptiveTexts": [
+        {
+          "text": "Darüber informiert in diesem Podcast Christina Kyriasoglou, Tech-Reporterin des manager magazins, im Gespräch mit Chefredakteur Sven Clausen."
+        }
+      ],
+      "directQuotes": [],
+      "inIntro": false,
+      "inTitle": false,
+      "indirectQuotes": [],
+      "isMain": false,
+      "name": "Christina Kyriasoglou",
+      "occupations": [
+        {
+          "text": "Tech-Reporterin des manager magazins"
+        }
+      ],
+      "occurrences": {
+        "firstNameOnly": 0,
+        "fullName": 1,
+        "lastNameOnly": 0,
+        "total": 1
+      },
+      "quotedInIntro": false,
+      "quotedInTitle": false,
+      "sex": "female"
+    },
+    {
+      "age": -1,
+      "alternativeNames": [],
+      "birthday": null,
+      "descriptiveTexts": [
+        {
+          "text": "Darüber informiert in diesem Podcast Christina Kyriasoglou, Tech-Reporterin des manager magazins, im Gespräch mit Chefredakteur Sven Clausen."
+        },
+        {
+          "text": "Im Podcast »Das Thema« informiert die Chefredaktion des manager magazins jede Woche über den internen Recherchestand zu einem relevanten aktuellen und zugleich zukunftsträchtigen Thema der Wirtschaft."
+        }
+      ],
+      "directQuotes": [],
+      "inIntro": false,
+      "inTitle": false,
+      "indirectQuotes": [],
+      "isMain": false,
+      "name": "Sven Clausen",
+      "occupations": [
+        {
+          "text": "Chefredakteur"
+        }
+      ],
+      "occurrences": {
+        "firstNameOnly": 0,
+        "fullName": 1,
+        "lastNameOnly": 0,
+        "total": 1
+      },
+      "quotedInIntro": false,
+      "quotedInTitle": false,
+      "sex": "male"
+    }
+  ],
+  "subtopics": [
+    "Unternehmen",
+    "Technologie",
+    "KI",
+    "Techkonzerne"
+  ]
+}

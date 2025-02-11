@@ -1,0 +1,205 @@
+{
+  "persons": [
+    {
+      "age": 57, 
+      "alternativeNames": [],
+      "birthday": null,
+      "descriptiveTexts": [
+        {
+          "text": "Bundesernährungsminister Cem Özdemir fordert ein Werbeverbot, um Kinder vor ungesunden Lebensmitteln zu schützen."
+        },
+        {
+          "text": "Wenn es nach Cem Özedmir (57; Grüne) geht, sollen solche Botschaften bald der Vergangenheit angehören."
+        },
+        {
+          "text": "Herr Strelow, wie sinnvoll ist das Vorhaben von Minister Özdemir?"
+        },
+        {
+          "text": "Aus neurowissenschaftlicher Sicht geht mir der Vorstoß von Minister Özdemir daher nicht weit genug."
+        },
+        {
+          "text": "Es ist der Grund, warum viele Menschen auch trotz der teils schockierenden Fotos auf den Zigarettenpackungen weiter rauchen was nicht unbedingt dafür spricht, dass Özdemirs Vorstoß viel bewirken könnte."
+        },
+        {
+          "text": "Im Februar hat der Bundesminister für Ernährung ein Gesetzesvorhaben angekündigt, das »an Kinder gerichtete Werbung für Lebensmittel mit hohem Zucker-, Fett- oder Salzgehalt in allen für Kinder relevanten Medien« verbieten soll."
+        }
+      ],
+      "directQuotes": [
+        {
+          "text": "an Kinder gerichtete Werbung für Lebensmittel mit hohem Zucker-, Fett- oder Salzgehalt in allen für Kinder relevanten Medien"
+        }
+      ],
+      "inIntro": true,
+      "inTitle": false,
+      "indirectQuotes": [
+        
+      ],
+      "isMain": true,
+      "name": "Cem Özdemir",
+      "occupations": [
+        {
+          "text": "Bundesernährungsminister"
+        }
+      ],
+      "occurences": {
+        "firstNameOnly": 0,
+        "fullName": 2,
+        "lastNameOnly": 3,
+        "total": 5
+      },
+      "quotedInIntro": false,
+      "quotedInTitle": false,
+      "sex": "male"
+    },
+    {
+      "age": -1, 
+      "alternativeNames": [],
+      "birthday": null,
+      "descriptiveTexts": [
+        {
+          "text": "Der langjährige Ferrero-Manager Enrique Strelow erklärt, warum ihm der Vorstoß nicht weit genug geht."
+        },
+        {
+          "text": "Der langjährige Ferrero-Manager Enrique Strelow weiß genau, warum wir uns so leicht zum Naschen verlocken lassen."
+        },
+        {
+          "text": "manger magazin: Herr Strelow, wie sinnvoll ist das Vorhaben von Minister Özdemir?"
+        },
+        {
+          "text": "Enrique Strelow: Ich halte es für zwingend."
+        }
+      ],
+      "directQuotes": [
+        {
+          "text": "Ich halte es für zwingend. Wir Menschen handeln nicht vernünftig. Die allermeisten Kaufentscheidungen fällen wir unbewusst und ohne nachzudenken. Das Belohnungssystem in unserem Gehirn liebt Zucker und es reagiert extrem heftig darauf. Blickt man auf die Entwicklung der Menschheit, dann hat der Homo sapiens fast immer Hunger gelitten. In diesen Jahrtausenden des Hungerns war Zucker in süßen Früchten für unsere Vorfahren ein echter Überlebensvorteil: viel Energie für wenig Aufwand. Diese Präferenz hat sich im Laufe der Evolution tief in unser Gehirn eingeschrieben. Je öfter wir durch die Werbung mit der süßen Versuchung konfrontiert werden, desto größer wird unser Verlangen."
+        },
+        {
+          "text": "Das Problem sind nicht die Werbeinhalte an sich, sondern die assoziative Aktivierung des suchtartigen Verlangens."
+        },
+        {
+          "text": "Nein, aber schon das kindliche Gehirn reagiert auf solche Reize, egal, ob das Medium sich speziell an Kinder richtet oder nicht. Kinder sehen an jeder Straßenecke Plakate, Werbung auf Bussen, in Zeitschriften, online und im Fernsehen sowieso. Jede Begegnung mit Werbung für Lebensmittel mit hohem Suchtfaktor hat das Potenzial, die Vertrautheit mit dem Stoff zu erhöhen, den Stoff zu normalisieren und Verlangen danach aufzubauen. Aus neurowissenschaftlicher Sicht geht mir der Vorstoß von Minister Özdemir daher nicht weit genug. Nicht nur Werbung für Süßwaren, sondern auch für Alkohol und Tabakwaren sollte vollständig verboten werden."
+        },
+        {
+          "text": "Natürlich spielen die Werbeeinnahmen für Sender und Verlage eine Rolle. Aber wenn man nur auf die Werbefreiheit schaut, macht man es sich zu einfach. Wir haben es mit einer hohen Machtkonzentration einzelner Konzerne zu tun, in einzelnen Segmenten kann man von Oligopolen sprechen. Es ist illusorisch, zu glauben, dass der Wettbewerb alle Probleme löst. Einige dieser Hersteller leiten ihre Gewinne geschickt in Steueroasen um. Auch darin könnte man eine Gefahr für unsere Wirtschaftsordnung und unsere Demokratie sehen. Ich halte es auch nicht für die Aufgabe einzelner Unternehmen, unsere Medienvielfalt zu garantieren. Das halte ich im Zweifel für eine gesellschaftspolitische Aufgabe."
+        },
+        {
+          "text": "Die Studienlage ist eindeutig: Den rein rational handelnden Konsumenten gibt es in der Realität nicht. Einkaufen ist ein emotionaler Vorgang, und bei Suchtmitteln sind die Reaktionen heftig und durchschlagend. Da versagt jede Kontrolle. Das Gehirn reagiert assoziativ auf jeden angebotenen Reiz: ob wir das nun bewusst wollen oder nicht, spielt dabei keine Rolle. Deshalb ist es so schwer, zu einer Zigarette oder einem Stück Torte 'Nein' zu sagen. Es ist der Grund, warum viele Menschen auch trotz der teils schockierenden Fotos auf den Zigarettenpackungen weiter rauchen…"
+        },
+        {
+          "text": "Wenn man das Problem der Dickleibigkeit insbesondere auch bei Kindern und Jugendlichen wirklich angehen will, wird die Politik trotzdem nicht um ein Werbeverbot herumkommen."
+        },
+        {
+          "text": "Ich war jung und brauchte das Geld. Aber Spaß beiseite: Ich wünsche mir tatsächlich aus ganzem Herzen, ich hätte damals einen vollkommen anderen Beruf ergriffen. Wenn ich damals gewusst hätte, was ich heute weiß, hätte ich das nicht mit meinem Gewissen vereinbaren können. Um etwas zurückzugeben, versuche ich mit wissenschaftlichen Methoden Kindern zu helfen, die an ADHS leiden."
+        },
+        {
+          "text": "Ich habe mich intensiv mit Neurowissenschaften beschäftigt. Dadurch wurde mir klar, dass wir als Menschen den Reizen, die uns die Lebensmittelkonzerne ständig anbieten, gar nicht widerstehen können. Extremes Übergewicht und viele andere, sogenannte Wohlstanderkrankungen, sind die Folge davon. Die Konzerne verdienen immer mehr mit ihren Produkten, die Gesellschaft wiederum muss für die gesundheitlichen Kosten aufkommen."
+        },
+        {
+          "text": "Erst kürzlich hat eine Studie nachgewiesen, dass der Umsatz von Süßwaren deutlich zurückgeht, wenn Handelsunternehmen auf solche, in der Branche als Zweitplatzierungen bekannte Maßnahmen verzichten. Inzwischen sind viele Händler für das Thema sensibilisiert. Allerdings gibt es wenige, die freiwillig – gerade angesichts der aktuell steigenden Kosten – auf Umsatz verzichten wollen und können."
+        },
+        {
+          "text": "Lebensmittelhersteller sind keine gemeinnützigen Vereine. Diese Unternehmen wollen Gewinne erzielen. Dazu gehört auch nach dem betriebswirtschaftlichen 1×1, regelmäßig die Zutatenliste zu durchleuchten und nach Einsparmöglichkeiten zu suchen. Je höher die Qualität eines Rohstoffs, desto höher der Preis. Eine niedrigere Qualität erhöht also die Marge. Es ist schon paradox: Trotz des Hypes um mehr Nachhaltigkeit und Bioqualität hat sich etwa der Aktienkurs des Aromenherstellers Symrise in den letzten zehn Jahren verfünffacht."
+        },
+        {
+          "text": "Ich wundere mich immer wieder, wie lange es dauern kann, bis Maßnahmen wie eine Ampel-Kennzeichnung auf Lebensmitteln umgesetzt werden. Aber wir sind auf dem richtigen Weg. In der Bevölkerung findet generell ein Umdenken beim Thema Lebensmittel statt, das sieht man etwa beim Fleischkonsum. Einige Medien bezeichnen den übermäßigen Zuckerkonsum als das neue Rauchen. Aber zur Wahrheit gehört auch: Die härteste Zuckerlobby ist unser Gehirn!"
+        }
+      ],
+      "inIntro": false,
+      "inTitle": false,
+      "indirectQuotes": [
+        
+      ],
+      "isMain": true,
+      "name": "Enrique Strelow",
+      "occupations": [
+        {
+          "text": "langjährige Ferrero-Manager"
+        }
+      ],
+      "occurences": {
+        "firstNameOnly": 0,
+        "fullName": 3,
+        "lastNameOnly": 1,
+        "total": 4
+      },
+      "quotedInIntro": false,
+      "quotedInTitle": false,
+      "sex": "male"
+    },
+    {
+      "age": -1, 
+      "alternativeNames": [],
+      "birthday": null,
+      "descriptiveTexts": [
+        {
+          "text": "Die Gegner fahren große Geschütze auf: Uwe Storch wittert 'erhebliche Konsequenzen für eine werbefinanzierte Medienvielfalt und den demokratischen Diskurs.'"
+        },
+        {
+          "text": "Er ist Vorsitzender der Organisation Werbungtreibende im Markenverband (OWM) und Mediachef des Süßwarenkonzerns Ferrero."
+        }
+      ],
+      "directQuotes": [
+        {
+          "text": "erhebliche Konsequenzen für eine werbefinanzierte Medienvielfalt und den demokratischen Diskurs."
+        }
+      ],
+      "inIntro": false,
+      "inTitle": false,
+      "indirectQuotes": [],
+      "isMain": false,
+      "name": "Uwe Storch",
+      "occupations": [
+        {
+          "text": "Vorsitzender der Organisation Werbungtreibende im Markenverband (OWM)"
+        },
+        {
+          "text": "Mediachef des Süßwarenkonzerns Ferrero"
+        }
+      ],
+      "occurences": {
+        "firstNameOnly": 0,
+        "fullName": 1,
+        "lastNameOnly": 0,
+        "total": 1
+      },
+      "quotedInIntro": false,
+      "quotedInTitle": false,
+      "sex": "male"
+    },
+    {
+      "age": -1,
+      "alternativeNames": [],
+      "birthday": null,
+      "descriptiveTexts": [
+        {
+          "text": "Sie haben selbst jahrelang für Ferrero neue Werbespots konzipiert, unter anderem mit Stars wie Supermodel Claudia Schiffer."
+        }
+      ],
+      "directQuotes": [
+      ],
+      "inIntro": false,
+      "inTitle": false,
+      "indirectQuotes": [
+      ],
+      "isMain": false,
+      "name": "Claudia Schiffer",
+      "occupations": [
+        {
+          "text": "Supermodel"
+        }
+      ],
+      "occurences": {
+        "firstNameOnly": 0,
+        "fullName": 1,
+        "lastNameOnly": 0,
+        "total": 1
+      },
+      "quotedInIntro": false,
+      "quotedInTitle": false,
+      "sex": "female"
+    }
+  ],
+  "subtopics": [
+    "Ernährung", "Gesundheit", "Lobbyismus", "Unternehmen"
+  ]
+}

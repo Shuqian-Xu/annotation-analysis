@@ -1,0 +1,347 @@
+{
+	"persons": [
+		{
+			"age": -1,
+			"alternativeNames": [],
+			"birthday": null,
+			"descriptiveTexts": [
+				{
+					"text": "Jeden Abend fassen wir die wichtigsten Wirtschaftsnews des Tages zusammen."
+				},
+				{
+					"text": "Meine Empfehlung für den Abend: Progressives Grünzeug: Effizienz ist keine Frage der Ideologie."
+				},
+				{
+					"text": "Ich wünsche Ihnen einen erholsamen Abend, Ihr Christian Schütte"
+				},
+				{
+					"text": "Haben Sie Wünsche, Anregungen, Informationen, um die wir uns journalistisch kümmern sollten?"
+				},
+				{
+					"text": "Wir freuen uns auf Ihre Post unter chefredaktion@manager-magazin.de."
+				}
+			],
+			"directQuotes": [],
+			"inIntro": true,
+			"inTitle": false,
+			"indirectQuotes": [],
+			"isMain": false,
+			"name": "Christian Schütte",
+			"occupations": [],
+			"occurrences": {
+				"firstNameOnly": 0,
+				"fullName": 1,
+				"lastNameOnly": 0,
+				"total": 1
+			},
+			"quotedInIntro": false,
+			"quotedInTitle": false,
+			"sex": "male"
+		},
+		{
+			"age": -1,
+			"alternativeNames": [],
+			"birthday": null,
+			"descriptiveTexts": [
+				{
+					"text": "Es ist noch nicht amtlich, aber an der Börse trug es heute schon zu einem Dax-Rekordhoch bei: Die US-Notenbanker um Fed-Chef Jay Powell werden bei ihrer Sitzung am heutigen Abend wahrscheinlich auf eine Zinserhöhung verzichten."
+				},
+				{
+					"text": "Die Fed-Watcher reden von einer »Pause« oder einem »Aussetzen«, nicht vom Ende der Straffungspolitik; Powells Kollegen von der EZB dürften bei ihrem morgigen Treffen eine weitere Zinserhöhung beschließen."
+				}
+			],
+			"directQuotes": [],
+			"inIntro": false,
+			"inTitle": false,
+			"indirectQuotes": [],
+			"isMain": false,
+			"name": "Jay Powell",
+			"occupations": [
+				{
+					"text": "Fed-Chef"
+				}
+			],
+			"occurrences": {
+				"firstNameOnly": 0,
+				"fullName": 1,
+				"lastNameOnly": 1,
+				"total": 2
+			},
+			"quotedInIntro": false,
+			"quotedInTitle": false,
+			"sex": "male"
+		},
+		{
+			"age": -1,
+			"alternativeNames": [],
+			"birthday": null,
+			"descriptiveTexts": [
+				{
+					"text": "Dessen Chefin Doreen Nowotne hört auf."
+				}
+			],
+			"directQuotes": [],
+			"inIntro": false,
+			"inTitle": false,
+			"indirectQuotes": [],
+			"isMain": false,
+			"name": "Doreen Nowotne",
+			"occupations": [
+				{
+					"text": "Chefin"
+				}
+			],
+			"occurrences": {
+				"firstNameOnly": 0,
+				"fullName": 1,
+				"lastNameOnly": 0,
+				"total": 1
+			},
+			"quotedInIntro": false,
+			"quotedInTitle": false,
+			"sex": "female"
+		},
+		{
+			"age": -1,
+			"alternativeNames": [],
+			"birthday": null,
+			"descriptiveTexts": [
+				{
+					"text": "Warum dieser strategisch geplante Showdown ein Lehrstück über die wachsende Macht aktivistischer Investoren ist und welche Rolle hier erstmals die sogenannten Stimmrechtsberater spielen, das erklären Ihnen schon vorab meine Kolleginnen Eva Buchhorn und Katharina Slodczyk."
+				}
+			],
+			"directQuotes": [],
+			"inIntro": false,
+			"inTitle": false,
+			"indirectQuotes": [],
+			"isMain": false,
+			"name": "Eva Buchhorn",
+			"occupations": [
+				{
+					"text": "Kolleginnen"
+				}
+			],
+			"occurrences": {
+				"firstNameOnly": 0,
+				"fullName": 1,
+				"lastNameOnly": 0,
+				"total": 1
+			},
+			"quotedInIntro": false,
+			"quotedInTitle": false,
+			"sex": "female"
+		},
+		{
+			"age": -1,
+			"alternativeNames": [],
+			"birthday": null,
+			"descriptiveTexts": [
+				{
+					"text": "Warum dieser strategisch geplante Showdown ein Lehrstück über die wachsende Macht aktivistischer Investoren ist und welche Rolle hier erstmals die sogenannten Stimmrechtsberater spielen, das erklären Ihnen schon vorab meine Kolleginnen Eva Buchhorn und Katharina Slodczyk."
+				}
+			],
+			"directQuotes": [],
+			"inIntro": false,
+			"inTitle": false,
+			"indirectQuotes": [],
+			"isMain": false,
+			"name": "Katharina Slodczyk",
+			"occupations": [
+				{
+					"text": "Kolleginnen"
+				}
+			],
+			"occurrences": {
+				"firstNameOnly": 0,
+				"fullName": 1,
+				"lastNameOnly": 0,
+				"total": 1
+			},
+			"quotedInIntro": false,
+			"quotedInTitle": false,
+			"sex": "female"
+		},
+		{
+			"age": -1,
+			"alternativeNames": [],
+			"birthday": null,
+			"descriptiveTexts": [
+				{
+					"text": "Trotz des erneut verpassten Aufstiegs erhält der Fußball-Zweitligist Hamburger SV weitere 30 Millionen Euro vom Investor und AG-Anteilseigner Klaus-Michael Kühne."
+				},
+				{
+					"text": "Der Multimilliardär stützt den einstigen »Bundesliga-Dino« HSV seit Jahren."
+				},
+				{
+					"text": "Im mm-Interview hat er sein bisheriges Investment allerdings selbstkritisch als »Flop« bezeichnet."
+				}
+			],
+			"directQuotes": [],
+			"inIntro": false,
+			"inTitle": false,
+			"indirectQuotes": [
+				{
+					"text": "Im mm-Interview hat er sein bisheriges Investment allerdings selbstkritisch als »Flop« bezeichnet."
+				}
+			],
+			"isMain": false,
+			"name": "Klaus-Michael Kühne",
+			"occupations": [
+				{
+					"text": "Investor"
+				},
+				{
+					"text": "AG-Anteilseigner"
+				},
+				{
+					"text": "Multimilliardär"
+				}
+			],
+			"occurrences": {
+				"firstNameOnly": 0,
+				"fullName": 1,
+				"lastNameOnly": 0,
+				"total": 1
+			},
+			"quotedInIntro": false,
+			"quotedInTitle": false,
+			"sex": "male"
+		},
+		{
+			"age": 60,
+			"alternativeNames": [],
+			"birthday": null,
+			"descriptiveTexts": [
+				{
+					"text": "Carmine Di Sibio, der EY-Weltchef, ist damit im April gescheitert."
+				},
+				{
+					"text": "Jetzt hat der 60-Jährige sein Projekt Ruhestand angekündigt."
+				},
+				{
+					"text": "Di Sibio hört erst in einem Jahr auf, doch der Wettlauf um seine Nachfolge ist ab sofort eröffnet."
+				}
+			],
+			"directQuotes": [],
+			"inIntro": false,
+			"inTitle": false,
+			"indirectQuotes": [
+				{
+					"text": "Jetzt hat der 60-Jährige sein Projekt Ruhestand angekündigt."
+				}
+			],
+			"isMain": false,
+			"name": "Carmine Di Sibio",
+			"occupations": [
+				{
+					"text": "EY-Weltchef"
+				}
+			],
+			"occurrences": {
+				"firstNameOnly": 0,
+				"fullName": 1,
+				"lastNameOnly": 1,
+				"total": 2
+			},
+			"quotedInIntro": false,
+			"quotedInTitle": false,
+			"sex": "male"
+		},
+		{
+			"age": -1,
+			"alternativeNames": [],
+			"birthday": null,
+			"descriptiveTexts": [
+				{
+					"text": "Warum die »Viability« – die Wirtschaftlichkeit – der Schlüssel zur echten Innovation ist, und wie man sich an sie heranarbeitet, erklärt mein Kollege Ingmar Höhmann in seiner Kolumne »Strategie zum Frühstück«."
+				}
+			],
+			"directQuotes": [],
+			"inIntro": false,
+			"inTitle": false,
+			"indirectQuotes": [],
+			"isMain": false,
+			"name": "Ingmar Höhmann",
+			"occupations": [
+				{
+					"text": "Kollege"
+				}
+			],
+			"occurrences": {
+				"firstNameOnly": 0,
+				"fullName": 1,
+				"lastNameOnly": 0,
+				"total": 1
+			},
+			"quotedInIntro": false,
+			"quotedInTitle": false,
+			"sex": "male"
+		},
+		{
+			"age": -1,
+			"alternativeNames": [],
+			"birthday": null,
+			"descriptiveTexts": [
+				{
+					"text": "Das zeigt mein Kollege Claus Gorgs in einer besonders bodenständigen Case Study."
+				}
+			],
+			"directQuotes": [],
+			"inIntro": false,
+			"inTitle": false,
+			"indirectQuotes": [],
+			"isMain": false,
+			"name": "Claus Gorgs",
+			"occupations": [
+				{
+					"text": "Kollege"
+				}
+			],
+			"occurrences": {
+				"firstNameOnly": 0,
+				"fullName": 1,
+				"lastNameOnly": 0,
+				"total": 1
+			},
+			"quotedInIntro": false,
+			"quotedInTitle": false,
+			"sex": "male"
+		},
+		{
+			"age": -1,
+			"alternativeNames": [],
+			"birthday": null,
+			"descriptiveTexts": [
+				{
+					"text": "Laurenz Meyer, der auch auf Kurzstrecken noch immer einen Diesel fährt, hat seinen Gemüse- und Obstverarbeiter bei Bremen zu einem Vorreiter der Energiewende gemacht."
+				},
+				{
+					"text": "Gemüse Meyer schrubbt und frostet heute überwiegend mit selbst erzeugtem Grünstrom."
+				}
+			],
+			"directQuotes": [],
+			"inIntro": false,
+			"inTitle": false,
+			"indirectQuotes": [],
+			"isMain": false,
+			"name": "Laurenz Meyer",
+			"occupations": [],
+			"occurrences": {
+				"firstNameOnly": 0,
+				"fullName": 1,
+				"lastNameOnly": 0,
+				"total": 1
+			},
+			"quotedInIntro": false,
+			"quotedInTitle": false,
+			"sex": "male"
+		}
+	],
+	"subtopics": [
+		"Führungskräfte",
+		"Wirtschaft",
+		"Personalwesen",
+		"Unternehmen",
+		"Energiewende"
+	]
+}

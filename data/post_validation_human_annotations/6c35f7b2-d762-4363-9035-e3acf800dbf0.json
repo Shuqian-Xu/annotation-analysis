@@ -1,0 +1,336 @@
+{
+  "persons": [
+    {
+      "age": -1,
+      "alternativeNames": [],
+      "birthday": null,
+      "descriptiveTexts": [
+        {
+          "text": "Vor einigen Wochen trennte sich eine wohlhabende Chanel-Kundin von 252 Kleidungsstücken und Accessoires aus Haute-Couture-Kollektionen, die Karl Lagerfeld zwischen 1990 und 2014 für Chanel entworfen hatte."
+        }
+      ],
+      "directQuotes": [],
+      "inIntro": false,
+      "inTitle": false,
+      "indirectQuotes": [],
+      "isMain": false,
+      "name": "Karl Lagerfeld",
+      "occupations": [
+        {
+          "text": "Entwerfer für Chanel"
+        }
+      ],
+      "occurrences": {
+        "firstNameOnly": 0,
+        "fullName": 1,
+        "lastNameOnly": 0,
+        "total": 1
+      },
+      "quotedInIntro": false,
+      "quotedInTitle": false,
+      "sex": "male"
+    },
+    {
+      "age": -1,
+      "alternativeNames": [],
+      "birthday": null,
+      "descriptiveTexts": [
+        {
+          "text": "Lucile Andreani leitet beim Auktionshaus Christie’s in Paris die Abteilung für Taschen und Accessoires und beobachtet seit Jahren, welche Stücke an Wert gewinnen."
+        },
+        {
+          "text": "»Käufer, die Luxusprodukte mit Investmentpotenzial kaufen wollen, sollten den Fokus auf zeitlose Designs legen, auf limitierte Editionen und auf ikonische Produkte von bekannten Marken wie Chanel oder Hermès«, sagt sie."
+        },
+        {
+          "text": "»Es ist extrem wichtig, auf den Zustand eines Stückes zu achten, wenn man sein Investmentpotenzial maximieren will«, sagt Lucile Andreani."
+        },
+        {
+          "text": "»Taschen sollten regelmäßig gesäubert werden. Glatt- oder genarbtes Leder kann man mit einem feuchten Papiertuch abwischen, bei Wildleder sollte man nur trockene Tücher verwenden«, sagt sie."
+        },
+        {
+          "text": "»Die können sie aus der Form bringen und Spuren auf dem Material hinterlassen. Immer gepolsterte Bügel verwenden«, sagt Andreani."
+        }
+      ],
+      "directQuotes": [
+        {
+          "text": "Käufer, die Luxusprodukte mit Investmentpotenzial kaufen wollen, sollten den Fokus auf zeitlose Designs legen, auf limitierte Editionen und auf ikonische Produkte von bekannten Marken wie Chanel oder Hermès"
+        },
+        {
+          "text": "Deren Entwürfe haben über die Jahre hinweg bewiesen, dass sie extrem beliebt sind, weil die Menschen das Handwerk dahinter schätzen, die Exklusivität und das ikonische Image, das sie sich aufgebaut haben."
+        },
+        {
+          "text": "Es ist extrem wichtig, auf den Zustand eines Stückes zu achten, wenn man sein Investmentpotenzial maximieren will"
+        },
+        {
+          "text": "Taschen sollten regelmäßig gesäubert werden. Glatt- oder genarbtes Leder kann man mit einem feuchten Papiertuch abwischen, bei Wildleder sollte man nur trockene Tücher verwenden"
+        },
+        {
+          "text": "Bei der Aufbewahrung sollte man darauf achten, dass eine Tasche mit Seidenpapier ausgestopft ist, und in ihrem Staubbeutel am besten liegend in ihrer originalen Schachtel verstaut wird."
+        },
+        {
+          "text": "Die können sie aus der Form bringen und Spuren auf dem Material hinterlassen."
+        },
+        {
+          "text": "Immer gepolsterte Bügel verwenden"
+        }
+      ],
+      "inIntro": false,
+      "inTitle": false,
+      "indirectQuotes": [],
+      "isMain": false,
+      "name": "Lucile Andreani",
+      "occupations": [
+        {
+          "text": "Abteilungsleiterin für Taschen und Accessoires beim Auktionshaus Christie’s in Paris"
+        }
+      ],
+      "occurrences": {
+        "firstNameOnly": 0,
+        "fullName": 2,
+        "lastNameOnly": 1,
+        "total": 3
+      },
+      "quotedInIntro": false,
+      "quotedInTitle": false,
+      "sex": "female"
+    },
+    {
+      "age": -1,
+      "alternativeNames": [],
+      "birthday": null,
+      "descriptiveTexts": [
+        {
+          "text": "Auch Sophie Hersan, Fashion Director und Mitbegründerin der Resale-Plattform Vestiaire Collective, bestätigt, dass die großen etablierten Marken auf dem Wiederverkaufsmarkt weltweit die begehrtesten sind: Chanel, Hermès, Louis Vuitton, auch Gucci oder Dior."
+        },
+        {
+          "text": "»Meist treiben drei Dinge den Wert nach oben: Qualität, ein knappes Angebot und ein besonderes Erbe, das mit einer Marke assoziiert wird«, sagt sie."
+        },
+        {
+          "text": "Wenn es um Kleidung geht, empfiehlt Hersan, sich an bedeutenden Designern zu orientieren, die einen großen Einfluss auf die Mode haben und denen eine kulturelle Relevanz zugesprochen wird."
+        },
+        {
+          "text": "»Phoebe Philo ist dafür ein gutes Beispiel«, sagt sie über die britische Designerin und ehemalige Kreativdirektorin von Céline, die mit den sogenannten »Philophiles« eine ganze Fangemeinde hinter sich vereint."
+        },
+        {
+          "text": "Sie vermutet, dass noch andere gefeierte Designer in Zukunft eine ähnliche Nachfrage auslösen könnten."
+        },
+        {
+          "text": "»Ich denke zum Beispiel an Alessandro Michele, den Ex-Chefdesigner von Gucci. Oder Hedi Slimane, der heute für Céline arbeitet. Das sind Kreative, zu deren Werk die Menschen eine emotionale Bindung aufgebaut haben. Und das kann sich darauf auswirken, wie viel ihre Entwürfe irgendwann wert sind.«"
+        },
+        {
+          "text": "Hersan glaubt, dass auch Pharrell Williams’ Kollektionen für die Herrenlinie von Louis Vuitton das Potenzial haben, irgendwann einen hohen Wiederverkaufswert zu erreichen."
+        },
+        {
+          "text": "Hersan empfiehlt, den Trendzyklus im Auge zu behalten."
+        },
+        {
+          "text": "»Manche Stücke, die zu den Klassikern eines Labels gehören, sind eine Weile besonders angesagt, dann nimmt das Interesse wieder ab«, sagt sie."
+        }
+      ],
+      "directQuotes": [
+        {
+          "text": "Meist treiben drei Dinge den Wert nach oben: Qualität, ein knappes Angebot und ein besonderes Erbe, das mit einer Marke assoziiert wird"
+        },
+        {
+          "text": "Manche Produkte von Hermès sind deswegen so begehrt, weil man sie in der Boutique praktisch nicht bekommt."
+        },
+        {
+          "text": "Die Nachfrage übersteigt das Angebot."
+        },
+        {
+          "text": "Deswegen schauen sich Kunden auf Resale-Plattformen um, wo der Preis dann sogar höher liegen kann als im Geschäft."
+        },
+        {
+          "text": "Phoebe Philo ist dafür ein gutes Beispiel"
+        },
+        {
+          "text": "Hohe popkulturelle Bedeutung"
+        },
+        {
+          "text": "Ich denke zum Beispiel an Alessandro Michele, den Ex-Chefdesigner von Gucci."
+        },
+        {
+          "text": "Oder Hedi Slimane, der heute für Céline arbeitet."
+        },
+        {
+          "text": "Das sind Kreative, zu deren Werk die Menschen eine emotionale Bindung aufgebaut haben."
+        },
+        {
+          "text": "Und das kann sich darauf auswirken, wie viel ihre Entwürfe irgendwann wert sind."
+        },
+        {
+          "text": "Manche Stücke, die zu den Klassikern eines Labels gehören, sind eine Weile besonders angesagt, dann nimmt das Interesse wieder ab"
+        },
+        {
+          "text": "Das ist der Moment, in dem es sich lohnt, sie auf dem Resale-Markt zu einem günstigeren Preis zu kaufen."
+        },
+        {
+          "text": "Mit großer Wahrscheinlichkeit sind sie irgendwann wieder gefragt, und dann steigt der Preis."
+        }
+      ],
+      "inIntro": false,
+      "inTitle": false,
+      "indirectQuotes": [
+        {
+          "text": "Wenn es um Kleidung geht, empfiehlt Hersan, sich an bedeutenden Designern zu orientieren, die einen großen Einfluss auf die Mode haben und denen eine kulturelle Relevanz zugesprochen wird."
+        },
+        {
+          "text": "Bei Vestiaire Collective wurden, nach eigenen Angaben, allein in diesem Jahr 25.000 Produkte von Céline verkauft."
+        },
+        {
+          "text": "Ein Mantel allein habe 18.000 Euro eingebracht."
+        },
+        {
+          "text": "Hersan glaubt, dass auch Pharrell Williams’ Kollektionen für die Herrenlinie von Louis Vuitton das Potenzial haben, irgendwann einen hohen Wiederverkaufswert zu erreichen."
+        },
+        {
+          "text": "Eine solche Partnerschaft habe eine hohe popkulturelle Bedeutung."
+        }
+      ],
+      "isMain": true,
+      "name": "Sophie Hersan",
+      "occupations": [
+        {
+          "text": "Fashion Director und Mitbegründerin der Resale-Plattform Vestiaire Collective"
+        }
+      ],
+      "occurrences": {
+        "firstNameOnly": 0,
+        "fullName": 1,
+        "lastNameOnly": 2,
+        "total": 3
+      },
+      "quotedInIntro": false,
+      "quotedInTitle": false,
+      "sex": "female"
+    },
+    {
+      "age": -1,
+      "alternativeNames": [],
+      "birthday": null,
+      "descriptiveTexts": [
+        {
+          "text": "»Phoebe Philo ist dafür ein gutes Beispiel«, sagt sie über die britische Designerin und ehemalige Kreativdirektorin von Céline, die mit den sogenannten »Philophiles« eine ganze Fangemeinde hinter sich vereint."
+        }
+      ],
+      "directQuotes": [],
+      "inIntro": false,
+      "inTitle": false,
+      "indirectQuotes": [],
+      "isMain": false,
+      "name": "Phoebe Philo",
+      "occupations": [
+        {
+          "text": "Designerin"
+        },
+        {
+          "text": "ehemalige Kreativdirektorin von Céline"
+        }
+      ],
+      "occurrences": {
+        "firstNameOnly": 0,
+        "fullName": 1,
+        "lastNameOnly": 0,
+        "total": 1
+      },
+      "quotedInIntro": false,
+      "quotedInTitle": false,
+      "sex": "female"
+    },
+    {
+      "age": -1,
+      "alternativeNames": [],
+      "birthday": null,
+      "descriptiveTexts": [
+        {
+          "text": "Pharrell Williams’ Kollektionen: »Hohe popkulturelle Bedeutung«"
+        },
+        {
+          "text": "Hersan glaubt, dass auch Pharrell Williams’ Kollektionen für die Herrenlinie von Louis Vuitton das Potenzial haben, irgendwann einen hohen Wiederverkaufswert zu erreichen."
+        }
+      ],
+      "directQuotes": [],
+      "inIntro": false,
+      "inTitle": false,
+      "indirectQuotes": [],
+      "isMain": false,
+      "name": "Pharrell Williams",
+      "occupations": [],
+      "occurrences": {
+        "firstNameOnly": 0,
+        "fullName": 2,
+        "lastNameOnly": 0,
+        "total": 2
+      },
+      "quotedInIntro": false,
+      "quotedInTitle": false,
+      "sex": "male"
+    },
+    {
+      "age": -1,
+      "alternativeNames": [],
+      "birthday": null,
+      "descriptiveTexts": [
+        {
+          "text": "Ich denke zum Beispiel an Alessandro Michele, den Ex-Chefdesigner von Gucci."
+        }
+      ],
+      "directQuotes": [],
+      "inIntro": false,
+      "inTitle": false,
+      "indirectQuotes": [],
+      "isMain": false,
+      "name": "Alessandro Michele",
+      "occupations": [
+        {
+          "text": "Ex-Chefdesigner von Gucci"
+        }
+      ],
+      "occurrences": {
+        "firstNameOnly": 0,
+        "fullName": 1,
+        "lastNameOnly": 0,
+        "total": 1
+      },
+      "quotedInIntro": false,
+      "quotedInTitle": false,
+      "sex": "male"
+    },
+    {
+      "age": -1,
+      "alternativeNames": [],
+      "birthday": null,
+      "descriptiveTexts": [
+        {
+          "text": "Oder Hedi Slimane, der heute für Céline arbeitet."
+        }
+      ],
+      "directQuotes": [],
+      "inIntro": false,
+      "inTitle": false,
+      "indirectQuotes": [],
+      "isMain": false,
+      "name": "Hedi Slimane",
+      "occupations": [
+        {
+          "text": "arbeitet für Céline"
+        }
+      ],
+      "occurrences": {
+        "firstNameOnly": 0,
+        "fullName": 1,
+        "lastNameOnly": 0,
+        "total": 1
+      },
+      "quotedInIntro": false,
+      "quotedInTitle": false,
+      "sex": "male"
+    }
+  ],
+  "subtopics": [
+    "Stil",
+    "Luxus",
+    "Investmentpotenzial",
+    "Mode"
+  ]
+}

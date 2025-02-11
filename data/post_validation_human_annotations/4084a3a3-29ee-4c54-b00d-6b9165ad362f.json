@@ -1,0 +1,94 @@
+{
+  "persons": [
+    {
+      "age": -1,
+      "alternativeNames": [],
+      "birthday": null,
+      "descriptiveTexts": [
+        {
+          "text": "»Die Dieselspeicher in ganz Europa wurden bis Ende Januar fast maximal gefüllt«, sagt Hagen Reiners, Experte für deutsche Mineralölpreise von der Preisnotierungsagentur Argus Media gegenüber dem manager magazin."
+        },
+        {
+          "text": "Hintergrund für die starke Einlagerung von Diesel war laut Reiners das EU-Embargo gegen russischen Diesel, das im Februar in Kraft tritt."
+        },
+        {
+          "text": "»Der Dieselpreis ist stark gebunden an die Wirtschaftsleistung Europas«, sagt Reiners."
+        },
+        {
+          "text": "Auf dem Weltmarkt war das Dieselangebot Reiners zufolge ebenfalls stärker als erwartet."
+        },
+        {
+          "text": "»Russischer Diesel hat relativ gut neue Absatzmärkte gefunden. Zum Beispiel deckt die Türkei inzwischen fast ihren gesamten Dieselbedarf aus Russland«, sagt der Energiepreisexperte."
+        },
+        {
+          "text": "»Die Gewinne durch die Produktion von Diesel waren für die russischen Raffineriebetreiber sehr hoch durch den geringen Rohölpreis«, erklärt Reiners."
+        },
+        {
+          "text": "Seit Mai, als die Regierung die Quoten wieder senkte, sind die Exporte ähnlich dem geringeren Niveau des Vorjahres, sagt Reiners."
+        },
+        {
+          "text": "Zumindest haben die preisdrückenden Effekte laut Ölpreisexperte Reiners inzwischen wieder nachgelassen."
+        },
+        {
+          "text": "Wie sich der Preis in kommenden Monaten entwickeln wird, hängt Reiners zufolge vom globalen Angebot ab, aber auch davon, wie sich der Dieselbedarf in Europa entwickelt."
+        }
+      ],
+      "directQuotes": [
+        {
+          "text": "Die Dieselspeicher in ganz Europa wurden bis Ende Januar fast maximal gefüllt"
+        },
+        {
+          "text": "In Vorbereitung darauf hat man günstigen russischen Diesel eingekauft. Damit war Europa lange sehr gut versorgt."
+        },
+        {
+          "text": "Der Dieselpreis ist stark gebunden an die Wirtschaftsleistung Europas"
+        },
+        {
+          "text": "Russischer Diesel hat relativ gut neue Absatzmärkte gefunden. Zum Beispiel deckt die Türkei inzwischen fast ihren gesamten Dieselbedarf aus Russland"
+        },
+        {
+          "text": "So hat das globale Angebot trotz der Sanktionen gegen Russland insgesamt kaum abgenommen."
+        },
+        {
+          "text": "Die Gewinne durch die Produktion von Diesel waren für die russischen Raffineriebetreiber sehr hoch durch den geringen Rohölpreis"
+        }
+      ],
+      "inIntro": false,
+      "inTitle": false,
+      "indirectQuotes": [
+        {
+          "text": "Hintergrund für die starke Einlagerung von Diesel war laut Reiners das EU-Embargo gegen russischen Diesel, das im Februar in Kraft tritt."
+        },
+        {
+          "text": "Seit Mai, als die Regierung die Quoten wieder senkte, sind die Exporte ähnlich dem geringeren Niveau des Vorjahres, sagt Reiners."
+        },
+        {
+          "text": "Zumindest haben die preisdrückenden Effekte laut Ölpreisexperte Reiners inzwischen wieder nachgelassen."
+        }
+      ],
+      "isMain": true,
+      "name": "Hagen Reiners",
+      "occupations": [
+        {
+          "text": "Experte für deutsche Mineralölpreise von der Preisnotierungsagentur Argus Media"
+        }
+      ],
+      "occurrences": {
+        "firstNameOnly": 0,
+        "fullName": 1,
+        "lastNameOnly": 7,
+        "total": 8
+      },
+      "quotedInIntro": false,
+      "quotedInTitle": false,
+      "sex": "male"
+    }
+  ],
+  "subtopics": [
+    "Wirtschaft",
+    "Politik",
+    "Ölpreis",
+    "Krieg",
+    "Russland"
+  ]
+}

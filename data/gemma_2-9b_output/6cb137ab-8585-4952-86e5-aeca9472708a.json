@@ -1,0 +1,235 @@
+{
+    "persons": [
+        {
+            "name": "Sahles",
+            "alternativeNames": [],
+            "age": -1,
+            "sex": "unknown",
+            "occurences": {
+                "total": 1,
+                "firstNameOnly": 0,
+                "lastNameOnly": 0,
+                "fullName": 1,
+                "nickname": 0
+            },
+            "inTitle": false,
+            "inIntro": false,
+            "_name": {
+                "firstname": null,
+                "lastname": "Sahles",
+                "nickname": null,
+                "alternative_names": [],
+                "academic_title": null,
+                "nobility_title_or_rank": null
+            },
+            "descriptiveTexts": [
+                {
+                    "text": "Wer sind sie?"
+                },
+                {
+                    "text": "Kaum jemand kennt sie, ihr Einfluss auf Leben und Arbeiten von Millionen von Deutschen ist jedoch enorm: Deutschlands private Gro\u00dfvermieter."
+                },
+                {
+                    "text": "Familien wie die Semmehaacks, die Sahles oder die Doblingers gebieten \u00fcber Zehntausende von Wohnungen."
+                },
+                {
+                    "text": "In den Zeiten der Niedrigzinsen konnten sie ihre Imperien erweitern, jetzt sp\u00fclen ihnen steigende Mieten Geld in die Kassen."
+                },
+                {
+                    "text": "Sind sie Vorreiter bei der klimagerechten Sanierung des deutschen Wohnbestands?"
+                },
+                {
+                    "text": "Oder richten auch sie ihr Gesch\u00e4ftsmodell inzwischen haupts\u00e4chlich danach aus, wo der Staat wann am meisten F\u00f6rderungen und Steuergelder hineinpumpt?"
+                }
+            ],
+            "occupations": [
+                {
+                    "text": "gebieten \u00fcber Zehntausende von Wohnungen"
+                },
+                {
+                    "text": "Profiteure"
+                }
+            ],
+            "directQuotes": [],
+            "quotedInTitle": false,
+            "quotedInIntro": false
+        },
+        {
+            "name": "Hannah Steinharter",
+            "alternativeNames": [],
+            "age": -1,
+            "sex": "female",
+            "occurences": {
+                "total": 1,
+                "firstNameOnly": 0,
+                "lastNameOnly": 0,
+                "fullName": 1,
+                "nickname": 0
+            },
+            "inTitle": false,
+            "inIntro": false,
+            "_name": {
+                "firstname": "Hannah",
+                "lastname": "Steinharter",
+                "nickname": null,
+                "alternative_names": [],
+                "academic_title": null,
+                "nobility_title_or_rank": null
+            },
+            "descriptiveTexts": [
+                {
+                    "text": "Dar\u00fcber informiert in diesem Podcast Hannah Steinharter, Immobilienexpertin des manager magazins, im Gespr\u00e4ch mit Chefredakteur Sven Clausen."
+                }
+            ],
+            "occupations": [
+                {
+                    "text": "Immobilienexpertin des manager magazins"
+                }
+            ],
+            "directQuotes": [],
+            "quotedInTitle": false,
+            "quotedInIntro": false
+        },
+        {
+            "name": "Doblingers",
+            "alternativeNames": [],
+            "age": -1,
+            "sex": "unknown",
+            "occurences": {
+                "total": 1,
+                "firstNameOnly": 0,
+                "lastNameOnly": 0,
+                "fullName": 1,
+                "nickname": 0
+            },
+            "inTitle": false,
+            "inIntro": false,
+            "_name": {
+                "firstname": null,
+                "lastname": "Doblingers",
+                "nickname": null,
+                "alternative_names": [],
+                "academic_title": null,
+                "nobility_title_or_rank": null
+            },
+            "descriptiveTexts": [
+                {
+                    "text": "Wer sind sie?"
+                },
+                {
+                    "text": "Kaum jemand kennt sie, ihr Einfluss auf Leben und Arbeiten von Millionen von Deutschen ist jedoch enorm: Deutschlands private Gro\u00dfvermieter."
+                },
+                {
+                    "text": "Familien wie die Semmehaacks, die Sahles oder die Doblingers gebieten \u00fcber Zehntausende von Wohnungen."
+                },
+                {
+                    "text": "In den Zeiten der Niedrigzinsen konnten sie ihre Imperien erweitern, jetzt sp\u00fclen ihnen steigende Mieten Geld in die Kassen."
+                },
+                {
+                    "text": "Sind sie Vorreiter bei der klimagerechten Sanierung des deutschen Wohnbestands?"
+                },
+                {
+                    "text": "Oder richten auch sie ihr Gesch\u00e4ftsmodell inzwischen haupts\u00e4chlich danach aus, wo der Staat wann am meisten F\u00f6rderungen und Steuergelder hineinpumpt?"
+                }
+            ],
+            "occupations": [],
+            "directQuotes": [],
+            "quotedInTitle": false,
+            "quotedInIntro": false
+        },
+        {
+            "name": "Semmehaack",
+            "alternativeNames": [],
+            "age": -1,
+            "sex": "unknown",
+            "occurences": {
+                "total": 1,
+                "firstNameOnly": 0,
+                "lastNameOnly": 0,
+                "fullName": 1,
+                "nickname": 0
+            },
+            "inTitle": false,
+            "inIntro": false,
+            "_name": {
+                "firstname": null,
+                "lastname": "Semmehaack",
+                "nickname": null,
+                "alternative_names": [],
+                "academic_title": null,
+                "nobility_title_or_rank": null
+            },
+            "descriptiveTexts": [
+                {
+                    "text": "Wer sind sie?"
+                },
+                {
+                    "text": "Kaum jemand kennt sie, ihr Einfluss auf Leben und Arbeiten von Millionen von Deutschen ist jedoch enorm: Deutschlands private Gro\u00dfvermieter."
+                },
+                {
+                    "text": "Familien wie die Semmehaacks, die Sahles oder die Doblingers gebieten \u00fcber Zehntausende von Wohnungen."
+                },
+                {
+                    "text": "In den Zeiten der Niedrigzinsen konnten sie ihre Imperien erweitern, jetzt sp\u00fclen ihnen steigende Mieten Geld in die Kassen."
+                },
+                {
+                    "text": "Sind sie Vorreiter bei der klimagerechten Sanierung des deutschen Wohnbestands?"
+                },
+                {
+                    "text": "Oder richten auch sie ihr Gesch\u00e4ftsmodell inzwischen haupts\u00e4chlich danach aus, wo der Staat wann am meisten F\u00f6rderungen und Steuergelder hineinpumpt?"
+                }
+            ],
+            "occupations": [
+                {
+                    "text": "Familien wie die Semmehaacks"
+                }
+            ],
+            "directQuotes": [],
+            "quotedInTitle": false,
+            "quotedInIntro": false
+        },
+        {
+            "name": "Sven Clausen",
+            "alternativeNames": [],
+            "age": -1,
+            "sex": "male",
+            "occurences": {
+                "total": 2,
+                "firstNameOnly": 0,
+                "lastNameOnly": 0,
+                "fullName": 2,
+                "nickname": 0
+            },
+            "inTitle": false,
+            "inIntro": false,
+            "_name": {
+                "firstname": "Sven",
+                "lastname": "Clausen",
+                "nickname": null,
+                "alternative_names": [],
+                "academic_title": null,
+                "nobility_title_or_rank": null
+            },
+            "descriptiveTexts": [
+                {
+                    "text": "Dar\u00fcber informiert in diesem Podcast Hannah Steinharter, Immobilienexpertin des manager magazins, im Gespr\u00e4ch mit Chefredakteur Sven Clausen."
+                },
+                {
+                    "text": "Im Podcast \"Das Thema\" informiert Chefredakteur Sven Clausen jede Woche \u00fcber den internen Recherchestand zu jeweils einem f\u00fcr die deutsche Wirtschaft entscheidenden Thema."
+                }
+            ],
+            "occupations": [
+                {
+                    "text": "Chefredakteur"
+                }
+            ],
+            "directQuotes": [
+                {
+                    "text": "Das Thema"
+                }
+            ],
+            "quotedInTitle": false,
+            "quotedInIntro": false
+        }
+    ]
+}

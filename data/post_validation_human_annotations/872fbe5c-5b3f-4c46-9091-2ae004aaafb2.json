@@ -1,0 +1,295 @@
+{
+	"persons": [
+		{
+			"age": -1,
+			"alternativeNames": [],
+			"birthday": null,
+			"descriptiveTexts": [
+				{
+					"text": "Mushtaq Bilal ist mit seinen Tutorials ein Star auf Twitter: Denn er kann erklären, wie es geht."
+				},
+				{
+					"text": "manager magazin: Herr Bilal, Sie wollen Geisteswissenschaftler fit machen für einen Job, für den US-Techfirmen derzeit ein Jahresgehalt von bis zu 335.000 Dollar zahlen: Prompt Writer."
+				},
+				{
+					"text": "Mushtaq Bilal: In der IT versteht man unter »prompt« eine Befehlszeile."
+				},
+				{
+					"text": "Richtig interessant wird es erst, wenn ich der KI Thema und Kontext vorgebe und die Aufgabe spezifiziere."
+				},
+				{
+					"text": "Haben Sie da ein Beispiel?"
+				},
+				{
+					"text": "Ich habe ChatGPT mit einem Auszug aus einem Aufsatz von Moretti gefüttert und erklärt, dass ich Studienanfänger an der University of Southern Denmark unterrichte."
+				},
+				{
+					"text": "Dann habe gefragt: Welche Aspekte in diesem Essay könnten meinen Studierenden Schwierigkeiten bereiten?"
+				},
+				{
+					"text": "Daraufhin hat mir ChatGPT fünf Punkte genannt und mir konkrete Empfehlungen für meinen Unterricht gegeben: Ich solle meinen Studierenden zum Beispiel Hintergrundinformationen zum literarischen Weltsystem liefern."
+				},
+				{
+					"text": "Und auf meine Nachfrage, welche Quellen ChatGPT mir dafür empfehlen würde, bekam ich sechs relevante und nützliche Werke genannt."
+				},
+				{
+					"text": "Ich kenne mich mit Moretti sehr gut aus und war von den Ergebnissen wirklich beeindruckt."
+				},
+				{
+					"text": "Sie fallen allerdings sehr unterschiedlich aus, je nachdem, ob und welchen Kontext ich der KI gebe."
+				},
+				{
+					"text": "Meine Experimente mit ChatGPT haben zum Beispiel gezeigt, dass es sich bewährt, Prompts schrittweise zu gliedern: Zuerst stellt man den Kontext her, dann benennt man das Thema und die Aufgabe, und schließlich hakt man mit Folgefragen nach."
+				},
+				{
+					"text": "Ich empfehle, die besten Fragestellungen in einer 'Prompt'-Sammlung zu archivieren, damit man sie als Arbeitsprobe für eine Bewerbung nutzen kann."
+				},
+				{
+					"text": "Sie sind Literaturwissenschaftler."
+				},
+				{
+					"text": "Wie sind Sie dazu gekommen, sich mit Künstlicher Intelligenz auseinanderzusetzen?"
+				},
+				{
+					"text": "Würden Sie erkennen, ob einer Ihrer Studierenden sich seine Hausarbeit von ChatGPT hat schreiben lassen?"
+				},
+				{
+					"text": "Aber ich bin überzeugt davon, dass ich in der Lage bin, das zu erkennen."
+				},
+				{
+					"text": "Aber die Unterstützung der KI wollen Sie in Anspruch nehmen?"
+				},
+				{
+					"text": "Mir geht es darum, den maximalen Nutzen für mich und andere herauszuholen."
+				},
+				{
+					"text": "Wenn eine KI meine Zitationen sortiert und verknüpft, nimmt mir das viel Arbeit ab, und die Zeit kann ich anderweitig nutzen."
+				},
+				{
+					"text": "Allerdings mache ich das nicht in meiner Arbeitszeit als Forscher."
+				},
+				{
+					"text": "Ich stehe sehr früh auf, so gegen 5 Uhr, dann habe ich rund vier Stunden bis mein regulärer Arbeitstag beginnt."
+				},
+				{
+					"text": "Ich erforsche, wie die Werke von Hans Christian Andersen in Asien gelesen werden."
+				},
+				{
+					"text": "Sie verkaufen Webinare und Tutorials zum Einsatz von KI und unterrichten das gar nicht an Ihrer Uni?"
+				},
+				{
+					"text": "Ich bin als Forscher nach Dänemark gekommen, ich habe hier keinen Lehrauftrag."
+				},
+				{
+					"text": "Allerdings wurde ich schon von drei Fakultäten für interne Seminare zu dem Thema 'Umgang mit KI' angefragt und werde demnächst auch an anderen Unis Vorträge dazu halten, unter anderem in Spanien und Kalifornien."
+				},
+				{
+					"text": "Die Hochschule hier ist da sehr großzügig, ich weiß das sehr zu schätzen."
+				},
+				{
+					"text": "Und selbstverständlich würde ich hier auch Kurse für Studierende unterrichten, wenn das gewünscht wird."
+				},
+				{
+					"text": "Als Prompt Writer würden Sie vermutlich ein Vielfaches verdienen."
+				},
+				{
+					"text": "Haben Sie schon mal darüber nachgedacht, die Seiten zu wechseln?"
+				},
+				{
+					"text": "Auf diese Stelle habe ich mich schon beworben."
+				},
+				{
+					"text": "Ich habe allerdings noch keine Rückmeldung bekommen."
+				},
+				{
+					"text": "Sie würden Ihren Job als Literaturwissenschaftler dafür aufgeben?"
+				},
+				{
+					"text": "Aber meine Familie und ich sind vor wenigen Monaten erst aus Pakistan nach Dänemark gezogen."
+				},
+				{
+					"text": "Ich habe zwar in den USA studiert, aber ein Arbeitsvisum zu bekommen, wäre wahrscheinlich sehr kompliziert."
+				},
+				{
+					"text": "Wann ist Ihnen denn der neue Beruf als Prompt Writer zum ersten Mal begegnet?"
+				},
+				{
+					"text": "Sie lachen jetzt vielleicht, aber ich habe die Angewohnheit, auf jeder Website, die ich besuche, als Erstes die Karriereseite anzusteuern."
+				},
+				{
+					"text": "Das würde ich auch auf SPIEGEL.de machen, das ist so ein Spleen von mir."
+				},
+				{
+					"text": "Ich komme aus einer Arbeiterfamilie und bin in Pakistan in recht ärmlichen Verhältnissen groß geworden, wahrscheinlich hat es damit zu tun."
+				},
+				{
+					"text": "Jedenfalls habe ich dann die Karriereseite dieser KI-Firma angeklickt und dort diesen Job gefunden."
+				},
+				{
+					"text": "Da dachte ich direkt: Hey, das wäre doch was für mich und habe gleich das Bewerberformular ausgefüllt."
+				},
+				{
+					"text": "Das kann ich schlecht einschätzen, da müssen Sie einen KI-Wissenschaftler fragen."
+				},
+				{
+					"text": "Ich bin allerdings davon überzeugt, dass Menschen, die gute Prompts schreiben können, in Zukunft gefragt sein werden."
+				},
+				{
+					"text": "Es könnte eine sein, aber ich fürchte, viele haben solche Jobs überhaupt nicht auf dem Schirm."
+				},
+				{
+					"text": "Das ist nicht verwerflich, ich unterrichte ja selbst."
+				},
+				{
+					"text": "Aber ich finde das zu kurz gedacht: Meiner Meinung nach müssten wir an den Unis nicht nur unterrichten, wie man Gedichte analysiert und Seminararbeiten verfasst, sondern auch, wie man seine Wörter zu Geld machen kann."
+				},
+				{
+					"text": "Indem man wie Sie Tutorials und Webinare verkauft?"
+				},
+				{
+					"text": "Die Nachfrage ist sehr hoch, das ist für mich ein lukratives Nebengeschäft."
+				},
+				{
+					"text": "Wenn ich das Thema anspreche, heißt es meistens: Twitter ist toxisch."
+				}
+			],
+			"directQuotes": [
+				{
+					"text": "In der IT versteht man unter »prompt« eine Befehlszeile. Beim »prompt writing« geht es darum, eine Anfrage an eine Künstliche Intelligenz wie ChatGPT so zu formulieren, dass sie das optimale Ergebnis liefert. Wenn man ChatGPT zum Beispiel fragt: Wer ist Franco Moretti? Dann bekommt man eine gute Zusammenfassung, die man aber auch auf Wikipedia finden könnte. Richtig interessant wird es erst, wenn ich der KI Thema und Kontext vorgebe und die Aufgabe spezifiziere."
+				},
+				{
+					"text": "Ich habe ChatGPT mit einem Auszug aus einem Aufsatz von Moretti gefüttert und erklärt, dass ich Studienanfänger an der University of Southern Denmark unterrichte. Dann habe gefragt: Welche Aspekte in diesem Essay könnten meinen Studierenden Schwierigkeiten bereiten? Daraufhin hat mir ChatGPT fünf Punkte genannt und mir konkrete Empfehlungen für meinen Unterricht gegeben: Ich solle meinen Studierenden zum Beispiel Hintergrundinformationen zum literarischen Weltsystem liefern. Und auf meine Nachfrage, welche Quellen ChatGPT mir dafür empfehlen würde, bekam ich sechs relevante und nützliche Werke genannt. Ich kenne mich mit Moretti sehr gut aus und war von den Ergebnissen wirklich beeindruckt. Sie fallen allerdings sehr unterschiedlich aus, je nachdem, ob und welchen Kontext ich der KI gebe."
+				},
+				{
+					"text": "Ja, das kann man so sagen. Wenn ein Programmierer einen Code schreibt, tut der Computer genau das, was ihm gesagt wird. Beim Prompting weiß man nie genau, wie sich die KI verhalten wird. Aber man kann ableiten, mit welchen Strategien die KI die besten und nützlichsten Ergebnisse liefert. Meine Experimente mit ChatGPT haben zum Beispiel gezeigt, dass es sich bewährt, Prompts schrittweise zu gliedern: Zuerst stellt man den Kontext her, dann benennt man das Thema und die Aufgabe, und schließlich hakt man mit Folgefragen nach."
+				},
+				{
+					"text": "Ich empfehle, die besten Fragestellungen in einer 'Prompt'-Sammlung zu archivieren, damit man sie als Arbeitsprobe für eine Bewerbung nutzen kann. Es gibt dafür schon einige kostenfreie Programme, die man als Erweiterung im Browser nutzen kann, zum Beispiel 'Promptbox'."
+				},
+				{
+					"text": "Für Wissenschaftler können Künstliche Intelligenzen sehr hilfreich sein, vor allem, wenn es ums akademische Schreiben geht. KIs können in wenigen Minuten Seminararbeiten strukturieren, redundante Wörter herausfiltern, fließende Übergänge zwischen verschiedenen Absätzen erstellen oder Aufsätze in Powerpoint-Präsentationen verwandeln. Das ist wirklich großartig."
+				},
+				{
+					"text": "Auch dafür gibt es schon Maschinen, die das überprüfen können. Natürlich kann es sein, dass sich die Seminararbeiten am Ende ähneln: Von jemandem, der eine KI genutzt hat, um selbst besser zu werden und von jemandem, der sich gar keine Mühe gemacht hat. Aber ich bin überzeugt davon, dass ich in der Lage bin, das zu erkennen. Dafür benötigt man ein waches Auge, aber das kann man trainieren."
+				},
+				{
+					"text": "Ja, warum auch nicht? Mir geht es darum, den maximalen Nutzen für mich und andere herauszuholen. Wenn eine KI meine Zitationen sortiert und verknüpft, nimmt mir das viel Arbeit ab, und die Zeit kann ich anderweitig nutzen."
+				},
+				{
+					"text": "Ganz genau. Allerdings mache ich das nicht in meiner Arbeitszeit als Forscher. Ich stehe sehr früh auf, so gegen 5 Uhr, dann habe ich rund vier Stunden bis mein regulärer Arbeitstag beginnt. Der besteht derzeit vor allem aus lesen und schreiben. Ich erforsche, wie die Werke von Hans Christian Andersen in Asien gelesen werden."
+				},
+				{
+					"text": "Ich bin als Forscher nach Dänemark gekommen, ich habe hier keinen Lehrauftrag. Allerdings wurde ich schon von drei Fakultäten für interne Seminare zu dem Thema 'Umgang mit KI' angefragt und werde demnächst auch an anderen Unis Vorträge dazu halten, unter anderem in Spanien und Kalifornien. Die Hochschule hier ist da sehr großzügig, ich weiß das sehr zu schätzen. Und selbstverständlich würde ich hier auch Kurse für Studierende unterrichten, wenn das gewünscht wird."
+				},
+				{
+					"text": "Auf diese Stelle habe ich mich schon beworben. Ich habe allerdings noch keine Rückmeldung bekommen."
+				},
+				{
+					"text": "Ach, das ist eine sehr hypothetische Frage. Ein Jahresgehalt von 300.000 Dollar ist natürlich verlockend. Aber meine Familie und ich sind vor wenigen Monaten erst aus Pakistan nach Dänemark gezogen. Ich habe zwar in den USA studiert, aber ein Arbeitsvisum zu bekommen, wäre wahrscheinlich sehr kompliziert. Und Geld ist ja auch nicht alles."
+				},
+				{
+					"text": "Auch erst vor wenigen Wochen. In einem Newsletter war von Anthropic die Rede. Sie lachen jetzt vielleicht, aber ich habe die Angewohnheit, auf jeder Website, die ich besuche, als Erstes die Karriereseite anzusteuern. Das würde ich auch auf SPIEGEL.de machen, das ist so ein Spleen von mir. Ich komme aus einer Arbeiterfamilie und bin in Pakistan in recht ärmlichen Verhältnissen groß geworden, wahrscheinlich hat es damit zu tun. Jedenfalls habe ich dann die Karriereseite dieser KI-Firma angeklickt und dort diesen Job gefunden. Da dachte ich direkt: Hey, das wäre doch was für mich und habe gleich das Bewerberformular ausgefüllt."
+				},
+				{
+					"text": "Das kann ich schlecht einschätzen, da müssen Sie einen KI-Wissenschaftler fragen. Ich bin allerdings davon überzeugt, dass Menschen, die gute Prompts schreiben können, in Zukunft gefragt sein werden."
+				},
+				{
+					"text": "Es könnte eine sein, aber ich fürchte, viele haben solche Jobs überhaupt nicht auf dem Schirm. Geisteswissenschaftler werden vielerorts vor allem für eine Karriere in der Lehre ausgebildet. Das ist nicht verwerflich, ich unterrichte ja selbst. Aber ich finde das zu kurz gedacht: Meiner Meinung nach müssten wir an den Unis nicht nur unterrichten, wie man Gedichte analysiert und Seminararbeiten verfasst, sondern auch, wie man seine Wörter zu Geld machen kann."
+				},
+				{
+					"text": "Ja, zum Beispiel. Die Nachfrage ist sehr hoch, das ist für mich ein lukratives Nebengeschäft. Da ist vieles denkbar, und dazu gehört auch, dass man das Schreiben für Twitter und LinkedIn lernt. Aber daran haben viele Kollegen gar kein Interesse. Wenn ich das Thema anspreche, heißt es meistens: Twitter ist toxisch. Und damit ist es erledigt."
+				}
+			],
+			"inIntro": true,
+			"inTitle": false,
+			"indirectQuotes": [],
+			"isMain": true,
+			"name": "Mushtaq Bilal",
+			"occupations": [
+				{
+					"text": "Geisteswissenschaftler"
+				},
+				{
+					"text": "Literaturwissenschaftler"
+				},
+				{
+					"text": "Prompt Writer"
+				}
+			],
+			"occurrences": {
+				"firstNameOnly": 0,
+				"fullName": 2,
+				"lastNameOnly": 1,
+				"total": 3
+			},
+			"quotedInIntro": false,
+			"quotedInTitle": true,
+			"sex": "male"
+		},
+		{
+			"age": -1,
+			"alternativeNames": [],
+			"birthday": null,
+			"descriptiveTexts": [
+				{
+					"text": "Wenn man ChatGPT zum Beispiel fragt: Wer ist Franco Moretti?"
+				},
+				{
+					"text": "Ich habe ChatGPT mit einem Auszug aus einem Aufsatz von Moretti gefüttert und erklärt, dass ich Studienanfänger an der University of Southern Denmark unterrichte."
+				},
+				{
+					"text": "Ich kenne mich mit Moretti sehr gut aus und war von den Ergebnissen wirklich beeindruckt."
+				}
+			],
+			"directQuotes": [],
+			"inIntro": false,
+			"inTitle": false,
+			"indirectQuotes": [],
+			"isMain": false,
+			"name": "Franco Moretti",
+			"occupations": [],
+			"occurrences": {
+				"firstNameOnly": 0,
+				"fullName": 1,
+				"lastNameOnly": 2,
+				"total": 3
+			},
+			"quotedInIntro": false,
+			"quotedInTitle": false,
+			"sex": "male"
+		},
+		{
+			"age": -1,
+			"alternativeNames": [],
+			"birthday": null,
+			"descriptiveTexts": [
+				{
+					"text": "Ich erforsche, wie die Werke von Hans Christian Andersen in Asien gelesen werden."
+				}
+			],
+			"directQuotes": [],
+			"inIntro": false,
+			"inTitle": false,
+			"indirectQuotes": [],
+			"isMain": false,
+			"name": "Hans Christian Andersen",
+			"occupations": [],
+			"occurrences": {
+				"firstNameOnly": 0,
+				"fullName": 1,
+				"lastNameOnly": 0,
+				"total": 1
+			},
+			"quotedInIntro": false,
+			"quotedInTitle": false,
+			"sex": "male"
+		}
+	],
+	"subtopics": [
+		"Prompt",
+		"KI",
+		"Arbeitsmarkt",
+		"Karriere",
+		"Technologie"
+	]
+}

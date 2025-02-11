@@ -1,0 +1,167 @@
+{
+  "persons": [
+    {
+      "age": 57, 
+      "alternativeNames": [],
+      "birthday": null,
+      "descriptiveTexts": [
+        {
+          "text": "Die Gründer Uğur Şahin und Özlem Türeci arbeiten an der Revolution der Pharmawirtschaft."
+        },
+        {
+          "text": "Ein größeres Alarmsignal ist kaum vorstellbar, die Frage drängt sich auf: Hat die Firma der beiden Gründer Uğur Şahin (57) und Özlem Türeci (56) überhaupt ein Geschäftsmodell?"
+        },
+        {
+          "text": "Auch der Ehrgeiz von Türeci und Şahin enorm."
+        },
+        {
+          "text": "Ihr Ziel sei es, so erzählten sie es mm-Reporter Dietmar Palan, das 'Apple der Medizin' aufzubauen. "
+        },
+        {
+          "text": "Vor allem die Krebstherapie wollen sie mit ihrer mRNA-Technologie revolutionieren."
+        }
+
+      ],
+      "directQuotes": [
+      	{
+          "text": "Apple der Medizin"
+        }],
+      "inIntro": true,
+      "inTitle": false,
+      "indirectQuotes": [
+        {
+          "text": "Ihr Ziel sei es, so erzählten sie es mm-Reporter Dietmar Palan, das 'Apple der Medizin' aufzubauen. "
+        }
+      ],
+      "isMain": true,
+      "name": "Uğur Şahin",
+      "occupations": [
+        {
+          "text": "Gründer"
+        }
+      ],
+      "occurences": {
+        "firstNameOnly": 0,
+        "fullName": 2,
+        "lastNameOnly": 1,
+        "total": 3
+      },
+      "quotedInIntro": false,
+      "quotedInTitle": false,
+      "sex": "male"
+    },
+    {
+      "age": 56, 
+      "alternativeNames": [],
+      "birthday": null,
+      "descriptiveTexts": [
+        {
+          "text": "Die Gründer Uğur Şahin und Özlem Türeci arbeiten an der Revolution der Pharmawirtschaft."
+        },
+        {
+          "text": "Ein größeres Alarmsignal ist kaum vorstellbar, die Frage drängt sich auf: Hat die Firma der beiden Gründer Uğur Şahin (57) und Özlem Türeci (56) überhaupt ein Geschäftsmodell?"
+        },
+        {
+          "text": "Auch der Ehrgeiz von Türeci und Şahin enorm."
+        },
+        {
+          "text": "Vor allem die Krebstherapie wollen sie mit ihrer mRNA-Technologie revolutionieren."
+        }
+      ],
+      "directQuotes": [
+      	{
+          "text": "Apple der Medizin"
+        }],
+      "inIntro": true,
+      "inTitle": false,
+      "indirectQuotes": [
+        {
+          "text": "Ihr Ziel sei es, so erzählten sie es mm-Reporter Dietmar Palan, das 'Apple der Medizin' aufzubauen. "
+        }
+      ],
+      "isMain": true,
+      "name": "Özlem Türeci",
+      "occupations": [
+        {
+          "text": "Gründer"
+        }
+      ],
+      "occurences": {
+        "firstNameOnly": 0,
+        "fullName": 2,
+        "lastNameOnly": 1,
+        "total": 3
+      },
+      "quotedInIntro": false,
+      "quotedInTitle": false,
+      "sex": "female"
+    },
+    {
+      "age": -1, 
+      "alternativeNames": [],
+      "birthday": null,
+      "descriptiveTexts": [
+        {
+          "text": "Ihr Ziel sei es, so erzählten sie es mm-Reporter Dietmar Palan, das 'Apple der Medizin' aufzubauen. "
+        },
+        {
+          "text": "Darüber informiert Palan in diesem Podcast im Gespräch mit Chefredakteur Sven Clausen."
+        }
+      ],
+      "directQuotes": [],
+      "inIntro": false,
+      "inTitle": false,
+      "indirectQuotes": [],
+      "isMain": false,
+      "name": "Dietmar Palan",
+      "occupations": [
+        {
+          "text": "mm-Reporter"
+        }
+      ],
+      "occurences": {
+        "firstNameOnly": 0,
+        "fullName": 1,
+        "lastNameOnly": 1,
+        "total": 2
+      },
+      "quotedInIntro": false,
+      "quotedInTitle": false,
+      "sex": "male"
+    },
+    {
+      "age": -1, 
+      "alternativeNames": [],
+      "birthday": null,
+      "descriptiveTexts": [
+        {
+          "text": "Im Podcast »Das Thema« informiert Chefredakteur Sven Clausen jede Woche über den internen Recherchestand zu einem relevanten aktuellen und zugleich zukunftsträchtigen Thema der Wirtschaft."
+        }
+      ],
+      "directQuotes": [],
+      "inIntro": false,
+      "inTitle": false,
+      "indirectQuotes": [],
+      "isMain": false,
+      "name": "Sven Clausen",
+      "occupations": [
+        {
+          "text": "Chefredakteur"
+        }
+      ],
+      "occurences": {
+        "firstNameOnly": 0,
+        "fullName": 2,
+        "lastNameOnly": 0,
+        "total": 2
+      },
+      "quotedInIntro": false,
+      "quotedInTitle": false,
+      "sex": "male"
+    }
+  ],
+  "subtopics": [
+    "Biotechnologie", "Medizin", "Geschäftsmodell", "Unternehmen",
+    "Technologie"
+  ]
+}

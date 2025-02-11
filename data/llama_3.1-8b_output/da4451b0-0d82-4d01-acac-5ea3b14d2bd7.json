@@ -1,0 +1,89 @@
+{
+    "persons": [
+        {
+            "name": "Stefan Moeller",
+            "alternativeNames": [],
+            "age": -1,
+            "sex": "male",
+            "occurences": {
+                "total": 4,
+                "firstNameOnly": 0,
+                "lastNameOnly": 3,
+                "fullName": 1,
+                "nickname": 0
+            },
+            "inTitle": false,
+            "inIntro": false,
+            "_name": {
+                "firstname": "Stefan",
+                "lastname": "Moeller",
+                "nickname": null,
+                "alternative_names": [],
+                "academic_title": null,
+                "nobility_title_or_rank": "Graf"
+            },
+            "descriptiveTexts": [
+                {
+                    "text": "Ich habe Termindruck, der ID.7 rackert sich auf der linken Spur ab."
+                },
+                {
+                    "text": "Ich schl\u00fcpfe heute in die Rolle des typischen Dieseljunkies."
+                },
+                {
+                    "text": "Sp\u00e4testens um 11 Uhr muss ich in Naumburg an der Saale ankommen, f\u00fcr die 230 Kilometer von Berlin bleiben h\u00f6chstens drei Stunden."
+                },
+                {
+                    "text": "Bevor ich auf der A9 das Fahrpedal durchdr\u00fccke, ist erst einmal Berliner Berufsverkehr angesagt."
+                },
+                {
+                    "text": "45 Minuten dauert es, bis ich mit dem ID.7 auf die Avus steuere."
+                },
+                {
+                    "text": "Als elektrischer Nachfolger des Passat wird er h\u00e4ufig bezeichnet, des Dienstwagen schlechthin und meistverkauften Diesel-Pkw in Deutschland."
+                },
+                {
+                    "text": "Zumindest was den Fahrkomfort betrifft, f\u00fchlt er sich sogar eher nach Oberklasse an."
+                },
+                {
+                    "text": "Mit seinem Radstand von fast drei Metern b\u00fcgelt er Unebenheiten auf Fahrbahn gleichg\u00fcltig weg."
+                },
+                {
+                    "text": "\u00bbSp\u00e4testens mit der Einf\u00fchrung des gr\u00f6\u00dferen Akkus haben auch Kilometerfresser im Au\u00dfendienst kaum noch Argumente gegen das E-Auto\u00ab, lobt Stefan Moeller den ID.7. Der Gesch\u00e4ftsf\u00fchrer des Elektroautovermieters nextmove hat die E-Limousine ebenfalls f\u00fcr einige Tage getestet."
+                },
+                {
+                    "text": "Sein Fazit: Der Stromer sei bei vergleichbarer Ausstattung zwar \u00e4hnlich teuer wie der Passat, biete mit seinen 210 kW und rund 550 Newtonmetern Drehmoment aber oft deutlich mehr Leistung und \u00bbwohl auch das bessere Fahrerlebnis\u00ab, so Moeller."
+                },
+                {
+                    "text": "Nextmove-Chef Moeller verweist auf eine neue Motorengeneration, die VW mit dem ID.7 eingef\u00fchrt hat."
+                },
+                {
+                    "text": "\u00bbDer neue Motor bietet mehr Leistung bei zugleich weniger Verbrauch\u00ab, sagt er."
+                },
+                {
+                    "text": "Zudem, so Moeller, erm\u00f6gliche die neue Softwaregeneration 4 deutlich schnelleres Laden des Akkus gerade im Winter."
+                },
+                {
+                    "text": "Er schl\u00e4gt sogar den Passat, der laut VW auf einen Gesamtwiderstand von 0,58 kommt."
+                },
+                {
+                    "text": "Zum Vergleich fahre ich den Weg von Berlin nach Naumburg an einem anderen Tag mit ganz anderer Fahrweise: auf derselben Strecke, bei \u00e4hnlichen Witterungsverh\u00e4ltnissen und zur gleichen Uhrzeit \u2013 aber moderat mit 130 km/h Richtgeschwindigkeit, von ein paar z\u00fcgigen \u00dcberholvorg\u00e4ngen abgesehen."
+                },
+                {
+                    "text": "Das ist zwar weniger als bei der Bleifu\u00df-Variante, aber nicht so viel weniger, dass sie so unverh\u00e4ltnism\u00e4\u00dfig erscheint, wie ich es bei einem schweren Elektroauto erwartet h\u00e4tte."
+                }
+            ],
+            "occupations": [
+                {
+                    "text": "Gesch\u00e4ftsf\u00fchrer des Elektroautovermieters nextmove"
+                }
+            ],
+            "directQuotes": [
+                {
+                    "text": "Der neue Motor bietet mehr Leistung bei zugleich weniger Verbrauch"
+                }
+            ],
+            "quotedInTitle": false,
+            "quotedInIntro": false
+        }
+    ]
+}

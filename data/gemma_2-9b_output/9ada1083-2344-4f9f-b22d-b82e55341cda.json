@@ -1,0 +1,82 @@
+{
+    "persons": [
+        {
+            "name": "Claas Tatje",
+            "alternativeNames": [],
+            "age": -1,
+            "sex": "male",
+            "occurences": {
+                "total": 2,
+                "firstNameOnly": 0,
+                "lastNameOnly": 0,
+                "fullName": 2,
+                "nickname": 0
+            },
+            "inTitle": false,
+            "inIntro": true,
+            "_name": {
+                "firstname": "Claas",
+                "lastname": "Tatje",
+                "nickname": null,
+                "alternative_names": [],
+                "academic_title": null,
+                "nobility_title_or_rank": null
+            },
+            "descriptiveTexts": [
+                {
+                    "text": "Platz 3: Redakteur Claas Tatje berichtet nach einer Recherche in Shanghai, wie chinesische Autohersteller Volkswagen attackieren."
+                },
+                {
+                    "text": "\nmanager-magazin-Redakteur Claas Tatje informiert, wie stark die chinesischen Newcomer wie BYD inzwischen schon sind, wie sich deren Selbstbewusstsein auf der inzwischen wichtigsten Automesse der Welt in Shanghai zeigt und wie Volkswagen \u2013 m\u00f6glicherweise zu sp\u00e4t \u2013 aufwacht."
+                }
+            ],
+            "occupations": [
+                {
+                    "text": "Redakteur"
+                }
+            ],
+            "directQuotes": [],
+            "quotedInTitle": false,
+            "quotedInIntro": true
+        },
+        {
+            "name": "Sven Clausen",
+            "alternativeNames": [],
+            "age": -1,
+            "sex": "male",
+            "occurences": {
+                "total": 2,
+                "firstNameOnly": 0,
+                "lastNameOnly": 0,
+                "fullName": 2,
+                "nickname": 0
+            },
+            "inTitle": false,
+            "inIntro": false,
+            "_name": {
+                "firstname": "Sven",
+                "lastname": "Clausen",
+                "nickname": null,
+                "alternative_names": [],
+                "academic_title": null,
+                "nobility_title_or_rank": null
+            },
+            "descriptiveTexts": [
+                {
+                    "text": "H\u00f6ren Sie hier nacheinander die drei erfolgreichsten Podcasts aus der Reihe \"Das Thema\" mit Chefredakteur Sven Clausen."
+                },
+                {
+                    "text": "Im Podcast \"Das Thema\" informiert Chefredakteur Sven Clausen jede Woche \u00fcber den internen Recherchestand zu einem relevanten aktuellen und zugleich zukunftstr\u00e4chtigen Thema der Wirtschaft."
+                }
+            ],
+            "occupations": [
+                {
+                    "text": "Chefredakteur"
+                }
+            ],
+            "directQuotes": [],
+            "quotedInTitle": false,
+            "quotedInIntro": false
+        }
+    ]
+}

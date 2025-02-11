@@ -1,0 +1,1333 @@
+{
+    "persons": [
+        {
+            "name": "Andreas Gabalier",
+            "alternativeNames": [],
+            "age": -1,
+            "sex": "male",
+            "occurences": {
+                "total": 1,
+                "firstNameOnly": 0,
+                "lastNameOnly": 0,
+                "fullName": 1,
+                "nickname": 0
+            },
+            "inTitle": false,
+            "inIntro": false,
+            "_name": {
+                "firstname": "Andreas",
+                "lastname": "Gabalier",
+                "nickname": null,
+                "alternative_names": [],
+                "academic_title": null,
+                "nobility_title_or_rank": null
+            },
+            "descriptiveTexts": [
+                {
+                    "text": "Auf einem Fest im November, bei dem es bunte Discolichter und Heizstrahler gibt und einen DJ, der Songs von Britney Spears und Andreas Gabalier spielt, und M\u00e4nner und Frauen, die in gesteppten Jacken Sirtaki tanzen, raunt mir ein Burger zu: \u00bbDieser ganze rechtsradikale Dreck, der hier geschrieben wurde \u00fcber Burg, das ist an den Haaren herbeigezogen.\u00ab"
+                }
+            ],
+            "occupations": [],
+            "directQuotes": [],
+            "quotedInTitle": false,
+            "quotedInIntro": false
+        },
+        {
+            "name": "Jette Schega",
+            "alternativeNames": [],
+            "age": -1,
+            "sex": "female",
+            "occurences": {
+                "total": 5,
+                "firstNameOnly": 0,
+                "lastNameOnly": 4,
+                "fullName": 1,
+                "nickname": 0
+            },
+            "inTitle": false,
+            "inIntro": false,
+            "_name": {
+                "firstname": "Jette",
+                "lastname": "Schega",
+                "nickname": null,
+                "alternative_names": [],
+                "academic_title": null,
+                "nobility_title_or_rank": null
+            },
+            "descriptiveTexts": [
+                {
+                    "text": "\u00bb\u2026 Inwieweit beherrschen die Rechtsradikalen die Stadt, sodass das \u00f6ffentliche Leben von ihnen bestimmt wird? K\u00f6nnen Sie mir meine Sicherheit \u2026 garantieren? Oder muss ich bef\u00fcrchten, k\u00f6rperlich bedroht zu werden, wenn ich mich zur Demokratie bekenne?\u00ab"
+                },
+                {
+                    "text": "Ich kam mit einem Mietwagen, an einem Mittwochmittag im Oktober."
+                },
+                {
+                    "text": "Im Auto dachte ich noch: So schlimm wird es schon nicht sein."
+                },
+                {
+                    "text": "Ich parkte und stieg aus."
+                },
+                {
+                    "text": "Als Erstes sah ich die Laternen."
+                },
+                {
+                    "text": "Als Zweites sah ich die Jungen."
+                },
+                {
+                    "text": "Sie marschierten mir entgegen, mit Bomberjacken und Fraktur-Schriftz\u00fcgen auf Brust."
+                },
+                {
+                    "text": "Als Drittes sah ich das gr\u00fcne T-Shirt eines Mannes, der neben dem Eingang der Schule stand."
+                },
+                {
+                    "text": "Wie ein Partypromoter an der Ballermann-Playa hielt er mit ausgestrecktem Arm den Jugendlichen Flyer hin."
+                },
+                {
+                    "text": "Als ich n\u00e4herkam, erkannte ich auf seinem R\u00fccken das Logo des \u00bbIII. Weg\u00ab."
+                },
+                {
+                    "text": "Eine Neonazi-Kleinstpartei, die in ihrem Programm schreibt, sie wolle die \u00bbfriedliche Wiederherstellung Gesamtdeutschlands\u00ab und des Deutschen Reichs."
+                },
+                {
+                    "text": "Ich dachte: \u00bbAch, du Schei\u00dfe.\u00ab"
+                },
+                {
+                    "text": "Sie zeigen meist nur das Au\u00dfen, selten das Innen."
+                },
+                {
+                    "text": "Also bin ich seit diesem Oktobertag immer wieder nach Burg gefahren."
+                },
+                {
+                    "text": "Ich war auf Festen, in Ausschusssitzungen, im Schulunterricht, in der Kneipe."
+                },
+                {
+                    "text": "Ich habe mit Burgern gesprochen, die die Berichte \u00fcber ihr Dorf f\u00fcr ein gro\u00dfes Missverst\u00e4ndnis oder eine gro\u00dfe Verschw\u00f6rung hielten, und mit solchen, die sich sch\u00e4mten, f\u00fcr das, was in ihrem Ort passiert war und noch immer passiert."
+                },
+                {
+                    "text": "Der Gro\u00dfteil derer, die ich kennengelernt habe, war sehr freundlich und nicht rechtsextrem."
+                },
+                {
+                    "text": "In den Nachbarorten dachten sie, ihre Schule sei gemeint"
+                },
+                {
+                    "text": "Der grauhaarige Mann hei\u00dft Markus Mandel, er ist 63 Jahre alt und seit dem Sommer ist er der Krisenverwalter von Burg."
+                },
+                {
+                    "text": "Er ist der neue Schulleiter der Grund- und Oberschule, die Burg bundesweit bekannt machte."
+                },
+                {
+                    "text": "Zwei Tage sp\u00e4ter sitze ich in seinem B\u00fcro."
+                },
+                {
+                    "text": "Er trinkt aus einer Tasse, auf der \u00bbGute Laune Becher :-)\u00ab steht."
+                },
+                {
+                    "text": "Er ist ein Mann, den man sich, nachdem man ihn kennengelernt hat, immer l\u00e4chelnd vorstellt, wenn man an ihn denkt."
+                },
+                {
+                    "text": "Er sagt \u00bbn\u00fcscht\u00ab statt \u00bbnichts\u00ab und \u00bbuffjebauscht\u00ab statt \u00bbaufgebauscht\u00ab."
+                },
+                {
+                    "text": "Er wohnt hier, er war schon einmal Lehrer an der Burger Schule, von 1984 bis 2011."
+                },
+                {
+                    "text": "Denn wenn so ein Hoher sagt: \u00bbNee, nee, ich komme zu Ihnen\u00ab, dann ist es wichtig."
+                },
+                {
+                    "text": "Eine Lehrerin, die bis heute an der Burger Schule unterrichtet, erz\u00e4hlt mir Monate sp\u00e4ter, sie habe sich bei einem Seminar mit Kollegen aus den Nachbarorten unterhalten."
+                },
+                {
+                    "text": "Sie stehen an und sitzen auf einer Holzbank, mancher von ihnen hat einen anderen auf die Schultern genommen, als w\u00e4ren sie eine Fu\u00dfballmannschaft nach einem Sieg."
+                },
+                {
+                    "text": "\u00bbSie w\u00fcnschen sich, ich w\u00fcrde das hinkriegen\u00ab, sagt Mandel."
+                },
+                {
+                    "text": "Es ist nicht ganz klar, was er eigentlich hinkriegen soll."
+                },
+                {
+                    "text": "An dem Morgen, an dem ich in seinem B\u00fcro sitze, muss Mandel gleich ein Gespr\u00e4ch mit einem Vater f\u00fchren."
+                },
+                {
+                    "text": "\u00bbNa, nun erkl\u00e4ren Sie das mal\u00ab, sagt Mandel."
+                },
+                {
+                    "text": "Ein Informatiklehrer habe neulich eine Rechenaufgabe stellen wollen, bis er merkte, dass die L\u00f6sung 88 ist."
+                },
+                {
+                    "text": "Sie h\u00e4tten, sagt Mandel, die Aufgabe ge\u00e4ndert."
+                },
+                {
+                    "text": "\u00bbSo doof kannst du hier zurzeit gar nicht denken\u00ab, sagt Mandel."
+                },
+                {
+                    "text": "Und eine Menge Mitl\u00e4ufer, sagt er."
+                },
+                {
+                    "text": "Neulich, sagt Mandel, habe er einen alten Sch\u00fcler von sich getroffen, den er nach dessen Abschluss am NPD-Stand gesehen hatte."
+                },
+                {
+                    "text": "Er sei jetzt Vater eines Kindes aus der ersten Klasse."
+                },
+                {
+                    "text": "Er z\u00e4hlt auf, wie viel sie jetzt machen, nach dem Skandal, neben den j\u00e4hrlichen Auschwitz-Fahrten, die es seit den Neunzigern gibt, verpflichtend f\u00fcr alle Sch\u00fcler."
+                },
+                {
+                    "text": "\u00bbSie glaubt an die Gleichheit aller und daran, dass sich das Zusammenleben in der Gesellschaft ver\u00e4ndern l\u00e4sst\u00ab steht da."
+                },
+                {
+                    "text": "Sie h\u00e4tten ihn und seine Mutter bis zum Jugendamt geschleppt."
+                },
+                {
+                    "text": "\u00bbDer hat die ganze Zeit nur geflennt. Wenn der nicht traumatisiert ist, wei\u00df ich auch nicht\u00ab, sagt Mandel."
+                },
+                {
+                    "text": "Er muss jetzt los, in das Gespr\u00e4ch mit dem Vater, um \u00fcber die schwarz-wei\u00df-roten \u00c4rmel des Sohnes zu reden."
+                },
+                {
+                    "text": "Sie sieht aus wie ein Grabstein."
+                },
+                {
+                    "text": "Sie fuhren Fahrrad entlang der Auen oder Kahn auf vielen Kan\u00e4len und Flie\u00dfen, die sich aus der Spree fortschleichen."
+                },
+                {
+                    "text": "Hans-J\u00fcrgen Dreger, 69, ist ein B\u00fcrgermeister, von dem Burger sagen, er sei \u00bbso ein B\u00fcrgermeister, wie man ihn sich w\u00fcnscht\u00ab."
+                },
+                {
+                    "text": "Durch das Dorf f\u00e4hrt er mit dem Fahrrad."
+                },
+                {
+                    "text": "L\u00e4sst er es irgendwo stehen, schlie\u00dft er es nicht an."
+                },
+                {
+                    "text": "11 Jahre lang war er K\u00fcchenchef in der landwirtschaftlichen Produktionsgenossenschaft, danach 13 Jahre lang Wirt im Sportlerheim."
+                },
+                {
+                    "text": "Eigentlich sollte er nur Stellvertreter sein."
+                },
+                {
+                    "text": "Als seine Vorg\u00e4ngerin zur\u00fccktrat, 2020, ging er zu den Amtsleitern und sagte: \u00bbIch habe doch keine Ahnung von Kommunalpolitik.\u00ab"
+                },
+                {
+                    "text": "Sie antworteten: \u00bbBrauchst du nicht, du brauchst nur die Leute kennen.\u00ab"
+                },
+                {
+                    "text": "Er kennt die Leute."
+                },
+                {
+                    "text": "Dreger erz\u00e4hlt, dass er zu jedem runden Geburtstag geht."
+                },
+                {
+                    "text": "F\u00fcr die Handvoll ukrainischer Gefl\u00fcchteter, die seit anderthalb Jahren in Burg leben, sang er in der Kirche vor dem ganzen Dorf \u00bbSag mir, wo die Blumen sind\u00ab."
+                },
+                {
+                    "text": "Einer der Ukrainerinnen habe er beim Umzug geholfen, die M\u00f6bel geschleppt gegen eine Kiste Bier."
+                },
+                {
+                    "text": "Als er in ein Caf\u00e9 l\u00e4uft, ruft eine Fahrradtourgruppe aus \u00e4lteren Damen: \u00bbJ\u00fcrgen, gib mal einen aus.\u00ab"
+                },
+                {
+                    "text": "Eigentlich wollte Dreger nicht mehr mit Journalisten reden, sagt er."
+                },
+                {
+                    "text": "Er war auf Polenfahrt, Masuren, mit den Alten Herren vom Sportverein, als einer im Bus gerufen habe: \u00bbDu, Burg ist in der \u203aBild\u2039-Zeitung.\u00ab"
+                },
+                {
+                    "text": "Sie schrieb: \u00bbGanzes Dorf versinkt im braunen Sumpf.\u00ab"
+                },
+                {
+                    "text": "Mit Kameras liefen sie in die L\u00e4den hinein, bedr\u00e4ngten die Menschen, so zumindest erz\u00e4hlen sie es sich in Burg."
+                },
+                {
+                    "text": "Dreger gab eines f\u00fcrs Fernsehen, 15 Minuten lang, so sagt er."
+                },
+                {
+                    "text": "Er f\u00fchlt sich ungerecht behandelt."
+                },
+                {
+                    "text": "Sie machen den beiden Lehrern Vorw\u00fcrfe, die den Brief geschrieben hatten."
+                },
+                {
+                    "text": "Warum, fragen sie, haben sie das nicht intern gekl\u00e4rt?"
+                },
+                {
+                    "text": "Verurteilt sei er wegen gef\u00e4hrlicher K\u00f6rperverletzung."
+                },
+                {
+                    "text": "Es schien, als wolle er sich ein kleines Imperium aufbauen."
+                },
+                {
+                    "text": "Auf dem Fest sagt mir eine Burgerin, sie habe sich einmal l\u00e4nger mit diesem Mann unterhalten."
+                },
+                {
+                    "text": "Er sei eigentlich in Ordnung."
+                },
+                {
+                    "text": "Er habe Menschen eingestellt, auch welche aus Polen."
+                },
+                {
+                    "text": "Er wolle ja nur eine Gastst\u00e4tte betreiben."
+                },
+                {
+                    "text": "Andere wiederum sagen, sie seien fortan nicht mehr im Deutschen Haus essen gegangen."
+                },
+                {
+                    "text": "Sie h\u00e4tten gewarnt, im Deutschen Haus k\u00f6nne ein Szenetreff f\u00fcr Neonazis entstehen."
+                },
+                {
+                    "text": "Dreger habe gesagt: \u00bbJetzt habe ich ein Problem. Wenn ich nach Hause komme, muss ich meiner Frau sagen, wir k\u00f6nnen n\u00e4chste Woche nicht zu meinem Cousin auf den 60. Geburtstag gehen.\u00ab"
+                },
+                {
+                    "text": "Dreger habe einmal mit dem Mann geredet, sagt er."
+                },
+                {
+                    "text": "Sie h\u00e4tten sich an einen Tisch gesetzt, und Dreger sagte: \u00bbIch kann gegen Sie jetzt noch n\u00fcscht haben, weil ich ja noch gar nicht wei\u00df, wie das so ist. Aber wenn Sie jetzt irgendwas machen in unserem Dorf, was nicht sch\u00f6n ist, dann lernen Sie mich kennen.\u00ab"
+                },
+                {
+                    "text": "Einmal, sagt Dreger, sei er mit seinem Fahrrad am Deutschen Haus vorbeigefahren und habe, so glaubt er, \u00bbSieg Heil!\u00ab geh\u00f6rt."
+                },
+                {
+                    "text": "\u00bbAber ich muss auch sagen: Am M\u00e4nnertag, am Bierwagen, da br\u00fcllen die auch so was\u00ab, sagt Dreger."
+                },
+                {
+                    "text": "\u00bbDas ist einfach der Suff. Die denken gar nicht. Da kannst du machen, was du willst.\u00ab"
+                },
+                {
+                    "text": "Und was sie \u00fcberhaupt machen wollen."
+                },
+                {
+                    "text": "Im Sommer, nach dem Skandal an der Schule, versuchten sie es so: Einige B\u00fcrger und die Gemeinde organisierten einen Aufkleber-abkratz-Rundgang."
+                },
+                {
+                    "text": "In der Bibliothek haben sie einen eigenen Demokratie-B\u00fcchertisch eingerichtet."
+                },
+                {
+                    "text": "Und sie nahmen ein Videostatement auf, \u00bb#WIRsindBurg\u00ab war der Titel."
+                },
+                {
+                    "text": "In vier Minuten und 26 Sekunden sagen elf Burger, darunter Dreger, dass sie sich gegen \u00bbDiskriminierung, Rassismus und Extremismus\u00ab stellen, \u00bbf\u00fcr Vielfalt\u00ab stehen und das, was an der Schule passiert ist, \u00bbaufs Sch\u00e4rfste\u00ab verurteilen."
+                },
+                {
+                    "text": "Nur Hunderttausende, die gegen sie waren."
+                },
+                {
+                    "text": "Die Veranstalter freuten sich, sie hatten lediglich mit 50 Teilnehmern gerechnet."
+                },
+                {
+                    "text": "Ein Burger erz\u00e4hlt, dass er f\u00fcr das Videostatement zugesagt hatte."
+                },
+                {
+                    "text": "\u00bbDann ist es mir durch den Kopf gegangen und dann habe ich gesagt: Ne, ich lasse es lieber\u00ab, sagt er."
+                },
+                {
+                    "text": "\u00bbWeil du kannst es auslegen, wie du willst. Stellst du dich jetzt hin und sagst, du bist weltoffen, dann hast du wieder jemanden, der genau das andere rauszieht.\u00ab"
+                },
+                {
+                    "text": "Bei einem meiner Besuche sitze ich mit einer Frau zusammen, sie ist Mitte drei\u00dfig und in Burg aufgewachsen."
+                },
+                {
+                    "text": "Sie spricht \u00fcber ihre Jugend: \u00bbWer sagt, das gab\u2019s bei uns nicht, der l\u00fcgt. Gerade, wenn du abends mal auf einer Feier warst, dann wurden zwei Bier getrunken, dann hat der eine halt mal \u2026\u00ab Sie hebt den rechten Arm oder deutet es zumindest an."
+                },
+                {
+                    "text": "\u00bbIch habe mich immer davon distanziert.\u00ab"
+                },
+                {
+                    "text": "\u00bbDann bin ich halt irgendwo anders hingegangen.\u00ab"
+                },
+                {
+                    "text": "Er betreibt eine Eisdiele im Ortskern und hatte das Fest mit den Discolichtern und dem Sirtaki-Tanz organisiert."
+                },
+                {
+                    "text": "Er sagt, er habe nie Probleme in Burg gehabt."
+                },
+                {
+                    "text": "Es gibt eine Kneipe, sie hei\u00dft \u00bbBruno\u2019s Kneipe\u00ab, aber man sagt: bei Bruno."
+                },
+                {
+                    "text": "Bruno selbst erz\u00e4hlt, wie er in der vielleicht einzigen Reggae-Band der DDR gespielt hat."
+                },
+                {
+                    "text": "Wie sie die Texte offiziell genehmigen lassen mussten."
+                },
+                {
+                    "text": "Neben dem Tresen kleben Sticker an der Wand: \u00bbMarzipan statt Naziwahn\u00ab und \u00bbIch nehme Rassismus pers\u00f6nlich\u00ab."
+                },
+                {
+                    "text": "M\u00e4nner mit Brille, Frauen in Blusen, 15 sind sie insgesamt, vor ihnen stehen Papiernamensschilder, obwohl sie sich seit Jahren kennen."
+                },
+                {
+                    "text": "B\u00fcrgermeister Dreger ist da, er sch\u00fcttelt H\u00e4nde, sagt: \u00bbDu hier und nicht in Hollywood?\u00ab"
+                },
+                {
+                    "text": "Sie reden \u00fcber die Seniorenweihnachtsfeier, \u00fcber das Fest des Sportvereins, das \u00bblautst\u00e4rketechnisch etwas ausgeufert ist\u00ab, oder einen fehlenden Handlauf an der Leichenhalle auf dem Friedhof."
+                },
+                {
+                    "text": "Sie haben nicht so gut abgeschnitten."
+                },
+                {
+                    "text": "Weil sie mit den Kindern noch Grimms M\u00e4rchen lesen w\u00fcrden, die zu gewaltverherrlichend seien."
+                },
+                {
+                    "text": "Weil sie zu oft Fleisch auf dem Speiseplan h\u00e4tten."
+                },
+                {
+                    "text": "Und weil sie kein Zuckerfest feierten."
+                },
+                {
+                    "text": "Die Diskussion ist eigentlich vorbei, da sagt ein Mann aus dem Ausschuss pl\u00f6tzlich: \u00bbIch bin froh, dass wir hier keine Berliner Verh\u00e4ltnisse haben, mit Zuckerfest und allem Brimborium. Und dass sie uns hoffentlich nicht irgendwann mal bl\u00fchen. Das sind n\u00e4mlich Dinge, die wir nicht gebrauchen k\u00f6nnen und die auch Deutschland nicht gebrauchen kann. Stellen wir ja mittlerweile fest, dass es so nicht geht. Zuckerfest, ich wei\u00df gar nicht, was das ist. Das ist, glaube ich, irgend so ein islamischer Brauch oder so.\u00ab"
+                },
+                {
+                    "text": "Ein anderer entgegnet: \u00bbAber hier kannst du ja nicht mal unzufrieden sein. Hier hat man ja nicht mal Ber\u00fchrungspunkte.\u00ab"
+                },
+                {
+                    "text": "Es ist der Mann, der sich dagegen entschlossen hatte, bei dem Videostatement f\u00fcr Weltoffenheit mitzumachen, weil er von anderen Burgern nicht missverstanden werden wollte."
+                },
+                {
+                    "text": "Sie war eine niedersorbische Dichterin, sie kam aus Burg, im Nationalsozialismus allerdings musste sie ihre Heimat verlassen, die Nazis verboten ihr auch, weiterzuschreiben."
+                },
+                {
+                    "text": "Sie unterdr\u00fcckten nicht nur Witkojc, sondern alle Sorben und Wenden, die seit Jahrhunderten im Spreewald leben."
+                },
+                {
+                    "text": "Sie durften kaum mehr ihre Sprache sprechen, manche wurden in Konzentrationslager gebracht."
+                },
+                {
+                    "text": "Einmal schnitten Unbekannte sie nachts ab und tackerten an den Rest eine Deutschlandfahne."
+                },
+                {
+                    "text": "Schulleiter Mandel lie\u00df die Polizei kommen, den Streifenwagen auf den Schulhof fahren, erz\u00e4hlt er, die Beamten suchten nach Spuren."
+                },
+                {
+                    "text": "Sie sagen Dinge wie \u00bbDu Dreckskind, Alter\u00ab und \u00bbGib jetzt mein Kackzeug wieder\u00ab."
+                },
+                {
+                    "text": "Sie diggan viel."
+                },
+                {
+                    "text": "Sie haben alle sehr deutsche Namen."
+                },
+                {
+                    "text": "Vorn steht Lehrerin Jette Schega."
+                },
+                {
+                    "text": "Schega teilt Arbeitsbl\u00e4tter aus, die die Sch\u00fcler in der vergangenen Stunde hatten abgeben m\u00fcssen und die sie korrigiert hat."
+                },
+                {
+                    "text": "Schega sagt: \u00bbDa ist mir was aufgefallen. Es gibt ein paarmal einen Begriff, der auf der falschen Seite steht. Der Begriff hei\u00dft Extremismus. Einige haben den von euch bei \u203aPro Menschenrechte\u2039 reingeschrieben. Jemand, der es da reingeschrieben hat, mal bitte melden.\u00ab"
+                },
+                {
+                    "text": "Schega: \u00bbWie kamst du darauf?\u00ab"
+                },
+                {
+                    "text": "Der Junge: \u00bbWeil Extreme \u2026 ich bin ganz ehrlich, hab ich geraten.\u00ab"
+                },
+                {
+                    "text": "Sp\u00e4ter fragt Schega, was das Recht auf Gleichberechtigung meint."
+                },
+                {
+                    "text": "An der Burger Schule gibt es wenige Jugendliche, bei denen man sofort erkennt, dass sie rechts sind."
+                },
+                {
+                    "text": "Da ist der Musiklehrer, der erz\u00e4hlt, jedes Jahr frage ihn mindestens ein Sch\u00fcler, ob er einen Vortrag \u00fcber eine Rechtsrockband halten d\u00fcrfte."
+                },
+                {
+                    "text": "Sie tragen lange Haare, schulterfreies Top, Zahnspange, Piercings in der Nase."
+                },
+                {
+                    "text": "Sie finden Nazis doof."
+                },
+                {
+                    "text": "Die rechten Jungs, sagen sie, stellten ihnen Beine auf dem Flur und riefen: \u00bbLinke Fotze\u00ab."
+                },
+                {
+                    "text": "Manchmal haben sie Angst, Bus zu fahren, sagen die M\u00e4dchen, wenn sie einen von ihnen sehen."
+                },
+                {
+                    "text": "Sie klingen wie die Klischees \u00fcber die rechte Jugend in Ostdeutschland."
+                },
+                {
+                    "text": "Die Gr\u00fcnde sind in unz\u00e4hlbar vielen Studien erforscht, in unz\u00e4hlbar vielen Runden diskutiert worden, unz\u00e4hlbar viele Politiker haben behauptet, sie sehr ernst zu nehmen."
+                },
+                {
+                    "text": "Die M\u00e4nner riefen \u00bbSchei\u00df Zecke!\u00ab und \u00bbDu Verr\u00e4ter!\u00ab"
+                },
+                {
+                    "text": "An einem anderen Tag laufe ich mit Mandel die Treppe hinauf."
+                },
+                {
+                    "text": "Ein Junge sagt: \u00bbSchauen Sie mal, Herr Mandel, ich habe einen Ballon.\u00ab"
+                },
+                {
+                    "text": "In seinen H\u00e4nden h\u00e4lt er ein aufgeblasenes Kondom."
+                },
+                {
+                    "text": "Mandel nimmt es ihm ab und sagt: \u00bbWenigstens wei\u00df ich, was man damit sonst noch so machen kann.\u00ab"
+                },
+                {
+                    "text": "Er tr\u00e4gt ein T-Shirt, auf dem hinten \u00bbGERMAN FIGHTER\u00ab steht."
+                },
+                {
+                    "text": "Auch er hat einen sehr deutschen Namen, nennen wir ihn hier: Heinrich."
+                },
+                {
+                    "text": "Ich setze mich hinten in den Klassenraum."
+                },
+                {
+                    "text": "15-J\u00e4hrige in Bomberjacken, die sich f\u00fcr Furcht einfl\u00f6\u00dfender halten, als sie es tats\u00e4chlich sind."
+                },
+                {
+                    "text": "15-J\u00e4hrige, bei denen es vielleicht nur ein paar Jahre und ein paar schlechte Entscheidungen braucht, bis man, wenn man diese Jungs auf der Stra\u00dfe trifft, tats\u00e4chlich Angst hat, dass sie einem auf die Fresse hauen."
+                },
+                {
+                    "text": "Die Sch\u00fcler bewerfen sich mit Heftern und M\u00fcnzen, sie machen Affenger\u00e4usche, sie schlagen sich mit B\u00fcchern auf den Kopf."
+                },
+                {
+                    "text": "Ein M\u00e4dchen ruft zu Heinrich: \u00bbHeinrich, der Dennis ist schwul, und er steht auf dich.\u00ab"
+                },
+                {
+                    "text": "Heinrich grinst und sagt: \u00bbIch wei\u00df.\u00ab"
+                },
+                {
+                    "text": "Zwischendurch wird er vom Lehrer hinausgeschickt, auf dem Flur warten die Bomberjacken-Jungs und gr\u00f6len."
+                },
+                {
+                    "text": "Aber er schafft es einfach nicht, dass diese Jugendlichen ihm l\u00e4nger als zehn Sekunden zuh\u00f6ren."
+                },
+                {
+                    "text": "Man kann sich in diesem Moment nur schwer vorstellen, wie er oder irgendein anderer Lehrer es schaffen sollte, mit diesen Jugendlichen ein ernsthaftes Gespr\u00e4ch \u00fcber Toleranz oder Rassismus zu f\u00fchren."
+                },
+                {
+                    "text": "Einmal erz\u00e4hlt eine Lehrerin nach einer Unterrichtsstunde am Pult, sie habe das Gef\u00fchl, dass sich in Burg mittlerweile alle nur w\u00fcnschten, dass es einfach \u00bbgut\u00ab ist."
+                },
+                {
+                    "text": "Sie haben Preise bekommen, f\u00fcr ihre Zivilcourage."
+                },
+                {
+                    "text": "Und sie sind weg."
+                },
+                {
+                    "text": "Sie haben die Schule im Sommer verlassen."
+                },
+                {
+                    "text": "Zusammen mit weiteren Lehrern h\u00e4tten sie \u00fcberlegt, was man tun k\u00f6nne."
+                },
+                {
+                    "text": "Zwei Tage sp\u00e4ter a\u00dfen sie zusammen einen D\u00f6nerteller, den Brief schrieben sie im Auto fertig und sendeten ihn an zwei Lokalzeitungen, ein Onlineportal und den RBB."
+                },
+                {
+                    "text": "\u00bbSchei\u00df Zecke! Du Verr\u00e4ter!\u00ab, h\u00e4tten sie geschrien."
+                },
+                {
+                    "text": "Teske hielt seine vierj\u00e4hrige Tochter an der Hand, sie weinte."
+                },
+                {
+                    "text": "Er macht eine kurze Pause."
+                },
+                {
+                    "text": "\u00bbDanach habe ich gesagt: Okay, ich muss hier weg.\u00ab"
+                },
+                {
+                    "text": "In Burg, erz\u00e4hlt Teske, stand er einmal mit Nickel auf einem Parkplatz, als eine \u00e4ltere Frau neben ihnen anhielt."
+                },
+                {
+                    "text": "Sie habe gefragt: \u00bbMensch, sind Sie nicht die beiden Lehrer?\u00ab"
+                },
+                {
+                    "text": "Und gesagt: \u00bbIch wollte noch mal Danke sagen. Das ist so wichtig. Endlich sagt mal hier jemand was.\u00ab"
+                },
+                {
+                    "text": "Er sagt: \u00bbIn Burg leben richtig gute Leute. Wir hatten viel mehr Zuspruch als Anfeindungen aus dem Ort. Da gab\u2019s nicht wenige Menschen, die gesagt haben: \u203aIch w\u00fcrde so gern auch laut sein, ich w\u00fcrde so gern den Mund aufmachen. Aber ich wei\u00df, wenn ich das mache, dann kann ich hier wegziehen.\u2039\u00ab"
+                },
+                {
+                    "text": "Als wir nach anderthalb Stunden aus dem Caf\u00e9 laufen, in Teskes Auto einsteigen, er den Wagen startet, geht RadioEins an."
+                },
+                {
+                    "text": "Bundespr\u00e4sident Frank-Walter Steinmeier sagte im Juli, er hoffe nicht, dass die Rechten vor Ort mit dem Weggang der Lehrkr\u00e4fte gewonnen h\u00e4tten."
+                },
+                {
+                    "text": "Als ich mit der Lehrerin am Pult stehe, fragt sie irgendwann: \u00bbGesehen, da am T\u00fcrrahmen?\u00ab"
+                },
+                {
+                    "text": "Ich drehe mich um."
+                },
+                {
+                    "text": "Sie sagt: \u00bbDas muss relativ frisch sein.\u00ab"
+                }
+            ],
+            "occupations": [
+                {
+                    "text": "Lehrerin"
+                }
+            ],
+            "directQuotes": [],
+            "quotedInTitle": false,
+            "quotedInIntro": false
+        },
+        {
+            "name": "Anne Frank-Walter Steinmeier",
+            "alternativeNames": [],
+            "age": -1,
+            "sex": "male",
+            "occurences": {
+                "total": 1,
+                "firstNameOnly": 0,
+                "lastNameOnly": 0,
+                "fullName": 1,
+                "nickname": 0
+            },
+            "inTitle": false,
+            "inIntro": false,
+            "_name": {
+                "firstname": "Frank-Walter",
+                "lastname": "Steinmeier",
+                "nickname": null,
+                "alternative_names": [],
+                "academic_title": null,
+                "nobility_title_or_rank": "Burggraf"
+            },
+            "descriptiveTexts": [
+                {
+                    "text": "Bundespr\u00e4sident Frank-Walter Steinmeier sagte im Juli, er hoffe nicht, dass die Rechten vor Ort mit dem Weggang der Lehrkr\u00e4fte gewonnen h\u00e4tten."
+                }
+            ],
+            "occupations": [],
+            "directQuotes": [],
+            "quotedInTitle": false,
+            "quotedInIntro": false
+        },
+        {
+            "name": "Britney Spears",
+            "alternativeNames": [],
+            "age": -1,
+            "sex": "female",
+            "occurences": {
+                "total": 1,
+                "firstNameOnly": 0,
+                "lastNameOnly": 0,
+                "fullName": 1,
+                "nickname": 0
+            },
+            "inTitle": false,
+            "inIntro": false,
+            "_name": {
+                "firstname": "Britney",
+                "lastname": "Spears",
+                "nickname": null,
+                "alternative_names": [],
+                "academic_title": null,
+                "nobility_title_or_rank": null
+            },
+            "descriptiveTexts": [
+                {
+                    "text": "Auf einem Fest im November, bei dem es bunte Discolichter und Heizstrahler gibt und einen DJ, der Songs von Britney Spears und Andreas Gabalier spielt, und M\u00e4nner und Frauen, die in gesteppten Jacken Sirtaki tanzen, raunt mir ein Burger zu: \u00bbDieser ganze rechtsradikale Dreck, der hier geschrieben wurde \u00fcber Burg, das ist an den Haaren herbeigezogen.\u00ab"
+                }
+            ],
+            "occupations": [],
+            "directQuotes": [],
+            "quotedInTitle": false,
+            "quotedInIntro": false
+        },
+        {
+            "name": "Mina Witkojc",
+            "alternativeNames": [],
+            "age": -1,
+            "sex": "female",
+            "occurences": {
+                "total": 2,
+                "firstNameOnly": 0,
+                "lastNameOnly": 1,
+                "fullName": 1,
+                "nickname": 0
+            },
+            "inTitle": false,
+            "inIntro": false,
+            "_name": {
+                "firstname": "Mina",
+                "lastname": "Witkojc",
+                "nickname": null,
+                "alternative_names": [],
+                "academic_title": null,
+                "nobility_title_or_rank": null
+            },
+            "descriptiveTexts": [
+                {
+                    "text": "Die Grund- und Oberschule Burg tr\u00e4gt einen Zusatznamen, den von Mina Witkojc."
+                },
+                {
+                    "text": "Sie unterdr\u00fcckten nicht nur Witkojc, sondern alle Sorben und Wenden, die seit Jahrhunderten im Spreewald leben."
+                }
+            ],
+            "occupations": [
+                {
+                    "text": "Dichterin"
+                }
+            ],
+            "directQuotes": [],
+            "quotedInTitle": false,
+            "quotedInIntro": false
+        },
+        {
+            "name": "Laura Nickel",
+            "alternativeNames": [],
+            "age": -1,
+            "sex": "female",
+            "occurences": {
+                "total": 5,
+                "firstNameOnly": 0,
+                "lastNameOnly": 4,
+                "fullName": 1,
+                "nickname": 0
+            },
+            "inTitle": false,
+            "inIntro": false,
+            "_name": {
+                "firstname": "Laura",
+                "lastname": "Nickel",
+                "nickname": null,
+                "alternative_names": [],
+                "academic_title": null,
+                "nobility_title_or_rank": null
+            },
+            "descriptiveTexts": [
+                {
+                    "text": "Die beiden Lehrer, die ihn geschrieben haben, Max Teske und Laura Nickel, gaben in den Wochen danach viele Interviews, hielten eine Rede auf einer Kundgebung vor dem Schulamt in Cottbus."
+                },
+                {
+                    "text": "Teske packte gerade seine Tasche, da sei Nickel ins Lehrerzimmer gekommen und habe gefragt: \u00bbMax, wollen wir nicht einen Brief schreiben und den an die Medien schicken?\u00ab"
+                },
+                {
+                    "text": "Im Internet wurde zu einer Jagd auf Nickel und ihn aufgerufen."
+                },
+                {
+                    "text": "In Burg, erz\u00e4hlt Teske, stand er einmal mit Nickel auf einem Parkplatz, als eine \u00e4ltere Frau neben ihnen anhielt."
+                },
+                {
+                    "text": "Mittlerweile, h\u00f6rt man an der Schule, \u00fcberlegten weitere Lehrer, die Teske und Nickel unterst\u00fctzt haben, Burg zu verlassen."
+                }
+            ],
+            "occupations": [
+                {
+                    "text": "Lehrerin"
+                }
+            ],
+            "directQuotes": [
+                {
+                    "text": "Gesehen, da am T\u00fcrrahmen?"
+                }
+            ],
+            "quotedInTitle": false,
+            "quotedInIntro": false
+        },
+        {
+            "name": "J\u00fcrgen Dreger",
+            "alternativeNames": [],
+            "age": 69,
+            "sex": "male",
+            "occurences": {
+                "total": 19,
+                "firstNameOnly": 2,
+                "lastNameOnly": 16,
+                "fullName": 1,
+                "nickname": 0
+            },
+            "inTitle": false,
+            "inIntro": false,
+            "_name": {
+                "firstname": "J\u00fcrgen",
+                "lastname": "Dreger",
+                "nickname": null,
+                "alternative_names": [],
+                "academic_title": null,
+                "nobility_title_or_rank": null
+            },
+            "descriptiveTexts": [
+                {
+                    "text": "Hans-J\u00fcrgen Dreger, 69, ist ein B\u00fcrgermeister, von dem Burger sagen, er sei \u00bbso ein B\u00fcrgermeister, wie man ihn sich w\u00fcnscht\u00ab."
+                },
+                {
+                    "text": "\u00bbUnd so isses\u00ab, sagt Dreger."
+                },
+                {
+                    "text": "Eine Frau gr\u00fc\u00dft \u00fcber den Gartenzaun mit \u00bbTachchen, J\u00fcrgen!\u00ab."
+                },
+                {
+                    "text": "Dreger erz\u00e4hlt, dass er zu jedem runden Geburtstag geht."
+                },
+                {
+                    "text": "\u00bbMuss man machen\u00ab, sagt Dreger."
+                },
+                {
+                    "text": "Als er in ein Caf\u00e9 l\u00e4uft, ruft eine Fahrradtourgruppe aus \u00e4lteren Damen: \u00bbJ\u00fcrgen, gib mal einen aus.\u00ab"
+                },
+                {
+                    "text": "Dreger geht zur Theke, bestellt sechs Eierlik\u00f6re."
+                },
+                {
+                    "text": "Eigentlich wollte Dreger nicht mehr mit Journalisten reden, sagt er."
+                },
+                {
+                    "text": "Dreger mochte erst nicht schauen, schaute dann doch, was die \u00bbBild\u00ab schrieb \u00fcber Burg."
+                },
+                {
+                    "text": "Dreger gab eines f\u00fcrs Fernsehen, 15 Minuten lang, so sagt er."
+                },
+                {
+                    "text": "Nachdem der Mann 2020 das Deutsche Haus gekauft hatte, seien Leute vom Verfassungsschutz in der Gemeindevertretung vorbeigekommen, erz\u00e4hlt B\u00fcrgermeister Dreger."
+                },
+                {
+                    "text": "Dreger habe gesagt: \u00bbJetzt habe ich ein Problem. Wenn ich nach Hause komme, muss ich meiner Frau sagen, wir k\u00f6nnen n\u00e4chste Woche nicht zu meinem Cousin auf den 60. Geburtstag gehen.\u00ab"
+                },
+                {
+                    "text": "\u00bbNa, weil der im Deutschen Haus feiert\u00ab, habe Dreger geantwortet."
+                },
+                {
+                    "text": "Dreger habe einmal mit dem Mann geredet, sagt er."
+                },
+                {
+                    "text": "Sie h\u00e4tten sich an einen Tisch gesetzt, und Dreger sagte: \u00bbIch kann gegen Sie jetzt noch n\u00fcscht haben, weil ich ja noch gar nicht wei\u00df, wie das so ist. Aber wenn Sie jetzt irgendwas machen in unserem Dorf, was nicht sch\u00f6n ist, dann lernen Sie mich kennen.\u00ab"
+                },
+                {
+                    "text": "Einmal, sagt Dreger, sei er mit seinem Fahrrad am Deutschen Haus vorbeigefahren und habe, so glaubt er, \u00bbSieg Heil!\u00ab geh\u00f6rt."
+                },
+                {
+                    "text": "\u00bbAber ich muss auch sagen: Am M\u00e4nnertag, am Bierwagen, da br\u00fcllen die auch so was\u00ab, sagt Dreger."
+                },
+                {
+                    "text": "In vier Minuten und 26 Sekunden sagen elf Burger, darunter Dreger, dass sie sich gegen \u00bbDiskriminierung, Rassismus und Extremismus\u00ab stellen, \u00bbf\u00fcr Vielfalt\u00ab stehen und das, was an der Schule passiert ist, \u00bbaufs Sch\u00e4rfste\u00ab verurteilen."
+                },
+                {
+                    "text": "B\u00fcrgermeister Dreger ist da, er sch\u00fcttelt H\u00e4nde, sagt: \u00bbDu hier und nicht in Hollywood?\u00ab"
+                }
+            ],
+            "occupations": [
+                {
+                    "text": "B\u00fcrgermeister"
+                },
+                {
+                    "text": "B\u00fcrgermeister, wie man ihn sich w\u00fcnscht"
+                },
+                {
+                    "text": "Wirt"
+                },
+                {
+                    "text": "Rentner"
+                }
+            ],
+            "directQuotes": [
+                {
+                    "text": "alteingesessenen Burger"
+                },
+                {
+                    "text": "aufgebauscht"
+                },
+                {
+                    "text": "Wir Demokraten"
+                },
+                {
+                    "text": "Heil Hitler"
+                },
+                {
+                    "text": "Da wei\u00df man auch nicht mehr so richtig, was man sagen soll"
+                },
+                {
+                    "text": "Wir sind hier nicht bei W\u00fcnsch-dir-was, sondern bei SO ISSES!"
+                },
+                {
+                    "text": "Brauchst du nicht, du brauchst nur die Leute kennen."
+                },
+                {
+                    "text": "Muss man machen"
+                },
+                {
+                    "text": "Ganzes Dorf versinkt im braunen Sumpf."
+                },
+                {
+                    "text": "Wieso?"
+                },
+                {
+                    "text": "Sieg Heil!"
+                },
+                {
+                    "text": "Diskriminierung, Rassismus und Extremismus"
+                },
+                {
+                    "text": "Weil du kannst es auslegen, wie du willst. Stellst du dich jetzt hin und sagst, du bist weltoffen, dann hast du wieder jemanden, der genau das andere rauszieht."
+                },
+                {
+                    "text": "Zusammen gegen Rassismus"
+                },
+                {
+                    "text": "was sonst noch so heruml\u00e4uft"
+                },
+                {
+                    "text": "Du hier und nicht in Hollywood?"
+                },
+                {
+                    "text": "Aber hier kannst du ja nicht mal unzufrieden sein. Hier hat man ja nicht mal Ber\u00fchrungspunkte."
+                },
+                {
+                    "text": "Contra Menschenrechte"
+                },
+                {
+                    "text": "Dass man nicht wegen Kleinigkeiten wie Hautfarbe oder Herkunft wie Dreck behandelt wird."
+                },
+                {
+                    "text": "GERMAN FIGHTER"
+                },
+                {
+                    "text": "gut"
+                },
+                {
+                    "text": "Schei\u00df Zecke! Du Verr\u00e4ter!"
+                }
+            ],
+            "quotedInTitle": false,
+            "quotedInIntro": false
+        },
+        {
+            "name": "Markus Mandel",
+            "alternativeNames": [],
+            "age": 63,
+            "sex": "male",
+            "occurences": {
+                "total": 22,
+                "firstNameOnly": 0,
+                "lastNameOnly": 21,
+                "fullName": 1,
+                "nickname": 0
+            },
+            "inTitle": false,
+            "inIntro": false,
+            "_name": {
+                "firstname": "Markus",
+                "lastname": "Mandel",
+                "nickname": null,
+                "alternative_names": [],
+                "academic_title": null,
+                "nobility_title_or_rank": null
+            },
+            "descriptiveTexts": [
+                {
+                    "text": "Der grauhaarige Mann hei\u00dft Markus Mandel, er ist 63 Jahre alt und seit dem Sommer ist er der Krisenverwalter von Burg."
+                },
+                {
+                    "text": "Mandel nennt sich selbst einen \u00bbalteingesessenen Burger\u00ab."
+                },
+                {
+                    "text": "Es sei im August gewesen, als ein hoher Beamter aus dem Schulamt an die Schule in Cottbus kam, an der Mandel damals unterrichtete."
+                },
+                {
+                    "text": "Mandel wusste nicht, worum es gehen sollte, nur, dass es wichtig war."
+                },
+                {
+                    "text": "Der Mann wollte mit Mandel \u00fcber den Brief der Lehrer aus Burg sprechen."
+                },
+                {
+                    "text": "Der Beamte aus dem Schulamt bat Mandel, die Schulleitung zu \u00fcbernehmen."
+                },
+                {
+                    "text": "\u00bbSie w\u00fcnschen sich, ich w\u00fcrde das hinkriegen\u00ab, sagt Mandel."
+                },
+                {
+                    "text": "Wahrscheinlich soll Mandel einfach f\u00fcr das sorgen, was sich die Politik nach so einem Skandal w\u00fcnscht: Ruhe."
+                },
+                {
+                    "text": "An dem Morgen, an dem ich in seinem B\u00fcro sitze, muss Mandel gleich ein Gespr\u00e4ch mit einem Vater f\u00fchren."
+                },
+                {
+                    "text": "\u00bbNa, nun erkl\u00e4ren Sie das mal\u00ab, sagt Mandel."
+                },
+                {
+                    "text": "Sie h\u00e4tten, sagt Mandel, die Aufgabe ge\u00e4ndert."
+                },
+                {
+                    "text": "\u00bbSo doof kannst du hier zurzeit gar nicht denken\u00ab, sagt Mandel."
+                },
+                {
+                    "text": "Eine Clique, sagt Mandel."
+                },
+                {
+                    "text": "Neulich, sagt Mandel, habe er einen alten Sch\u00fcler von sich getroffen, den er nach dessen Abschluss am NPD-Stand gesehen hatte."
+                },
+                {
+                    "text": "\u00bbDa wei\u00df man auch nicht mehr so richtig, was man sagen soll\u00ab, sagt Mandel."
+                },
+                {
+                    "text": "Sp\u00e4ter erz\u00e4hlt Mandel von einem Zweitkl\u00e4ssler, der \u00bbHeil Hitler\u00ab gerufen habe."
+                },
+                {
+                    "text": "\u00bbDer hat die ganze Zeit nur geflennt. Wenn der nicht traumatisiert ist, wei\u00df ich auch nicht\u00ab, sagt Mandel."
+                },
+                {
+                    "text": "Schulleiter Mandel lie\u00df die Polizei kommen, den Streifenwagen auf den Schulhof fahren, erz\u00e4hlt er, die Beamten suchten nach Spuren."
+                },
+                {
+                    "text": "Schulleiter Mandel sagt: \u00bbWir hatten schon zu DDR-Zeiten Familien, in denen Opa sagt, wo es langgeht. In denen auch heute die Eltern sagen: Die Diktatur ist doch eine feine Sache. Das vererbt sich hier auf den D\u00f6rfern.\u00ab"
+                },
+                {
+                    "text": "An einem anderen Tag laufe ich mit Mandel die Treppe hinauf."
+                },
+                {
+                    "text": "Ein Junge sagt: \u00bbSchauen Sie mal, Herr Mandel, ich habe einen Ballon.\u00ab"
+                },
+                {
+                    "text": "Mandel nimmt es ihm ab und sagt: \u00bbWenigstens wei\u00df ich, was man damit sonst noch so machen kann.\u00ab"
+                }
+            ],
+            "occupations": [
+                {
+                    "text": "Krisenverwalter von Burg"
+                },
+                {
+                    "text": "Lehrer an der Burger Schule"
+                }
+            ],
+            "directQuotes": [],
+            "quotedInTitle": false,
+            "quotedInIntro": false
+        },
+        {
+            "name": "Grimm",
+            "alternativeNames": [],
+            "age": -1,
+            "sex": "male",
+            "occurences": {
+                "total": 1,
+                "firstNameOnly": 0,
+                "lastNameOnly": 0,
+                "fullName": 1,
+                "nickname": 0
+            },
+            "inTitle": false,
+            "inIntro": false,
+            "_name": {
+                "firstname": null,
+                "lastname": "Grimm",
+                "nickname": null,
+                "alternative_names": [],
+                "academic_title": null,
+                "nobility_title_or_rank": null
+            },
+            "descriptiveTexts": [
+                {
+                    "text": "Weil sie mit den Kindern noch Grimms M\u00e4rchen lesen w\u00fcrden, die zu gewaltverherrlichend seien."
+                }
+            ],
+            "occupations": [],
+            "directQuotes": [],
+            "quotedInTitle": false,
+            "quotedInIntro": false
+        },
+        {
+            "name": "Steinmetz",
+            "alternativeNames": [],
+            "age": -1,
+            "sex": "male",
+            "occurences": {
+                "total": 1,
+                "firstNameOnly": 0,
+                "lastNameOnly": 0,
+                "fullName": 1,
+                "nickname": 0
+            },
+            "inTitle": false,
+            "inIntro": false,
+            "_name": {
+                "firstname": null,
+                "lastname": "Steinmetz",
+                "nickname": null,
+                "alternative_names": [],
+                "academic_title": null,
+                "nobility_title_or_rank": null
+            },
+            "descriptiveTexts": [
+                {
+                    "text": "Steinmetz, F\u00e4hrmann, Eisenbahner."
+                }
+            ],
+            "occupations": [],
+            "directQuotes": [],
+            "quotedInTitle": false,
+            "quotedInIntro": false
+        },
+        {
+            "name": "Hitler",
+            "alternativeNames": [],
+            "age": -1,
+            "sex": "male",
+            "occurences": {
+                "total": 2,
+                "firstNameOnly": 0,
+                "lastNameOnly": 0,
+                "fullName": 2,
+                "nickname": 0
+            },
+            "inTitle": false,
+            "inIntro": false,
+            "_name": {
+                "firstname": null,
+                "lastname": "Hitler",
+                "nickname": null,
+                "alternative_names": [],
+                "academic_title": null,
+                "nobility_title_or_rank": null
+            },
+            "descriptiveTexts": [
+                {
+                    "text": "88, HH, steht f\u00fcr \u00bbHeil Hitler\u00ab."
+                },
+                {
+                    "text": "Sp\u00e4ter erz\u00e4hlt Mandel von einem Zweitkl\u00e4ssler, der \u00bbHeil Hitler\u00ab gerufen habe."
+                }
+            ],
+            "occupations": [],
+            "directQuotes": [
+                {
+                    "text": "Arbeit macht frei"
+                },
+                {
+                    "text": "III. Weg"
+                }
+            ],
+            "quotedInTitle": false,
+            "quotedInIntro": false
+        },
+        {
+            "name": "Hans",
+            "alternativeNames": [],
+            "age": -1,
+            "sex": "male",
+            "occurences": {
+                "total": 1,
+                "firstNameOnly": 0,
+                "lastNameOnly": 0,
+                "fullName": 1,
+                "nickname": 0
+            },
+            "inTitle": false,
+            "inIntro": false,
+            "_name": {
+                "firstname": "Hans",
+                "lastname": null,
+                "nickname": null,
+                "alternative_names": [],
+                "academic_title": null,
+                "nobility_title_or_rank": null
+            },
+            "descriptiveTexts": [
+                {
+                    "text": "Hans-J\u00fcrgen Dreger, 69, ist ein B\u00fcrgermeister, von dem Burger sagen, er sei \u00bbso ein B\u00fcrgermeister, wie man ihn sich w\u00fcnscht\u00ab."
+                }
+            ],
+            "occupations": [
+                {
+                    "text": "B\u00fcrgermeister"
+                }
+            ],
+            "directQuotes": [],
+            "quotedInTitle": false,
+            "quotedInIntro": false
+        },
+        {
+            "name": "Heinrich",
+            "alternativeNames": [],
+            "age": -1,
+            "sex": "male",
+            "occurences": {
+                "total": 6,
+                "firstNameOnly": 0,
+                "lastNameOnly": 0,
+                "fullName": 6,
+                "nickname": 0
+            },
+            "inTitle": false,
+            "inIntro": false,
+            "_name": {
+                "firstname": "Heinrich",
+                "lastname": null,
+                "nickname": null,
+                "alternative_names": [],
+                "academic_title": null,
+                "nobility_title_or_rank": null
+            },
+            "descriptiveTexts": [
+                {
+                    "text": "Auch er hat einen sehr deutschen Namen, nennen wir ihn hier: Heinrich."
+                },
+                {
+                    "text": "Heinrich hat jetzt Astronomie."
+                },
+                {
+                    "text": "Ein M\u00e4dchen ruft zu Heinrich: \u00bbHeinrich, der Dennis ist schwul, und er steht auf dich.\u00ab"
+                },
+                {
+                    "text": "Heinrich grinst und sagt: \u00bbIch wei\u00df.\u00ab"
+                },
+                {
+                    "text": "Der Lehrer fragt: \u00bbHabt ihr keinen Unterricht?\u00ab, und holt Heinrich wieder rein."
+                }
+            ],
+            "occupations": [
+                {
+                    "text": "Sch\u00fcler"
+                }
+            ],
+            "directQuotes": [
+                {
+                    "text": "die in Deutschland eigentlich lange Vergangenheit sein sollten"
+                }
+            ],
+            "quotedInTitle": false,
+            "quotedInIntro": false
+        },
+        {
+            "name": "Dennis",
+            "alternativeNames": [],
+            "age": -1,
+            "sex": "male",
+            "occurences": {
+                "total": 1,
+                "firstNameOnly": 0,
+                "lastNameOnly": 0,
+                "fullName": 1,
+                "nickname": 0
+            },
+            "inTitle": false,
+            "inIntro": false,
+            "_name": {
+                "firstname": "Dennis",
+                "lastname": null,
+                "nickname": null,
+                "alternative_names": [],
+                "academic_title": null,
+                "nobility_title_or_rank": null
+            },
+            "descriptiveTexts": [
+                {
+                    "text": "Ein M\u00e4dchen ruft zu Heinrich: \u00bbHeinrich, der Dennis ist schwul, und er steht auf dich.\u00ab"
+                }
+            ],
+            "occupations": [],
+            "directQuotes": [],
+            "quotedInTitle": false,
+            "quotedInIntro": false
+        },
+        {
+            "name": "Max Teske",
+            "alternativeNames": [],
+            "age": -1,
+            "sex": "male",
+            "occurences": {
+                "total": 15,
+                "firstNameOnly": 1,
+                "lastNameOnly": 13,
+                "fullName": 1,
+                "nickname": 0
+            },
+            "inTitle": false,
+            "inIntro": false,
+            "_name": {
+                "firstname": "Max",
+                "lastname": "Teske",
+                "nickname": null,
+                "alternative_names": [],
+                "academic_title": null,
+                "nobility_title_or_rank": null
+            },
+            "descriptiveTexts": [
+                {
+                    "text": "Die beiden Lehrer, die ihn geschrieben haben, Max Teske und Laura Nickel, gaben in den Wochen danach viele Interviews, hielten eine Rede auf einer Kundgebung vor dem Schulamt in Cottbus."
+                },
+                {
+                    "text": "An einem Donnerstag im Februar sitzt Teske in einem Caf\u00e9 in der N\u00e4he von Potsdam."
+                },
+                {
+                    "text": "Wo genau, soll hier nicht stehen, und wenn Teske die Zeit nach dem Brief nacherz\u00e4hlt, versteht man warum."
+                },
+                {
+                    "text": "Teske sagt, die Idee kam ihnen, nachdem die alte Schulleiterin einen Hitlergru\u00df im Sportunterricht nicht ans Schulamt gemeldet h\u00e4tte."
+                },
+                {
+                    "text": "Teske packte gerade seine Tasche, da sei Nickel ins Lehrerzimmer gekommen und habe gefragt: \u00bbMax, wollen wir nicht einen Brief schreiben und den an die Medien schicken?\u00ab"
+                },
+                {
+                    "text": "\u00bbWir dachten eigentlich, das w\u00fcrde nur so ein kleiner Leserbrief werden\u00ab, sagt Teske."
+                },
+                {
+                    "text": "Eine Gruppe von M\u00e4nnern sei auf Teske zugelaufen."
+                },
+                {
+                    "text": "Teske hielt seine vierj\u00e4hrige Tochter an der Hand, sie weinte."
+                },
+                {
+                    "text": "\u00bbDas ist fast k\u00f6rperlich geworden\u00ab, sagt Teske."
+                },
+                {
+                    "text": "Das war in Cottbus, wo Teske damals lebte."
+                },
+                {
+                    "text": "In Burg, erz\u00e4hlt Teske, stand er einmal mit Nickel auf einem Parkplatz, als eine \u00e4ltere Frau neben ihnen anhielt."
+                },
+                {
+                    "text": "Auch an seinem letzten Schultag in Burg seien Eltern zu Teske gekommen und h\u00e4tten sich bedankt."
+                },
+                {
+                    "text": "Als wir nach anderthalb Stunden aus dem Caf\u00e9 laufen, in Teskes Auto einsteigen, er den Wagen startet, geht RadioEins an."
+                },
+                {
+                    "text": "Mittlerweile, h\u00f6rt man an der Schule, \u00fcberlegten weitere Lehrer, die Teske und Nickel unterst\u00fctzt haben, Burg zu verlassen."
+                }
+            ],
+            "occupations": [
+                {
+                    "text": "Lehrer"
+                }
+            ],
+            "directQuotes": [
+                {
+                    "text": "Danach habe ich gesagt: Okay, ich muss hier weg."
+                }
+            ],
+            "quotedInTitle": false,
+            "quotedInIntro": false
+        },
+        {
+            "name": "Bruno",
+            "alternativeNames": [],
+            "age": -1,
+            "sex": "male",
+            "occurences": {
+                "total": 4,
+                "firstNameOnly": 0,
+                "lastNameOnly": 0,
+                "fullName": 4,
+                "nickname": 0
+            },
+            "inTitle": false,
+            "inIntro": false,
+            "_name": {
+                "firstname": "Bruno",
+                "lastname": null,
+                "nickname": null,
+                "alternative_names": [],
+                "academic_title": null,
+                "nobility_title_or_rank": null
+            },
+            "descriptiveTexts": [
+                {
+                    "text": "Es gibt eine Kneipe, sie hei\u00dft \u00bbBruno\u2019s Kneipe\u00ab, aber man sagt: bei Bruno."
+                },
+                {
+                    "text": "Bei Bruno ist eine umgebaute Scheune, in der M\u00e4nner mit grauen Haaren und Ohrringen Kegelbillard spielen, Zigarillos rauchen und von ihren Berufen erz\u00e4hlen, die klingen, als h\u00e4tte es die Jahrtausendwende nicht gegeben."
+                },
+                {
+                    "text": "Bruno selbst erz\u00e4hlt, wie er in der vielleicht einzigen Reggae-Band der DDR gespielt hat."
+                }
+            ],
+            "occupations": [],
+            "directQuotes": [],
+            "quotedInTitle": false,
+            "quotedInIntro": false
+        }
+    ]
+}

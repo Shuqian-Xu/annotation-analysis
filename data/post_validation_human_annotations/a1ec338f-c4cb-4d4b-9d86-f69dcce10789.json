@@ -1,0 +1,111 @@
+{
+  "persons": [
+    {
+      "age": -1,
+      "alternativeNames": [],
+      "birthday": null,
+      "descriptiveTexts": [
+        {
+          "text": "In dieser prekären Situation starten die Eigentümerfamilien Porsche und Piëch nun eine historisch einmalige Operation, wie manager-magazin-Autoexperte Michael Freitag recherchiert hat: Die leise Übernahme des Volkswagen-Konzerns durch die Erfolgsfirma Porsche."
+        },
+        {
+          "text": "Wie genau diese Übernahme läuft, warum Top-Manager Oliver Blume (55) dabei die Schlüsselfigur ist und was jetzt passieren muss, damit Volkswagens Sanierung eine Chance hat - darüber informiert in diesem Podcast Michael Freitag im Gespräch mit Chefredakteur Sven Clausen."
+        }
+      ],
+      "directQuotes": [
+      ],
+      "inIntro": false,
+      "inTitle": false,
+      "indirectQuotes": [
+      ],
+      "isMain": false,
+      "name": "Michael Freitag",
+      "occupations": [
+        {
+          "text": "manager-magazin-Autoexperte"
+        }
+      ],
+      "occurrences": {
+        "firstNameOnly": 0,
+        "fullName": 2,
+        "lastNameOnly": 0,
+        "total": 2
+      },
+      "quotedInIntro": false,
+      "quotedInTitle": false,
+      "sex": "male"
+    },
+    {
+      "age": 55,
+      "alternativeNames": [],
+      "birthday": null,
+      "descriptiveTexts": [
+        {
+          "text": "Wie genau diese Übernahme läuft, warum Top-Manager Oliver Blume (55) dabei die Schlüsselfigur ist und was jetzt passieren muss, damit Volkswagens Sanierung eine Chance hat - darüber informiert in diesem Podcast Michael Freitag im Gespräch mit Chefredakteur Sven Clausen."
+        }
+      ],
+      "directQuotes": [],
+      "inIntro": false,
+      "inTitle": false,
+      "indirectQuotes": [],
+      "isMain": false,
+      "name": "Oliver Blume",
+      "occupations": [
+        {
+          "text": "Top-Manager"
+        },
+        {
+          "text": "Schlüsselfigur"
+        }
+      ],
+      "occurrences": {
+        "firstNameOnly": 0,
+        "fullName": 1,
+        "lastNameOnly": 0,
+        "total": 1
+      },
+      "quotedInIntro": false,
+      "quotedInTitle": false,
+      "sex": "male"
+    },
+    {
+      "age": -1,
+      "alternativeNames": [],
+      "birthday": null,
+      "descriptiveTexts": [
+        {
+          "text": "Wie genau diese Übernahme läuft, warum Top-Manager Oliver Blume (55) dabei die Schlüsselfigur ist und was jetzt passieren muss, damit Volkswagens Sanierung eine Chance hat - darüber informiert in diesem Podcast Michael Freitag im Gespräch mit Chefredakteur Sven Clausen."
+        },
+        {
+          "text": "Im Podcast »Das Thema« informiert Chefredakteur Sven Clausen jede Woche über den internen Recherchestand zu jeweils einem für die deutsche Wirtschaft entscheidenden Thema."
+        }
+      ],
+      "directQuotes": [],
+      "inIntro": false,
+      "inTitle": false,
+      "indirectQuotes": [],
+      "isMain": false,
+      "name": "Sven Clausen",
+      "occupations": [
+        {
+          "text": "Chefredakteur"
+        }
+      ],
+      "occurrences": {
+        "firstNameOnly": 0,
+        "fullName": 2,
+        "lastNameOnly": 0,
+        "total": 2
+      },
+      "quotedInIntro": false,
+      "quotedInTitle": false,
+      "sex": "male"
+    }
+  ],
+  "subtopics": [
+    "Unternehmen",
+    "Wirtschaft",
+    "Firmenübernahme",
+    "Automobilindustrie"
+  ]
+}

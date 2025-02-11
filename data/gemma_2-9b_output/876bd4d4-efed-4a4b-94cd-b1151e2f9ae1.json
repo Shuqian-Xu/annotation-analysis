@@ -1,0 +1,86 @@
+{
+    "persons": [
+        {
+            "name": "Mark B\u00f6schen",
+            "alternativeNames": [],
+            "age": -1,
+            "sex": "male",
+            "occurences": {
+                "total": 2,
+                "firstNameOnly": 0,
+                "lastNameOnly": 0,
+                "fullName": 2,
+                "nickname": 0
+            },
+            "inTitle": false,
+            "inIntro": false,
+            "_name": {
+                "firstname": "Mark",
+                "lastname": "B\u00f6schen",
+                "nickname": null,
+                "alternative_names": [],
+                "academic_title": null,
+                "nobility_title_or_rank": null
+            },
+            "descriptiveTexts": [
+                {
+                    "text": "Profi-Investoren, die manager-magazin-Redakteur Mark B\u00f6schen k\u00fcrzlich in Los Angeles auf einem Gipfeltreffen der Branche traf, zeichnen dagegen ein ganz anderes Bild: Die Aktienkurse seien angesichts der hohen Inflation und der Konjunkturrisiken immer noch zu hoch, eine schmerzhafte Korrektur in den kommenden Monaten sei unausweichlich."
+                },
+                {
+                    "text": "Dar\u00fcber informiert in diesem Podcast Mark B\u00f6schen, Kapitalmarktexperte des manager magazins, im Gespr\u00e4ch mit Sven Clausen."
+                }
+            ],
+            "occupations": [
+                {
+                    "text": "Kapitalmarktexperte des manager magazins"
+                }
+            ],
+            "directQuotes": [],
+            "quotedInTitle": false,
+            "quotedInIntro": false
+        },
+        {
+            "name": "Sven Clausen",
+            "alternativeNames": [],
+            "age": -1,
+            "sex": "male",
+            "occurences": {
+                "total": 2,
+                "firstNameOnly": 0,
+                "lastNameOnly": 0,
+                "fullName": 2,
+                "nickname": 0
+            },
+            "inTitle": false,
+            "inIntro": false,
+            "_name": {
+                "firstname": "Sven",
+                "lastname": "Clausen",
+                "nickname": null,
+                "alternative_names": [],
+                "academic_title": null,
+                "nobility_title_or_rank": null
+            },
+            "descriptiveTexts": [
+                {
+                    "text": "Dar\u00fcber informiert in diesem Podcast Mark B\u00f6schen, Kapitalmarktexperte des manager magazins, im Gespr\u00e4ch mit Sven Clausen."
+                },
+                {
+                    "text": "Im Podcast \"Das Thema\" informiert Chefredakteur Sven Clausen jede Woche \u00fcber den internen Recherchestand zu einem relevanten aktuellen und zugleich zukunftstr\u00e4chtigen Thema der Wirtschaft."
+                }
+            ],
+            "occupations": [
+                {
+                    "text": "Chefredakteur"
+                }
+            ],
+            "directQuotes": [
+                {
+                    "text": "Das Thema"
+                }
+            ],
+            "quotedInTitle": false,
+            "quotedInIntro": false
+        }
+    ]
+}

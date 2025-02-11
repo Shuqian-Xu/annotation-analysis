@@ -1,0 +1,132 @@
+{
+  "persons": [
+    {
+      "age": 39, 
+      "alternativeNames": [],
+      "birthday": null,
+      "descriptiveTexts": [
+        {
+          "text": "Meta-Chef Mark Zuckerberg (39) eröffnet mit seinen Quest-Brillen virtuelle Parallelwelten, seit Anfang Juni ist nun auch klar, welche Strategie Tim Cook (62) verfolgt: Der Apple-Chef stellte sein Konzept der Datenbrille vor: Vision Pro."
+        }
+      ],
+      "directQuotes": [],
+      "inIntro": false,
+      "inTitle": false,
+      "indirectQuotes": [],
+      "isMain": false,
+      "name": "Mark Zuckerberg",
+      "occupations": [
+        {
+          "text": "Meta-Chef"
+        }
+      ],
+      "occurences": {
+        "firstNameOnly": 0,
+        "fullName": 1,
+        "lastNameOnly": 0,
+        "total": 1
+      },
+      "quotedInIntro": false,
+      "quotedInTitle": false,
+      "sex": "male"
+    },
+    {
+      "age": 62, 
+      "alternativeNames": [],
+      "birthday": null,
+      "descriptiveTexts": [
+        {
+          "text": "Meta-Chef Mark Zuckerberg (39) eröffnet mit seinen Quest-Brillen virtuelle Parallelwelten, seit Anfang Juni ist nun auch klar, welche Strategie Tim Cook (62) verfolgt: Der Apple-Chef stellte sein Konzept der Datenbrille vor: Vision Pro."
+        }
+      ],
+      "directQuotes": [],
+      "inIntro": false,
+      "inTitle": false,
+      "indirectQuotes": [],
+      "isMain": false,
+      "name": "Tim Cook",
+      "occupations": [
+        {
+          "text": "Apple-Chef"
+        }
+      ],
+      "occurences": {
+        "firstNameOnly": 0,
+        "fullName": 1,
+        "lastNameOnly": 0,
+        "total": 1
+      },
+      "quotedInIntro": false,
+      "quotedInTitle": false,
+      "sex": "male"
+    },
+    {
+      "age": -1, 
+      "alternativeNames": [],
+      "birthday": null,
+      "descriptiveTexts": [
+        {
+            "text": "Wie sich die Konzepte der Erzrivalen unterscheiden, welche Schwächen die Vision Pro hat und warum Apples Strategie dennoch höhere Erfolgschancen zu haben scheint als die des Erzrivalen Meta – darüber informiert in diesem Podast Jonas Rest, Tech-Reporter des manager magazins, im Gespräch mit Chefredakteur Sven Clausen."
+          },
+          {
+          "text": "Im Podcast »Das Thema« informiert Chefredakteur Sven Clausen jede Woche über den internen Recherchestand zu einem relevanten aktuellen und zugleich zukunftsträchtigen Thema der Wirtschaft."
+        }
+      ],
+      "directQuotes": [],
+      "inIntro": false,
+      "inTitle": false,
+      "indirectQuotes": [],
+      "isMain": false,
+      "name": "Sven Clausen",
+      "occupations": [
+        {
+          "text": "Chefredakteur"
+        }
+      ],
+      "occurences": {
+        "firstNameOnly": 0,
+          "fullName": 2,
+        "lastNameOnly": 0,
+          "total": 2
+      },
+      "quotedInIntro": false,
+      "quotedInTitle": false,
+      "sex": "male"
+    },
+    {
+        "age": -1,
+        "alternativeNames": [],
+        "birthday": null,
+        "descriptiveTexts": [
+          {
+            "text": "Wie sich die Konzepte der Erzrivalen unterscheiden, welche Schwächen die Vision Pro hat und warum Apples Strategie dennoch höhere Erfolgschancen zu haben scheint als die des Erzrivalen Meta – darüber informiert in diesem Podast Jonas Rest, Tech-Reporter des manager magazins, im Gespräch mit Chefredakteur Sven Clausen."
+          }
+        ],
+        "directQuotes": [],
+        "inIntro": false,
+        "inTitle": false,
+        "indirectQuotes": [],
+        "isMain": false,
+        "name": "Jonas Rest",
+        "occupations": [
+          {
+            "text": "Tech-Reporter des manager magazins"
+          }
+        ],
+        "occurrences": {
+          "firstNameOnly": 0,
+          "fullName": 1,
+          "lastNameOnly": 0,
+          "total": 1
+        },
+        "quotedInIntro": false,
+        "quotedInTitle": false,
+        "sex": "male"
+      }
+  ],
+  "subtopics": [
+    "Virtual Reality", "Tech-Konzerne", "Apple",
+      "Meta",
+      "Datenbrille"
+  ]
+}

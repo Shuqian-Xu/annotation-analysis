@@ -1,0 +1,450 @@
+{
+  "persons": [
+    {
+      "age": 51, 
+      "alternativeNames": [],
+      "birthday": null,
+      "descriptiveTexts": [
+        {
+          "text": "In Berlin etwa brachten diese Fragen zuletzt bemerkenswerte Verbindungen im Wirtschaftsministerium ans Tageslicht: Patrick Graichen, wichtiger Staatssekretär im Hause Habeck, hat merkwürdig viele Verwandte in seinem beruflichen Umfeld, sein Trauzeuge wäre gerade um ein Haar Chef der bundeseigenen Deutschen Energie-Agentur geworden."
+        },
+        {
+          "text": "Habeck und Graichen stellten sich den Fragen der Abgeordneten."
+        },
+        {
+            "text": "Dabei lohnt ein genauerer Blick auf Graichen und dessen weitere Verbindungen."
+          },
+          {
+          "text": "Der 51-Jährige ist nicht irgendwer im Wirtschaftsministerium."
+        },
+        {
+          "text": "Als Habecks Mann für die Energiewende steuert er den Umbau der deutschen Wirtschaft."
+        },
+        {
+          "text": "Das Netzwerk, auf das er dabei zurückgreift, reicht weit über seine Familiengrenzen hinaus – bis ins ferne Kalifornien."
+        },
+        {
+          "text": "Der Mann heißt Hal Harvey, und er hat auch dank seines Verbündeten Graichen mehr Einfluss auf die deutsche Klimapolitik als manche Ministerin oder mancher Minister."
+        },
+        {
+          "text": "Gemeinsam mit weiteren Alliierten wie etwa dem Metro-Großaktionär Michael Schmidt-Ruthenbeck und unter Einsatz von Millionensummen treiben Graichen und Harvey den deutschen Klimaschutz voran."
+        },
+        {
+          "text": "Sie besetzen Posten, lancieren Ideen, finanzieren Initiativen."
+        }
+      ],
+      "directQuotes": [],
+        "inIntro": true,
+      "inTitle": false,
+      "indirectQuotes": [],
+      "isMain": false,
+      "name": "Patrick Graichen",
+      "occupations": [
+        {
+          "text": "wichtiger Staatssekretär im Hause Habeck"
+        }
+      ],
+      "occurences": {
+        "firstNameOnly": 0,
+        "fullName": 1,
+        "lastNameOnly": 4,
+        "total": 5
+      },
+      "quotedInIntro": false,
+      "quotedInTitle": false,
+      "sex": "male"
+    },
+    {
+      "age": -1, 
+      "alternativeNames": [],
+      "birthday": null,
+      "descriptiveTexts": [
+        {
+          "text": "In Berlin etwa brachten diese Fragen zuletzt bemerkenswerte Verbindungen im Wirtschaftsministerium ans Tageslicht: Patrick Graichen, wichtiger Staatssekretär im Hause Habeck, hat merkwürdig viele Verwandte in seinem beruflichen Umfeld, sein Trauzeuge wäre gerade um ein Haar Chef der bundeseigenen Deutschen Energie-Agentur geworden."
+        },
+        {
+          "text": " Nachdem Minister Robert Habeck den Fehler hatte einräumen müssen, begann heute die parlamentarische Aufarbeitung der Affäre."
+        },
+        {
+          "text": "Habeck und Graichen stellten sich den Fragen der Abgeordneten."
+        },
+        {
+          "text": "Als Habecks Mann für die Energiewende steuert er den Umbau der deutschen Wirtschaft."
+        }
+      ],
+      "directQuotes": [],
+      "inIntro": false,
+      "inTitle": false,
+      "indirectQuotes": [],
+      "isMain": false,
+      "name": "Robert Habeck",
+      "occupations": [
+        {
+          "text": "Minister"
+        }
+      ],
+      "occurences": {
+        "firstNameOnly": 0,
+        "fullName": 1,
+        "lastNameOnly": 3,
+        "total": 4
+      },
+      "quotedInIntro": false,
+      "quotedInTitle": false,
+      "sex": "male"
+    },
+    {
+      "age": -1, 
+      "alternativeNames": [],
+      "birthday": null,
+      "descriptiveTexts": [
+        {
+          "text": "Dort sitzt ein Mann, der über Hunderte Millionen Euro an Stiftungsgeldern herrscht, die er weltweit für den Kampf gegen den Klimawandel einsetzt, auch in Deutschland."
+        },
+        {
+          "text": "Der Mann heißt Hal Harvey, und er hat auch dank seines Verbündeten Graichen mehr Einfluss auf die deutsche Klimapolitik als manche Ministerin oder mancher Minister."
+        },
+        {
+          "text": "Gemeinsam mit weiteren Alliierten wie etwa dem Metro-Großaktionär Michael Schmidt-Ruthenbeck und unter Einsatz von Millionensummen treiben Graichen und Harvey den deutschen Klimaschutz voran."
+        },
+        {
+          "text": "Sie besetzen Posten, lancieren Ideen, finanzieren Initiativen."
+        }
+      ],
+      "directQuotes": [],
+      "inIntro": false,
+      "inTitle": false,
+      "indirectQuotes": [],
+      "isMain": false,
+      "name": "Hal Harvey",
+      "occupations": [],
+      "occurences": {
+        "firstNameOnly": 0,
+        "fullName": 1,
+        "lastNameOnly": 1,
+        "total": 2
+      },
+      "quotedInIntro": false,
+      "quotedInTitle": false,
+      "sex": "male"
+    },
+    {
+      "age": -1, 
+      "alternativeNames": [],
+      "birthday": null,
+      "descriptiveTexts": [
+        {
+          "text": "Gemeinsam mit weiteren Alliierten wie etwa dem Metro-Großaktionär Michael Schmidt-Ruthenbeck und unter Einsatz von Millionensummen treiben Graichen und Harvey den deutschen Klimaschutz voran."
+        },
+        {
+          "text": "Sie besetzen Posten, lancieren Ideen, finanzieren Initiativen."
+        }
+      ],
+      "directQuotes": [],
+      "inIntro": false,
+      "inTitle": false,
+      "indirectQuotes": [],
+      "isMain": false,
+      "name": "Michael Schmidt-Ruthenbeck",
+      "occupations": [
+        {
+          "text": "Metro-Großaktionär"
+        }
+      ],
+      "occurences": {
+        "firstNameOnly": 0,
+        "fullName": 1,
+        "lastNameOnly": 0,
+        "total": 1
+      },
+      "quotedInIntro": false,
+      "quotedInTitle": false,
+      "sex": "male"
+    },
+    {
+      "age": -1, 
+      "alternativeNames": [],
+      "birthday": null,
+      "descriptiveTexts": [
+        {
+          "text": "Die Details dazu kennt mein Kollege Claas Tatje, der sich die grüne Lobbywelt genau angeschaut hat und einige tiefe Einblicke gibt."
+        }
+      ],
+      "directQuotes": [],
+      "inIntro": false,
+      "inTitle": false,
+      "indirectQuotes": [],
+      "isMain": false,
+      "name": "Claas Tatje",
+      "occupations": [
+        {
+          "text": "Kollege"
+        }
+      ],
+      "occurences": {
+        "firstNameOnly": 0,
+        "fullName": 1,
+        "lastNameOnly": 0,
+        "total": 1
+      },
+      "quotedInIntro": false,
+      "quotedInTitle": false,
+      "sex": "male"
+    }
+    ,
+      {
+        "age": -1,
+        "alternativeNames": [],
+        "birthday": null,
+        "descriptiveTexts": [
+          {
+            "text": "Am und um den Versammlungsort im Berliner City Cube ging es ebenfalls lebhaft zu, Zwischenrufe, Oben-ohne-Proteste und ein Tortenwurf auf Aufsichtsrat Wolfgang Porsche inklusive."
+          }
+        ],
+        "directQuotes": [],
+        "inIntro": false,
+        "inTitle": false,
+        "indirectQuotes": [],
+        "isMain": false,
+        "name": "Wolfgang Porsche",
+        "occupations": [
+          {
+            "text": "VW-Aufsichtsrat"
+          }
+        ],
+        "occurrences": {
+          "firstNameOnly": 0,
+          "fullName": 1,
+          "lastNameOnly": 0,
+          "total": 1
+        },
+        "quotedInIntro": false,
+        "quotedInTitle": false,
+        "sex": "male"
+      },
+    {
+      "age": -1, 
+      "alternativeNames": [],
+      "birthday": null,
+      "descriptiveTexts": [
+        {
+          "text": "John Reade, Chefstratege der Branchenvereinigung World Gold Council, erklärt die Entwicklung mit dem Krieg Russlands gegen die Ukraine und der zunehmenden Unsicherheit."
+        },
+        {
+          "text": "Im Interview sagt er, was von den Notenbanken künftig zu erwarten ist, wie sich deren Verhalten auf den Goldpreis auswirkt – und warum Russland allen Sanktionen zum Trotz auch seine Goldreserven für die Kriegsfinanzierung einsetzen kann."
+        }
+      ],
+      "directQuotes": [],
+      "inIntro": false,
+      "inTitle": false,
+      "indirectQuotes": [],
+      "isMain": false,
+      "name": "John Reade",
+      "occupations": [
+        {
+          "text": "Chefstratege der Branchenvereinigung World Gold Council"
+        }
+      ],
+      "occurences": {
+        "firstNameOnly": 0,
+        "fullName": 1,
+        "lastNameOnly": 0,
+        "total": 1
+      },
+      "quotedInIntro": false,
+      "quotedInTitle": false,
+      "sex": "male"
+    },
+    {
+      "age": -1, 
+      "alternativeNames": [],
+      "birthday": null,
+      "descriptiveTexts": [
+        {
+          "text": "Nahrungs-Start-up mit Superwachstum: Christian Wolf ist einer der erfolgreichsten Gründer der deutschen Nahrungsmittelszene."
+        },
+        {
+          "text": "Seine Firma namens The Quality Group legt mit dem Verkauf von Süßstoffen, Proteinpulvern und Spezialriegeln enormes Wachstum hin."
+        },
+        {
+          "text": "Wolfs Versprechen, das er regelmäßig auch seinen Hunderttausenden Followern auf Tiktok gibt, lautet: Gesund ernährt sich, wer Produkte der Quality Group konsumiert."
+        }
+      ],
+      "directQuotes": [],
+      "inIntro": false,
+      "inTitle": false,
+        "indirectQuotes": [
+          {
+            "text": "Wolfs Versprechen, das er regelmäßig auch seinen Hunderttausenden Followern auf Tiktok gibt, lautet: Gesund ernährt sich, wer Produkte der Quality Group konsumiert."
+          }
+        ],
+      "isMain": false,
+      "name": "Christian Wolf",
+      "occupations": [
+        {
+          "text": "erfolgreichsten Gründer"
+        }
+      ],
+      "occurences": {
+        "firstNameOnly": 0,
+        "fullName": 1,
+        "lastNameOnly": 1,
+        "total": 2
+      },
+      "quotedInIntro": false,
+      "quotedInTitle": false,
+      "sex": "male"
+    },
+    {
+      "age": -1, 
+      "alternativeNames": [],
+      "birthday": null,
+      "descriptiveTexts": [
+        {
+          "text": "Mein Kollege Henning Hinze stellt Ihnen den Guru und sein Start-up vor."
+        }
+      ],
+      "directQuotes": [],
+      "inIntro": false,
+      "inTitle": false,
+      "indirectQuotes": [],
+      "isMain": false,
+      "name": "Henning Hinze",
+      "occupations": [
+        {
+          "text": "Kollege"
+        }
+      ],
+      "occurences": {
+        "firstNameOnly": 0,
+        "fullName": 1,
+        "lastNameOnly": 0,
+        "total": 1
+      },
+      "quotedInIntro": false,
+      "quotedInTitle": false,
+      "sex": "male"
+    },
+    {
+      "age": -1, 
+      "alternativeNames": [],
+      "birthday": null,
+      "descriptiveTexts": [
+        {
+          "text": "Meine Empfehlung für den Abend: Interview mit Carolin Kebekus: Die Welt ist nach wie vor männlich dominiert – auch die Comedy-Welt."
+        },
+        {
+          "text": "Carolin Kebekus ist zwar deutschlandweit bekannt, aber als weibliche Comedian ist sie immer noch eine von wenigen."
+        },
+        {
+          "text": "Kebekus, die viele Preise gewann und eine eigene Show in der ARD hat, nervt das offenbar."
+        },
+        {
+          "text": "'Frauen wird nach wie vor eingeredet, ihnen stünde weniger Platz zu als Männern – und dass sie um diesen Platz konkurrieren müssten', sagt sie im Interview mit Kollegin Sara Mously vom Harvard Business manager."
+        }
+      ],
+      "directQuotes": [
+        {
+          "text": "Frauen wird nach wie vor eingeredet, ihnen stünde weniger Platz zu als Männern – und dass sie um diesen Platz konkurrieren müssten"
+        }
+      ],
+      "inIntro": false,
+      "inTitle": false,
+      "indirectQuotes": [],
+      "isMain": false,
+      "name": "Carolin Kebekus",
+      "occupations": [],
+      "occurences": {
+        "firstNameOnly": 0,
+        "fullName": 2,
+        "lastNameOnly": 1,
+        "total": 3
+      },
+      "quotedInIntro": false,
+      "quotedInTitle": false,
+      "sex": "female"
+    },
+    {
+      "age": -1, 
+      "alternativeNames": [],
+      "birthday": null,
+      "descriptiveTexts": [
+        {
+          "text": "'Frauen wird nach wie vor eingeredet, ihnen stünde weniger Platz zu als Männern – und dass sie um diesen Platz konkurrieren müssten', sagt sie im Interview mit Kollegin Sara Mously vom Harvard Business manager."
+        }
+      ],
+      "directQuotes": [],
+      "inIntro": false,
+      "inTitle": false,
+      "indirectQuotes": [],
+      "isMain": false,
+      "name": "Sara Mously",
+      "occupations": [
+        {
+          "text": "Kollegin"
+        }
+      ],
+      "occurences": {
+        "firstNameOnly": 0,
+        "fullName": 1,
+        "lastNameOnly": 0,
+        "total": 1
+      },
+      "quotedInIntro": false,
+      "quotedInTitle": false,
+      "sex": "female"
+    },
+    {
+      "age": -1, 
+      "alternativeNames": [],
+      "birthday": null,
+      "descriptiveTexts": [
+        {
+            "text": "Jeden Abend fassen wir die wichtigsten Wirtschaftsnews des Tages zusammen."
+          },
+          {
+            "text": "Die Details dazu kennt mein Kollege Claas Tatje, der sich die grüne Lobbywelt genau angeschaut hat und einige tiefe Einblicke gibt."
+          },
+          {
+            "text": "Mein Kollege Henning Hinze stellt Ihnen den Guru und sein Start-up vor."
+          },
+          {
+            "text": "Meine Empfehlung für den Abend."
+          },
+          {
+            "text": "Mein Urteil: auch ohne Pointe lesenswert."
+          },
+          {
+            "text": "Beste Grüße, Ihr Christoph Rottwilm."
+          },
+          {
+            "text": "Haben Sie Wünsche, Anregungen, Informationen, um die wir uns journalistisch kümmern sollten?"
+          },
+          {
+            "text": "Wir freuen uns auf Ihre Post unter chefredaktion@manager-magazin.de."
+        }
+      ],
+      "directQuotes": [],
+      "inIntro": false,
+      "inTitle": false,
+      "indirectQuotes": [],
+      "isMain": false,
+      "name": "Christoph Rottwilm",
+      "occupations": [],
+      "occurences": {
+        "firstNameOnly": 0,
+        "fullName": 1,
+        "lastNameOnly": 0,
+        "total": 1
+      },
+      "quotedInIntro": false,
+      "quotedInTitle": false,
+      "sex": "male"
+    }
+  ],
+  "subtopics": [
+    "Klimaschutz", "Investitionen", "Personalie",
+      "Volkswagen",
+      "Lufthansa"
+  ]
+}

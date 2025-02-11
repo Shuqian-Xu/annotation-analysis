@@ -1,0 +1,339 @@
+{
+	"persons": [
+		{
+			"age": 67,
+			"alternativeNames": [],
+			"birthday": null,
+			"descriptiveTexts": [
+				{
+					"text": "Früher, vor vielen Jahren, hat Dieter Uhlig gegen Atomkraftwerke demonstriert."
+				},
+				{
+					"text": "Danach sei er lange Zeit nicht mehr auf die Straße gegangen."
+				},
+				{
+					"text": "An diesem nasskalten Freitagabend aber steht der 67-Jährige vor der Parteizentrale der Hamburger AfD und sagt: »Das alles berührt mich sehr.«"
+				},
+				{
+					"text": "Die Berichterstattung der vergangenen Tage habe ihn persönlich, gar körperlich betroffen gemacht."
+				},
+				{
+					"text": "»Ich habe das Gefühl, ich muss rausgehen, aktiv werden, ein Zeichen setzen. Ich will zeigen, dass es Leute gibt, die das nicht hinnehmen wollen.«"
+				},
+				{
+					"text": "Für manche, so wie Dieter Uhlig, ist es die erste Kundgebung seit vielen Jahren oder überhaupt."
+				}
+			],
+			"directQuotes": [
+				{
+					"text": "Das alles berührt mich sehr."
+				},
+				{
+					"text": "Ich habe das Gefühl, ich muss rausgehen, aktiv werden, ein Zeichen setzen. Ich will zeigen, dass es Leute gibt, die das nicht hinnehmen wollen."
+				}
+			],
+			"inIntro": false,
+			"inTitle": false,
+			"indirectQuotes": [
+				{
+					"text": "Danach sei er lange Zeit nicht mehr auf die Straße gegangen."
+				},
+				{
+					"text": "Die Berichterstattung der vergangenen Tage habe ihn persönlich, gar körperlich betroffen gemacht."
+				}
+			],
+			"isMain": true,
+			"name": "Dieter Uhlig",
+			"occupations": [],
+			"occurrences": {
+				"firstNameOnly": 0,
+				"fullName": 2,
+				"lastNameOnly": 0,
+				"total": 2
+			},
+			"quotedInIntro": false,
+			"quotedInTitle": false,
+			"sex": "male"
+		},
+		{
+			"age": 15,
+			"alternativeNames": [],
+			"birthday": null,
+			"descriptiveTexts": [
+				{
+					"text": "Inmitten der Menge, in der Nähe des Lautsprecherwagens, stehen Fanny, 15, und Finja, 17."
+				},
+				{
+					"text": "Seit fünf Jahren gehen die beiden auf Demonstrationen, wie sie sagen, vor allem zu Fridays for Future."
+				},
+				{
+					"text": "Die Kundgebung heute ist ihre erste Demo gegen rechts."
+				},
+				{
+					"text": "»Wenn wir nichts machen, sind irgendwann Rechte an der Macht«, sagt Fanny."
+				},
+				{
+					"text": "»Deshalb ist es wichtig, dass wir jetzt laut sind, dass wir zeigen: Wir sind hier. Wenn alle denken: »Es ist kalt, ich wäre lieber zu Hause, irgendjemand geht schon hin«, dann geht niemand auf die Straße.«"
+				},
+				{
+					"text": "Fanny: »Ja, ich will es versucht haben.«"
+				},
+				{
+					"text": "Überrascht habe sie die Correctiv-Recherche nicht, sagen die Schülerinnen."
+				},
+				{
+					"text": "Fanny ergänzt: »Ich bin überrascht, dass es jetzt erst rauskam.«"
+				}
+			],
+			"directQuotes": [
+				{
+					"text": "Wenn wir nichts machen, sind irgendwann Rechte an der Macht"
+				},
+				{
+					"text": "Deshalb ist es wichtig, dass wir jetzt laut sind, dass wir zeigen: Wir sind hier. Wenn alle denken: »Es ist kalt, ich wäre lieber zu Hause, irgendjemand geht schon hin«, dann geht niemand auf die Straße."
+				},
+				{
+					"text": "Ja, ich will es versucht haben."
+				},
+				{
+					"text": "Ich bin überrascht, dass es jetzt erst rauskam."
+				}
+			],
+			"inIntro": false,
+			"inTitle": false,
+			"indirectQuotes": [
+				{
+					"text": "Überrascht habe sie die Correctiv-Recherche nicht, sagen die Schülerinnen."
+				}
+			],
+			"isMain": true,
+			"name": "Fanny",
+			"occupations": [
+				{
+					"text": "Schülerinnen"
+				}
+			],
+			"occurrences": {
+				"firstNameOnly": 4,
+				"fullName": 0,
+				"lastNameOnly": 0,
+				"total": 4
+			},
+			"quotedInIntro": false,
+			"quotedInTitle": false,
+			"sex": "female"
+		},
+		{
+			"age": 17,
+			"alternativeNames": [],
+			"birthday": null,
+			"descriptiveTexts": [
+				{
+					"text": "Inmitten der Menge, in der Nähe des Lautsprecherwagens, stehen Fanny, 15, und Finja, 17."
+				},
+				{
+					"text": "Seit fünf Jahren gehen die beiden auf Demonstrationen, wie sie sagen, vor allem zu Fridays for Future."
+				},
+				{
+					"text": "Die Kundgebung heute ist ihre erste Demo gegen rechts."
+				},
+				{
+					"text": "Finja: »Ich habe Angst vor einem Rechtsruck. Wenn irgendwann etwas passiert, will ich wissen, dass ich auf der richtigen Seite der Geschichte gestanden habe.«"
+				},
+				{
+					"text": "Finja: »Vor allem, weil wir noch nicht wählen dürfen.«"
+				},
+				{
+					"text": "Überrascht habe sie die Correctiv-Recherche nicht, sagen die Schülerinnen."
+				},
+				{
+					"text": "»Ich habe erwartet, dass so etwas passiert«, so Finja."
+				}
+			],
+			"directQuotes": [
+				{
+					"text": "Ich habe Angst vor einem Rechtsruck. Wenn irgendwann etwas passiert, will ich wissen, dass ich auf der richtigen Seite der Geschichte gestanden habe."
+				},
+				{
+					"text": "Vor allem, weil wir noch nicht wählen dürfen."
+				},
+				{
+					"text": "Ich habe erwartet, dass so etwas passiert"
+				}
+			],
+			"inIntro": false,
+			"inTitle": false,
+			"indirectQuotes": [
+				{
+					"text": "Überrascht habe sie die Correctiv-Recherche nicht, sagen die Schülerinnen."
+				}
+			],
+			"isMain": true,
+			"name": "Finja",
+			"occupations": [
+				{
+					"text": "Schülerinnen"
+				}
+			],
+			"occurrences": {
+				"firstNameOnly": 4,
+				"fullName": 0,
+				"lastNameOnly": 0,
+				"total": 4
+			},
+			"quotedInIntro": false,
+			"quotedInTitle": false,
+			"sex": "female"
+		},
+		{
+			"age": -1,
+			"alternativeNames": [],
+			"birthday": null,
+			"descriptiveTexts": [
+				{
+					"text": "Im »NDR Hamburg Journal« verkündete Landes- und Fraktionschef Dirk Nockemann am Donnerstagabend: »Für mich ist es komplett irrsinnig, zu einer Veranstaltung zu gehen, auf der jemand spricht, der wie Herr Sellner eben – ich sag' mal – bestimmte Volksbegriffe vertritt, das ist für mich indiskutabel.«"
+				}
+			],
+			"directQuotes": [
+				{
+					"text": "Für mich ist es komplett irrsinnig, zu einer Veranstaltung zu gehen, auf der jemand spricht, der wie Herr Sellner eben – ich sag' mal – bestimmte Volksbegriffe vertritt, das ist für mich indiskutabel."
+				}
+			],
+			"inIntro": false,
+			"inTitle": false,
+			"indirectQuotes": [],
+			"isMain": false,
+			"name": "Dirk Nockemann",
+			"occupations": [
+				{
+					"text": "Landes- und Fraktionschef"
+				}
+			],
+			"occurrences": {
+				"firstNameOnly": 0,
+				"fullName": 1,
+				"lastNameOnly": 0,
+				"total": 1
+			},
+			"quotedInIntro": false,
+			"quotedInTitle": false,
+			"sex": "male"
+		},
+		{
+			"age": -1,
+			"alternativeNames": [],
+			"birthday": null,
+			"descriptiveTexts": [
+				{
+					"text": "Im »NDR Hamburg Journal« verkündete Landes- und Fraktionschef Dirk Nockemann am Donnerstagabend: »Für mich ist es komplett irrsinnig, zu einer Veranstaltung zu gehen, auf der jemand spricht, der wie Herr Sellner eben – ich sag' mal – bestimmte Volksbegriffe vertritt, das ist für mich indiskutabel.«"
+				}
+			],
+			"directQuotes": [],
+			"inIntro": false,
+			"inTitle": false,
+			"indirectQuotes": [],
+			"isMain": false,
+			"name": "Sellner",
+			"occupations": [],
+			"occurrences": {
+				"firstNameOnly": 0,
+				"fullName": 0,
+				"lastNameOnly": 1,
+				"total": 1
+			},
+			"quotedInIntro": false,
+			"quotedInTitle": false,
+			"sex": "male"
+		},
+		{
+			"age": 38,
+			"alternativeNames": [],
+			"birthday": null,
+			"descriptiveTexts": [
+				{
+					"text": "Am Rand der Veranstaltung, direkt vor der abgesperrten und polizeilich gesicherten AfD-Parteizentrale, stehen Johanna Pinkepank, 38, und André Hofmeister, 47."
+				},
+				{
+					"text": "»Man kann nicht immer nur etwas auf Instagram teilen, auch wenn das bequem und schnell geht. Man muss wirklich etwas tun«, sagt Pinkepank."
+				},
+				{
+					"text": "Dass es draußen nur vier Grad hat und der Boden voller Schnee und Eis ist, spielt für die beiden keine Rolle."
+				}
+			],
+			"directQuotes": [
+				{
+					"text": "Man kann nicht immer nur etwas auf Instagram teilen, auch wenn das bequem und schnell geht. Man muss wirklich etwas tun"
+				}
+			],
+			"inIntro": false,
+			"inTitle": false,
+			"indirectQuotes": [],
+			"isMain": true,
+			"name": "Johanna Pinkepank",
+			"occupations": [],
+			"occurrences": {
+				"firstNameOnly": 0,
+				"fullName": 1,
+				"lastNameOnly": 1,
+				"total": 2
+			},
+			"quotedInIntro": false,
+			"quotedInTitle": false,
+			"sex": "female"
+		},
+		{
+			"age": 47,
+			"alternativeNames": [],
+			"birthday": null,
+			"descriptiveTexts": [
+				{
+					"text": "Am Rand der Veranstaltung, direkt vor der abgesperrten und polizeilich gesicherten AfD-Parteizentrale, stehen Johanna Pinkepank, 38, und André Hofmeister, 47."
+				},
+				{
+					"text": "»Es braucht schon eine gewisse Brisanz, um mich auf die Straße zu bringen«, sagt Hofmeister, der seine fünfjährige Tochter auf den Schultern trägt."
+				},
+				{
+					"text": "»Aber wenn wir das jetzt unkommentiert lassen, erweckt das den Eindruck, als interessiere es niemanden. Wir müssen das Signal setzen: Das geht mit uns nicht. Und zeigen, dass weite Teile der Bevölkerung nicht mitmachen.«"
+				},
+				{
+					"text": "Dass es draußen nur vier Grad hat und der Boden voller Schnee und Eis ist, spielt für die beiden keine Rolle."
+				},
+				{
+					"text": "Hofmeister ergänzt: »Jetzt hat man vielleicht noch die Möglichkeit, mit ein bisschen Unbequemlichkeit etwas zu ändern. In zehn Jahren aber kommt man vielleicht in den Knast oder wird ausgewiesen.«"
+				}
+			],
+			"directQuotes": [
+				{
+					"text": "Es braucht schon eine gewisse Brisanz, um mich auf die Straße zu bringen"
+				},
+				{
+					"text": "Aber wenn wir das jetzt unkommentiert lassen, erweckt das den Eindruck, als interessiere es niemanden. Wir müssen das Signal setzen: Das geht mit uns nicht. Und zeigen, dass weite Teile der Bevölkerung nicht mitmachen."
+				},
+				{
+					"text": "Jetzt hat man vielleicht noch die Möglichkeit, mit ein bisschen Unbequemlichkeit etwas zu ändern. In zehn Jahren aber kommt man vielleicht in den Knast oder wird ausgewiesen."
+				}
+			],
+			"inIntro": false,
+			"inTitle": false,
+			"indirectQuotes": [],
+			"isMain": true,
+			"name": "André Hofmeister",
+			"occupations": [],
+			"occurrences": {
+				"firstNameOnly": 0,
+				"fullName": 1,
+				"lastNameOnly": 2,
+				"total": 3
+			},
+			"quotedInIntro": false,
+			"quotedInTitle": false,
+			"sex": "male"
+		}
+	],
+	"subtopics": [
+		"AfD",
+		"Politik",
+		"Demonstration",
+		"Rechtsradikalismus"
+	]
+}

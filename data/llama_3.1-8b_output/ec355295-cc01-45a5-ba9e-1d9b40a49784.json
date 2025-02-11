@@ -1,0 +1,498 @@
+{
+    "persons": [
+        {
+            "name": "Christina Kyriasoglou",
+            "alternativeNames": [],
+            "age": -1,
+            "sex": "female",
+            "occurences": {
+                "total": 1,
+                "firstNameOnly": 0,
+                "lastNameOnly": 0,
+                "fullName": 1,
+                "nickname": 0
+            },
+            "inTitle": false,
+            "inIntro": false,
+            "_name": {
+                "firstname": "Christina",
+                "lastname": "Kyriasoglou",
+                "nickname": null,
+                "alternative_names": [],
+                "academic_title": null,
+                "nobility_title_or_rank": null
+            },
+            "descriptiveTexts": [
+                {
+                    "text": "Stellen Sie sich vor, Sie befragen eine k\u00fcnstliche Intelligenz (KI), und deren Antwort lautet: \"Pardon, ich bin in der EU verboten.\""
+                },
+                {
+                    "text": "Meine Kollegin Christina Kyriasoglou hat \u00fcber Monate mit vielen Insiderinnen gesprochen."
+                },
+                {
+                    "text": "Sie haben ihr von Machtmissbrauch, Diskriminierung und auch Bel\u00e4stigungen berichtet, die sie pers\u00f6nlich erfahren haben."
+                },
+                {
+                    "text": "Und wenn Sie der Autorin lieber zuh\u00f6ren \u2013 im Podcast berichtet sie von ihrer Recherche."
+                }
+            ],
+            "occupations": [],
+            "directQuotes": [],
+            "quotedInTitle": false,
+            "quotedInIntro": false
+        },
+        {
+            "name": "Sam Altman",
+            "alternativeNames": [],
+            "age": -1,
+            "sex": "male",
+            "occurences": {
+                "total": 1,
+                "firstNameOnly": 0,
+                "lastNameOnly": 0,
+                "fullName": 1,
+                "nickname": 0
+            },
+            "inTitle": false,
+            "inIntro": false,
+            "_name": {
+                "firstname": "Sam",
+                "lastname": "Altman",
+                "nickname": null,
+                "alternative_names": [],
+                "academic_title": null,
+                "nobility_title_or_rank": null
+            },
+            "descriptiveTexts": [
+                {
+                    "text": "Sam Altman, der Chef des ChatGPT-Erfinders OpenAI, hat bei seinem Deutschland-Besuch nun sanftere T\u00f6ne angeschlagen."
+                },
+                {
+                    "text": "Eine Regulierung von KI sei ohne Zweifel notwendig, sagte er auf einer Deutschland-Tour, die ihn auch ins Kanzleramt f\u00fchrte."
+                }
+            ],
+            "occupations": [],
+            "directQuotes": [
+                {
+                    "text": "Echo-Kammer"
+                }
+            ],
+            "quotedInTitle": false,
+            "quotedInIntro": false
+        },
+        {
+            "name": "Steffen Klusmann",
+            "alternativeNames": [],
+            "age": -1,
+            "sex": "male",
+            "occurences": {
+                "total": 2,
+                "firstNameOnly": 0,
+                "lastNameOnly": 0,
+                "fullName": 2,
+                "nickname": 0
+            },
+            "inTitle": false,
+            "inIntro": false,
+            "_name": {
+                "firstname": "Steffen",
+                "lastname": "Klusmann",
+                "nickname": null,
+                "alternative_names": [],
+                "academic_title": null,
+                "nobility_title_or_rank": null
+            },
+            "descriptiveTexts": [
+                {
+                    "text": "Dirk Kurbjuweit folgt auf Steffen Klusmann, der die Redaktion seit Anfang 2019 gef\u00fchrt hatte."
+                },
+                {
+                    "text": "Steffen Klusmann war zuvor fast f\u00fcnf Jahre lang unser Chefredakteur, mit dem \"Spiegel\" sind wir eng verbunden, wir teilen uns in Hamburg ein Haus und der Spiegel-Verlag ist zu 75,1 Prozent Eigent\u00fcmer des manager magazins."
+                }
+            ],
+            "occupations": [],
+            "directQuotes": [],
+            "quotedInTitle": false,
+            "quotedInIntro": false
+        },
+        {
+            "name": "Sandra Wachter",
+            "alternativeNames": [],
+            "age": -1,
+            "sex": "female",
+            "occurences": {
+                "total": 1,
+                "firstNameOnly": 0,
+                "lastNameOnly": 0,
+                "fullName": 1,
+                "nickname": 0
+            },
+            "inTitle": false,
+            "inIntro": false,
+            "_name": {
+                "firstname": "Sandra",
+                "lastname": "Wachter",
+                "nickname": null,
+                "alternative_names": [],
+                "academic_title": null,
+                "nobility_title_or_rank": null
+            },
+            "descriptiveTexts": [
+                {
+                    "text": "\"Pseudowissenschaft\" nennt das hingegen die Oxford-Juristin Sandra Wachter."
+                }
+            ],
+            "occupations": [
+                {
+                    "text": "Juristin"
+                }
+            ],
+            "directQuotes": [
+                {
+                    "text": "Pseudowissenschaft"
+                }
+            ],
+            "quotedInTitle": false,
+            "quotedInIntro": false
+        },
+        {
+            "name": "Max Viessmann",
+            "alternativeNames": [],
+            "age": -1,
+            "sex": "male",
+            "occurences": {
+                "total": 1,
+                "firstNameOnly": 0,
+                "lastNameOnly": 0,
+                "fullName": 1,
+                "nickname": 0
+            },
+            "inTitle": false,
+            "inIntro": false,
+            "_name": {
+                "firstname": "Max",
+                "lastname": "Viessmann",
+                "nickname": null,
+                "alternative_names": [],
+                "academic_title": null,
+                "nobility_title_or_rank": null
+            },
+            "descriptiveTexts": [
+                {
+                    "text": "Martin und Max Viessmann, die Eigent\u00fcmer des traditionsreichen Familienunternehmens, haben ihr W\u00e4rmepumpengesch\u00e4ft f\u00fcr 12 Milliarden Euro in die USA verkauft."
+                },
+                {
+                    "text": "Warum sie dabei sogar noch auf viel Geld verzichteten und was sie mit ihren Milliarden jetzt planen, haben sie meinem Kollegen Martin No\u00e9 in einem ausf\u00fchrlichen Doppelinterview erkl\u00e4rt."
+                }
+            ],
+            "occupations": [
+                {
+                    "text": "Eigent\u00fcmer des traditionsreichen Familienunternehmens"
+                }
+            ],
+            "directQuotes": [],
+            "quotedInTitle": false,
+            "quotedInIntro": false
+        },
+        {
+            "name": "Sundar Pichai",
+            "alternativeNames": [],
+            "age": -1,
+            "sex": "male",
+            "occurences": {
+                "total": 1,
+                "firstNameOnly": 0,
+                "lastNameOnly": 0,
+                "fullName": 1,
+                "nickname": 0
+            },
+            "inTitle": false,
+            "inIntro": false,
+            "_name": {
+                "firstname": "Sundar",
+                "lastname": "Pichai",
+                "nickname": null,
+                "alternative_names": [],
+                "academic_title": null,
+                "nobility_title_or_rank": null
+            },
+            "descriptiveTexts": [
+                {
+                    "text": "Google-Chef Sundar Pichai hat Anfang der Woche mit Breton \u00fcber m\u00f6gliche freiwillige Regeln gesprochen."
+                }
+            ],
+            "occupations": [
+                {
+                    "text": "Google-Chef"
+                }
+            ],
+            "directQuotes": [],
+            "quotedInTitle": false,
+            "quotedInIntro": false
+        },
+        {
+            "name": "Franziska Martin",
+            "alternativeNames": [],
+            "age": -1,
+            "sex": "female",
+            "occurences": {
+                "total": 3,
+                "firstNameOnly": 0,
+                "lastNameOnly": 2,
+                "fullName": 1,
+                "nickname": 0
+            },
+            "inTitle": false,
+            "inIntro": false,
+            "_name": {
+                "firstname": "Franziska",
+                "lastname": "Martin",
+                "nickname": null,
+                "alternative_names": [],
+                "academic_title": null,
+                "nobility_title_or_rank": null
+            },
+            "descriptiveTexts": [
+                {
+                    "text": "Die Potenziale und Gefahren hat meine Kollegin Franziska Martin in einem besonderen Anwendungsfeld n\u00e4her untersucht: Tools mit \"emotionaler KI\" sollen helfen, die Gef\u00fchlszust\u00e4nde von Menschen zu erkennen."
+                },
+                {
+                    "text": "Martin und Max Viessmann, die Eigent\u00fcmer des traditionsreichen Familienunternehmens, haben ihr W\u00e4rmepumpengesch\u00e4ft f\u00fcr 12 Milliarden Euro in die USA verkauft."
+                },
+                {
+                    "text": "Warum sie dabei sogar noch auf viel Geld verzichteten und was sie mit ihren Milliarden jetzt planen, haben sie meinem Kollegen Martin No\u00e9 in einem ausf\u00fchrlichen Doppelinterview erkl\u00e4rt."
+                }
+            ],
+            "occupations": [],
+            "directQuotes": [],
+            "quotedInTitle": false,
+            "quotedInIntro": false
+        },
+        {
+            "name": "Dirk Kurbjuweit",
+            "alternativeNames": [],
+            "age": -1,
+            "sex": "male",
+            "occurences": {
+                "total": 1,
+                "firstNameOnly": 0,
+                "lastNameOnly": 0,
+                "fullName": 1,
+                "nickname": 0
+            },
+            "inTitle": false,
+            "inIntro": false,
+            "_name": {
+                "firstname": "Dirk",
+                "lastname": "Kurbjuweit",
+                "nickname": null,
+                "alternative_names": [],
+                "academic_title": null,
+                "nobility_title_or_rank": null
+            },
+            "descriptiveTexts": [
+                {
+                    "text": "Dirk Kurbjuweit folgt auf Steffen Klusmann, der die Redaktion seit Anfang 2019 gef\u00fchrt hatte."
+                }
+            ],
+            "occupations": [],
+            "directQuotes": [],
+            "quotedInTitle": false,
+            "quotedInIntro": false
+        },
+        {
+            "name": "Christian Sch\u00fctte",
+            "alternativeNames": [],
+            "age": -1,
+            "sex": "male",
+            "occurences": {
+                "total": 1,
+                "firstNameOnly": 0,
+                "lastNameOnly": 0,
+                "fullName": 1,
+                "nickname": 0
+            },
+            "inTitle": false,
+            "inIntro": false,
+            "_name": {
+                "firstname": "Christian",
+                "lastname": "Sch\u00fctte",
+                "nickname": null,
+                "alternative_names": [],
+                "academic_title": null,
+                "nobility_title_or_rank": null
+            },
+            "descriptiveTexts": [
+                {
+                    "text": "Ich w\u00fcnsche Ihnen ein frohes Pfingstfest, Ihr Christian Sch\u00fctte"
+                },
+                {
+                    "text": "Haben Sie W\u00fcnsche, Anregungen, Informationen, um die wir uns journalistisch k\u00fcmmern sollten?"
+                }
+            ],
+            "occupations": [
+                {
+                    "text": "Autor"
+                }
+            ],
+            "directQuotes": [],
+            "quotedInTitle": false,
+            "quotedInIntro": false
+        },
+        {
+            "name": "Thierry Breton",
+            "alternativeNames": [],
+            "age": -1,
+            "sex": "male",
+            "occurences": {
+                "total": 2,
+                "firstNameOnly": 0,
+                "lastNameOnly": 1,
+                "fullName": 1,
+                "nickname": 0
+            },
+            "inTitle": false,
+            "inIntro": false,
+            "_name": {
+                "firstname": "Thierry",
+                "lastname": "Breton",
+                "nickname": null,
+                "alternative_names": [],
+                "academic_title": null,
+                "nobility_title_or_rank": null
+            },
+            "descriptiveTexts": [
+                {
+                    "text": "Es gehe um die Sicherheit und das Wohl der Europ\u00e4er, kontert EU-Industriekommissar Thierry Breton: \"Das ist unverhandelbar.\""
+                },
+                {
+                    "text": "Google-Chef Sundar Pichai hat Anfang der Woche mit Breton \u00fcber m\u00f6gliche freiwillige Regeln gesprochen."
+                }
+            ],
+            "occupations": [
+                {
+                    "text": "EU-Industriekommissar"
+                },
+                {
+                    "text": "Regulierer"
+                }
+            ],
+            "directQuotes": [
+                {
+                    "text": "Das ist unverhandelbar."
+                }
+            ],
+            "quotedInTitle": false,
+            "quotedInIntro": false
+        },
+        {
+            "name": "Christoph Seyerlein",
+            "alternativeNames": [],
+            "age": -1,
+            "sex": "male",
+            "occurences": {
+                "total": 1,
+                "firstNameOnly": 0,
+                "lastNameOnly": 0,
+                "fullName": 1,
+                "nickname": 0
+            },
+            "inTitle": false,
+            "inIntro": false,
+            "_name": {
+                "firstname": "Christoph",
+                "lastname": "Seyerlein",
+                "nickname": null,
+                "alternative_names": [],
+                "academic_title": null,
+                "nobility_title_or_rank": null
+            },
+            "descriptiveTexts": [
+                {
+                    "text": "Der Plan ist gescheitert, hat mein Kollege Christoph Seyerlein recherchiert."
+                }
+            ],
+            "occupations": [],
+            "directQuotes": [],
+            "quotedInTitle": false,
+            "quotedInIntro": false
+        },
+        {
+            "name": "Martin No\u00e9",
+            "alternativeNames": [],
+            "age": -1,
+            "sex": "male",
+            "occurences": {
+                "total": 3,
+                "firstNameOnly": 2,
+                "lastNameOnly": 0,
+                "fullName": 1,
+                "nickname": 0
+            },
+            "inTitle": false,
+            "inIntro": false,
+            "_name": {
+                "firstname": "Martin",
+                "lastname": "No\u00e9",
+                "nickname": null,
+                "alternative_names": [],
+                "academic_title": null,
+                "nobility_title_or_rank": null
+            },
+            "descriptiveTexts": [
+                {
+                    "text": "Die Potenziale und Gefahren hat meine Kollegin Franziska Martin in einem besonderen Anwendungsfeld n\u00e4her untersucht: Tools mit \"emotionaler KI\" sollen helfen, die Gef\u00fchlszust\u00e4nde von Menschen zu erkennen."
+                },
+                {
+                    "text": "Martin und Max Viessmann, die Eigent\u00fcmer des traditionsreichen Familienunternehmens, haben ihr W\u00e4rmepumpengesch\u00e4ft f\u00fcr 12 Milliarden Euro in die USA verkauft."
+                },
+                {
+                    "text": "Warum sie dabei sogar noch auf viel Geld verzichteten und was sie mit ihren Milliarden jetzt planen, haben sie meinem Kollegen Martin No\u00e9 in einem ausf\u00fchrlichen Doppelinterview erkl\u00e4rt."
+                }
+            ],
+            "occupations": [],
+            "directQuotes": [],
+            "quotedInTitle": false,
+            "quotedInIntro": false
+        },
+        {
+            "name": "Holger Engelmann",
+            "alternativeNames": [],
+            "age": -1,
+            "sex": "male",
+            "occurences": {
+                "total": 1,
+                "firstNameOnly": 0,
+                "lastNameOnly": 0,
+                "fullName": 1,
+                "nickname": 0
+            },
+            "inTitle": false,
+            "inIntro": false,
+            "_name": {
+                "firstname": "Holger",
+                "lastname": "Engelmann",
+                "nickname": null,
+                "alternative_names": [],
+                "academic_title": null,
+                "nobility_title_or_rank": null
+            },
+            "descriptiveTexts": [
+                {
+                    "text": "Vorstandschef Holger Engelmann will den Stecker ziehen und die Sparte bis Jahresende loswerden."
+                },
+                {
+                    "text": "Wom\u00f6glich muss er dem Abnehmer sogar noch etwas draufzahlen."
+                }
+            ],
+            "occupations": [
+                {
+                    "text": "Vorstandschef"
+                }
+            ],
+            "directQuotes": [],
+            "quotedInTitle": false,
+            "quotedInIntro": false
+        }
+    ]
+}

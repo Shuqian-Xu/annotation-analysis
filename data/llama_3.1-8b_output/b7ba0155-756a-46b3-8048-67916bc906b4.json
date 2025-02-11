@@ -1,0 +1,170 @@
+{
+    "persons": [
+        {
+            "name": "U\u011fur \u015eahin",
+            "alternativeNames": [],
+            "age": 57,
+            "sex": "male",
+            "occurences": {
+                "total": 3,
+                "firstNameOnly": 0,
+                "lastNameOnly": 1,
+                "fullName": 2,
+                "nickname": 0
+            },
+            "inTitle": false,
+            "inIntro": true,
+            "_name": {
+                "firstname": "U\u011fur",
+                "lastname": "\u015eahin",
+                "nickname": null,
+                "alternative_names": [],
+                "academic_title": null,
+                "nobility_title_or_rank": null
+            },
+            "descriptiveTexts": [
+                {
+                    "text": "Die Gr\u00fcnder U\u011fur \u015eahin und \u00d6zlem T\u00fcreci arbeiten an der Revolution der Pharmawirtschaft."
+                },
+                {
+                    "text": "Ein gr\u00f6\u00dferes Alarmsignal ist kaum vorstellbar, die Frage dr\u00e4ngt sich auf: Hat die Firma der beiden Gr\u00fcnder U\u011fur \u015eahin (57) und \u00d6zlem T\u00fcreci (56) \u00fcberhaupt ein Gesch\u00e4ftsmodell?"
+                },
+                {
+                    "text": "Auch der Ehrgeiz von T\u00fcreci und \u015eahin enorm."
+                },
+                {
+                    "text": "Ihr Ziel sei es, so erz\u00e4hlten sie es mm-Reporter Dietmar Palan, das \"Apple der Medizin\" aufzubauen."
+                },
+                {
+                    "text": "Vor allem die Krebstherapie wollen sie mit ihrer mRNA-Technologie revolutionieren."
+                }
+            ],
+            "occupations": [],
+            "directQuotes": [],
+            "quotedInTitle": false,
+            "quotedInIntro": true
+        },
+        {
+            "name": "Dietmar Palan",
+            "alternativeNames": [],
+            "age": -1,
+            "sex": "male",
+            "occurences": {
+                "total": 2,
+                "firstNameOnly": 0,
+                "lastNameOnly": 1,
+                "fullName": 1,
+                "nickname": 0
+            },
+            "inTitle": false,
+            "inIntro": false,
+            "_name": {
+                "firstname": "Dietmar",
+                "lastname": "Palan",
+                "nickname": null,
+                "alternative_names": [],
+                "academic_title": null,
+                "nobility_title_or_rank": null
+            },
+            "descriptiveTexts": [
+                {
+                    "text": "Ihr Ziel sei es, so erz\u00e4hlten sie es mm-Reporter Dietmar Palan, das \"Apple der Medizin\" aufzubauen."
+                },
+                {
+                    "text": "Dar\u00fcber informiert Palan in diesem Podcast im Gespr\u00e4ch mit Chefredakteur Sven Clausen."
+                }
+            ],
+            "occupations": [
+                {
+                    "text": "Reporter"
+                }
+            ],
+            "directQuotes": [],
+            "quotedInTitle": false,
+            "quotedInIntro": false
+        },
+        {
+            "name": "Sven Clausen",
+            "alternativeNames": [],
+            "age": -1,
+            "sex": "male",
+            "occurences": {
+                "total": 2,
+                "firstNameOnly": 0,
+                "lastNameOnly": 0,
+                "fullName": 2,
+                "nickname": 0
+            },
+            "inTitle": false,
+            "inIntro": false,
+            "_name": {
+                "firstname": "Sven",
+                "lastname": "Clausen",
+                "nickname": null,
+                "alternative_names": [],
+                "academic_title": null,
+                "nobility_title_or_rank": null
+            },
+            "descriptiveTexts": [
+                {
+                    "text": "Dar\u00fcber informiert Palan in diesem Podcast im Gespr\u00e4ch mit Chefredakteur Sven Clausen."
+                },
+                {
+                    "text": "Im Podcast \"Das Thema\" informiert Chefredakteur Sven Clausen jede Woche \u00fcber den internen Recherchestand zu jeweils einem f\u00fcr die deutsche Wirtschaft entscheidenden Thema."
+                }
+            ],
+            "occupations": [
+                {
+                    "text": "Chefredakteur"
+                }
+            ],
+            "directQuotes": [],
+            "quotedInTitle": false,
+            "quotedInIntro": false
+        },
+        {
+            "name": "\u00d6zlem T\u00fcreci",
+            "alternativeNames": [],
+            "age": 56,
+            "sex": "female",
+            "occurences": {
+                "total": 3,
+                "firstNameOnly": 0,
+                "lastNameOnly": 1,
+                "fullName": 2,
+                "nickname": 0
+            },
+            "inTitle": false,
+            "inIntro": true,
+            "_name": {
+                "firstname": "\u00d6zlem",
+                "lastname": "T\u00fcreci",
+                "nickname": null,
+                "alternative_names": [],
+                "academic_title": null,
+                "nobility_title_or_rank": null
+            },
+            "descriptiveTexts": [
+                {
+                    "text": "Die Gr\u00fcnder U\u011fur \u015eahin und \u00d6zlem T\u00fcreci arbeiten an der Revolution der Pharmawirtschaft."
+                },
+                {
+                    "text": "Ein gr\u00f6\u00dferes Alarmsignal ist kaum vorstellbar, die Frage dr\u00e4ngt sich auf: Hat die Firma der beiden Gr\u00fcnder U\u011fur \u015eahin (57) und \u00d6zlem T\u00fcreci (56) \u00fcberhaupt ein Gesch\u00e4ftsmodell?"
+                },
+                {
+                    "text": "Auch der Ehrgeiz von T\u00fcreci und \u015eahin enorm."
+                },
+                {
+                    "text": "Ihr Ziel sei es, so erz\u00e4hlten sie es mm-Reporter Dietmar Palan, das \"Apple der Medizin\" aufzubauen."
+                },
+                {
+                    "text": "Vor allem die Krebstherapie wollen sie mit ihrer mRNA-Technologie revolutionieren."
+                }
+            ],
+            "occupations": [],
+            "directQuotes": [],
+            "quotedInTitle": false,
+            "quotedInIntro": true
+        }
+    ]
+}

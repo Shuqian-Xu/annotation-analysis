@@ -1,0 +1,90 @@
+{
+  "persons": [
+    {
+      "age": -1,
+      "alternativeNames": [],
+      "birthday": null,
+      "descriptiveTexts": [
+        {
+          "text": "Schnell entdeckten sie das runde Leder für sich: »Zwischen Arbeit, Familie und regelmäßigen Reisen nach Jugoslawien war der Fußball für sie eine beliebte und simple Freizeitgestaltung«, resümiert der Tübinger Historiker Luka Babić, der die »Jugoliga« erforscht hat."
+        },
+        {
+          "text": "»Entlang ethnisch-nationaler Linien feindeten sich ehemalige Freunde und Mitspieler an, attackierten einander verbal und physisch«, konstatiert Historiker Babič."
+        }
+      ],
+      "directQuotes": [
+        {
+          "text": "Zwischen Arbeit, Familie und regelmäßigen Reisen nach Jugoslawien war der Fußball für sie eine beliebte und simple Freizeitgestaltung"
+        },
+        {
+          "text": "Eine Wiese, einen Ball und zwei Äste als Tor – mehr brauchte es nicht."
+        },
+        {
+          "text": "Entlang ethnisch-nationaler Linien feindeten sich ehemalige Freunde und Mitspieler an, attackierten einander verbal und physisch"
+        },
+        {
+          "text": "Die Vereine wurden ein Spiegel ihrer zerfallenden Heimat."
+        }
+      ],
+      "inIntro": false,
+      "inTitle": false,
+      "indirectQuotes": [],
+      "isMain": false,
+      "name": "Luka Babić",
+      "occupations": [
+        {
+          "text": "Historiker"
+        }
+      ],
+      "occurrences": {
+        "firstNameOnly": 0,
+        "fullName": 1,
+        "lastNameOnly": 1,
+        "total": 2
+      },
+      "quotedInIntro": false,
+      "quotedInTitle": false,
+      "sex": "male"
+    },
+    {
+      "age": -1,
+      "alternativeNames": [],
+      "birthday": null,
+      "descriptiveTexts": [
+        {
+          "text": "Von Staatspräsident Tito gab es sogar Pokale – in fragwürdiger Absicht."
+        },
+        {
+          "text": "Im Kalten Krieg wollte Staatspräsident Josip Broz Tito die Arbeitskräfte nicht dauerhaft an die westdeutsche Wirtschaft verlieren."
+        }
+      ],
+      "directQuotes": [],
+      "inIntro": true,
+      "inTitle": false,
+      "indirectQuotes": [],
+      "isMain": false,
+      "name": "Josip Broz Tito",
+      "occupations": [
+        {
+          "text": "Staatspräsident"
+        }
+      ],
+      "occurrences": {
+        "firstNameOnly": 0,
+        "fullName": 1,
+        "lastNameOnly": 1,
+        "total": 2
+      },
+      "quotedInIntro": false,
+      "quotedInTitle": false,
+      "sex": "male"
+    }
+  ],
+  "subtopics": [
+    "Sport",
+    "Politik",
+    "Jugoliga",
+    "Fußball",
+    "Gastarbeiter"
+  ]
+}

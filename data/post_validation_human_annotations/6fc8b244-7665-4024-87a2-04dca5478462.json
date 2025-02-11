@@ -1,0 +1,143 @@
+{
+	"persons": [
+		{
+			"age": -1,
+			"alternativeNames": [],
+			"birthday": null,
+			"descriptiveTexts": [
+				{
+					"text": "Florian Köbler nimmt seinen Job auch privat mit ins Restaurant."
+				},
+				{
+					"text": "Er ist Chef der Steuergewerkschaft DSTG und hat einen Blick entwickelt für Gaststätten, »in denen Betrug förmlich in der Luft liegt«."
+				},
+				{
+					"text": "Bei Köbler weckt das den Verdacht, dass hier womöglich Geld an der Kasse vorbeigeschleust wird, um Steuern zu hinterziehen."
+				},
+				{
+					"text": "Die Politik zeigt aus Sicht Köblers bislang zu wenig Interesse, an der aktuellen Praxis etwas zu ändern."
+				},
+				{
+					"text": "»Wenn ich der einzige Imbiss bin, der ehrlich versteuert, ist meine Currywurst doppelt so teuer wie bei den anderen«, sagt Köbler."
+				}
+			],
+			"directQuotes": [
+				{
+					"text": "in denen Betrug förmlich in der Luft liegt"
+				},
+				{
+					"text": "Wird am Ende lediglich eine Zwischenrechnung präsentiert, ist keine Kartenzahlung möglich?"
+				},
+				{
+					"text": "Wenn ich der einzige Imbiss bin, der ehrlich versteuert, ist meine Currywurst doppelt so teuer wie bei den anderen"
+				}
+			],
+			"inIntro": false,
+			"inTitle": false,
+			"indirectQuotes": [
+				{
+					"text": "Die Indizien seien immer dieselben."
+				},
+				{
+					"text": "Es gehe nicht nur um die hinterzogene Umsatzsteuer."
+				},
+				{
+					"text": "Mit unkontrolliertem Bargeld werde gern auch Personal oder Lieferanten bezahlt – ohne Sozialabgaben und weitere Steuern abzuführen."
+				}
+			],
+			"isMain": false,
+			"name": "Florian Köbler",
+			"occupations": [
+				{
+					"text": "Chef der Steuergewerkschaft DSTG"
+				}
+			],
+			"occurrences": {
+				"firstNameOnly": 0,
+				"fullName": 1,
+				"lastNameOnly": 3,
+				"total": 4
+			},
+			"quotedInIntro": false,
+			"quotedInTitle": false,
+			"sex": "male"
+		},
+		{
+			"age": -1,
+			"alternativeNames": [],
+			"birthday": null,
+			"descriptiveTexts": [
+				{
+					"text": "Seitdem ist es dank gesicherter Kassenspeicher nicht mehr so einfach – wie etwa im Fall des Promikochs Alfons Schuhbeck –, die Umsätze eines Restaurants nachträglich kleinzurechnen, um die vom Gast bezahlte Umsatzsteuer zu umgehen."
+				}
+			],
+			"directQuotes": [],
+			"inIntro": false,
+			"inTitle": false,
+			"indirectQuotes": [],
+			"isMain": false,
+			"name": "Alfons Schuhbeck",
+			"occupations": [
+				{
+					"text": "Promikochs"
+				}
+			],
+			"occurrences": {
+				"firstNameOnly": 0,
+				"fullName": 1,
+				"lastNameOnly": 0,
+				"total": 1
+			},
+			"quotedInIntro": false,
+			"quotedInTitle": false,
+			"sex": "male"
+		},
+		{
+			"age": -1,
+			"alternativeNames": [],
+			"birthday": null,
+			"descriptiveTexts": [
+				{
+					"text": "Doch der beharrt auf Nachfrage auf seiner Interpretation: »Die Tätigkeitsdauer von Unternehmen am Markt beträgt durchschnittlich acht bis zehn Jahre. Von daher kann man infrage stellen, ob eine Überprüfung alle 42 Jahre ausreichend ist«, sagt Markus Dingendorf, der für den Bundesrechnungshof die aktuelle Praxis geprüft hat."
+				},
+				{
+					"text": "Teilweise müssten die Betriebe erst einen Servicetechniker des Kassenherstellers bestellen, um die Daten zu exportieren, erklärt Dingendorf."
+				}
+			],
+			"directQuotes": [
+				{
+					"text": "Die Tätigkeitsdauer von Unternehmen am Markt beträgt durchschnittlich acht bis zehn Jahre. Von daher kann man infrage stellen, ob eine Überprüfung alle 42 Jahre ausreichend ist"
+				}
+			],
+			"inIntro": false,
+			"inTitle": false,
+			"indirectQuotes": [
+				{
+					"text": "Teilweise müssten die Betriebe erst einen Servicetechniker des Kassenherstellers bestellen, um die Daten zu exportieren, erklärt Dingendorf."
+				}
+			],
+			"isMain": false,
+			"name": "Markus Dingendorf",
+			"occupations": [
+				{
+					"text": "der für den Bundesrechnungshof die aktuelle Praxis geprüft hat"
+				}
+			],
+			"occurrences": {
+				"firstNameOnly": 0,
+				"fullName": 1,
+				"lastNameOnly": 1,
+				"total": 2
+			},
+			"quotedInIntro": false,
+			"quotedInTitle": false,
+			"sex": "male"
+		}
+	],
+	"subtopics": [
+		"Steuerbetrug",
+		"Gastwirtschaft",
+		"Finanzamt",
+		"TSE"
+	]
+}

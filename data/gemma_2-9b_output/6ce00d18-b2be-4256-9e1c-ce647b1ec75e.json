@@ -1,0 +1,587 @@
+{
+    "persons": [
+        {
+            "name": "Johnny Thunders",
+            "alternativeNames": [],
+            "age": -1,
+            "sex": "male",
+            "occurences": {
+                "total": 3,
+                "firstNameOnly": 0,
+                "lastNameOnly": 2,
+                "fullName": 1,
+                "nickname": 0
+            },
+            "inTitle": false,
+            "inIntro": false,
+            "_name": {
+                "firstname": "Johnny",
+                "lastname": "Thunders",
+                "nickname": null,
+                "alternative_names": [],
+                "academic_title": null,
+                "nobility_title_or_rank": null
+            },
+            "descriptiveTexts": [
+                {
+                    "text": "Am spannendsten war seine Zusammenarbeit mit Johnny Thunders, einem weiteren Punkpionier, der ebenfalls an der Nadel hing."
+                },
+                {
+                    "text": "Thunders und Kramer, das war eine Art Traumpaar des Junkrock."
+                },
+                {
+                    "text": "Thunders starb 1991."
+                }
+            ],
+            "occupations": [
+                {
+                    "text": "Punkpionier"
+                },
+                {
+                    "text": "Traumpaar des Junkrock"
+                }
+            ],
+            "directQuotes": [],
+            "quotedInTitle": false,
+            "quotedInIntro": false
+        },
+        {
+            "name": "Rob Tyner",
+            "alternativeNames": [],
+            "age": -1,
+            "sex": "male",
+            "occurences": {
+                "total": 1,
+                "firstNameOnly": 0,
+                "lastNameOnly": 0,
+                "fullName": 1,
+                "nickname": 0
+            },
+            "inTitle": false,
+            "inIntro": false,
+            "_name": {
+                "firstname": "Rob",
+                "lastname": "Tyner",
+                "nickname": null,
+                "alternative_names": [],
+                "academic_title": null,
+                "nobility_title_or_rank": null
+            },
+            "descriptiveTexts": [
+                {
+                    "text": "Kurz darauf verlor Kramer mit dem S\u00e4nger Rob Tyner und dem Gitarristen Fred \u00bbSonic\u00ab Smith zwei seiner MC5-Wegbegleiter."
+                }
+            ],
+            "occupations": [
+                {
+                    "text": "S\u00e4nger"
+                },
+                {
+                    "text": "MC5-Wegbegleiter"
+                }
+            ],
+            "directQuotes": [],
+            "quotedInTitle": false,
+            "quotedInIntro": false
+        },
+        {
+            "name": "John Sinclair",
+            "alternativeNames": [],
+            "age": -1,
+            "sex": "male",
+            "occurences": {
+                "total": 5,
+                "firstNameOnly": 1,
+                "lastNameOnly": 3,
+                "fullName": 1,
+                "nickname": 0
+            },
+            "inTitle": false,
+            "inIntro": false,
+            "_name": {
+                "firstname": "John",
+                "lastname": "Sinclair",
+                "nickname": null,
+                "alternative_names": [],
+                "academic_title": null,
+                "nobility_title_or_rank": null
+            },
+            "descriptiveTexts": [
+                {
+                    "text": "Als Manager von MC5 fungierte damals der Anarchist John Sinclair, der allerdings schon 1969 wegen Marihuanaverkaufs ins Gef\u00e4ngnis kam."
+                },
+                {
+                    "text": "1968 hatte Sinclair die White Panther Party gegr\u00fcndet, sie sollte die Black Panther in ihrem Kampf um Selbsterm\u00e4chtigung unterst\u00fctzen."
+                },
+                {
+                    "text": "Im selben Jahr wurde Sinclair angeklagt, einen Anschlag auf ein CIA-B\u00fcro begangen zu haben."
+                },
+                {
+                    "text": "MC5 teilten viele seiner radikalen Ansichten, trennten sich dann aber von ihm, w\u00e4hrend er in Haft war."
+                },
+                {
+                    "text": "Die Band blieb Zeit ihres kurzen Bestehens kommerziell erfolglos, nach dem Abgang Sinclairs sa\u00df sie zudem auf einem Haufen Schulden."
+                },
+                {
+                    "text": "Sp\u00e4ter soll der geschasste Manager in Richtung MC5 gesagt haben: \u00bbIhr wolltet gr\u00f6\u00dfer sein als die Beatles, ich wollte, dass ihr gr\u00f6\u00dfer werdet als Mao.\u00ab"
+                },
+                {
+                    "text": "Schon MC5 hatten in ihren Anfangstagen Anleihen bei Freejazz-Gr\u00f6\u00dfen wie John Coltrane und Sun Ra vorgenommen."
+                }
+            ],
+            "occupations": [
+                {
+                    "text": "Anarchist"
+                },
+                {
+                    "text": "Manager"
+                },
+                {
+                    "text": "geschasste Manager"
+                }
+            ],
+            "directQuotes": [
+                {
+                    "text": "Ihr wolltet gr\u00f6\u00dfer sein als die Beatles, ich wollte, dass ihr gr\u00f6\u00dfer werdet als Mao."
+                }
+            ],
+            "quotedInTitle": false,
+            "quotedInIntro": false
+        },
+        {
+            "name": "Dennis \u00bbMachine Gun\u00ab Thompson",
+            "alternativeNames": [],
+            "age": -1,
+            "sex": "male",
+            "occurences": {
+                "total": 3,
+                "firstNameOnly": 1,
+                "lastNameOnly": 1,
+                "fullName": 0,
+                "nickname": 1
+            },
+            "inTitle": false,
+            "inIntro": false,
+            "_name": {
+                "firstname": "Dennis",
+                "lastname": "Thompson",
+                "nickname": "Machine Gun",
+                "alternative_names": [],
+                "academic_title": null,
+                "nobility_title_or_rank": null
+            },
+            "descriptiveTexts": [
+                {
+                    "text": "Zuletzt arbeitete er mit dem Schlagzeuger Dennis \u00bbMachine Gun\u00ab Thompson, dem anderen \u00dcberlebenden von MC5, an einem weiteren Album unter dem legend\u00e4ren Bandnamen."
+                }
+            ],
+            "occupations": [
+                {
+                    "text": "Schlagzeuger"
+                }
+            ],
+            "directQuotes": [
+                {
+                    "text": "Machine Gun"
+                }
+            ],
+            "quotedInTitle": false,
+            "quotedInIntro": false
+        },
+        {
+            "name": "John Coltrane",
+            "alternativeNames": [],
+            "age": -1,
+            "sex": "male",
+            "occurences": {
+                "total": 2,
+                "firstNameOnly": 1,
+                "lastNameOnly": 0,
+                "fullName": 1,
+                "nickname": 0
+            },
+            "inTitle": false,
+            "inIntro": false,
+            "_name": {
+                "firstname": "John",
+                "lastname": "Coltrane",
+                "nickname": null,
+                "alternative_names": [],
+                "academic_title": null,
+                "nobility_title_or_rank": null
+            },
+            "descriptiveTexts": [
+                {
+                    "text": "Als Manager von MC5 fungierte damals der Anarchist John Sinclair, der allerdings schon 1969 wegen Marihuanaverkaufs ins Gef\u00e4ngnis kam."
+                },
+                {
+                    "text": "1968 hatte Sinclair die White Panther Party gegr\u00fcndet, sie sollte die Black Panther in ihrem Kampf um Selbsterm\u00e4chtigung unterst\u00fctzen."
+                },
+                {
+                    "text": "MC5 teilten viele seiner radikalen Ansichten, trennten sich dann aber von ihm, w\u00e4hrend er in Haft war."
+                },
+                {
+                    "text": "Sp\u00e4ter soll der geschasste Manager in Richtung MC5 gesagt haben: \u00bbIhr wolltet gr\u00f6\u00dfer sein als die Beatles, ich wollte, dass ihr gr\u00f6\u00dfer werdet als Mao.\u00ab"
+                },
+                {
+                    "text": "Schon MC5 hatten in ihren Anfangstagen Anleihen bei Freejazz-Gr\u00f6\u00dfen wie John Coltrane und Sun Ra vorgenommen."
+                }
+            ],
+            "occupations": [
+                {
+                    "text": "Freejazz-Gr\u00f6\u00dfen"
+                }
+            ],
+            "directQuotes": [],
+            "quotedInTitle": false,
+            "quotedInIntro": false
+        },
+        {
+            "name": "Mao",
+            "alternativeNames": [],
+            "age": -1,
+            "sex": "male",
+            "occurences": {
+                "total": 2,
+                "firstNameOnly": 0,
+                "lastNameOnly": 0,
+                "fullName": 2,
+                "nickname": 0
+            },
+            "inTitle": false,
+            "inIntro": false,
+            "_name": {
+                "firstname": null,
+                "lastname": null,
+                "nickname": null,
+                "alternative_names": [],
+                "academic_title": null,
+                "nobility_title_or_rank": null
+            },
+            "descriptiveTexts": [
+                {
+                    "text": "Gr\u00f6\u00dfer als Mao?"
+                },
+                {
+                    "text": "Sp\u00e4ter soll der geschasste Manager in Richtung MC5 gesagt haben: \u00bbIhr wolltet gr\u00f6\u00dfer sein als die Beatles, ich wollte, dass ihr gr\u00f6\u00dfer werdet als Mao.\u00ab"
+                }
+            ],
+            "occupations": [],
+            "directQuotes": [],
+            "quotedInTitle": false,
+            "quotedInIntro": false
+        },
+        {
+            "name": "Wayne Kramer",
+            "alternativeNames": [],
+            "age": 75,
+            "sex": "male",
+            "occurences": {
+                "total": 15,
+                "firstNameOnly": 0,
+                "lastNameOnly": 8,
+                "fullName": 5,
+                "nickname": 2
+            },
+            "inTitle": false,
+            "inIntro": true,
+            "_name": {
+                "firstname": "Wayne",
+                "lastname": "Kramer",
+                "nickname": "Riff-K\u00f6nig",
+                "alternative_names": [],
+                "academic_title": null,
+                "nobility_title_or_rank": null
+            },
+            "descriptiveTexts": [
+                {
+                    "text": "Mit seiner Band MC5 schuf er die erste Hymne des Punk."
+                },
+                {
+                    "text": "Nun ist der Politaktivist, \u00dcberlebensk\u00fcnstler und Riff-K\u00f6nig Wayne Kramer im Alter von 75 Jahren gestorben."
+                },
+                {
+                    "text": "\u00dcber die genaue Bedeutung des Songs \u00bbKick Out the Jams\u00ab wurde viel spekuliert; sein Mitsch\u00f6pfer Wayne Kramer selbst lie\u00df, wenn er dazu befragt wurde, gro\u00dfz\u00fcgig alle Interpretationen gelten."
+                },
+                {
+                    "text": "Wer Filmdokumente aus der Zeit und kurz danach anschaut, sieht einen extrem entfesselten Wayne Kramer, der einerseits auf seiner Gitarre Riffs von bis dahin ungeh\u00f6rter H\u00e4rte spielte und zugleich mit breitem Grinsen das ganz gro\u00dfe Rock-\u2019n\u2019-Roll-Ballett auff\u00fchrte."
+                },
+                {
+                    "text": "Er schlug Pirouetten und twerkte mit dem Hintern Richtung Publikum, er machte den Windm\u00fchlenarm und ahmte Chuck Berrys ber\u00fchmten Entengang nach."
+                },
+                {
+                    "text": "Manchmal hielt Kramer seine Gitarre aber auch wie ein Maschinengewehr."
+                },
+                {
+                    "text": "Die Band blieb Zeit ihres kurzen Bestehens kommerziell erfolglos, nach dem Abgang Sinclairs sa\u00df sie zudem auf einem Haufen Schulden."
+                },
+                {
+                    "text": "1975 folgte Wayne Kramer dem Ex-Manager ins Gef\u00e4ngnis."
+                },
+                {
+                    "text": "Zuvor war er dabei erwischt worden, wie er verdeckten Drogenermittlern Kokain verkaufen wollte."
+                },
+                {
+                    "text": "Er selbst dr\u00fcckte zu dieser Zeit Heroin."
+                },
+                {
+                    "text": "R\u00fcckblickend sah Kramer den Knast als pers\u00f6nliche Rettung, weil er nach eigener Einsch\u00e4tzung wohl auf freiem Fu\u00df an den Drogen gestorben w\u00e4re."
+                },
+                {
+                    "text": "Gleichzeitig trat er immer wieder als Kritiker des US-Strafvollzugssystems auf, das seiner Ansicht nach mehr Kriminalit\u00e4t produziert als verhindert."
+                },
+                {
+                    "text": "An die gro\u00dfen Tage von MC5 konnte er nach der Haftentlassung 1979 nicht ankn\u00fcpfen."
+                },
+                {
+                    "text": "Er schlug sich durch, spielte gelegentlich in kleinen Klubs, sp\u00e4ter wurde er Tischler."
+                },
+                {
+                    "text": "Thunders und Kramer, das war eine Art Traumpaar des Junkrock."
+                },
+                {
+                    "text": "Kurz darauf verlor Kramer mit dem S\u00e4nger Rob Tyner und dem Gitarristen Fred \u00bbSonic\u00ab Smith zwei seiner MC5-Wegbegleiter."
+                },
+                {
+                    "text": "Kramer \u00fcberlebte die Verheerungen der ersten Punkwelle \u2013 und wurde dann zur wichtigen Referenzgr\u00f6\u00dfe f\u00fcr die Musiker der zweiten und dritten Welle an politisch motivierten Vertretern des Fachs."
+                },
+                {
+                    "text": "Die linken aktivistischen Megastars Rage Against The Machine coverten \u00bbKick Out the Jams\u00ab, Bad Religion gaben Kramer auf ihrem Label Epitaph ein neues k\u00fcnstlerisches Zuhause."
+                },
+                {
+                    "text": "Ab Mitte der Neunzigerjahre spielte er regelm\u00e4\u00dfig Soloalben ein."
+                },
+                {
+                    "text": "In Deutschland konnte man \u00fcber die zweite H\u00e4lfte der Neunzigerjahre w\u00e4hrend etlicher Tourneen Kramers Zeuge seiner unverw\u00fcstlichen Kraft werden: Dem unvermeidlichen Fanal \u00bbKick Out the Jams\u00ab, mit dem er die Auftritte er\u00f6ffnete, folgten Punksongs, die er mal auf Bluestemperatur dimmte, mal zu infernalischen Freejazz-Exkursionen ausweitete."
+                },
+                {
+                    "text": "Dass in den Neunzigerjahren oft keine 50 zahlenden G\u00e4ste kamen, betrachtete Kramer mit dem Gleichmut desjenigen, der sich des blanken \u00dcberlebens freut."
+                },
+                {
+                    "text": "Zuletzt arbeitete er mit dem Schlagzeuger Dennis \u00bbMachine Gun\u00ab Thompson, dem anderen \u00dcberlebenden von MC5, an einem weiteren Album unter dem legend\u00e4ren Bandnamen."
+                },
+                {
+                    "text": "Am Freitag ist Wayne Kramer, der Riff-K\u00f6nig und m\u00f6glicherweise gr\u00f6\u00dfte Punkrockgitarrist aller Zeiten, in einem Krankenhaus in Los Angeles gestorben."
+                },
+                {
+                    "text": "Er wurde 75 Jahre alt."
+                }
+            ],
+            "occupations": [
+                {
+                    "text": "Politaktivist"
+                },
+                {
+                    "text": "Tischler"
+                },
+                {
+                    "text": "gr\u00f6\u00dfte Punkrockgitarrist aller Zeiten"
+                },
+                {
+                    "text": "blanken \u00dcberlebens freut"
+                },
+                {
+                    "text": "Gitarrist"
+                },
+                {
+                    "text": "Musiker"
+                },
+                {
+                    "text": "\u00dcberlebensk\u00fcnstler"
+                },
+                {
+                    "text": "Riff-K\u00f6nig"
+                },
+                {
+                    "text": "politisch motivierten Vertretern des Fachs"
+                }
+            ],
+            "directQuotes": [
+                {
+                    "text": "Kick out the jams, motherfucker!"
+                }
+            ],
+            "quotedInTitle": false,
+            "quotedInIntro": true
+        },
+        {
+            "name": "Richard Nixon",
+            "alternativeNames": [],
+            "age": -1,
+            "sex": "male",
+            "occurences": {
+                "total": 1,
+                "firstNameOnly": 0,
+                "lastNameOnly": 0,
+                "fullName": 1,
+                "nickname": 0
+            },
+            "inTitle": false,
+            "inIntro": false,
+            "_name": {
+                "firstname": "Richard",
+                "lastname": "Nixon",
+                "nickname": null,
+                "alternative_names": [],
+                "academic_title": null,
+                "nobility_title_or_rank": null
+            },
+            "descriptiveTexts": [
+                {
+                    "text": "Es waren die letzten hei\u00dfen Tage des US-Pr\u00e4sidentschaftswahlkampfs zwischen Hubert Humphrey und Richard Nixon, der durch vorangegangene Race Riots, Anti-Vietnamkriegsdemonstrationen und der Ermordung Robert F."
+                }
+            ],
+            "occupations": [],
+            "directQuotes": [],
+            "quotedInTitle": false,
+            "quotedInIntro": false
+        },
+        {
+            "name": "Chuck Berry",
+            "alternativeNames": [],
+            "age": -1,
+            "sex": "male",
+            "occurences": {
+                "total": 1,
+                "firstNameOnly": 0,
+                "lastNameOnly": 0,
+                "fullName": 1,
+                "nickname": 0
+            },
+            "inTitle": false,
+            "inIntro": false,
+            "_name": {
+                "firstname": "Chuck",
+                "lastname": "Berry",
+                "nickname": null,
+                "alternative_names": [],
+                "academic_title": null,
+                "nobility_title_or_rank": null
+            },
+            "descriptiveTexts": [
+                {
+                    "text": "Er schlug Pirouetten und twerkte mit dem Hintern Richtung Publikum, er machte den Windm\u00fchlenarm und ahmte Chuck Berrys ber\u00fchmten Entengang nach."
+                }
+            ],
+            "occupations": [
+                {
+                    "text": "Gitarrist"
+                }
+            ],
+            "directQuotes": [],
+            "quotedInTitle": false,
+            "quotedInIntro": false
+        },
+        {
+            "name": "Fred \u00bbSonic\u00ab Smith",
+            "alternativeNames": [],
+            "age": -1,
+            "sex": "male",
+            "occurences": {
+                "total": 3,
+                "firstNameOnly": 1,
+                "lastNameOnly": 1,
+                "fullName": 0,
+                "nickname": 1
+            },
+            "inTitle": false,
+            "inIntro": false,
+            "_name": {
+                "firstname": "Fred",
+                "lastname": "Smith",
+                "nickname": "Sonic",
+                "alternative_names": [],
+                "academic_title": null,
+                "nobility_title_or_rank": null
+            },
+            "descriptiveTexts": [
+                {
+                    "text": "Kurz darauf verlor Kramer mit dem S\u00e4nger Rob Tyner und dem Gitarristen Fred \u00bbSonic\u00ab Smith zwei seiner MC5-Wegbegleiter."
+                }
+            ],
+            "occupations": [
+                {
+                    "text": "Gitarrist"
+                },
+                {
+                    "text": "MC5-Wegbegleiter"
+                }
+            ],
+            "directQuotes": [
+                {
+                    "text": "Sonic"
+                }
+            ],
+            "quotedInTitle": false,
+            "quotedInIntro": false
+        },
+        {
+            "name": "Robert F. Kennedy",
+            "alternativeNames": [],
+            "age": -1,
+            "sex": "male",
+            "occurences": {
+                "total": 2,
+                "firstNameOnly": 0,
+                "lastNameOnly": 1,
+                "fullName": 1,
+                "nickname": 0
+            },
+            "inTitle": false,
+            "inIntro": false,
+            "_name": {
+                "firstname": "Robert F.",
+                "lastname": "Kennedy",
+                "nickname": null,
+                "alternative_names": [],
+                "academic_title": null,
+                "nobility_title_or_rank": null
+            },
+            "descriptiveTexts": [
+                {
+                    "text": "Kennedys gef\u00e4hrlich aufgeladen war."
+                }
+            ],
+            "occupations": [
+                {
+                    "text": "Ermordung"
+                }
+            ],
+            "directQuotes": [],
+            "quotedInTitle": false,
+            "quotedInIntro": false
+        },
+        {
+            "name": "Hubert Humphrey",
+            "alternativeNames": [],
+            "age": -1,
+            "sex": "male",
+            "occurences": {
+                "total": 1,
+                "firstNameOnly": 0,
+                "lastNameOnly": 0,
+                "fullName": 1,
+                "nickname": 0
+            },
+            "inTitle": false,
+            "inIntro": false,
+            "_name": {
+                "firstname": "Hubert",
+                "lastname": "Humphrey",
+                "nickname": null,
+                "alternative_names": [],
+                "academic_title": null,
+                "nobility_title_or_rank": null
+            },
+            "descriptiveTexts": [
+                {
+                    "text": "Es waren die letzten hei\u00dfen Tage des US-Pr\u00e4sidentschaftswahlkampfs zwischen Hubert Humphrey und Richard Nixon, der durch vorangegangene Race Riots, Anti-Vietnamkriegsdemonstrationen und der Ermordung Robert F."
+                }
+            ],
+            "occupations": [],
+            "directQuotes": [],
+            "quotedInTitle": false,
+            "quotedInIntro": false
+        }
+    ]
+}

@@ -1,0 +1,766 @@
+{
+    "persons": [
+        {
+            "name": "Jochen Engert",
+            "alternativeNames": [],
+            "age": -1,
+            "sex": "male",
+            "occurences": {
+                "total": 2,
+                "firstNameOnly": 0,
+                "lastNameOnly": 0,
+                "fullName": 2,
+                "nickname": 0
+            },
+            "inTitle": false,
+            "inIntro": false,
+            "_name": {
+                "firstname": "Jochen",
+                "lastname": "Engert",
+                "nickname": null,
+                "alternative_names": [],
+                "academic_title": null,
+                "nobility_title_or_rank": null
+            },
+            "descriptiveTexts": [
+                {
+                    "text": "Beim Ap\u00e9ro machen sie mit ged\u00e4mpften Stimmen Konversation."
+                },
+                {
+                    "text": "Mit der Liberalisierung fielen die Fesseln \u2013 Schw\u00e4mmlein und seine Mitgr\u00fcnder Jochen Engert und Daniel Krauss nutzten die Gunst der Stunde."
+                },
+                {
+                    "text": "Sie verbanden kleine regionale Busanbieter zu einem fl\u00e4chendeckenden Liniennetz, das sich \u00fcber die Onlineplattform buchen l\u00e4sst \u2013 als g\u00fcnstige Alternative zur Bahn."
+                },
+                {
+                    "text": "Vor der Markt\u00f6ffnung 2013 lie\u00dfen sie sich eine Liste der damals rund 5000, meist regionalen Busunternehmen geben und telefonierten sie ab."
+                },
+                {
+                    "text": "Bekamen sie ein Date, erkl\u00e4rten die Jungspunde den Busveteranen, dass Flixbus die Technologieplattform biete und sich um Fahrpl\u00e4ne und Ticketvertrieb k\u00fcmmere."
+                },
+                {
+                    "text": "In den Gespr\u00e4chen lernten sie den \u00bbBusfahrer-Schnack\u00ab, wie Schw\u00e4mmlein sagt, und die Denke von Familienunternehmern kennen."
+                },
+                {
+                    "text": "Daran arbeiten wir gerade, das bringen wir n\u00e4chstes Mal mit, antworteten sie."
+                },
+                {
+                    "text": "F\u00fcr das Vision\u00e4re ist der Dritte im Bund zust\u00e4ndig: Jochen Engert, mittlerweile in den Aufsichtsrat gewechselt."
+                },
+                {
+                    "text": "Die Eroberung planten sie pr\u00e4zise: Ist der Markt zug\u00e4nglich?"
+                },
+                {
+                    "text": "Und typische Start-up-Fehler hat Schw\u00e4mmlein bisher vermieden, es sei ihm wie wenigen anderen gelungen, \u00bbeine Firma zu gr\u00fcnden, sie gro\u00df zu machen und dann als etablierte Firma zu f\u00fchren\u00ab, lobt J\u00f6rn Nikolay, Partner beim Finanzinvestor General Atlantic, der mit rund 18 Prozent an Flix beteiligt ist."
+                }
+            ],
+            "occupations": [
+                {
+                    "text": "Vision\u00e4r"
+                }
+            ],
+            "directQuotes": [],
+            "quotedInTitle": false,
+            "quotedInIntro": false
+        },
+        {
+            "name": "Bodo Uebber",
+            "alternativeNames": [],
+            "age": -1,
+            "sex": "male",
+            "occurences": {
+                "total": 1,
+                "firstNameOnly": 0,
+                "lastNameOnly": 0,
+                "fullName": 1,
+                "nickname": 0
+            },
+            "inTitle": false,
+            "inIntro": false,
+            "_name": {
+                "firstname": "Bodo",
+                "lastname": "Uebber",
+                "nickname": null,
+                "alternative_names": [],
+                "academic_title": null,
+                "nobility_title_or_rank": null
+            },
+            "descriptiveTexts": [
+                {
+                    "text": "Gerade hat Flix den fr\u00fcheren Daimler-Finanzvorstand Bodo Uebber als Aufsichtsratschef angeheuert, einen Kapitalmarktprofi."
+                }
+            ],
+            "occupations": [
+                {
+                    "text": "Kapitalmarktprofi"
+                }
+            ],
+            "directQuotes": [],
+            "quotedInTitle": false,
+            "quotedInIntro": false
+        },
+        {
+            "name": "Olaf Scholz",
+            "alternativeNames": [],
+            "age": -1,
+            "sex": "male",
+            "occurences": {
+                "total": 1,
+                "firstNameOnly": 0,
+                "lastNameOnly": 0,
+                "fullName": 1,
+                "nickname": 0
+            },
+            "inTitle": false,
+            "inIntro": false,
+            "_name": {
+                "firstname": "Olaf",
+                "lastname": "Scholz",
+                "nickname": null,
+                "alternative_names": [],
+                "academic_title": null,
+                "nobility_title_or_rank": null
+            },
+            "descriptiveTexts": [
+                {
+                    "text": "Bei Verkehrsminister Volker Wissing (FDP) und Kanzler Olaf Scholz (SPD) prallt er jedoch ebenso ab wie die Gr\u00fcnen, deren Parteibuch er noch hat."
+                }
+            ],
+            "occupations": [
+                {
+                    "text": "Kanzler"
+                }
+            ],
+            "directQuotes": [],
+            "quotedInTitle": false,
+            "quotedInIntro": false
+        },
+        {
+            "name": "Dirk Schl\u00f6mer",
+            "alternativeNames": [],
+            "age": -1,
+            "sex": "male",
+            "occurences": {
+                "total": 1,
+                "firstNameOnly": 0,
+                "lastNameOnly": 0,
+                "fullName": 1,
+                "nickname": 0
+            },
+            "inTitle": false,
+            "inIntro": false,
+            "_name": {
+                "firstname": "Dirk",
+                "lastname": "Schl\u00f6mer",
+                "nickname": null,
+                "alternative_names": [],
+                "academic_title": null,
+                "nobility_title_or_rank": null
+            },
+            "descriptiveTexts": [
+                {
+                    "text": "In der Vergangenheit h\u00e4tten Flix-Partner oft untertariflich bezahlt, sagt Dirk Schl\u00f6mer."
+                }
+            ],
+            "occupations": [],
+            "directQuotes": [
+                {
+                    "text": "Wir h\u00f6ren aktuell keine Klagen aus den Subunternehmen."
+                }
+            ],
+            "quotedInTitle": false,
+            "quotedInIntro": false
+        },
+        {
+            "name": "Volker Wissing",
+            "alternativeNames": [],
+            "age": -1,
+            "sex": "male",
+            "occurences": {
+                "total": 1,
+                "firstNameOnly": 0,
+                "lastNameOnly": 0,
+                "fullName": 1,
+                "nickname": 0
+            },
+            "inTitle": false,
+            "inIntro": false,
+            "_name": {
+                "firstname": "Volker",
+                "lastname": "Wissing",
+                "nickname": null,
+                "alternative_names": [],
+                "academic_title": null,
+                "nobility_title_or_rank": null
+            },
+            "descriptiveTexts": [
+                {
+                    "text": "Bei Verkehrsminister Volker Wissing (FDP) und Kanzler Olaf Scholz (SPD) prallt er jedoch ebenso ab wie die Gr\u00fcnen, deren Parteibuch er noch hat."
+                }
+            ],
+            "occupations": [
+                {
+                    "text": "Verkehrsminister"
+                }
+            ],
+            "directQuotes": [],
+            "quotedInTitle": false,
+            "quotedInIntro": false
+        },
+        {
+            "name": "Andr\u00e9 Schw\u00e4mmlein",
+            "alternativeNames": [],
+            "age": -1,
+            "sex": "male",
+            "occurences": {
+                "total": 33,
+                "firstNameOnly": 1,
+                "lastNameOnly": 30,
+                "fullName": 2,
+                "nickname": 0
+            },
+            "inTitle": false,
+            "inIntro": true,
+            "_name": {
+                "firstname": "Andr\u00e9",
+                "lastname": "Schw\u00e4mmlein",
+                "nickname": null,
+                "alternative_names": [],
+                "academic_title": null,
+                "nobility_title_or_rank": null
+            },
+            "descriptiveTexts": [
+                {
+                    "text": "Andr\u00e9 Schw\u00e4mmlein hat mit seinem Start-up Flixbus geschafft, woran deutsche Konzerne regelm\u00e4\u00dfig scheitern: mit einer Technologieplattform zum Weltmarktf\u00fchrer zu werden."
+                },
+                {
+                    "text": "Kann er den Erfolg im Bahngesch\u00e4ft wiederholen?"
+                },
+                {
+                    "text": "Beim Ap\u00e9ro machen sie mit ged\u00e4mpften Stimmen Konversation."
+                },
+                {
+                    "text": "Andr\u00e9 Schw\u00e4mmlein, 42, Co-Gr\u00fcnder des Mobilit\u00e4tsunternehmens Flix, die r\u00f6tlichen Haare k\u00fchn anrasiert, schwingt sich in beigefarbenen Chinos und blauem Pulli auf eine kleine B\u00fchne."
+                },
+                {
+                    "text": "\u00bbI\u2019ll do some magic tricks now\u00ab, begr\u00fc\u00dft er die Zuschauer."
+                },
+                {
+                    "text": "Dann erz\u00e4hlt Schw\u00e4mmlein, wie Flix binnen elf Jahren zum Weltmarktf\u00fchrer im Busreiseverkehr aufgestiegen ist \u2013 und warum seine Firma ein verkannter Hightechstar ist."
+                },
+                {
+                    "text": "Mit der Liberalisierung fielen die Fesseln \u2013 Schw\u00e4mmlein und seine Mitgr\u00fcnder Jochen Engert und Daniel Krauss nutzten die Gunst der Stunde."
+                },
+                {
+                    "text": "Sie verbanden kleine regionale Busanbieter zu einem fl\u00e4chendeckenden Liniennetz, das sich \u00fcber die Onlineplattform buchen l\u00e4sst \u2013 als g\u00fcnstige Alternative zur Bahn."
+                },
+                {
+                    "text": "Schw\u00e4mmlein sagt ganz unbescheiden: \u00bbWir haben den Fernreiseverkehr neu erfunden wie Spotify die Musik.\u00ab"
+                },
+                {
+                    "text": "Viele h\u00e4tten anfangs gesagt, dass es eine dumme Idee sei, ein Busunternehmen zu gr\u00fcnden, erz\u00e4hlt Schw\u00e4mmlein am Harvard-Club-Abend."
+                },
+                {
+                    "text": "Eigentlich ist er niemand, der den \u00f6ffentlichen Auftritt sucht, er meidet Konferenzen und Talkshows."
+                },
+                {
+                    "text": "Einen Harvard-Abschluss hat er auch nicht, in den Klub ist er auf Bitten eines Freundes gekommen."
+                },
+                {
+                    "text": "Schw\u00e4mmlein hat sich nach seinem Vortrag auf den Rand der B\u00fchne gesetzt, die Luft ist hei\u00df und stickig."
+                },
+                {
+                    "text": "Nat\u00fcrlich habe auch er Zweifel gehabt."
+                },
+                {
+                    "text": "Aber er musste \u00fcberzeugen: Mitarbeiter, Busunternehmer, Investoren."
+                },
+                {
+                    "text": "Anfangs wandelten Schw\u00e4mmlein und seine Mitgr\u00fcnder an der Grenze zum Bluff."
+                },
+                {
+                    "text": "Vor der Markt\u00f6ffnung 2013 lie\u00dfen sie sich eine Liste der damals rund 5000, meist regionalen Busunternehmen geben und telefonierten sie ab."
+                },
+                {
+                    "text": "Bekamen sie ein Date, erkl\u00e4rten die Jungspunde den Busveteranen, dass Flixbus die Technologieplattform biete und sich um Fahrpl\u00e4ne und Ticketvertrieb k\u00fcmmere."
+                },
+                {
+                    "text": "In den Gespr\u00e4chen lernten sie den \u00bbBusfahrer-Schnack\u00ab, wie Schw\u00e4mmlein sagt, und die Denke von Familienunternehmern kennen."
+                },
+                {
+                    "text": "Daran arbeiten wir gerade, das bringen wir n\u00e4chstes Mal mit, antworteten sie."
+                },
+                {
+                    "text": "\u00bbWir waren nat\u00fcrlich nicht auf alle Fragen vorbereitet\u00ab, sagt Schw\u00e4mmlein."
+                },
+                {
+                    "text": "Die Gespr\u00e4che aus der Anfangszeit verbucht er als \u00bbWeiterentwicklung des Gesch\u00e4ftsmodells\u00ab."
+                },
+                {
+                    "text": "Unternehmertum und Reisefieber waren Schw\u00e4mmlein nicht in die Wiege gelegt, auch wenn sich seine Mutter sp\u00e4ter erinnert habe, sein erstes Wort sei \u00bbBus\u00ab gewesen."
+                },
+                {
+                    "text": "Von seinen Eltern, die lokalpolitisch bei den Gr\u00fcnen engagiert waren, erbte er eher das Interesse an Politik."
+                },
+                {
+                    "text": "Er wurde als Sch\u00fcler Kreistagsabgeordneter f\u00fcr die Gr\u00fcnen in F\u00fcrth, sp\u00e4ter Fraktionsvorsitzender."
+                },
+                {
+                    "text": "Schw\u00e4mmlein studierte Wirtschaftsingenieurwesen, mit seinem Schulfreund und Wirtschaftsinformatiker Daniel Krauss suchte er fr\u00fch nach \u00bbunternehmerischen Aufgaben\u00ab."
+                },
+                {
+                    "text": "Er half Krauss, aus einer eher ehrenamtlich betriebenen IT-Beratung ein Gesch\u00e4ft zu machen \u2013 die erste gemeinsame Firma."
+                },
+                {
+                    "text": "\u00bbAndr\u00e9 ist Realist, und was Zahlen und Gesch\u00e4ftssinn angeht, einfach exzellent\u00ab, sagt Krauss."
+                },
+                {
+                    "text": "Die Aufgabenteilung wiederholte sich bei Flix: Schw\u00e4mmlein ist der k\u00fchl rechnende Stratege, Krauss der Techie."
+                },
+                {
+                    "text": "Schw\u00e4mmlein lernte ihn im Praktikum bei der Unternehmensberatung BCG in M\u00fcnchen kennen."
+                },
+                {
+                    "text": "Schw\u00e4mmlein sitzt jetzt auf einem der gr\u00fcnen Flixbus-Sessel, die f\u00fcr das Vorstandszimmer in der Unternehmenszentrale in M\u00fcnchen zu B\u00fcrost\u00fchlen umfunktioniert wurden."
+                },
+                {
+                    "text": "Die Phasen der Firma kann er klar benennen: Die erste endete 2015, als Flix mit dem Wettbewerber \u00bbMein Fernbus\u00ab fusionierte."
+                },
+                {
+                    "text": "Die Eroberung planten sie pr\u00e4zise: Ist der Markt zug\u00e4nglich?"
+                },
+                {
+                    "text": "Das einzige Land, aus dem sich das Unternehmen wieder zur\u00fcckgezogen habe, sei Russland, sagt Schw\u00e4mmlein."
+                },
+                {
+                    "text": "Nicht, weil die Russen nicht gern Flixbus gefahren w\u00e4ren, sondern weil Schw\u00e4mmlein sich auf die Seite der Ukraine stellen wollte."
+                },
+                {
+                    "text": "Noch kurz vor Kriegsbeginn hatte Flix sogar mit dem russischen Bahntechnikunternehmen Transmashholding \u00fcber die Beschaffung von Z\u00fcgen f\u00fcr das dortige Bahngesch\u00e4ft verhandelt, was Schw\u00e4mmlein offiziell nicht best\u00e4tigt."
+                },
+                {
+                    "text": "\u00bbWir hatten Sorge, dass irgendjemand an der Westk\u00fcste sich bei einem der gro\u00dfen Risikofonds einen Sack voll Geld holt und sagt: Was diese Flix-Leute in Europa machen, das mache ich in den USA\u00ab, sagt Schw\u00e4mmlein."
+                },
+                {
+                    "text": "Schw\u00e4mmlein plante eine Art Pr\u00e4ventivschlag."
+                },
+                {
+                    "text": "\u00bbUns war klar: In dem Moment, in dem wir in den USA loslegen, ist es eigentlich f\u00fcr die anderen zu sp\u00e4t\u00ab, sagt Schw\u00e4mmlein."
+                },
+                {
+                    "text": "Jetzt freut er sich diebisch, wenn er auf Amerikas Highways \u00bbseine\u00ab Busse sieht oder bei einer Investorenkonferenz in Las Vegas den mit Privatjets eingeflogenen Investoren erz\u00e4hlt, er sei aus Los Angeles mit dem Flixbus angereist."
+                },
+                {
+                    "text": "Er macht das aus Spa\u00df am Busfahren, aus gr\u00fcner \u00dcberzeugung und weil er trotz der Erfolge jeden Euro umdreht."
+                },
+                {
+                    "text": "Schw\u00e4mmlein f\u00e4hrt S-Bahn statt Taxi und verlangt das auch von seinen Mitarbeitern."
+                },
+                {
+                    "text": "Der Stolz, in den USA als deutsches Unternehmen eine wichtige S\u00e4ule des Verkehrssystems zu sein, ist Schw\u00e4mmlein anzumerken."
+                },
+                {
+                    "text": "Umso mehr wurmt es ihn, dass er f\u00fcr diesen Erfolg in Deutschland, wie er findet, wenig Anerkennung bekommt."
+                },
+                {
+                    "text": "\u00bbIch erwarte nicht, dass uns jemand Geld schenkt, wir k\u00f6nnen auch ohne Subventionen\u00ab, sagt er."
+                },
+                {
+                    "text": "Die Deutsche Bahn ist f\u00fcr Schw\u00e4mmlein so etwas wie der Endgegner, wenig bringt ihn so in Rage wie das Quasi-Monopol des Staatskonzerns."
+                },
+                {
+                    "text": "Wenn es nach Schw\u00e4mmlein geht, ist das erst der Anfang."
+                },
+                {
+                    "text": "Von seinem B\u00fcro aus blickt er auf die Bahntrasse, die vom M\u00fcnchner Hauptbahnhof die Stadt Richtung Westen durchschneidet."
+                },
+                {
+                    "text": "\u00bbIn Deutschland wollen wir im Zugverkehr ganz klar wachsen\u00ab, sagt Schw\u00e4mmlein."
+                },
+                {
+                    "text": "Schw\u00e4mmlein legt sich gern mit gro\u00dfen Gegnern an und gilt in Berlin als geschickter Netzwerker."
+                },
+                {
+                    "text": "Immer wieder hat er in den vergangenen Jahren die Trennung von Schienennetz und Bahnbetrieb gefordert, damit mehr Wettbewerb m\u00f6glich wird."
+                },
+                {
+                    "text": "Bei Verkehrsminister Volker Wissing (FDP) und Kanzler Olaf Scholz (SPD) prallt er jedoch ebenso ab wie die Gr\u00fcnen, deren Parteibuch er noch hat."
+                },
+                {
+                    "text": "Die Ansage von Bahn und Verkehrsministerium, man wolle mehr Verkehr auf die Schiene verlagern, h\u00e4lt Schw\u00e4mmlein daher f\u00fcr Heuchelei."
+                },
+                {
+                    "text": "Schw\u00e4mmlein hat kurz in den Ticketshop geschaut, ein paar Monate zuvor hat er hier einen Tag mitgearbeitet."
+                },
+                {
+                    "text": "Schw\u00e4mmlein mag solche Geschichten."
+                },
+                {
+                    "text": "Er steigt jetzt in einen aus Innsbruck kommenden Bus zum Flughafen, checkt das WLAN (funktioniert), erkl\u00e4rt, warum es weder Kaffee noch Snacks gibt (die Fahrer sollen sich auf das Kerngesch\u00e4ft konzentrieren), ob die Busse k\u00fcnftig mit Batterie oder Brennstoffzelle fahren sollen (h\u00e4lt er sich offen)."
+                },
+                {
+                    "text": "Dem fr\u00fcheren Verkehrsminister Andreas Scheuer hat er mal einen ganzen Aktenordner in die Hand gedr\u00fcckt: der Konzessionsantrag f\u00fcr eine einzige neue Busstrecke."
+                },
+                {
+                    "text": "Bremsen l\u00e4sst er sich von so etwas nicht."
+                },
+                {
+                    "text": "Und typische Start-up-Fehler hat Schw\u00e4mmlein bisher vermieden, es sei ihm wie wenigen anderen gelungen, \u00bbeine Firma zu gr\u00fcnden, sie gro\u00df zu machen und dann als etablierte Firma zu f\u00fchren\u00ab, lobt J\u00f6rn Nikolay, Partner beim Finanzinvestor General Atlantic, der mit rund 18 Prozent an Flix beteiligt ist."
+                },
+                {
+                    "text": "Schw\u00e4mmlein selbst will seine Anteile behalten."
+                },
+                {
+                    "text": "Er versteht sich nicht als Seriengr\u00fcnder: einen Laden gro\u00df machen, verkaufen, und ab ins n\u00e4chste Abenteuer, das ist nicht sein Ding."
+                },
+                {
+                    "text": "\u00bbWir haben Flix nie gegr\u00fcndet, um die Firma irgendwann zu verkaufen\u00ab, sagt er, \u00bbsondern um etwas zu schaffen, das in 50 oder 100 Jahren noch da ist.\u00ab"
+                }
+            ],
+            "occupations": [
+                {
+                    "text": "Co-Gr\u00fcnder des Mobilit\u00e4tsunternehmens Flix"
+                },
+                {
+                    "text": "Stratege"
+                },
+                {
+                    "text": "\u00bbWir hatten Sorge, dass irgendjemand an der Westk\u00fcste sich bei einem der gro\u00dfen Risikofonds einen Sack voll Geld holt und sagt: Was diese Flix-Leute in Europa machen, das mache ich in den USA\u00ab, sagt Schw\u00e4mmlein. \u00bbDas wollten wir vermeiden.\u00ab"
+                },
+                {
+                    "text": "Wirtschaftsingenieur"
+                },
+                {
+                    "text": "\u00bbLeider wirkt es manchmal so, als ob das Interesse der Deutschen Bahn nicht ist, maximal viel Verkehr auf die Schiene zu bekommen, sondern 100 Prozent Marktanteil.\u00ab"
+                },
+                {
+                    "text": "\u00bbWir haben Flix nie gegr\u00fcndet, um die Firma irgendwann zu verkaufen\u00ab, sagt er, \u00bbsondern um etwas zu schaffen, das in 50 oder 100 Jahren noch da ist.\u00ab"
+                },
+                {
+                    "text": "\u00bbIch erwarte nicht, dass uns jemand Geld schenkt, wir k\u00f6nnen auch ohne Subventionen\u00ab, sagt er. \u00bbAber etwas mehr Unterst\u00fctzung f\u00fcr eines von ganz wenigen deutschen, global f\u00fchrenden Techunternehmen w\u00e4re sch\u00f6n.\u00ab"
+                },
+                {
+                    "text": "Kreistagsabgeordneter f\u00fcr die Gr\u00fcnen in F\u00fcrth"
+                }
+            ],
+            "directQuotes": [
+                {
+                    "text": "I\u2019ll do some magic tricks now"
+                },
+                {
+                    "text": "Wir haben den Fernreiseverkehr neu erfunden wie Spotify die Musik."
+                },
+                {
+                    "text": "Da kann man nicht z\u00f6gern, man muss sagen, es ist eine gute Idee, auch wenn 40 von 40 Leuten sagen, es ist eine dumme Idee."
+                },
+                {
+                    "text": "Wir waren nat\u00fcrlich nicht auf alle Fragen vorbereitet"
+                },
+                {
+                    "text": "Weiterentwicklung des Gesch\u00e4ftsmodells"
+                },
+                {
+                    "text": "Wir standen vor der Entscheidung, als relativ kleiner Anbieter um unsere Selbstst\u00e4ndigkeit zu k\u00e4mpfen und gegen die neue Konkurrenz anzutreten oder bei Flix mitzumachen."
+                },
+                {
+                    "text": "Der Kampf war nicht zu gewinnen."
+                },
+                {
+                    "text": "Jeder h\u00e4tte gern mehr, aber keiner hat uns gezwungen, das zu unterschreiben."
+                },
+                {
+                    "text": "sehr konstruktiv und positiv"
+                },
+                {
+                    "text": "Wir hatten Sorge, dass irgendjemand an der Westk\u00fcste sich bei einem der gro\u00dfen Risikofonds einen Sack voll Geld holt und sagt: Was diese Flix-Leute in Europa machen, das mache ich in den USA"
+                },
+                {
+                    "text": "Das wollten wir vermeiden."
+                },
+                {
+                    "text": "Uns war klar: In dem Moment, in dem wir in den USA loslegen, ist es eigentlich f\u00fcr die anderen zu sp\u00e4t"
+                },
+                {
+                    "text": "Ich erwarte nicht, dass uns jemand Geld schenkt, wir k\u00f6nnen auch ohne Subventionen"
+                },
+                {
+                    "text": "Aber etwas mehr Unterst\u00fctzung f\u00fcr eines von ganz wenigen deutschen, global f\u00fchrenden Techunternehmen w\u00e4re sch\u00f6n."
+                },
+                {
+                    "text": "In Deutschland wollen wir im Zugverkehr ganz klar wachsen"
+                },
+                {
+                    "text": "dann wollen wir da sein."
+                },
+                {
+                    "text": "Leider wirkt es manchmal so, als ob das Interesse der Deutschen Bahn nicht ist, maximal viel Verkehr auf die Schiene zu bekommen, sondern 100 Prozent Marktanteil."
+                },
+                {
+                    "text": "Wir haben Flix nie gegr\u00fcndet, um die Firma irgendwann zu verkaufen"
+                }
+            ],
+            "quotedInTitle": false,
+            "quotedInIntro": true
+        },
+        {
+            "name": "Thomas Blaguss",
+            "alternativeNames": [],
+            "age": -1,
+            "sex": "male",
+            "occurences": {
+                "total": 4,
+                "firstNameOnly": 0,
+                "lastNameOnly": 3,
+                "fullName": 1,
+                "nickname": 0
+            },
+            "inTitle": false,
+            "inIntro": false,
+            "_name": {
+                "firstname": "Thomas",
+                "lastname": "Blaguss",
+                "nickname": null,
+                "alternative_names": [],
+                "academic_title": null,
+                "nobility_title_or_rank": null
+            },
+            "descriptiveTexts": [
+                {
+                    "text": "Thomas Blaguss geh\u00f6rt zu den mittelst\u00e4ndischen Busunternehmern alter Schule, die sich auf Flix eingelassen haben."
+                },
+                {
+                    "text": "Im dunkelblauen Jackett mit gro\u00dfem Karo und eckiger Brille sitzt er in seinem B\u00fcro in Wien, ein paar vertrocknende Topfpflanzen schm\u00fccken die Fensterbank vor grauen Jalousien."
+                },
+                {
+                    "text": "Seit den Siebzigerjahren bietet \u00bbBlaguss Bus\u00ab Fernreisen an, vor allem Richtung Balkan."
+                },
+                {
+                    "text": "Als der deutsche Markt liberalisiert wurde, schwappte der Boom auch nach \u00d6sterreich, \u00fcber Nacht hatte Blaguss neue Konkurrenz."
+                },
+                {
+                    "text": "Wie alle Flix-Partner bekommt Blaguss drei Viertel der Ticketeinnahmen."
+                }
+            ],
+            "occupations": [
+                {
+                    "text": "Busunternehmer"
+                }
+            ],
+            "directQuotes": [],
+            "quotedInTitle": false,
+            "quotedInIntro": false
+        },
+        {
+            "name": "J\u00f6rn Nikolay",
+            "alternativeNames": [],
+            "age": -1,
+            "sex": "male",
+            "occurences": {
+                "total": 1,
+                "firstNameOnly": 0,
+                "lastNameOnly": 0,
+                "fullName": 1,
+                "nickname": 0
+            },
+            "inTitle": false,
+            "inIntro": false,
+            "_name": {
+                "firstname": "J\u00f6rn",
+                "lastname": "Nikolay",
+                "nickname": null,
+                "alternative_names": [],
+                "academic_title": null,
+                "nobility_title_or_rank": null
+            },
+            "descriptiveTexts": [
+                {
+                    "text": "Und typische Start-up-Fehler hat Schw\u00e4mmlein bisher vermieden, es sei ihm wie wenigen anderen gelungen, \u00bbeine Firma zu gr\u00fcnden, sie gro\u00df zu machen und dann als etablierte Firma zu f\u00fchren\u00ab, lobt J\u00f6rn Nikolay, Partner beim Finanzinvestor General Atlantic, der mit rund 18 Prozent an Flix beteiligt ist."
+                }
+            ],
+            "occupations": [
+                {
+                    "text": "Partner beim Finanzinvestor General Atlantic"
+                }
+            ],
+            "directQuotes": [
+                {
+                    "text": "eine Firma zu gr\u00fcnden, sie gro\u00df zu machen und dann als etablierte Firma zu f\u00fchren"
+                }
+            ],
+            "quotedInTitle": false,
+            "quotedInIntro": false
+        },
+        {
+            "name": "Daniel Krauss",
+            "alternativeNames": [],
+            "age": -1,
+            "sex": "male",
+            "occurences": {
+                "total": 6,
+                "firstNameOnly": 0,
+                "lastNameOnly": 4,
+                "fullName": 2,
+                "nickname": 0
+            },
+            "inTitle": false,
+            "inIntro": false,
+            "_name": {
+                "firstname": "Daniel",
+                "lastname": "Krauss",
+                "nickname": null,
+                "alternative_names": [],
+                "academic_title": null,
+                "nobility_title_or_rank": null
+            },
+            "descriptiveTexts": [
+                {
+                    "text": "Beim Ap\u00e9ro machen sie mit ged\u00e4mpften Stimmen Konversation."
+                },
+                {
+                    "text": "Mit der Liberalisierung fielen die Fesseln \u2013 Schw\u00e4mmlein und seine Mitgr\u00fcnder Jochen Engert und Daniel Krauss nutzten die Gunst der Stunde."
+                },
+                {
+                    "text": "Sie verbanden kleine regionale Busanbieter zu einem fl\u00e4chendeckenden Liniennetz, das sich \u00fcber die Onlineplattform buchen l\u00e4sst \u2013 als g\u00fcnstige Alternative zur Bahn."
+                },
+                {
+                    "text": "Vor der Markt\u00f6ffnung 2013 lie\u00dfen sie sich eine Liste der damals rund 5000, meist regionalen Busunternehmen geben und telefonierten sie ab."
+                },
+                {
+                    "text": "Bekamen sie ein Date, erkl\u00e4rten die Jungspunde den Busveteranen, dass Flixbus die Technologieplattform biete und sich um Fahrpl\u00e4ne und Ticketvertrieb k\u00fcmmere."
+                },
+                {
+                    "text": "In den Gespr\u00e4chen lernten sie den \u00bbBusfahrer-Schnack\u00ab, wie Schw\u00e4mmlein sagt, und die Denke von Familienunternehmern kennen."
+                },
+                {
+                    "text": "Daran arbeiten wir gerade, das bringen wir n\u00e4chstes Mal mit, antworteten sie."
+                },
+                {
+                    "text": "Schw\u00e4mmlein studierte Wirtschaftsingenieurwesen, mit seinem Schulfreund und Wirtschaftsinformatiker Daniel Krauss suchte er fr\u00fch nach \u00bbunternehmerischen Aufgaben\u00ab."
+                },
+                {
+                    "text": "Er half Krauss, aus einer eher ehrenamtlich betriebenen IT-Beratung ein Gesch\u00e4ft zu machen \u2013 die erste gemeinsame Firma."
+                },
+                {
+                    "text": "\u00bbAndr\u00e9 ist Realist, und was Zahlen und Gesch\u00e4ftssinn angeht, einfach exzellent\u00ab, sagt Krauss."
+                },
+                {
+                    "text": "Die Aufgabenteilung wiederholte sich bei Flix: Schw\u00e4mmlein ist der k\u00fchl rechnende Stratege, Krauss der Techie."
+                },
+                {
+                    "text": "\u00bbVerkehr funktioniert wie Gravitation\u00ab, sagt Krauss, ein Mann mit Hipsterbart und Hoodie."
+                },
+                {
+                    "text": "Die Eroberung planten sie pr\u00e4zise: Ist der Markt zug\u00e4nglich?"
+                },
+                {
+                    "text": "Und typische Start-up-Fehler hat Schw\u00e4mmlein bisher vermieden, es sei ihm wie wenigen anderen gelungen, \u00bbeine Firma zu gr\u00fcnden, sie gro\u00df zu machen und dann als etablierte Firma zu f\u00fchren\u00ab, lobt J\u00f6rn Nikolay, Partner beim Finanzinvestor General Atlantic, der mit rund 18 Prozent an Flix beteiligt ist."
+                }
+            ],
+            "occupations": [
+                {
+                    "text": "Techie"
+                },
+                {
+                    "text": "Wirtschaftsinformatiker"
+                }
+            ],
+            "directQuotes": [
+                {
+                    "text": "Verkehr funktioniert wie Gravitation"
+                },
+                {
+                    "text": "unternehmerischen Aufgaben"
+                },
+                {
+                    "text": "Andr\u00e9 ist Realist, und was Zahlen und Gesch\u00e4ftssinn angeht, einfach exzellent"
+                },
+                {
+                    "text": "sondern um etwas zu schaffen, das in 50 oder 100 Jahren noch da ist."
+                }
+            ],
+            "quotedInTitle": false,
+            "quotedInIntro": false
+        },
+        {
+            "name": "Andreas Scheuer",
+            "alternativeNames": [],
+            "age": -1,
+            "sex": "male",
+            "occurences": {
+                "total": 2,
+                "firstNameOnly": 1,
+                "lastNameOnly": 0,
+                "fullName": 1,
+                "nickname": 0
+            },
+            "inTitle": false,
+            "inIntro": false,
+            "_name": {
+                "firstname": "Andreas",
+                "lastname": "Scheuer",
+                "nickname": null,
+                "alternative_names": [],
+                "academic_title": null,
+                "nobility_title_or_rank": null
+            },
+            "descriptiveTexts": [
+                {
+                    "text": "\u00bbIn vielen privaten Busfirmen, meist in Familienbesitz, gibt es keine Betriebsr\u00e4te. Sie sind gewerkschaftlich nicht organisiert, und die Busfahrer sind Einzelk\u00e4mpfer\u00ab, sagt Andreas Schackert, Leiter der Fachgruppe Busse und Bahnen bei der Gewerkschaft Ver.di."
+                },
+                {
+                    "text": "Dem fr\u00fcheren Verkehrsminister Andreas Scheuer hat er mal einen ganzen Aktenordner in die Hand gedr\u00fcckt: der Konzessionsantrag f\u00fcr eine einzige neue Busstrecke."
+                }
+            ],
+            "occupations": [],
+            "directQuotes": [],
+            "quotedInTitle": false,
+            "quotedInIntro": false
+        },
+        {
+            "name": "Andreas Schackert",
+            "alternativeNames": [],
+            "age": -1,
+            "sex": "male",
+            "occurences": {
+                "total": 2,
+                "firstNameOnly": 1,
+                "lastNameOnly": 0,
+                "fullName": 1,
+                "nickname": 0
+            },
+            "inTitle": false,
+            "inIntro": false,
+            "_name": {
+                "firstname": "Andreas",
+                "lastname": "Schackert",
+                "nickname": null,
+                "alternative_names": [],
+                "academic_title": null,
+                "nobility_title_or_rank": null
+            },
+            "descriptiveTexts": [
+                {
+                    "text": "\u00bbIn vielen privaten Busfirmen, meist in Familienbesitz, gibt es keine Betriebsr\u00e4te. Sie sind gewerkschaftlich nicht organisiert, und die Busfahrer sind Einzelk\u00e4mpfer\u00ab, sagt Andreas Schackert, Leiter der Fachgruppe Busse und Bahnen bei der Gewerkschaft Ver.di."
+                },
+                {
+                    "text": "Dem fr\u00fcheren Verkehrsminister Andreas Scheuer hat er mal einen ganzen Aktenordner in die Hand gedr\u00fcckt: der Konzessionsantrag f\u00fcr eine einzige neue Busstrecke."
+                }
+            ],
+            "occupations": [
+                {
+                    "text": "In vielen privaten Busfirmen, meist in Familienbesitz, gibt es keine Betriebsr\u00e4te. Sie sind gewerkschaftlich nicht organisiert, und die Busfahrer sind Einzelk\u00e4mpfer"
+                },
+                {
+                    "text": "Leiter der Fachgruppe Busse und Bahnen bei der Gewerkschaft Ver.di"
+                }
+            ],
+            "directQuotes": [
+                {
+                    "text": "In vielen privaten Busfirmen, meist in Familienbesitz, gibt es keine Betriebsr\u00e4te. Sie sind gewerkschaftlich nicht organisiert, und die Busfahrer sind Einzelk\u00e4mpfer"
+                }
+            ],
+            "quotedInTitle": false,
+            "quotedInIntro": false
+        }
+    ]
+}

@@ -1,0 +1,79 @@
+{
+  "persons": [
+    {
+      "age": -1,
+      "alternativeNames": [],
+      "birthday": null,
+      "descriptiveTexts": [
+        {
+          "text": "Das Ergebnis: »Alarmstimmung« unter Volkswagens Topmanagern, wie manager-magazin-Redakteur Claas Tatje, der wichtige Akteure in Shanghai begleitet hat, in diesem Podcast berichtet."
+        },
+        {
+          "text": "manager-magazin-Redakteur Claas Tatje ist zur Leistungsschau der internationalen Autoelite gereist, zur Auto Shanghai."
+        },
+        {
+          "text": "Im Gespräch mit Chefredakteur Sven Clausen informiert er in diesem Podcast, wie BYD Volkswagen von der Spitzenposition verdrängen konnte, wie die Deutschen reagieren wollen und was das größte Risiko für ein erfolgreiches Comeback ist."
+        }
+      ],
+      "directQuotes": [],
+      "inIntro": true,
+      "inTitle": false,
+      "indirectQuotes": [],
+      "isMain": false,
+      "name": "Claas Tatje",
+      "occupations": [
+        {
+          "text": "manager-magazin-Redakteur"
+        }
+      ],
+      "occurrences": {
+        "firstNameOnly": 0,
+        "fullName": 2,
+        "lastNameOnly": 0,
+        "total": 2
+      },
+      "quotedInIntro": false,
+      "quotedInTitle": false,
+      "sex": "male"
+    },
+    {
+      "age": -1,
+      "alternativeNames": [],
+      "birthday": null,
+      "descriptiveTexts": [
+        {
+          "text": "Im Gespräch mit Chefredakteur Sven Clausen informiert er in diesem Podcast, wie BYD Volkswagen von der Spitzenposition verdrängen konnte, wie die Deutschen reagieren wollen und was das größte Risiko für ein erfolgreiches Comeback ist."
+        },
+        {
+          "text": "Im Podcast »Das Thema« informiert Chefredakteur Sven Clausen jede Woche über den internen Recherchestand zu einem relevanten aktuellen und zugleich zukunftsträchtigen Thema der Wirtschaft."
+        }
+      ],
+      "directQuotes": [],
+      "inIntro": false,
+      "inTitle": false,
+      "indirectQuotes": [],
+      "isMain": false,
+      "name": "Sven Clausen",
+      "occupations": [
+        {
+          "text": "Chefredakteur"
+        }
+      ],
+      "occurrences": {
+        "firstNameOnly": 0,
+        "fullName": 1,
+        "lastNameOnly": 0,
+        "total": 1
+      },
+      "quotedInIntro": false,
+      "quotedInTitle": false,
+      "sex": "male"
+    }
+  ],
+  "subtopics": [
+    "Unternehmen",
+    "Ausland",
+    "Podcast",
+    "Automobilindustrie"
+  ]
+}

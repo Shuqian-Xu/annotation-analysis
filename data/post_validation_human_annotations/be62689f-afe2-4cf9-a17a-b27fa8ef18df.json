@@ -1,0 +1,225 @@
+{
+	"persons": [
+		{
+			"age": -1,
+			"alternativeNames": [],
+			"birthday": null,
+			"descriptiveTexts": [
+				{
+					"text": "»Wenn man sich für ein Studium in einem Bundesland wie Thüringen entscheidet, sollte man sich auch aktiv dort einbringen und die Demokratie stützen«, sagt Burkhart von Scheven, Professor für Bild-Text-Konzeption an der Bauhaus-Universität Weimar und einer der Initiator:innen der Kampagne."
+				},
+				{
+					"text": "Viele Studierende würden sich nie oder erst verspätet an ihrem Studienort anmelden, oder dort nur ihren Zweitwohnsitz registrieren, sagt er."
+				},
+				{
+					"text": "Mittlerweile hätten sich die Präsidien sämtlicher staatlicher Hochschulen in Thüringen der Kampagne angeschlossen, sagt von Scheven."
+				},
+				{
+					"text": "Die »92 Tage«-Kampagne sei ausdrücklich nicht parteipolitisch angelegt, sagt Mitinitiator von Scheven."
+				},
+				{
+					"text": "»Das sind für uns absolute Grundsätze, ohne sie wird unsere Arbeit schwierig«, sagt von Scheven."
+				},
+				{
+					"text": "Und: »Natürlich will ich nicht leugnen, dass mir die Prognosen für die anstehenden Landtagswahlen persönlich Sorgen machen.«"
+				},
+				{
+					"text": "»Wir haben keine konkreten Zahlen zum Wählerpotenzial, aber wir wissen aus Gesprächen, dass es viele sind«, sagt von Scheven."
+				},
+				{
+					"text": "Von der Kampagne erwarte er allerdings keinen enormen Schwenk in den Wahlergebnissen."
+				},
+				{
+					"text": "Er sei vielmehr überzeugt, dass jeder Prozentpunkt an Wahlbeteiligung etwas grundsätzlich Positives sei."
+				},
+				{
+					"text": "Mitinitiator von Scheven sagt, er plane auch Gespräche mit den Hochschulen in Sachsen und Brandenburg."
+				}
+			],
+			"directQuotes": [
+				{
+					"text": "Wenn man sich für ein Studium in einem Bundesland wie Thüringen entscheidet, sollte man sich auch aktiv dort einbringen und die Demokratie stützen"
+				},
+				{
+					"text": "Das sind für uns absolute Grundsätze, ohne sie wird unsere Arbeit schwierig"
+				},
+				{
+					"text": "Natürlich will ich nicht leugnen, dass mir die Prognosen für die anstehenden Landtagswahlen persönlich Sorgen machen."
+				},
+				{
+					"text": "Wir haben keine konkreten Zahlen zum Wählerpotenzial, aber wir wissen aus Gesprächen, dass es viele sind"
+				},
+				{
+					"text": "Und jede Bewegung in eine uns genehme Richtung natürlich umso mehr."
+				}
+			],
+			"inIntro": false,
+			"inTitle": false,
+			"indirectQuotes": [
+				{
+					"text": "Viele Studierende würden sich nie oder erst verspätet an ihrem Studienort anmelden, oder dort nur ihren Zweitwohnsitz registrieren, sagt er."
+				},
+				{
+					"text": "Mittlerweile hätten sich die Präsidien sämtlicher staatlicher Hochschulen in Thüringen der Kampagne angeschlossen, sagt von Scheven."
+				},
+				{
+					"text": "Die »92 Tage«-Kampagne sei ausdrücklich nicht parteipolitisch angelegt, sagt Mitinitiator von Scheven."
+				},
+				{
+					"text": "Sehr wohl wollten die thüringischen Hochschulen aber darauf hinweisen, wie wichtig internationale Studierende und Dozierende seien, genau wie demokratische Grundwerte, Menschenrechte und Diversität."
+				},
+				{
+					"text": "Von der Kampagne erwarte er allerdings keinen enormen Schwenk in den Wahlergebnissen."
+				},
+				{
+					"text": "Er sei vielmehr überzeugt, dass jeder Prozentpunkt an Wahlbeteiligung etwas grundsätzlich Positives sei."
+				},
+				{
+					"text": "Mitinitiator von Scheven sagt, er plane auch Gespräche mit den Hochschulen in Sachsen und Brandenburg."
+				},
+				{
+					"text": "Die Idee hinter »92 Tage« sei zwar keine rein ostdeutsche, Wahlbeteiligung sei überall wichtig."
+				}
+			],
+			"isMain": true,
+			"name": "Burkhart von Scheven",
+			"occupations": [
+				{
+					"text": "Professor für Bild-Text-Konzeption an der Bauhaus-Universität Weimar"
+				},
+				{
+					"text": "Mitinitiator"
+				}
+			],
+			"occurrences": {
+				"firstNameOnly": 0,
+				"fullName": 1,
+				"lastNameOnly": 5,
+				"total": 6
+			},
+			"quotedInIntro": false,
+			"quotedInTitle": false,
+			"sex": "male"
+		},
+		{
+			"age": -1,
+			"alternativeNames": [],
+			"birthday": null,
+			"descriptiveTexts": [
+				{
+					"text": "Mit einer bloßen Wahlaufforderung werde das zwar nicht gebrochen, sagt der Politikwissenschaftler Wolfgang Merkel, trotzdem schätze er die Thüringer Aktion teils als problematisch ein."
+				},
+				{
+					"text": "Zwar gebe es gute, demokratische Gründe, sich am Hochschulort zur Wahl zu melden: Dort seien Studierende, anders als in ihren Heimatorten, etwa von den Entscheidungen in der Hochschulpolitik, in den Bereichen Straßenverkehr oder Wohnen betroffen, sagt Merkel."
+				},
+				{
+					"text": "Die Aktion erinnere ihn aber an frühere Kampagnen aus den Siebzigerjahren."
+				},
+				{
+					"text": "Nur seien die von linken Studierendengruppen ausgegangen, so Merkel."
+				},
+				{
+					"text": "Entscheidend sei für ihn, warum die Empfehlung zur Ummeldung ausgesprochen werde."
+				},
+				{
+					"text": "»Die Studenten sollen sich ja nicht ummelden, damit sie gute Bürger sind – das könnten sie auch in ihrem Heimatort sein«, sagt Merkel."
+				},
+				{
+					"text": "Und das wiederum sei aus seiner Sicht ein Problem, sagt Merkel."
+				},
+				{
+					"text": "Das als »Wahlbetrug« zu bezeichnen, so weit würde Politikwissenschaftler Merkel auf keinen Fall gehen."
+				},
+				{
+					"text": "Das sei zwar ihr Recht und aus seiner Sicht keine Manipulation, sagt Merkel, aber es könnte die ohnehin schon aufgeheizte Stimmung vor den Wahlen noch weiter verschlechtern."
+				},
+				{
+					"text": "Besser wäre, so Merkel, wenn sich die Studierenden nicht nur ummeldeten, um einmalig die Mehrheitsverhältnisse in den Stadträten, Kreistagen und im Landtag zu beeinflussen."
+				}
+			],
+			"directQuotes": [
+				{
+					"text": "Wo man sich aufhält, wo man Adressat politischer Entscheidungen ist, soll man mitbestimmen können."
+				},
+				{
+					"text": "Damals lautete die Botschaft: Meldet euch um, wir brauchen eure Stimmen für linke Positionen im Gemeinderat. Der große Unterschied ist, dass eine ähnliche Botschaft heute von einer staatlichen Institution kommt."
+				},
+				{
+					"text": "Die Studenten sollen sich ja nicht ummelden, damit sie gute Bürger sind – das könnten sie auch in ihrem Heimatort sein"
+				},
+				{
+					"text": "Es soll sich nur der Ort der Wahl ändern, und zwar deshalb, weil die AfD vor der Tür steht. Das will man mit der Aktion verhindern, auch wenn man es nicht explizit sagt."
+				},
+				{
+					"text": "allgemeine demokratische Camouflage"
+				},
+				{
+					"text": "Wahlbetrug"
+				},
+				{
+					"text": "Dann wäre das Demokratiepaket komplett. Niemand könnte ihnen absprechen, dass sie an der lokalen Gemeinschaft interessiert sind und deshalb an der politischen Entscheidungsfindung teilnehmen."
+				}
+			],
+			"inIntro": false,
+			"inTitle": false,
+			"indirectQuotes": [
+				{
+					"text": "Mit einer bloßen Wahlaufforderung werde das zwar nicht gebrochen, sagt der Politikwissenschaftler Wolfgang Merkel, trotzdem schätze er die Thüringer Aktion teils als problematisch ein."
+				},
+				{
+					"text": "Zwar gebe es gute, demokratische Gründe, sich am Hochschulort zur Wahl zu melden: Dort seien Studierende, anders als in ihren Heimatorten, etwa von den Entscheidungen in der Hochschulpolitik, in den Bereichen Straßenverkehr oder Wohnen betroffen, sagt Merkel."
+				},
+				{
+					"text": "Die Aktion erinnere ihn aber an frühere Kampagnen aus den Siebzigerjahren."
+				},
+				{
+					"text": "Nur seien die von linken Studierendengruppen ausgegangen, so Merkel."
+				},
+				{
+					"text": "Entscheidend sei für ihn, warum die Empfehlung zur Ummeldung ausgesprochen werde."
+				},
+				{
+					"text": "Und das wiederum sei aus seiner Sicht ein Problem, sagt Merkel."
+				},
+				{
+					"text": "Denn Institutionen wie Universitäten sollten sich nicht parteilich einmischen, da helfe auch eine »allgemeine demokratische Camouflage« nichts."
+				},
+				{
+					"text": "Das sei zwar ihr Recht und aus seiner Sicht keine Manipulation, sagt Merkel, aber es könnte die ohnehin schon aufgeheizte Stimmung vor den Wahlen noch weiter verschlechtern."
+				},
+				{
+					"text": "Und so möglicherweise der Partei nützen, die man verhindern wolle."
+				},
+				{
+					"text": "Besser wäre, so Merkel, wenn sich die Studierenden nicht nur ummeldeten, um einmalig die Mehrheitsverhältnisse in den Stadträten, Kreistagen und im Landtag zu beeinflussen."
+				},
+				{
+					"text": "Sondern wenn sie außerdem noch in Vereinen aktiv würden, in lokalen NGOs oder Parteien."
+				}
+			],
+			"isMain": true,
+			"name": "Wolfgang Merkel",
+			"occupations": [
+				{
+					"text": "Politikwissenschaftler"
+				}
+			],
+			"occurrences": {
+				"firstNameOnly": 0,
+				"fullName": 1,
+				"lastNameOnly": 7,
+				"total": 8
+			},
+			"quotedInIntro": false,
+			"quotedInTitle": false,
+			"sex": "male"
+		}
+	],
+	"subtopics": [
+		"Politik",
+		"Wahl",
+		"Hochschule",
+		"Thüringen",
+		"Kampagne"
+	]
+}

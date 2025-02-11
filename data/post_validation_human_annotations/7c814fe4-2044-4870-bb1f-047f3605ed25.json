@@ -1,0 +1,246 @@
+{
+  "persons": [
+  	{
+      "age": -1, 
+      "alternativeNames": [],
+      "birthday": null,
+      "descriptiveTexts": [
+        {
+          "text": "Aber die Sprecherin des Nationalen Sicherheitsrates im Weißen Haus, Adrienne Watson, erklärte am Freitag, die USA hätten ihre Informationen mit der russischen Regierung geteilt."
+        }
+      ],
+      "directQuotes": [],
+      "inIntro": false,
+      "inTitle": false,
+      "indirectQuotes": [
+        {
+          "text": "Aber die Sprecherin des Nationalen Sicherheitsrates im Weißen Haus, Adrienne Watson, erklärte am Freitag, die USA hätten ihre Informationen mit der russischen Regierung geteilt."
+        }
+      ],
+      "isMain": false,
+      "name": "Adrienne Watson",
+      "occupations": [
+        {
+          "text": "Sprecherin des Nationalen Sicherheitsrates im Weißen Haus"
+        }
+      ],
+      "occurences": {
+        "firstNameOnly": 0,
+        "fullName": 1,
+        "lastNameOnly": 0,
+        "total": 1
+      },
+      "quotedInIntro": false,
+      "quotedInTitle": false,
+      "sex": "female"
+    },
+    {
+      "age": 71, 
+      "alternativeNames": [],
+      "birthday": null,
+      "descriptiveTexts": [
+        {
+          "text": "Putin hatte die Warnung noch am Dienstag mit höhnischer Verachtung diskreditiert"
+        },
+        {
+          "text": "Präsident Wladimir Putin hatte die Warnung jedoch noch am Dienstag mit höhnischer Verachtung diskreditiert."
+        },
+        {
+          "text": "Die Berichte, so der frühere Geheimdienstler, seien eine Provokation der Amerikaner: Es gehe Washington um »offene Erpressung und die Absicht, unsere Gesellschaft einzuschüchtern und zu destabilisieren«."
+        },
+        {
+          "text": "Nach den von al-Qaida verübten Terroranschlägen vom 11. September 2001 war Wladimir Putin der erste ausländische Staatschef, der den damaligen US-Präsidenten George W. Bush anrief, um ihm Unterstützung zuzusichern."
+        },
+        {
+          "text": "Putin im Nebel der Desinformation"
+        },
+        {
+          "text": "Im Dezember 2019 dankte Putin dem damaligen US-Präsidenten Donald Trump für die Übermittlung von Geheimdienstinformationen, mithilfe derer es gelungen sei, eine Attacke in Sankt Petersburg zu verhindern."
+        },
+        {
+          "text": "Trump und Putin sprachen beide intuitiv die Sprache der autoritären Stärke, kamen miteinander zurecht."
+        },
+        {
+          "text": "Zudem hatte die Coronapandemie noch nicht begonnen, während der Russlands Präsident sich in einer ideologischen Blase abschottete, in der nur noch opportune Nachrichten akzeptable Nachrichten waren."
+        },
+        {
+          "text": "Auf Basis dieser Informationsdiät gedachte Putin die Ukraine im Februar 2022 bekanntlich binnen weniger Tage zu erobern."
+        },
+        {
+          "text": "Gut möglich, dass Putin das nicht wahrhaben wollte."
+        },
+        {
+          "text": "Der 71-Jährige, sozialisiert im paranoiden sowjetischen Tschekistenstaat, sieht sich im Krieg gegen den »kollektiven Westen«."
+        }
+      ],
+      "directQuotes": [
+        {
+          "text": "offene Erpressung und die Absicht, unsere Gesellschaft einzuschüchtern und zu destabilisieren"
+        }
+      ],
+      "inIntro": false,
+      "inTitle": false,
+      "indirectQuotes": [
+        {
+          "text": "Die Berichte, so der frühere Geheimdienstler, seien eine Provokation der Amerikaner: Es gehe Washington um »offene Erpressung und die Absicht, unsere Gesellschaft einzuschüchtern und zu destabilisieren«."
+        },
+        {
+          "text": "Im Dezember 2019 dankte Putin dem damaligen US-Präsidenten Donald Trump für die Übermittlung von Geheimdienstinformationen, mithilfe derer es gelungen sei, eine Attacke in Sankt Petersburg zu verhindern."
+        }
+      ],
+      "isMain": true,
+      "name": "Wladimir Putin",
+      "occupations": [
+        {
+          "text": "Präsident"
+        },
+        {
+          "text": "Geheimdienstler"
+        },
+        {
+          "text": "Russlands Präsident"
+        }
+      ],
+      "occurences": {
+        "firstNameOnly": 0,
+        "fullName": 2,
+        "lastNameOnly": 6,
+        "total": 8
+      },
+      "quotedInIntro": false,
+      "quotedInTitle": false,
+      "sex": "male"
+    },
+    
+    {
+      "age": -1, 
+      "alternativeNames": [],
+      "birthday": null,
+      "descriptiveTexts": [
+        {
+          "text": "Der russische Angriffskrieg gegen die Ukraine und die faktische Geiselnahme von US-Staatsbürgern wie dem Journalisten Evan Gershkovich haben das Verhältnis nahezu ruiniert."
+        }
+      ],
+      "directQuotes": [],
+      "inIntro": false,
+      "inTitle": false,
+      "indirectQuotes": [],
+      "isMain": false,
+      "name": "Evan Gershkovich",
+      "occupations": [
+        {
+          "text": "Journalisten"
+        }
+      ],
+      "occurences": {
+        "firstNameOnly": 0,
+        "fullName": 1,
+        "lastNameOnly": 0,
+        "total": 1
+      },
+      "quotedInIntro": false,
+      "quotedInTitle": false,
+      "sex": "male"
+    },
+    {
+      "age": -1, 
+      "alternativeNames": [],
+      "birthday": null,
+      "descriptiveTexts": [
+        {
+          "text": "Vor zwei tödlichen Anschlägen im Januar auf eine Gedenkveranstaltung zu Ehren des früheren iranischen Topgenerals Qasem Soleimani hatten die USA Teheran vergeblich alarmiert."
+        },
+        {
+          "text": "Dabei hatten die Amerikaner Soleimani nicht nur vier Jahre zuvor selbst mit einem Drohnenschlag getötet, sondern unterhalten seit 1979 keinerlei diplomatische Beziehungen zu dem westasiatischen Land."
+        }
+      ],
+      "directQuotes": [],
+      "inIntro": false,
+      "inTitle": false,
+      "indirectQuotes": [],
+      "isMain": false,
+      "name": "Qasem Soleimani",
+      "occupations": [
+        {
+          "text": "früheren iranischen Topgenerals"
+        }
+      ],
+      "occurences": {
+        "firstNameOnly": 0,
+        "fullName": 1,
+        "lastNameOnly": 1,
+        "total": 2
+      },
+      "quotedInIntro": false,
+      "quotedInTitle": false,
+      "sex": "male"
+    },
+    {
+      "age": -1, 
+      "alternativeNames": [],
+      "birthday": null,
+      "descriptiveTexts": [
+        {
+          "text": "Nach den von al-Qaida verübten Terroranschlägen vom 11. September 2001 war Wladimir Putin der erste ausländische Staatschef, der den damaligen US-Präsidenten George W. Bush anrief, um ihm Unterstützung zuzusichern."
+        }
+      ],
+      "directQuotes": [],
+      "inIntro": false,
+      "inTitle": false,
+      "indirectQuotes": [],
+      "isMain": false,
+      "name": "George W. Bush",
+      "occupations": [
+        {
+          "text": "damaligen US-Präsidenten"
+        }
+      ],
+      "occurences": {
+        "firstNameOnly": 0,
+        "fullName": 1,
+        "lastNameOnly": 0,
+        "total": 1
+      },
+      "quotedInIntro": false,
+      "quotedInTitle": false,
+      "sex": "male"
+    },
+    {
+      "age": -1, 
+      "alternativeNames": [],
+      "birthday": null,
+      "descriptiveTexts": [
+        {
+          "text": "Im Dezember 2019 dankte Putin dem damaligen US-Präsidenten Donald Trump für die Übermittlung von Geheimdienstinformationen, mithilfe derer es gelungen sei, eine Attacke in Sankt Petersburg zu verhindern."
+        },
+        {
+          "text": "Trump und Putin sprachen beide intuitiv die Sprache der autoritären Stärke, kamen miteinander zurecht."
+        }
+      ],
+      "directQuotes": [],
+      "inIntro": false,
+      "inTitle": false,
+      "indirectQuotes": [],
+      "isMain": false,
+      "name": "Donald Trump",
+      "occupations": [
+        {
+          "text": "damaligen US-Präsidenten"
+        }
+      ],
+      "occurences": {
+        "firstNameOnly": 0,
+        "fullName": 1,
+        "lastNameOnly": 1,
+        "total": 2
+      },
+      "quotedInIntro": false,
+      "quotedInTitle": false,
+      "sex": "male"
+    }
+  ],
+  "subtopics": [
+    "Terror", "Geheimdienst", "Diplomatie", "Russland",
+      "USA"
+  ]
+}

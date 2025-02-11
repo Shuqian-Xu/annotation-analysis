@@ -1,0 +1,174 @@
+{
+  "persons": [
+    {
+      "age": 66,
+      "alternativeNames": [],
+      "birthday": null,
+      "descriptiveTexts": [
+        {
+          "text": "Kugelgrills und Firlefanz – wie die TV-Stars Georg Kofler und Ralf Dümmel Privatanleger blenden konnten"
+        },
+        {
+          "text": "Der Börsenabsturz der Unternehmer Kofler und Dümmel ist ein Lehrstück, wie sich Blendwerk von echter unternehmerischer Substanz unterscheiden lässt."
+        },
+        {
+          "text": "Mit ihren wolkigen Versprechungen trieben Georg Kofler (66) und Ralf Dümmel (56) den Börsenwert ihrer Social Chain AG zwischenzeitlich auf 800 Millionen Euro."
+        },
+        {
+          "text": "Ihre Glaubwürdigkeit bezogen Kofler und Dümmel aus ihrer Rolle als Juroren der TV-Show »Höhle der Löwen«."
+        },
+        {
+          "text": "Inzwischen hat die beiden – und vor allem die vielen Privatanlegerinnen und Privatanleger - die Wirklichkeit eingeholt."
+        },
+        {
+          "text": "Wie sind Kofler und Dümmel dabei vorgegangen, wie lässt sich derartiges Blendwerk enttarnen?"
+        }
+      ],
+      "directQuotes": [],
+      "inIntro": true,
+      "inTitle": true,
+      "indirectQuotes": [],
+      "isMain": true,
+      "name": "Georg Kofler",
+      "occupations": [
+        {
+          "text": "TV-Stars"
+        },
+        {
+          "text": "Unternehmer"
+        },
+        {
+          "text": "Juroren der TV-Show »Höhle der Löwen«"
+        }
+      ],
+      "occurrences": {
+        "firstNameOnly": 0,
+        "fullName": 2,
+        "lastNameOnly": 3,
+        "total": 5
+      },
+      "quotedInIntro": false,
+      "quotedInTitle": false,
+      "sex": "male"
+    },
+    {
+      "age": 56,
+      "alternativeNames": [],
+      "birthday": null,
+      "descriptiveTexts": [
+        {
+          "text": "Kugelgrills und Firlefanz – wie die TV-Stars Georg Kofler und Ralf Dümmel Privatanleger blenden konnten"
+        },
+        {
+          "text": "Der Börsenabsturz der Unternehmer Kofler und Dümmel ist ein Lehrstück, wie sich Blendwerk von echter unternehmerischer Substanz unterscheiden lässt."
+        },
+        {
+          "text": "Mit ihren wolkigen Versprechungen trieben Georg Kofler (66) und Ralf Dümmel (56) den Börsenwert ihrer Social Chain AG zwischenzeitlich auf 800 Millionen Euro."
+        },
+        {
+          "text": "Ihre Glaubwürdigkeit bezogen Kofler und Dümmel aus ihrer Rolle als Juroren der TV-Show »Höhle der Löwen«."
+        },
+        {
+          "text": "Inzwischen hat die beiden – und vor allem die vielen Privatanlegerinnen und Privatanleger - die Wirklichkeit eingeholt."
+        },
+        {
+          "text": "Wie sind Kofler und Dümmel dabei vorgegangen, wie lässt sich derartiges Blendwerk enttarnen?"
+        }
+      ],
+      "directQuotes": [],
+      "inIntro": true,
+      "inTitle": true,
+      "indirectQuotes": [],
+      "isMain": true,
+      "name": "Ralf Dümmel",
+      "occupations": [
+        {
+          "text": "TV-Stars"
+        },
+        {
+          "text": "Unternehmer"
+        },
+        {
+          "text": "Juroren der TV-Show »Höhle der Löwen«"
+        }
+      ],
+      "occurrences": {
+        "firstNameOnly": 0,
+        "fullName": 2,
+        "lastNameOnly": 3,
+        "total": 5
+      },
+      "quotedInIntro": false,
+      "quotedInTitle": false,
+      "sex": "male"
+    },
+    {
+      "age": -1,
+      "alternativeNames": [],
+      "birthday": null,
+      "descriptiveTexts": [
+        {
+          "text": "Darüber informiert in diesem Podcast Jonas Rest, Start-ups-Reporter des manager magazins, im Gespräch mit Chefredakteur Sven Clausen."
+        }
+      ],
+      "directQuotes": [],
+      "inIntro": false,
+      "inTitle": false,
+      "indirectQuotes": [],
+      "isMain": false,
+      "name": "Jonas Rest",
+      "occupations": [
+        {
+          "text": "Start-ups-Reporter des manager magazins"
+        }
+      ],
+      "occurrences": {
+        "firstNameOnly": 0,
+        "fullName": 1,
+        "lastNameOnly": 0,
+        "total": 1
+      },
+      "quotedInIntro": false,
+      "quotedInTitle": false,
+      "sex": "male"
+    },
+    {
+      "age": -1,
+      "alternativeNames": [],
+      "birthday": null,
+      "descriptiveTexts": [
+        {
+          "text": "Darüber informiert in diesem Podcast Jonas Rest, Start-ups-Reporter des manager magazins, im Gespräch mit Chefredakteur Sven Clausen."
+        },
+        {
+          "text": "Im Podcast »Das Thema« informiert Chefredakteur Sven Clausen jede Woche über den internen Recherchestand zu einem relevanten aktuellen und zugleich zukunftsträchtigen Thema der Wirtschaft."
+        }
+      ],
+      "directQuotes": [],
+      "inIntro": false,
+      "inTitle": false,
+      "indirectQuotes": [],
+      "isMain": false,
+      "name": "Sven Clausen",
+      "occupations": [
+        {
+          "text": "Chefredakteur"
+        }
+      ],
+      "occurrences": {
+        "firstNameOnly": 0,
+        "fullName": 2,
+        "lastNameOnly": 0,
+        "total": 2
+      },
+      "quotedInIntro": false,
+      "quotedInTitle": false,
+      "sex": "male"
+    }
+  ],
+  "subtopics": [
+    "Unternehmen",
+    "Wirtschaft",
+    "Verkehr"
+  ]
+}

@@ -1,0 +1,490 @@
+{
+	"persons": [
+		{
+			"age": -1,
+			"alternativeNames": [],
+			"birthday": null,
+			"descriptiveTexts": [
+				{
+					"text": "Erst kamen die Kansas City Chiefs um Patrick Mahomes und Travis Kelce nicht in Fahrt, dann entschied der alte und neue NFL-Champion den Super Bowl drei Sekunden vor Schluss."
+				},
+				{
+					"text": "»Kansas City, ich sehe euch bei der Parade«, brüllte Patrick Mahomes beim Sieger-Interview auf dem Platz ins Mikrofon."
+				},
+				{
+					"text": "Wie schon vor vier Jahren waren der Quarterback und seine Chiefs die Sieger des Finalduells gegen die 49ers."
+				},
+				{
+					"text": "Damals hatten sie in Miami das Endspiel 31:20 gewonnen."
+				},
+				{
+					"text": "Nun gewannen Mahomes und Co. bereits ihren dritten Super Bowl innerhalb von fünf Jahren."
+				},
+				{
+					"text": "Und sie sind durch den Sieg von Las Vegas zugleich der erste Verein seit den New England Patriots 2005, der seinen Titel verteidigen konnte."
+				},
+				{
+					"text": "Sie sind nun aber vor allem: eine Dynastie."
+				},
+				{
+					"text": "Und seit diesem 11. Februar 2024 sind die von Patrick Mahomes und Travis Kelce angeführten und von Andy Reid trainierten Kansas City Chiefs die neue Dynastie der Liga."
+				},
+				{
+					"text": "Allerdings war dieser dritte Titel der schwerste – oder wie Mahomes meinte: »der Außergewöhnlichste«."
+				},
+				{
+					"text": "Nur 11:6 lautete diesmal die Bilanz nach der Punktrunde – so schlecht, wie noch nie in der Mahomes-Ära."
+				},
+				{
+					"text": "»Wir haben uns durchgekämpft und sind so am Ende besser geworden«, bilanzierte Mahomes."
+				},
+				{
+					"text": "Und die von Mahomes angeführte Offensive des Titelverteidigers aus Kansas City fand keinen Rhythmus."
+				},
+				{
+					"text": "Auch hier waren nur noch drei Sekunden zu spielen, führte San Francisco 22:19, ehe Mahomes den frei stehenden Mecole Hardman fand und der Wide Receiver das Match mit einem Touchdown zum 25:22-Sieg der Chiefs beendete."
+				},
+				{
+					"text": "»Wir könnten es zwar auch manchmal einfacher machen – aber das macht doch keinen Spaß«, meinte Mahomes."
+				},
+				{
+					"text": "Er verließ den Rasen erneut mit zwei Trophäen."
+				},
+				{
+					"text": "Wie schon bei den beiden anderen Super-Bowl-Siegen seiner Chiefs wurde der Spielmacher als »MVP« des Finals ausgezeichnet."
+				}
+			],
+			"directQuotes": [
+				{
+					"text": "Kansas City, ich sehe euch bei der Parade"
+				},
+				{
+					"text": "der Außergewöhnlichste"
+				},
+				{
+					"text": "Wir haben uns durchgekämpft und sind so am Ende besser geworden"
+				},
+				{
+					"text": "Wir könnten es zwar auch manchmal einfacher machen – aber das macht doch keinen Spaß"
+				}
+			],
+			"inIntro": true,
+			"inTitle": true,
+			"indirectQuotes": [],
+			"isMain": true,
+			"name": "Patrick Mahomes",
+			"occupations": [
+				{
+					"text": "Quarterback"
+				},
+				{
+					"text": "Spielmacher"
+				}
+			],
+			"occurrences": {
+				"firstNameOnly": 0,
+				"fullName": 3,
+				"lastNameOnly": 7,
+				"total": 10
+			},
+			"quotedInIntro": false,
+			"quotedInTitle": true,
+			"sex": "male"
+		},
+		{
+			"age": -1,
+			"alternativeNames": [],
+			"birthday": null,
+			"descriptiveTexts": [
+				{
+					"text": "Erst kamen die Kansas City Chiefs um Patrick Mahomes und Travis Kelce nicht in Fahrt, dann entschied der alte und neue NFL-Champion den Super Bowl drei Sekunden vor Schluss."
+				},
+				{
+					"text": "Und seit diesem 11. Februar 2024 sind die von Patrick Mahomes und Travis Kelce angeführten und von Andy Reid trainierten Kansas City Chiefs die neue Dynastie der Liga."
+				},
+				{
+					"text": "Kelce drückte es etwas rauer, direkter und lauter aus: »You gotta fight for your right to party!«, schrie er ins Mikrofon von Interviewer Jim Nantz in Anlehnung an den gleichnamigen Song der »Beastie Boys«."
+				},
+				{
+					"text": "Doch also Swift da unten auf dem Rasen stand und zu ihrem Travis hochschaute, der die Vince Lombardy Trophy auf einer Bühne gen Hallendecke reckte, da wirkte sie fast so beeindruckt und angetan, wie es Millionen Swifties, wie ihre Fans genannt werden, bei den Konzerten von ihr sind."
+				},
+				{
+					"text": "Seine Freundin, Taylor Swift, stand wie viele andere aus dem Familien- und Freundeskreis der Spieler auf dem mit Konfetti übersäten Rasen."
+				}
+			],
+			"directQuotes": [
+				{
+					"text": "You gotta fight for your right to party!"
+				}
+			],
+			"inIntro": true,
+			"inTitle": false,
+			"indirectQuotes": [],
+			"isMain": false,
+			"name": "Travis Kelce",
+			"occupations": [],
+			"occurrences": {
+				"firstNameOnly": 1,
+				"fullName": 2,
+				"lastNameOnly": 1,
+				"total": 4
+			},
+			"quotedInIntro": false,
+			"quotedInTitle": false,
+			"sex": "male"
+		},
+		{
+			"age": 34,
+			"alternativeNames": [],
+			"birthday": null,
+			"descriptiveTexts": [
+				{
+					"text": "Sehr zur Freude von Taylor Swift."
+				},
+				{
+					"text": "Seine Freundin, Taylor Swift, stand wie viele andere aus dem Familien- und Freundeskreis der Spieler auf dem mit Konfetti übersäten Rasen."
+				},
+				{
+					"text": "Sie war die aktuell wohl Bekannteste unter den vielen Celebrities (Leonardo DiCaprio, Justin Bieber, Paul McCartney, Kelly Clarkson, Ariana Grande und andere) an diesem Abend im Allegiant Stadium."
+				},
+				{
+					"text": "Und sie war das große Gesprächsthema im Vorfeld dieses Super Bowl LVIII."
+				},
+				{
+					"text": "Ob es die Popikone nach ihrem Konzert am Vorabend in Tokio pünktlich zum Spielbeginn nach Las Vegas schaffen würde, war für viele Medien sogar wichtiger als sportliche Fragen zu Amerikas Sporthighlight des Jahres."
+				},
+				{
+					"text": "Doch also Swift da unten auf dem Rasen stand und zu ihrem Travis hochschaute, der die Vince Lombardy Trophy auf einer Bühne gen Hallendecke reckte, da wirkte sie fast so beeindruckt und angetan, wie es Millionen Swifties, wie ihre Fans genannt werden, bei den Konzerten von ihr sind."
+				},
+				{
+					"text": "Die 34-Jährige war trotz des Hypes nur ein Nebeneffekt dieses Endspiels."
+				}
+			],
+			"directQuotes": [],
+			"inIntro": true,
+			"inTitle": false,
+			"indirectQuotes": [],
+			"isMain": false,
+			"name": "Taylor Swift",
+			"occupations": [
+				{
+					"text": "Popikone"
+				},
+				{
+					"text": "Freundin"
+				}
+			],
+			"occurrences": {
+				"firstNameOnly": 0,
+				"fullName": 2,
+				"lastNameOnly": 1,
+				"total": 3
+			},
+			"quotedInIntro": false,
+			"quotedInTitle": false,
+			"sex": "female"
+		},
+		{
+			"age": -1,
+			"alternativeNames": [],
+			"birthday": null,
+			"descriptiveTexts": [
+				{
+					"text": "Und seit diesem 11. Februar 2024 sind die von Patrick Mahomes und Travis Kelce angeführten und von Andy Reid trainierten Kansas City Chiefs die neue Dynastie der Liga."
+				}
+			],
+			"directQuotes": [],
+			"inIntro": false,
+			"inTitle": false,
+			"indirectQuotes": [],
+			"isMain": false,
+			"name": "Andy Reid",
+			"occupations": [],
+			"occurrences": {
+				"firstNameOnly": 0,
+				"fullName": 1,
+				"lastNameOnly": 0,
+				"total": 1
+			},
+			"quotedInIntro": false,
+			"quotedInTitle": false,
+			"sex": "male"
+		},
+		{
+			"age": -1,
+			"alternativeNames": [],
+			"birthday": null,
+			"descriptiveTexts": [
+				{
+					"text": "Letztere waren die beste Mannschaft der Punktrunde – und hatten mit Quarterback Lamar Jackson auch den »wertvollsten Spieler«, (MVP) der sogenannten regular season."
+				}
+			],
+			"directQuotes": [],
+			"inIntro": false,
+			"inTitle": false,
+			"indirectQuotes": [],
+			"isMain": false,
+			"name": "Lamar Jackson",
+			"occupations": [
+				{
+					"text": "Quarterback"
+				}
+			],
+			"occurrences": {
+				"firstNameOnly": 0,
+				"fullName": 1,
+				"lastNameOnly": 0,
+				"total": 1
+			},
+			"quotedInIntro": false,
+			"quotedInTitle": false,
+			"sex": "male"
+		},
+		{
+			"age": -1,
+			"alternativeNames": [],
+			"birthday": null,
+			"descriptiveTexts": [
+				{
+					"text": "Kelce drückte es etwas rauer, direkter und lauter aus: »You gotta fight for your right to party!«, schrie er ins Mikrofon von Interviewer Jim Nantz in Anlehnung an den gleichnamigen Song der »Beastie Boys«."
+				}
+			],
+			"directQuotes": [],
+			"inIntro": false,
+			"inTitle": false,
+			"indirectQuotes": [],
+			"isMain": false,
+			"name": "Jim Nantz",
+			"occupations": [
+				{
+					"text": "Interviewer"
+				}
+			],
+			"occurrences": {
+				"firstNameOnly": 0,
+				"fullName": 1,
+				"lastNameOnly": 0,
+				"total": 1
+			},
+			"quotedInIntro": false,
+			"quotedInTitle": false,
+			"sex": "male"
+		},
+		{
+			"age": -1,
+			"alternativeNames": [],
+			"birthday": null,
+			"descriptiveTexts": [
+				{
+					"text": "Sie war die aktuell wohl Bekannteste unter den vielen Celebrities (Leonardo DiCaprio, Justin Bieber, Paul McCartney, Kelly Clarkson, Ariana Grande und andere) an diesem Abend im Allegiant Stadium."
+				}
+			],
+			"directQuotes": [],
+			"inIntro": false,
+			"inTitle": false,
+			"indirectQuotes": [],
+			"isMain": false,
+			"name": "Leonardo DiCaprio",
+			"occupations": [
+				{
+					"text": "Celebrities"
+				}
+			],
+			"occurrences": {
+				"firstNameOnly": 0,
+				"fullName": 1,
+				"lastNameOnly": 0,
+				"total": 1
+			},
+			"quotedInIntro": false,
+			"quotedInTitle": false,
+			"sex": "male"
+		},
+		{
+			"age": -1,
+			"alternativeNames": [],
+			"birthday": null,
+			"descriptiveTexts": [
+				{
+					"text": "Sie war die aktuell wohl Bekannteste unter den vielen Celebrities (Leonardo DiCaprio, Justin Bieber, Paul McCartney, Kelly Clarkson, Ariana Grande und andere) an diesem Abend im Allegiant Stadium."
+				}
+			],
+			"directQuotes": [],
+			"inIntro": false,
+			"inTitle": false,
+			"indirectQuotes": [],
+			"isMain": false,
+			"name": "Justin Bieber",
+			"occupations": [
+				{
+					"text": "Celebrities"
+				}
+			],
+			"occurrences": {
+				"firstNameOnly": 0,
+				"fullName": 1,
+				"lastNameOnly": 0,
+				"total": 1
+			},
+			"quotedInIntro": false,
+			"quotedInTitle": false,
+			"sex": "male"
+		},
+		{
+			"age": -1,
+			"alternativeNames": [],
+			"birthday": null,
+			"descriptiveTexts": [
+				{
+					"text": "Sie war die aktuell wohl Bekannteste unter den vielen Celebrities (Leonardo DiCaprio, Justin Bieber, Paul McCartney, Kelly Clarkson, Ariana Grande und andere) an diesem Abend im Allegiant Stadium."
+				}
+			],
+			"directQuotes": [],
+			"inIntro": false,
+			"inTitle": false,
+			"indirectQuotes": [],
+			"isMain": false,
+			"name": "Paul McCartney",
+			"occupations": [
+				{
+					"text": "Celebrities"
+				}
+			],
+			"occurrences": {
+				"firstNameOnly": 0,
+				"fullName": 1,
+				"lastNameOnly": 0,
+				"total": 1
+			},
+			"quotedInIntro": false,
+			"quotedInTitle": false,
+			"sex": "male"
+		},
+		{
+			"age": -1,
+			"alternativeNames": [],
+			"birthday": null,
+			"descriptiveTexts": [
+				{
+					"text": "Sie war die aktuell wohl Bekannteste unter den vielen Celebrities (Leonardo DiCaprio, Justin Bieber, Paul McCartney, Kelly Clarkson, Ariana Grande und andere) an diesem Abend im Allegiant Stadium."
+				}
+			],
+			"directQuotes": [],
+			"inIntro": false,
+			"inTitle": false,
+			"indirectQuotes": [],
+			"isMain": false,
+			"name": "Kelly Clarkson",
+			"occupations": [
+				{
+					"text": "Celebrities"
+				}
+			],
+			"occurrences": {
+				"firstNameOnly": 0,
+				"fullName": 1,
+				"lastNameOnly": 0,
+				"total": 1
+			},
+			"quotedInIntro": false,
+			"quotedInTitle": false,
+			"sex": "female"
+		},
+		{
+			"age": -1,
+			"alternativeNames": [],
+			"birthday": null,
+			"descriptiveTexts": [
+				{
+					"text": "Sie war die aktuell wohl Bekannteste unter den vielen Celebrities (Leonardo DiCaprio, Justin Bieber, Paul McCartney, Kelly Clarkson, Ariana Grande und andere) an diesem Abend im Allegiant Stadium."
+				}
+			],
+			"directQuotes": [],
+			"inIntro": false,
+			"inTitle": false,
+			"indirectQuotes": [],
+			"isMain": false,
+			"name": "Ariana Grande",
+			"occupations": [
+				{
+					"text": "Celebrities"
+				}
+			],
+			"occurrences": {
+				"firstNameOnly": 0,
+				"fullName": 1,
+				"lastNameOnly": 0,
+				"total": 1
+			},
+			"quotedInIntro": false,
+			"quotedInTitle": false,
+			"sex": "female"
+		},
+		{
+			"age": -1,
+			"alternativeNames": [],
+			"birthday": null,
+			"descriptiveTexts": [
+				{
+					"text": "Drei Sekunden vor Ende der 60 Minuten glich Chiefs-Kicker Harrison Butker mit einem verwandelten Field Goal die 19:16-Führung der 49ers aus."
+				}
+			],
+			"directQuotes": [],
+			"inIntro": false,
+			"inTitle": false,
+			"indirectQuotes": [],
+			"isMain": false,
+			"name": "Harrison Butker",
+			"occupations": [
+				{
+					"text": "Chiefs-Kicker"
+				}
+			],
+			"occurrences": {
+				"firstNameOnly": 0,
+				"fullName": 1,
+				"lastNameOnly": 0,
+				"total": 1
+			},
+			"quotedInIntro": false,
+			"quotedInTitle": false,
+			"sex": "male"
+		},
+		{
+			"age": -1,
+			"alternativeNames": [],
+			"birthday": null,
+			"descriptiveTexts": [
+				{
+					"text": "Auch hier waren nur noch drei Sekunden zu spielen, führte San Francisco 22:19, ehe Mahomes den frei stehenden Mecole Hardman fand und der Wide Receiver das Match mit einem Touchdown zum 25:22-Sieg der Chiefs beendete."
+				}
+			],
+			"directQuotes": [],
+			"inIntro": false,
+			"inTitle": false,
+			"indirectQuotes": [],
+			"isMain": false,
+			"name": "Mecole Hardman",
+			"occupations": [
+				{
+					"text": "Wide Receiver"
+				}
+			],
+			"occurrences": {
+				"firstNameOnly": 0,
+				"fullName": 1,
+				"lastNameOnly": 0,
+				"total": 1
+			},
+			"quotedInIntro": false,
+			"quotedInTitle": false,
+			"sex": "male"
+		}
+	],
+	"subtopics": [
+		"SuperBowl",
+		"NFL",
+		"Prominente",
+		"MVP"
+	]
+}

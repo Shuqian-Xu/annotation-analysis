@@ -1,0 +1,646 @@
+{
+	"persons": [
+		{
+			"age": -1,
+			"alternativeNames": [],
+			"birthday": null,
+			"descriptiveTexts": [
+				{
+					"text": "Konzernchef Oliver Blume hat die krisengeplagte Softwaretochter Cariad gleich nach Amtsantritt zu einem seiner zentralen Projekte erhoben, ihr neue Struktur und Führung verpasst."
+				},
+				{
+					"text": "Und offenbar ist das Vertrauen in die Dramatochter so gering, dass Blume jetzt daheim ein Solo startet: Der CEO, der von Porsche kam und dort weiterhin parallel Chef ist, lässt Porsche eine eigene Software entwickeln, hat mein Kollege Michael Freitag recherchiert."
+				}
+			],
+			"directQuotes": [],
+			"inIntro": false,
+			"inTitle": false,
+			"indirectQuotes": [],
+			"isMain": false,
+			"name": "Oliver Blume",
+			"occupations": [
+				{
+					"text": "Konzernchef"
+				}
+			],
+			"occurrences": {
+				"firstNameOnly": 0,
+				"fullName": 1,
+				"lastNameOnly": 1,
+				"total": 2
+			},
+			"quotedInIntro": false,
+			"quotedInTitle": false,
+			"sex": "male"
+		},
+		{
+			"age": -1,
+			"alternativeNames": [],
+			"birthday": null,
+			"descriptiveTexts": [
+				{
+					"text": "Und offenbar ist das Vertrauen in die Dramatochter so gering, dass Blume jetzt daheim ein Solo startet: Der CEO, der von Porsche kam und dort weiterhin parallel Chef ist, lässt Porsche eine eigene Software entwickeln, hat mein Kollege Michael Freitag recherchiert."
+				}
+			],
+			"directQuotes": [],
+			"inIntro": false,
+			"inTitle": false,
+			"indirectQuotes": [],
+			"isMain": false,
+			"name": "Michael Freitag",
+			"occupations": [
+				{
+					"text": "Kollege"
+				}
+			],
+			"occurrences": {
+				"firstNameOnly": 0,
+				"fullName": 1,
+				"lastNameOnly": 0,
+				"total": 1
+			},
+			"quotedInIntro": false,
+			"quotedInTitle": false,
+			"sex": "male"
+		},
+		{
+			"age": -1,
+			"alternativeNames": [],
+			"birthday": null,
+			"descriptiveTexts": [
+				{
+					"text": "Bei den Gesprächen mit Chinas neuem Premier Li Qiang, der gestern in Berlin auch mehrere CEOs traf und heute in München BMW und Siemens besuchte, wird das kein Thema gewesen sein."
+				}
+			],
+			"directQuotes": [],
+			"inIntro": false,
+			"inTitle": false,
+			"indirectQuotes": [],
+			"isMain": false,
+			"name": "Li Qiang",
+			"occupations": [
+				{
+					"text": "Chinas neuem Premier"
+				}
+			],
+			"occurrences": {
+				"firstNameOnly": 0,
+				"fullName": 1,
+				"lastNameOnly": 0,
+				"total": 1
+			},
+			"quotedInIntro": false,
+			"quotedInTitle": false,
+			"sex": "male"
+		},
+		{
+			"age": -1,
+			"alternativeNames": [],
+			"birthday": null,
+			"descriptiveTexts": [
+				{
+					"text": "Warum das der falsche Weg ist, erklärt Allbright-Chefin Wiebke Ankersen im Gespräch mit meinem Kollegen Christoph Rottwilm."
+				}
+			],
+			"directQuotes": [],
+			"inIntro": false,
+			"inTitle": false,
+			"indirectQuotes": [],
+			"isMain": false,
+			"name": "Wiebke Ankersen",
+			"occupations": [
+				{
+					"text": "Allbright-Chefin"
+				}
+			],
+			"occurrences": {
+				"firstNameOnly": 0,
+				"fullName": 1,
+				"lastNameOnly": 0,
+				"total": 1
+			},
+			"quotedInIntro": false,
+			"quotedInTitle": false,
+			"sex": "female"
+		},
+		{
+			"age": -1,
+			"alternativeNames": [],
+			"birthday": null,
+			"descriptiveTexts": [
+				{
+					"text": "Warum das der falsche Weg ist, erklärt Allbright-Chefin Wiebke Ankersen im Gespräch mit meinem Kollegen Christoph Rottwilm."
+				}
+			],
+			"directQuotes": [],
+			"inIntro": false,
+			"inTitle": false,
+			"indirectQuotes": [],
+			"isMain": false,
+			"name": "Christoph Rottwilm",
+			"occupations": [
+				{
+					"text": "Kollegen"
+				}
+			],
+			"occurrences": {
+				"firstNameOnly": 0,
+				"fullName": 1,
+				"lastNameOnly": 0,
+				"total": 1
+			},
+			"quotedInIntro": false,
+			"quotedInTitle": false,
+			"sex": "male"
+		},
+		{
+			"age": -1,
+			"alternativeNames": [],
+			"birthday": null,
+			"descriptiveTexts": [
+				{
+					"text": "Pleite: Ex-Arbeitgeberpräsident Dieter Hundt hatte vor einem Jahr den Autozulieferer Allgaier an einen chinesischen Investor verkauft."
+				}
+			],
+			"directQuotes": [],
+			"inIntro": false,
+			"inTitle": false,
+			"indirectQuotes": [],
+			"isMain": false,
+			"name": "Dieter Hundt",
+			"occupations": [
+				{
+					"text": "Ex-Arbeitgeberpräsident"
+				}
+			],
+			"occurrences": {
+				"firstNameOnly": 0,
+				"fullName": 1,
+				"lastNameOnly": 0,
+				"total": 1
+			},
+			"quotedInIntro": false,
+			"quotedInTitle": false,
+			"sex": "male"
+		},
+		{
+			"age": -1,
+			"alternativeNames": [],
+			"birthday": null,
+			"descriptiveTexts": [
+				{
+					"text": "Die Personalie des Tages: Early Bird: Als zupackende EU-Kommissarin für Wettbewerb und Digitales ist Margrethe Vestager bis ins Silicon Valley berühmt und gefürchtet."
+				},
+				{
+					"text": "Nach der Europa-Wahl im nächsten Sommer endet die Amtszeit aller EU-Kommissare, und Vestager hat schon jetzt ihre Kandidatur für einen neuen Job verkündet: Ab Anfang 2024 will die Dänin die Europäische Investitionsbank (EIB) führen."
+				},
+				{
+					"text": "Weitere Bewerber werden sich noch melden, aber Vestager gehört in jedem Fall zum Favoritenkreis."
+				}
+			],
+			"directQuotes": [],
+			"inIntro": false,
+			"inTitle": false,
+			"indirectQuotes": [],
+			"isMain": false,
+			"name": "Margrethe Vestager",
+			"occupations": [
+				{
+					"text": "EU-Kommissarin für Wettbewerb und Digitales"
+				}
+			],
+			"occurrences": {
+				"firstNameOnly": 0,
+				"fullName": 1,
+				"lastNameOnly": 2,
+				"total": 3
+			},
+			"quotedInIntro": false,
+			"quotedInTitle": false,
+			"sex": "female"
+		},
+		{
+			"age": -1,
+			"alternativeNames": [],
+			"birthday": null,
+			"descriptiveTexts": [
+				{
+					"text": "Deren Chef, der frühere FDP-Politiker Werner Hoyer, scheidet nach zwölf Amtsjahren aus."
+				}
+			],
+			"directQuotes": [],
+			"inIntro": false,
+			"inTitle": false,
+			"indirectQuotes": [],
+			"isMain": false,
+			"name": "Werner Hoyer",
+			"occupations": [
+				{
+					"text": "Chef"
+				},
+				{
+					"text": "frühere FDP-Politiker"
+				}
+			],
+			"occurrences": {
+				"firstNameOnly": 0,
+				"fullName": 1,
+				"lastNameOnly": 0,
+				"total": 1
+			},
+			"quotedInIntro": false,
+			"quotedInTitle": false,
+			"sex": "male"
+		},
+		{
+			"age": -1,
+			"alternativeNames": [],
+			"birthday": null,
+			"descriptiveTexts": [
+				{
+					"text": "Crash-Kurs: Die beiden TV-Promis Georg Kofler und Ralf Dümmel, berühmt geworden durch die »Höhle der Löwen«, versprachen für die Aktie ihres Unternehmens Social Chain den Himmel."
+				},
+				{
+					"text": "»Ein neues ProSieben« wollten sie bauen, erklärte Kofler einmal, sogar eine »Kombination aus Facebook und Amazon«."
+				},
+				{
+					"text": "Über ein Heer von Influencern wollten sie Produkte über die sozialen Medien vertreiben."
+				},
+				{
+					"text": "Auf mehr als 800 Millionen Euro trieben die Promis den Wert ihrer Firma."
+				}
+			],
+			"directQuotes": [
+				{
+					"text": "Ein neues ProSieben"
+				},
+				{
+					"text": "Kombination aus Facebook und Amazon"
+				}
+			],
+			"inIntro": false,
+			"inTitle": false,
+			"indirectQuotes": [],
+			"isMain": false,
+			"name": "Georg Kofler",
+			"occupations": [
+				{
+					"text": "TV-Promis"
+				},
+				{
+					"text": "Influencern"
+				}
+			],
+			"occurrences": {
+				"firstNameOnly": 0,
+				"fullName": 1,
+				"lastNameOnly": 1,
+				"total": 2
+			},
+			"quotedInIntro": false,
+			"quotedInTitle": false,
+			"sex": "male"
+		},
+		{
+			"age": -1,
+			"alternativeNames": [],
+			"birthday": null,
+			"descriptiveTexts": [
+				{
+					"text": "Crash-Kurs: Die beiden TV-Promis Georg Kofler und Ralf Dümmel, berühmt geworden durch die »Höhle der Löwen«, versprachen für die Aktie ihres Unternehmens Social Chain den Himmel."
+				},
+				{
+					"text": "»Ein neues ProSieben« wollten sie bauen, erklärte Kofler einmal, sogar eine »Kombination aus Facebook und Amazon«."
+				},
+				{
+					"text": "Über ein Heer von Influencern wollten sie Produkte über die sozialen Medien vertreiben."
+				},
+				{
+					"text": "Auf mehr als 800 Millionen Euro trieben die Promis den Wert ihrer Firma."
+				}
+			],
+			"directQuotes": [],
+			"inIntro": false,
+			"inTitle": false,
+			"indirectQuotes": [],
+			"isMain": false,
+			"name": "Ralf Dümmel",
+			"occupations": [
+				{
+					"text": "TV-Promis"
+				},
+				{
+					"text": "Influencern"
+				}
+			],
+			"occurrences": {
+				"firstNameOnly": 0,
+				"fullName": 1,
+				"lastNameOnly": 0,
+				"total": 1
+			},
+			"quotedInIntro": false,
+			"quotedInTitle": false,
+			"sex": "male"
+		},
+		{
+			"age": -1,
+			"alternativeNames": [],
+			"birthday": null,
+			"descriptiveTexts": [
+				{
+					"text": "Mein Kollege Jonas Rest hat den Fall aufgerollt: Ein Lehrstück darüber, wie dreist an der Börse geblendet werden kann, und wie Berühmtheiten die Anleger in hochriskante Geschäfte locken."
+				}
+			],
+			"directQuotes": [],
+			"inIntro": false,
+			"inTitle": false,
+			"indirectQuotes": [],
+			"isMain": false,
+			"name": "Jonas Rest",
+			"occupations": [
+				{
+					"text": "Kollege"
+				}
+			],
+			"occurrences": {
+				"firstNameOnly": 0,
+				"fullName": 1,
+				"lastNameOnly": 0,
+				"total": 1
+			},
+			"quotedInIntro": false,
+			"quotedInTitle": false,
+			"sex": "male"
+		},
+		{
+			"age": -1,
+			"alternativeNames": [],
+			"birthday": null,
+			"descriptiveTexts": [
+				{
+					"text": "Tipps für einen besseren Umgang mit der starken emotionalen Belastung gibt die Autorin und Trainerin Ramona Shaw bei uns im neuen Harvard Business manager."
+				}
+			],
+			"directQuotes": [],
+			"inIntro": false,
+			"inTitle": false,
+			"indirectQuotes": [],
+			"isMain": false,
+			"name": "Ramona Shaw",
+			"occupations": [
+				{
+					"text": "Autorin"
+				},
+				{
+					"text": "Trainerin"
+				}
+			],
+			"occurrences": {
+				"firstNameOnly": 0,
+				"fullName": 1,
+				"lastNameOnly": 0,
+				"total": 1
+			},
+			"quotedInIntro": false,
+			"quotedInTitle": false,
+			"sex": "female"
+		},
+		{
+			"age": -1,
+			"alternativeNames": [],
+			"birthday": null,
+			"descriptiveTexts": [
+				{
+					"text": "Premier Narendra Modi, der schon oft in den USA war, ist dort seit gestern erstmals Gast für einen mehrtägigen Staatsbesuch."
+				},
+				{
+					"text": "Einer seiner ersten Gesprächspartner in New York outete sich umgehend als »Modi-Fan«: Elon Musk will mit Tesla »so schnell wie möglich« groß in Indien investieren."
+				},
+				{
+					"text": "Weitere Gespräche führte Modi unter anderem mit so eigensinnigen Köpfen wie dem Starinvestor Ray Dalio (»Indiens Moment ist gekommen«) dem Wirtschaftsnobelpreisträger Paul Romer und dem Trader, Statistiker und Bestsellerautor Nassim Taleb."
+				},
+				{
+					"text": "Bei den Vereinten Nationen feierte Modi zudem den heutigen Weltyogatag."
+				},
+				{
+					"text": "Die Uno hatten diesen Tag 2014 auf Initiative des damals neuen indischen Premiers eingeführt: Narendra Modi."
+				}
+			],
+			"directQuotes": [],
+			"inIntro": false,
+			"inTitle": false,
+			"indirectQuotes": [],
+			"isMain": false,
+			"name": "Narendra Modi",
+			"occupations": [
+				{
+					"text": "Premier"
+				}
+			],
+			"occurrences": {
+				"firstNameOnly": 0,
+				"fullName": 2,
+				"lastNameOnly": 3,
+				"total": 5
+			},
+			"quotedInIntro": false,
+			"quotedInTitle": false,
+			"sex": "male"
+		},
+		{
+			"age": -1,
+			"alternativeNames": [],
+			"birthday": null,
+			"descriptiveTexts": [
+				{
+					"text": "Heute mit Porsche, Frauenpower und neuen Musk-Plänen."
+				},
+				{
+					"text": "Einer seiner ersten Gesprächspartner in New York outete sich umgehend als »Modi-Fan«: Elon Musk will mit Tesla »so schnell wie möglich« groß in Indien investieren."
+				}
+			],
+			"directQuotes": [
+				{
+					"text": "so schnell wie möglich"
+				}
+			],
+			"inIntro": true,
+			"inTitle": false,
+			"indirectQuotes": [],
+			"isMain": false,
+			"name": "Elon Musk",
+			"occupations": [
+				{
+					"text": "Modi-Fan"
+				}
+			],
+			"occurrences": {
+				"firstNameOnly": 0,
+				"fullName": 1,
+				"lastNameOnly": 1,
+				"total": 2
+			},
+			"quotedInIntro": false,
+			"quotedInTitle": false,
+			"sex": "male"
+		},
+		{
+			"age": -1,
+			"alternativeNames": [],
+			"birthday": null,
+			"descriptiveTexts": [
+				{
+					"text": "Weitere Gespräche führte Modi unter anderem mit so eigensinnigen Köpfen wie dem Starinvestor Ray Dalio (»Indiens Moment ist gekommen«) dem Wirtschaftsnobelpreisträger Paul Romer und dem Trader, Statistiker und Bestsellerautor Nassim Taleb."
+				}
+			],
+			"directQuotes": [
+				{
+					"text": "Indiens Moment ist gekommen"
+				}
+			],
+			"inIntro": false,
+			"inTitle": false,
+			"indirectQuotes": [],
+			"isMain": false,
+			"name": "Ray Dalio",
+			"occupations": [
+				{
+					"text": "Starinvestor"
+				}
+			],
+			"occurrences": {
+				"firstNameOnly": 0,
+				"fullName": 1,
+				"lastNameOnly": 0,
+				"total": 1
+			},
+			"quotedInIntro": false,
+			"quotedInTitle": false,
+			"sex": "male"
+		},
+		{
+			"age": -1,
+			"alternativeNames": [],
+			"birthday": null,
+			"descriptiveTexts": [
+				{
+					"text": "Weitere Gespräche führte Modi unter anderem mit so eigensinnigen Köpfen wie dem Starinvestor Ray Dalio (»Indiens Moment ist gekommen«) dem Wirtschaftsnobelpreisträger Paul Romer und dem Trader, Statistiker und Bestsellerautor Nassim Taleb."
+				}
+			],
+			"directQuotes": [],
+			"inIntro": false,
+			"inTitle": false,
+			"indirectQuotes": [],
+			"isMain": false,
+			"name": "Paul Romer",
+			"occupations": [
+				{
+					"text": "Wirtschaftsnobelpreisträger"
+				}
+			],
+			"occurrences": {
+				"firstNameOnly": 0,
+				"fullName": 1,
+				"lastNameOnly": 0,
+				"total": 1
+			},
+			"quotedInIntro": false,
+			"quotedInTitle": false,
+			"sex": "male"
+		},
+		{
+			"age": -1,
+			"alternativeNames": [],
+			"birthday": null,
+			"descriptiveTexts": [
+				{
+					"text": "Weitere Gespräche führte Modi unter anderem mit so eigensinnigen Köpfen wie dem Starinvestor Ray Dalio (»Indiens Moment ist gekommen«) dem Wirtschaftsnobelpreisträger Paul Romer und dem Trader, Statistiker und Bestsellerautor Nassim Taleb."
+				}
+			],
+			"directQuotes": [],
+			"inIntro": false,
+			"inTitle": false,
+			"indirectQuotes": [],
+			"isMain": false,
+			"name": "Nassim Taleb",
+			"occupations": [
+				{
+					"text": "Trader"
+				},
+				{
+					"text": "Statistiker"
+				},
+				{
+					"text": "Bestsellerautor"
+				}
+			],
+			"occurrences": {
+				"firstNameOnly": 0,
+				"fullName": 1,
+				"lastNameOnly": 0,
+				"total": 1
+			},
+			"quotedInIntro": false,
+			"quotedInTitle": false,
+			"sex": "male"
+		},
+		{
+			"age": -1,
+			"alternativeNames": [],
+			"birthday": null,
+			"descriptiveTexts": [
+				{
+					"text": "Jeden Abend fassen wir die wichtigsten Wirtschaftsnews des Tages zusammen."
+				},
+				{
+					"text": "Wer Adnoc überhaupt ist und warum eine Übernahme in die Strategie der Golfaraber passen würde, haben wir hier für Sie zusammengestellt."
+				},
+				{
+					"text": "Und offenbar ist das Vertrauen in die Dramatochter so gering, dass Blume jetzt daheim ein Solo startet: Der CEO, der von Porsche kam und dort weiterhin parallel Chef ist, lässt Porsche eine eigene Software entwickeln, hat mein Kollege Michael Freitag recherchiert."
+				},
+				{
+					"text": "Warum das der falsche Weg ist, erklärt Allbright-Chefin Wiebke Ankersen im Gespräch mit meinem Kollegen Christoph Rottwilm."
+				},
+				{
+					"text": "Mein Kollege Jonas Rest hat den Fall aufgerollt: Ein Lehrstück darüber, wie dreist an der Börse geblendet werden kann, und wie Berühmtheiten die Anleger in hochriskante Geschäfte locken."
+				},
+				{
+					"text": "Meine Empfehlung für den Abend: Starauflauf in New York: Indien ist die aufsteigende Macht der Stunde, auch wenn die Nachhaltigkeit seines Wirtschaftswunders unter Ökonomen umstritten ist."
+				},
+				{
+					"text": "Ich wünsche Ihnen einen entspannten Abend, Ihr Christian Schütte"
+				},
+				{
+					"text": "Haben Sie Wünsche, Anregungen, Informationen, um die wir uns journalistisch kümmern sollten?"
+				},
+				{
+					"text": "Wir freuen uns auf Ihre Post unter chefredaktion@manager-magazin.de."
+				}
+			],
+			"directQuotes": [],
+			"inIntro": false,
+			"inTitle": false,
+			"indirectQuotes": [],
+			"isMain": true,
+			"name": "Christian Schütte",
+			"occupations": [],
+			"occurrences": {
+				"firstNameOnly": 0,
+				"fullName": 1,
+				"lastNameOnly": 0,
+				"total": 1
+			},
+			"quotedInIntro": false,
+			"quotedInTitle": false,
+			"sex": "male"
+		}
+	],
+	"subtopics": [
+		"Porsche",
+		"Frauenpower",
+		"Tesla",
+		"Unternehmen",
+		"Wirtschaft"
+	]
+}

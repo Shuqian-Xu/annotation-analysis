@@ -1,0 +1,425 @@
+{
+    "persons": [
+        {
+            "name": "Carolin Neemann",
+            "alternativeNames": [],
+            "age": -1,
+            "sex": "female",
+            "occurences": {
+                "total": 14,
+                "firstNameOnly": 0,
+                "lastNameOnly": 13,
+                "fullName": 1,
+                "nickname": 0
+            },
+            "inTitle": false,
+            "inIntro": false,
+            "_name": {
+                "firstname": "Carolin",
+                "lastname": "Neemann",
+                "nickname": null,
+                "alternative_names": [],
+                "academic_title": null,
+                "nobility_title_or_rank": null
+            },
+            "descriptiveTexts": [
+                {
+                    "text": "Diese Frage stellte sich Caroline Neemann erstmals, als ihre Tochter Lara vier Jahre alt war."
+                },
+                {
+                    "text": "So erz\u00e4hlt sie es dem SPIEGEL an einem Nachmittag im Dezember."
+                },
+                {
+                    "text": "Caroline Neemann und ihr Mann \u00fcbten \u00fcber Wochen mit ihrer Tochter."
+                },
+                {
+                    "text": "Oder dieses Gespr\u00e4ch nach der dritten Stunde Schwimmunterricht, an das sich Neemann noch gut erinnert:"
+                },
+                {
+                    "text": "Wie krank ihre Tochter Lara tats\u00e4chlich ist, erfuhr Caroline Neemann erst Jahre sp\u00e4ter."
+                },
+                {
+                    "text": "Caroline Neemann ging mit ihrer Tochter mehrere Male zum Kinderarzt."
+                },
+                {
+                    "text": "Die allermeisten von ihnen machten sich nicht die M\u00fche, Lara k\u00f6rperlich zu untersuchen, schildert Carolin Neemann."
+                },
+                {
+                    "text": "Oft noch bevor Mutter und Tochter bei \u00c4rzten Platz nahmen, h\u00f6rten sie einschl\u00e4gige Fragen und Ratschl\u00e4ge: Isst Ihre Tochter viele S\u00fc\u00dfigkeiten?"
+                },
+                {
+                    "text": "Oder: Da m\u00fcssen Sie Ihre Tochter etwas dr\u00e4ngen, dass sie sich mehr bewegt \u2013 dann wird das schon."
+                },
+                {
+                    "text": "\u00bbDa schwang immer mit, dass wir Eltern etwas falsch gemacht haben. Und dass Lara sich einfach nur am Riemen rei\u00dfen und etwas abnehmen muss und dann werde alles besser\u00ab, sagt Caroline Neemann."
+                },
+                {
+                    "text": "Trotz eines unguten Gef\u00fchls glaubte Neemann den \u00c4rzten."
+                },
+                {
+                    "text": "\u00bbSie sind ja die Spezialisten. Also haben wir unsere Tochter immer wieder gedr\u00e4ngt, Sport zu machen. Und das, obwohl sie damit sichtlich \u00fcberfordert war\u00ab, sagt Neemann."
+                },
+                {
+                    "text": "Bis heute habe sie deshalb ein schlechtes Gewissen: \u00bbJedes Mal, wenn Lara sich viel bewegen musste, schmerzten ihre Gelenke. Manchmal auch im Ruhezustand. Aber sie wusste ja nicht, dass das nicht normal ist \u2013 deshalb hat sie nichts gesagt. \u00dcber die Jahre haben wir ihr viel angetan.\u00ab"
+                },
+                {
+                    "text": "\u00bbIch war einfach nur unfassbar erleichtert, dass wir endlich wussten, was sie hat\u00ab, sagt Neemann."
+                },
+                {
+                    "text": "\u00bbZun\u00e4chst ging es immer erst einmal besser. Aber nach ein paar Tagen war wieder alles wie vorher\u00ab, sagt Caroline Neemann."
+                },
+                {
+                    "text": "Caroline Neemann und ihr Mann f\u00fcrchteten um das Leben ihrer Tochter."
+                },
+                {
+                    "text": "Im Deutschen Zentrum f\u00fcr Kinder- und Jugendrheumatologie an der Kinderklinik Garmisch-Partenkirchen f\u00fchlten sie sich gut aufgehoben: Man k\u00fcmmerte sich intensiv um Lara, die Therapie wurde angepasst, der Einsatz neuer Medikamente geplant."
+                },
+                {
+                    "text": "\u00bbWir hatten nun nicht nur eine Diagnose, sondern auch eine wirkungsvollere Behandlung\u00ab, sagt Neemann."
+                },
+                {
+                    "text": "Fest steht: \u00bbSie macht Fortschritte. Sie kann immer weitere Strecken mit Begleitung laufen\u00ab, sagt Neemann."
+                }
+            ],
+            "occupations": [
+                {
+                    "text": "Mutter"
+                }
+            ],
+            "directQuotes": [
+                {
+                    "text": "Wieso? Du hast doch noch Schwimmfl\u00fcgel, Du musst einfach den Kopf mehr hochheben."
+                },
+                {
+                    "text": "Da schwang immer mit, dass wir Eltern etwas falsch gemacht haben. Und dass Lara sich einfach nur am Riemen rei\u00dfen und etwas abnehmen muss und dann werde alles besser"
+                },
+                {
+                    "text": "Sie sind ja die Spezialisten. Also haben wir unsere Tochter immer wieder gedr\u00e4ngt, Sport zu machen. Und das, obwohl sie damit sichtlich \u00fcberfordert war"
+                },
+                {
+                    "text": "Jedes Mal, wenn Lara sich viel bewegen musste, schmerzten ihre Gelenke. Manchmal auch im Ruhezustand. Aber sie wusste ja nicht, dass das nicht normal ist \u2013 deshalb hat sie nichts gesagt. \u00dcber die Jahre haben wir ihr viel angetan."
+                },
+                {
+                    "text": "Ich war einfach nur unfassbar erleichtert, dass wir endlich wussten, was sie hat"
+                },
+                {
+                    "text": "Zun\u00e4chst ging es immer erst einmal besser. Aber nach ein paar Tagen war wieder alles wie vorher"
+                },
+                {
+                    "text": "Wir hatten nun nicht nur eine Diagnose, sondern auch eine wirkungsvollere Behandlung"
+                },
+                {
+                    "text": "Sie macht Fortschritte. Sie kann immer weitere Strecken mit Begleitung laufen"
+                }
+            ],
+            "quotedInTitle": false,
+            "quotedInIntro": false
+        },
+        {
+            "name": "Johannes-Peter Haas",
+            "alternativeNames": [],
+            "age": -1,
+            "sex": "male",
+            "occurences": {
+                "total": 1,
+                "firstNameOnly": 0,
+                "lastNameOnly": 0,
+                "fullName": 1,
+                "nickname": 0
+            },
+            "inTitle": false,
+            "inIntro": false,
+            "_name": {
+                "firstname": "Johannes-Peter",
+                "lastname": "Haas",
+                "nickname": null,
+                "alternative_names": [],
+                "academic_title": "Professor",
+                "nobility_title_or_rank": null
+            },
+            "descriptiveTexts": [
+                {
+                    "text": "Johannes-Peter Haas, \u00e4rztlicher Direktor der Kinderrheumaklinik in Garmisch-Partenkirchen, behandelt Lara seit der ersten Vorstellung 2022."
+                },
+                {
+                    "text": "\u00bbUm die Jahrtausendwende w\u00e4ren wir bei einem so schweren Verlauf hilflos gewesen, wir h\u00e4tten kaum Behandlungsoptionen gehabt. Das hat sich inzwischen gl\u00fccklicherweise ge\u00e4ndert\u00ab, sagt er."
+                }
+            ],
+            "occupations": [
+                {
+                    "text": "\u00e4rztlicher Direktor der Kinderrheumaklinik in Garmisch-Partenkirchen"
+                }
+            ],
+            "directQuotes": [
+                {
+                    "text": "Um die Jahrtausendwende w\u00e4ren wir bei einem so schweren Verlauf hilflos gewesen, wir h\u00e4tten kaum Behandlungsoptionen gehabt. Das hat sich inzwischen gl\u00fccklicherweise ge\u00e4ndert"
+                }
+            ],
+            "quotedInTitle": false,
+            "quotedInIntro": false
+        },
+        {
+            "name": "Kirsten Minden",
+            "alternativeNames": [],
+            "age": -1,
+            "sex": "female",
+            "occurences": {
+                "total": 4,
+                "firstNameOnly": 0,
+                "lastNameOnly": 3,
+                "fullName": 1,
+                "nickname": 0
+            },
+            "inTitle": false,
+            "inIntro": false,
+            "_name": {
+                "firstname": "Kirsten",
+                "lastname": "Minden",
+                "nickname": null,
+                "alternative_names": [],
+                "academic_title": "Professorin",
+                "nobility_title_or_rank": null
+            },
+            "descriptiveTexts": [
+                {
+                    "text": "\u00bbFr\u00fche Zeichen einer rheumatischen Gelenkerkrankung k\u00f6nnen verdickte und schmerzhafte Gelenke, Morgensteifigkeit, Humpeln oder andere Schonhaltungen sein\u00ab, sagt Kirsten Minden, Kinderrheumatologin und Professorin f\u00fcr Versorgungsforschung an der Berliner Charit\u00e9."
+                },
+                {
+                    "text": "\u00bbBeim Kinderrheuma war das Prinzip: Auf Erkenntnis folgt Handeln. Zuerst haben wir besser und genauer verstanden, \u00fcber welche Botenstoffe und Mechanismen das Immunsystem gegen eigene K\u00f6rperstrukturen aufgestachelt wird\u00ab, sagt Kinderrheuma-Expertin Minden von der Charit\u00e9."
+                },
+                {
+                    "text": "\u00bbVor zwanzig Jahren gab es drei sogenannte krankheitsmodifizierende Medikamente, die zur Behandlung von Kinderrheuma zugelassen waren. Heute sind es 13. Die meisten davon sind Biologika. Das er\u00f6ffnet nat\u00fcrlich ganz neue Behandlungsperspektiven und mehr Therapieoptionen\u00ab, so Minden."
+                },
+                {
+                    "text": "\u00bbWir werden mittels immunologischer und genetischer Analysen k\u00fcnftig mehr Biomarker finden, anhand derer wir gezielter und individueller behandeln k\u00f6nnen, ganz im Sinne einer personalisierten Medizin\u00ab, sagt Minden."
+                }
+            ],
+            "occupations": [
+                {
+                    "text": "Kinderrheumatologin und Professorin f\u00fcr Versorgungsforschung an der Berliner Charit\u00e9"
+                },
+                {
+                    "text": "Wir werden mittels immunologischer und genetischer Analysen k\u00fcnftig mehr Biomarker finden, anhand derer wir gezielter und individueller behandeln k\u00f6nnen, ganz im Sinne einer personalisierten Medizin"
+                }
+            ],
+            "directQuotes": [
+                {
+                    "text": "Fr\u00fche Zeichen einer rheumatischen Gelenkerkrankung k\u00f6nnen verdickte und schmerzhafte Gelenke, Morgensteifigkeit, Humpeln oder andere Schonhaltungen sein"
+                },
+                {
+                    "text": "Beim Kinderrheuma war das Prinzip: Auf Erkenntnis folgt Handeln. Zuerst haben wir besser und genauer verstanden, \u00fcber welche Botenstoffe und Mechanismen das Immunsystem gegen eigene K\u00f6rperstrukturen aufgestachelt wird"
+                },
+                {
+                    "text": "Vor zwanzig Jahren gab es drei sogenannte krankheitsmodifizierende Medikamente, die zur Behandlung von Kinderrheuma zugelassen waren. Heute sind es 13. Die meisten davon sind Biologika. Das er\u00f6ffnet nat\u00fcrlich ganz neue Behandlungsperspektiven und mehr Therapieoptionen"
+                },
+                {
+                    "text": "Wir werden mittels immunologischer und genetischer Analysen k\u00fcnftig mehr Biomarker finden, anhand derer wir gezielter und individueller behandeln k\u00f6nnen, ganz im Sinne einer personalisierten Medizin"
+                }
+            ],
+            "quotedInTitle": false,
+            "quotedInIntro": false
+        },
+        {
+            "name": "Lara",
+            "alternativeNames": [],
+            "age": -1,
+            "sex": "female",
+            "occurences": {
+                "total": 31,
+                "firstNameOnly": 0,
+                "lastNameOnly": 0,
+                "fullName": 31,
+                "nickname": 0
+            },
+            "inTitle": false,
+            "inIntro": true,
+            "_name": {
+                "firstname": "Lara",
+                "lastname": null,
+                "nickname": null,
+                "alternative_names": [],
+                "academic_title": null,
+                "nobility_title_or_rank": null
+            },
+            "descriptiveTexts": [
+                {
+                    "text": "Lara leidet an Kinderrheuma \u2013 wie mindestens 20.000 Kinder und Jugendliche in Deutschland."
+                },
+                {
+                    "text": "Diese Frage stellte sich Caroline Neemann erstmals, als ihre Tochter Lara vier Jahre alt war."
+                },
+                {
+                    "text": "Zum Beispiel vermied es Lara laut ihrer Mutter schon in der Kita, sich beim Begr\u00fc\u00dfungskreis auf den Boden zu setzen."
+                },
+                {
+                    "text": "Sie stand offenbar lieber, weil ihr das Aufstehen schwerfiel."
+                },
+                {
+                    "text": "Sie hatte auch Probleme, Fahrradfahren zu lernen."
+                },
+                {
+                    "text": "Schon auf dem Laufrad war sie unsicher gewesen, auf dem Fahrrad schaffte sie es einfach nicht, die Balance zu halten."
+                },
+                {
+                    "text": "Einmal st\u00fcrzte sie so, dass ihr Knie fast bis auf den Knochen aufgeschlagen war, sie musste ins Krankenhaus."
+                },
+                {
+                    "text": "\u00bbLara, wie war es?\u00ab"
+                },
+                {
+                    "text": "\u00bbNicht so gut, Mama. Ich schlucke zu viel Wasser.\u00ab"
+                },
+                {
+                    "text": "\u00bbWieso? Du hast doch noch Schwimmfl\u00fcgel, Du musst einfach den Kopf mehr hochheben.\u00ab"
+                },
+                {
+                    "text": "\u00bbDas kriege ich nicht hin.\u00ab"
+                },
+                {
+                    "text": "Wie krank ihre Tochter Lara tats\u00e4chlich ist, erfuhr Caroline Neemann erst Jahre sp\u00e4ter."
+                },
+                {
+                    "text": "Lara war neun Jahre alt, als die \u00c4rzte 2021 Kinderrheuma diagnostizierten \u2013 ein Sammelbegriff f\u00fcr unterschiedliche Autoimmunerkrankungen, bei denen sich das Abwehrsystem des K\u00f6rpers gegen eigene K\u00f6rperstrukturen richtet."
+                },
+                {
+                    "text": "Lara leidet an einer solchen Kollagenose, an einer besonders seltenen und schwer verlaufenden Form, auch Mischkollagenose genannt."
+                },
+                {
+                    "text": "Daher ist Lara in ihrer Beweglichkeit eingeschr\u00e4nkt, au\u00dferdem sind neben dem Bindegewebe auch Herz und Blutgef\u00e4\u00dfe in Mitleidenschaft gezogen."
+                },
+                {
+                    "text": "Der \u00fcberwies Lara an verschiedene Fach\u00e4rzte, darunter Kinderorthop\u00e4den und Sportmediziner."
+                },
+                {
+                    "text": "Die allermeisten von ihnen machten sich nicht die M\u00fche, Lara k\u00f6rperlich zu untersuchen, schildert Carolin Neemann."
+                },
+                {
+                    "text": "Lara ist seit jungen Jahren \u00fcbergewichtig."
+                },
+                {
+                    "text": "Oft noch bevor Mutter und Tochter bei \u00c4rzten Platz nahmen, h\u00f6rten sie einschl\u00e4gige Fragen und Ratschl\u00e4ge: Isst Ihre Tochter viele S\u00fc\u00dfigkeiten?"
+                },
+                {
+                    "text": "Oder: Da m\u00fcssen Sie Ihre Tochter etwas dr\u00e4ngen, dass sie sich mehr bewegt \u2013 dann wird das schon."
+                },
+                {
+                    "text": "\u00bbDa schwang immer mit, dass wir Eltern etwas falsch gemacht haben. Und dass Lara sich einfach nur am Riemen rei\u00dfen und etwas abnehmen muss und dann werde alles besser\u00ab, sagt Caroline Neemann."
+                },
+                {
+                    "text": "\u00bbSie sind ja die Spezialisten. Also haben wir unsere Tochter immer wieder gedr\u00e4ngt, Sport zu machen. Und das, obwohl sie damit sichtlich \u00fcberfordert war\u00ab, sagt Neemann."
+                },
+                {
+                    "text": "Bis heute habe sie deshalb ein schlechtes Gewissen: \u00bbJedes Mal, wenn Lara sich viel bewegen musste, schmerzten ihre Gelenke. Manchmal auch im Ruhezustand. Aber sie wusste ja nicht, dass das nicht normal ist \u2013 deshalb hat sie nichts gesagt. \u00dcber die Jahre haben wir ihr viel angetan.\u00ab"
+                },
+                {
+                    "text": "Sie schickte Lara in eine Kinderklinik in Bremen, die regelm\u00e4\u00dfig F\u00e4lle von Kinderrheuma behandelt."
+                },
+                {
+                    "text": "Dort erhielt Lara endlich ihre Diagnose."
+                },
+                {
+                    "text": "\u00bbIch war einfach nur unfassbar erleichtert, dass wir endlich wussten, was sie hat\u00ab, sagt Neemann."
+                },
+                {
+                    "text": "Doch Laras Leidensweg war damit nicht zu Ende."
+                },
+                {
+                    "text": "Per Infusion erhielt Lara eine hohe Dosis Kortikoide."
+                },
+                {
+                    "text": "Doch f\u00fcr Laras sehr seltene Unterform der Erkrankung gibt es bislang keine Empfehlungen von Alternativen zu Kortikoiden."
+                },
+                {
+                    "text": "Wenn die Familie in die Ambulanz der Bremer Kinderklinik kam, erhielt Lara h\u00e4ufig eine Sto\u00dftherapie."
+                },
+                {
+                    "text": "Einige Monate sp\u00e4ter konnte Lara an einem Tag kaum laufen, die Hautausschl\u00e4ge waren besonders schlimm, sie blutete an mehreren Stellen."
+                },
+                {
+                    "text": "Im Deutschen Zentrum f\u00fcr Kinder- und Jugendrheumatologie an der Kinderklinik Garmisch-Partenkirchen f\u00fchlten sie sich gut aufgehoben: Man k\u00fcmmerte sich intensiv um Lara, die Therapie wurde angepasst, der Einsatz neuer Medikamente geplant."
+                },
+                {
+                    "text": "Sie bekam eine Substanz, die nur f\u00fcr Erwachsene zugelassen ist."
+                },
+                {
+                    "text": "Lara erhielt vor\u00fcbergehend noch eine t\u00e4gliche Kortikoidtherapie, innerhalb kurzer Zeit nahm sie weiter an Gewicht zu, bald wog die Neunj\u00e4hrige fast 100 Kilogramm."
+                },
+                {
+                    "text": "Immerhin verbesserte sich Laras Zustand, die \u00c4rzte bekamen langsam die Sch\u00fcbe in den Griff."
+                },
+                {
+                    "text": "Mehrfach verbrachte Lara einige Wochen in der Klinik, langsam stabilisierte sich die Erkrankung."
+                },
+                {
+                    "text": "Ein Schul-Avatar f\u00fcr Lara"
+                },
+                {
+                    "text": "In den folgenden Monaten verlor Lara an Gewicht und kam zu Kr\u00e4ften."
+                },
+                {
+                    "text": "Damit sie in der Schule nicht zu viel Unterricht verpasste, wurde \u00fcber Spendengelder ein Avatar organisiert."
+                },
+                {
+                    "text": "Der Roboter sitzt im Klassenraum an Laras Platz."
+                },
+                {
+                    "text": "So kann sie sich zum Beispiel aus der Klinik auf dem Tablet einloggen und virtuell am Unterricht teilnehmen."
+                },
+                {
+                    "text": "Johannes-Peter Haas, \u00e4rztlicher Direktor der Kinderrheumaklinik in Garmisch-Partenkirchen, behandelt Lara seit der ersten Vorstellung 2022."
+                },
+                {
+                    "text": "Auch Lara d\u00fcrfte von den k\u00fcnftigen Fortschritten weiter profitieren."
+                },
+                {
+                    "text": "Schon heute geht es ihr auch dank der Biologika besser, sie muss nicht mehr so h\u00e4ufig f\u00fcr l\u00e4ngere Zeit in die Klinik."
+                },
+                {
+                    "text": "Sie ist noch immer stark eingeschr\u00e4nkt, braucht etwa Hilfe beim Treppensteigen."
+                },
+                {
+                    "text": "Und l\u00e4ngere Strecken zu Fu\u00df schafft sie noch nicht, f\u00fcr Wandertage in der Schule hat sie einen Rollstuhl."
+                },
+                {
+                    "text": "Sie besucht eine Schule mit Schwerpunkt Inklusion."
+                },
+                {
+                    "text": "Da geh\u00f6rt es einfach dazu, dass sich Mitsch\u00fclerinnen und Mitsch\u00fcler um sie k\u00fcmmern und ihr helfen."
+                },
+                {
+                    "text": "Ob Lara irgendwann ein weitgehend normales Leben f\u00fchren kann, ist ungewiss."
+                },
+                {
+                    "text": "Fest steht: \u00bbSie macht Fortschritte. Sie kann immer weitere Strecken mit Begleitung laufen\u00ab, sagt Neemann."
+                },
+                {
+                    "text": "Denn die helfen Lara nicht nur, wieder selbstbestimmter zu leben."
+                },
+                {
+                    "text": "Sie n\u00e4hren auch die Hoffnung, die Krankheit weiter unter Kontrolle zu bekommen."
+                }
+            ],
+            "occupations": [
+                {
+                    "text": "Lara ist seit jungen Jahren \u00fcbergewichtig."
+                },
+                {
+                    "text": "Sie macht Fortschritte. Sie kann immer weitere Strecken mit Begleitung laufen"
+                }
+            ],
+            "directQuotes": [
+                {
+                    "text": "Lara, wie war es?"
+                },
+                {
+                    "text": "Nicht so gut, Mama. Ich schlucke zu viel Wasser."
+                },
+                {
+                    "text": "Das kriege ich nicht hin."
+                }
+            ],
+            "quotedInTitle": false,
+            "quotedInIntro": true
+        }
+    ]
+}

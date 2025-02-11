@@ -1,0 +1,410 @@
+{
+  "persons": [
+    {
+      "age": 27,
+      "alternativeNames": [],
+      "birthday": null,
+      "descriptiveTexts": [
+        {
+          "text": "Hadassa Goldberg steigt in Kirjat Gat ein, einer unscheinbaren Stadt im Süden Israels."
+        },
+        {
+          "text": "Man könnte sie für eine Südstaaten-Schönheitskönigin halten, wegen ihrer Fröhlichkeit, ihrem Outfit aus Leggings und Truckercap und dem Zahnpasta-Strahlen."
+        },
+        {
+          "text": "Aber Goldberg wurde in Großbritannien geboren."
+        },
+        {
+          "text": "Als sie acht Jahre alt war, zog die Familie nach Israel."
+        },
+        {
+          "text": "Goldberg ist 27 Jahre alt."
+        },
+        {
+          "text": "Sie ist außerdem: Soldatenehefrau, Zionistin und Mutter von zwei Kindern, die die Namen von Opfern des israelisch-palästinensischen Konflikts tragen."
+        },
+        {
+          "text": "Ihre Tochter ist nach einem Mädchen benannt, das bei einem Terroranschlag starb; der Sohn nach einem Soldaten, der sich auf eine Granate warf und so seine Einheit rettete."
+        },
+        {
+          "text": "Vor ein paar Jahren begann Goldberg zu filmen, wie sie bei Raketenalarm mit ihren Kindern in den Bunker rennt."
+        },
+        {
+          "text": "Heute folgen ihr auf Instagram mehr als 30.000 Menschen."
+        },
+        {
+          "text": "Viele der Businsassen sind ihretwegen hier: »Come down South with me«, wirbt sie auf Instagram."
+        },
+        {
+          "text": "Von Goldbergs Wohnort ist es nicht mehr weit zu den Orten, an denen die Terroristen wüteten."
+        },
+        {
+          "text": "Vielleicht klingen ihre Worte auch deshalb persönlich, als sie das Mikrofon greift: »Wenn das Militär nicht gewesen wäre, hätten sie in euren Häusern stehen können«."
+        },
+        {
+          "text": "Vom letzten Ort, wo die IDF gegen die Terroristen gekämpft haben, waren es laut Goldberg nur 15 Minuten bis zu ihrem Haus."
+        },
+        {
+          "text": "Goldberg gibt Anweisungen, wie die Besucher sich zu verhalten haben: sensibel, respektvoll."
+        },
+        {
+          "text": "»Wenn ihr einen lauten Knall hört, schaut einfach auf unsere Gesichter«, sagt sie."
+        },
+        {
+          "text": "Es knallt und Goldberg strahlt."
+        },
+        {
+          "text": "»Es ist okay, das ist etwas Gutes«, sagt sie."
+        },
+        {
+          "text": "»Wir kennen die Videos von den rennenden Menschen«, sagt Goldberg, »es war hier, auf diesen Feldern.«"
+        },
+        {
+          "text": "Goldberg weist die Businsassen darauf hin, dass sie gerade an Beeri vorbeifahren."
+        },
+        {
+          "text": "Und wenn man Goldberg an diesem Tag zugehört hat, hat man schnell verstanden, dass sie als solche zählt."
+        },
+        {
+          "text": "Wenn von der Reisegesellschaft in Goldsteins Bus am Anfang des Tages jemand Zweifel gehabt haben sollte, hat er sie am Ende vermutlich nicht mehr."
+        },
+        {
+          "text": "Goldstein sagt: »Das hier soll nicht Auschwitz sein, das hier soll kein Wald sein. Das ist Nova.«"
+        },
+        {
+          "text": "Goldstein tanzt mit der Familie eines Getöteten um dessen Schild."
+        }
+      ],
+      "directQuotes": [
+        {
+          "text": "Come down South with me"
+        },
+        {
+          "text": "Wenn das Militär nicht gewesen wäre, hätten sie in euren Häusern stehen können"
+        },
+        {
+          "text": "Der einzige Grund dafür, dass wir alle überlebt haben, ist, dass wir nicht dort waren. Und, dass sie nur einen Tag hatten."
+        },
+        {
+          "text": "Wenn ihr einen lauten Knall hört, schaut einfach auf unsere Gesichter"
+        },
+        {
+          "text": "Wenn es ein guter Knall ist, werden wir lachen."
+        },
+        {
+          "text": "Es ist okay, das ist etwas Gutes"
+        },
+        {
+          "text": "Es sind die Araber."
+        },
+        {
+          "text": "Wir kennen die Videos von den rennenden Menschen"
+        },
+        {
+          "text": "es war hier, auf diesen Feldern."
+        },
+        {
+          "text": "Das hier soll nicht Auschwitz sein, das hier soll kein Wald sein. Das ist Nova."
+        }
+      ],
+      "inIntro": false,
+      "inTitle": false,
+      "indirectQuotes": [
+        {
+          "text": "Sollte es Raketenalarm geben, solle man Schutz suchen."
+        },
+        {
+          "text": "Explosionen und Artillerie zu hören, sei so nah am Gazastreifen normal."
+        }
+      ],
+      "isMain": false,
+      "name": "Hadassa Goldberg",
+      "occupations": [
+        {
+          "text": "Soldatenehefrau"
+        },
+        {
+          "text": "Zionistin"
+        },
+        {
+          "text": "Mutter von zwei Kindern"
+        }
+      ],
+      "occurrences": {
+        "firstNameOnly": 0,
+        "fullName": 1,
+        "lastNameOnly": 10,
+        "total": 11
+      },
+      "quotedInIntro": false,
+      "quotedInTitle": false,
+      "sex": "female"
+    },
+    {
+      "age": -1,
+      "alternativeNames": [],
+      "birthday": null,
+      "descriptiveTexts": [
+        {
+          "text": "Im Ortszentrum wartet ein Mann namens Benny."
+        },
+        {
+          "text": "Benny gehört zur Sicherheitseinheit der Gemeinschaft, er überlebte, während seine Freunde starben."
+        },
+        {
+          "text": "Nun führt er die Gruppe durch leere Straßen, vorbei an Soldaten-Rucksäcken, die in einem Hauseingang gestapelt sind."
+        },
+        {
+          "text": "In Netiv Haasara, sagt Benny, seien die unsichtbaren Wunden größer als die sichtbaren."
+        },
+        {
+          "text": "Er führt die Besucher an die Stelle, wo ein Mann sich auf eine Granate warf, um seine Kinder zu schützen."
+        },
+        {
+          "text": "Benny zeigt auf Kratzer an einer Schuppenwand – hier hat Zaka, eine religiöse Organisation, das Blut des Mannes abgekratzt, um es zu begraben."
+        },
+        {
+          "text": "Er bringt die Männer und Frauen zu einem der öffentlichen Bunker, in denen die Terroristen eine alte Frau hinrichteten."
+        },
+        {
+          "text": "Er deutet auf Einschusslöcher in einem Baum."
+        },
+        {
+          "text": "Als Letztes bringt er die Gruppe zum abgebrannten Haus eines Ehepaars."
+        },
+        {
+          "text": "Die Besucher fotografieren alles, worauf Benny zeigt."
+        },
+        {
+          "text": "Etwa eine Stunde dauert die Führung durch Netiv Haasara, am Ende bedanken sich die Besucher bei Guide Benny."
+        },
+        {
+          "text": "Er wirkt erschöpft."
+        },
+        {
+          "text": "Zwei oder dreimal in der Woche führt er Menschen durch sein Zuhause."
+        },
+        {
+          "text": "»Das erste Mal war unglaublich hart«, sagt er."
+        },
+        {
+          "text": "Er versuche sich auf die Zahlen und Fakten zu konzentrieren."
+        },
+        {
+          "text": "»Aber das hier ist mein Zuhause. Und das waren meine Freunde«, sagt er."
+        },
+        {
+          "text": "Es sei das Mindeste, was er, der Überlebende, tun könne: an sie zu erinnern."
+        }
+      ],
+      "directQuotes": [
+        {
+          "text": "Das erste Mal war unglaublich hart"
+        },
+        {
+          "text": "Aber das hier ist mein Zuhause. Und das waren meine Freunde"
+        }
+      ],
+      "inIntro": false,
+      "inTitle": false,
+      "indirectQuotes": [
+        {
+          "text": "In Netiv Haasara, sagt Benny, seien die unsichtbaren Wunden größer als die sichtbaren."
+        },
+        {
+          "text": "Das sei eine Weile her, aber hart sei es eigentlich immer noch."
+        },
+        {
+          "text": "Er versuche sich auf die Zahlen und Fakten zu konzentrieren."
+        },
+        {
+          "text": "Es sei das Mindeste, was er, der Überlebende, tun könne: an sie zu erinnern."
+        }
+      ],
+      "isMain": false,
+      "name": "Benny",
+      "occupations": [
+        {
+          "text": "Guide"
+        }
+      ],
+      "occurrences": {
+        "firstNameOnly": 6,
+        "fullName": 0,
+        "lastNameOnly": 0,
+        "total": 6
+      },
+      "quotedInIntro": false,
+      "quotedInTitle": false,
+      "sex": "male"
+    },
+    {
+      "age": -1,
+      "alternativeNames": [],
+      "birthday": null,
+      "descriptiveTexts": [
+        {
+          "text": "Durch den Kibbuz führt Doron Libstein, der mehrere Familienmitglieder beim Angriff verloren hat."
+        },
+        {
+          "text": "Libstein führt zum Haus seines Bruders Ofir, um von dessen Tod zu erzählen."
+        },
+        {
+          "text": "»Er starb hier, unter diesem Olivenbaum«, sagt er."
+        },
+        {
+          "text": "Anschließend bringt Libstein die Besucher zur Straße, in der die jungen Kibbuz-Bewohner gelebt haben."
+        },
+        {
+          "text": "Libstein muss eigentlich schon wieder los, er wird heute noch eine weitere Gruppe durch den Kibbuz führen."
+        },
+        {
+          "text": "Libstein wartet bereits am Sammelplatz, als die letzten Mitreisenden eintrudeln."
+        },
+        {
+          "text": "Sie umarmen ihn, einer nach dem anderen, während er eigentlich schon weg ist."
+        },
+        {
+          "text": "Ein wenig wirkt es, als würden sie sich selbst trösten, wenn sie sich an ihn drücken."
+        }
+      ],
+      "directQuotes": [
+        {
+          "text": "Er starb hier, unter diesem Olivenbaum"
+        }
+      ],
+      "inIntro": false,
+      "inTitle": false,
+      "indirectQuotes": [],
+      "isMain": false,
+      "name": "Doron Libstein",
+      "occupations": [],
+      "occurrences": {
+        "firstNameOnly": 0,
+        "fullName": 1,
+        "lastNameOnly": 4,
+        "total": 5
+      },
+      "quotedInIntro": false,
+      "quotedInTitle": false,
+      "sex": "male"
+    },
+    {
+      "age": -1,
+      "alternativeNames": [],
+      "birthday": null,
+      "descriptiveTexts": [
+        {
+          "text": "Libstein führt zum Haus seines Bruders Ofir, um von dessen Tod zu erzählen."
+        },
+        {
+          "text": "»Er starb hier, unter diesem Olivenbaum«, sagt er."
+        }
+      ],
+      "directQuotes": [],
+      "inIntro": false,
+      "inTitle": false,
+      "indirectQuotes": [],
+      "isMain": false,
+      "name": "Ofir",
+      "occupations": [
+        {
+          "text": "Bruders"
+        }
+      ],
+      "occurrences": {
+        "firstNameOnly": 1,
+        "fullName": 0,
+        "lastNameOnly": 0,
+        "total": 1
+      },
+      "quotedInIntro": false,
+      "quotedInTitle": false,
+      "sex": "male"
+    },
+    {
+      "age": -1,
+      "alternativeNames": [],
+      "birthday": null,
+      "descriptiveTexts": [
+        {
+          "text": "Eine junge Frau kniet sich vor das Bild von Shani Louk und weint."
+        }
+      ],
+      "directQuotes": [],
+      "inIntro": false,
+      "inTitle": false,
+      "indirectQuotes": [],
+      "isMain": false,
+      "name": "Shani Louk",
+      "occupations": [],
+      "occurrences": {
+        "firstNameOnly": 0,
+        "fullName": 1,
+        "lastNameOnly": 0,
+        "total": 1
+      },
+      "quotedInIntro": false,
+      "quotedInTitle": false,
+      "sex": "female"
+    },
+    {
+      "age": -1,
+      "alternativeNames": [],
+      "birthday": null,
+      "descriptiveTexts": [
+        {
+          "text": "Elon Musk war da, Jerry Seinfeld, eine Armee an jüdischen C-Promis und Influencern."
+        }
+      ],
+      "directQuotes": [],
+      "inIntro": false,
+      "inTitle": false,
+      "indirectQuotes": [],
+      "isMain": false,
+      "name": "Elon Musk",
+      "occupations": [],
+      "occurrences": {
+        "firstNameOnly": 0,
+        "fullName": 1,
+        "lastNameOnly": 0,
+        "total": 1
+      },
+      "quotedInIntro": false,
+      "quotedInTitle": false,
+      "sex": "male"
+    },
+    {
+      "age": -1,
+      "alternativeNames": [],
+      "birthday": null,
+      "descriptiveTexts": [
+        {
+          "text": "Elon Musk war da, Jerry Seinfeld, eine Armee an jüdischen C-Promis und Influencern."
+        }
+      ],
+      "directQuotes": [],
+      "inIntro": false,
+      "inTitle": false,
+      "indirectQuotes": [],
+      "isMain": false,
+      "name": "Jerry Seinfeld",
+      "occupations": [],
+      "occurrences": {
+        "firstNameOnly": 0,
+        "fullName": 1,
+        "lastNameOnly": 0,
+        "total": 1
+      },
+      "quotedInIntro": false,
+      "quotedInTitle": false,
+      "sex": "male"
+    }
+  ],
+  "subtopics": [
+    "Krieg",
+    "Ausland",
+    "Gaza-Konflikt",
+    "Israel"
+  ]
+}

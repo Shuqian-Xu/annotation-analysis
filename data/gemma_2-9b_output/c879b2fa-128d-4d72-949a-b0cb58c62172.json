@@ -1,0 +1,236 @@
+{
+    "persons": [
+        {
+            "name": "Bezalel Smotrich",
+            "alternativeNames": [],
+            "age": -1,
+            "sex": "male",
+            "occurences": {
+                "total": 1,
+                "firstNameOnly": 0,
+                "lastNameOnly": 0,
+                "fullName": 1,
+                "nickname": 0
+            },
+            "inTitle": false,
+            "inIntro": false,
+            "_name": {
+                "firstname": "Bezalel",
+                "lastname": "Smotrich",
+                "nickname": null,
+                "alternative_names": [],
+                "academic_title": null,
+                "nobility_title_or_rank": null
+            },
+            "descriptiveTexts": [
+                {
+                    "text": "Was das im Detail bedeutet, bleibt zwar auch viele Monate nach Beginn des Krieges unklar, aber mit weniger als der vollst\u00e4ndigen Einnahme auch der letzten Stadt des Gazastreifens, werden sich der Nationale Sicherheitsminister Itamar Ben-Gvir und Finanzminister Bezalel Smotrich sicherlich nicht zufriedengeben."
+                }
+            ],
+            "occupations": [
+                {
+                    "text": "Finanzminister"
+                }
+            ],
+            "directQuotes": [
+                {
+                    "text": "totalen Sieg"
+                }
+            ],
+            "quotedInTitle": false,
+            "quotedInIntro": false
+        },
+        {
+            "name": "Benjamin Netanyahu",
+            "alternativeNames": [],
+            "age": -1,
+            "sex": "male",
+            "occurences": {
+                "total": 10,
+                "firstNameOnly": 0,
+                "lastNameOnly": 9,
+                "fullName": 1,
+                "nickname": 0
+            },
+            "inTitle": false,
+            "inIntro": true,
+            "_name": {
+                "firstname": "Benjamin",
+                "lastname": "Netanyahu",
+                "nickname": null,
+                "alternative_names": [],
+                "academic_title": null,
+                "nobility_title_or_rank": null
+            },
+            "descriptiveTexts": [
+                {
+                    "text": "Israels Premier Netanyahu wirkt entschlossen, die Grenzstadt Rafah anzugreifen, trotz der mehr als anderthalb Millionen Fl\u00fcchtlingen dort \u2013 und gegen den Willen der USA."
+                },
+                {
+                    "text": "Warum h\u00e4lt er so vehement an dem Plan fest?"
+                },
+                {
+                    "text": "Denn Benjamin Netanyahu ist, so scheint es, wegen des Kurswechsels der Amerikaner endg\u00fcltig der Kragen geplatzt."
+                },
+                {
+                    "text": "Nicht nur die USA bezweifeln, dass das m\u00f6glich ist, und warnen vor einem humanit\u00e4ren Desaster, sollte Netanyahu von seinen Pl\u00e4nen nicht ablassen."
+                },
+                {
+                    "text": "Doch Netanyahu entschied sich nach dem Uno-Votum f\u00fcr die direkte Konfrontation mit den USA."
+                },
+                {
+                    "text": "Schl\u00e4gt Netanyahu nun alle Warnungen in den Wind und greift Rafah an?"
+                },
+                {
+                    "text": "Warum h\u00e4lt er \u00fcberhaupt seit Wochen so eisern an der Notwendigkeit einer Offensive in der Stadt fest?"
+                },
+                {
+                    "text": "Er wei\u00df, dass seine rechtsextremen Koalitionspartner einen \u00bbtotalen Sieg\u00ab einfordern, so hatte es der Premier selbst immerzu versprochen."
+                },
+                {
+                    "text": "Netanyahu wei\u00df inzwischen sicher auch, dass er die Hamas-Ideologie nicht besiegen kann."
+                },
+                {
+                    "text": "Aber eine Niederlage, die die milit\u00e4rischen M\u00f6glichkeiten der Islamisten auf Jahre weitgehend ausschalten w\u00fcrde, sei erreichbar, behaupten Netanyahu und sein Verteidigungsminister Yoav Gallant."
+                },
+                {
+                    "text": "Oder wie Premier Netanyahu es zusammenfasst: \u00bbWer immer uns sagt, wir sollten nicht in Rafah vorgehen, sagt uns, dass wir den Krieg verlieren sollen \u2013 das wird nicht geschehen\u00ab."
+                },
+                {
+                    "text": "Wird Netanyahu die Reservisten genau zu diesem Zeitpunkt ihren Familien entrei\u00dfen wollen?"
+                },
+                {
+                    "text": "Vielleicht will Netanyahu mit seinem vom Zaun gebrochenen Streit mit Washington lediglich einem Bruch seiner Koalition vorbauen."
+                },
+                {
+                    "text": "Indem er sich gegen den \u00fcberm\u00e4chtigen Verb\u00fcndeten stellt, kann er seinen rechtsextremen Koalitionspartnern erkl\u00e4ren, dass nicht er m\u00f6glicherweise vor einem Gro\u00dfangriff auf Rafah zur\u00fcckscheut, sondern die USA ihn dazu zwingen."
+                }
+            ],
+            "occupations": [
+                {
+                    "text": "Premier"
+                },
+                {
+                    "text": "eisern an der Notwendigkeit einer Offensive in der Stadt fest"
+                },
+                {
+                    "text": "Israels Premier"
+                }
+            ],
+            "directQuotes": [
+                {
+                    "text": "Wer immer uns sagt, wir sollten nicht in Rafah vorgehen, sagt uns, dass wir den Krieg verlieren sollen \u2013 das wird nicht geschehen"
+                }
+            ],
+            "quotedInTitle": false,
+            "quotedInIntro": true
+        },
+        {
+            "name": "John Kirby",
+            "alternativeNames": [],
+            "age": -1,
+            "sex": "male",
+            "occurences": {
+                "total": 1,
+                "firstNameOnly": 0,
+                "lastNameOnly": 0,
+                "fullName": 1,
+                "nickname": 0
+            },
+            "inTitle": false,
+            "inIntro": false,
+            "_name": {
+                "firstname": "John",
+                "lastname": "Kirby",
+                "nickname": null,
+                "alternative_names": [],
+                "academic_title": null,
+                "nobility_title_or_rank": null
+            },
+            "descriptiveTexts": [
+                {
+                    "text": "Die Absage des Treffens verbl\u00fcffte auch die andere Seite: \u00bbWir sind ziemlich perplex\u00ab, sagte der Kommunikationsdirektor des Nationalen Sicherheitsrates, John Kirby, am Montag."
+                }
+            ],
+            "occupations": [],
+            "directQuotes": [
+                {
+                    "text": "Wir sind ziemlich perplex"
+                }
+            ],
+            "quotedInTitle": false,
+            "quotedInIntro": false
+        },
+        {
+            "name": "Yoav Gallant",
+            "alternativeNames": [],
+            "age": -1,
+            "sex": "male",
+            "occurences": {
+                "total": 1,
+                "firstNameOnly": 0,
+                "lastNameOnly": 0,
+                "fullName": 1,
+                "nickname": 0
+            },
+            "inTitle": false,
+            "inIntro": false,
+            "_name": {
+                "firstname": "Yoav",
+                "lastname": "Gallant",
+                "nickname": null,
+                "alternative_names": [],
+                "academic_title": null,
+                "nobility_title_or_rank": null
+            },
+            "descriptiveTexts": [
+                {
+                    "text": "Aber eine Niederlage, die die milit\u00e4rischen M\u00f6glichkeiten der Islamisten auf Jahre weitgehend ausschalten w\u00fcrde, sei erreichbar, behaupten Netanyahu und sein Verteidigungsminister Yoav Gallant."
+                }
+            ],
+            "occupations": [
+                {
+                    "text": "Netanyahu und sein Verteidigungsminister Yoav Gallant"
+                },
+                {
+                    "text": "Verteidigungsminister"
+                }
+            ],
+            "directQuotes": [],
+            "quotedInTitle": false,
+            "quotedInIntro": false
+        },
+        {
+            "name": "Itamar Ben-Gvir",
+            "alternativeNames": [],
+            "age": -1,
+            "sex": "male",
+            "occurences": {
+                "total": 1,
+                "firstNameOnly": 0,
+                "lastNameOnly": 0,
+                "fullName": 1,
+                "nickname": 0
+            },
+            "inTitle": false,
+            "inIntro": false,
+            "_name": {
+                "firstname": "Itamar",
+                "lastname": "Ben-Gvir",
+                "nickname": null,
+                "alternative_names": [],
+                "academic_title": null,
+                "nobility_title_or_rank": null
+            },
+            "descriptiveTexts": [
+                {
+                    "text": "Was das im Detail bedeutet, bleibt zwar auch viele Monate nach Beginn des Krieges unklar, aber mit weniger als der vollst\u00e4ndigen Einnahme auch der letzten Stadt des Gazastreifens, werden sich der Nationale Sicherheitsminister Itamar Ben-Gvir und Finanzminister Bezalel Smotrich sicherlich nicht zufriedengeben."
+                }
+            ],
+            "occupations": [],
+            "directQuotes": [],
+            "quotedInTitle": false,
+            "quotedInIntro": false
+        }
+    ]
+}

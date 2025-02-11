@@ -1,0 +1,127 @@
+{
+  "persons": [
+    {
+      "age": 58, 
+      "alternativeNames": [],
+      "birthday": null,
+      "descriptiveTexts": [
+        {
+          "text": "Händler wie Thomas Sieling reisen extra nach Japan, um vielversprechende Exemplare nach Deutschland zu holen – und sie teuer zu verkaufen."
+        },
+        {
+          "text": "Und die ruhige Stimme von Thomas Sieling, der durch das Treibhaus führt – seine 40 mal 15 Meter große Verkaufshalle."
+        },
+        {
+          "text": "Er geht über einen Betonweg und wirft eine Handvoll Körner in ein Wasserbecken."
+        },
+        {
+          "text": "Sieling handelt etwa 20 Kilometer südlich von Hamburg mit Koi-Karpfen; der Koi ist ein weltweit bewunderter Fisch."
+        },
+        {
+          "text": "Er reist mehrmals im Jahr nach Japan, um die Tiere direkt in Zuchtbetrieben einzukaufen."
+        },
+        {
+          "text": "Woanders einzukaufen ist für Sieling keine Option."
+        },
+        {
+          "text": "Thomas Sieling ist Zwischenhändler."
+        },
+        {
+          "text": "»Es gibt nirgendwo auf der Welt so viele verschiedene und hochwertige Kois wie dort«, sagt der 58-Jährige."
+        },
+        {
+          "text": "Gerade erst war er wieder in Japan."
+        },
+        {
+          "text": "Er war dabei, als die Naturteiche abgefischt wurden."
+        },
+        {
+          "text": "Die letzten rund 500 Kilometer ihrer Reise nach Nord-Niedersachsen fährt Sieling sie mit einem kleinen Lkw."
+        },
+        {
+          "text": "Er verkauft sie später an Gartencenter, Zoohandlungen oder reine Koi-Läden."
+        },
+        {
+          "text": "»Ein Fisch braucht mindestens 1000 Liter Wasser, um sich ideal zu entwickeln«, sagt Sieling."
+        },
+        {
+          "text": "Auf die Frage, warum die Tiere in Deutschland beliebt sind, nennt Sieling zwei Gründe."
+        },
+        {
+          "text": "»Sie können zahm werden wie ein Hund oder eine Katze und einem aus der Hand fressen«, erzählt er."
+        },
+        {
+          "text": "Preise von etwa 1000 Euro sind bei Sieling nicht ungewöhnlich."
+        },
+        {
+          "text": "Er hat sogar einmal einen Fisch für 30.000 Euro verkauft – sein Rekord bislang."
+        },
+        {
+          "text": "»Sie haben eine größere Leinwand«, sagt Sieling."
+        },
+        {
+          "text": "Bei dem schwarz-rot-weiß gefleckten Koi in Sielings Verkaufshalle kann man das schon einschätzen."
+        },
+        {
+          "text": "Für sie bekommt Thomas Sieling rund 30 Euro pro Tier."
+        },
+        {
+          "text": "Neun von zehn Tieren sähen schon in einem Jahr nicht so schön aus, wie man es sich erträumt habe, schätzt er."
+        }
+      ],
+      "directQuotes": [
+        {
+          "text": "Es gibt nirgendwo auf der Welt so viele verschiedene und hochwertige Kois wie dort"
+        },
+        {
+          "text": "Ein Fisch braucht mindestens 1000 Liter Wasser, um sich ideal zu entwickeln"
+        },
+        {
+          "text": "Sie können zahm werden wie ein Hund oder eine Katze und einem aus der Hand fressen"
+        },
+        {
+          "text": "Sie haben eine größere Leinwand"
+        }
+      ],
+      "inIntro": true,
+      "inTitle": false,
+      "indirectQuotes": [
+        {
+          "text": "Es sei möglich, eine Haustier-Beziehung zu ihnen aufzubauen."
+        },
+        {
+          "text": "Der andere Grund sei ihre Schönheit."
+        },
+        {
+          "text": "Manche Menschen erfreue es einfach, die majestätischen Tiere durchs Wasser gleiten zu sehen."
+        },
+        {
+          "text": "Einige so sehr, dass sie Kois wie Kunstwerke betrachteten."
+        },
+        {
+          "text": "Neun von zehn Tieren sähen schon in einem Jahr nicht so schön aus, wie man es sich erträumt habe, schätzt er."
+        }
+      ],
+      "isMain": true,
+      "name": "Thomas Sieling",
+      "occupations": [
+        {
+          "text": "Zwischenhändler"
+        }
+      ],
+      "occurences": {
+        "firstNameOnly": 0,
+        "fullName": 4,
+        "lastNameOnly": 8,
+        "total": 12
+      },
+      "quotedInIntro": false,
+      "quotedInTitle": false,
+      "sex": "male"
+    }
+  ],
+  "subtopics": [
+    "Koi", "Fische", "Tierhandel",
+    "Lifestyle"
+  ]
+}

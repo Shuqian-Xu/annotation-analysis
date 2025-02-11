@@ -1,0 +1,176 @@
+{
+	"persons": [
+		{
+			"age": 55,
+			"alternativeNames": [],
+			"birthday": null,
+			"descriptiveTexts": [
+				{
+					"text": "Harald Kröger war Topmanager bei Daimler, Geschäftsführer von Bosch und saß im Board von Tesla."
+				},
+				{
+					"text": "Nun will er mit dem US-Start-up Sima.ai die Autobranche aufmischen – und freut sich über den Gewinn der Weltmeisterschaft für KI-Chips."
+				},
+				{
+					"text": "Autos und Technik bestimmen die Karriere des Harald Kröger (55)."
+				},
+				{
+					"text": "Er studierte Wirtschaftswissenschaften, Elektrotechnik und Elektronik in Hannover und an der Stanford University in den USA, im Herzen des Silicon Valley."
+				},
+				{
+					"text": "Von dort ging der passionierte Fußballfan (SC Preußen Münster) und Vater dreier Kinder bei der damaligen Daimler-Benz AG in den Bereich Radarsensorik, später leitete er die Entwicklung für Elektronik und E-Drive und saß für die Deutschen eine Zeit lang im Aufsichtsrat von Tesla."
+				},
+				{
+					"text": "Es folgten Führungsaufgaben bei Bosch, wo Kröger von 2019 bis Ende 2021 Teil der Geschäftsführung war."
+				},
+				{
+					"text": "Im Laufe des vergangenen Jahres meldete sich Krishna Rangasayee bei ihm, der Gründer und Chef von Sima.ai."
+				},
+				{
+					"text": "Kröger sollte helfen, einen erfahrenen Manager mit besten Kontakten zu finden – und stieg kurzerhand selbst ein."
+				},
+				{
+					"text": "Seit Anfang 2023 ist er Aufsichtsrat und President Automotive bei Sima.ai."
+				},
+				{
+					"text": "manager magazin: Herr Kröger, herzlichen Glückwunsch!"
+				},
+				{
+					"text": "Sie hatten in der vergangenen Woche Grund zum Feiern."
+				},
+				{
+					"text": "Harald Kröger: Ja, wir haben mit Sima.ai, einem Start-up, bei dem ich im Aufsichtsrat und gleichzeitig operativ »Mister Automotive« bin, den Machine-Learning-Performance-Wettbewerb in den USA gewonnen, den MLPerf."
+				},
+				{
+					"text": "Und jetzt hat unser Sieg für einen echten Knall gesorgt – denn nur wenige Insider hatten uns auf dem Zettel."
+				},
+				{
+					"text": "Sie sind also das Marokko der Halbleiterwelt."
+				},
+				{
+					"text": "Und wir setzen – anders als Marokko (alle Fans mögen es mir verzeihen) – nicht auf Verteidigung, sondern auf Angriff."
+				},
+				{
+					"text": "Uns gibt es erst seit vier Jahren."
+				},
+				{
+					"text": "Wie haben Sie es denn geschafft, all die Großen zu schlagen?"
+				},
+				{
+					"text": "Wir haben auf einen Chip und eine Software gesetzt, die nur für Machine Learning konzipiert wurden, für nichts anderes."
+				},
+				{
+					"text": "In unserer Kategorie 'Edge power' in allen."
+				},
+				{
+					"text": "Unser Chip hat weniger Energie verbraucht und konnte auch mit höherer Geschwindigkeit die einströmenden Bilder verarbeiten als die relevanten Wettbewerberprodukte."
+				},
+				{
+					"text": "Jetzt haben Sie mit dem MLPerf die Weltmeisterschaft gewonnen."
+				},
+				{
+					"text": "Weil wir sehr gut sind."
+				},
+				{
+					"text": "Wir konnten bereits erste Kunden für unseren Chip außerhalb der Autoindustrie gewinnen."
+				},
+				{
+					"text": "Und warten Sie noch ein bisschen: Wir sind guter Dinge, bald auch die ersten Automotive Partner zu präsentieren."
+				},
+				{
+					"text": "Was ich deutlich spüre: Die Autoindustrie weiß heute, dass man nur vorn mitspielen kann, wenn man viel schneller ist, wenn man viel mehr Risiken eingeht."
+				}
+			],
+			"directQuotes": [
+				{
+					"text": "Ja, wir haben mit Sima.ai, einem Start-up, bei dem ich im Aufsichtsrat und gleichzeitig operativ »Mister Automotive« bin, den Machine-Learning-Performance-Wettbewerb in den USA gewonnen, den MLPerf. Eigentlich ein super nerdiges Event – die Weltmeisterschaft für KI-Chips. Und jetzt hat unser Sieg für einen echten Knall gesorgt – denn nur wenige Insider hatten uns auf dem Zettel."
+				},
+				{
+					"text": "Aber Marokko hat am Ende nicht gewonnen. Und wir setzen – anders als Marokko (alle Fans mögen es mir verzeihen) – nicht auf Verteidigung, sondern auf Angriff. Beim MLPerf konkurrieren sonst nur die ganz Großen, Unternehmen mit Marktkapitalisierungen von mehr als 100 Milliarden Dollar und Zehntausenden von Mitarbeitern: Qualcomm, Intel oder AMD. Noch nie ist dort ein Start-up in unserer Kategorie »Edge« überhaupt nur angetreten. Uns gibt es erst seit vier Jahren."
+				},
+				{
+					"text": "Nvidia gilt in der Autoindustrie als Goldstandard bei den Chips. Wir haben auf einen Chip und eine Software gesetzt, die nur für Machine Learning konzipiert wurden, für nichts anderes. Bisher werden für fast alle Anwendungen Grafikkartenchips eingesetzt, die gut in Rechenzentren funktionieren. Aber in Edge Devices, also in Dingen wie Kameras, Robotern oder Fahrzeugen haben sie Nachteile; für solche Einsätze sind sie viel zu stromhungrig, brauchen damit aufwendige Kühlung und verringern die Reichweite der Batterie."
+				},
+				{
+					"text": "In unserer Kategorie »Edge power« in allen. Unser Chip hat weniger Energie verbraucht und konnte auch mit höherer Geschwindigkeit die einströmenden Bilder verarbeiten als die relevanten Wettbewerberprodukte."
+				},
+				{
+					"text": "Weil wir sehr gut sind. Wir konnten bereits erste Kunden für unseren Chip außerhalb der Autoindustrie gewinnen. Und warten Sie noch ein bisschen: Wir sind guter Dinge, bald auch die ersten Automotive Partner zu präsentieren. Was ich deutlich spüre: Die Autoindustrie weiß heute, dass man nur vorn mitspielen kann, wenn man viel schneller ist, wenn man viel mehr Risiken eingeht. Wer einfach so weiter macht, wie bisher, der wird untergehen – die Welt ist für so eine Strategie einfach zu schnell geworden. Und das gilt nicht nur für Automotive, sondern für fast alle Industriezweige."
+				}
+			],
+			"inIntro": true,
+			"inTitle": true,
+			"indirectQuotes": [],
+			"isMain": true,
+			"name": "Harald Kröger",
+			"occupations": [
+				{
+					"text": "Topmanager bei Daimler"
+				},
+				{
+					"text": "Geschäftsführer von Bosch"
+				},
+				{
+					"text": "Board von Tesla"
+				},
+				{
+					"text": "Fußballfan (SC Preußen Münster)"
+				},
+				{
+					"text": "Vater dreier Kinder"
+				},
+				{
+					"text": "Aufsichtsrat und President Automotive bei Sima.ai"
+				},
+				{
+					"text": "Mister Automotive"
+				}
+			],
+			"occurrences": {
+				"firstNameOnly": 0,
+				"fullName": 3,
+				"lastNameOnly": 3,
+				"total": 6
+			},
+			"quotedInIntro": false,
+			"quotedInTitle": true,
+			"sex": "male"
+		},
+		{
+			"age": -1,
+			"alternativeNames": [],
+			"birthday": null,
+			"descriptiveTexts": [
+				{
+					"text": "Im Laufe des vergangenen Jahres meldete sich Krishna Rangasayee bei ihm, der Gründer und Chef von Sima.ai."
+				}
+			],
+			"directQuotes": [],
+			"inIntro": false,
+			"inTitle": false,
+			"indirectQuotes": [],
+			"isMain": false,
+			"name": "Krishna Rangasayee",
+			"occupations": [
+				{
+					"text": "Gründer und Chef von Sima.ai"
+				}
+			],
+			"occurrences": {
+				"firstNameOnly": 0,
+				"fullName": 1,
+				"lastNameOnly": 0,
+				"total": 1
+			},
+			"quotedInIntro": false,
+			"quotedInTitle": false,
+			"sex": "male"
+		}
+	],
+	"subtopics": [
+		"KI",
+		"Autoindustrie",
+		"Chipherstellung",
+		"Startup"
+	]
+}

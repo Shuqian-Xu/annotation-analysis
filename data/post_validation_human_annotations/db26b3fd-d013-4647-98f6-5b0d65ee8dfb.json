@@ -1,0 +1,414 @@
+{
+	"persons": [
+		{
+			"age": -1,
+			"alternativeNames": [],
+			"birthday": null,
+			"descriptiveTexts": [
+				{
+					"text": "Bank-Baumeister und Private-Equity-Milliardäre"
+				},
+				{
+					"text": "Heute mit Deutsche-Bank-Chef Christian Sewing als Wachstumsmanager, dem Geldadel in Berlin und einem neuen Tor zum Internet."
+				},
+				{
+					"text": "Deutsche-Bank-Chef Christian Sewing schaltete in den Notfallmodus, griff zum Telefon und versicherte wichtigen Kunden und Großaktionären, dass es keinen Grund zur Sorge gebe."
+				},
+				{
+					"text": "Und für Sewing ist es der Beweis dafür, dass »wir die Bank gedreht haben und sie wieder resilient ist«."
+				},
+				{
+					"text": "Doch Sewing will nicht nur als Sanierer in die Geschichtsbücher der Bank eingehen."
+				},
+				{
+					"text": "Als derjenige, der lediglich die Probleme der Vorgänger aus dem Weg räumt."
+				},
+				{
+					"text": "Er will auch Baumeister sein und einen eigenen Beitrag für die Zukunft des Geldhauses hinterlassen."
+				},
+				{
+					"text": "Dafür muss er sich nun als Wachstumsmanager beweisen."
+				},
+				{
+					"text": "Meine Kollegin Katharina Slodczyk hat sich Sewings bisherige Performance angesehen und analysiert, ob der Bankenchef der Richtige für diese Aufgabe ist."
+				},
+				{
+					"text": "Endgültige Vereinigung zweier Banken: Während Christian Sewing nach dem Bankenbeben am Wachstum der Deutschen Bank werkelt, steht die Schweizer Großbank UBS bei der geplanten Übernahme des angeschlagenen Rivalen Credit Suisse kurz vor dem Ziel: Die Notübernahme ist kompliziert, soll nun aber in einer Woche abgeschlossen sein."
+				}
+			],
+			"directQuotes": [
+				{
+					"text": "wir die Bank gedreht haben und sie wieder resilient ist"
+				}
+			],
+			"inIntro": true,
+			"inTitle": true,
+			"indirectQuotes": [
+				{
+					"text": "Deutsche-Bank-Chef Christian Sewing schaltete in den Notfallmodus, griff zum Telefon und versicherte wichtigen Kunden und Großaktionären, dass es keinen Grund zur Sorge gebe."
+				}
+			],
+			"isMain": false,
+			"name": "Christian Sewing",
+			"occupations": [
+				{
+					"text": "Bank-Baumeister"
+				},
+				{
+					"text": "Wachstumsmanager"
+				},
+				{
+					"text": "Deutsche-Bank-Chef"
+				}
+			],
+			"occurrences": {
+				"firstNameOnly": 0,
+				"fullName": 3,
+				"lastNameOnly": 3,
+				"total": 6
+			},
+			"quotedInIntro": false,
+			"quotedInTitle": false,
+			"sex": "male"
+		},
+		{
+			"age": -1,
+			"alternativeNames": [],
+			"birthday": null,
+			"descriptiveTexts": [
+				{
+					"text": "Jeden Abend fassen wir die wichtigsten Wirtschaftsnews des Tages zusammen."
+				},
+				{
+					"text": "Meine Kollegin Katharina Slodczyk hat sich Sewings bisherige Performance angesehen und analysiert, ob der Bankenchef der Richtige für diese Aufgabe ist."
+				},
+				{
+					"text": "Im Interview mit meiner Kollegin Christina Kyriasoglou erklärt Vorstand Bobby Morrison seine neue Strategie."
+				},
+				{
+					"text": "Meine Kollegin Maren Jensen stellt Ihnen zehn der interessantesten Speaker vor."
+				},
+				{
+					"text": "Die Analyse meiner Kollegin Alexandra Knape zeigt Unternehmen, Umsätze – und das Vermögen der Dynastien dahinter."
+				},
+				{
+					"text": "Meine Empfehlung für den Abend: Heute um 19 Uhr deutscher Zeit findet die wohl wichtigste Premiere von Apple-Chef Tim Cook statt: Bei Apples Entwicklerkonferenz WWDC am Firmensitz in Cupertino will der CEO erstmals eine Apple-Datenbrille vorstellen (hier der Stream)."
+				},
+				{
+					"text": "Warum der Apple-Boss für die Datenbrille seine Strategie ändert und was davon zu halten ist, hat mein Kollege Jonas Rest bereits im Vorfeld für Sie aufgeschrieben."
+				},
+				{
+					"text": "Viele Grüße, Ihre Hannah Steinharter"
+				},
+				{
+					"text": "Haben Sie Wünsche, Anregungen, Informationen, um die wir uns journalistisch kümmern sollten?"
+				},
+				{
+					"text": "Wir freuen uns auf Ihre Post unter chefredaktion@manager-magazin.de."
+				}
+			],
+			"directQuotes": [],
+			"inIntro": true,
+			"inTitle": false,
+			"indirectQuotes": [],
+			"isMain": false,
+			"name": "Hannah Steinharter",
+			"occupations": [],
+			"occurrences": {
+				"firstNameOnly": 0,
+				"fullName": 1,
+				"lastNameOnly": 0,
+				"total": 1
+			},
+			"quotedInIntro": false,
+			"quotedInTitle": false,
+			"sex": "female"
+		},
+		{
+			"age": -1,
+			"alternativeNames": [],
+			"birthday": null,
+			"descriptiveTexts": [
+				{
+					"text": "Meine Kollegin Katharina Slodczyk hat sich Sewings bisherige Performance angesehen und analysiert, ob der Bankenchef der Richtige für diese Aufgabe ist."
+				},
+				{
+					"text": "Ihre Einschätzung lesen Sie hier."
+				}
+			],
+			"directQuotes": [],
+			"inIntro": false,
+			"inTitle": false,
+			"indirectQuotes": [],
+			"isMain": false,
+			"name": "Katharina Slodczyk",
+			"occupations": [
+				{
+					"text": "Kollegin"
+				}
+			],
+			"occurrences": {
+				"firstNameOnly": 0,
+				"fullName": 1,
+				"lastNameOnly": 0,
+				"total": 1
+			},
+			"quotedInIntro": false,
+			"quotedInTitle": false,
+			"sex": "female"
+		},
+		{
+			"age": -1,
+			"alternativeNames": [],
+			"birthday": null,
+			"descriptiveTexts": [
+				{
+					"text": "Die Wirtschaftsnews des Tages: Neue Pläne bei Shopify: Die Softwarefirma des deutschen Gründers Tobias Lütke gilt als Stern am Techhimmel und war zeitweise mehr als 200 Milliarden Dollar wert."
+				}
+			],
+			"directQuotes": [],
+			"inIntro": false,
+			"inTitle": false,
+			"indirectQuotes": [],
+			"isMain": false,
+			"name": "Tobias Lütke",
+			"occupations": [
+				{
+					"text": "Gründers"
+				}
+			],
+			"occurrences": {
+				"firstNameOnly": 0,
+				"fullName": 1,
+				"lastNameOnly": 0,
+				"total": 1
+			},
+			"quotedInIntro": false,
+			"quotedInTitle": false,
+			"sex": "male"
+		},
+		{
+			"age": -1,
+			"alternativeNames": [],
+			"birthday": null,
+			"descriptiveTexts": [
+				{
+					"text": "Im Interview mit meiner Kollegin Christina Kyriasoglou erklärt Vorstand Bobby Morrison seine neue Strategie."
+				}
+			],
+			"directQuotes": [],
+			"inIntro": false,
+			"inTitle": false,
+			"indirectQuotes": [],
+			"isMain": false,
+			"name": "Christina Kyriasoglou",
+			"occupations": [
+				{
+					"text": "Kollegin"
+				}
+			],
+			"occurrences": {
+				"firstNameOnly": 0,
+				"fullName": 1,
+				"lastNameOnly": 0,
+				"total": 1
+			},
+			"quotedInIntro": false,
+			"quotedInTitle": false,
+			"sex": "female"
+		},
+		{
+			"age": -1,
+			"alternativeNames": [],
+			"birthday": null,
+			"descriptiveTexts": [
+				{
+					"text": "Im Interview mit meiner Kollegin Christina Kyriasoglou erklärt Vorstand Bobby Morrison seine neue Strategie."
+				}
+			],
+			"directQuotes": [],
+			"inIntro": false,
+			"inTitle": false,
+			"indirectQuotes": [],
+			"isMain": false,
+			"name": "Bobby Morrison",
+			"occupations": [
+				{
+					"text": "Vorstand"
+				}
+			],
+			"occurrences": {
+				"firstNameOnly": 0,
+				"fullName": 1,
+				"lastNameOnly": 0,
+				"total": 1
+			},
+			"quotedInIntro": false,
+			"quotedInTitle": false,
+			"sex": "male"
+		},
+		{
+			"age": -1,
+			"alternativeNames": [],
+			"birthday": null,
+			"descriptiveTexts": [
+				{
+					"text": "Meine Kollegin Maren Jensen stellt Ihnen zehn der interessantesten Speaker vor."
+				}
+			],
+			"directQuotes": [],
+			"inIntro": false,
+			"inTitle": false,
+			"indirectQuotes": [],
+			"isMain": false,
+			"name": "Maren Jensen",
+			"occupations": [
+				{
+					"text": "Kollegin"
+				}
+			],
+			"occurrences": {
+				"firstNameOnly": 0,
+				"fullName": 1,
+				"lastNameOnly": 0,
+				"total": 1
+			},
+			"quotedInIntro": false,
+			"quotedInTitle": false,
+			"sex": "female"
+		},
+		{
+			"age": -1,
+			"alternativeNames": [],
+			"birthday": null,
+			"descriptiveTexts": [
+				{
+					"text": "Die Analyse meiner Kollegin Alexandra Knape zeigt Unternehmen, Umsätze – und das Vermögen der Dynastien dahinter."
+				}
+			],
+			"directQuotes": [],
+			"inIntro": false,
+			"inTitle": false,
+			"indirectQuotes": [],
+			"isMain": false,
+			"name": "Alexandra Knape",
+			"occupations": [
+				{
+					"text": "Kollegin"
+				}
+			],
+			"occurrences": {
+				"firstNameOnly": 0,
+				"fullName": 1,
+				"lastNameOnly": 0,
+				"total": 1
+			},
+			"quotedInIntro": false,
+			"quotedInTitle": false,
+			"sex": "female"
+		},
+		{
+			"age": -1,
+			"alternativeNames": [],
+			"birthday": null,
+			"descriptiveTexts": [
+				{
+					"text": "Professorin Sandra Matz erklärt hier, wie dieses Marketing funktioniert und was es leisten kann."
+				}
+			],
+			"directQuotes": [],
+			"inIntro": false,
+			"inTitle": false,
+			"indirectQuotes": [],
+			"isMain": false,
+			"name": "Sandra Matz",
+			"occupations": [
+				{
+					"text": "Professorin"
+				}
+			],
+			"occurrences": {
+				"firstNameOnly": 0,
+				"fullName": 1,
+				"lastNameOnly": 0,
+				"total": 1
+			},
+			"quotedInIntro": false,
+			"quotedInTitle": false,
+			"sex": "female"
+		},
+		{
+			"age": -1,
+			"alternativeNames": [],
+			"birthday": null,
+			"descriptiveTexts": [
+				{
+					"text": "Meine Empfehlung für den Abend: Heute um 19 Uhr deutscher Zeit findet die wohl wichtigste Premiere von Apple-Chef Tim Cook statt: Bei Apples Entwicklerkonferenz WWDC am Firmensitz in Cupertino will der CEO erstmals eine Apple-Datenbrille vorstellen (hier der Stream)."
+				},
+				{
+					"text": "Klar ist aber schon: Cook verlässt mit dem Mixed-Reality-Headset das eingeübte Apple-Playbook zur Eroberung neuer Geschäfte, denn für gewöhnlich dringt der Konzern einfach in Märkte vor, die sich bereits herausgebildet haben."
+				},
+				{
+					"text": "Warum der Apple-Boss für die Datenbrille seine Strategie ändert und was davon zu halten ist, hat mein Kollege Jonas Rest bereits im Vorfeld für Sie aufgeschrieben."
+				}
+			],
+			"directQuotes": [],
+			"inIntro": false,
+			"inTitle": false,
+			"indirectQuotes": [],
+			"isMain": false,
+			"name": "Tim Cook",
+			"occupations": [
+				{
+					"text": "Apple-Chef"
+				}
+			],
+			"occurrences": {
+				"firstNameOnly": 0,
+				"fullName": 1,
+				"lastNameOnly": 1,
+				"total": 2
+			},
+			"quotedInIntro": false,
+			"quotedInTitle": false,
+			"sex": "male"
+		},
+		{
+			"age": -1,
+			"alternativeNames": [],
+			"birthday": null,
+			"descriptiveTexts": [
+				{
+					"text": "Warum der Apple-Boss für die Datenbrille seine Strategie ändert und was davon zu halten ist, hat mein Kollege Jonas Rest bereits im Vorfeld für Sie aufgeschrieben."
+				}
+			],
+			"directQuotes": [],
+			"inIntro": false,
+			"inTitle": false,
+			"indirectQuotes": [],
+			"isMain": false,
+			"name": "Jonas Rest",
+			"occupations": [
+				{
+					"text": "Kollege"
+				}
+			],
+			"occurrences": {
+				"firstNameOnly": 0,
+				"fullName": 1,
+				"lastNameOnly": 0,
+				"total": 1
+			},
+			"quotedInIntro": false,
+			"quotedInTitle": false,
+			"sex": "male"
+		}
+	],
+	"subtopics": [
+		"Wirtschaftswachstum",
+		"Führungskräfte",
+		"Personalwesen",
+		"Technologie",
+		"Autoindustrie"
+	]
+}

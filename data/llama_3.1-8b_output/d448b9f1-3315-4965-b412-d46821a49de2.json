@@ -1,0 +1,331 @@
+{
+    "persons": [
+        {
+            "name": "Olaf Scholz",
+            "alternativeNames": [],
+            "age": -1,
+            "sex": "male",
+            "occurences": {
+                "total": 1,
+                "firstNameOnly": 0,
+                "lastNameOnly": 0,
+                "fullName": 1,
+                "nickname": 0
+            },
+            "inTitle": false,
+            "inIntro": false,
+            "_name": {
+                "firstname": "Olaf",
+                "lastname": "Scholz",
+                "nickname": null,
+                "alternative_names": [],
+                "academic_title": null,
+                "nobility_title_or_rank": null
+            },
+            "descriptiveTexts": [
+                {
+                    "text": "Bundeskanzler Olaf Scholz etwa, selbst nicht gerade f\u00fcr Alarmismus und Pathos bekannt, verurteilt die \u00bbAssimilationsfantasien\u00ab dieser Leute inzwischen scharf und verspricht: \u00bbWir sch\u00fctzen alle.\u00ab"
+                }
+            ],
+            "occupations": [
+                {
+                    "text": "Bundeskanzler"
+                },
+                {
+                    "text": "Politiker"
+                }
+            ],
+            "directQuotes": [
+                {
+                    "text": "Assimilationsfantasien"
+                },
+                {
+                    "text": "Wir sch\u00fctzen alle."
+                }
+            ],
+            "quotedInTitle": false,
+            "quotedInIntro": false
+        },
+        {
+            "name": "Sven Schulze",
+            "alternativeNames": [],
+            "age": -1,
+            "sex": "male",
+            "occurences": {
+                "total": 1,
+                "firstNameOnly": 0,
+                "lastNameOnly": 0,
+                "fullName": 1,
+                "nickname": 0
+            },
+            "inTitle": false,
+            "inIntro": false,
+            "_name": {
+                "firstname": "Sven",
+                "lastname": "Schulze",
+                "nickname": null,
+                "alternative_names": [],
+                "academic_title": null,
+                "nobility_title_or_rank": null
+            },
+            "descriptiveTexts": [
+                {
+                    "text": "\u00bbWer allen Menschen mit ausl\u00e4ndischem Hintergrund signalisiert, dass sie nicht willkommen sind, setzt ein verheerendes Zeichen\u00ab, sagte Parteichef Sven Schulze der \u00bbMitteldeutschen Zeitung\u00ab."
+                }
+            ],
+            "occupations": [
+                {
+                    "text": "Politiker"
+                }
+            ],
+            "directQuotes": [
+                {
+                    "text": "Wer allen Menschen mit ausl\u00e4ndischem Hintergrund signalisiert, dass sie nicht willkommen sind, setzt ein verheerendes Zeichen"
+                }
+            ],
+            "quotedInTitle": false,
+            "quotedInIntro": false
+        },
+        {
+            "name": "Ulrich Siegmund",
+            "alternativeNames": [],
+            "age": -1,
+            "sex": "male",
+            "occurences": {
+                "total": 7,
+                "firstNameOnly": 0,
+                "lastNameOnly": 5,
+                "fullName": 2,
+                "nickname": 0
+            },
+            "inTitle": false,
+            "inIntro": true,
+            "_name": {
+                "firstname": "Ulrich",
+                "lastname": "Siegmund",
+                "nickname": null,
+                "alternative_names": [],
+                "academic_title": null,
+                "nobility_title_or_rank": null
+            },
+            "descriptiveTexts": [
+                {
+                    "text": "Ihr Fraktionschef Ulrich Siegmund will nur \u00bbprivat\u00ab an dem Treffen teilgenommen haben, bei dem Abschiebepl\u00e4ne f\u00fcr Deutsche mit Migrationshintergrund er\u00f6rtert worden sein sollen."
+                },
+                {
+                    "text": "Dort wird zwar erst 2026 gew\u00e4hlt, im Mittelpunkt der Diskussion steht aber der bislang einzige AfD-Spitzenfunktion\u00e4r, der seine Teilnahme an dem \u00bbMasterplan\u00ab-Treffen im November bei Potsdam freim\u00fctig best\u00e4tigt hat: Ulrich Siegmund, Fraktionschef seiner in Sachsen-Anhalt als gesichert rechtsextrem eingestuften Partei."
+                },
+                {
+                    "text": "Er sei als \u00bbPrivatperson\u00ab dort gewesen, sagte er den \u00bbCorrectiv\u00ab-Journalisten, seine von dort \u00fcberlieferten Wortbeitr\u00e4ge sollen allerdings reichlich politisch gewesen sein: Er soll demnach gesagt haben, man m\u00fcsse in seinem Bundesland daf\u00fcr sorgen, dass es \u00bbf\u00fcr dieses Klientel m\u00f6glichst unattraktiv zu leben\u00ab werde \u2013 und soll Menschen mit Migrationshintergrund gemeint haben, die eigentlich nicht abgeschoben werden k\u00f6nnten."
+                },
+                {
+                    "text": "Siegmund spricht von absurden Vorw\u00fcrfen."
+                },
+                {
+                    "text": "Ihm gehe es, so formulierte er es gegen\u00fcber der Magdeburger \u00bbVolksstimme\u00ab, gar nicht um die Ausweisung deutscher Staatsb\u00fcrger: \u00bbAbschiebungen sollen lediglich nach geltender Gesetzeslage konsequent und rechtskonform durchgef\u00fchrt werden. Das betrifft vor allem Menschen, die illegal hier sind, gegen Gesetze versto\u00dfen oder gar Straftaten begehen.\u00ab"
+                },
+                {
+                    "text": "SPD-Landeschef Andreas Schmidt sprach von einer \u00bbkonspirativen Wannseekonferenz\u00ab und warf Siegmund vor, eine terroristische Vereinigung mitgebildet zu haben."
+                },
+                {
+                    "text": "Gut m\u00f6glich, dass Siegmund den Posten als Ausschussvorsitzender im Landtag verliert, am grunds\u00e4tzlichen Dilemma \u00e4nderte das jedoch nichts: Ginge es um das skandal\u00f6se Verhalten eines demokratischen Abgeordneten, st\u00fcnde dieser nun massiv unter Druck, auch parteiintern, und m\u00fcsste mindestens um den Posten als Fraktionschef bangen."
+                },
+                {
+                    "text": "Die AfD aber ignoriert solche althergebrachten Regeln des Parlamentarismus, Siegmund wird bleiben und weitermachen."
+                },
+                {
+                    "text": "Siegmunds Rolle bei dem Potsdamer Treffen hat einmal mehr den Charakter der sachsen-anhaltischen AfD illustriert \u2013 jenes Landesverbands, den der Verfassungsschutz bereits im Herbst als gesichert rechtsextrem eingestuft hat."
+                }
+            ],
+            "occupations": [
+                {
+                    "text": "Politiker"
+                }
+            ],
+            "directQuotes": [
+                {
+                    "text": "f\u00fcr dieses Klientel m\u00f6glichst unattraktiv zu leben"
+                },
+                {
+                    "text": "Abschiebungen sollen lediglich nach geltender Gesetzeslage konsequent und rechtskonform durchgef\u00fchrt werden. Das betrifft vor allem Menschen, die illegal hier sind, gegen Gesetze versto\u00dfen oder gar Straftaten begehen."
+                }
+            ],
+            "quotedInTitle": false,
+            "quotedInIntro": true
+        },
+        {
+            "name": "Juliane Kleemann",
+            "alternativeNames": [],
+            "age": -1,
+            "sex": "female",
+            "occurences": {
+                "total": 2,
+                "firstNameOnly": 0,
+                "lastNameOnly": 1,
+                "fullName": 1,
+                "nickname": 0
+            },
+            "inTitle": false,
+            "inIntro": false,
+            "_name": {
+                "firstname": "Juliane",
+                "lastname": "Kleemann",
+                "nickname": null,
+                "alternative_names": [],
+                "academic_title": null,
+                "nobility_title_or_rank": null
+            },
+            "descriptiveTexts": [
+                {
+                    "text": "Aufschlussreich ist insofern die Stellungnahme der SPD-Landesvorsitzenden Juliane Kleemann."
+                },
+                {
+                    "text": "Die AfD Sachsen-Anhalt stehe \u00bbbei Umsturzpl\u00e4nen an vorderster Front\u00ab, sagte sie, sprach von der \u00bbGef\u00e4hrlichkeit der AfD-Ideologie und ihrer Anh\u00e4nger\u00ab sowie von einer \u00bbdirekten Bedrohung f\u00fcr unser Grundgesetz\u00ab."
+                },
+                {
+                    "text": "Aber weder Kleemann noch sonst jemand aus der Landespolitik zog daraus die Konsequenz, offen den n\u00e4chsten Schritt zu fordern: ein Parteiverbotsverfahren."
+                }
+            ],
+            "occupations": [
+                {
+                    "text": "SPD-Landesvorsitzende"
+                }
+            ],
+            "directQuotes": [
+                {
+                    "text": "bei Umsturzpl\u00e4nen an vorderster Front"
+                },
+                {
+                    "text": "Gef\u00e4hrlichkeit der AfD-Ideologie und ihrer Anh\u00e4nger"
+                },
+                {
+                    "text": "direkten Bedrohung f\u00fcr unser Grundgesetz"
+                }
+            ],
+            "quotedInTitle": false,
+            "quotedInIntro": false
+        },
+        {
+            "name": "Reiner Haseloff",
+            "alternativeNames": [],
+            "age": -1,
+            "sex": "male",
+            "occurences": {
+                "total": 1,
+                "firstNameOnly": 0,
+                "lastNameOnly": 0,
+                "fullName": 1,
+                "nickname": 0
+            },
+            "inTitle": false,
+            "inIntro": false,
+            "_name": {
+                "firstname": "Reiner",
+                "lastname": "Haseloff",
+                "nickname": null,
+                "alternative_names": [],
+                "academic_title": null,
+                "nobility_title_or_rank": null
+            },
+            "descriptiveTexts": [
+                {
+                    "text": "\u00bbDie AfD ist in Sachsen-Anhalt vom Verfassungsschutz als gesichert rechtsextremistisch eingesch\u00e4tzt worden\u00ab, sagt CDU-Mann Reiner Haseloff dem SPIEGEL."
+                }
+            ],
+            "occupations": [
+                {
+                    "text": "CDU-Mann"
+                }
+            ],
+            "directQuotes": [
+                {
+                    "text": "Die AfD ist in Sachsen-Anhalt vom Verfassungsschutz als gesichert rechtsextremistisch eingesch\u00e4tzt worden"
+                },
+                {
+                    "text": "Auch die aktuellen Ereignisse belegen die Richtigkeit dieser Einsch\u00e4tzung."
+                }
+            ],
+            "quotedInTitle": false,
+            "quotedInIntro": false
+        },
+        {
+            "name": "Eva von Angern",
+            "alternativeNames": [],
+            "age": -1,
+            "sex": "female",
+            "occurences": {
+                "total": 1,
+                "firstNameOnly": 0,
+                "lastNameOnly": 0,
+                "fullName": 1,
+                "nickname": 0
+            },
+            "inTitle": false,
+            "inIntro": false,
+            "_name": {
+                "firstname": "Eva",
+                "lastname": "von Angern",
+                "nickname": null,
+                "alternative_names": [],
+                "academic_title": null,
+                "nobility_title_or_rank": null
+            },
+            "descriptiveTexts": [
+                {
+                    "text": "Die Linke fordert mehr von den Christdemokraten: \u00bbSp\u00e4testens jetzt muss die CDU aufh\u00f6ren, von der AfD verbreitete Ressentiments zu sch\u00fcren und das politische Klima aus parteipolitischem Kalk\u00fcl anzuheizen\u00ab, sagte Fraktionschefin Eva von Angern dem SPIEGEL."
+                }
+            ],
+            "occupations": [],
+            "directQuotes": [
+                {
+                    "text": "Mitteldeutschen Zeitung"
+                }
+            ],
+            "quotedInTitle": false,
+            "quotedInIntro": false
+        },
+        {
+            "name": "Andreas Schmidt",
+            "alternativeNames": [],
+            "age": -1,
+            "sex": "male",
+            "occurences": {
+                "total": 1,
+                "firstNameOnly": 0,
+                "lastNameOnly": 0,
+                "fullName": 1,
+                "nickname": 0
+            },
+            "inTitle": false,
+            "inIntro": false,
+            "_name": {
+                "firstname": "Andreas",
+                "lastname": "Schmidt",
+                "nickname": null,
+                "alternative_names": [],
+                "academic_title": null,
+                "nobility_title_or_rank": null
+            },
+            "descriptiveTexts": [
+                {
+                    "text": "SPD-Landeschef Andreas Schmidt sprach von einer \u00bbkonspirativen Wannseekonferenz\u00ab und warf Siegmund vor, eine terroristische Vereinigung mitgebildet zu haben."
+                }
+            ],
+            "occupations": [
+                {
+                    "text": "SPD-Landeschef"
+                },
+                {
+                    "text": "Politiker"
+                }
+            ],
+            "directQuotes": [
+                {
+                    "text": "konspirativen Wannseekonferenz"
+                }
+            ],
+            "quotedInTitle": false,
+            "quotedInIntro": false
+        }
+    ]
+}

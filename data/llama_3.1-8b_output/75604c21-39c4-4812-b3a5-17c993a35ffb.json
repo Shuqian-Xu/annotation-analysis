@@ -1,0 +1,712 @@
+{
+    "persons": [
+        {
+            "name": "Martin Margiela",
+            "alternativeNames": [],
+            "age": -1,
+            "sex": "male",
+            "occurences": {
+                "total": 1,
+                "firstNameOnly": 0,
+                "lastNameOnly": 0,
+                "fullName": 1,
+                "nickname": 0
+            },
+            "inTitle": false,
+            "inIntro": false,
+            "_name": {
+                "firstname": "Martin",
+                "lastname": "Margiela",
+                "nickname": null,
+                "alternative_names": [],
+                "academic_title": null,
+                "nobility_title_or_rank": null
+            },
+            "descriptiveTexts": [
+                {
+                    "text": "Die Avantgardetruppe bestand aus Dirk Bikkembergs, Ann Demeulemeester, Walter Van Beirendonck, Dirk Van Saene und Marina Yee (sowie sp\u00e4ter noch Martin Margiela)."
+                }
+            ],
+            "occupations": [
+                {
+                    "text": "Designer"
+                }
+            ],
+            "directQuotes": [],
+            "quotedInTitle": false,
+            "quotedInIntro": false
+        },
+        {
+            "name": "Ann Demeulemeester",
+            "alternativeNames": [],
+            "age": -1,
+            "sex": "female",
+            "occurences": {
+                "total": 1,
+                "firstNameOnly": 0,
+                "lastNameOnly": 0,
+                "fullName": 1,
+                "nickname": 0
+            },
+            "inTitle": false,
+            "inIntro": false,
+            "_name": {
+                "firstname": "Ann",
+                "lastname": "Demeulemeester",
+                "nickname": null,
+                "alternative_names": [],
+                "academic_title": null,
+                "nobility_title_or_rank": null
+            },
+            "descriptiveTexts": [
+                {
+                    "text": "Die Avantgardetruppe bestand aus Dirk Bikkembergs, Ann Demeulemeester, Walter Van Beirendonck, Dirk Van Saene und Marina Yee (sowie sp\u00e4ter noch Martin Margiela)."
+                }
+            ],
+            "occupations": [
+                {
+                    "text": "Designer"
+                }
+            ],
+            "directQuotes": [],
+            "quotedInTitle": false,
+            "quotedInIntro": false
+        },
+        {
+            "name": "Christian",
+            "alternativeNames": [],
+            "age": -1,
+            "sex": "male",
+            "occurences": {
+                "total": 1,
+                "firstNameOnly": 0,
+                "lastNameOnly": 0,
+                "fullName": 1,
+                "nickname": 0
+            },
+            "inTitle": false,
+            "inIntro": false,
+            "_name": {
+                "firstname": "Christian",
+                "lastname": null,
+                "nickname": null,
+                "alternative_names": [],
+                "academic_title": null,
+                "nobility_title_or_rank": null
+            },
+            "descriptiveTexts": [
+                {
+                    "text": "So lief es bei (Crist\u00f3bal) Balenciaga, (Coco) Chanel, (Christian) Dior, (Yves) Saint Laurent, (Gianni) Versace."
+                }
+            ],
+            "occupations": [],
+            "directQuotes": [],
+            "quotedInTitle": false,
+            "quotedInIntro": false
+        },
+        {
+            "name": "Paco Rabanne",
+            "alternativeNames": [],
+            "age": -1,
+            "sex": "male",
+            "occurences": {
+                "total": 1,
+                "firstNameOnly": 0,
+                "lastNameOnly": 0,
+                "fullName": 1,
+                "nickname": 0
+            },
+            "inTitle": false,
+            "inIntro": false,
+            "_name": {
+                "firstname": "Paco",
+                "lastname": "Rabanne",
+                "nickname": null,
+                "alternative_names": [],
+                "academic_title": null,
+                "nobility_title_or_rank": null
+            },
+            "descriptiveTexts": [
+                {
+                    "text": "Zu Puig geh\u00f6rten damals bereits die ehemals unabh\u00e4ngigen Modemarken Paco Rabanne, Nina Ricci und Jean Paul Gaultier."
+                }
+            ],
+            "occupations": [],
+            "directQuotes": [],
+            "quotedInTitle": false,
+            "quotedInIntro": false
+        },
+        {
+            "name": "Gianni",
+            "alternativeNames": [],
+            "age": -1,
+            "sex": "male",
+            "occurences": {
+                "total": 1,
+                "firstNameOnly": 0,
+                "lastNameOnly": 0,
+                "fullName": 1,
+                "nickname": 0
+            },
+            "inTitle": false,
+            "inIntro": false,
+            "_name": {
+                "firstname": "Gianni",
+                "lastname": null,
+                "nickname": null,
+                "alternative_names": [],
+                "academic_title": null,
+                "nobility_title_or_rank": null
+            },
+            "descriptiveTexts": [
+                {
+                    "text": "So lief es bei (Crist\u00f3bal) Balenciaga, (Coco) Chanel, (Christian) Dior, (Yves) Saint Laurent, (Gianni) Versace."
+                }
+            ],
+            "occupations": [],
+            "directQuotes": [],
+            "quotedInTitle": false,
+            "quotedInIntro": false
+        },
+        {
+            "name": "Dirk Van Saene",
+            "alternativeNames": [],
+            "age": -1,
+            "sex": "male",
+            "occurences": {
+                "total": 2,
+                "firstNameOnly": 1,
+                "lastNameOnly": 0,
+                "fullName": 1,
+                "nickname": 0
+            },
+            "inTitle": false,
+            "inIntro": false,
+            "_name": {
+                "firstname": "Dirk",
+                "lastname": "Van Saene",
+                "nickname": null,
+                "alternative_names": [],
+                "academic_title": null,
+                "nobility_title_or_rank": null
+            },
+            "descriptiveTexts": [
+                {
+                    "text": "Wird aus seinem Label nun genau das, was er verhindern wollte?"
+                },
+                {
+                    "text": "Mit der Modewelt hat er schon l\u00e4nger gehadert, nun kehrt ihr Dries Van Noten den R\u00fccken."
+                },
+                {
+                    "text": "Er werde der Firma verbunden bleiben."
+                },
+                {
+                    "text": "Die Mode sei \u00bbseelenlos\u00ab geworden, \u00bbein Mittel um anzugeben, oder die H\u00f6he des Gehalts zu zeigen\u00ab, sagte er bereits 2010 in einem Interview mit der \u00bbWelt am Sonntag\u00ab."
+                },
+                {
+                    "text": "Er kritisierte damit vor allem ein System, das l\u00e4ngst von wenigen multinationalen Konzernen dominiert wird, die im Zuge der Profitmaximierung acht Kollektionen im Jahr oder mehr produzieren \u2013 teure Flie\u00dfbandarbeit und wenig nachhaltig."
+                },
+                {
+                    "text": "Er wollte die Kontrolle behalten."
+                },
+                {
+                    "text": "Er ist stolz darauf, seine Stoffe selbst zu entwerfen."
+                },
+                {
+                    "text": "Laut eigener Aussage kennt er alle Garne, Kn\u00f6pfe und Pailletten, die in seinem Atelier im Hafen von Antwerpen verarbeitet werden."
+                },
+                {
+                    "text": "Vier Kollektionen machen sie hier pro Jahr, zwei f\u00fcr Frauen, zwei f\u00fcr M\u00e4nner, Fr\u00fchjahr und Herbst."
+                },
+                {
+                    "text": "Auch au\u00dferhalb seiner Geburtsstadt Antwerpen, die immer Firmensitz war, besch\u00e4ftigt er Menschen, keine Angestellten, aber doch in gewisser Hinsicht abh\u00e4ngig."
+                },
+                {
+                    "text": "In Lyon und Como etwa, woher er Stoffe bezieht."
+                },
+                {
+                    "text": "Angeblich integriert er in fast jede seiner Kollektionen Stickereien, damit seine Zulieferer in Indien genug Arbeit zum \u00dcberleben haben."
+                },
+                {
+                    "text": "\u00bbIch habe Verantwortung f\u00fcr die Menschen, die das Unternehmen mit mir aufgebaut haben, und kann nicht einfach sagen, okay, danke, mir reicht\u2019s jetzt, lebt wohl\u00ab, sagte er der \u00bbZeit\u00ab vergangenes Jahr."
+                },
+                {
+                    "text": "Deshalb hat er vor vier Jahren eines der vielen Kaufangebote angenommen, die es in den fast 40 Jahren Firmengeschichte sicherlich gegeben haben d\u00fcrfte."
+                },
+                {
+                    "text": "Ausgebildet an Antwerpens Kunstakademie machte er, j\u00fcngster Sohn einer belgischen Textildynastie, zun\u00e4chst als Teil der \u00bbAntwerpener sechs\u00ab von sich reden."
+                },
+                {
+                    "text": "Die Avantgardetruppe bestand aus Dirk Bikkembergs, Ann Demeulemeester, Walter Van Beirendonck, Dirk Van Saene und Marina Yee (sowie sp\u00e4ter noch Martin Margiela)."
+                },
+                {
+                    "text": "Er verwendet gern sinnliche Stoffe f\u00fcr Herrenkleidung und maskuline Silhouetten f\u00fcr die Damenkollektion."
+                },
+                {
+                    "text": "Er entwirft keine kompletten Looks, sondern Einzelteile, die gut kombinierbar sind."
+                },
+                {
+                    "text": "Sp\u00e4ter f\u00fcrchtete er, sich damit den Modezeitschriften auszuliefern, wo Berichterstattung und Werbeausgaben oft zusammenh\u00e4ngen."
+                },
+                {
+                    "text": "Au\u00dferdem h\u00e4tte er sich dann festlegen m\u00fcssen auf ein Werbegesicht und damit einen bestimmten Kundenkreis."
+                },
+                {
+                    "text": "M\u00e4nner und Frauen sollten die St\u00fccke kaufen, weil sie ihnen gefallen, nicht weil auf dem Etikett sein Name steht, lautet seine Markenphilosophie: \u00bbWer Dries Van Noten kauft, kauft ein Kleidungsst\u00fcck, kein Label.\u00ab"
+                },
+                {
+                    "text": "So ist sie nun mal die Modewelt, in der Dries Van Noten einer der letzten seiner Art war: eigenst\u00e4ndig, bescheiden und handwerklich exzellent."
+                }
+            ],
+            "occupations": [],
+            "directQuotes": [
+                {
+                    "text": "Ich habe Verantwortung f\u00fcr die Menschen, die das Unternehmen mit mir aufgebaut haben, und kann nicht einfach sagen, okay, danke, mir reicht\u2019s jetzt, lebt wohl"
+                },
+                {
+                    "text": "Wer Dries Van Noten kauft, kauft ein Kleidungsst\u00fcck, kein Label."
+                }
+            ],
+            "quotedInTitle": false,
+            "quotedInIntro": false
+        },
+        {
+            "name": "Coco",
+            "alternativeNames": [],
+            "age": -1,
+            "sex": "female",
+            "occurences": {
+                "total": 1,
+                "firstNameOnly": 0,
+                "lastNameOnly": 0,
+                "fullName": 1,
+                "nickname": 0
+            },
+            "inTitle": false,
+            "inIntro": false,
+            "_name": {
+                "firstname": "Coco",
+                "lastname": null,
+                "nickname": null,
+                "alternative_names": [],
+                "academic_title": null,
+                "nobility_title_or_rank": null
+            },
+            "descriptiveTexts": [
+                {
+                    "text": "So lief es bei (Crist\u00f3bal) Balenciaga, (Coco) Chanel, (Christian) Dior, (Yves) Saint Laurent, (Gianni) Versace."
+                }
+            ],
+            "occupations": [],
+            "directQuotes": [],
+            "quotedInTitle": false,
+            "quotedInIntro": false
+        },
+        {
+            "name": "Yves",
+            "alternativeNames": [],
+            "age": -1,
+            "sex": "male",
+            "occurences": {
+                "total": 1,
+                "firstNameOnly": 0,
+                "lastNameOnly": 0,
+                "fullName": 1,
+                "nickname": 0
+            },
+            "inTitle": false,
+            "inIntro": false,
+            "_name": {
+                "firstname": "Yves",
+                "lastname": null,
+                "nickname": null,
+                "alternative_names": [],
+                "academic_title": null,
+                "nobility_title_or_rank": null
+            },
+            "descriptiveTexts": [
+                {
+                    "text": "So lief es bei (Crist\u00f3bal) Balenciaga, (Coco) Chanel, (Christian) Dior, (Yves) Saint Laurent, (Gianni) Versace."
+                }
+            ],
+            "occupations": [
+                {
+                    "text": "Designer"
+                }
+            ],
+            "directQuotes": [],
+            "quotedInTitle": false,
+            "quotedInIntro": false
+        },
+        {
+            "name": "Patrick Vangheluwe",
+            "alternativeNames": [],
+            "age": -1,
+            "sex": "male",
+            "occurences": {
+                "total": 1,
+                "firstNameOnly": 0,
+                "lastNameOnly": 0,
+                "fullName": 1,
+                "nickname": 0
+            },
+            "inTitle": false,
+            "inIntro": false,
+            "_name": {
+                "firstname": "Patrick",
+                "lastname": "Vangheluwe",
+                "nickname": null,
+                "alternative_names": [],
+                "academic_title": null,
+                "nobility_title_or_rank": null
+            },
+            "descriptiveTexts": [
+                {
+                    "text": "Sein Lebensgef\u00e4hrte Patrick Vangheluwe ist von Anfang an dabei."
+                }
+            ],
+            "occupations": [],
+            "directQuotes": [],
+            "quotedInTitle": false,
+            "quotedInIntro": false
+        },
+        {
+            "name": "Jean Paul Gaultier",
+            "alternativeNames": [],
+            "age": -1,
+            "sex": "male",
+            "occurences": {
+                "total": 1,
+                "firstNameOnly": 0,
+                "lastNameOnly": 0,
+                "fullName": 1,
+                "nickname": 0
+            },
+            "inTitle": false,
+            "inIntro": false,
+            "_name": {
+                "firstname": "Jean Paul",
+                "lastname": "Gaultier",
+                "nickname": null,
+                "alternative_names": [],
+                "academic_title": null,
+                "nobility_title_or_rank": null
+            },
+            "descriptiveTexts": [
+                {
+                    "text": "Zu Puig geh\u00f6rten damals bereits die ehemals unabh\u00e4ngigen Modemarken Paco Rabanne, Nina Ricci und Jean Paul Gaultier."
+                }
+            ],
+            "occupations": [],
+            "directQuotes": [],
+            "quotedInTitle": false,
+            "quotedInIntro": false
+        },
+        {
+            "name": "Saint Laurent",
+            "alternativeNames": [],
+            "age": -1,
+            "sex": "male",
+            "occurences": {
+                "total": 2,
+                "firstNameOnly": 1,
+                "lastNameOnly": 1,
+                "fullName": 0,
+                "nickname": 0
+            },
+            "inTitle": false,
+            "inIntro": false,
+            "_name": {
+                "firstname": "Yves",
+                "lastname": "Saint Laurent",
+                "nickname": null,
+                "alternative_names": [],
+                "academic_title": null,
+                "nobility_title_or_rank": null
+            },
+            "descriptiveTexts": [
+                {
+                    "text": "So lief es bei (Crist\u00f3bal) Balenciaga, (Coco) Chanel, (Christian) Dior, (Yves) Saint Laurent, (Gianni) Versace."
+                }
+            ],
+            "occupations": [
+                {
+                    "text": "Designer"
+                }
+            ],
+            "directQuotes": [],
+            "quotedInTitle": false,
+            "quotedInIntro": false
+        },
+        {
+            "name": "Marina Yee",
+            "alternativeNames": [],
+            "age": -1,
+            "sex": "female",
+            "occurences": {
+                "total": 1,
+                "firstNameOnly": 0,
+                "lastNameOnly": 0,
+                "fullName": 1,
+                "nickname": 0
+            },
+            "inTitle": false,
+            "inIntro": false,
+            "_name": {
+                "firstname": "Marina",
+                "lastname": "Yee",
+                "nickname": null,
+                "alternative_names": [],
+                "academic_title": null,
+                "nobility_title_or_rank": null
+            },
+            "descriptiveTexts": [
+                {
+                    "text": "Die Avantgardetruppe bestand aus Dirk Bikkembergs, Ann Demeulemeester, Walter Van Beirendonck, Dirk Van Saene und Marina Yee (sowie sp\u00e4ter noch Martin Margiela)."
+                }
+            ],
+            "occupations": [
+                {
+                    "text": "Designer"
+                }
+            ],
+            "directQuotes": [],
+            "quotedInTitle": false,
+            "quotedInIntro": false
+        },
+        {
+            "name": "Nina Ricci",
+            "alternativeNames": [],
+            "age": -1,
+            "sex": "female",
+            "occurences": {
+                "total": 1,
+                "firstNameOnly": 0,
+                "lastNameOnly": 0,
+                "fullName": 1,
+                "nickname": 0
+            },
+            "inTitle": false,
+            "inIntro": false,
+            "_name": {
+                "firstname": "Nina",
+                "lastname": "Ricci",
+                "nickname": null,
+                "alternative_names": [],
+                "academic_title": null,
+                "nobility_title_or_rank": null
+            },
+            "descriptiveTexts": [
+                {
+                    "text": "Zu Puig geh\u00f6rten damals bereits die ehemals unabh\u00e4ngigen Modemarken Paco Rabanne, Nina Ricci und Jean Paul Gaultier."
+                }
+            ],
+            "occupations": [],
+            "directQuotes": [],
+            "quotedInTitle": false,
+            "quotedInIntro": false
+        },
+        {
+            "name": "Dirk Bikkembergs",
+            "alternativeNames": [],
+            "age": -1,
+            "sex": "male",
+            "occurences": {
+                "total": 2,
+                "firstNameOnly": 1,
+                "lastNameOnly": 0,
+                "fullName": 1,
+                "nickname": 0
+            },
+            "inTitle": false,
+            "inIntro": false,
+            "_name": {
+                "firstname": "Dirk",
+                "lastname": "Bikkembergs",
+                "nickname": null,
+                "alternative_names": [],
+                "academic_title": null,
+                "nobility_title_or_rank": null
+            },
+            "descriptiveTexts": [
+                {
+                    "text": "Wird aus seinem Label nun genau das, was er verhindern wollte?"
+                },
+                {
+                    "text": "Mit der Modewelt hat er schon l\u00e4nger gehadert, nun kehrt ihr Dries Van Noten den R\u00fccken."
+                },
+                {
+                    "text": "Er werde der Firma verbunden bleiben."
+                },
+                {
+                    "text": "Die Mode sei \u00bbseelenlos\u00ab geworden, \u00bbein Mittel um anzugeben, oder die H\u00f6he des Gehalts zu zeigen\u00ab, sagte er bereits 2010 in einem Interview mit der \u00bbWelt am Sonntag\u00ab."
+                },
+                {
+                    "text": "Er kritisierte damit vor allem ein System, das l\u00e4ngst von wenigen multinationalen Konzernen dominiert wird, die im Zuge der Profitmaximierung acht Kollektionen im Jahr oder mehr produzieren \u2013 teure Flie\u00dfbandarbeit und wenig nachhaltig."
+                },
+                {
+                    "text": "Er wollte die Kontrolle behalten."
+                },
+                {
+                    "text": "Er ist stolz darauf, seine Stoffe selbst zu entwerfen."
+                },
+                {
+                    "text": "Laut eigener Aussage kennt er alle Garne, Kn\u00f6pfe und Pailletten, die in seinem Atelier im Hafen von Antwerpen verarbeitet werden."
+                },
+                {
+                    "text": "Vier Kollektionen machen sie hier pro Jahr, zwei f\u00fcr Frauen, zwei f\u00fcr M\u00e4nner, Fr\u00fchjahr und Herbst."
+                },
+                {
+                    "text": "Auch au\u00dferhalb seiner Geburtsstadt Antwerpen, die immer Firmensitz war, besch\u00e4ftigt er Menschen, keine Angestellten, aber doch in gewisser Hinsicht abh\u00e4ngig."
+                },
+                {
+                    "text": "In Lyon und Como etwa, woher er Stoffe bezieht."
+                },
+                {
+                    "text": "Angeblich integriert er in fast jede seiner Kollektionen Stickereien, damit seine Zulieferer in Indien genug Arbeit zum \u00dcberleben haben."
+                },
+                {
+                    "text": "\u00bbIch habe Verantwortung f\u00fcr die Menschen, die das Unternehmen mit mir aufgebaut haben, und kann nicht einfach sagen, okay, danke, mir reicht\u2019s jetzt, lebt wohl\u00ab, sagte er der \u00bbZeit\u00ab vergangenes Jahr."
+                },
+                {
+                    "text": "Deshalb hat er vor vier Jahren eines der vielen Kaufangebote angenommen, die es in den fast 40 Jahren Firmengeschichte sicherlich gegeben haben d\u00fcrfte."
+                },
+                {
+                    "text": "Ausgebildet an Antwerpens Kunstakademie machte er, j\u00fcngster Sohn einer belgischen Textildynastie, zun\u00e4chst als Teil der \u00bbAntwerpener sechs\u00ab von sich reden."
+                },
+                {
+                    "text": "Die Avantgardetruppe bestand aus Dirk Bikkembergs, Ann Demeulemeester, Walter Van Beirendonck, Dirk Van Saene und Marina Yee (sowie sp\u00e4ter noch Martin Margiela)."
+                },
+                {
+                    "text": "Er verwendet gern sinnliche Stoffe f\u00fcr Herrenkleidung und maskuline Silhouetten f\u00fcr die Damenkollektion."
+                },
+                {
+                    "text": "Er entwirft keine kompletten Looks, sondern Einzelteile, die gut kombinierbar sind."
+                },
+                {
+                    "text": "Sp\u00e4ter f\u00fcrchtete er, sich damit den Modezeitschriften auszuliefern, wo Berichterstattung und Werbeausgaben oft zusammenh\u00e4ngen."
+                },
+                {
+                    "text": "Au\u00dferdem h\u00e4tte er sich dann festlegen m\u00fcssen auf ein Werbegesicht und damit einen bestimmten Kundenkreis."
+                },
+                {
+                    "text": "M\u00e4nner und Frauen sollten die St\u00fccke kaufen, weil sie ihnen gefallen, nicht weil auf dem Etikett sein Name steht, lautet seine Markenphilosophie: \u00bbWer Dries Van Noten kauft, kauft ein Kleidungsst\u00fcck, kein Label.\u00ab"
+                },
+                {
+                    "text": "So ist sie nun mal die Modewelt, in der Dries Van Noten einer der letzten seiner Art war: eigenst\u00e4ndig, bescheiden und handwerklich exzellent."
+                }
+            ],
+            "occupations": [],
+            "directQuotes": [
+                {
+                    "text": "Es ist an der Zeit, Platz f\u00fcr eine neue Generation von Talenten zu machen"
+                }
+            ],
+            "quotedInTitle": false,
+            "quotedInIntro": false
+        },
+        {
+            "name": "Braun",
+            "alternativeNames": [],
+            "age": -1,
+            "sex": "male",
+            "occurences": {
+                "total": 1,
+                "firstNameOnly": 0,
+                "lastNameOnly": 0,
+                "fullName": 1,
+                "nickname": 0
+            },
+            "inTitle": false,
+            "inIntro": false,
+            "_name": {
+                "firstname": null,
+                "lastname": "Braun",
+                "nickname": null,
+                "alternative_names": [],
+                "academic_title": null,
+                "nobility_title_or_rank": null
+            },
+            "descriptiveTexts": [
+                {
+                    "text": "Kontraste und vermeintlich h\u00e4ssliche Farben wie Braun reizen ihn."
+                }
+            ],
+            "occupations": [],
+            "directQuotes": [],
+            "quotedInTitle": false,
+            "quotedInIntro": false
+        },
+        {
+            "name": "Crist\u00f3bal Balenciaga",
+            "alternativeNames": [],
+            "age": -1,
+            "sex": "male",
+            "occurences": {
+                "total": 3,
+                "firstNameOnly": 1,
+                "lastNameOnly": 1,
+                "fullName": 1,
+                "nickname": 0
+            },
+            "inTitle": false,
+            "inIntro": false,
+            "_name": {
+                "firstname": "Crist\u00f3bal",
+                "lastname": "Balenciaga",
+                "nickname": null,
+                "alternative_names": [],
+                "academic_title": null,
+                "nobility_title_or_rank": null
+            },
+            "descriptiveTexts": [
+                {
+                    "text": "Welches der Hypekids da drau\u00dfen kann heute schon noch sagen, wof\u00fcr Kleidung, etwa von Crist\u00f3bal Balenciaga, einst stand?"
+                },
+                {
+                    "text": "So lief es bei (Crist\u00f3bal) Balenciaga, (Coco) Chanel, (Christian) Dior, (Yves) Saint Laurent, (Gianni) Versace."
+                }
+            ],
+            "occupations": [],
+            "directQuotes": [],
+            "quotedInTitle": false,
+            "quotedInIntro": false
+        },
+        {
+            "name": "Walter Van Beirendonck",
+            "alternativeNames": [],
+            "age": -1,
+            "sex": "male",
+            "occurences": {
+                "total": 1,
+                "firstNameOnly": 0,
+                "lastNameOnly": 0,
+                "fullName": 1,
+                "nickname": 0
+            },
+            "inTitle": false,
+            "inIntro": false,
+            "_name": {
+                "firstname": "Walter",
+                "lastname": "Van Beirendonck",
+                "nickname": null,
+                "alternative_names": [],
+                "academic_title": null,
+                "nobility_title_or_rank": null
+            },
+            "descriptiveTexts": [
+                {
+                    "text": "Die Avantgardetruppe bestand aus Dirk Bikkembergs, Ann Demeulemeester, Walter Van Beirendonck, Dirk Van Saene und Marina Yee (sowie sp\u00e4ter noch Martin Margiela)."
+                }
+            ],
+            "occupations": [
+                {
+                    "text": "Designer"
+                }
+            ],
+            "directQuotes": [],
+            "quotedInTitle": false,
+            "quotedInIntro": false
+        }
+    ]
+}

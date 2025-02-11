@@ -1,0 +1,414 @@
+{
+    "persons": [
+        {
+            "name": "Georg Maier",
+            "alternativeNames": [],
+            "age": -1,
+            "sex": "male",
+            "occurences": {
+                "total": 6,
+                "firstNameOnly": 0,
+                "lastNameOnly": 4,
+                "fullName": 2,
+                "nickname": 0
+            },
+            "inTitle": false,
+            "inIntro": false,
+            "_name": {
+                "firstname": "Georg",
+                "lastname": "Maier",
+                "nickname": null,
+                "alternative_names": [],
+                "academic_title": null,
+                "nobility_title_or_rank": null
+            },
+            "descriptiveTexts": [
+                {
+                    "text": "Mit Rolf M\u00fctzenich habe er gesprochen, dem Fraktionsvorsitzenden der SPD, mit Parteichefin Esken, mit Georg Maier, dem th\u00fcringischen Innenminister."
+                },
+                {
+                    "text": "Saskia Esken und Georg Maier sind an diesem Dienstag nach Waltershausen gekommen, um pers\u00f6nlich mit M\u00fcller zu sprechen und um das Haus zu sehen."
+                },
+                {
+                    "text": "Der Anschlag auf Michael M\u00fcller stelle \u00bbeine neue Qualit\u00e4t dar\u00ab, sagt Parteichefin Esken, als sie mit Maier und M\u00fcller anschlie\u00dfend in den R\u00e4umen der SPD in Waltershausen sitzt."
+                },
+                {
+                    "text": "\u00bbWir haben es mit einer neuen Eskalationsstufe zu tun\u00ab, sagt Maier."
+                },
+                {
+                    "text": "Zu einem m\u00f6glichen Schutz von Lokalpolitikern und Kandidierenden bei der Landtagswahl wollte Innenminister Maier nicht ins Detail gehen."
+                },
+                {
+                    "text": "Er habe aber schon zu einem Sicherheitsgipfel eingeladen."
+                },
+                {
+                    "text": "\u00bbEs ist die Frage\u00ab, sagt Maier, \u00bbwie die Gesellschaft mit einem \u203aSieg Heil\u2039-Ruf in einer Gastst\u00e4tte umgeht.\u00ab"
+                }
+            ],
+            "occupations": [
+                {
+                    "text": "\u00bbWir haben es mit einer neuen Eskalationsstufe zu tun\u00ab"
+                },
+                {
+                    "text": "Viel wichtiger als Polizeischutz sei, dass sich die \u00d6ffentlichkeit gegen rechtes Gedankengut ausdr\u00fccke. \u00bbEs ist die Frage\u00ab, sagt Maier, \u00bbwie die Gesellschaft mit einem \u203aSieg Heil\u2039-Ruf in einer Gastst\u00e4tte umgeht.\u00ab"
+                },
+                {
+                    "text": "th\u00fcringischen Innenminister"
+                },
+                {
+                    "text": "\u00bbMan greift Personen jetzt direkt an\u00ab, ein Ausdruck einer aufgeheizten Stimmungslage, so der Innenminister"
+                },
+                {
+                    "text": "Die Polizei m\u00fcsse die Tat und die Motivlage noch aufkl\u00e4ren. Aber: \u00bbDie Zusammenh\u00e4nge sind bekannt, weil Michael M\u00fcller f\u00fcr seine Einstellungen und Werte bekannt ist.\u00ab"
+                }
+            ],
+            "directQuotes": [
+                {
+                    "text": "Wir haben es mit einer neuen Eskalationsstufe zu tun"
+                },
+                {
+                    "text": "Das war ein Anschlag auf Leib und Leben."
+                },
+                {
+                    "text": "Man greift Personen jetzt direkt an"
+                },
+                {
+                    "text": "Die Zusammenh\u00e4nge sind bekannt, weil Michael M\u00fcller f\u00fcr seine Einstellungen und Werte bekannt ist."
+                },
+                {
+                    "text": "Es ist die Frage"
+                },
+                {
+                    "text": "wie die Gesellschaft mit einem \u203aSieg Heil\u2039-Ruf in einer Gastst\u00e4tte umgeht."
+                }
+            ],
+            "quotedInTitle": false,
+            "quotedInIntro": false
+        },
+        {
+            "name": "Rolf M\u00fctzenich",
+            "alternativeNames": [],
+            "age": -1,
+            "sex": "male",
+            "occurences": {
+                "total": 1,
+                "firstNameOnly": 0,
+                "lastNameOnly": 0,
+                "fullName": 1,
+                "nickname": 0
+            },
+            "inTitle": false,
+            "inIntro": false,
+            "_name": {
+                "firstname": "Rolf",
+                "lastname": "M\u00fctzenich",
+                "nickname": null,
+                "alternative_names": [],
+                "academic_title": null,
+                "nobility_title_or_rank": "Fr\u00e4ulein von"
+            },
+            "descriptiveTexts": [
+                {
+                    "text": "Mit Rolf M\u00fctzenich habe er gesprochen, dem Fraktionsvorsitzenden der SPD, mit Parteichefin Esken, mit Georg Maier, dem th\u00fcringischen Innenminister."
+                }
+            ],
+            "occupations": [],
+            "directQuotes": [],
+            "quotedInTitle": false,
+            "quotedInIntro": false
+        },
+        {
+            "name": "Saskia Esken",
+            "alternativeNames": [],
+            "age": -1,
+            "sex": "female",
+            "occurences": {
+                "total": 5,
+                "firstNameOnly": 0,
+                "lastNameOnly": 3,
+                "fullName": 2,
+                "nickname": 0
+            },
+            "inTitle": false,
+            "inIntro": true,
+            "_name": {
+                "firstname": "Saskia",
+                "lastname": "Esken",
+                "nickname": null,
+                "alternative_names": [],
+                "academic_title": null,
+                "nobility_title_or_rank": null
+            },
+            "descriptiveTexts": [
+                {
+                    "text": "Der Anschlag stelle \u00bbeine neue Qualit\u00e4t dar\u00ab, sagt SPD-Parteichefin Esken bei einem Besuch."
+                },
+                {
+                    "text": "Als Saskia Esken aus ihrem Auto steigt und die Einfahrt zu Michael M\u00fcllers Haus entlangl\u00e4uft, ist von dem verkohlten Holz nur noch wenig zu sehen."
+                },
+                {
+                    "text": "Mit Rolf M\u00fctzenich habe er gesprochen, dem Fraktionsvorsitzenden der SPD, mit Parteichefin Esken, mit Georg Maier, dem th\u00fcringischen Innenminister."
+                },
+                {
+                    "text": "Saskia Esken und Georg Maier sind an diesem Dienstag nach Waltershausen gekommen, um pers\u00f6nlich mit M\u00fcller zu sprechen und um das Haus zu sehen."
+                },
+                {
+                    "text": "Der Anschlag auf Michael M\u00fcller stelle \u00bbeine neue Qualit\u00e4t dar\u00ab, sagt Parteichefin Esken, als sie mit Maier und M\u00fcller anschlie\u00dfend in den R\u00e4umen der SPD in Waltershausen sitzt."
+                }
+            ],
+            "occupations": [
+                {
+                    "text": "eine neue Qualit\u00e4t"
+                },
+                {
+                    "text": "Parteichefin"
+                }
+            ],
+            "directQuotes": [
+                {
+                    "text": "eine neue Qualit\u00e4t dar"
+                },
+                {
+                    "text": "Ein Parteib\u00fcro ist auch nicht ohne, aber ein privates Wohnhaus mit einem Brandanschlag zu \u00fcberziehen, ist eine neue Qualit\u00e4t."
+                }
+            ],
+            "quotedInTitle": false,
+            "quotedInIntro": true
+        },
+        {
+            "name": "Michael M\u00fcller",
+            "alternativeNames": [],
+            "age": 46,
+            "sex": "male",
+            "occurences": {
+                "total": 20,
+                "firstNameOnly": 0,
+                "lastNameOnly": 15,
+                "fullName": 5,
+                "nickname": 0
+            },
+            "inTitle": true,
+            "inIntro": true,
+            "_name": {
+                "firstname": "Michael",
+                "lastname": "M\u00fcller",
+                "nickname": null,
+                "alternative_names": [],
+                "academic_title": null,
+                "nobility_title_or_rank": null
+            },
+            "descriptiveTexts": [
+                {
+                    "text": "Herr M\u00fcller und die Angst im eigenen Haus"
+                },
+                {
+                    "text": "Der Th\u00fcringer Lokalpolitiker Michael M\u00fcller organisiert eine Demo gegen Rechtsextremismus."
+                },
+                {
+                    "text": "Als Saskia Esken aus ihrem Auto steigt und die Einfahrt zu Michael M\u00fcllers Haus entlangl\u00e4uft, ist von dem verkohlten Holz nur noch wenig zu sehen."
+                },
+                {
+                    "text": "M\u00fcller selbst war nicht daheim, er vermietete sein Haus an eine Familie."
+                },
+                {
+                    "text": "\u00bbEs ist ein Gl\u00fcck, dass die munter geworden sind und der Nachbar schnell einen Feuerl\u00f6scher zur Hand hatte\u00ab, sagt M\u00fcller."
+                },
+                {
+                    "text": "Der 46-J\u00e4hrige ist stellvertretender Ortsvorsitzender der SPD, im Jahr 2021 kandidierte er vergeblich f\u00fcr den Bundestag."
+                },
+                {
+                    "text": "Er geh\u00f6rte zu den Organisatoren einer Demonstration f\u00fcr Demokratie und gegen Faschismus am 2. Februar in seiner Heimatstadt."
+                },
+                {
+                    "text": "Er habe \u00fcberlegt, ob er seinen Namen in der Pressemitteilung f\u00fcr die Demo nennen soll, sagt M\u00fcller."
+                },
+                {
+                    "text": "Er habe ihn rausgestrichen und dann wieder reingeschrieben."
+                },
+                {
+                    "text": "\u00bbIch m\u00f6chte mich nicht verstecken\u00ab, sagt er."
+                },
+                {
+                    "text": "Ob der Brand an M\u00fcllers Haus ein Brandanschlag war, eine politische Tat, das ist noch nicht gesichert."
+                },
+                {
+                    "text": "M\u00fcller geht davon aus, die Polizei ermittelt."
+                },
+                {
+                    "text": "Mit Rolf M\u00fctzenich habe er gesprochen, dem Fraktionsvorsitzenden der SPD, mit Parteichefin Esken, mit Georg Maier, dem th\u00fcringischen Innenminister."
+                },
+                {
+                    "text": "Aus der Region, so M\u00fcller, vernehme er ein Schweigen."
+                },
+                {
+                    "text": "\u00bbIch hoffe, es ist ein nachdenkliches Schweigen, ein Schock. Ich habe Angst, dass es ein beschwichtigendes Schweigen ist.\u00ab"
+                },
+                {
+                    "text": "M\u00fcller hofft, dass ein Nachdenken einsetzt."
+                },
+                {
+                    "text": "Er ist sich sicher: \u00bbDie Spaltung und das politische Umfeld hat dazu beigetragen, die Hemmschwelle f\u00fcr solch eine brutale Tat zu \u00fcberwinden.\u00ab"
+                },
+                {
+                    "text": "Saskia Esken und Georg Maier sind an diesem Dienstag nach Waltershausen gekommen, um pers\u00f6nlich mit M\u00fcller zu sprechen und um das Haus zu sehen."
+                },
+                {
+                    "text": "Der Anschlag auf Michael M\u00fcller stelle \u00bbeine neue Qualit\u00e4t dar\u00ab, sagt Parteichefin Esken, als sie mit Maier und M\u00fcller anschlie\u00dfend in den R\u00e4umen der SPD in Waltershausen sitzt."
+                },
+                {
+                    "text": "Aber: \u00bbDie Zusammenh\u00e4nge sind bekannt, weil Michael M\u00fcller f\u00fcr seine Einstellungen und Werte bekannt ist.\u00ab"
+                },
+                {
+                    "text": "M\u00fcller f\u00fchrt kein normales Leben."
+                },
+                {
+                    "text": "Das sagt er auch selbst."
+                },
+                {
+                    "text": "Er f\u00e4hrt mit dem Fahrrad durch Afghanistan und durch Iran, manchmal monatelang, h\u00e4lt Vortr\u00e4ge \u00fcber das Erlebte."
+                },
+                {
+                    "text": "Sein Haus vermietet er."
+                },
+                {
+                    "text": "Das G\u00e4stezimmer, wenn er da ist."
+                },
+                {
+                    "text": "Die ganze Wohnung, wenn er verreist."
+                },
+                {
+                    "text": "\u00bbIch vertraue den Leuten.\u00ab"
+                },
+                {
+                    "text": "\u00bbManche Menschen hier kommen nicht damit klar, wenn st\u00e4ndig neue Autos vor dem Haus stehen und sie im Internet sehen, dass ich in Afghanistan bin.\u00ab"
+                },
+                {
+                    "text": "Er habe deswegen extra einen Eintrag bei Google Maps erstellt, eine Website aufgesetzt."
+                },
+                {
+                    "text": "\u00c4ndern will er sich nicht."
+                },
+                {
+                    "text": "\u00bbIch habe 20 Jahre lang nur gearbeitet, habe mein Leben vernachl\u00e4ssigt, meine Freunde, meine Familie.\u00ab"
+                },
+                {
+                    "text": "Er habe einen Schlaganfall gehabt."
+                },
+                {
+                    "text": "Er habe seinen Preis bezahlt."
+                },
+                {
+                    "text": "\u00bbJetzt mache ich das, was mich freut.\u00ab"
+                },
+                {
+                    "text": "Auf seinen Reisen schlafe er viel drau\u00dfen, erz\u00e4hlt M\u00fcller."
+                },
+                {
+                    "text": "Er schaue dann nach B\u00e4ren oder Hunden."
+                },
+                {
+                    "text": "Angst habe er keine."
+                },
+                {
+                    "text": "Er schlie\u00dfe jetzt ab, kontrolliere die Kellert\u00fcr."
+                },
+                {
+                    "text": "Wenn er herausgeht, schaue er sich um."
+                },
+                {
+                    "text": "Er schlafe mit einem komischen Gef\u00fchl."
+                },
+                {
+                    "text": "\u00bbDrau\u00dfen l\u00e4uft jemand rum, der so einen Hass auf mich hat, dass er den Tod von Menschen in Kauf nimmt.\u00ab"
+                },
+                {
+                    "text": "M\u00fcller, gelernter Versicherungsfachmann, ist gerade in der Vorbereitung f\u00fcr den Kommunalwahlkampf."
+                },
+                {
+                    "text": "\u00bbIch wollte f\u00fcr den Stadtrat kandidieren.\u00ab"
+                },
+                {
+                    "text": "Direkt nach dem Brand habe er alle Optionen offengelassen."
+                },
+                {
+                    "text": "Auch, dass er sich zur\u00fcckzieht."
+                },
+                {
+                    "text": "Aber er f\u00fchle sich wohl."
+                },
+                {
+                    "text": "Michael M\u00fcller will antreten."
+                },
+                {
+                    "text": "M\u00fcller war nicht da."
+                },
+                {
+                    "text": "\u00bbDas w\u00e4re zu emotional f\u00fcr mich gewesen\u00ab, sagt er."
+                },
+                {
+                    "text": "\u00bbIch wusste nicht: Halte ich das aus?\u00ab"
+                },
+                {
+                    "text": "M\u00fcller lie\u00df stattdessen eine Rede vortragen."
+                }
+            ],
+            "occupations": [
+                {
+                    "text": "gelernter Versicherungsfachmann"
+                },
+                {
+                    "text": "stellvertretender Ortsvorsitzender der SPD"
+                }
+            ],
+            "directQuotes": [
+                {
+                    "text": "Es ist ein Gl\u00fcck, dass die munter geworden sind und der Nachbar schnell einen Feuerl\u00f6scher zur Hand hatte"
+                },
+                {
+                    "text": "Ich m\u00f6chte mich nicht verstecken"
+                },
+                {
+                    "text": "Ich hoffe, es ist ein nachdenkliches Schweigen, ein Schock. Ich habe Angst, dass es ein beschwichtigendes Schweigen ist."
+                },
+                {
+                    "text": "Ich vertraue den Leuten."
+                },
+                {
+                    "text": "Manche Menschen hier kommen nicht damit klar, wenn st\u00e4ndig neue Autos vor dem Haus stehen und sie im Internet sehen, dass ich in Afghanistan bin."
+                },
+                {
+                    "text": "Damit ein bisschen Klarheit reinkommt."
+                },
+                {
+                    "text": "Ich habe 20 Jahre lang nur gearbeitet, habe mein Leben vernachl\u00e4ssigt, meine Freunde, meine Familie."
+                },
+                {
+                    "text": "Jetzt mache ich das, was mich freut."
+                },
+                {
+                    "text": "Wenn das andere st\u00f6rt: C\u2019est la vie"
+                },
+                {
+                    "text": "Das ist ein Verfolgungswahn, der kein Wahn mehr ist."
+                },
+                {
+                    "text": "Drau\u00dfen l\u00e4uft jemand rum, der so einen Hass auf mich hat, dass er den Tod von Menschen in Kauf nimmt."
+                },
+                {
+                    "text": "Ich wollte f\u00fcr den Stadtrat kandidieren."
+                },
+                {
+                    "text": "Es ist wichtig, hier zu sein und sich zu engagieren. Es ist wichtig, sich zu positionieren."
+                },
+                {
+                    "text": "Das w\u00e4re zu emotional f\u00fcr mich gewesen"
+                },
+                {
+                    "text": "Ich wusste nicht: Halte ich das aus?"
+                }
+            ],
+            "quotedInTitle": true,
+            "quotedInIntro": true
+        }
+    ]
+}

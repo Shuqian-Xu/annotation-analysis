@@ -1,0 +1,85 @@
+{
+    "persons": [
+        {
+            "name": "Martin No\u00e9",
+            "alternativeNames": [],
+            "age": -1,
+            "sex": "male",
+            "occurences": {
+                "total": 2,
+                "firstNameOnly": 0,
+                "lastNameOnly": 1,
+                "fullName": 1,
+                "nickname": 0
+            },
+            "inTitle": false,
+            "inIntro": false,
+            "_name": {
+                "firstname": "Martin",
+                "lastname": "No\u00e9",
+                "nickname": null,
+                "alternative_names": [],
+                "academic_title": null,
+                "nobility_title_or_rank": null
+            },
+            "descriptiveTexts": [
+                {
+                    "text": "Diese Zeiten sind pass\u00e9, wie Chefkorrespondent Martin No\u00e9 recherchiert hat."
+                },
+                {
+                    "text": "In diesem Podcast informiert No\u00e9 im Gespr\u00e4ch mit Chefredakteur Sven Clausen, nach welchem Schema inzwischen die Topjobs vergeben werden, warum dabei auch eine Firma ehemaliger Geheimdienstler eine Rolle spielt, wie man den Eignungstest am besten meistert \u2013 und welches Ergebnis dabei bei ihm pers\u00f6nlich herausgekommen ist."
+                }
+            ],
+            "occupations": [
+                {
+                    "text": "Chefkorrespondent"
+                }
+            ],
+            "directQuotes": [],
+            "quotedInTitle": false,
+            "quotedInIntro": false
+        },
+        {
+            "name": "Sven Clausen",
+            "alternativeNames": [],
+            "age": -1,
+            "sex": "male",
+            "occurences": {
+                "total": 2,
+                "firstNameOnly": 0,
+                "lastNameOnly": 0,
+                "fullName": 2,
+                "nickname": 0
+            },
+            "inTitle": false,
+            "inIntro": false,
+            "_name": {
+                "firstname": "Sven",
+                "lastname": "Clausen",
+                "nickname": null,
+                "alternative_names": [],
+                "academic_title": null,
+                "nobility_title_or_rank": null
+            },
+            "descriptiveTexts": [
+                {
+                    "text": "In diesem Podcast informiert No\u00e9 im Gespr\u00e4ch mit Chefredakteur Sven Clausen, nach welchem Schema inzwischen die Topjobs vergeben werden, warum dabei auch eine Firma ehemaliger Geheimdienstler eine Rolle spielt, wie man den Eignungstest am besten meistert \u2013 und welches Ergebnis dabei bei ihm pers\u00f6nlich herausgekommen ist."
+                },
+                {
+                    "text": "Im Podcast \"Das Thema\" informiert Chefredakteur Sven Clausen jede Woche \u00fcber den internen Recherchestand zu einem relevanten aktuellen und zugleich zukunftstr\u00e4chtigen Thema der Wirtschaft."
+                }
+            ],
+            "occupations": [
+                {
+                    "text": "relevanten aktuellen und zugleich zukunftstr\u00e4chtigen Thema der Wirtschaft"
+                },
+                {
+                    "text": "Chefredakteur"
+                }
+            ],
+            "directQuotes": [],
+            "quotedInTitle": false,
+            "quotedInIntro": false
+        }
+    ]
+}

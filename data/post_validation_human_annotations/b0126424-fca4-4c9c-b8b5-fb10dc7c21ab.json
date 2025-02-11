@@ -1,0 +1,364 @@
+{
+  "persons": [
+    {
+      "age": -1,
+      "alternativeNames": [],
+      "birthday": null,
+      "descriptiveTexts": [
+        {
+          "text": "»Stop the boats!«, fordert Premier Rishi Sunak."
+        },
+        {
+          "text": "Der britische Premier Rishi Sunak aber hat »Stop the boats!« zu einem seiner zentralen Wahlversprechen gemacht."
+        },
+        {
+          "text": "Kaum etwas kann er weniger gebraucht als Bilder von Migranten, die in Dover anlanden."
+        },
+        {
+          "text": "Schon im März 2023 traf er sich deshalb mit Frankreichs Präsident Emmanuel Macron."
+        },
+        {
+          "text": "Im Élysée-Palast besiegelten die beiden einen Deal: Großbritannien stellt Frankreich bis 2026 insgesamt 541 Millionen Euro zur Verfügung, deutlich mehr noch als in den Jahren zuvor."
+        }
+      ],
+      "directQuotes": [
+        {
+          "text": "Stop the boats!"
+        }
+      ],
+      "inIntro": true,
+      "inTitle": false,
+      "indirectQuotes": [
+        {
+          "text": "Das Ziel: Die Zahl der Grenzübertritte solle »drastisch« reduziert, die Abfangquote erhöht werden."
+        }
+      ],
+      "isMain": false,
+      "name": "Rishi Sunak",
+      "occupations": [
+        {
+          "text": "britische Premier"
+        }
+      ],
+      "occurrences": {
+        "firstNameOnly": 0,
+        "fullName": 2,
+        "lastNameOnly": 0,
+        "total": 2
+      },
+      "quotedInIntro": true,
+      "quotedInTitle": false,
+      "sex": "male"
+    },
+    {
+      "age": 27,
+      "alternativeNames": [],
+      "birthday": null,
+      "descriptiveTexts": [
+        {
+          "text": "Die Überfahrt sei lange ruhig verlaufen, sagt Satinder."
+        },
+        {
+          "text": "Zehn oder fünfzehn Minuten seien er und 45 andere Migranten, die meisten aus Indien und Afghanistan, den weißen Felsen von Dover entgegengerast, so wie sie es geplant hatten."
+        },
+        {
+          "text": "Doch dann hätten sie das Boot der französischen Gendarmerie gesehen."
+        },
+        {
+          "text": "Satinder, 27, ein hoch aufgeschossener Sikh aus Punjab, einer Region im Norden Indiens, erzählt diese Geschichte an einem regnerischen Januartag."
+        },
+        {
+          "text": "Satinder wärmt sich an einem Feuer."
+        },
+        {
+          "text": "Seinen echten Namen solle man lieber nicht erwähnen, sagt er."
+        },
+        {
+          "text": "Als die französischen Beamten sie erreicht hätten, sei der Steuermann des Boots in Panik geraten, erinnert sich Satinder."
+        },
+        {
+          "text": "Er habe Gas gegeben und versucht zu entkommen."
+        },
+        {
+          "text": "Die Franzosen hätten sich ihrem Boot immer wieder genähert."
+        },
+        {
+          "text": "Die Luft sei aus dem Boot entwichen, sagt Satinder."
+        },
+        {
+          "text": "Doch das Boot sei gesunken, er und die anderen Passagiere hätten minutenlang an Land schwimmen müssen."
+        },
+        {
+          "text": "Gestorben, sagt Satinder, sei niemand."
+        },
+        {
+          "text": "Für Satinders Geschichte gibt es keine visuellen Belege."
+        },
+        {
+          "text": "Satinder hat eine Beschwerde bei der französischen Bürgerbeauftragten eingereicht, an die Pariser Behörde können sich Menschen wenden, die ihre Rechte missachtet sehen."
+        },
+        {
+          "text": "Zwangsmaßnahmen gegen Boote auf See, von denen unter anderem Migranten wie Satinder berichten, habe man nie angeordnet."
+        }
+      ],
+      "directQuotes": [],
+      "inIntro": false,
+      "inTitle": false,
+      "indirectQuotes": [
+        {
+          "text": "Die Überfahrt sei lange ruhig verlaufen, sagt Satinder."
+        },
+        {
+          "text": "Seinen echten Namen solle man lieber nicht erwähnen, sagt er."
+        },
+        {
+          "text": "Den Rest könne man schreiben."
+        },
+        {
+          "text": "Als die französischen Beamten sie erreicht hätten, sei der Steuermann des Boots in Panik geraten, erinnert sich Satinder."
+        },
+        {
+          "text": "Er habe Gas gegeben und versucht zu entkommen."
+        },
+        {
+          "text": "Die Franzosen hätten sich ihrem Boot immer wieder genähert."
+        },
+        {
+          "text": "Schließlich habe einer der vier Beamten sein Klappmesser gezogen und zugestochen, hinein in die Gummihülle ihres Schlauchboots."
+        },
+        {
+          "text": "Die Luft sei aus dem Boot entwichen, sagt Satinder."
+        },
+        {
+          "text": "Der Steuermann habe noch versucht beizudrehen, vergeblich probierte er die französische Küste zu erreichen."
+        },
+        {
+          "text": "Doch das Boot sei gesunken, er und die anderen Passagiere hätten minutenlang an Land schwimmen müssen."
+        },
+        {
+          "text": "Gestorben, sagt Satinder, sei niemand."
+        },
+        {
+          "text": "Die meisten Passagiere hätten Rettungswesten getragen."
+        }
+      ],
+      "isMain": true,
+      "name": "Satinder",
+      "occupations": [
+        {
+          "text": "Sikh"
+        }
+      ],
+      "occurrences": {
+        "firstNameOnly": 9,
+        "fullName": 0,
+        "lastNameOnly": 0,
+        "total": 9
+      },
+      "quotedInIntro": false,
+      "quotedInTitle": false,
+      "sex": "male"
+    },
+    {
+      "age": -1,
+      "alternativeNames": [],
+      "birthday": null,
+      "descriptiveTexts": [
+        {
+          "text": "Schon im März 2023 traf er sich deshalb mit Frankreichs Präsident Emmanuel Macron."
+        },
+        {
+          "text": "Im Élysée-Palast besiegelten die beiden einen Deal: Großbritannien stellt Frankreich bis 2026 insgesamt 541 Millionen Euro zur Verfügung, deutlich mehr noch als in den Jahren zuvor."
+        }
+      ],
+      "directQuotes": [
+      ],
+      "inIntro": false,
+      "inTitle": false,
+      "indirectQuotes": [
+        {
+          "text": "Das Ziel: Die Zahl der Grenzübertritte solle »drastisch« reduziert, die Abfangquote erhöht werden."
+        }
+      ],
+      "isMain": false,
+      "name": "Emmanuel Macron",
+      "occupations": [
+        {
+          "text": "Frankreichs Präsident"
+        }
+      ],
+      "occurrences": {
+        "firstNameOnly": 0,
+        "fullName": 1,
+        "lastNameOnly": 0,
+        "total": 1
+      },
+      "quotedInIntro": false,
+      "quotedInTitle": false,
+      "sex": "male"
+    },
+    {
+      "age": -1,
+      "alternativeNames": [],
+      "birthday": null,
+      "descriptiveTexts": [
+        {
+          "text": "»Das Video hat mich schockiert«, sagt der ehemalige britische Küstenwächter Kevin Saunders."
+        },
+        {
+          "text": "Saunders war selbst in Calais stationiert, er kennt den Ärmelkanal gut, kann einschätzen, wie bedrohlich Strömungen und Wetter sein können."
+        },
+        {
+          "text": "Er sei überrascht, dass die Franzosen so vorgingen, sagt Saunders."
+        }
+      ],
+      "directQuotes": [
+        {
+          "text": "Das Video hat mich schockiert"
+        },
+        {
+          "text": "Das ist unglaublich gefährlich."
+        }
+      ],
+      "inIntro": false,
+      "inTitle": false,
+      "indirectQuotes": [
+        {
+          "text": "Er sei überrascht, dass die Franzosen so vorgingen, sagt Saunders."
+        },
+        {
+          "text": "Es widerspreche der Interpretation des Seerechts, die sie stets vertreten hätten."
+        }
+      ],
+      "isMain": false,
+      "name": "Kevin Saunders",
+      "occupations": [
+        {
+          "text": "ehemalige britische Küstenwächter"
+        }
+      ],
+      "occurrences": {
+        "firstNameOnly": 0,
+        "fullName": 1,
+        "lastNameOnly": 2,
+        "total": 3
+      },
+      "quotedInIntro": false,
+      "quotedInTitle": false,
+      "sex": "male"
+    },
+    {
+      "age": -1,
+      "alternativeNames": [],
+      "birthday": null,
+      "descriptiveTexts": [
+        {
+          "text": "Im September 2023 sprach Migrationsminister Robert Jenrick offen aus, was die Briten erwarten: Man habe die Franzosen ermutigt, Boote »auf dem Wasser abzufangen«."
+        }
+      ],
+      "directQuotes": [
+        {
+          "text": "auf dem Wasser abzufangen"
+        }
+      ],
+      "inIntro": false,
+      "inTitle": false,
+      "indirectQuotes": [
+        {
+          "text": "Im September 2023 sprach Migrationsminister Robert Jenrick offen aus, was die Briten erwarten: Man habe die Franzosen ermutigt, Boote »auf dem Wasser abzufangen«."
+        }
+      ],
+      "isMain": false,
+      "name": "Robert Jenrick",
+      "occupations": [
+        {
+          "text": "Migrationsminister"
+        }
+      ],
+      "occurrences": {
+        "firstNameOnly": 0,
+        "fullName": 1,
+        "lastNameOnly": 0,
+        "total": 1
+      },
+      "quotedInIntro": false,
+      "quotedInTitle": false,
+      "sex": "male"
+    },
+    {
+      "age": -1,
+      "alternativeNames": [],
+      "birthday": null,
+      "descriptiveTexts": [
+        {
+          "text": "Rémi Vandeplanque, ein Küstenwächter aus Brest, hat seine Bedenken in einer Beschwerde niedergeschrieben."
+        },
+        {
+          "text": "Im Sommer, so Vandeplanque, sei ihm von Kollegen berichtet worden, dass die Polizei eine Besatzung der Küstenwache angewiesen habe, eines der »Taxiboote« zu zerstechen."
+        },
+        {
+          "text": "Seine Kollegen, sagt Vandeplanque, hätten sich »natürlich« geweigert, den mutmaßlichen Befehl auszuführen – viel zu gefährlich."
+        },
+        {
+          "text": "Wellen machen, Flüchtlingsboote rammen, Vandeplanque sagt, er schäme sich für diese Taktiken, die nun auf den Videos der Migranten sichtbar würden."
+        }
+      ],
+      "directQuotes": [
+        {
+          "text": "Taxiboote"
+        },
+        {
+          "text": "natürlich"
+        }
+      ],
+      "inIntro": false,
+      "inTitle": false,
+      "indirectQuotes": [
+        {
+          "text": "Im Sommer, so Vandeplanque, sei ihm von Kollegen berichtet worden, dass die Polizei eine Besatzung der Küstenwache angewiesen habe, eines der »Taxiboote« zu zerstechen."
+        },
+        {
+          "text": "Das Boot und die Menschen hätten sich bereits in schultertiefem Wasser befunden."
+        },
+        {
+          "text": "Seine Kollegen, sagt Vandeplanque, hätten sich »natürlich« geweigert, den mutmaßlichen Befehl auszuführen – viel zu gefährlich."
+        },
+        {
+          "text": "Schließlich könne man auch im flachen Wasser ertrinken, insbesondere, wenn man in Panik gerate."
+        },
+        {
+          "text": "Wellen machen, Flüchtlingsboote rammen, Vandeplanque sagt, er schäme sich für diese Taktiken, die nun auf den Videos der Migranten sichtbar würden."
+        },
+        {
+          "text": "Eines Landes wie Frankreich sei so etwas nicht würdig."
+        },
+        {
+          "text": "Wenn die Polizei so weitermache, sei es wahrscheinlich nur eine Frage der Zeit, bis die Taktiken zu Todesopfern führten."
+        }
+      ],
+      "isMain": false,
+      "name": "Rémi Vandeplanque",
+      "occupations": [
+        {
+          "text": "Küstenwächter"
+        }
+      ],
+      "occurrences": {
+        "firstNameOnly": 0,
+        "fullName": 1,
+        "lastNameOnly": 3,
+        "total": 4
+      },
+      "quotedInIntro": false,
+      "quotedInTitle": false,
+      "sex": "male"
+    }
+  ],
+  "subtopics": [
+    "Ausland",
+    "Politik",
+    "Flüchtlingsboote",
+    "Mittelmeer",
+    "Frankreich"
+  ]
+}

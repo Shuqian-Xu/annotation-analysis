@@ -1,0 +1,278 @@
+{
+    "persons": [
+        {
+            "name": "Melissa Kegler",
+            "alternativeNames": [],
+            "age": 41,
+            "sex": "female",
+            "occurences": {
+                "total": 22,
+                "firstNameOnly": 1,
+                "lastNameOnly": 15,
+                "fullName": 6,
+                "nickname": 0
+            },
+            "inTitle": false,
+            "inIntro": true,
+            "_name": {
+                "firstname": "Melissa",
+                "lastname": "Kegler",
+                "nickname": null,
+                "alternative_names": [],
+                "academic_title": null,
+                "nobility_title_or_rank": null
+            },
+            "descriptiveTexts": [
+                {
+                    "text": "Jahrelang litt die US-Amerikanerin Melissa Kegler unter ihrem \u00dcbergewicht."
+                },
+                {
+                    "text": "Dann entdeckte sie das Eisschwimmen."
+                },
+                {
+                    "text": "\u00bbIch wei\u00df jetzt, dass mein K\u00f6rper zu etwas gut ist\u00ab, sagt sie."
+                },
+                {
+                    "text": "\u00bbDer Schmerz ist unvorstellbar\u00ab, sagt Melissa Kegler."
+                },
+                {
+                    "text": "Melissa Kegler, 41, sitzt an einem Mittwoch Anfang M\u00e4rz in der Lobby eines Hamburger Hotels, kurze Hose, T-Shirt."
+                },
+                {
+                    "text": "Kegler ist nach Deutschland gekommen, um \u00bbIce Mermaid\u00ab vorzustellen, einen Dokumentarfilm, der ihre Leistung feiert: Als erste Amerikanerin ist sie 2,2 Kilometer in unter f\u00fcnf Grad kaltem Wasser geschwommen \u2013 ohne Neoprenanzug."
+                },
+                {
+                    "text": "Melissa Kegler sagt, sie habe miterlebt, dass jemand dabei gestorben sei."
+                },
+                {
+                    "text": "\u00bbDer Tod ist ein Teil des Eisschwimmens\u00ab, sagt sie."
+                },
+                {
+                    "text": "SPIEGEL: Warum tun Sie sich so etwas an?"
+                },
+                {
+                    "text": "Kegler: Weil ich es mag."
+                },
+                {
+                    "text": "SPIEGEL: Haben Sie keine Angst?"
+                },
+                {
+                    "text": "Kegler: Ich liebe mein Leben, sehe meinen Tod aber ganz rational: Gehe ich allein eisschwimmen, stecke ich in meine Schwimmboje einen Zettel, darauf sind Krankenkassendaten und Telefonnummern meiner Angeh\u00f6rigen."
+                },
+                {
+                    "text": "Findet jemand meine Leiche, kann er meine Familie anrufen."
+                },
+                {
+                    "text": "Ungef\u00e4hr vier Jahre sind vergangen, seit ein Freund Kegler erstmals mit ins kalte Wasser nahm und Kegler immer weiter schwamm."
+                },
+                {
+                    "text": "Immer l\u00e4nger trotzte sie der K\u00e4lte."
+                },
+                {
+                    "text": "Anfangs sah es so aus, als w\u00fcrde aus Melissa Keglers Traum nichts werden."
+                },
+                {
+                    "text": "Ihr Arzt habe die medizinische Freigabe nicht erteilen wollen, erz\u00e4hlt Kegler."
+                },
+                {
+                    "text": "Er hatte Sorge um ihre Gesundheit."
+                },
+                {
+                    "text": "Melissa ist \u00fcbergewichtig."
+                },
+                {
+                    "text": "\u00bbIch bin einfach nicht gern hungrig, das ist alles\u00ab, sagt sie."
+                },
+                {
+                    "text": "Fr\u00fcher habe sie unter ihrem \u00dcbergewicht gelitten."
+                },
+                {
+                    "text": "Sie habe oft ein \u00bbNein\u00ab in ihrem Leben geh\u00f6rt, sagt sie."
+                },
+                {
+                    "text": "\u00bbM\u00f6chtest du mit mir ausgehen?\u00ab"
+                },
+                {
+                    "text": "So etwas habe wehgetan, klar, und doch habe sie gelernt, dass ein \u00bbNein\u00ab einen niemals abhalten sollte."
+                },
+                {
+                    "text": "\u00bbAls der Arzt sagte, ich d\u00fcrfe den Rekord nicht schwimmen, weil ich zu dick sei, nahm ich das sehr pers\u00f6nlich\u00ab."
+                },
+                {
+                    "text": "Die Unsicherheit verschwand, der Erfolg beim Eisschwimmen gibt ihr Selbstvertrauen \u2013 also bleibt sie, wie sie ist."
+                },
+                {
+                    "text": "Sie hat sich von dem Nein nicht einsch\u00fcchtern lassen, wechselt den Arzt, trainiert weiter, schwimmt das erste Mal eine Eismeile, das sind 1,6 Kilometer."
+                },
+                {
+                    "text": "Die Eismeile, sagt Kegler, sei \u00bbder Mount Everest ihres Sports\u00ab."
+                },
+                {
+                    "text": "Im warmen Haus habe sie noch ein paar gesch\u00e4ftliche Anrufe erledigt, Kegler arbeitet in der IT von Amazon."
+                },
+                {
+                    "text": "Dann sei sie rausgegangen zum See, wo Filmemacher Dan McComb mit seiner Crew gewartet habe."
+                },
+                {
+                    "text": "Vier Runden ist sie geschwommen, immer um zwei Bojen herum."
+                },
+                {
+                    "text": "Die Dokumentation zeigt, wie Kegler sich selbst Mut zuspricht, bevor sie die Leiter des Stegs endlich losl\u00e4sst."
+                },
+                {
+                    "text": "Nach der zweiten Runde will sie etwas zur Filmcrew sagen, aber das Sprechen f\u00e4llt ihr bereits schwer."
+                },
+                {
+                    "text": "Als Melissa Kegler zur letzten Runde aufbricht, bringt sie ein m\u00fchsames \u00bbIch f\u00fchle mich krank, und ich mache weiter\u00ab \u00fcber die Lippen."
+                },
+                {
+                    "text": "Ein Arzt begleitet sie in einem Kajak."
+                },
+                {
+                    "text": "Eine halbe Runde vor der Ziellinie sagt sie zu ihm: \u00bbIch glaube, ich verliere meine Erinnerungen.\u00ab"
+                },
+                {
+                    "text": "Ihr Verstand habe ein wenig verr\u00fcckt gespielt, sagt sie hinterher."
+                },
+                {
+                    "text": "Sie hat es geschafft."
+                },
+                {
+                    "text": "\u00bbEs ist ein Sport, in dem sich der Mensch der Natur aussetzt\u00ab, sagt Kegler."
+                },
+                {
+                    "text": "\u00bbDie K\u00f6rpertemperatur f\u00e4llt kontinuierlich. Ich entscheide, wann ich mich selbst retten muss. Auch das ist eine sehr wichtige F\u00e4higkeit im Eisschwimmen. Ich muss wissen, wann ich f\u00fcr den Erfolg den Tod riskiere.\u00ab"
+                },
+                {
+                    "text": "SPIEGEL: Frau Kegler, was dachten Sie in dem Moment, als Sie es geschafft hatten?"
+                },
+                {
+                    "text": "Kegler: In meiner Fantasie habe ich diese Ziellinie h\u00e4ufig \u00fcberquert."
+                },
+                {
+                    "text": "Als ich aus dem Wasser kam, wollte ich weinen, aber es ging nicht."
+                },
+                {
+                    "text": "Hatte sie Angst um ihre Tochter?"
+                },
+                {
+                    "text": "Kegler: Meine Eltern lieben mich und wollen mich nat\u00fcrlich besch\u00fctzen \u2013 aber genau das ist das Problem (lacht)."
+                },
+                {
+                    "text": "Als ich anfing mit Eisschwimmen, waren sie die Ersten, die mich f\u00fcr verr\u00fcckt erkl\u00e4rten."
+                },
+                {
+                    "text": "Ich verstehe sie: Welche Eltern finden es nicht komisch, wenn die Tochter f\u00fcr ein Hobby den Tod in Kauf nimmt?"
+                },
+                {
+                    "text": "Sie wollen immer das Beste f\u00fcr mich, und das kann mich in meinem Sport daran hindern, \u00fcber Grenzen zu gehen."
+                },
+                {
+                    "text": "Kegler: Ich war m\u00fcde, kam Treppenstufen kaum hoch, den M\u00fcll rauszubringen strengte mich sehr an."
+                },
+                {
+                    "text": "Als ich noch mal kaltes Wasser ber\u00fchrte, zuckte mein Zeh zur\u00fcck, fast wie ein Reflex."
+                },
+                {
+                    "text": "Und ich wei\u00df jetzt, dass mein K\u00f6rper zu etwas gut ist."
+                },
+                {
+                    "text": "SPIEGEL: Macht Sie der Rekord stolz?"
+                },
+                {
+                    "text": "Kegler: Was mich stolz macht, ist mein pers\u00f6nlicher Weg dahin."
+                },
+                {
+                    "text": "Ich bin eine normale Frau, ich lebe ein durchschnittliches Leben."
+                },
+                {
+                    "text": "Auf dem College dachte ich, ich muss einen Mann finden, heiraten und Kinder kriegen."
+                },
+                {
+                    "text": "Irgendwann habe ich gemerkt, dass mir Schwimmen wichtiger ist, als Kinder auf die Welt zu bringen."
+                },
+                {
+                    "text": "Jetzt bin ich gl\u00fccklich \u2013 als Eisschwimmerin und ohne Kinder."
+                }
+            ],
+            "occupations": [
+                {
+                    "text": "Eisschwimmerin"
+                }
+            ],
+            "directQuotes": [
+                {
+                    "text": "Ich wei\u00df jetzt, dass mein K\u00f6rper zu etwas gut ist"
+                },
+                {
+                    "text": "Der Schmerz ist unvorstellbar"
+                },
+                {
+                    "text": "Die Haut brennt und juckt so stark, man will die Fingern\u00e4gel ins Fleisch graben und sich die Haut vom K\u00f6rper rei\u00dfen. Man will sich \u00fcbergeben. Man will weinen. Aber das geht nicht, es gibt nur die K\u00e4lte."
+                },
+                {
+                    "text": "tropisch"
+                },
+                {
+                    "text": "Der Tod ist ein Teil des Eisschwimmens"
+                },
+                {
+                    "text": "Ich bin einfach nicht gern hungrig, das ist alles"
+                },
+                {
+                    "text": "Als der Arzt sagte, ich d\u00fcrfe den Rekord nicht schwimmen, weil ich zu dick sei, nahm ich das sehr pers\u00f6nlich"
+                },
+                {
+                    "text": "der Mount Everest ihres Sports"
+                },
+                {
+                    "text": "Ich f\u00fchle mich krank, und ich mache weiter"
+                },
+                {
+                    "text": "Ich glaube, ich verliere meine Erinnerungen."
+                },
+                {
+                    "text": "Die K\u00f6rpertemperatur f\u00e4llt kontinuierlich. Ich entscheide, wann ich mich selbst retten muss. Auch das ist eine sehr wichtige F\u00e4higkeit im Eisschwimmen. Ich muss wissen, wann ich f\u00fcr den Erfolg den Tod riskiere."
+                }
+            ],
+            "quotedInTitle": false,
+            "quotedInIntro": true
+        },
+        {
+            "name": "Dan McComb",
+            "alternativeNames": [],
+            "age": -1,
+            "sex": "male",
+            "occurences": {
+                "total": 1,
+                "firstNameOnly": 0,
+                "lastNameOnly": 0,
+                "fullName": 1,
+                "nickname": 0
+            },
+            "inTitle": false,
+            "inIntro": false,
+            "_name": {
+                "firstname": "Dan",
+                "lastname": "McComb",
+                "nickname": null,
+                "alternative_names": [],
+                "academic_title": null,
+                "nobility_title_or_rank": null
+            },
+            "descriptiveTexts": [
+                {
+                    "text": "Dann sei sie rausgegangen zum See, wo Filmemacher Dan McComb mit seiner Crew gewartet habe."
+                }
+            ],
+            "occupations": [
+                {
+                    "text": "Filmemacher"
+                }
+            ],
+            "directQuotes": [],
+            "quotedInTitle": false,
+            "quotedInIntro": false
+        }
+    ]
+}

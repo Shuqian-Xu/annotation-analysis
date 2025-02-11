@@ -1,0 +1,576 @@
+{
+    "persons": [
+        {
+            "name": "Matthew Porter",
+            "alternativeNames": [],
+            "age": -1,
+            "sex": "male",
+            "occurences": {
+                "total": 1,
+                "firstNameOnly": 0,
+                "lastNameOnly": 0,
+                "fullName": 1,
+                "nickname": 0
+            },
+            "inTitle": false,
+            "inIntro": false,
+            "_name": {
+                "firstname": "Matthew",
+                "lastname": "Porter",
+                "nickname": null,
+                "alternative_names": [],
+                "academic_title": null,
+                "nobility_title_or_rank": null
+            },
+            "descriptiveTexts": [
+                {
+                    "text": "PDC-Gesch\u00e4ftsf\u00fchrer Matthew Porter sagte vor wenigen Wochen w\u00e4hrend der WM in England, kein aktueller Topspieler brauche Alkohol, um gut zu spielen."
+                }
+            ],
+            "occupations": [],
+            "directQuotes": [],
+            "quotedInTitle": false,
+            "quotedInIntro": false
+        },
+        {
+            "name": "Luke Humphries",
+            "alternativeNames": [],
+            "age": -1,
+            "sex": "male",
+            "occurences": {
+                "total": 3,
+                "firstNameOnly": 2,
+                "lastNameOnly": 0,
+                "fullName": 1,
+                "nickname": 0
+            },
+            "inTitle": false,
+            "inIntro": false,
+            "_name": {
+                "firstname": "Luke",
+                "lastname": "Humphries",
+                "nickname": null,
+                "alternative_names": [],
+                "academic_title": null,
+                "nobility_title_or_rank": null
+            },
+            "descriptiveTexts": [
+                {
+                    "text": "Das war auch Anfang Januar bei der Darts-WM 2024 zu sehen, als der 16 Jahre alte Luke Littler bis ins Finale kam und nicht nur die Briten begeisterte."
+                },
+                {
+                    "text": "Bald werden sie gegen Stars wie Michael van Gerwen, Gerwyn Price, Luke Humphries oder Luke Littler antreten."
+                }
+            ],
+            "occupations": [],
+            "directQuotes": [],
+            "quotedInTitle": false,
+            "quotedInIntro": false
+        },
+        {
+            "name": "Luc Bogaert",
+            "alternativeNames": [],
+            "age": -1,
+            "sex": "male",
+            "occurences": {
+                "total": 2,
+                "firstNameOnly": 0,
+                "lastNameOnly": 1,
+                "fullName": 1,
+                "nickname": 0
+            },
+            "inTitle": false,
+            "inIntro": false,
+            "_name": {
+                "firstname": "Luc",
+                "lastname": "Bogaert",
+                "nickname": null,
+                "alternative_names": [],
+                "academic_title": null,
+                "nobility_title_or_rank": null
+            },
+            "descriptiveTexts": [
+                {
+                    "text": "Heute geht es gegen einen weiteren Belgier, Luc Bogaert wird sich als der st\u00e4rkste meiner Gegner erweisen und am Ende ebenfalls die Qualifikation f\u00fcr die Final Stage schaffen."
+                },
+                {
+                    "text": "Bogaert beginnt das zweite Leg mit Aufnahmen von 121, 60, 100 und 100, ist wieder weit vorn."
+                },
+                {
+                    "text": "Aber dann hat er Probleme auf die Doppelfelder, verpasst mehrere Chancen, das Leg zu beenden."
+                }
+            ],
+            "occupations": [],
+            "directQuotes": [],
+            "quotedInTitle": false,
+            "quotedInIntro": false
+        },
+        {
+            "name": "Michael van Gerwen",
+            "alternativeNames": [],
+            "age": -1,
+            "sex": "male",
+            "occurences": {
+                "total": 1,
+                "firstNameOnly": 0,
+                "lastNameOnly": 0,
+                "fullName": 1,
+                "nickname": 0
+            },
+            "inTitle": false,
+            "inIntro": false,
+            "_name": {
+                "firstname": "Michael",
+                "lastname": "van Gerwen",
+                "nickname": null,
+                "alternative_names": [],
+                "academic_title": null,
+                "nobility_title_or_rank": null
+            },
+            "descriptiveTexts": [
+                {
+                    "text": "Bald werden sie gegen Stars wie Michael van Gerwen, Gerwyn Price, Luke Humphries oder Luke Littler antreten."
+                }
+            ],
+            "occupations": [],
+            "directQuotes": [],
+            "quotedInTitle": false,
+            "quotedInIntro": false
+        },
+        {
+            "name": "Sven Scharf",
+            "alternativeNames": [],
+            "age": -1,
+            "sex": "male",
+            "occurences": {
+                "total": 1,
+                "firstNameOnly": 0,
+                "lastNameOnly": 0,
+                "fullName": 1,
+                "nickname": 0
+            },
+            "inTitle": false,
+            "inIntro": true,
+            "_name": {
+                "firstname": "Sven",
+                "lastname": "Scharf",
+                "nickname": null,
+                "alternative_names": [],
+                "academic_title": null,
+                "nobility_title_or_rank": null
+            },
+            "descriptiveTexts": [
+                {
+                    "text": "Tsch\u00fcs SPIEGEL, ich werde Darts-Weltmeister"
+                },
+                {
+                    "text": "Auch SPIEGEL-Redakteur Sven Scharf hat es versucht."
+                },
+                {
+                    "text": "Ich bin zufrieden mit meinem Job, kann mir kaum etwas vorstellen, das ich lieber machen w\u00fcrde."
+                },
+                {
+                    "text": "Manchmal tr\u00e4ume ich trotzdem noch von einer Karriere als Darts-Profi."
+                },
+                {
+                    "text": "Lebensjahr habe ich neben der Schule eigentlich nichts anderes gemacht, als Pfeile zu werfen."
+                },
+                {
+                    "text": "In Hamburg galt ich als Talent."
+                },
+                {
+                    "text": "Ich selbst war \u00fcberdurchschnittlich gut, habe an deutschen Meisterschaften teilgenommen, mitunter mehrere Turniere die Woche gespielt und regelm\u00e4\u00dfig mein Pausengeld morgens nicht f\u00fcr Br\u00f6tchen ausgegeben, sondern gespart, damit ich abends in der Kneipe eine Cola trinken konnte."
+                },
+                {
+                    "text": "Als ich mit 18 eine Ausbildung zum Gro\u00df- und Au\u00dfenhandelskaufmann begann, hatte ich kaum noch Zeit zu trainieren, die Leistungen wurden schlechter, meine Lust auf Darts verschwand."
+                },
+                {
+                    "text": "Vor einigen Jahren n\u00e4herte ich mich dem Sport wieder an, erst mal nur als Journalist."
+                },
+                {
+                    "text": "Durch die Berichterstattung habe ich die Liebe zum Pfeilewerfen wiederentdeckt, mir erneut eine Scheibe zu Hause aufgeh\u00e4ngt und die Profitour der Professional Darts Corporation (PDC) auch privat intensiv verfolgt."
+                },
+                {
+                    "text": "Um selbst Profi zu werden, bin ich leider viel zu schlecht."
+                },
+                {
+                    "text": "Aber einmal mitspielen beim Qualifikationsturnier der PDC, Q-School genannt, das kann ich schon."
+                },
+                {
+                    "text": "Weil ich f\u00fcr einen Teil der Strecke auf den Schienenersatzverkehr ausweichen musste, dauerte die Fahrt von Hamburg nach Kalkar knapp sieben Stunden."
+                },
+                {
+                    "text": "Aber ganz ohne Zielsetzung habe ich die Reise nicht angetreten."
+                },
+                {
+                    "text": "In dieser Reihenfolge m\u00f6chte ich:\n\nnicht den schlechtesten Punkteschnitt (Average) aller Spieler haben,\n\neinen Average von mehr als 50 Punkten spielen (wer hier eine Tourkarte gewinnen m\u00f6chte, sollte im Schnitt \u00fcber 85 Punkte haben),\n\nein Leg gewinnen."
+                },
+                {
+                    "text": "In die Halle, in der die Q-School ausgetragen wird, darf ich an diesem Sonntagabend leider noch nicht."
+                },
+                {
+                    "text": "Ich z\u00e4hle zwei, vielleicht auch drei Frauen; Darts, daran hat sich seit meiner Jugend wenig ge\u00e4ndert, ist ein von M\u00e4nnern dominierter Sport."
+                },
+                {
+                    "text": "Als ich angemeldet bin, gehe ich erst mal fr\u00fchst\u00fccken."
+                },
+                {
+                    "text": "Viele andere Spieler sehe ich da nicht."
+                },
+                {
+                    "text": "Um neun Uhr bin ich wieder in der Halle und spiele mich ein wenig ein."
+                },
+                {
+                    "text": "Aber ich versuche, mir immer wieder zu sagen, dass die anderen hier wahrscheinlich in der Woche so viele Stunden spielen wie ich in Monaten."
+                },
+                {
+                    "text": "Nach 20 Minuten beende ich das Einspielen, besser wird es nicht."
+                },
+                {
+                    "text": "Dass etliche Spieler auf Darts-Turnieren Alkohol trinken, um die Nerven zu beruhigen, wei\u00df ich, ich habe es fr\u00fcher genauso gemacht."
+                },
+                {
+                    "text": "Einen Wurf aus dem Lehrbuch gibt es nicht, jeder muss seinen eigenen Wurfstil finden: wie er den Dart anfasst (vorn, hinten, mit zwei, drei oder vier Fingern); wo er sich an der Wurflinie (dem Oche, \u00bbokkii\u00ab gesprochen) hinstellt (mittig, eher rechts, eher links); wie er den Pfeil wirft (wuchtig oder mit Gef\u00fchl, den Dart vor dem Auge oder neben dem Kopf entlanggezogen)."
+                },
+                {
+                    "text": "Um kurz vor zehn erfahre ich, wer mein erster Gegner ist: der Belgier Jeroen Caron, der wie die meisten hier viel zu gut f\u00fcr mich ist."
+                },
+                {
+                    "text": "Beim kurzen Einspielen bin ich noch relativ entspannt, sobald das Spiel losgeht, sp\u00fcre ich aber doch Nervosit\u00e4t."
+                },
+                {
+                    "text": "Ich versuche mir einzureden, dass ich nur hier bin, um diesen Text zu schreiben; dass es v\u00f6llig egal ist, wie ich abschneide."
+                },
+                {
+                    "text": "Weil Caron nach starkem Start pl\u00f6tzlich Probleme hat, die Doppelfelder zu treffen, und ich gleichzeitig f\u00fcr mich unerwartete 119 Punkte werfe, bekomme ich hier tats\u00e4chlich die Chance, mir gleich das erste Leg zu holen."
+                },
+                {
+                    "text": "Am Ende verliere ich 0:5."
+                },
+                {
+                    "text": "Zwei meiner Ziele habe ich allerdings im ersten Spiel erreicht."
+                },
+                {
+                    "text": "Und wenn ich mir nur die Averages angucke, waren von den fast 500 Teilnehmern mehr als 20 schlechter als ich."
+                },
+                {
+                    "text": "Ich m\u00f6chte glauben, dass meine Anwesenheit ihm zum Sieg verholfen, mit der Niederlage aber nichts zu tun gehabt hat."
+                },
+                {
+                    "text": "Ich selbst habe f\u00fcr den heutigen Tag beschlossen, die Zeit zur\u00fcckzudrehen und noch einmal komplett in die Vergangenheit einzutauchen."
+                },
+                {
+                    "text": "Morgens um kurz nach neun hole ich mir an der Bar eine Whisky-Cola."
+                },
+                {
+                    "text": "Danach spiele ich mich wieder kurz ein."
+                },
+                {
+                    "text": "Der Alkohol verfehlt seine Wirkung nicht, w\u00e4hrend der Partie bin ich weniger nerv\u00f6s als gestern."
+                },
+                {
+                    "text": "Komischerweise spiele ich nicht besser."
+                },
+                {
+                    "text": "Allerdings verpasse ich im vierten Leg ein absolutes Highlight knapp."
+                },
+                {
+                    "text": "Bei 139 Punkten Rest werfe ich den ersten Pfeil in die dreifache 19 und den zweiten in die dreifache 14."
+                },
+                {
+                    "text": "Es sind also nur noch 40 Punkte \u00fcbrig, mit einer Doppel-20 h\u00e4tte ich mein erstes Leg gewonnen."
+                },
+                {
+                    "text": "Doch dann z\u00f6gere ich vor dem letzten Dart zu lange und werfe ihn statt in die Doppel-20 weit daneben in die einfache 5."
+                },
+                {
+                    "text": "Am Ende verliere ich 0:5, habe aber mit 52,75 erneut einen Average von \u00fcber 50 und war erneut nicht der Schlechteste."
+                },
+                {
+                    "text": "Tag 3: Nach dem Fr\u00fchst\u00fcck gehe ich in die Halle."
+                },
+                {
+                    "text": "Ich werfe nacheinander 28, 52, 45, 64 und 31 Punkte, stehe noch bei 281 Z\u00e4hlern, als mein Gegner das Leg beendet."
+                },
+                {
+                    "text": "Meine Chance kommt, als ich mit einem Rest von 68 Punkten an die Wurflinie trete."
+                },
+                {
+                    "text": "Jetzt kann ich Geschichte schreiben, zumindest pers\u00f6nliche."
+                },
+                {
+                    "text": "Der erste Dart geht in die einfache 12, kein Problem, weil ich f\u00fcr die restlichen 56 Punkte ja immer noch zwei Pfeile habe."
+                },
+                {
+                    "text": "Den n\u00e4chsten Wurf will ich in das einfache 16er-Feld setzen, dann h\u00e4tte ich 40 Punkte Rest, eine Doppel-20 w\u00fcrde reichen."
+                },
+                {
+                    "text": "Jetzt muss ich nur noch die Doppel-12 treffen."
+                },
+                {
+                    "text": "Erneut z\u00f6gere ich etwas zu lange, weiche von meinem gewohnten Bewegungsablauf ab."
+                },
+                {
+                    "text": "Ich mache eine kurze Pause, gehe einen Schritt vom Board zur\u00fcck."
+                },
+                {
+                    "text": "Jetzt ganz ruhig bleiben, denke ich."
+                },
+                {
+                    "text": "Das hast du schon 1000-mal zuvor geschafft."
+                },
+                {
+                    "text": "Absurderweise \u00fcberlege ich f\u00fcr einen Moment, um wie viel besser es f\u00fcr meinen SPIEGEL-Text doch w\u00e4re, wenn ich wenigstens ein Leg gewinnen w\u00fcrde."
+                },
+                {
+                    "text": "Nach ein paar Sekunden mache ich den Schritt zur\u00fcck ans Board und lasse den letzten Pfeil aus meiner Hand fliegen."
+                },
+                {
+                    "text": "An diesem dritten (und f\u00fcr mich letzten) Tag verliere ich zwar 1:5, habe aber tats\u00e4chlich alle meine Ziele erreicht."
+                },
+                {
+                    "text": "Ich habe ein Leg gewonnen, mit 52,64 wieder einen Average von mehr als 50 gespielt und war erneut nicht der Schlechteste."
+                }
+            ],
+            "occupations": [
+                {
+                    "text": "SPIEGEL-Redakteur"
+                }
+            ],
+            "directQuotes": [],
+            "quotedInTitle": false,
+            "quotedInIntro": true
+        },
+        {
+            "name": "Torbj\u00f6rn Gustafsson",
+            "alternativeNames": [],
+            "age": -1,
+            "sex": "male",
+            "occurences": {
+                "total": 2,
+                "firstNameOnly": 0,
+                "lastNameOnly": 1,
+                "fullName": 1,
+                "nickname": 0
+            },
+            "inTitle": false,
+            "inIntro": false,
+            "_name": {
+                "firstname": "Torbj\u00f6rn",
+                "lastname": "Gustafsson",
+                "nickname": null,
+                "alternative_names": [],
+                "academic_title": null,
+                "nobility_title_or_rank": null
+            },
+            "descriptiveTexts": [
+                {
+                    "text": "F\u00fcr mich geht es heute an Board 13 gegen Torbj\u00f6rn Gustafsson aus Finnland."
+                },
+                {
+                    "text": "Mit seiner n\u00e4chsten Aufnahme beendet Gustafsson das Leg."
+                }
+            ],
+            "occupations": [],
+            "directQuotes": [],
+            "quotedInTitle": false,
+            "quotedInIntro": false
+        },
+        {
+            "name": "Jeroen Caron",
+            "alternativeNames": [],
+            "age": -1,
+            "sex": "male",
+            "occurences": {
+                "total": 4,
+                "firstNameOnly": 0,
+                "lastNameOnly": 3,
+                "fullName": 1,
+                "nickname": 0
+            },
+            "inTitle": false,
+            "inIntro": false,
+            "_name": {
+                "firstname": "Jeroen",
+                "lastname": "Caron",
+                "nickname": null,
+                "alternative_names": [],
+                "academic_title": null,
+                "nobility_title_or_rank": null
+            },
+            "descriptiveTexts": [
+                {
+                    "text": "Um kurz vor zehn erfahre ich, wer mein erster Gegner ist: der Belgier Jeroen Caron, der wie die meisten hier viel zu gut f\u00fcr mich ist."
+                },
+                {
+                    "text": "Caron und ich treffen an Board 11 aufeinander."
+                },
+                {
+                    "text": "Weil Caron nach starkem Start pl\u00f6tzlich Probleme hat, die Doppelfelder zu treffen, und ich gleichzeitig f\u00fcr mich unerwartete 119 Punkte werfe, bekomme ich hier tats\u00e4chlich die Chance, mir gleich das erste Leg zu holen."
+                },
+                {
+                    "text": "Caron, das ist ein kleiner Trost f\u00fcr mich, wird sich sp\u00e4ter in die Final Stage spielen."
+                }
+            ],
+            "occupations": [],
+            "directQuotes": [],
+            "quotedInTitle": false,
+            "quotedInIntro": false
+        },
+        {
+            "name": "Gerwyn Price",
+            "alternativeNames": [],
+            "age": -1,
+            "sex": "male",
+            "occurences": {
+                "total": 1,
+                "firstNameOnly": 0,
+                "lastNameOnly": 0,
+                "fullName": 1,
+                "nickname": 0
+            },
+            "inTitle": false,
+            "inIntro": false,
+            "_name": {
+                "firstname": "Gerwyn",
+                "lastname": "Price",
+                "nickname": null,
+                "alternative_names": [],
+                "academic_title": null,
+                "nobility_title_or_rank": null
+            },
+            "descriptiveTexts": [
+                {
+                    "text": "Bald werden sie gegen Stars wie Michael van Gerwen, Gerwyn Price, Luke Humphries oder Luke Littler antreten."
+                }
+            ],
+            "occupations": [],
+            "directQuotes": [],
+            "quotedInTitle": false,
+            "quotedInIntro": false
+        },
+        {
+            "name": "Luke Littler",
+            "alternativeNames": [],
+            "age": -1,
+            "sex": "male",
+            "occurences": {
+                "total": 3,
+                "firstNameOnly": 1,
+                "lastNameOnly": 0,
+                "fullName": 2,
+                "nickname": 0
+            },
+            "inTitle": false,
+            "inIntro": false,
+            "_name": {
+                "firstname": "Luke",
+                "lastname": "Littler",
+                "nickname": null,
+                "alternative_names": [],
+                "academic_title": null,
+                "nobility_title_or_rank": null
+            },
+            "descriptiveTexts": [
+                {
+                    "text": "Das war auch Anfang Januar bei der Darts-WM 2024 zu sehen, als der 16 Jahre alte Luke Littler bis ins Finale kam und nicht nur die Briten begeisterte."
+                },
+                {
+                    "text": "Bald werden sie gegen Stars wie Michael van Gerwen, Gerwyn Price, Luke Humphries oder Luke Littler antreten."
+                }
+            ],
+            "occupations": [
+                {
+                    "text": "Darts-Profi"
+                }
+            ],
+            "directQuotes": [],
+            "quotedInTitle": false,
+            "quotedInIntro": false
+        },
+        {
+            "name": "Vladimir Andersen",
+            "alternativeNames": [],
+            "age": -1,
+            "sex": "male",
+            "occurences": {
+                "total": 1,
+                "firstNameOnly": 0,
+                "lastNameOnly": 0,
+                "fullName": 1,
+                "nickname": 0
+            },
+            "inTitle": false,
+            "inIntro": false,
+            "_name": {
+                "firstname": "Vladimir",
+                "lastname": "Andersen",
+                "nickname": null,
+                "alternative_names": [],
+                "academic_title": null,
+                "nobility_title_or_rank": null
+            },
+            "descriptiveTexts": [
+                {
+                    "text": "Der D\u00e4ne Vladimir Andersen erz\u00e4hlt mir, ihm sei gesagt worden, dass es auf Profiniveau 80 Prozent ausmache."
+                },
+                {
+                    "text": "Er habe das anfangs nicht glauben wollen."
+                },
+                {
+                    "text": "\u00bbNun wei\u00df ich, es sind mehr als 80 Prozent. Alles entscheidet sich im Kopf, fast jeder hier hat Phasen, in denen er alles trifft. Wichtig ist es aber, auch unter Druck zu treffen.\u00ab"
+                }
+            ],
+            "occupations": [],
+            "directQuotes": [
+                {
+                    "text": "Nun wei\u00df ich, es sind mehr als 80 Prozent. Alles entscheidet sich im Kopf, fast jeder hier hat Phasen, in denen er alles trifft. Wichtig ist es aber, auch unter Druck zu treffen."
+                }
+            ],
+            "quotedInTitle": false,
+            "quotedInIntro": false
+        },
+        {
+            "name": "Felix",
+            "alternativeNames": [],
+            "age": -1,
+            "sex": "male",
+            "occurences": {
+                "total": 2,
+                "firstNameOnly": 0,
+                "lastNameOnly": 0,
+                "fullName": 2,
+                "nickname": 0
+            },
+            "inTitle": false,
+            "inIntro": false,
+            "_name": {
+                "firstname": "Felix",
+                "lastname": null,
+                "nickname": null,
+                "alternative_names": [],
+                "academic_title": null,
+                "nobility_title_or_rank": null
+            },
+            "descriptiveTexts": [
+                {
+                    "text": "Tag 2: Beim Fr\u00fchst\u00fcck lerne ich einen anderen Spieler kennen, der auch allein angereist ist."
+                },
+                {
+                    "text": "Er hei\u00dft Felix und ist ambitionierter Hobbydarter."
+                },
+                {
+                    "text": "Felix gewinnt sein erstes Spiel 5:2, verliert dann aber 2:5."
+                }
+            ],
+            "occupations": [
+                {
+                    "text": "ambitionierter Hobbydarter"
+                }
+            ],
+            "directQuotes": [],
+            "quotedInTitle": false,
+            "quotedInIntro": false
+        }
+    ]
+}

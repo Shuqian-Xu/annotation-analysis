@@ -1,0 +1,632 @@
+{
+  "persons": [
+    {
+      "age": -1, 
+      "alternativeNames": [],
+      "birthday": null,
+      "descriptiveTexts": [
+        {
+          "text": "Frau Nahles soll es richten"
+        },
+        {
+          "text": "Seit Andrea Nahles Chefin der Bundesagentur für Arbeit ist, hält sich die Ex-SPD-Vorsitzende aus Parteidebatten heraus, auch wenn es schwerfällt."
+        },
+        {
+          "text": "Wichtige Projekte der Ampel hängen an ihrer Behörde."
+        },
+        {
+          "text": "Und heute sieht sie einiges anders."
+        },
+        {
+          "text": "Auf einer Bühne der Stuttgarter Messe ist Andrea Nahles eingekeilt zwischen zwei Lobbyisten."
+        },
+        {
+          "text": "Es ist Anfang Februar, sie soll auf einer Fachmesse über das Thema »Arbeitsmarkt Gastgewerbe – was aktuell entscheidend ist« diskutieren."
+        },
+        {
+          "text": "Seit anderthalb Jahren schon führt sie die Bundesagentur für Arbeit (BA)."
+        },
+        {
+          "text": "Doch was die beiden Vertreter des Deutschen Hotel- und Gaststättenverbands links und rechts von ihr fordern, klingt, als wäre Nahles noch immer Bundesarbeitsministerin oder Vorsitzende der SPD."
+        },
+        {
+          "text": "Nahles ist angesprochen – und fühlt sich doch nicht gemeint."
+        },
+        {
+          "text": "Es dauert 20 Minuten, bis es ihr zu viel wird."
+        },
+        {
+          "text": "Als es um das Arbeitszeitgesetz geht, das die Bundesregierung endlich lockern müsse, schaut die Moderatorin Nahles an."
+        },
+        {
+          "text": "»Ich muss jetzt sagen, dass sie mich an dieser Stelle kolossal überfordern«, sagt diese."
+        },
+        {
+            "text": "»Sie machen mit mir hier eine politische Debatte auf, die ich nicht bedienen kann. Ich bin Chefin der Bundesagentur für Ar­beit.«"
+          },
+          {
+          "text": "Aus aktuellen Debatten hielte Nahles sich gern heraus."
+        },
+        {
+          "text": "Das Problem ist, dass sie ständig gefragt ist."
+        },
+        {
+          "text": "Die Behörde, die sie führt, ist die größte in Deutschland, und weil die meisten Menschen die BA als Teil der Politik wahrnehmen, gilt das für ihre Chefin offensichtlich genauso."
+        },
+        {
+          "text": "»Ich bin die Vorstandsvorsitzende für alles«, sagt Nahles, als sie die Bühne in Stuttgart nach ihrem Auftritt verlässt."
+        },
+        {
+          "text": "Im Sommer 2019 hatte sie sich aus der Parteipolitik zurückgezogen."
+        },
+        {
+          "text": "Sie trat vom SPD-Partei- und Fraktionsvorsitz zurück und legte auch ihr Bundestagsmandat nieder."
+        },
+        {
+          "text": "Es war ein radikaler Schritt, nach der verlorenen Europawahl, nach unerfreulichen Auseinandersetzungen mit den Genossen, vor allem für jemanden, der fast sein gesamtes Berufsleben in der Politik verbracht hatte."
+        },
+        {
+          "text": "Als Juso-Vorsitzende, SPD-Generalsekretärin, Bundesarbeitsministerin."
+        },
+        {
+          "text": "Wer glaubte, es habe sich damals um eine Kurzschlussreaktion gehandelt und Nahles werde bald wieder in den Betrieb der Hauptstadt zurückkehren, hat sich getäuscht."
+        },
+        {
+          "text": "Seitdem kein öffentliches Wort von ihr zur SPD oder Kanzler Olaf Scholz."
+        },
+        {
+          "text": "Wenn der Zeitpunkt gekommen ist, und er kommt immer, sagt Nahles auch als Vorstandsvorsitzende der BA auf jedem Podium, in jedem Gespräch, dass sie zur »politischen Neutralität« verpflichtet sei."
+        },
+        {
+          "text": "Allerdings gab es in den vergangenen Monaten einige Entscheidungen der Bundes­regierung, die ihr Amt berührten."
+        },
+        {
+          "text": "Und zu denen eine BA-Chefin unmöglich schweigen kann."
+        },
+        {
+          "text": "Schon gar nicht, wenn sie wie kaum eine andere die Zwänge, Regeln und Grenzen des politischen Spiels kennt und auch seine taktischen Fouls."
+        },
+        {
+          "text": "Sie weiß, wann sie für die Bundesagentur dazwischengrätschen muss."
+        },
+        {
+          "text": "So war es um die Jahreswende, als Nahles sich dagegen wehrte, dass bei ihrer Behörde in den Verhandlungen zum Bundesetat gekürzt werden sollte."
+        },
+        {
+          "text": "Dieser Griff in den Beitragshaushalt belaste »auch das Zutrauen in eine verlässliche Zusammenarbeit mit der Bundesregierung für mögliche zukünftige Krisen«, sagte Nahles."
+        },
+        {
+          "text": "So hat sich Andrea Nahles in den vergangenen Wochen immer wieder zu Wort gemeldet, bis an die Grenze dessen, was sie sagen kann."
+        },
+        {
+          "text": "Als Bundesfinanzminister Christian Lindner (FDP) forderte, das Bürgergeld zu kürzen, damit sich Arbeiten wieder lohne, erklärte Nahles: »Arbeiten lohnt sich fi­nanziell immer.«"
+        },
+        {
+          "text": "Als Friedrich Merz (CDU) behauptete, die Arbeitsanreize für Ukrainer seien zu niedrig, weil das Bürgergeld zu hoch sei, sagte sie: »Dafür haben wir keine statistischen Belege.«"
+        },
+        {
+          "text": "Zudem nannte sie die Debatte »nicht ganz fair«."
+        },
+        {
+          "text": "Und als Arbeitsminister Hubertus Heil (SPD) verkündete, dass künftig wieder in den Jobcentern sanktioniert und Jobverweigerern bis zu zwei Monate lang das Bürgergeld komplett gekürzt werden soll, stellte Nahles klar, dass es eine Entscheidung der Politik war, die Sanktionen ausgesetzt zu haben – gegen den Rat der Bundesagentur."
+        },
+        {
+          "text": "Dass sich durch die Sanktionierung der Totalverweigerer 2024 bis zu 170 Millionen Euro an Ausgaben einsparen lassen, wie von der Regierung angenommen, stellte sie umgehend infrage, die Wirkung sei nicht ab­sehbar."
+        },
+        {
+          "text": "Um solche Versprechen zu glauben, ist sie zu oft vor Ort."
+        },
+        {
+          "text": "Als sie ihr Amt antrat, versprach sie den Mitarbeitern, regelmäßig Arbeitsagenturen und Jobcenter im Land zu bereisen."
+        },
+        {
+          "text": "Einmal im Monat macht sie das."
+        },
+        {
+          "text": "An diesem Februartag besucht sie die Regionaldirektion Baden-Württemberg der Arbeitsbehörde in Stuttgart, die eine neue Chefin hat."
+        },
+        {
+          "text": "Am Morgen war sie bereits bei Bosch in Feuerbach, um sich darüber zu informieren, welche Folgen der Umstieg von Verbrenner- auf Wasserstoffantrieb auf die Arbeitsplätze hat."
+        },
+        {
+          "text": "Ihr Kalender ist voll."
+        },
+        {
+          "text": "Zwischen den Terminen sitzt Nahles entspannt auf ihrem Stammplatz rechts im Fond des Dienstwagens."
+        },
+        {
+          "text": "Spricht man sie auf die Auseinandersetzung um das Bürgergeld an, sagt sie, dass die jüngste Reform in der Behörde noch immer positiv gesehen werde, nach 18 Jahren Hartz IV, in denen die Bundesagentur in der öffentlichen Debatte oft als das böse Antlitz des Sozialstaats dargestellt wurde, als Institution, die sanktioniert und bestraft: »Deshalb wünschen wir uns eigentlich, dass es jetzt nicht noch mal eine Kehrtwende gibt und auf der jetzigen Basis Sanktionen auch möglich bleiben.«"
+        },
+        {
+          "text": "»Beim Bürgergeld ist eine Art Populismusspirale in Gang gekommen«, sagt Nahles auf der Rückbank des Autos."
+        },
+        {
+          "text": "»Und die Bundesagentur steckt irgendwo in der Mitte dieser Spirale«, sagt sie, »wir versuchen deshalb, immer belegbare Zahlen, Fakten und Daten zu liefern und darüber wieder ein Stück Realismus in die Debatte zu bringen.«"
+        },
+        {
+          "text": "113.000 Beschäftigte hat ihre Behörde."
+        },
+        {
+          "text": "Von Anfang an hat Nahles deutlich gemacht, dass das Projekt anspruchsvoll ist, um es vorsichtig auszudrücken."
+        },
+        {
+          "text": "»Die Entscheidung muss zeitnah kommen, sonst wird es mit der Zeitschiene für die Umsetzung extrem eng. Da kann dann niemand überrascht sein«, sagt Nahles."
+        },
+        {
+          "text": "»Das ist immer wie eine Operation am offenen Herzen«, sagt Nahles."
+        },
+        {
+          "text": "Fragt man sie, ob der Rollenwechsel ihren Blick auf die Politik und ihr eigenes Handeln als Politikerin verändert hat, sagt sie: »Mir sind einige Dinge, die ich vorher eher aus dem Augenwinkel gesehen habe, klarer geworden.«"
+        },
+        {
+          "text": "»In der Politik gelten Ermessensspielräume als positiv«, sagt die BA-Chefin, »auf der Verwaltungsseite heißt es: um Gottes willen. Denn in der Praxis ist es nicht immer so einfach »Ermessen« auszuüben.«"
+        },
+        {
+            "text": "Nun steht sie auf der Seite der Verwaltung."
+          },
+          {
+          "text": "»Wir wollen Komplexität reduzieren, wieder verständlicher werden für die Menschen. Heute würde ich auch eine andere Gesetzgebung favorisieren«, sagt Nahles."
+        },
+        {
+          "text": "Sie wirbt jetzt in Berlin dafür, bei jedem neuen Gesetz die Umsetzung mitzudenken: »Mit dem Wissen, das ich heute habe, würde ich manche frühere Entscheidung heute anders treffen.«"
+        },
+        {
+          "text": "Vor allem würde sie dem Bürokratieabbau mehr Bedeutung zumessen."
+        },
+        {
+          "text": "»Als ich Ministerin war, war dafür Helge Braun im Kanzleramt zuständig, und wir haben pflichtgemäß unsere Vorschläge gemeldet«, sagt Nahles, »heute würde ich mich selbst intensiver da­rum kümmern.«"
+        },
+        {
+          "text": "Bei der BA macht sie das seit einigen Monaten, auch die Behörde ist als Arbeitgeber von der Transformation auf dem Arbeitsmarkt betroffen."
+        },
+        {
+          "text": "»Wir werden in Zukunft mit weniger Leuten die gleichen Leistungen wie heute liefern müssen, ob wir wollen oder nicht«, sagt Nahles."
+        },
+        {
+          "text": "Also baut sie die Behörde um, von der Öffentlichkeit weit­gehend unbemerkt."
+        },
+        {
+          "text": "»Sind sie optimal? Sind sie am Kunden orientiert? Kann der Prozess überhaupt automatisiert werden?«, sagt Nahles."
+        },
+        {
+            "text": "»Wir wollen die modernste digitale Dienstleisterin Europas werden.«"
+          },
+          {
+          "text": "Derweil ist das nächste Prestigeprojekt der Ampelkoalition, um das sie sich kümmern muss, schon angelaufen."
+        },
+        {
+          "text": "Nahles Vorstandskollege Daniel Terzenbach wurde zum »Sonderbeauftragten der Bundesregierung für die Arbeitsmarktintegration von Geflüchteten« ernannt."
+        },
+        {
+          "text": "Sie ist überzeugt, dass die Sache funktionieren wird."
+        },
+        {
+          "text": "»Daniel Terzenbach und ich haben das vorher diskutiert«, sagt Nahles, »Wir haben die Erfahrung, und wir sind gut aufgestellt. Es ist besser, wir machen das, als ein Externer, der weniger davon versteht.«"
+        },
+        {
+          "text": "Mitte Februar sitzt sie abends in Braunschweig in einem Lokschuppen, in dem normalerweise historische Züge restauriert werden, in einer Diskussionsrunde des Ar­beitgeberverbands der Region."
+        },
+        {
+          "text": "Man kann ihr die Ungeduld ansehen, gegenhalten zu können."
+        },
+        {
+          "text": "Wie sie auf dem Sofa hin und her rutscht, bis sie antworten kann."
+        },
+        {
+          "text": "»Was die wirklich lockerer und besser machen, ist das mit der Sprache«, sagt Nahles, »wir haben einen deutschsprachigen Arbeitsmarkt, in den Niederlanden ist völlig egal, ob sie schon die Sprache beherrschen.«"
+        },
+        {
+          "text": "»Von den syrischen Männern, die 2015/16 zu uns kamen, haben heute 70 Prozent einen sozialversicherungspflichtigen Job«, sagt Nahles."
+        },
+        {
+          "text": "Allerdings weiß gerade sie, dass die Geduld von Politikern und Politikerinnen vor Wahljahren begrenzt ist."
+        },
+        {
+          "text": "Auf dem Weg von der Veranstaltung zu ihrem Wagen über den unbeleuchteten Parkplatz kommt das Gespräch nochmals auf ihren Abschied aus der aktiven Parteipolitik."
+        },
+        {
+          "text": "Damals war sie 49 Jahre alt und hatte bereits die meisten Höhen und Tiefen eines Politikerinnenlebens durchschritten."
+        },
+        {
+          "text": "»Aber das ist mein Weg«, sagt sie."
+        },
+        {
+          "text": "Dass ihr Amt bei der BA nicht nur eine Zwischen­station ist, daran lässt sie keinen Zweifel."
+        },
+        {
+          "text": "»Ich habe mich für meine Zukunft entschieden«, sagt Nahles, »ich will keine Gefangene meiner Vergangenheit sein.«"
+        },
+        {
+          "text": "Sie verabschiedet sich am Auto, steigt hinten rechts ein und schließt die Tür."
+        }
+      ],
+      "directQuotes": [
+        {
+          "text": "Ich muss jetzt sagen, dass sie mich an dieser Stelle kolossal überfordern"
+        },
+        {
+          "text": "Sie machen mit mir hier eine politische Debatte auf, die ich nicht bedienen kann. Ich bin Chefin der Bundesagentur für Ar­beit."
+        },
+        {
+          "text": "Ich bin die Vorstandsvorsitzende für alles"
+        },
+        {
+          "text": "politischen Neutralität"
+        },
+        {
+          "text": "auch das Zutrauen in eine verlässliche Zusammenarbeit mit der Bundesregierung für mögliche zukünftige Krisen"
+        },
+        {
+          "text": "Arbeiten lohnt sich fi­nanziell immer."
+        },
+        {
+          "text": "Dafür haben wir keine statistischen Belege."
+        },
+        {
+          "text": "nicht ganz fair"
+        },
+        {
+          "text": "dass sie erst mal Deutsch lernen sollen"
+        },
+        {
+          "text": "Hey, ihr habt keine Arbeit angenommen."
+        },
+        {
+          "text": "Deshalb wünschen wir uns eigentlich, dass es jetzt nicht noch mal eine Kehrtwende gibt und auf der jetzigen Basis Sanktionen auch möglich bleiben."
+        },
+        {
+          "text": "Beim Bürgergeld ist eine Art Populismusspirale in Gang gekommen"
+        },
+        {
+          "text": "Und die Bundesagentur steckt irgendwo in der Mitte dieser Spirale"
+        },
+        {
+          "text": "wir versuchen deshalb, immer belegbare Zahlen, Fakten und Daten zu liefern und darüber wieder ein Stück Realismus in die Debatte zu bringen."
+        },
+        {
+          "text": "Im vergangenen Jahr sind so wenige Menschen aus dem ersten Arbeitsmarkt ins Bürgergeld gerutscht wie seit 2015 nicht mehr."
+        },
+        {
+          "text": "Die Entscheidung muss zeitnah kommen, sonst wird es mit der Zeitschiene für die Umsetzung extrem eng. Da kann dann niemand überrascht sein"
+        },
+        {
+          "text": "Das ist immer wie eine Operation am offenen Herzen"
+        },
+        {
+          "text": "Mir sind einige Dinge, die ich vorher eher aus dem Augenwinkel gesehen habe, klarer geworden."
+        },
+        {
+          "text": "In der Politik gelten Ermessensspielräume als positiv"
+        },
+        {
+          "text": "auf der Verwaltungsseite heißt es: um Gottes willen. Denn in der Praxis ist es nicht immer so einfach »Ermessen« auszuüben."
+        },
+        {
+          "text": "Wir wollen Komplexität reduzieren, wieder verständlicher werden für die Menschen. Heute würde ich auch eine andere Gesetzgebung favorisieren"
+        },
+        {
+          "text": "Mit dem Wissen, das ich heute habe, würde ich manche frühere Entscheidung heute anders treffen."
+        },
+        {
+          "text": "Als ich Ministerin war, war dafür Helge Braun im Kanzleramt zuständig, und wir haben pflichtgemäß unsere Vorschläge gemeldet"
+        },
+        {
+          "text": "heute würde ich mich selbst intensiver da­rum kümmern."
+        },
+        {
+          "text": "Wir werden in Zukunft mit weniger Leuten die gleichen Leistungen wie heute liefern müssen, ob wir wollen oder nicht"
+        },
+        {
+          "text": "Sind sie optimal? Sind sie am Kunden orientiert? Kann der Prozess überhaupt automatisiert werden?"
+        },
+        {
+          "text": "Wir wollen die modernste digitale Dienstleisterin Europas werden."
+        },
+        {
+          "text": "Daniel Terzenbach und ich haben das vorher diskutiert"
+        },
+        {
+          "text": "Wir haben die Erfahrung, und wir sind gut aufgestellt. Es ist besser, wir machen das, als ein Externer, der weniger davon versteht."
+        },
+        {
+          "text": "Was die wirklich lockerer und besser machen, ist das mit der Sprache"
+        },
+        {
+          "text": "wir haben einen deutschsprachigen Arbeitsmarkt, in den Niederlanden ist völlig egal, ob sie schon die Sprache beherrschen."
+        },
+        {
+          "text": "Super für die Statistik. Alle Probleme gelöst, nur nicht wirklich."
+        },
+        {
+          "text": "Von den syrischen Männern, die 2015/16 zu uns kamen, haben heute 70 Prozent einen sozialversicherungspflichtigen Job"
+        },
+        {
+          "text": "Aber das ist mein Weg"
+        },
+        {
+          "text": "Ich habe mich für meine Zukunft entschieden"
+        },
+        {
+          "text": "ich will keine Gefangene meiner Vergangenheit sein."
+        }
+      ],
+      "inIntro": true,
+      "inTitle": true,
+      "indirectQuotes": [
+        {
+            "text": "Wenn der Zeitpunkt gekommen ist, und er kommt immer, sagt Nahles auch als Vorstandsvorsitzende der BA auf jedem Podium, in jedem Gespräch, dass sie zur »politischen Neutralität« verpflichtet sei."
+          },
+          {
+          "text": "Und sich daran halte."
+        },
+        {
+          "text": "Dieser Griff in den Beitragshaushalt belaste »auch das Zutrauen in eine verlässliche Zusammenarbeit mit der Bundesregierung für mögliche zukünftige Krisen«, sagte Nahles."
+        },
+        {
+          "text": "Man könne nicht zunächst den Ukrainerinnen und Ukrainern sagen, »dass sie erst mal Deutsch lernen sollen« und sich dann beschweren: »Hey, ihr habt keine Arbeit angenommen.«"
+        },
+        {
+          "text": "Spricht man sie auf die Auseinandersetzung um das Bürgergeld an, sagt sie, dass die jüngste Reform in der Behörde noch immer positiv gesehen werde, nach 18 Jahren Hartz IV, in denen die Bundesagentur in der öffentlichen Debatte oft als das böse Antlitz des Sozialstaats dargestellt wurde, als Institution, die sanktioniert und bestraft: »Deshalb wünschen wir uns eigentlich, dass es jetzt nicht noch mal eine Kehrtwende gibt und auf der jetzigen Basis Sanktionen auch möglich bleiben.«"
+        },
+        {
+          "text": "Es gebe einen Überbietungswettbewerb mit immer härteren Vorschlägen."
+        },
+        {
+          "text": "Dass die Umsetzung über ein Jahr dauern werde und deshalb niemand erwarten könne, man verabschiede einfach ein Gesetz, und dann laufe alles von selbst."
+        },
+        {
+            "text": "Etwa die Versuche der Politik, durch Einzelfallgerechtigkeit wie bei der Grund­sicherung allen gerecht werden zu wollen."
+          },
+        {
+          "text": "Öffentlich werde behauptet, das Bürgergeld sei so attraktiv, dass deshalb Menschen ihren Job gekündigt hätten."
+        },
+        {
+          "text": "In der Statistik können man das nicht sehen: »Im vergangenen Jahr sind so wenige Menschen aus dem ersten Arbeitsmarkt ins Bürgergeld gerutscht wie seit 2015 nicht mehr.«"
+        },
+        
+        {
+          "text": "Vor allem würde sie dem Bürokratieabbau mehr Bedeutung zumessen."
+        },
+        
+        {
+          "text": "Und noch etwas: Viele der Beschäftigten hätten nur Minijobs, 21 Prozent lediglich Arbeitsverträge mit null Arbeitsstunden, sogenannte Arbeit auf Abruf."
+        },
+        {
+            "text": "Durch Tausende juristische Klagen – und notwendige rechtliche Absicherungen – seien auch die Bescheide für die Grund­sicherung immer komplizierter geworden."
+          },
+        {
+          "text": "Das werde nur mit Automatisierung und Digitalisierung möglich sein."
+        },
+        {
+          "text": "Die Sache brauche Zeit."
+        }
+      ],
+      "isMain": true,
+      "name": "Andrea Nahles",
+      "occupations": [
+        {
+          "text": "Chefin der Bundesagentur für Arbeit"
+        },
+        {
+            "text": "Ex-SPD-Vorsitzende"
+          },
+        {
+            "text": "Vorstandsvorsitzende der BA"
+          },
+        {
+          "text": "Juso-Vorsitzende"
+        },
+        {
+          "text": "SPD-Generalsekretärin"
+        },
+        {
+          "text": "Bundesarbeitsministerin"
+        },
+        {
+          "text": "BA-Chefin"
+        }
+      ],
+      "occurences": {
+        "firstNameOnly": 0,
+        "fullName": 3,
+        "lastNameOnly": 26,
+        "total": 29
+      },
+      "quotedInIntro": false,
+      "quotedInTitle": false,
+      "sex": "female"
+    },
+    {
+      "age": -1, 
+      "alternativeNames": [],
+      "birthday": null,
+      "descriptiveTexts": [
+        {
+          "text": "Seitdem kein öffentliches Wort von ihr zur SPD oder Kanzler Olaf Scholz."
+        }
+      ],
+      "directQuotes": [],
+      "inIntro": false,
+      "inTitle": false,
+      "indirectQuotes": [],
+      "isMain": false,
+      "name": "Olaf Scholz",
+      "occupations": [
+        {
+          "text": "Kanzler"
+        }
+      ],
+      "occurences": {
+        "firstNameOnly": 0,
+        "fullName": 1,
+        "lastNameOnly": 0,
+        "total": 1
+      },
+      "quotedInIntro": false,
+      "quotedInTitle": false,
+      "sex": "male"
+    },
+    {
+      "age": -1, 
+      "alternativeNames": [],
+      "birthday": null,
+      "descriptiveTexts": [
+        {
+          "text": "Als Bundesfinanzminister Christian Lindner (FDP) forderte, das Bürgergeld zu kürzen, damit sich Arbeiten wieder lohne, erklärte Nahles: »Arbeiten lohnt sich fi­nanziell immer.«"
+        }
+      ],
+      "directQuotes": [],
+      "inIntro": false,
+      "inTitle": false,
+      "indirectQuotes": [],
+      "isMain": false,
+      "name": "Christian Lindner",
+      "occupations": [
+        {
+          "text": "Bundesfinanzminister"
+        }
+      ],
+      "occurences": {
+        "firstNameOnly": 0,
+        "fullName": 1,
+        "lastNameOnly": 0,
+        "total": 1
+      },
+      "quotedInIntro": false,
+      "quotedInTitle": false,
+      "sex": "male"
+    },
+    {
+      "age": -1, 
+      "alternativeNames": [],
+      "birthday": null,
+      "descriptiveTexts": [
+        {
+          "text": "Als Friedrich Merz (CDU) behauptete, die Arbeitsanreize für Ukrainer seien zu niedrig, weil das Bürgergeld zu hoch sei, sagte sie: »Dafür haben wir keine statistischen Belege.«"
+        }
+      ],
+      "directQuotes": [],
+      "inIntro": false,
+      "inTitle": false,
+        "indirectQuotes": [
+          {
+            "text": "Als Friedrich Merz (CDU) behauptete, die Arbeitsanreize für Ukrainer seien zu niedrig, weil das Bürgergeld zu hoch sei."
+          }
+        ],
+      "isMain": false,
+      "name": "Friedrich Merz",
+      "occupations": [],
+      "occurences": {
+        "firstNameOnly": 0,
+        "fullName": 1,
+        "lastNameOnly": 0,
+        "total": 1
+      },
+      "quotedInIntro": false,
+      "quotedInTitle": false,
+      "sex": "male"
+    },
+    {
+      "age": -1, 
+      "alternativeNames": [],
+      "birthday": null,
+      "descriptiveTexts": [
+        {
+          "text": "Und als Arbeitsminister Hubertus Heil (SPD) verkündete, dass künftig wieder in den Jobcentern sanktioniert und Jobverweigerern bis zu zwei Monate lang das Bürgergeld komplett gekürzt werden soll, stellte Nahles klar, dass es eine Entscheidung der Politik war, die Sanktionen ausgesetzt zu haben – gegen den Rat der Bundesagentur."
+        },
+        {
+          "text": "Arbeitsminister Hubertus Heil hat versprochen, Geflüchtete aus der Ukraine schneller in Arbeit zu bringen – auch, um die Debatte um das Bürgergeld zu beruhigen."
+        }
+      ],
+      "directQuotes": [],
+      "inIntro": false,
+      "inTitle": false,
+        "indirectQuotes": [
+          {
+            "text": "Und als Arbeitsminister Hubertus Heil (SPD) verkündete, dass künftig wieder in den Jobcentern sanktioniert und Jobverweigerern bis zu zwei Monate lang das Bürgergeld komplett gekürzt werden soll."
+          }
+        ],
+      "isMain": false,
+      "name": "Hubertus Heil",
+      "occupations": [
+        {
+          "text": "Arbeitsminister"
+        }
+      ],
+      "occurences": {
+        "firstNameOnly": 0,
+        "fullName": 2,
+        "lastNameOnly": 0,
+        "total": 2
+      },
+      "quotedInIntro": false,
+      "quotedInTitle": false,
+      "sex": "male"
+    },
+    {
+        "age": -1,
+        "alternativeNames": [],
+        "birthday": null,
+        "descriptiveTexts": [
+          {
+            "text": "»Als ich Ministerin war, war dafür Helge Braun im Kanzleramt zuständig, und wir haben pflichtgemäß unsere Vorschläge gemeldet«, sagt Nahles, »heute würde ich mich selbst intensiver da­rum kümmern.«"
+          }
+        ],
+        "directQuotes": [],
+        "inIntro": false,
+        "inTitle": false,
+        "indirectQuotes": [],
+        "isMain": false,
+        "name": "Helge Braun",
+        "occupations": [],
+        "occurrences": {
+          "firstNameOnly": 0,
+          "fullName": 1,
+          "lastNameOnly": 0,
+          "total": 1
+        },
+        "quotedInIntro": false,
+        "quotedInTitle": false,
+        "sex": "male"
+      },
+    {
+      "age": -1, 
+      "alternativeNames": [],
+      "birthday": null,
+      "descriptiveTexts": [
+        {
+          "text": "Nahles Vorstandskollege Daniel Terzenbach wurde zum »Sonderbeauftragten der Bundesregierung für die Arbeitsmarktintegration von Geflüchteten« ernannt."
+        },
+        {
+          "text": "»Daniel Terzenbach und ich haben das vorher diskutiert«, sagt Nahles, »Wir haben die Erfahrung, und wir sind gut aufgestellt. Es ist besser, wir machen das, als ein Externer, der weniger davon versteht.«"
+        }
+      ],
+      "directQuotes": [],
+      "inIntro": false,
+      "inTitle": false,
+      "indirectQuotes": [],
+      "isMain": false,
+      "name": "Daniel Terzenbach",
+      "occupations": [
+        {
+          "text": "Vorstandskollege"
+        },
+        {
+          "text": "Sonderbeauftragten der Bundesregierung für die Arbeitsmarktintegration von Geflüchteten"
+        }
+      ],
+      "occurences": {
+        "firstNameOnly": 0,
+        "fullName": 2,
+        "lastNameOnly": 0,
+        "total": 2
+      },
+      "quotedInIntro": false,
+      "quotedInTitle": false,
+      "sex": "male"
+    }
+  ],
+  "subtopics": [
+    "Arbeitspolitik", "Arbeitslosigkeit", "Karriere", "Migration", "Andrea Nahles"
+  ]
+}

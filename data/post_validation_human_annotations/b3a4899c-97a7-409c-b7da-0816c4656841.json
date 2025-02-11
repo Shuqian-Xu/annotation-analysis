@@ -1,0 +1,151 @@
+{
+  "persons": [
+    {
+      "age": -1,
+      "alternativeNames": [],
+      "birthday": null,
+      "descriptiveTexts": [
+        {
+          "text": "Aussagen von Mercedes-Chef Ola Källenius etwa lassen sich so deuten, dass auch er keine andere Möglichkeit mehr sah, als sich in Nordamerika dem Elektropionier unterzuordnen."
+        },
+        {
+          "text": "»Um den Umstieg auf Elektrofahrzeuge zu beschleunigen, möchten wir unseren Kundinnen und Kunden das bestmögliche Fahrerlebnis mit ihren Elektroautos bieten – einschließlich schneller, bequemer und zuverlässiger Ladelösungen«, begründete er die Entscheidung, ab 2025 NACS-Technik in die eigenen Fahrzeuge für den nordamerikanischen Markt einzubauen."
+        }
+      ],
+      "directQuotes": [
+        {
+          "text": "Um den Umstieg auf Elektrofahrzeuge zu beschleunigen, möchten wir unseren Kundinnen und Kunden das bestmögliche Fahrerlebnis mit ihren Elektroautos bieten – einschließlich schneller, bequemer und zuverlässiger Ladelösungen"
+        }
+      ],
+      "inIntro": false,
+      "inTitle": false,
+      "indirectQuotes": [],
+      "isMain": false,
+      "name": "Ola Källenius",
+      "occupations": [
+        {
+          "text": "Mercedes-Chef"
+        }
+      ],
+      "occurrences": {
+        "firstNameOnly": 0,
+        "fullName": 1,
+        "lastNameOnly": 0,
+        "total": 1
+      },
+      "quotedInIntro": false,
+      "quotedInTitle": false,
+      "sex": "male"
+    },
+    {
+      "age": -1,
+      "alternativeNames": [],
+      "birthday": null,
+      "descriptiveTexts": [
+        {
+          "text": "»In Nordamerika gibt es etwa 140.000 öffentliche Lademöglichkeiten für Elektroautos."
+        },
+        {
+          "text": "Tesla kommt dabei auf 20.000 Supercharger mit High-Power-Charging-Funktion sowie auf weitere 20.000 Ladepunkte, an denen geringere Ladeleistungen zur Verfügung stehen«, sagt Marktanalyst Alexander Timmer vom Beratungsunternehmen Berylls."
+        },
+        {
+          "text": "»Wer Kunden in Nordamerika eine flächendeckende Ladeinfrastruktur zur Verfügung stellen möchte, kommt an Tesla nicht vorbei«, sagt Timmer deshalb."
+        },
+        {
+          "text": "»Müssen Kunden anderer Marken die Tesla-App nutzen, um am Supercharger laden und bezahlen zu können? Bestimmt Tesla den Tarif, der im Auto eines anderen Herstellers gezahlt werden muss? Und sind die im Navi angezeigten Supercharger nicht letztlich Werbung für Tesla? Das sind nur einige der Fragen, die sich Hersteller, die ans Supercharger-Netz wollen, stellen müssen«, sagt Berylls-Berater Timmer."
+        },
+        {
+          "text": "Berylls-Berater Alexander Timmer geht davon aus, dass diese Aufteilung bestehen bleibt: »Letztlich wird es beim E-Auto genau so laufen wie auch beim Smartphone. Das Produkt wird rund um den Globus verkauft – und vor Ort gibt es dann den jeweils passenden Stecker.«"
+        }
+      ],
+      "directQuotes": [
+        {
+          "text": "In Nordamerika gibt es etwa 140.000 öffentliche Lademöglichkeiten für Elektroautos. Tesla kommt dabei auf 20.000 Supercharger mit High-Power-Charging-Funktion sowie auf weitere 20.000 Ladepunkte, an denen geringere Ladeleistungen zur Verfügung stehen"
+        },
+        {
+          "text": "Wer Kunden in Nordamerika eine flächendeckende Ladeinfrastruktur zur Verfügung stellen möchte, kommt an Tesla nicht vorbei"
+        },
+        {
+          "text": "Müssen Kunden anderer Marken die Tesla-App nutzen, um am Supercharger laden und bezahlen zu können? Bestimmt Tesla den Tarif, der im Auto eines anderen Herstellers gezahlt werden muss? Und sind die im Navi angezeigten Supercharger nicht letztlich Werbung für Tesla? Das sind nur einige der Fragen, die sich Hersteller, die ans Supercharger-Netz wollen, stellen müssen"
+        },
+        {
+          "text": "Letztlich wird es beim E-Auto genau so laufen wie auch beim Smartphone. Das Produkt wird rund um den Globus verkauft – und vor Ort gibt es dann den jeweils passenden Stecker."
+        }
+      ],
+      "inIntro": false,
+      "inTitle": false,
+      "indirectQuotes": [],
+      "isMain": false,
+      "name": "Alexander Timmer",
+      "occupations": [
+        {
+          "text": "Marktanalyst"
+        },
+        {
+          "text": "Berylls-Berater"
+        }
+      ],
+      "occurrences": {
+        "firstNameOnly": 0,
+        "fullName": 2,
+        "lastNameOnly": 2,
+        "total": 4
+      },
+      "quotedInIntro": false,
+      "quotedInTitle": false,
+      "sex": "male"
+    },
+    {
+      "age": -1,
+      "alternativeNames": [],
+      "birthday": null,
+      "descriptiveTexts": [
+        {
+          "text": "»Die Tesla-Lader mit NACS-Anschluss trennen Gleich- und Wechselströme nicht physisch voneinander. Beide Ströme laufen über die gleichen Pins«, sagt Alexander Nollau, Abteilungsleiter Energy bei der Produktnormkommission DKE."
+        },
+        {
+          "text": "»Bei einer solchen Fehlfunktion könnten die elektronischen Bauteile, wie zum Beispiel Onboard-Lader oder die Batterie eines E-Autos, stark beschädigt werden«, so Nollau."
+        },
+        {
+          "text": "»Der CCS-Standard ist international, über die Grenzen Europas hinaus, für seine hohen Sicherheitsstandards bekannt«, sagt Nollau."
+        }
+      ],
+      "directQuotes": [
+        {
+          "text": "Die Tesla-Lader mit NACS-Anschluss trennen Gleich- und Wechselströme nicht physisch voneinander. Beide Ströme laufen über die gleichen Pins"
+        },
+        {
+          "text": "Bei einer solchen Fehlfunktion könnten die elektronischen Bauteile, wie zum Beispiel Onboard-Lader oder die Batterie eines E-Autos, stark beschädigt werden"
+        },
+        {
+          "text": "Der CCS-Standard ist international, über die Grenzen Europas hinaus, für seine hohen Sicherheitsstandards bekannt"
+        }
+      ],
+      "inIntro": false,
+      "inTitle": false,
+      "indirectQuotes": [],
+      "isMain": false,
+      "name": "Alexander Nollau",
+      "occupations": [
+        {
+          "text": "Abteilungsleiter Energy bei der Produktnormkommission DKE"
+        }
+      ],
+      "occurrences": {
+        "firstNameOnly": 0,
+        "fullName": 1,
+        "lastNameOnly": 2,
+        "total": 3
+      },
+      "quotedInIntro": false,
+      "quotedInTitle": false,
+      "sex": "male"
+    }
+  ],
+  "subtopics": [
+    "Unternehmen",
+    "Technologie",
+    "Automobilindustrie",
+    "Elektroautos"
+  ]
+}

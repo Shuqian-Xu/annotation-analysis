@@ -1,0 +1,176 @@
+{
+    "persons": [
+        {
+            "name": "John Foley",
+            "alternativeNames": [],
+            "age": 52,
+            "sex": "male",
+            "occurences": {
+                "total": 2,
+                "firstNameOnly": 0,
+                "lastNameOnly": 1,
+                "fullName": 1,
+                "nickname": 0
+            },
+            "inTitle": false,
+            "inIntro": false,
+            "_name": {
+                "firstname": "John",
+                "lastname": "Foley",
+                "nickname": null,
+                "alternative_names": [],
+                "academic_title": null,
+                "nobility_title_or_rank": null
+            },
+            "descriptiveTexts": [
+                {
+                    "text": "Als Barry McCarthy (69) im Februar 2022 den langj\u00e4hrigen Peloton-Chef und Firmengr\u00fcnder John Foley (52) als CEO abl\u00f6ste, war sein Auftrag klar: Den Fitnessger\u00e4tehersteller vor dem Untergang bewahren."
+                },
+                {
+                    "text": "Doch Foley hatte die Nachfrage \u00fcbersch\u00e4tzt."
+                }
+            ],
+            "occupations": [],
+            "directQuotes": [],
+            "quotedInTitle": false,
+            "quotedInIntro": false
+        },
+        {
+            "name": "Leslie Berland",
+            "alternativeNames": [],
+            "age": -1,
+            "sex": "female",
+            "occurences": {
+                "total": 1,
+                "firstNameOnly": 0,
+                "lastNameOnly": 0,
+                "fullName": 1,
+                "nickname": 0
+            },
+            "inTitle": false,
+            "inIntro": false,
+            "_name": {
+                "firstname": "Leslie",
+                "lastname": "Berland",
+                "nickname": null,
+                "alternative_names": [],
+                "academic_title": null,
+                "nobility_title_or_rank": null
+            },
+            "descriptiveTexts": [
+                {
+                    "text": "Seit Mitte Januar 2023 verantwortet Ex-Twitter-Topmanagerin Leslie Berland unter anderem die Bereiche Marken- und Produktmarketing, Mitgliedschaft und globale Kommunikation."
+                },
+                {
+                    "text": "Im Zuge eines gro\u00dfen Relaunch verpasst sie der Marke nun einen Neustart."
+                }
+            ],
+            "occupations": [],
+            "directQuotes": [],
+            "quotedInTitle": false,
+            "quotedInIntro": false
+        },
+        {
+            "name": "Barry McCarthy",
+            "alternativeNames": [],
+            "age": 69,
+            "sex": "male",
+            "occurences": {
+                "total": 14,
+                "firstNameOnly": 0,
+                "lastNameOnly": 12,
+                "fullName": 2,
+                "nickname": 0
+            },
+            "inTitle": false,
+            "inIntro": true,
+            "_name": {
+                "firstname": "Barry",
+                "lastname": "McCarthy",
+                "nickname": null,
+                "alternative_names": [],
+                "academic_title": null,
+                "nobility_title_or_rank": null
+            },
+            "descriptiveTexts": [
+                {
+                    "text": "Nun will Barry McCarthy die kriselnde US-Firma f\u00fcr ein breiteres Publikum attraktiver machen: mit Kursen f\u00fcr die Masse."
+                },
+                {
+                    "text": "Als Barry McCarthy (69) im Februar 2022 den langj\u00e4hrigen Peloton-Chef und Firmengr\u00fcnder John Foley (52) als CEO abl\u00f6ste, war sein Auftrag klar: Den Fitnessger\u00e4tehersteller vor dem Untergang bewahren."
+                },
+                {
+                    "text": "Eine von McCarthys ersten Sanierungsma\u00dfnahmen lautete daher: sparen."
+                },
+                {
+                    "text": "Im Oktober k\u00fcndigte er die vierte Entlassungsrunde des Jahres an."
+                },
+                {
+                    "text": "\"Dies ist ein notwendiger Schritt, wenn wir Peloton retten wollen, und das werden wir\", sagte McCarthy damals."
+                },
+                {
+                    "text": "Zeitgleich setzte er eine Frist: Wenn in den kommenden sechs Monaten kein Umschwung gelinge, werde Peloton wahrscheinlich nicht als eigenst\u00e4ndiges Unternehmen fortbestehen k\u00f6nnen."
+                },
+                {
+                    "text": "Eine Not\u00fcbernahme konnte McCarthy abwenden dank des Job-Kahlschlags, zahlreichen Filialschlie\u00dfungen und anderen Sparma\u00dfnahmen."
+                },
+                {
+                    "text": "Doch die Frage ist nun, ob er das Unternehmen wieder zum Wachsen bringen kann."
+                },
+                {
+                    "text": "Dass ausgerechnet McCarthy, der fr\u00fchere Finanzchef von Streamingriese Netflix und Spotify, zum CEO des 2012 in New York gegr\u00fcndeten Fitnessger\u00e4teherstellers ernannt wurde, ist nicht \u00fcberraschend angesichts der neuen Strategie, mit der Peloton das Comeback versucht: Das Unternehmen will sich st\u00e4rker auf Abo-Einnahmen konzentrieren statt auf den Verkauf teurer Hardware f\u00fcr Zuhause."
+                },
+                {
+                    "text": "Am Aufbau eines Abo-Gesch\u00e4ftsmodells war McCarthy bereits bei Netflix beteiligt, als er aus dem DVD-Versender einen Streaming-Dienst mitentwickelte."
+                },
+                {
+                    "text": "Das will McCarthy nun erweitern und die breite Masse ansprechen, auch wenn die keine der teuren Ger\u00e4te bei ihm kaufen."
+                },
+                {
+                    "text": "Er sieht alle Sportinteressierte als potenzielle Zielgruppe, egal mit welchem Fitness-Level, welchem Alter oder mit wie viel Zeit f\u00fcr ein Workout, und will sie zu Abonnentinnen und Abonnenten machen."
+                },
+                {
+                    "text": "F\u00fcr die daf\u00fcr notwendige Neupositionierung holte er sich Anfang des Jahres auch eine neue Marketingchefin."
+                },
+                {
+                    "text": "Gleichzeitig f\u00fchrt McCarthy ein neues Abo-Modell ein, setzt den Fokus st\u00e4rker auf die App und Partnerschaften."
+                },
+                {
+                    "text": "\"Vor zehn Jahren haben wir mit der Einf\u00fchrung des originalen Peloton Bikes die Kategorie der vernetzten Fitness erfunden\", sagte McCarthy Anfang Mai gegen\u00fcber den Aktion\u00e4ren, als er die j\u00fcngsten Quartalszahlen pr\u00e4sentierte."
+                },
+                {
+                    "text": "Im gerade abgelaufenen dritten Quartal des Gesch\u00e4ftsjahrs hatten laut McCarthy 57 Prozent aller Trainingseinheiten nichts mit Radfahren zu tun."
+                },
+                {
+                    "text": "Die Rohertrags-Marge im Abogesch\u00e4ft preist McCarthy gegen\u00fcber seinen Investoren mit gut 67 Prozent an \u2013 das klingt erstmal lukrativ, allerdings ist dabei der gr\u00f6\u00dfte Block der operativen Kosten gar nicht mit einbezogen."
+                },
+                {
+                    "text": "McCarthy bezeichnet dabei den Markenrelaunch und die Wiedereinf\u00fchrung der Peloton-App als seine zwei wichtigsten Wachstumsinitiativen."
+                },
+                {
+                    "text": "An der B\u00f6rse konnte McCarthy die Investoren jedenfalls noch nicht \u00fcberzeugen."
+                },
+                {
+                    "text": "Er selbst indes gibt sich zufrieden, was den Fortschritt seines Sanierungsplans angeht."
+                },
+                {
+                    "text": "Aber er wei\u00df auch: \"Wir haben noch mehr zu tun, um internationales Wachstum und Gewinn zu erzielen.\""
+                }
+            ],
+            "occupations": [],
+            "directQuotes": [
+                {
+                    "text": "Dies ist ein notwendiger Schritt, wenn wir Peloton retten wollen, und das werden wir"
+                },
+                {
+                    "text": "Vor zehn Jahren haben wir mit der Einf\u00fchrung des originalen Peloton Bikes die Kategorie der vernetzten Fitness erfunden"
+                },
+                {
+                    "text": "Wir haben noch mehr zu tun, um internationales Wachstum und Gewinn zu erzielen."
+                }
+            ],
+            "quotedInTitle": false,
+            "quotedInIntro": true
+        }
+    ]
+}

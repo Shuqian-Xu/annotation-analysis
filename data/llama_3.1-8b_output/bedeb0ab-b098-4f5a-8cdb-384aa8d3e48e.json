@@ -1,0 +1,253 @@
+{
+    "persons": [
+        {
+            "name": "Emma Hinze",
+            "alternativeNames": [],
+            "age": -1,
+            "sex": "female",
+            "occurences": {
+                "total": 1,
+                "firstNameOnly": 0,
+                "lastNameOnly": 0,
+                "fullName": 1,
+                "nickname": 0
+            },
+            "inTitle": false,
+            "inIntro": false,
+            "_name": {
+                "firstname": "Emma",
+                "lastname": "Hinze",
+                "nickname": null,
+                "alternative_names": [],
+                "academic_title": null,
+                "nobility_title_or_rank": null
+            },
+            "descriptiveTexts": [
+                {
+                    "text": "Oder sie forcieren das Rennen von der Spitze aus, sodass niemand mehr folgen kann."
+                },
+                {
+                    "text": "Sie geh\u00f6rt zu einer Gruppe ungew\u00f6hnlich erfolgreicher deutscher Frauen im Bahnradsport."
+                },
+                {
+                    "text": "Zusammen mit Emma Hinze und Pauline Grabosch tritt sie im Teamsprint an."
+                }
+            ],
+            "occupations": [
+                {
+                    "text": "Radfahrerin"
+                }
+            ],
+            "directQuotes": [],
+            "quotedInTitle": false,
+            "quotedInIntro": false
+        },
+        {
+            "name": "Lea Sophie Friedrich",
+            "alternativeNames": [
+                "Vollgas"
+            ],
+            "age": 24,
+            "sex": "female",
+            "occurences": {
+                "total": 6,
+                "firstNameOnly": 0,
+                "lastNameOnly": 5,
+                "fullName": 1,
+                "nickname": 0
+            },
+            "inTitle": false,
+            "inIntro": false,
+            "_name": {
+                "firstname": "Lea Sophie",
+                "lastname": "Friedrich",
+                "nickname": null,
+                "alternative_names": [
+                    "Vollgas"
+                ],
+                "academic_title": null,
+                "nobility_title_or_rank": null
+            },
+            "descriptiveTexts": [
+                {
+                    "text": "Oder sie forcieren das Rennen von der Spitze aus, sodass niemand mehr folgen kann."
+                },
+                {
+                    "text": "Lea Sophie Friedrich, Deutschlands schnellste Radfahrerin, w\u00e4hlte beim Finale der Europameisterschaften in den Niederlanden am vorvergangenen Wochenende die zweite Variante."
+                },
+                {
+                    "text": "Als sie eine Runde vor dem Ziel das Tempo anzog, hatten ihre Konkurrentinnen keine Chance."
+                },
+                {
+                    "text": "Friedrich erreichte mehr als 65 Kilometer pro Stunde und \u00fcberquerte als Erste die Ziellinie."
+                },
+                {
+                    "text": "\u00bbEs zeichnet mich aus, dass ich immer mit Vollgas herangehe, um mein Ziel zu erreichen\u00ab, sagt die 24-j\u00e4hrige Mecklenburgerin, die in Cottbus trainiert."
+                },
+                {
+                    "text": "Es war Friedrichs vierter Europameistertitel im Keirin in Folge, das hat vor ihr noch niemand geschafft."
+                },
+                {
+                    "text": "Daneben gewann sie aber auch Titel im klassischen Radsprint und im Zeitfahren auf der Bahn."
+                },
+                {
+                    "text": "Achtmal siegte sie in den vergangenen Jahren schon bei Weltmeisterschaften."
+                },
+                {
+                    "text": "Dabei hat Friedrich einst mit Fu\u00dfballspielen angefangen, bevor ihr Talent als Radfahrerin erkannt wurde."
+                },
+                {
+                    "text": "Erste Erfahrungen sammelte sie beim SV Dassow, bei dem auch der mehrfache Tour-de-France-Etappensieger Jens Voigt seine Karriere begann."
+                },
+                {
+                    "text": "Friedrich ist nicht die einzige Deutsche, die rasend schnell auf zwei R\u00e4dern unterwegs ist."
+                },
+                {
+                    "text": "Sie geh\u00f6rt zu einer Gruppe ungew\u00f6hnlich erfolgreicher deutscher Frauen im Bahnradsport."
+                },
+                {
+                    "text": "Zusammen mit Emma Hinze und Pauline Grabosch tritt sie im Teamsprint an."
+                },
+                {
+                    "text": "Trotzdem sagte Friedrich nach ihrem neuen Titel: \u00bbEs ist nicht selbstverst\u00e4ndlich zu gewinnen. Ich musste an meine Grenzen gehen.\u00ab"
+                }
+            ],
+            "occupations": [
+                {
+                    "text": "Radfahrerin"
+                },
+                {
+                    "text": "\u00bbEs zeichnet mich aus, dass ich immer mit Vollgas herangehe, um mein Ziel zu erreichen\u00ab"
+                }
+            ],
+            "directQuotes": [],
+            "quotedInTitle": false,
+            "quotedInIntro": false
+        },
+        {
+            "name": "Vollga",
+            "alternativeNames": [],
+            "age": -1,
+            "sex": "unknown",
+            "occurences": {
+                "total": 2,
+                "firstNameOnly": 0,
+                "lastNameOnly": 0,
+                "fullName": 2,
+                "nickname": 0
+            },
+            "inTitle": true,
+            "inIntro": false,
+            "_name": {
+                "firstname": null,
+                "lastname": null,
+                "nickname": null,
+                "alternative_names": [],
+                "academic_title": null,
+                "nobility_title_or_rank": null
+            },
+            "descriptiveTexts": [
+                {
+                    "text": "Frau Vollgas"
+                },
+                {
+                    "text": "\u00bbEs zeichnet mich aus, dass ich immer mit Vollgas herangehe, um mein Ziel zu erreichen\u00ab, sagt die 24-j\u00e4hrige Mecklenburgerin, die in Cottbus trainiert."
+                }
+            ],
+            "occupations": [
+                {
+                    "text": "Radfahrerin"
+                }
+            ],
+            "directQuotes": [
+                {
+                    "text": "Es zeichnet mich aus, dass ich immer mit Vollgas herangehe, um mein Ziel zu erreichen"
+                }
+            ],
+            "quotedInTitle": true,
+            "quotedInIntro": false
+        },
+        {
+            "name": "Pauline Grabosch",
+            "alternativeNames": [],
+            "age": -1,
+            "sex": "female",
+            "occurences": {
+                "total": 1,
+                "firstNameOnly": 0,
+                "lastNameOnly": 0,
+                "fullName": 1,
+                "nickname": 0
+            },
+            "inTitle": false,
+            "inIntro": false,
+            "_name": {
+                "firstname": "Pauline",
+                "lastname": "Grabosch",
+                "nickname": null,
+                "alternative_names": [],
+                "academic_title": null,
+                "nobility_title_or_rank": null
+            },
+            "descriptiveTexts": [
+                {
+                    "text": "Oder sie forcieren das Rennen von der Spitze aus, sodass niemand mehr folgen kann."
+                },
+                {
+                    "text": "Sie geh\u00f6rt zu einer Gruppe ungew\u00f6hnlich erfolgreicher deutscher Frauen im Bahnradsport."
+                },
+                {
+                    "text": "Zusammen mit Emma Hinze und Pauline Grabosch tritt sie im Teamsprint an."
+                }
+            ],
+            "occupations": [
+                {
+                    "text": "Radfahrerin"
+                }
+            ],
+            "directQuotes": [
+                {
+                    "text": "Es ist nicht selbstverst\u00e4ndlich zu gewinnen. Ich musste an meine Grenzen gehen."
+                }
+            ],
+            "quotedInTitle": false,
+            "quotedInIntro": false
+        },
+        {
+            "name": "Jens Voigt",
+            "alternativeNames": [],
+            "age": -1,
+            "sex": "male",
+            "occurences": {
+                "total": 1,
+                "firstNameOnly": 0,
+                "lastNameOnly": 0,
+                "fullName": 1,
+                "nickname": 0
+            },
+            "inTitle": false,
+            "inIntro": false,
+            "_name": {
+                "firstname": "Jens",
+                "lastname": "Voigt",
+                "nickname": null,
+                "alternative_names": [],
+                "academic_title": null,
+                "nobility_title_or_rank": null
+            },
+            "descriptiveTexts": [
+                {
+                    "text": "Erste Erfahrungen sammelte sie beim SV Dassow, bei dem auch der mehrfache Tour-de-France-Etappensieger Jens Voigt seine Karriere begann."
+                }
+            ],
+            "occupations": [
+                {
+                    "text": "Radfahrer"
+                }
+            ],
+            "directQuotes": [],
+            "quotedInTitle": false,
+            "quotedInIntro": false
+        }
+    ]
+}

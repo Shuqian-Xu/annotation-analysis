@@ -1,0 +1,477 @@
+{
+    "persons": [
+        {
+            "name": "Xandi",
+            "alternativeNames": [],
+            "age": -1,
+            "sex": "female",
+            "occurences": {
+                "total": 6,
+                "firstNameOnly": 0,
+                "lastNameOnly": 0,
+                "fullName": 3,
+                "nickname": 3
+            },
+            "inTitle": true,
+            "inIntro": false,
+            "_name": {
+                "firstname": null,
+                "lastname": null,
+                "nickname": "Xandi",
+                "alternative_names": [],
+                "academic_title": null,
+                "nobility_title_or_rank": null
+            },
+            "descriptiveTexts": [
+                {
+                    "text": "\u00bbXandi\u00ab will ihren K\u00f6rper zur\u00fcck"
+                },
+                {
+                    "text": "An einem Februarabend trainiert Alexandra Meixner, die alle Xandi nennen, in ihrem Haus im Waldviertel in einem kleinen Raum im Obergeschoss auf einem schwarzen Ergometer."
+                },
+                {
+                    "text": "Fragt man Walter Wegschaider nach den St\u00e4rken seiner Frau im Wettkampf, sagt der: \u00bbDie Xandi ist wahnsinnig tapfer. Und: Sie sp\u00fcrt Schmerzen erst extrem sp\u00e4t.\u00ab"
+                }
+            ],
+            "occupations": [
+                {
+                    "text": "Gyn\u00e4kologin"
+                },
+                {
+                    "text": "Sexualtherapeutin"
+                },
+                {
+                    "text": "Kabarettistin"
+                }
+            ],
+            "directQuotes": [
+                {
+                    "text": "Xandi"
+                }
+            ],
+            "quotedInTitle": true,
+            "quotedInIntro": false
+        },
+        {
+            "name": "Walter Wegschaider",
+            "alternativeNames": [],
+            "age": -1,
+            "sex": "male",
+            "occurences": {
+                "total": 10,
+                "firstNameOnly": 6,
+                "lastNameOnly": 2,
+                "fullName": 2,
+                "nickname": 0
+            },
+            "inTitle": false,
+            "inIntro": false,
+            "_name": {
+                "firstname": "Walter",
+                "lastname": "Wegschaider",
+                "nickname": null,
+                "alternative_names": [],
+                "academic_title": null,
+                "nobility_title_or_rank": null
+            },
+            "descriptiveTexts": [
+                {
+                    "text": "Niemand wei\u00df das besser als Walter Wegschaider."
+                },
+                {
+                    "text": "F\u00fcr Alexandra Meixner ist er nur: \u00bbmein Walter!\u00ab"
+                },
+                {
+                    "text": "Alexandra, die Bundesheer\u00e4rztin, und Walter, damals 29, der Soldat auf Zeit."
+                },
+                {
+                    "text": "Auch Wegschaider, hauptberuflich Krankenpfleger, war lange Ausdauersportler."
+                },
+                {
+                    "text": "Heute ist Wegschaider vor allem Helfer f\u00fcr seine Frau, k\u00fcmmert sich bei den Wettk\u00e4mpfen und davor und danach um Essen, Kleidung, Organisation und alles, was noch so anf\u00e4llt."
+                },
+                {
+                    "text": "Sie sagt: \u00bbWenn mich der Walter massiert: Der verzweifelt manchmal. Dem brechen die Finger ab. Ich brauche ganz starke Ber\u00fchrungen, ganz starke Reize. Sonst sp\u00fcre ich das nicht. Als ich mir mal ein Permanent Make-up habe machen lassen, bin ich eingeschlafen. In der Sauna habe ich das letzte Mal 40 Minuten bei 90 Grad gesessen. Ich will meinen K\u00f6rper sp\u00fcren!\u00ab"
+                },
+                {
+                    "text": "\u00bbDer Walter!\u00ab"
+                },
+                {
+                    "text": "Fragt man Walter Wegschaider nach den St\u00e4rken seiner Frau im Wettkampf, sagt der: \u00bbDie Xandi ist wahnsinnig tapfer. Und: Sie sp\u00fcrt Schmerzen erst extrem sp\u00e4t.\u00ab"
+                },
+                {
+                    "text": "3. die Distanz innerhalb einer Zeit zu schaffen, die Walter und sie berechnet haben."
+                },
+                {
+                    "text": "Sie hat sich schon lange angemeldet und Walter schon herumgerechnet, welche Zeiten drin sein sollten."
+                }
+            ],
+            "occupations": [
+                {
+                    "text": "Krankenpfleger"
+                }
+            ],
+            "directQuotes": [
+                {
+                    "text": "mein Walter!"
+                },
+                {
+                    "text": "Der Walter!"
+                }
+            ],
+            "quotedInTitle": false,
+            "quotedInIntro": false
+        },
+        {
+            "name": "Alexandra Meixner",
+            "alternativeNames": [],
+            "age": 52,
+            "sex": "female",
+            "occurences": {
+                "total": 42,
+                "firstNameOnly": 1,
+                "lastNameOnly": 29,
+                "fullName": 9,
+                "nickname": 3
+            },
+            "inTitle": true,
+            "inIntro": true,
+            "_name": {
+                "firstname": "Alexandra",
+                "lastname": "Meixner",
+                "nickname": "Xandi",
+                "alternative_names": [],
+                "academic_title": null,
+                "nobility_title_or_rank": null
+            },
+            "descriptiveTexts": [
+                {
+                    "text": "Alexandra Meixner absolviert bis zu 30 Ironman-Wettk\u00e4mpfe \u2013 am St\u00fcck."
+                },
+                {
+                    "text": "Sie hat keine Zeit."
+                },
+                {
+                    "text": "Hat sie eigentlich nie."
+                },
+                {
+                    "text": "Aber diese Einladung darf Alexandra Meixner nicht schw\u00e4nzen."
+                },
+                {
+                    "text": "Also streift sich Meixner, 52, ein schwarz-pinkfarbenes Polyestertrikot \u00fcber und l\u00e4uft los."
+                },
+                {
+                    "text": "Alexandra Meixner ist eine Frau der Superlative."
+                },
+                {
+                    "text": "Sie ist ausgebildete Sexualtherapeutin, arbeitet als Gyn\u00e4kologin im Krankenhaus, steht als Kabarettistin auf der B\u00fchne."
+                },
+                {
+                    "text": "Und sie h\u00e4lt sieben Weltrekorde."
+                },
+                {
+                    "text": "Sie durchquerte Kontinente auf dem Fahrrad, radelte innerhalb eines Monats 13.333 Kilometer, 444 Kilometer durchschnittlich pro Tag."
+                },
+                {
+                    "text": "Eigentlich, so sagt sie, wollte sie nur d\u00fcnner werden."
+                },
+                {
+                    "text": "Meixner f\u00fchlte sich nicht wohl in ihrem K\u00f6rper."
+                },
+                {
+                    "text": "Damit sie nicht hadern musste beim n\u00e4chsten Marillenkn\u00f6del, dem n\u00e4chsten St\u00fcck Torte, der dicken Schicht Nutella."
+                },
+                {
+                    "text": "Und es hatte auch mit etwas in Meixners Kindheit zu tun."
+                },
+                {
+                    "text": "Meixner lief weiter."
+                },
+                {
+                    "text": "Einmal verlief sie sich beim Joggen, sodass mehr als 20 Kilometer zusammenkamen."
+                },
+                {
+                    "text": "Mit 30 las Meixner von einem Marathonlauf in der Region, dachte sich: \u00bbBist du deppert, ein Marathon!\u00ab"
+                },
+                {
+                    "text": "Trotzdem sp\u00fcrte sie diesen Drang, es sich selbst zu beweisen und den anderen."
+                },
+                {
+                    "text": "Die sie bel\u00e4chelten am Start und nicht fassen konnten, dass Meixner die ganze Strecke laufen k\u00f6nne."
+                },
+                {
+                    "text": "Nach 4:08 Stunden lief sie \u00fcber die Ziellinie."
+                },
+                {
+                    "text": "Meixner erinnert sich an \u00bbpures Gl\u00fcck\u00ab."
+                },
+                {
+                    "text": "Sie wusste nicht, wie sie es geschafft hatte."
+                },
+                {
+                    "text": "Danach legte sie sich zu Hause in die Badewanne und a\u00df so viele Schokoladendragees, wie sie nur konnte."
+                },
+                {
+                    "text": "Meixner dachte sich: \u00bbBist du deppert, ein Ironman!\u00ab"
+                },
+                {
+                    "text": "Sie kaufte sich ein gebrauchtes Rennrad und f\u00fcr 50 Euro bei Lidl einen Neoprenanzug, der f\u00fcrs Surfen gemacht war und nicht f\u00fcrs Schwimmen und viel zu d\u00fcnn war."
+                },
+                {
+                    "text": "Und doch: Irgendwann war sie im Ziel, sp\u00fcrte wieder das Dopamin und wollte mehr, so erz\u00e4hlt sie es."
+                },
+                {
+                    "text": "Sie fragte sich: geht das?"
+                },
+                {
+                    "text": "Kann ich das?"
+                },
+                {
+                    "text": "Sie trainierte, trainierte, trainierte."
+                },
+                {
+                    "text": "Sie absolvierte einen doppelten Triathlon."
+                },
+                {
+                    "text": "Sie fuhr mit dem Fahrrad einmal quer durch die USA, einmal quer durch Australien."
+                },
+                {
+                    "text": "Immer wenn Meixner ein Ziel erreicht hatte, kam nach den Gl\u00fccksgef\u00fchlen auch: Leere, Perspektivlosigkeit, \u00bbein bisschen wie eine Depression\u00ab."
+                },
+                {
+                    "text": "An einem Februarabend trainiert Alexandra Meixner, die alle Xandi nennen, in ihrem Haus im Waldviertel in einem kleinen Raum im Obergeschoss auf einem schwarzen Ergometer."
+                },
+                {
+                    "text": "Meixner verbringt viel Zeit hier oben, vor allem im Winter, 20 bis 25 Stunden in der Woche."
+                },
+                {
+                    "text": "Die Frau arbeitet am Pr\u00e4natalzentrum in Wien, ist Gyn\u00e4kologin wie Alexandra Meixner."
+                },
+                {
+                    "text": "\u00bbIch will den Anschluss nicht verpassen\u00ab, sagt Meixner, w\u00e4hrend ihr Schwei\u00df \u00fcber das Gesicht rinnt."
+                },
+                {
+                    "text": "Sie schaut kurz auf ihre Fitnessuhr, sch\u00fcttelt den Kopf und sagt: \u00bb110 Puls, und ich keuch schon wie ein Pferd!\u00ab"
+                },
+                {
+                    "text": "Zweieinhalb Stunden wird sie hier sitzen, 150, 160, 170 Watt treten, sich in Gedanken Notizen machen und danach ins Bett fallen und morgens um halb sechs wieder strampeln."
+                },
+                {
+                    "text": "Das ist ihr Rhythmus, wenn sie nicht 24-Stunden-Dienste im Krankenhaus schiebt oder auf einer B\u00fchne steht."
+                },
+                {
+                    "text": "Ein B\u00e4uerinnenverband aus der Gegend hatte Meixner gefragt, ob sie einen Vortrag \u00fcber die weibliche Sexualit\u00e4t halten k\u00f6nne."
+                },
+                {
+                    "text": "Als Meixner das Publikum sah, \u00bbeher B\u00e4uerinnen 60 plus\u00ab, improvisierte sie, baute reichlich Pointen ein."
+                },
+                {
+                    "text": "Auf einmal trat Meixner mehrmals in der Woche in ganz \u00d6sterreich auf mit einem Programm \u00fcber Sexmythen."
+                },
+                {
+                    "text": "F\u00fcr Meixner ist der Sport ein R\u00fcckzugsort, vor allem beim Wettkampf."
+                },
+                {
+                    "text": "Sie sagt: \u00bbDa habe ich keine Verpflichtungen!\u00ab"
+                },
+                {
+                    "text": "Keine WhatsApp-Nachrichten, die sie beantworten m\u00fcsste."
+                },
+                {
+                    "text": "Nur sie und ihr Weg, sonst nichts."
+                },
+                {
+                    "text": "F\u00fcr Alexandra Meixner ist er nur: \u00bbmein Walter!\u00ab"
+                },
+                {
+                    "text": "Alexandra, die Bundesheer\u00e4rztin, und Walter, damals 29, der Soldat auf Zeit."
+                },
+                {
+                    "text": "Es gab Jahre, in denen Meixner f\u00fcr Startgelder und das ganze Drumherum mehr als 100.000 Euro ausgab und die Sponsorengelder hinten und vorn nicht reichten."
+                },
+                {
+                    "text": "In der sie mit ihrem Mann dar\u00fcber nachdachte, ob sie das Haus verkaufen m\u00fcssten."
+                },
+                {
+                    "text": "Meixners gesammeltes Preisgeld nach all den Jahren des Triumphs, den ganzen Siegen und Rekorden: 800 Euro."
+                },
+                {
+                    "text": "Sie habe aufgeh\u00f6rt, daran zu glauben, dass sie vom Sport einmal leben k\u00f6nnen wird, erz\u00e4hlt sie."
+                },
+                {
+                    "text": "Seit ein paar Jahren k\u00fcmmere sie sich nicht mehr um Sponsoren."
+                },
+                {
+                    "text": "Sie erinnert sich an S\u00e4tze wie: \u00bbOptisch passt Frau Meixner leider nicht zu uns.\u00ab"
+                },
+                {
+                    "text": "Es sind S\u00e4tze, die sie verletzten."
+                },
+                {
+                    "text": "S\u00e4tze, die sie erinnern an fr\u00fcher, als sie sich nie h\u00fcbsch genug und immer zu dick fand."
+                },
+                {
+                    "text": "Die sie erinnern an ihre Unsicherheit, die Komplexe mit ihrem K\u00f6rper, ihrer Nase, die ihr zu gro\u00df erschien."
+                },
+                {
+                    "text": "An ihre Kindheit voller Entbehrungen, die sie aber selten als Entbehrungen erlebte."
+                },
+                {
+                    "text": "Wenn das Geld nur f\u00fcr das N\u00f6tigste reichte f\u00fcr Meixner und ihre f\u00fcnf Schwestern und es in der Wohnung wieder einmal kalt war."
+                },
+                {
+                    "text": "Meixner jammert nicht gern."
+                },
+                {
+                    "text": "Also sagt sie: \u00bbIch war schon immer ein Gl\u00fcckskind!\u00ab"
+                },
+                {
+                    "text": "Und kurz darauf erz\u00e4hlt sie von den Dingen, die sie \u00bbals Mensch bis heute extrem gepr\u00e4gt haben\u00ab."
+                },
+                {
+                    "text": "Als das alles begann, war Meixner gerade elf Jahre alt."
+                },
+                {
+                    "text": "Sie sagt: \u00bbSeine H\u00e4nde waren \u00fcberall. Ich kann bis heute nicht gekitzelt werden. Ich kriege irrsinnige Panik dabei.\u00ab"
+                },
+                {
+                    "text": "Und Meixner fing an, sich zu wehren."
+                },
+                {
+                    "text": "Sie erz\u00e4hlte anderen davon, brachte mit 18 Jahren die Kraft auf f\u00fcr eine Therapie."
+                },
+                {
+                    "text": "Deshalb wurde sie Gyn\u00e4kologin, lie\u00df sich zur Sexualtherapeutin ausbilden."
+                },
+                {
+                    "text": "Seit ihrer Jugend f\u00fchrt Meixner diesen Kampf darum, sich ihren eigenen K\u00f6rper zur\u00fcckzuholen."
+                },
+                {
+                    "text": "Sie sagt: \u00bbWenn mich der Walter massiert: Der verzweifelt manchmal. Dem brechen die Finger ab. Ich brauche ganz starke Ber\u00fchrungen, ganz starke Reize. Sonst sp\u00fcre ich das nicht. Als ich mir mal ein Permanent Make-up habe machen lassen, bin ich eingeschlafen. In der Sauna habe ich das letzte Mal 40 Minuten bei 90 Grad gesessen. Ich will meinen K\u00f6rper sp\u00fcren!\u00ab"
+                },
+                {
+                    "text": "Sie sagt, sie schinde sich jeden Tag auch f\u00fcr ein Gef\u00fchl f\u00fcr sich selbst."
+                },
+                {
+                    "text": "Oft frage sie sich: \u00bbKann ich besser mit Schmerzen umgehen als andere? Oder empfinde ich weniger Schmerzen als andere? Und: Was hat das mit dem Missbrauch zu tun?\u00ab"
+                },
+                {
+                    "text": "Bei den Wettk\u00e4mpfen geniere sie sich manchmal, wenn andere um sie herum p\u00e4ckchenweise Ibuprofen schlucken und \u00fcber Schmerzen klagen und sie sich denkt: \u00bbMir geht es eigentlich ganz gut.\u00ab"
+                },
+                {
+                    "text": "Bei den besonders langen Wettbewerben war Meixner oft die einzige Frau, die \u00fcberhaupt ins Ziel kam."
+                },
+                {
+                    "text": "Manchmal scheint es Meixner unangenehm zu sein, \u00fcber ihre Leistungen zu sprechen."
+                },
+                {
+                    "text": "Dann lenkt sie von sich ab und spricht \u00fcber Dankbarkeit \u00bbf\u00fcr meine Gene\u00ab und daf\u00fcr, dass sie sich \u00bbdas alles \u00fcberhaupt leisten kann\u00ab."
+                },
+                {
+                    "text": "Sie spricht von \u00bbDemut\u00ab und dem \u00bbGl\u00fcck, dass bei den Wettk\u00e4mpfen alles rundherum so gut gepasst hat\u00ab und \u00bballe mich so unterst\u00fctzen\u00ab."
+                },
+                {
+                    "text": "Fast so, als h\u00e4tte sie das alles gar nicht wirklich selbst vollbracht."
+                },
+                {
+                    "text": "Vor Wettk\u00e4mpfen setzt sich Alexandra Meixner drei Ziele."
+                },
+                {
+                    "text": "3. die Distanz innerhalb einer Zeit zu schaffen, die Walter und sie berechnet haben."
+                },
+                {
+                    "text": "Meixner sagt, sie brauche keine Motivation von au\u00dfen, niemanden, der sie anpeitscht."
+                },
+                {
+                    "text": "Sie ist streng mit sich."
+                },
+                {
+                    "text": "Sie wei\u00df, was sie tut: laufen, radeln, schwimmen."
+                },
+                {
+                    "text": "Sie sagt: \u00bbDas ist immer das Schlimmste: der Schlafmangel.\u00ab"
+                },
+                {
+                    "text": "Alexandra Meixner wollte schon oft aufh\u00f6ren."
+                },
+                {
+                    "text": "Nicht um zehn Uhr abends daran denken, dass sie am n\u00e4chsten Morgen um f\u00fcnf Uhr auf das Ergometer muss."
+                },
+                {
+                    "text": "Wenn es aber so weit war, habe sie gemerkt, dass sie das nicht so einfach kann: loslassen."
+                },
+                {
+                    "text": "Sie merkte, dass sie den Sport braucht, um zufrieden zu sein."
+                },
+                {
+                    "text": "Auch wenn Meixner das Wort nicht mag, weil es so negativ klingt."
+                },
+                {
+                    "text": "\u00bbDas ist unvorstellbar. Ich werde unrund, wenn ich mich nicht bewege. Ich bin nicht ausgelastet. Ich werde abends gar nicht mehr m\u00fcde.\u00ab"
+                },
+                {
+                    "text": "Meixners Weg l\u00e4uft immer auch an den Grenzen ihres K\u00f6rpers entlang."
+                },
+                {
+                    "text": "Meixner sagt: \u00bbBist du deppert, ein Drei\u00dfigfacher!\u00ab"
+                },
+                {
+                    "text": "Sie hat sich schon lange angemeldet und Walter schon herumgerechnet, welche Zeiten drin sein sollten."
+                },
+                {
+                    "text": "Rund 40 Tage wird sie daf\u00fcr vermutlich unterwegs sein."
+                },
+                {
+                    "text": "\u00bbHauptsache, ins Ziel kommen\u00ab, sagt Alexandra Meixner vorsichtig und blickt zu ihrem Mann hin\u00fcber."
+                },
+                {
+                    "text": "Sie gesteht: \u00bbNa gut, nat\u00fcrlich will ich den Weltrekord!\u00ab"
+                }
+            ],
+            "occupations": [],
+            "directQuotes": [
+                {
+                    "text": "pures Gl\u00fcck"
+                },
+                {
+                    "text": "ein bisschen wie eine Depression"
+                },
+                {
+                    "text": "Ich will den Anschluss nicht verpassen"
+                },
+                {
+                    "text": "110 Puls, und ich keuch schon wie ein Pferd!"
+                },
+                {
+                    "text": "Da habe ich keine Verpflichtungen!"
+                },
+                {
+                    "text": "Ich war schon immer ein Gl\u00fcckskind!"
+                },
+                {
+                    "text": "Seine H\u00e4nde waren \u00fcberall. Ich kann bis heute nicht gekitzelt werden. Ich kriege irrsinnige Panik dabei."
+                },
+                {
+                    "text": "Und es war auch ein Weg f\u00fcr mich selbst, den Missbrauch aufzuarbeiten."
+                },
+                {
+                    "text": "Wenn mich der Walter massiert: Der verzweifelt manchmal. Dem brechen die Finger ab. Ich brauche ganz starke Ber\u00fchrungen, ganz starke Reize. Sonst sp\u00fcre ich das nicht. Als ich mir mal ein Permanent Make-up habe machen lassen, bin ich eingeschlafen. In der Sauna habe ich das letzte Mal 40 Minuten bei 90 Grad gesessen. Ich will meinen K\u00f6rper sp\u00fcren!"
+                },
+                {
+                    "text": "Mir geht es eigentlich ganz gut."
+                },
+                {
+                    "text": "Gl\u00fcck, dass bei den Wettk\u00e4mpfen alles rundherum so gut gepasst hat"
+                },
+                {
+                    "text": "Das ist immer das Schlimmste: der Schlafmangel."
+                },
+                {
+                    "text": "Na gut, nat\u00fcrlich will ich den Weltrekord!"
+                }
+            ],
+            "quotedInTitle": true,
+            "quotedInIntro": true
+        }
+    ]
+}

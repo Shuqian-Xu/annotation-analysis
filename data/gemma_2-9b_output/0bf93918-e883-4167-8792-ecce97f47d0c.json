@@ -1,0 +1,279 @@
+{
+    "persons": [
+        {
+            "name": "Aleksandar Vu\u010di\u0107",
+            "alternativeNames": [],
+            "age": -1,
+            "sex": "male",
+            "occurences": {
+                "total": 9,
+                "firstNameOnly": 0,
+                "lastNameOnly": 7,
+                "fullName": 2,
+                "nickname": 0
+            },
+            "inTitle": false,
+            "inIntro": true,
+            "_name": {
+                "firstname": "Aleksandar",
+                "lastname": "Vu\u010di\u0107",
+                "nickname": null,
+                "alternative_names": [],
+                "academic_title": null,
+                "nobility_title_or_rank": null
+            },
+            "descriptiveTexts": [
+                {
+                    "text": "In Belgrad kommt es zum Showdown mit Pr\u00e4sident Aleksandar Vu\u010di\u0107."
+                },
+                {
+                    "text": "Es ist eine Botschaft, die Pistorius vor allem an Serbiens Pr\u00e4sidenten Aleksandar Vu\u010di\u0107 richtet."
+                },
+                {
+                    "text": "Vu\u010di\u0107 pflegt enge Dr\u00e4hte nach Moskau \u2013 bei gleichzeitigem Wunsch nach Aufnahme in die EU."
+                },
+                {
+                    "text": "Vu\u010di\u0107 ist es aber auch, der Zweifel s\u00e4t an der G\u00fcltigkeit des deutschen Sprichworts."
+                },
+                {
+                    "text": "Der Pr\u00e4sident beteuert seinen Willen, Serbien in die EU zu f\u00fchren, er schmeichelt Pistorius, als er ihn als \u00bbbeliebtesten Politiker\u00ab Deutschlands preist."
+                },
+                {
+                    "text": "Dann aber bestreitet Vu\u010di\u0107 die Legitimit\u00e4t deutscher R\u00fcstungshilfe f\u00fcr das Kosovo."
+                },
+                {
+                    "text": "Er wirft Deutschland doppelte Standards im Umgang mit seinem Land und dem jungen Staat vor."
+                },
+                {
+                    "text": "Schon da, vor seinem Besuch in Belgrad, richtete der deutsche Verteidigungsminister eine klare Forderung an die Serben: Vu\u010di\u0107s Regierung solle sich lieber nicht als Trojanisches Pferd Moskaus andienen, sie solle die Z\u00fcndeleien in der Region besser lassen."
+                },
+                {
+                    "text": "Als er neben Vu\u010di\u0107 steht, bekr\u00e4ftigt Pistorius, dass es russischen Einfluss \u00bbauf verschiedenen Kan\u00e4len\u00ab gebe."
+                },
+                {
+                    "text": "Was Vu\u010di\u0107 br\u00fcsk zur\u00fcckweist: Er stehe einem \u00bbfreien und unabh\u00e4ngigen\u00ab Staat vor."
+                },
+                {
+                    "text": "\u00bbKeiner kann mir etwas aufzwingen oder befehlen\u00ab, sagt er, \u00bbweder aus Washington noch Moskau, Berlin oder einem anderen Ort.\u00ab"
+                },
+                {
+                    "text": "Serbiens Pr\u00e4sident Vu\u010di\u0107 d\u00fcrfte sich davon allerdings nicht abbringen lassen."
+                },
+                {
+                    "text": "Denn er kann es sich erlauben, das r\u00e4umt Pistorius indirekt ein, als er Serbien wiederholt als politisch und wirtschaftlich nun einmal wichtigsten Akteur in der Region lobt."
+                }
+            ],
+            "occupations": [
+                {
+                    "text": "Pr\u00e4sident"
+                }
+            ],
+            "directQuotes": [
+                {
+                    "text": "freien und unabh\u00e4ngigen"
+                },
+                {
+                    "text": "Keiner kann mir etwas aufzwingen oder befehlen"
+                },
+                {
+                    "text": "weder aus Washington noch Moskau, Berlin oder einem anderen Ort."
+                }
+            ],
+            "quotedInTitle": false,
+            "quotedInIntro": true
+        },
+        {
+            "name": "Boris Pistorius",
+            "alternativeNames": [],
+            "age": -1,
+            "sex": "male",
+            "occurences": {
+                "total": 27,
+                "firstNameOnly": 0,
+                "lastNameOnly": 26,
+                "fullName": 1,
+                "nickname": 0
+            },
+            "inTitle": true,
+            "inIntro": true,
+            "_name": {
+                "firstname": "Boris",
+                "lastname": "Pistorius",
+                "nickname": null,
+                "alternative_names": [],
+                "academic_title": null,
+                "nobility_title_or_rank": null
+            },
+            "descriptiveTexts": [
+                {
+                    "text": "Pistorius und die Hochzeitst\u00e4nzer"
+                },
+                {
+                    "text": "Bei seiner Tour durch den Westbalkan gibt sich Verteidigungsminister Pistorius gern mal ruppig."
+                },
+                {
+                    "text": "Er mahnt Kosovaren, Bosniaken und Serben, sich zur EU zu bekennen."
+                },
+                {
+                    "text": "Jedenfalls f\u00e4llt dieser eine Satz auffallend oft, wenn Boris Pistorius auf seiner Reise im Westbalkan in ein Mikrofon spricht: \u00bbMan kann nicht gleichzeitig auf zwei Hochzeiten tanzen.\u00ab"
+                },
+                {
+                    "text": "Es ist eine Botschaft, die Pistorius vor allem an Serbiens Pr\u00e4sidenten Aleksandar Vu\u010di\u0107 richtet."
+                },
+                {
+                    "text": "Der Serbe vermittelt w\u00e4hrend der Pressekonferenz mit Pistorius einen Eindruck davon, wie das doch klappen k\u00f6nnte \u2013 als Politiker auf zwei Hochzeiten zu tanzen: Man sagt, was das Gegen\u00fcber h\u00f6ren will, holt anschlie\u00dfend aus zu Vorw\u00fcrfen und Kritik und dreht dann wieder bei."
+                },
+                {
+                    "text": "Der Pr\u00e4sident beteuert seinen Willen, Serbien in die EU zu f\u00fchren, er schmeichelt Pistorius, als er ihn als \u00bbbeliebtesten Politiker\u00ab Deutschlands preist."
+                },
+                {
+                    "text": "Pistorius schaut da l\u00e4chelnd zu Boden."
+                },
+                {
+                    "text": "Und Pistorius?"
+                },
+                {
+                    "text": "Als wolle er jetzt mal was klarstellen."
+                },
+                {
+                    "text": "Zu erleben ist an diesem Mittwochnachmittag im Amtssitz des serbischen Pr\u00e4sidenten ein Showdown, auf den Pistorius zwei Tage lang hingearbeitet hat."
+                },
+                {
+                    "text": "\u00bbJeder, der in die Europ\u00e4ische Union will\u00ab, so Pistorius, \u00bbder kann nicht gleichzeitig auf zwei Hochzeiten tanzen. Das hei\u00dft: Die Priorit\u00e4ten m\u00fcssen klar formuliert sein.\u00ab"
+                },
+                {
+                    "text": "Ein Tadel in Richtung Belgrad, noch ehe er einen Fu\u00df in die Stadt gesetzt hatte."
+                },
+                {
+                    "text": "Aber Pistorius ist im Westbalkan offensichtlich nicht daran gelegen, mit diplomatischem Fingerspitzengef\u00fchl aufzufallen."
+                },
+                {
+                    "text": "Lieber geht er robust vor."
+                },
+                {
+                    "text": "Er gibt sich kritisch, auch konfrontativ; ein bisschen so, als wollte er sich den \u00f6rtlichen Gepflogenheiten anpassen."
+                },
+                {
+                    "text": "Sucht Pistorius etwa Streit?"
+                },
+                {
+                    "text": "Er bekommt ihn jedenfalls."
+                },
+                {
+                    "text": "\u00bbWir betonen, dass nicht Russland, sondern Deutschland die innenpolitische Krise in Bosnien-Herzegowina versch\u00e4rft\u00ab, teilt sie mit."
+                },
+                {
+                    "text": "Pistorius und seine Delegation scheinen nicht \u00fcberm\u00e4\u00dfig besorgt, als die zornige Replik w\u00e4hrend eines Empfangs am Dienstagband die Runde macht."
+                },
+                {
+                    "text": "Eher deutet der Minister sie als Ermunterung \u2013 und legt tags darauf nach: \u00bbJa, in Serbien und in der Republik Srpska in Bosnien-Herzegowina findet Russland immer wieder den N\u00e4hrboden f\u00fcr seine Versuche, die Region zu destabilisieren und eigenen Einfluss auszubauen, etwa auch durch Desinformationskampagnen und Einflussnahmen auf die Medien.\u00ab"
+                },
+                {
+                    "text": "Pistorius im Westbalkan \u2013 das ist auch ein Fernduell mit Moskau."
+                },
+                {
+                    "text": "Als er neben Vu\u010di\u0107 steht, bekr\u00e4ftigt Pistorius, dass es russischen Einfluss \u00bbauf verschiedenen Kan\u00e4len\u00ab gebe."
+                },
+                {
+                    "text": "Diese Begegnung d\u00fcrfte Pistorius nicht so bald vergessen."
+                },
+                {
+                    "text": "Pistorius will die deutsche Beteiligung aufstocken \u2013 gegen den Trend."
+                },
+                {
+                    "text": "Im Ernstfall sollen sie Konfliktparteien auseinanderhalten; daf\u00fcr nimmt die Kompanie zwei Wasserwerfer mit."
+                },
+                {
+                    "text": "Pistorius gibt den Serben die Schuld f\u00fcr die Zuspitzung der Sicherheitslage."
+                },
+                {
+                    "text": "Aber auch die Kosovaren nimmt er in die Pflicht."
+                },
+                {
+                    "text": "Er sei ja deren Freund und er wolle sich keineswegs in innere Angelegenheiten einmischen, beteuert Pistorius \u2013 und tut es dennoch."
+                },
+                {
+                    "text": "Er kritisiert das Verbot des serbischen Dinars als Zahlungsmittel in Nordkosovo; das bereite der serbischen Minderheit dort Probleme."
+                },
+                {
+                    "text": "Wie das im Ernstfall ablaufen soll, bekommt Pistorius im Camp des EU-gef\u00fchrten Einsatzes Eufor Althea zu sehen."
+                },
+                {
+                    "text": "Als Aufwiegler verkleidete Soldaten starten einen Aufruhr, sie werden von Sicherheitskr\u00e4ften zur\u00fcckgedr\u00e4ngt."
+                },
+                {
+                    "text": "\u00bbBeeindruckend\u00ab, sagt Pistorius hinterher."
+                },
+                {
+                    "text": "\u00bbGegebenenfalls\u00ab, so Pistorius, werde auch der Einsatz der Bundeswehr in Bosnien-Herzegowina \u00bbintensiviert\u00ab."
+                },
+                {
+                    "text": "Er sieht es so: \u00bbEin stabiler Westbalkan bedeutet eben auch mehr Stabilit\u00e4t f\u00fcr Gesamteuropa.\u00ab"
+                },
+                {
+                    "text": "In Bosnien-Herzegowina er\u00f6ffnet Pistorius eine Sprachschule f\u00fcr Soldaten, im Kosovo besucht er eine Ausbildungsst\u00e4tte f\u00fcr Minenr\u00e4umer und Katastrophenteams."
+                },
+                {
+                    "text": "Ein Dilemma, vor dem auch Pistorius steht."
+                },
+                {
+                    "text": "Einerseits erinnert er die Kosovaren und Bosniaken an die eigene Verantwortung."
+                },
+                {
+                    "text": "Andererseits versichert er ihnen Deutschlands Beistand."
+                },
+                {
+                    "text": "Nach seinen Gespr\u00e4chen mit rund einem Dutzend einflussreicher Politikerinnen und Politiker, mit Milit\u00e4rs und Diplomaten scheint Pistorius nicht besonders hoffnungsfroh in die Zukunft dieser Region inmitten Europas zu blicken."
+                },
+                {
+                    "text": "Besonders im politisch gel\u00e4hmten Bosnien-Herzegowina d\u00fcrfte er einen Eindruck davon bekommen haben, wie unvers\u00f6hnlich sich die Vertreter bosnischer Kroaten, Bosniaken und Serben gegen\u00fcberstehen."
+                },
+                {
+                    "text": "Nat\u00fcrlich bedenkt Pistorius auch die Vertreter Bosnien-Herzegowinas mit seinem Hochzeitssatz: \u00bbMan kann nicht wirklich auf zwei Hochzeiten tanzen, jedenfalls nicht auf Dauer.\u00ab"
+                },
+                {
+                    "text": "Denn er kann es sich erlauben, das r\u00e4umt Pistorius indirekt ein, als er Serbien wiederholt als politisch und wirtschaftlich nun einmal wichtigsten Akteur in der Region lobt."
+                }
+            ],
+            "occupations": [
+                {
+                    "text": "Verteidigungsminister"
+                },
+                {
+                    "text": "Sozialdemokrat"
+                }
+            ],
+            "directQuotes": [
+                {
+                    "text": "Jeder, der in die Europ\u00e4ische Union will"
+                },
+                {
+                    "text": "der kann nicht gleichzeitig auf zwei Hochzeiten tanzen. Das hei\u00dft: Die Priorit\u00e4ten m\u00fcssen klar formuliert sein."
+                },
+                {
+                    "text": "Ja, in Serbien und in der Republik Srpska in Bosnien-Herzegowina findet Russland immer wieder den N\u00e4hrboden f\u00fcr seine Versuche, die Region zu destabilisieren und eigenen Einfluss auszubauen, etwa auch durch Desinformationskampagnen und Einflussnahmen auf die Medien."
+                },
+                {
+                    "text": "Zur Deeskalation und zum Dialog"
+                },
+                {
+                    "text": "Beeindruckend"
+                },
+                {
+                    "text": "Gegebenenfalls"
+                },
+                {
+                    "text": "intensiviert"
+                },
+                {
+                    "text": "Ein stabiler Westbalkan bedeutet eben auch mehr Stabilit\u00e4t f\u00fcr Gesamteuropa."
+                },
+                {
+                    "text": "Man kann nicht wirklich auf zwei Hochzeiten tanzen, jedenfalls nicht auf Dauer."
+                }
+            ],
+            "quotedInTitle": true,
+            "quotedInIntro": true
+        }
+    ]
+}

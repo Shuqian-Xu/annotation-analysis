@@ -1,0 +1,86 @@
+{
+    "persons": [
+        {
+            "name": "Hagen Reiners",
+            "alternativeNames": [],
+            "age": -1,
+            "sex": "male",
+            "occurences": {
+                "total": 8,
+                "firstNameOnly": 0,
+                "lastNameOnly": 7,
+                "fullName": 1,
+                "nickname": 0
+            },
+            "inTitle": false,
+            "inIntro": false,
+            "_name": {
+                "firstname": "Hagen",
+                "lastname": "Reiners",
+                "nickname": null,
+                "alternative_names": [],
+                "academic_title": null,
+                "nobility_title_or_rank": null
+            },
+            "descriptiveTexts": [
+                {
+                    "text": "Nachdem der Preis im M\u00e4rz noch ein Rekordhoch erreicht hatte, fiel er im Mai laut ADAC auf den niedrigsten Stand seit Beginn des Ukraine-Kriegs (siehe Grafik)."
+                },
+                {
+                    "text": "\"Die Dieselspeicher in ganz Europa wurden bis Ende Januar fast maximal gef\u00fcllt\", sagt Hagen Reiners, Experte f\u00fcr deutsche Mineral\u00f6lpreise von der Preisnotierungsagentur Argus Media gegen\u00fcber dem manager magazin."
+                },
+                {
+                    "text": "Hintergrund f\u00fcr die starke Einlagerung von Diesel war laut Reiners das EU-Embargo gegen russischen Diesel, das im Februar in Kraft tritt."
+                },
+                {
+                    "text": "\"Der Dieselpreis ist stark gebunden an die Wirtschaftsleistung Europas\", sagt Reiners."
+                },
+                {
+                    "text": "Auf dem Weltmarkt war das Dieselangebot Reiners zufolge ebenfalls st\u00e4rker als erwartet."
+                },
+                {
+                    "text": "\"Die Gewinne durch die Produktion von Diesel waren f\u00fcr die russischen Raffineriebetreiber sehr hoch durch den geringen Roh\u00f6lpreis\", erkl\u00e4rt Reiners."
+                },
+                {
+                    "text": "Seit Mai, als die Regierung die Quoten wieder senkte, sind die Exporte \u00e4hnlich dem geringeren Niveau des Vorjahres, sagt Reiners."
+                },
+                {
+                    "text": "Zumindest haben die preisdr\u00fcckenden Effekte laut \u00d6lpreisexperte Reiners inzwischen wieder nachgelassen."
+                },
+                {
+                    "text": "Wie sich der Preis in kommenden Monaten entwickeln wird, h\u00e4ngt Reiners zufolge vom globalen Angebot ab, aber auch davon, wie sich der Dieselbedarf in Europa entwickelt."
+                }
+            ],
+            "occupations": [
+                {
+                    "text": "Experte"
+                },
+                {
+                    "text": "Experte f\u00fcr deutsche Mineral\u00f6lpreise"
+                }
+            ],
+            "directQuotes": [
+                {
+                    "text": "Die Dieselspeicher in ganz Europa wurden bis Ende Januar fast maximal gef\u00fcllt"
+                },
+                {
+                    "text": "In Vorbereitung darauf hat man g\u00fcnstigen russischen Diesel eingekauft. Damit war Europa lange sehr gut versorgt."
+                },
+                {
+                    "text": "Der Dieselpreis ist stark gebunden an die Wirtschaftsleistung Europas"
+                },
+                {
+                    "text": "Russischer Diesel hat relativ gut neue Absatzm\u00e4rkte gefunden. Zum Beispiel deckt die T\u00fcrkei inzwischen fast ihren gesamten Dieselbedarf aus Russland"
+                },
+                {
+                    "text": "So hat das globale Angebot trotz der Sanktionen gegen Russland insgesamt kaum abgenommen."
+                },
+                {
+                    "text": "Die Gewinne durch die Produktion von Diesel waren f\u00fcr die russischen Raffineriebetreiber sehr hoch durch den geringen Roh\u00f6lpreis"
+                }
+            ],
+            "quotedInTitle": false,
+            "quotedInIntro": false
+        }
+    ]
+}

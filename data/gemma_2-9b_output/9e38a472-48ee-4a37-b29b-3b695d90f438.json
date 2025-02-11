@@ -1,0 +1,91 @@
+{
+    "persons": [
+        {
+            "name": "Margret Hucko",
+            "alternativeNames": [],
+            "age": -1,
+            "sex": "female",
+            "occurences": {
+                "total": 3,
+                "firstNameOnly": 0,
+                "lastNameOnly": 0,
+                "fullName": 3,
+                "nickname": 0
+            },
+            "inTitle": false,
+            "inIntro": true,
+            "_name": {
+                "firstname": "Margret",
+                "lastname": "Hucko",
+                "nickname": null,
+                "alternative_names": [],
+                "academic_title": null,
+                "nobility_title_or_rank": null
+            },
+            "descriptiveTexts": [
+                {
+                    "text": "In diesem Podcast informiert manager-magazin-Redakteurin Margret Hucko, ob die neue High-Tech-Variante von Gew\u00e4chsh\u00e4usern die L\u00f6sung sein kann."
+                },
+                {
+                    "text": "So pr\u00fcft beispielsweise Deutschlands Handelsgigant Lidl, ob er gro\u00df in das Gesch\u00e4ft einsteigen sollte, wie manager-magazin-Redakteurin Margret Hucko herausgefunden hat."
+                },
+                {
+                    "text": "Dar\u00fcber informiert in diesem Podcast Margret Hucko im Gespr\u00e4ch mit Chefredakteur Sven Clausen."
+                },
+                {
+                    "text": "Sie k\u00f6nnen den Podcast \u00fcber manager magazin sowie auf Spotify, Apple, Deezer und bei Google abonnieren."
+                }
+            ],
+            "occupations": [],
+            "directQuotes": [
+                {
+                    "text": "Das Thema"
+                }
+            ],
+            "quotedInTitle": false,
+            "quotedInIntro": true
+        },
+        {
+            "name": "Sven Clausen",
+            "alternativeNames": [],
+            "age": -1,
+            "sex": "male",
+            "occurences": {
+                "total": 1,
+                "firstNameOnly": 0,
+                "lastNameOnly": 0,
+                "fullName": 1,
+                "nickname": 0
+            },
+            "inTitle": false,
+            "inIntro": false,
+            "_name": {
+                "firstname": "Sven",
+                "lastname": "Clausen",
+                "nickname": null,
+                "alternative_names": [],
+                "academic_title": null,
+                "nobility_title_or_rank": null
+            },
+            "descriptiveTexts": [
+                {
+                    "text": "Dar\u00fcber informiert in diesem Podcast Margret Hucko im Gespr\u00e4ch mit Chefredakteur Sven Clausen."
+                },
+                {
+                    "text": "Sie k\u00f6nnen den Podcast \u00fcber manager magazin sowie auf Spotify, Apple, Deezer und bei Google abonnieren."
+                }
+            ],
+            "occupations": [
+                {
+                    "text": "Chefredaktion"
+                },
+                {
+                    "text": "Chefredakteur"
+                }
+            ],
+            "directQuotes": [],
+            "quotedInTitle": false,
+            "quotedInIntro": false
+        }
+    ]
+}

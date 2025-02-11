@@ -1,0 +1,350 @@
+{
+    "persons": [
+        {
+            "name": "Micha Kaufman",
+            "alternativeNames": [],
+            "age": -1,
+            "sex": "male",
+            "occurences": {
+                "total": 1,
+                "firstNameOnly": 0,
+                "lastNameOnly": 0,
+                "fullName": 1,
+                "nickname": 0
+            },
+            "inTitle": false,
+            "inIntro": false,
+            "_name": {
+                "firstname": "Micha",
+                "lastname": "Kaufman",
+                "nickname": null,
+                "alternative_names": [],
+                "academic_title": null,
+                "nobility_title_or_rank": null
+            },
+            "descriptiveTexts": [
+                {
+                    "text": "Deutschland lockt sie mit einem Angebot."
+                },
+                {
+                    "text": "Bei einer Demo stellten sie sogar eine riesige Lokomotiven-Attrappe mitten in Tel Aviv auf."
+                },
+                {
+                    "text": "Das Ergebnis der Abstimmung ist auch eine pers\u00f6nliche Niederlage f\u00fcr bekannte israelische Techunternehmer wie Micha Kaufman von der Freelancer-Plattform Fiverr oder den Wix.com-Chef Nir Zohar."
+                },
+                {
+                    "text": "Noch vor rund einer Woche warnten sie gemeinsam mit anderen b\u00f6rsennotierten Unternehmen in einem offenen Brief vor den Konsequenzen f\u00fcr die israelische Hightechindustrie und forderten Premierminister Netanyahu auf, \"wichtige rechtliche \u00c4nderungen nur auf der Grundlage eines breiten Konsenses umzusetzen\"."
+                },
+                {
+                    "text": "Einige Gespr\u00e4chspartner aus der Techszene zweifeln an der schockierend hohen Zahl, sie sei vermutlich zu weit oben angesetzt."
+                }
+            ],
+            "occupations": [],
+            "directQuotes": [
+                {
+                    "text": "Es war immer ausgesprochen schwierig, ein globales Start-up von Israel aus zu leiten"
+                }
+            ],
+            "quotedInTitle": false,
+            "quotedInIntro": false
+        },
+        {
+            "name": "Nir Zohar",
+            "alternativeNames": [],
+            "age": -1,
+            "sex": "male",
+            "occurences": {
+                "total": 1,
+                "firstNameOnly": 0,
+                "lastNameOnly": 0,
+                "fullName": 1,
+                "nickname": 0
+            },
+            "inTitle": false,
+            "inIntro": false,
+            "_name": {
+                "firstname": "Nir",
+                "lastname": "Zohar",
+                "nickname": null,
+                "alternative_names": [],
+                "academic_title": null,
+                "nobility_title_or_rank": null
+            },
+            "descriptiveTexts": [
+                {
+                    "text": "Deutschland lockt sie mit einem Angebot."
+                },
+                {
+                    "text": "Bei einer Demo stellten sie sogar eine riesige Lokomotiven-Attrappe mitten in Tel Aviv auf."
+                },
+                {
+                    "text": "Das Ergebnis der Abstimmung ist auch eine pers\u00f6nliche Niederlage f\u00fcr bekannte israelische Techunternehmer wie Micha Kaufman von der Freelancer-Plattform Fiverr oder den Wix.com-Chef Nir Zohar."
+                },
+                {
+                    "text": "Noch vor rund einer Woche warnten sie gemeinsam mit anderen b\u00f6rsennotierten Unternehmen in einem offenen Brief vor den Konsequenzen f\u00fcr die israelische Hightechindustrie und forderten Premierminister Netanyahu auf, \"wichtige rechtliche \u00c4nderungen nur auf der Grundlage eines breiten Konsenses umzusetzen\"."
+                },
+                {
+                    "text": "Einige Gespr\u00e4chspartner aus der Techszene zweifeln an der schockierend hohen Zahl, sie sei vermutlich zu weit oben angesetzt."
+                }
+            ],
+            "occupations": [
+                {
+                    "text": "Wix.com-Chef"
+                }
+            ],
+            "directQuotes": [
+                {
+                    "text": "Ich habe 15 Jahre gebraucht, um mich nicht mehr fremd zu f\u00fchlen \u2013 und weitere 15, bis ich Israel als Heimat empfand"
+                }
+            ],
+            "quotedInTitle": false,
+            "quotedInIntro": false
+        },
+        {
+            "name": "Benjamin Netanyahu",
+            "alternativeNames": [],
+            "age": -1,
+            "sex": "male",
+            "occurences": {
+                "total": 2,
+                "firstNameOnly": 0,
+                "lastNameOnly": 1,
+                "fullName": 1,
+                "nickname": 0
+            },
+            "inTitle": false,
+            "inIntro": false,
+            "_name": {
+                "firstname": "Benjamin",
+                "lastname": "Netanyahu",
+                "nickname": null,
+                "alternative_names": [],
+                "academic_title": null,
+                "nobility_title_or_rank": null
+            },
+            "descriptiveTexts": [
+                {
+                    "text": "Der Grund f\u00fcr die Fluchtgedanken: Eine Justizreform der rechts-religi\u00f6sen Regierung von Ministerpr\u00e4sident Benjamin Netanyahu, die seit Monaten Menschen in ganz Israel in Scharen auf die Stra\u00dfe treibt."
+                },
+                {
+                    "text": "Noch vor rund einer Woche warnten sie gemeinsam mit anderen b\u00f6rsennotierten Unternehmen in einem offenen Brief vor den Konsequenzen f\u00fcr die israelische Hightechindustrie und forderten Premierminister Netanyahu auf, \"wichtige rechtliche \u00c4nderungen nur auf der Grundlage eines breiten Konsenses umzusetzen\"."
+                }
+            ],
+            "occupations": [
+                {
+                    "text": "Ministerpr\u00e4sident"
+                }
+            ],
+            "directQuotes": [
+                {
+                    "text": "Das ist das Ende der Start-up-Nation Israel"
+                }
+            ],
+            "quotedInTitle": false,
+            "quotedInIntro": false
+        },
+        {
+            "name": "Christian Miele",
+            "alternativeNames": [],
+            "age": -1,
+            "sex": "male",
+            "occurences": {
+                "total": 3,
+                "firstNameOnly": 0,
+                "lastNameOnly": 2,
+                "fullName": 1,
+                "nickname": 0
+            },
+            "inTitle": false,
+            "inIntro": false,
+            "_name": {
+                "firstname": "Christian",
+                "lastname": "Miele",
+                "nickname": null,
+                "alternative_names": [],
+                "academic_title": null,
+                "nobility_title_or_rank": null
+            },
+            "descriptiveTexts": [
+                {
+                    "text": "In einer Stellungnahme, die dem SPIEGEL vorliegt, wird Vorstandsvorsitzender Christian Miele deutlich: Innovation brauche langfristig immer eine offene und plurale Gesellschaft, schreibt er \u2013 \"hier wird die Axt ans Fundament der wirtschaftlichen Zukunft Israels gelegt\"."
+                },
+                {
+                    "text": "Harte Worte, die Miele mit Solidarit\u00e4tsbekundungen an Tel Avivs Wachstumsunternehmen verkn\u00fcpft."
+                },
+                {
+                    "text": "\"Bei uns ist jeder willkommen\", schreibt Miele."
+                }
+            ],
+            "occupations": [],
+            "directQuotes": [
+                {
+                    "text": "s ist die M\u00fche einfach nicht mehr wert."
+                },
+                {
+                    "text": "hier wird die Axt ans Fundament der wirtschaftlichen Zukunft Israels gelegt"
+                }
+            ],
+            "quotedInTitle": false,
+            "quotedInIntro": false
+        },
+        {
+            "name": "Asaf Naim",
+            "alternativeNames": [],
+            "age": -1,
+            "sex": "male",
+            "occurences": {
+                "total": 2,
+                "firstNameOnly": 0,
+                "lastNameOnly": 1,
+                "fullName": 1,
+                "nickname": 0
+            },
+            "inTitle": false,
+            "inIntro": false,
+            "_name": {
+                "firstname": "Asaf",
+                "lastname": "Naim",
+                "nickname": null,
+                "alternative_names": [],
+                "academic_title": null,
+                "nobility_title_or_rank": null
+            },
+            "descriptiveTexts": [
+                {
+                    "text": "\"Die Frage ist, ob Investoren davon abgeschreckt werden\", sagt Asaf Naim, Gr\u00fcnder des israelischen Krypto-Unternehmens Kirobo."
+                },
+                {
+                    "text": "\"Ich glaube, dass ein CEO \u00fcberhaupt nichts \u00fcber seine oder ihre politische Haltung sagen sollte\", sagt Naim."
+                },
+                {
+                    "text": "Er will auf jeden Fall in Israel bleiben, er glaubt an einen Goldrausch f\u00fcr Geldgeber, die jetzt ins Risiko gehen."
+                },
+                {
+                    "text": "\"Ich werde definitiv umziehen\", erz\u00e4hlt eine junge israelische Unternehmerin dem SPIEGEL \u2013 und zwar von Deutschland nach Tel Aviv."
+                },
+                {
+                    "text": "Die israelische Regierung habe lange Zeit viel Erfolg damit gehabt, Menschen gegeneinander aufzubringen, sagt sie."
+                },
+                {
+                    "text": "\"Jetzt, nach 30 Jahren, habe ich zum ersten Mal das Gef\u00fchl, dass eine neue Generation von jungen Menschen aufsteht und laut ist.\""
+                },
+                {
+                    "text": "Bald aber werde man sie sehen, zusammen mit ihrer Familie: bei den Protesten, auf den Stra\u00dfen von Tel Aviv."
+                }
+            ],
+            "occupations": [
+                {
+                    "text": "Unternehmer"
+                }
+            ],
+            "directQuotes": [
+                {
+                    "text": "W\u00e4re das ein Videospiel, w\u00e4ren wir vom mittleren Schwierigkeitsgrad zum allerh\u00e4rtesten gewechselt"
+                },
+                {
+                    "text": "Diese ganze Aufregung ist vor\u00fcbergehend, die Leute werden bald wieder relaxen und investieren."
+                }
+            ],
+            "quotedInTitle": false,
+            "quotedInIntro": false
+        },
+        {
+            "name": "Daniel Gorlovetsky",
+            "alternativeNames": [],
+            "age": 33,
+            "sex": "male",
+            "occurences": {
+                "total": 7,
+                "firstNameOnly": 0,
+                "lastNameOnly": 6,
+                "fullName": 1,
+                "nickname": 0
+            },
+            "inTitle": false,
+            "inIntro": false,
+            "_name": {
+                "firstname": "Daniel",
+                "lastname": "Gorlovetsky",
+                "nickname": null,
+                "alternative_names": [],
+                "academic_title": null,
+                "nobility_title_or_rank": null
+            },
+            "descriptiveTexts": [
+                {
+                    "text": "Daniel Gorlovetsky ist kein besonders politischer Mensch."
+                },
+                {
+                    "text": "\"Ich dachte bis zuletzt, dass bestimmt noch irgendetwas passieren w\u00fcrde\", sagt Gorlovetsky."
+                },
+                {
+                    "text": "Ein Kompromiss, ein Einlenken, oder zumindest ein weiterer Aufschub, er hielt vieles f\u00fcr m\u00f6glich."
+                },
+                {
+                    "text": "Jede Viertelstunde habe er die Nachrichten gecheckt, sagt der Unternehmer."
+                },
+                {
+                    "text": "Gorlovetsky ist Chef der Softwarefirma TLVTech mit Sitz in Tel Aviv."
+                },
+                {
+                    "text": "Er war drei Jahre alt, als er nach Israel kam, er ist verheiratet, hat zwei Kinder und Familie, laut eigenen Angaben tr\u00e4gt er Verantwortung f\u00fcr rund 40 Mitarbeiter und Mitarbeiterinnen."
+                },
+                {
+                    "text": "\"Ich habe 15 Jahre gebraucht, um mich nicht mehr fremd zu f\u00fchlen \u2013 und weitere 15, bis ich Israel als Heimat empfand\"."
+                },
+                {
+                    "text": "Dennoch traf der 33-J\u00e4hrige am vergangenen Dienstag eine folgenschwere Entscheidung: Er m\u00f6chte auswandern, wom\u00f6glich f\u00fcr immer."
+                },
+                {
+                    "text": "Wie Gorlovetsky geht es derzeit unz\u00e4hligen Start-up-Unternehmern und -Unternehmerinnen."
+                },
+                {
+                    "text": "\"Es war immer ausgesprochen schwierig, ein globales Start-up von Israel aus zu leiten\", sagt Unternehmer Gorlovetsky."
+                },
+                {
+                    "text": "Ob Gorlovetsky die Einladung annehmen wird, ist unklar."
+                },
+                {
+                    "text": "Er sagt, er habe sich noch nicht entschieden, in welches Land es ihn zieht."
+                },
+                {
+                    "text": "Der 33-J\u00e4hrige muss an seine Mitarbeiter denken, sich mit seiner Familie beraten, mit Freunden und Eltern, bevor er endg\u00fcltig die Koffer packt und sich irgendwo ein neues Leben aufbaut."
+                },
+                {
+                    "text": "\"Es f\u00fchlt sich an, als h\u00e4tte ich meine Zeit verschwendet\", sagt Gorlovetsky, \"als h\u00e4tte ich auf das falsche Pferd gesetzt.\""
+                },
+                {
+                    "text": "\"Das ist das Ende der Start-up-Nation Israel\", sagt der Unternehmer, und er meint es ernst."
+                }
+            ],
+            "occupations": [
+                {
+                    "text": "Unternehmer"
+                },
+                {
+                    "text": "Er m\u00f6chte auswandern, wom\u00f6glich f\u00fcr immer"
+                },
+                {
+                    "text": "Gr\u00fcnder"
+                }
+            ],
+            "directQuotes": [
+                {
+                    "text": "Ich dachte bis zuletzt, dass bestimmt noch irgendetwas passieren w\u00fcrde"
+                },
+                {
+                    "text": "Ich glaube, dass ein CEO \u00fcberhaupt nichts \u00fcber seine oder ihre politische Haltung sagen sollte"
+                },
+                {
+                    "text": "Bei uns ist jeder willkommen"
+                },
+                {
+                    "text": "als h\u00e4tte ich auf das falsche Pferd gesetzt."
+                }
+            ],
+            "quotedInTitle": false,
+            "quotedInIntro": false
+        }
+    ]
+}

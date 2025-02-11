@@ -1,0 +1,326 @@
+{
+    "persons": [
+        {
+            "name": "Jessica Bwali",
+            "alternativeNames": [],
+            "age": 20,
+            "sex": "female",
+            "occurences": {
+                "total": 6,
+                "firstNameOnly": 0,
+                "lastNameOnly": 5,
+                "fullName": 1,
+                "nickname": 0
+            },
+            "inTitle": false,
+            "inIntro": false,
+            "_name": {
+                "firstname": "Jessica",
+                "lastname": "Bwali",
+                "nickname": null,
+                "alternative_names": [],
+                "academic_title": null,
+                "nobility_title_or_rank": null
+            },
+            "descriptiveTexts": [
+                {
+                    "text": "\u00bbIch werde wahnsinnig. Ich brauche endlich Gewissheit\u00ab, sagt die Tochter."
+                },
+                {
+                    "text": "Jessica Bwali erlebt diese Probleme tagt\u00e4glich."
+                },
+                {
+                    "text": "Sie l\u00e4uft schnellen Schrittes durch eine der \u00e4rmeren Gegenden der Hauptstadt Lusaka."
+                },
+                {
+                    "text": "Bwali bleibt h\u00e4ufig stehen, redet mit den Bewohnerinnen und Bewohnern, sie h\u00f6rt ihnen zu."
+                },
+                {
+                    "text": "Bwali fing an, \u00fcber die Gr\u00fcnde zu recherchieren."
+                },
+                {
+                    "text": "Heute ist sie eine der bekanntesten Klimaaktivistinnen im Land, geht an Schulen und f\u00f6rdert lokale Initiativen."
+                },
+                {
+                    "text": "\u00bbFr\u00fcher kamen die Regen immer am 24. Oktober, man konnte die Uhr danach stellen. Heute warten wir manchmal bis Januar auf Niederschlag, und dann f\u00e4llt pl\u00f6tzlich extrem viel auf einmal. Die Leute nehmen das wahr, aber sie wissen nicht, dass der Klimawandel dahintersteckt\u00ab, erz\u00e4hlt sie."
+                },
+                {
+                    "text": "Den aktuellen Cholera-Ausbruch sieht sie als Vorboten einer noch viel d\u00fcsteren Zeit."
+                },
+                {
+                    "text": "An diesem Mittwochvormittag hat sie ihre Gummistiefel vergessen."
+                },
+                {
+                    "text": "Sie muss in Turnschuhen \u00fcber Steine springen, die in Pf\u00fctzen gelegt wurden, als improvisierter Pfad."
+                },
+                {
+                    "text": "Aktivistin Bwali ruft ihm ein paar Fragen zu, getrennt durch einen Wassergraben, den sie in ihren Turnschuhen nicht \u00fcberqueren kann."
+                },
+                {
+                    "text": "\u00bbKlimaanpassungsma\u00dfnahmen\u00ab, sagt Bwali, die Aktivistin, \u00bbdie Leute helfen sich selbst\u00ab."
+                },
+                {
+                    "text": "\u00bbL\u00e4nder wie Sambia haben keine Ressourcen, um dem Klimawandel zu begegnen, unsere Gesundheitssysteme sind schon jetzt am Limit\u00ab, sagt Bwali."
+                }
+            ],
+            "occupations": [
+                {
+                    "text": "Radiomoderatorin"
+                },
+                {
+                    "text": "Klimaaktivistin"
+                }
+            ],
+            "directQuotes": [
+                {
+                    "text": "Fr\u00fcher kamen die Regen immer am 24. Oktober, man konnte die Uhr danach stellen. Heute warten wir manchmal bis Januar auf Niederschlag, und dann f\u00e4llt pl\u00f6tzlich extrem viel auf einmal. Die Leute nehmen das wahr, aber sie wissen nicht, dass der Klimawandel dahintersteckt"
+                },
+                {
+                    "text": "Klimaanpassungsma\u00dfnahmen"
+                },
+                {
+                    "text": "die Leute helfen sich selbst"
+                },
+                {
+                    "text": "L\u00e4nder wie Sambia haben keine Ressourcen, um dem Klimawandel zu begegnen, unsere Gesundheitssysteme sind schon jetzt am Limit"
+                }
+            ],
+            "quotedInTitle": false,
+            "quotedInIntro": false
+        },
+        {
+            "name": "Jennifer Chipulu",
+            "alternativeNames": [],
+            "age": -1,
+            "sex": "female",
+            "occurences": {
+                "total": 3,
+                "firstNameOnly": 0,
+                "lastNameOnly": 2,
+                "fullName": 1,
+                "nickname": 0
+            },
+            "inTitle": false,
+            "inIntro": false,
+            "_name": {
+                "firstname": "Jennifer",
+                "lastname": "Chipulu",
+                "nickname": null,
+                "alternative_names": [],
+                "academic_title": null,
+                "nobility_title_or_rank": null
+            },
+            "descriptiveTexts": [
+                {
+                    "text": "Jennifer Chipulu ist seit drei Tagen hier, von morgens 6 Uhr bis abends, wenn es dunkel wird."
+                },
+                {
+                    "text": "Erst wurde sie in ein lokales Krankenhaus eingewiesen, dann mit Blaulicht ins Heroes-Stadion gebracht, da war sie bereits bewusstlos."
+                },
+                {
+                    "text": "Tochter Chipulu harrt seither vor dem Gitter aus, ihren Job hat sie aufgegeben, um in der N\u00e4he der Mutter zu sein."
+                },
+                {
+                    "text": "Doch deren Name steht auf keiner Liste, niemand kann ihr sagen, was passiert ist, ob sie noch lebt oder schon begraben wurde."
+                },
+                {
+                    "text": "In den vergangenen Wochen erging es vielen Angeh\u00f6rigen wie Chipulu, denn die Cholera breitet sich immer schneller aus in Sambias Hauptstadt Lusaka, und damit das Chaos."
+                }
+            ],
+            "occupations": [],
+            "directQuotes": [
+                {
+                    "text": "Ich werde wahnsinnig. Ich brauche endlich Gewissheit"
+                }
+            ],
+            "quotedInTitle": false,
+            "quotedInIntro": false
+        },
+        {
+            "name": "Roma Chilengi",
+            "alternativeNames": [],
+            "age": -1,
+            "sex": "male",
+            "occurences": {
+                "total": 2,
+                "firstNameOnly": 0,
+                "lastNameOnly": 0,
+                "fullName": 2,
+                "nickname": 0
+            },
+            "inTitle": false,
+            "inIntro": false,
+            "_name": {
+                "firstname": "Roma",
+                "lastname": "Chilengi",
+                "nickname": null,
+                "alternative_names": [],
+                "academic_title": "Professor",
+                "nobility_title_or_rank": null
+            },
+            "descriptiveTexts": [
+                {
+                    "text": "\u00bbDas ist erst der Anfang, eine Art Weckruf\u00ab, sagt Professor Roma Chilengi vom staatlichen Zambia National Public Health Institute."
+                },
+                {
+                    "text": "\u00bbCholera ist eine Arme-Leute-Krankheit, da wird nicht so massiv investiert wie bei Corona. Die Pharmaindustrie interessiert sich nicht f\u00fcr den Globalen S\u00fcden, hier lassen sich keine Gesch\u00e4fte machen\u00ab, moniert Professor Roma Chilengi vom Zambia National Public Health Institute."
+                }
+            ],
+            "occupations": [
+                {
+                    "text": "Experte"
+                },
+                {
+                    "text": "Professor"
+                }
+            ],
+            "directQuotes": [
+                {
+                    "text": "Das ist erst der Anfang, eine Art Weckruf"
+                },
+                {
+                    "text": "Wir werden eine starke Zunahme an Krankheitsausbr\u00fcchen sehen. Die Entwicklungsl\u00e4nder stehen wegen des Klimawandels vor massiven Problemen. Das sollten endlich alle begreifen."
+                },
+                {
+                    "text": "Cholera ist eine Arme-Leute-Krankheit, da wird nicht so massiv investiert wie bei Corona. Die Pharmaindustrie interessiert sich nicht f\u00fcr den Globalen S\u00fcden, hier lassen sich keine Gesch\u00e4fte machen"
+                }
+            ],
+            "quotedInTitle": false,
+            "quotedInIntro": false
+        },
+        {
+            "name": "Violet Chizema",
+            "alternativeNames": [],
+            "age": 65,
+            "sex": "female",
+            "occurences": {
+                "total": 5,
+                "firstNameOnly": 0,
+                "lastNameOnly": 3,
+                "fullName": 2,
+                "nickname": 0
+            },
+            "inTitle": false,
+            "inIntro": false,
+            "_name": {
+                "firstname": "Violet",
+                "lastname": "Chizema",
+                "nickname": null,
+                "alternative_names": [],
+                "academic_title": null,
+                "nobility_title_or_rank": null
+            },
+            "descriptiveTexts": [
+                {
+                    "text": "Eine \u00e4ltere Frau hat sich gerade erbrochen, schnell dreht eine Pflegerin sie auf die Seite, damit sie nicht erstickt."
+                },
+                {
+                    "text": "Viele der Helferinnen sind Freiwillige, so wie Violet Chizema."
+                },
+                {
+                    "text": "Sie hat in den Eimern unter den Liegen F\u00f6ten gefunden, die schwangere Frauen mit dem Durchfall verloren haben."
+                },
+                {
+                    "text": "\u00bbNeulich kam ein kleiner Junge rein, ich sang mit ihm noch Lieder, kurz darauf war er tot.\u00ab"
+                },
+                {
+                    "text": "Die Cholera-Toten w\u00e4scht sie mit einer L\u00f6sung mit zwei Prozent Chloranteil."
+                },
+                {
+                    "text": "Chizema macht trotzdem weiter, jeden Tag eine Schicht, acht Stunden am St\u00fcck, seit Wochen schon."
+                },
+                {
+                    "text": "\u00bbIch will meiner Community helfen, wir m\u00fcssen das gemeinsam \u00fcberstehen\u00ab, sagt sie."
+                },
+                {
+                    "text": "Auf Hilfe von der Regierung setzt sie kaum noch."
+                },
+                {
+                    "text": "Chizema arbeitet nicht nur im Krankenhaus, sie dreht nach Dienstschluss auch ihre Runden im Viertel, kontrolliert die Einhaltung der Hygienevorschriften."
+                },
+                {
+                    "text": "Dann l\u00e4uft sie \u00fcber den Markt, auf selbst zusammengezimmerten Holzst\u00e4nden liegt rohes Fleisch aus, teils ganze Kuhk\u00f6pfe, viele Innereien, alles voller Fliegen."
+                },
+                {
+                    "text": "Chizema erkl\u00e4rt mit ruhiger Stimme, warum sie hier ist, sie sagt S\u00e4tze wie: \u00bbIch will dir dein Gesch\u00e4ft nicht wegnehmen.\u00ab"
+                },
+                {
+                    "text": "Dann bittet sie die Verk\u00e4uferinnen zumindest Netze \u00fcber die Waren zu legen, denn Fliegen k\u00f6nnten Krankheiten \u00fcbertragen \u2013 doch ihre Bitten bleiben meist erfolglos."
+                },
+                {
+                    "text": "Violet Chizema winkt den Kollegen kurz zu, man kennt sich."
+                }
+            ],
+            "occupations": [
+                {
+                    "text": "Freiwillige"
+                }
+            ],
+            "directQuotes": [
+                {
+                    "text": "Neulich kam ein kleiner Junge rein, ich sang mit ihm noch Lieder, kurz darauf war er tot."
+                },
+                {
+                    "text": "Ich will meiner Community helfen, wir m\u00fcssen das gemeinsam \u00fcberstehen"
+                },
+                {
+                    "text": "Ich will dir dein Gesch\u00e4ft nicht wegnehmen."
+                }
+            ],
+            "quotedInTitle": false,
+            "quotedInIntro": false
+        },
+        {
+            "name": "Suzyo Daka",
+            "alternativeNames": [],
+            "age": 35,
+            "sex": "male",
+            "occurences": {
+                "total": 3,
+                "firstNameOnly": 0,
+                "lastNameOnly": 2,
+                "fullName": 1,
+                "nickname": 0
+            },
+            "inTitle": false,
+            "inIntro": false,
+            "_name": {
+                "firstname": "Suzyo",
+                "lastname": "Daka",
+                "nickname": null,
+                "alternative_names": [],
+                "academic_title": null,
+                "nobility_title_or_rank": null
+            },
+            "descriptiveTexts": [
+                {
+                    "text": "Er sch\u00f6pft mit einem Eimer aus der giftgr\u00fcnen Suppe unter ihm, um Beton anzur\u00fchren."
+                },
+                {
+                    "text": "Auch Suzyo Daka war krank in den vergangenen Tagen, hatte Bauchschmerzen und Durchfall."
+                },
+                {
+                    "text": "Vom Klimawandel wei\u00df Daka nichts, wohl aber von den Fluten hier in der Gegend."
+                },
+                {
+                    "text": "Mit ausgestreckter Hand zeigt er auf das Geb\u00e4ude gegen\u00fcber, bis zum ersten Stock habe es bis vor Kurzem noch unter Wasser gestanden."
+                },
+                {
+                    "text": "Denn immer mehr Menschen wollen ihre H\u00e4user h\u00f6her legen, lassen sich eine Plattform bauen wie die, an der Daka gerade arbeitet."
+                }
+            ],
+            "occupations": [
+                {
+                    "text": "Bauarbeiter"
+                }
+            ],
+            "directQuotes": [
+                {
+                    "text": "Das ist der neue Standard"
+                }
+            ],
+            "quotedInTitle": false,
+            "quotedInIntro": false
+        }
+    ]
+}

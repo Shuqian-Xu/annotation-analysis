@@ -1,0 +1,194 @@
+{
+    "persons": [
+        {
+            "name": "Y\u0131lmaz Tun\u00e7",
+            "alternativeNames": [],
+            "age": -1,
+            "sex": "male",
+            "occurences": {
+                "total": 1,
+                "firstNameOnly": 0,
+                "lastNameOnly": 0,
+                "fullName": 1,
+                "nickname": 0
+            },
+            "inTitle": false,
+            "inIntro": false,
+            "_name": {
+                "firstname": "Y\u0131lmaz",
+                "lastname": "Tun\u00e7",
+                "nickname": null,
+                "alternative_names": [],
+                "academic_title": null,
+                "nobility_title_or_rank": null
+            },
+            "descriptiveTexts": [
+                {
+                    "text": "Justizminister Y\u0131lmaz Tun\u00e7 teilte am Jahrestag mit, dass gegen 2825 Verd\u00e4chtige Ermittlungen eingeleitet worden seien."
+                }
+            ],
+            "occupations": [
+                {
+                    "text": "Justizminister"
+                }
+            ],
+            "directQuotes": [],
+            "quotedInTitle": false,
+            "quotedInIntro": false
+        },
+        {
+            "name": "G\u00fcls\u00fcm \u00d6zdo\u011fru",
+            "alternativeNames": [],
+            "age": -1,
+            "sex": "female",
+            "occurences": {
+                "total": 15,
+                "firstNameOnly": 0,
+                "lastNameOnly": 13,
+                "fullName": 2,
+                "nickname": 0
+            },
+            "inTitle": true,
+            "inIntro": true,
+            "_name": {
+                "firstname": "G\u00fcls\u00fcm",
+                "lastname": "\u00d6zdo\u011fru",
+                "nickname": null,
+                "alternative_names": [],
+                "academic_title": null,
+                "nobility_title_or_rank": null
+            },
+            "descriptiveTexts": [
+                {
+                    "text": "Frau \u00d6zdo\u011fru k\u00e4mpft f\u00fcr Gerechtigkeit"
+                },
+                {
+                    "text": "Die Anw\u00e4ltin G\u00fcls\u00fcm \u00d6zdo\u011fru verlor bei den Erdbeben in der T\u00fcrkei mehrere Angeh\u00f6rige."
+                },
+                {
+                    "text": "Sie macht Baum\u00e4ngel daf\u00fcr verantwortlich."
+                },
+                {
+                    "text": "Seit Monaten ringt sie mit der t\u00fcrkischen Justiz, auch weil sie k\u00fcnftiges Leid verhindern will."
+                },
+                {
+                    "text": "Seit mehr als einem Jahr weine G\u00fcls\u00fcm \u00d6zdo\u011fru jeden Tag, sagt sie."
+                },
+                {
+                    "text": "Auch w\u00e4hrend sie das erz\u00e4hlt, wischt sich die Anw\u00e4ltin mit einem Finger eine Tr\u00e4ne weg."
+                },
+                {
+                    "text": "Sie sitzt in einem Istanbuler Caf\u00e9, vor sich eine mit Dokumenten gef\u00fcllte Klarsichtfolie."
+                },
+                {
+                    "text": "Unter den Todesopfern waren eine Tante und ein Onkel von \u00d6zdo\u011fru."
+                },
+                {
+                    "text": "\u00d6zdo\u011frus Onkel nahm das Thema Sicherheit genau, erinnert sich seine Nichte."
+                },
+                {
+                    "text": "Als er f\u00fcr die hei\u00dfen Sommer von Adana einen zus\u00e4tzlichen K\u00fchlschrank auf den Balkon stellen wollte, habe er sich vorher bei einem Statiker erkundigt, ob das in Ordnung sei."
+                },
+                {
+                    "text": "\u00bbMein Onkel und meine Tanten waren Lehrer. Sie haben mit Sch\u00fclern ge\u00fcbt, was im Fall eines Erdbebens zu tun ist\u00ab, sagt die Anw\u00e4ltin."
+                },
+                {
+                    "text": "\u00bbSo wurden sie auch gefunden. Mein Onkel hat sich sch\u00fctzend \u00fcber meine Tante gebeugt. Sie haben sich richtig verhalten.\u00ab"
+                },
+                {
+                    "text": "\u00d6zdo\u011fru ist \u00fcberzeugt, dass ihre Angeh\u00f6rigen gestorben sind, weil Bauvorschriften missachtet wurden."
+                },
+                {
+                    "text": "Sie k\u00e4mpft seit Monaten daf\u00fcr, dass die Verantwortlichen verurteilt werden."
+                },
+                {
+                    "text": "\u00bbIch bin ersch\u00fcttert, wie wenig passiert\u00ab, sagt \u00d6zdo\u011fru."
+                },
+                {
+                    "text": "Sie hat sich gemeinsam mit anderen Angeh\u00f6rigen organisiert."
+                },
+                {
+                    "text": "Sie werden beschuldigt, bei der \u00dcberwachung von Bauarbeiten und der Vergabe von Genehmigungen nicht genau hingeschaut zu haben."
+                },
+                {
+                    "text": "\u00bbH\u00e4tte nur einer von diesen Menschen seine Arbeit vern\u00fcnftig gemacht, h\u00e4tten unsere Lieben nicht sterben m\u00fcssen\u00ab, sagt Anw\u00e4ltin \u00d6zdo\u011fru."
+                },
+                {
+                    "text": "Doch sie wissen sich zu organisieren."
+                },
+                {
+                    "text": "\u00d6zdo\u011fru etwa k\u00fcmmert sich um den Fall \u00bbTutar Yap\u0131 Sitesi, Block C\u00ab."
+                },
+                {
+                    "text": "Immer wieder w\u00fcrden Betroffene von der Angst berichten, juristisch gegen Beh\u00f6rden vorzugehen, erz\u00e4hlt \u00d6zdo\u011fru."
+                },
+                {
+                    "text": "\u00d6zdo\u011fru hat alle Dokumente vor dem Jahrestag eingereicht."
+                },
+                {
+                    "text": "Trotzdem f\u00fcrchtet sie, dass viele Verantwortliche unbehelligt davonkommen werden."
+                },
+                {
+                    "text": "Anw\u00e4ltin \u00d6zdo\u011fru ist wenig optimistisch, dass sich an dieser Stelle etwas bewegen wird."
+                },
+                {
+                    "text": "In ihrem eigenen Fall konzentriert sie sich derzeit auf die andere Seite: die Bauunternehmer."
+                },
+                {
+                    "text": "\u00bbKein einziger Angeklagter war vor Gericht. Stattdessen sa\u00dfen Angeh\u00f6rige der Verstorbenen auf der Anklagebank. Es waren einfach so viele Menschen da, dass sie sonst nirgends Platz gefunden h\u00e4tten.\u00ab"
+                },
+                {
+                    "text": "Genau kann sie nicht erkl\u00e4ren, was dahintersteckt \u2013 aber sie wei\u00df: Dieser Wert spielt eine Rolle bei der Bewertung von Baum\u00e4ngeln."
+                },
+                {
+                    "text": "\u00d6zdo\u011fru spricht beide Sprachen flie\u00dfend, ist in Nordrhein-Westfalen aufgewachsen."
+                },
+                {
+                    "text": "Seit elf Jahren lebt und praktiziert sie in Istanbul."
+                },
+                {
+                    "text": "In den vergangenen Monaten hat sie sich fast ausschlie\u00dflich mit der juristischen Aufarbeitung des Erdbebens besch\u00e4ftigt."
+                },
+                {
+                    "text": "Sie holt ihren Laptop raus, zeigt Bilder vom Tutar Yap\u0131 Sitesi vor dem Beben."
+                },
+                {
+                    "text": "Mit rot lackierten Fingern\u00e4geln deutet sie auf das Bild eines Treppenhauses."
+                },
+                {
+                    "text": "F\u00fcr \u00d6zdo\u011fru und andere Angeh\u00f6rige und \u00dcberlebende ist das ein Beleg daf\u00fcr, dass die Bauarbeiten das Geb\u00e4ude destabilisiert h\u00e4tten."
+                },
+                {
+                    "text": "\u00d6zdo\u011fru geht dagegen vor."
+                },
+                {
+                    "text": "Sie ist \u00fcberzeugt, dass Schuldspr\u00fcche k\u00fcnftiges Leid verhindern k\u00f6nnten: \u00bbWenn Verantwortliche jetzt lange ins Gef\u00e4ngnis m\u00fcssen, \u00fcberlegen sich andere vielleicht in Zukunft, ob sie H\u00e4user nach Vorschrift und erdbebensicher bauen wollen.\u00ab"
+                }
+            ],
+            "occupations": [
+                {
+                    "text": "Anw\u00e4ltin"
+                }
+            ],
+            "directQuotes": [
+                {
+                    "text": "Mein Onkel und meine Tanten waren Lehrer. Sie haben mit Sch\u00fclern ge\u00fcbt, was im Fall eines Erdbebens zu tun ist"
+                },
+                {
+                    "text": "So wurden sie auch gefunden. Mein Onkel hat sich sch\u00fctzend \u00fcber meine Tante gebeugt. Sie haben sich richtig verhalten."
+                },
+                {
+                    "text": "H\u00e4tte nur einer von diesen Menschen seine Arbeit vern\u00fcnftig gemacht, h\u00e4tten unsere Lieben nicht sterben m\u00fcssen"
+                },
+                {
+                    "text": "Kein einziger Angeklagter war vor Gericht. Stattdessen sa\u00dfen Angeh\u00f6rige der Verstorbenen auf der Anklagebank. Es waren einfach so viele Menschen da, dass sie sonst nirgends Platz gefunden h\u00e4tten."
+                },
+                {
+                    "text": "Wenn Verantwortliche jetzt lange ins Gef\u00e4ngnis m\u00fcssen, \u00fcberlegen sich andere vielleicht in Zukunft, ob sie H\u00e4user nach Vorschrift und erdbebensicher bauen wollen."
+                }
+            ],
+            "quotedInTitle": true,
+            "quotedInIntro": true
+        }
+    ]
+}

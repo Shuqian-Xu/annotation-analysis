@@ -1,0 +1,485 @@
+{
+  "persons": [
+    {
+      "age": 39,
+      "alternativeNames": [],
+      "birthday": null,
+      "descriptiveTexts": [
+        {
+          "text": "Über das Team von Nikola Karabatić, das nie aufgibt, und den unwahrscheinlichen Aufstieg des dänischen Torhüters Emil Nielsen."
+        },
+        {
+          "text": "Der Franzose Nikola Karabatić, 39, und der Däne Mikkel Hansen, 36, haben alles gewonnen und gehören zu den ganz Großen ihres Sports."
+        },
+        {
+          "text": "Ein Tor weniger, nämlich 295, hat Karabatić, der im Finale kaum eine Rolle spielte und nach den Olympischen Sommerspielen in Paris seine Karriere beenden wird."
+        },
+        {
+          "text": "Den Rekord für die meisten EM-Tore wird er sich nicht mehr zurückholen, das kann er verschmerzen."
+        },
+        {
+          "text": "Er geht als Europameister."
+        },
+        {
+          "text": "Kaum ein anderer Spieler verkörpert das französische Team der Unsterblichen so gut wie Karabatić."
+        }
+      ],
+      "directQuotes": [],
+      "inIntro": true,
+      "inTitle": false,
+      "indirectQuotes": [],
+      "isMain": false,
+      "name": "Nikola Karabatić",
+      "occupations": [
+        {
+          "text": "Europameister"
+        }
+      ],
+      "occurrences": {
+        "firstNameOnly": 0,
+        "fullName": 2,
+        "lastNameOnly": 2,
+        "total": 4
+      },
+      "quotedInIntro": false,
+      "quotedInTitle": false,
+      "sex": "male"
+    },
+    {
+      "age": 26,
+      "alternativeNames": [],
+      "birthday": null,
+      "descriptiveTexts": [
+        {
+          "text": "Über das Team von Nikola Karabatić, das nie aufgibt, und den unwahrscheinlichen Aufstieg des dänischen Torhüters Emil Nielsen."
+        },
+        {
+          "text": "Der Grund: Emil Nielsen, ein 26-Jähriger, den vor der EM noch nicht so viele auf dem Zettel hatten."
+        },
+        {
+          "text": "Dieser Emil Nielsen, der Landin-Verdränger, der auch Deutschland im Halbfinale zur Verzweiflung brachte, ist wendig wie eine Katze, auch mit 1,95 Metern Körpergröße und 125 Kilogramm."
+        },
+        {
+          "text": "Die Klasse Nielsens sollte auch Frankreich im Finale zu spüren bekommen, 15 Paraden standen am Ende auf dem Konto des Keepers, er wurde Spieler des Spiels."
+        },
+        {
+          "text": "Nielsens Aufstieg ist überraschend, vielleicht sogar unwahrscheinlich."
+        },
+        {
+          "text": "In der Saison 2016/2017 erkrankte er an Meningitis, einer Krankheit, die lebensbedrohlich sein und eine Sportlerkarriere zerstören kann."
+        },
+        {
+          "text": "Doch Nielsen, der damals gerade 18 Jahre alt war, kämpfte sich zurück, ging nach Frankreich, wechselte vor zwei Jahren zum FC Barcelona und ist nun Dänemarks neues Gesicht."
+        },
+        {
+          "text": "Ob Dänemarks Torhüter Nielsen, Dänemarks Tormaschine und EM-Torschützenkönig Mathias Gidsel, Deutschlands Youngster Juri Knorr und Julian Köster, Frankreichs Passkönig Nedim Remili, Österreichs Überraschungstorwart Constantin Möstl – sie alle nutzten das Rampenlicht vor der Rekordkulisse in Deutschland."
+        },
+        {
+          "text": "Jetzt müssen sie im Ligaalltag zeigen, wie nachhaltig die Begeisterung war, die um sie herum entstanden ist."
+        }
+      ],
+      "directQuotes": [],
+      "inIntro": true,
+      "inTitle": false,
+      "indirectQuotes": [],
+      "isMain": true,
+      "name": "Emil Nielsen",
+      "occupations": [
+        {
+          "text": "Torhüter"
+        },
+        {
+          "text": "Landin-Verdränger"
+        }
+      ],
+      "occurrences": {
+        "firstNameOnly": 0,
+        "fullName": 3,
+        "lastNameOnly": 4,
+        "total": 7
+      },
+      "quotedInIntro": false,
+      "quotedInTitle": false,
+      "sex": "male"
+    },
+    {
+      "age": -1,
+      "alternativeNames": [],
+      "birthday": null,
+      "descriptiveTexts": [
+        {
+          "text": "Der dänische Trainer Nikolaj Jacobsen nahm eine Auszeit."
+        }
+      ],
+      "directQuotes": [],
+      "inIntro": false,
+      "inTitle": false,
+      "indirectQuotes": [],
+      "isMain": false,
+      "name": "Nikolaj Jacobsen",
+      "occupations": [
+        {
+          "text": "Trainer"
+        }
+      ],
+      "occurrences": {
+        "firstNameOnly": 0,
+        "fullName": 1,
+        "lastNameOnly": 0,
+        "total": 1
+      },
+      "quotedInIntro": false,
+      "quotedInTitle": false,
+      "sex": "male"
+    },
+    {
+      "age": -1,
+      "alternativeNames": [],
+      "birthday": null,
+      "descriptiveTexts": [
+        {
+          "text": "Frankreich verteidigte offensiv, provozierte einen Ballverlust und glich durch Ludovic Fabregas zum 27:27 aus."
+        },
+        {
+          "text": "Fabregas war mit acht Toren bester Werfer des neuen Champions."
+        }
+      ],
+      "directQuotes": [],
+      "inIntro": false,
+      "inTitle": false,
+      "indirectQuotes": [],
+      "isMain": false,
+      "name": "Ludovic Fabregas",
+      "occupations": [
+        {
+          "text": "bester Werfer"
+        }
+      ],
+      "occurrences": {
+        "firstNameOnly": 0,
+        "fullName": 1,
+        "lastNameOnly": 1,
+        "total": 2
+      },
+      "quotedInIntro": false,
+      "quotedInTitle": false,
+      "sex": "male"
+    },
+    {
+      "age": 36,
+      "alternativeNames": [],
+      "birthday": null,
+      "descriptiveTexts": [
+        {
+          "text": "Für die Dänen, die nach 2008 und 2012 weiter auf ihren dritten Titel warten müssen, traf Mikkel Hansen neunmal."
+        },
+        {
+          "text": "Der Franzose Nikola Karabatić, 39, und der Däne Mikkel Hansen, 36, haben alles gewonnen und gehören zu den ganz Großen ihres Sports."
+        },
+        {
+          "text": "Vor allem Hansen ließ im Finale seine Klasse aufblitzen, als er seine Siebenmeter mit unheimlicher Präzision versenkte."
+        },
+        {
+          "text": "Am Ende kam Hansen sogar auf neun Treffer, damit hat er nun insgesamt 296 EM-Treffer in seiner Karriere erzielt und damit mehr als alle anderen."
+        }
+      ],
+      "directQuotes": [],
+      "inIntro": false,
+      "inTitle": false,
+      "indirectQuotes": [],
+      "isMain": false,
+      "name": "Mikkel Hansen",
+      "occupations": [],
+      "occurrences": {
+        "firstNameOnly": 0,
+        "fullName": 2,
+        "lastNameOnly": 2,
+        "total": 4
+      },
+      "quotedInIntro": false,
+      "quotedInTitle": false,
+      "sex": "male"
+    },
+    {
+      "age": 35,
+      "alternativeNames": [],
+      "birthday": null,
+      "descriptiveTexts": [
+        {
+          "text": "Die erfolgreiche Ära des dänischen Handballs ist eng mit Torwart Niklas Landin verbunden."
+        },
+        {
+          "text": "Der 35-Jährige ist seit 2008 Mitglied der Nationalmannschaft und hat bereits Europameisterschaften, Weltmeisterschaften und Olympische Spiele gewonnen."
+        },
+        {
+          "text": "Landin ist einer der erfolgreichsten Torhüter der Geschichte."
+        },
+        {
+          "text": "Natürlich war zu erwarten, dass Landin mit all seiner Erfahrung an diesem Abend des Endspiels vor 20.000 Fans in Köln zwischen den Pfosten stehen würde."
+        },
+        {
+          "text": "Doch dort war er nicht, er saß bis zur 54. Minute auf der Bank."
+        },
+        {
+          "text": "Dieser Emil Nielsen, der Landin-Verdränger, der auch Deutschland im Halbfinale zur Verzweiflung brachte, ist wendig wie eine Katze, auch mit 1,95 Metern Körpergröße und 125 Kilogramm."
+        }
+      ],
+      "directQuotes": [],
+      "inIntro": false,
+      "inTitle": false,
+      "indirectQuotes": [],
+      "isMain": false,
+      "name": "Niklas Landin",
+      "occupations": [
+        {
+          "text": "Torwart"
+        },
+        {
+          "text": "Mitglied der Nationalmannschaft"
+        },
+        {
+          "text": "einer der erfolgreichsten Torhüter der Geschichte"
+        }
+      ],
+      "occurrences": {
+        "firstNameOnly": 0,
+        "fullName": 1,
+        "lastNameOnly": 3,
+        "total": 4
+      },
+      "quotedInIntro": false,
+      "quotedInTitle": false,
+      "sex": "male"
+    },
+    {
+      "age": -1,
+      "alternativeNames": [],
+      "birthday": null,
+      "descriptiveTexts": [
+        {
+          "text": "In Köln wurde versehentlich eine falsche isländische Nationalhymne gespielt, bei der Eröffnungsrede von Bundespräsident Frank-Walter Steinmeier gab es Tonprobleme."
+        }
+      ],
+      "directQuotes": [],
+      "inIntro": false,
+      "inTitle": false,
+      "indirectQuotes": [],
+      "isMain": false,
+      "name": "Frank-Walter Steinmeier",
+      "occupations": [
+        {
+          "text": "Bundespräsident"
+        }
+      ],
+      "occurrences": {
+        "firstNameOnly": 0,
+        "fullName": 1,
+        "lastNameOnly": 0,
+        "total": 1
+      },
+      "quotedInIntro": false,
+      "quotedInTitle": false,
+      "sex": "male"
+    },
+    {
+      "age": -1,
+      "alternativeNames": [],
+      "birthday": null,
+      "descriptiveTexts": [
+        {
+          "text": "EHF-Generalsekretär Martin Hausleitner sprach auch von einer großen internationalen Resonanz."
+        }
+      ],
+      "directQuotes": [],
+      "inIntro": false,
+      "inTitle": false,
+      "indirectQuotes": [],
+      "isMain": false,
+      "name": "Martin Hausleitner",
+      "occupations": [
+        {
+          "text": "EHF-Generalsekretär"
+        }
+      ],
+      "occurrences": {
+        "firstNameOnly": 0,
+        "fullName": 1,
+        "lastNameOnly": 0,
+        "total": 1
+      },
+      "quotedInIntro": false,
+      "quotedInTitle": false,
+      "sex": "male"
+    },
+    {
+      "age": -1,
+      "alternativeNames": [],
+      "birthday": null,
+      "descriptiveTexts": [
+        {
+          "text": "Ob Dänemarks Torhüter Nielsen, Dänemarks Tormaschine und EM-Torschützenkönig Mathias Gidsel, Deutschlands Youngster Juri Knorr und Julian Köster, Frankreichs Passkönig Nedim Remili, Österreichs Überraschungstorwart Constantin Möstl – sie alle nutzten das Rampenlicht vor der Rekordkulisse in Deutschland."
+        },
+        {
+          "text": "Jetzt müssen sie im Ligaalltag zeigen, wie nachhaltig die Begeisterung war, die um sie herum entstanden ist."
+        }
+      ],
+      "directQuotes": [],
+      "inIntro": false,
+      "inTitle": false,
+      "indirectQuotes": [],
+      "isMain": false,
+      "name": "Mathias Gidsel",
+      "occupations": [
+        {
+          "text": "Dänemarks Tormaschine und EM-Torschützenkönig"
+        }
+      ],
+      "occurrences": {
+        "firstNameOnly": 0,
+        "fullName": 1,
+        "lastNameOnly": 0,
+        "total": 1
+      },
+      "quotedInIntro": false,
+      "quotedInTitle": false,
+      "sex": "male"
+    },
+    {
+      "age": -1,
+      "alternativeNames": [],
+      "birthday": null,
+      "descriptiveTexts": [
+        {
+          "text": "Ob Dänemarks Torhüter Nielsen, Dänemarks Tormaschine und EM-Torschützenkönig Mathias Gidsel, Deutschlands Youngster Juri Knorr und Julian Köster, Frankreichs Passkönig Nedim Remili, Österreichs Überraschungstorwart Constantin Möstl – sie alle nutzten das Rampenlicht vor der Rekordkulisse in Deutschland."
+        },
+        {
+          "text": "Jetzt müssen sie im Ligaalltag zeigen, wie nachhaltig die Begeisterung war, die um sie herum entstanden ist."
+        }
+      ],
+      "directQuotes": [],
+      "inIntro": false,
+      "inTitle": false,
+      "indirectQuotes": [],
+      "isMain": false,
+      "name": "Juri Knorr",
+      "occupations": [
+        {
+          "text": "Deutschlands Youngster"
+        }
+      ],
+      "occurrences": {
+        "firstNameOnly": 0,
+        "fullName": 1,
+        "lastNameOnly": 0,
+        "total": 1
+      },
+      "quotedInIntro": false,
+      "quotedInTitle": false,
+      "sex": "male"
+    },
+    {
+      "age": -1,
+      "alternativeNames": [],
+      "birthday": null,
+      "descriptiveTexts": [
+        {
+          "text": "Ob Dänemarks Torhüter Nielsen, Dänemarks Tormaschine und EM-Torschützenkönig Mathias Gidsel, Deutschlands Youngster Juri Knorr und Julian Köster, Frankreichs Passkönig Nedim Remili, Österreichs Überraschungstorwart Constantin Möstl – sie alle nutzten das Rampenlicht vor der Rekordkulisse in Deutschland."
+        },
+        {
+          "text": "Jetzt müssen sie im Ligaalltag zeigen, wie nachhaltig die Begeisterung war, die um sie herum entstanden ist."
+        }
+      ],
+      "directQuotes": [],
+      "inIntro": false,
+      "inTitle": false,
+      "indirectQuotes": [],
+      "isMain": false,
+      "name": "Julian Köster",
+      "occupations": [
+        {
+          "text": "Deutschlands Youngster"
+        }
+      ],
+      "occurrences": {
+        "firstNameOnly": 0,
+        "fullName": 1,
+        "lastNameOnly": 0,
+        "total": 1
+      },
+      "quotedInIntro": false,
+      "quotedInTitle": false,
+      "sex": "male"
+    },
+    {
+      "age": -1,
+      "alternativeNames": [],
+      "birthday": null,
+      "descriptiveTexts": [
+        {
+          "text": "Ob Dänemarks Torhüter Nielsen, Dänemarks Tormaschine und EM-Torschützenkönig Mathias Gidsel, Deutschlands Youngster Juri Knorr und Julian Köster, Frankreichs Passkönig Nedim Remili, Österreichs Überraschungstorwart Constantin Möstl – sie alle nutzten das Rampenlicht vor der Rekordkulisse in Deutschland."
+        },
+        {
+          "text": "Jetzt müssen sie im Ligaalltag zeigen, wie nachhaltig die Begeisterung war, die um sie herum entstanden ist."
+        }
+      ],
+      "directQuotes": [],
+      "inIntro": false,
+      "inTitle": false,
+      "indirectQuotes": [],
+      "isMain": false,
+      "name": "Nedim Remili",
+      "occupations": [
+        {
+          "text": "Frankreichs Passkönig"
+        }
+      ],
+      "occurrences": {
+        "firstNameOnly": 0,
+        "fullName": 1,
+        "lastNameOnly": 0,
+        "total": 1
+      },
+      "quotedInIntro": false,
+      "quotedInTitle": false,
+      "sex": "male"
+    },
+    {
+      "age": -1,
+      "alternativeNames": [],
+      "birthday": null,
+      "descriptiveTexts": [
+        {
+          "text": "Ob Dänemarks Torhüter Nielsen, Dänemarks Tormaschine und EM-Torschützenkönig Mathias Gidsel, Deutschlands Youngster Juri Knorr und Julian Köster, Frankreichs Passkönig Nedim Remili, Österreichs Überraschungstorwart Constantin Möstl – sie alle nutzten das Rampenlicht vor der Rekordkulisse in Deutschland."
+        },
+        {
+          "text": "Jetzt müssen sie im Ligaalltag zeigen, wie nachhaltig die Begeisterung war, die um sie herum entstanden ist."
+        }
+      ],
+      "directQuotes": [],
+      "inIntro": false,
+      "inTitle": false,
+      "indirectQuotes": [],
+      "isMain": false,
+      "name": "Constantin Möstl",
+      "occupations": [
+        {
+          "text": "Österreichs Überraschungstorwart"
+        }
+      ],
+      "occurrences": {
+        "firstNameOnly": 0,
+        "fullName": 1,
+        "lastNameOnly": 0,
+        "total": 1
+      },
+      "quotedInIntro": false,
+      "quotedInTitle": false,
+      "sex": "male"
+    }
+  ],
+  "subtopics": [
+    "Handball",
+    "Europameisterschaft",
+    "Sport"
+  ]
+}

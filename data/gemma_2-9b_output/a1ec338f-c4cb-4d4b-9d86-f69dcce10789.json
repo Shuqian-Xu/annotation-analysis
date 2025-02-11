@@ -1,0 +1,117 @@
+{
+    "persons": [
+        {
+            "name": "Michael Freitag",
+            "alternativeNames": [],
+            "age": -1,
+            "sex": "male",
+            "occurences": {
+                "total": 2,
+                "firstNameOnly": 0,
+                "lastNameOnly": 0,
+                "fullName": 2,
+                "nickname": 0
+            },
+            "inTitle": false,
+            "inIntro": false,
+            "_name": {
+                "firstname": "Michael",
+                "lastname": "Freitag",
+                "nickname": null,
+                "alternative_names": [],
+                "academic_title": null,
+                "nobility_title_or_rank": null
+            },
+            "descriptiveTexts": [
+                {
+                    "text": "In dieser prek\u00e4ren Situation starten die Eigent\u00fcmerfamilien Porsche und Pi\u00ebch nun eine historisch einmalige Operation, wie manager-magazin-Autoexperte Michael Freitag recherchiert hat: Die leise \u00dcbernahme des Volkswagen-Konzerns durch die Erfolgsfirma Porsche."
+                },
+                {
+                    "text": "Wie genau diese \u00dcbernahme l\u00e4uft, warum Top-Manager Oliver Blume (55) dabei die Schl\u00fcsselfigur ist und was jetzt passieren muss, damit Volkswagens Sanierung eine Chance hat - dar\u00fcber informiert in diesem Podcast Michael Freitag im Gespr\u00e4ch mit Chefredakteur Sven Clausen."
+                }
+            ],
+            "occupations": [],
+            "directQuotes": [],
+            "quotedInTitle": false,
+            "quotedInIntro": false
+        },
+        {
+            "name": "Oliver Blume",
+            "alternativeNames": [],
+            "age": 55,
+            "sex": "male",
+            "occurences": {
+                "total": 1,
+                "firstNameOnly": 0,
+                "lastNameOnly": 0,
+                "fullName": 1,
+                "nickname": 0
+            },
+            "inTitle": false,
+            "inIntro": false,
+            "_name": {
+                "firstname": "Oliver",
+                "lastname": "Blume",
+                "nickname": null,
+                "alternative_names": [],
+                "academic_title": null,
+                "nobility_title_or_rank": null
+            },
+            "descriptiveTexts": [
+                {
+                    "text": "Wie genau diese \u00dcbernahme l\u00e4uft, warum Top-Manager Oliver Blume (55) dabei die Schl\u00fcsselfigur ist und was jetzt passieren muss, damit Volkswagens Sanierung eine Chance hat - dar\u00fcber informiert in diesem Podcast Michael Freitag im Gespr\u00e4ch mit Chefredakteur Sven Clausen."
+                }
+            ],
+            "occupations": [
+                {
+                    "text": "Top-Manager"
+                },
+                {
+                    "text": "Schl\u00fcsselfigur"
+                }
+            ],
+            "directQuotes": [],
+            "quotedInTitle": false,
+            "quotedInIntro": false
+        },
+        {
+            "name": "Sven Clausen",
+            "alternativeNames": [],
+            "age": -1,
+            "sex": "male",
+            "occurences": {
+                "total": 2,
+                "firstNameOnly": 0,
+                "lastNameOnly": 0,
+                "fullName": 2,
+                "nickname": 0
+            },
+            "inTitle": false,
+            "inIntro": false,
+            "_name": {
+                "firstname": "Sven",
+                "lastname": "Clausen",
+                "nickname": null,
+                "alternative_names": [],
+                "academic_title": null,
+                "nobility_title_or_rank": null
+            },
+            "descriptiveTexts": [
+                {
+                    "text": "Wie genau diese \u00dcbernahme l\u00e4uft, warum Top-Manager Oliver Blume (55) dabei die Schl\u00fcsselfigur ist und was jetzt passieren muss, damit Volkswagens Sanierung eine Chance hat - dar\u00fcber informiert in diesem Podcast Michael Freitag im Gespr\u00e4ch mit Chefredakteur Sven Clausen."
+                },
+                {
+                    "text": "Im Podcast \"Das Thema\" informiert Chefredakteur Sven Clausen jede Woche \u00fcber den internen Recherchestand zu jeweils einem f\u00fcr die deutsche Wirtschaft entscheidenden Thema."
+                }
+            ],
+            "occupations": [
+                {
+                    "text": "Chefredakteur"
+                }
+            ],
+            "directQuotes": [],
+            "quotedInTitle": false,
+            "quotedInIntro": false
+        }
+    ]
+}

@@ -1,0 +1,356 @@
+{
+  "persons": [
+    {
+      "age": -1, 
+      "alternativeNames": [],
+      "birthday": null,
+      "descriptiveTexts": [
+        {
+          "text": "Deutschland ist so aufgewühlt wie lange nicht, gleichzeitig tourt Frank-Walter Steinmeier für ein paar Tage durch Südostasien."
+        },
+        {
+          "text": "Im Gepäck hat der Präsident die Sorge um die Lage zu Hause – und einen guten Vorsatz."
+        },
+        {
+          "text": "Im Goethe-Institut von Hanoi trifft die Pflegerin auf Frank-Walter Steinmeier, der gerade in Südostasien unterwegs ist."
+        },
+        {
+          "text": "»Wie lange lernen Sie schon Deutsch?«, fragt der Bundespräsident die Vietnamesin."
+        },
+        {
+          "text": "Und ist schließlich erstaunt über Dungs Antwort: »Ein Jahr, nicht mehr.«"
+        },
+          {
+            "text": "Es ist ein Wohlfühltermin, doch die Reise Steinmeiers durch Südostasien ist nicht ungetrübt."
+          },
+        {
+          "text": "Der Bundespräsident sorgt sich um die politische Stimmung zu Hause."
+        },
+        {
+          "text": "Fragen nach der AfD begleiten ihn auf dieser Reise."
+        },
+        {
+          "text": "Aus Sicht des Bundespräsidenten mag das alles etwas widersprüchlich sein: Hier in Vietnam trifft er Leute, die unbedingt nach Deutschland wollen, um dort zu arbeiten."
+        },
+        {
+            "text": "Ein zuversichtlicher Bundespräsident."
+          },
+          {
+          "text": "Frank-Walter Steinmeier könnte angesichts dieser Lage die Sorgen nach außen kehren, die er sich macht."
+        },
+        {
+          "text": "Doch er ist in dieses Jahr mit dem Vorsatz gestartet, Optimist zu bleiben."
+        },
+        {
+          "text": "Trotz allem wirkt Steinmeier also zuversichtlich, als er da neben seiner Frau im VIP-Raum des Luftwaffen-Airbus sitzt, auf der ersten Fernreise des Jahres."
+        },
+        {
+          "text": "11.000 Kilometer liegen vor ihm, mehr als 13 Flugstunden bis zum ersten Stopp – Hanoi, Hauptstadt von Vietnam."
+        },
+        {
+          "text": "Dafür hat der Bundespräsident Arbeitsminister Hubertus Heil mit nach Asien gebracht."
+        },
+        {
+          "text": "Steinmeiers Programm in Asien – ein Polit-Termin hier, militärische Ehren dort – kommt mitunter etwas sehr diplomatisch-routiniert daher."
+        },
+        {
+          "text": "Viele Male hat er so etwas schon absolviert, früher als Außenminister, jetzt als Präsident."
+        },
+        {
+          "text": "Der Präsident meldet sich ab in die Ferne, auch wenn viele zu Hause gerade politisch so aufgewühlt sind wie lange nicht und das Land womöglich etwas Orientierung gut vertragen könnte."
+        },
+        {
+          "text": "Kurz vor Abreise hat Steinmeier angesichts der Anti-AfD-Demonstrationen noch eine Art Solidaritätsvideo hinterlassen."
+        },
+        {
+          "text": "Steinmeier – so viel kann man sagen – haben die Demonstrationen gegen rechts, zu denen Hunderttausende im Land strömten, tief beeindruckt."
+        },
+        {
+          "text": "Mag sein, dass er so etwas nicht für möglich gehalten hat."
+        },
+        {
+          "text": "Er sorgt sich um die Demokratie und deren Zukunft in Deutschland, er beklagt zunehmende Polarisierung und glaubt an das Gespräch."
+        },
+        {
+          "text": "Die Frage ist jedoch, wie es weitergeht mit diesen Demonstranten und welche Rolle der Bundespräsident in der Debatte über die Zukunft der Demokratie spielen kann und sollte."
+        },
+        {
+          "text": "Während seiner Reise in Südostasien überlässt Steinmeier das Reden zum Thema zunächst anderen."
+        },
+        {
+          "text": "Zumal sie deutlich weniger Rücksicht nehmen müssen als der Bundespräsident."
+        },
+        {
+          "text": "In der Sache dürfte Steinmeier nicht völlig anders argumentieren, womöglich aber im Ton."
+        },
+        {
+          "text": "In der Delegation des Präsidenten heißt es, ihn beschäftige, wie die Demokratie gestärkt werden könne."
+        },
+        {
+          "text": "Kommenden Montag will Steinmeier mit Betriebsräten, Unternehmensbossen, Verbänden und Gewerkschaftern Ideen dazu beraten."
+        }
+      ],
+      "directQuotes": [
+        {
+          "text": "Wie lange lernen Sie schon Deutsch?"
+        },
+        {
+          "text": "ein Bündnis aller Demokratinnen und Demokraten"
+        }
+      ],
+      "inIntro": true,
+      "inTitle": false,
+      "indirectQuotes": [
+        {
+          "text": "Und zwar mit der Botschaft, das Land benötige jetzt »ein Bündnis aller Demokratinnen und Demokraten«."
+        }
+      ],
+      "isMain": true,
+      "name": "Frank-Walter Steinmeier",
+      "occupations": [
+        {
+          "text": "Bundespräsident"
+        },
+        {
+          "text": "Außenminister"
+        }
+      ],
+      "occurences": {
+        "firstNameOnly": 0,
+        "fullName": 3,
+        "lastNameOnly": 8,
+        "total": 11
+      },
+      "quotedInIntro": false,
+      "quotedInTitle": false,
+      "sex": "male"
+    },
+    {
+      "age": 32, 
+      "alternativeNames": [],
+      "birthday": null,
+      "descriptiveTexts": [
+        {
+          "text": "»Möchten Sie sich aufsetzen?«, fragt Dung den Patienten."
+        },
+        {
+          "text": "Blutdruck soll sie messen und die tägliche Patientendosis verabreichen."
+        },
+        {
+          "text": "Dung hat bereits eine vietnamesische Pflegeausbildung, ihr Deutsch erfüllt die Kriterien von Niveau B1."
+        },
+        {
+          "text": "Was noch viel wichtiger ist: Die 32-Jährige hat auch schon einen Arbeitsvertrag in der Tasche."
+        },
+        {
+          "text": "Im April soll sie in einer Klinik in Frankfurt am Main anfangen."
+        },
+        {
+          "text": "Ihr Traum."
+        },
+        {
+            "text": "Im Goethe-Institut von Hanoi trifft die Pflegerin auf Frank-Walter Steinmeier, der gerade in Südostasien unterwegs ist."
+          },
+          {
+            "text": "»Wie lange lernen Sie schon Deutsch?«, fragt der Bundespräsident die Vietnamesin."
+          },
+          {
+            "text": "Und ist schließlich erstaunt über Dungs Antwort: »Ein Jahr, nicht mehr.«"
+          },
+          {
+          "text": "Und schreckt das Erstarken der extrem rechten Partei nicht diejenigen ab, die wie Dung zum Arbeiten kommen wollen?"
+        }
+      ],
+      "directQuotes": [
+        {
+          "text": "Möchten Sie sich aufsetzen?"
+        },
+        {
+          "text": "Ein Jahr, nicht mehr."
+        }
+      ],
+      "inIntro": false,
+      "inTitle": false,
+      "indirectQuotes": [],
+      "isMain": false,
+      "name": "Dung",
+        "occupations": [
+          {
+            "text": "Pflegerin"
+          }
+        ],
+      "occurences": {
+        "firstNameOnly": 4,
+        "fullName": 0,
+        "lastNameOnly": 0,
+        "total": 4
+      },
+      "quotedInIntro": false,
+      "quotedInTitle": false,
+      "sex": "female"
+    },
+    {
+      "age": -1, 
+      "alternativeNames": [],
+      "birthday": null,
+      "descriptiveTexts": [
+        {
+          "text": "»Es ist schon ein Thema, das man hier mitbekommt«, sagt Oliver Brandt, Leiter des Goethe-Instituts in Hanoi."
+        }
+      ],
+      "directQuotes": [
+        {
+          "text": "Es ist schon ein Thema, das man hier mitbekommt"
+        },
+        {
+          "text": "Viele Vietnamesen hören es von Angehörigen in Deutschland"
+        }
+      ],
+      "inIntro": false,
+      "inTitle": false,
+      "indirectQuotes": [],
+      "isMain": false,
+      "name": "Oliver Brandt",
+      "occupations": [
+        {
+          "text": "Leiter des Goethe-Instituts in Hanoi"
+        }
+      ],
+      "occurences": {
+        "firstNameOnly": 0,
+        "fullName": 1,
+        "lastNameOnly": 0,
+        "total": 1
+      },
+      "quotedInIntro": false,
+      "quotedInTitle": false,
+      "sex": "male"
+    },
+    {
+      "age": -1, 
+      "alternativeNames": [],
+      "birthday": null,
+      "descriptiveTexts": [
+        {
+          "text": "Weil Pessimismus als Zeitverschwendung zu sehen ist, wie der frühere israelische Politiker Shimon Peres einmal gesagt hat."
+        }
+      ],
+      "directQuotes": [],
+      "inIntro": false,
+      "inTitle": false,
+      "indirectQuotes": [
+        {
+          "text": "Weil Pessimismus als Zeitverschwendung zu sehen ist, wie der frühere israelische Politiker Shimon Peres einmal gesagt hat."
+        }
+      ],
+      "isMain": false,
+      "name": "Shimon Peres",
+      "occupations": [
+        {
+          "text": "israelische Politiker"
+        }
+      ],
+      "occurences": {
+        "firstNameOnly": 0,
+        "fullName": 1,
+        "lastNameOnly": 0,
+        "total": 1
+      },
+      "quotedInIntro": false,
+      "quotedInTitle": false,
+      "sex": "male"
+    },
+    {
+      "age": -1, 
+      "alternativeNames": [],
+      "birthday": null,
+      "descriptiveTexts": [
+        {
+          "text": "Ein bronzener Ho-Chi-Minh, verziert mit bunten Blumen, wacht im prunkvollen Saal des Präsidentenpalasts."
+        },
+        {
+          "text": "Der Kommunistenführer strahlt mit seinen Gesichtszügen jeweils zu gleichen Teilen Gelassenheit und Zuversicht aus. "
+        }
+      ],
+      "directQuotes": [],
+      "inIntro": false,
+      "inTitle": false,
+      "indirectQuotes": [],
+      "isMain": false,
+      "name": "Ho-Chi-Minh",
+      "occupations": [
+        {
+          "text": "Kommunistenführer"
+        }
+      ],
+      "occurences": {
+        "firstNameOnly": 0,
+        "fullName": 1,
+        "lastNameOnly": 0,
+        "total": 1
+      },
+      "quotedInIntro": false,
+      "quotedInTitle": false,
+      "sex": "male"
+    },
+    {
+      "age": -1, 
+      "alternativeNames": [],
+      "birthday": null,
+      "descriptiveTexts": [
+        {
+          "text": "Dafür hat der Bundespräsident Arbeitsminister Hubertus Heil mit nach Asien gebracht."
+        },
+        {
+          "text": "Der SPD-Politiker weiß, dass Vietnam als Fachkräfte-Herkunftsland für Deutschland bislang nicht unbedingt die Nummer eins gewesen ist."
+        },
+        {
+          "text": "»Die AfD ist nicht nur eine Partei, die unsere Demokratie angreift«, sagt Arbeitsminister Heil im Präsidentenpalast von Hanoi."
+        },
+        {
+          "text": "Die Wirtschaft solle sich stärker zu einem weltoffenen Deutschland bekennen: »Wir dürfen nicht an dem Ast sägen, auf dem wir sitzen.«"
+        }
+      ],
+      "directQuotes": [
+        {
+          "text": "Die AfD ist nicht nur eine Partei, die unsere Demokratie angreift"
+        },
+        {
+          "text": "Sie ist auch wirtschaftlich ein Standortrisiko."
+        },
+        {
+          "text": "Wir dürfen nicht an dem Ast sägen, auf dem wir sitzen."
+        }
+      ],
+      "inIntro": false,
+      "inTitle": false,
+      "indirectQuotes": [
+        {
+          "text": "Die Wirtschaft solle sich stärker zu einem weltoffenen Deutschland bekennen: »Wir dürfen nicht an dem Ast sägen, auf dem wir sitzen.«"
+        }
+      ],
+      "isMain": false,
+      "name": "Hubertus Heil",
+      "occupations": [
+        {
+            "text": "Arbeitsminister"
+          },
+          {
+          "text": "SPD-Politiker"
+        }
+      ],
+      "occurences": {
+        "firstNameOnly": 0,
+        "fullName": 1,
+        "lastNameOnly": 1,
+        "total": 2
+      },
+      "quotedInIntro": false,
+      "quotedInTitle": false,
+      "sex": "male"
+    }
+  ],
+  "subtopics": [
+    "Migration", "Demokratie", "Arbeitsmarkt", "Rechtsextremismus", "Einwanderung"
+  ]
+}

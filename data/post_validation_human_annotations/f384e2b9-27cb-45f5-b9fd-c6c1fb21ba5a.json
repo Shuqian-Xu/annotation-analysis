@@ -1,0 +1,142 @@
+{
+	"persons": [
+		{
+			"age": 60,
+			"alternativeNames": [],
+			"birthday": null,
+			"descriptiveTexts": [
+				{
+					"text": "»Wenn hier keine Unterstützung seitens Vanmoof mehr kommt, Server abgeschaltet werden, geht bald gar nichts mehr«, sagt Dirk Zedler (60) vom Institut für Fahrradtechnik und -Sicherheit."
+				},
+				{
+					"text": "Auch Experte Zedler vom Institut für Fahrradtechnik ist überzeugt: Der hohe Anteil an selbst designten Produkten verhindere jegliche Reparaturmöglichkeit im Fachhandel."
+				}
+			],
+			"directQuotes": [
+				{
+					"text": "Wenn hier keine Unterstützung seitens Vanmoof mehr kommt, Server abgeschaltet werden, geht bald gar nichts mehr"
+				}
+			],
+			"inIntro": false,
+			"inTitle": false,
+			"indirectQuotes": [
+				{
+					"text": "Gesicherter Softwaresupport sei daher das A und O für den Fortbestand der Marke."
+				},
+				{
+					"text": "Auch Experte Zedler vom Institut für Fahrradtechnik ist überzeugt: Der hohe Anteil an selbst designten Produkten verhindere jegliche Reparaturmöglichkeit im Fachhandel."
+				}
+			],
+			"isMain": false,
+			"name": "Dirk Zedler",
+			"occupations": [
+				{
+					"text": "Experte vom Institut für Fahrradtechnik und -Sicherheit"
+				}
+			],
+			"occurrences": {
+				"firstNameOnly": 0,
+				"fullName": 1,
+				"lastNameOnly": 1,
+				"total": 2
+			},
+			"quotedInIntro": false,
+			"quotedInTitle": false,
+			"sex": "male"
+		},
+		{
+			"age": -1,
+			"alternativeNames": [],
+			"birthday": null,
+			"descriptiveTexts": [
+				{
+					"text": "Cowboy-Gründer und CTO Tanguy Goretti begründet auf Linkedin auch gleich, warum er helfen wolle: »Wir glauben fest daran, dass jedes einzelne Fahrrad es verdient, auf der Straße zu fahren.«"
+				}
+			],
+			"directQuotes": [
+				{
+					"text": "Wir glauben fest daran, dass jedes einzelne Fahrrad es verdient, auf der Straße zu fahren."
+				}
+			],
+			"inIntro": false,
+			"inTitle": false,
+			"indirectQuotes": [
+				{
+					"text": "Cowboy-Gründer und CTO Tanguy Goretti begründet auf Linkedin auch gleich, warum er helfen wolle: »Wir glauben fest daran, dass jedes einzelne Fahrrad es verdient, auf der Straße zu fahren.«"
+				}
+			],
+			"isMain": false,
+			"name": "Tanguy Goretti",
+			"occupations": [
+				{
+					"text": "Cowboy-Gründer"
+				},
+				{
+					"text": "CTO"
+				}
+			],
+			"occurrences": {
+				"firstNameOnly": 0,
+				"fullName": 1,
+				"lastNameOnly": 0,
+				"total": 1
+			},
+			"quotedInIntro": false,
+			"quotedInTitle": false,
+			"sex": "male"
+		},
+		{
+			"age": 43,
+			"alternativeNames": [],
+			"birthday": null,
+			"descriptiveTexts": [
+				{
+					"text": "Bei einem dieser Händler, SQlab, einem deutschen Spezialisten für Radsportzubehör, arbeitet Marktexperte und Vanmoof-Kenner Bastian Dietz (43) als Leiter für internationale Entwicklung."
+				},
+				{
+					"text": "Vanmoof müsse aufhören, vor allem auf Direktvertrieb zu setzen und unausgereifte Produkte in den Markt zu drücken, sagt er."
+				}
+			],
+			"directQuotes": [],
+			"inIntro": false,
+			"inTitle": false,
+			"indirectQuotes": [
+				{
+					"text": "Vanmoof müsse aufhören, vor allem auf Direktvertrieb zu setzen und unausgereifte Produkte in den Markt zu drücken, sagt er."
+				},
+				{
+					"text": "Diese Faktoren hätten neben der problematischen Teilestrategie dazu geführt, dass ein professionelles Management der Kundenbeziehungen trotz massiver Investitionen »unmöglich« geworden sei."
+				}
+			],
+			"isMain": false,
+			"name": "Bastian Dietz",
+			"occupations": [
+				{
+					"text": "Marktexperte"
+				},
+				{
+					"text": "Vanmoof-Kenner"
+				},
+				{
+					"text": "Leiter für internationale Entwicklung"
+				}
+			],
+			"occurrences": {
+				"firstNameOnly": 0,
+				"fullName": 1,
+				"lastNameOnly": 0,
+				"total": 1
+			},
+			"quotedInIntro": false,
+			"quotedInTitle": false,
+			"sex": "male"
+		}
+	],
+	"subtopics": [
+		"Vanmoof",
+		"Fahrradindustrie",
+		"Unternehmensstrategie",
+		"Firmenübernahme",
+		"Elektrotechnik"
+	]
+}

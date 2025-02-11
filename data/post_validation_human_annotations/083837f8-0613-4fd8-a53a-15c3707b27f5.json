@@ -1,0 +1,427 @@
+{
+  "persons": [
+    {
+      "age": 20,
+      "alternativeNames": [],
+      "birthday": null,
+      "descriptiveTexts": [
+        {
+          "text": "Star, eine 20-jährige Londonerin, sitzt vor dem Plattenladen, ihre Augenlider glitzern wie ihr Name."
+        },
+        {
+          "text": "Die Musik von The Last Dinner Party sei »theatralisch«, sagt sie."
+        },
+        {
+          "text": "Star meint das positiv."
+        },
+        {
+          "text": "Star, Natalie und Kian haben alle recht."
+        }
+      ],
+      "directQuotes": [
+        {
+          "text": "theatralisch"
+        }
+      ],
+      "inIntro": false,
+      "inTitle": false,
+      "indirectQuotes": [
+        {
+          "text": "Die Musik von The Last Dinner Party sei »theatralisch«, sagt sie."
+        }
+      ],
+      "isMain": false,
+      "name": "Star",
+      "occupations": [
+        {
+          "text": "Londonerin"
+        }
+      ],
+      "occurrences": {
+        "firstNameOnly": 3,
+        "fullName": 0,
+        "lastNameOnly": 0,
+        "total": 3
+      },
+      "quotedInIntro": false,
+      "quotedInTitle": false,
+      "sex": "female"
+    },
+    {
+      "age": 27,
+      "alternativeNames": [],
+      "birthday": null,
+      "descriptiveTexts": [
+        {
+          "text": "Natalie, 27, die fast am Ende der Schlange steht und ihre Londoner WG dabei hat, sagt hingegen, die Musik sei »echt«."
+        },
+        {
+          "text": "Star, Natalie und Kian haben alle recht."
+        }
+      ],
+      "directQuotes": [
+        {
+          "text": "echt"
+        }
+      ],
+      "inIntro": false,
+      "inTitle": false,
+      "indirectQuotes": [
+        {
+          "text": "Natalie, 27, die fast am Ende der Schlange steht und ihre Londoner WG dabei hat, sagt hingegen, die Musik sei »echt«."
+        }
+      ],
+      "isMain": false,
+      "name": "Natalie",
+      "occupations": [],
+      "occurrences": {
+        "firstNameOnly": 2,
+        "fullName": 0,
+        "lastNameOnly": 0,
+        "total": 2
+      },
+      "quotedInIntro": false,
+      "quotedInTitle": false,
+      "sex": "female"
+    },
+    {
+      "age": 19,
+      "alternativeNames": [],
+      "birthday": null,
+      "descriptiveTexts": [
+        {
+          "text": "Und Kian aus Manchester, 19 Jahre alt, blonder Pony, schüchterner Blick, der etwas später in der Menschenmenge vor der Bühne im Plattenladen steht, sagt, The Last Dinner Party seien »very, like, authentic«."
+        },
+        {
+          "text": "Star, Natalie und Kian haben alle recht."
+        }
+      ],
+      "directQuotes": [
+        {
+          "text": "very, like, authentic"
+        }
+      ],
+      "inIntro": false,
+      "inTitle": false,
+      "indirectQuotes": [
+        {
+          "text": "Und Kian aus Manchester, 19 Jahre alt, blonder Pony, schüchterner Blick, der etwas später in der Menschenmenge vor der Bühne im Plattenladen steht, sagt, The Last Dinner Party seien »very, like, authentic«."
+        }
+      ],
+      "isMain": false,
+      "name": "Kian",
+      "occupations": [],
+      "occurrences": {
+        "firstNameOnly": 2,
+        "fullName": 0,
+        "lastNameOnly": 0,
+        "total": 2
+      },
+      "quotedInIntro": false,
+      "quotedInTitle": false,
+      "sex": "male"
+    },
+    {
+      "age": -1,
+      "alternativeNames": [],
+      "birthday": null,
+      "descriptiveTexts": [
+        {
+          "text": "Aber die Idee hielt dem Kater stand – Abigail Morris, Aurora Nishevci, Emily Roberts, Georgia Davies und Lizzie Mayland wurden The Last Dinner Party."
+        },
+        {
+          "text": "Sängerin Abigail Morris trägt an diesem Abend ein Kleid, das aus dem Vintage-Mode-Markt nebenan stammen könnte."
+        },
+        {
+          "text": "In der Strophe eines Songs wirft sie ihre braunen Haare hin und her, die Augen geschlossen wie PJ Harvey, und schaut dann im Refrain auffordernd ins Publikum, fast so aufdringlich wie die Discokugel."
+        },
+        {
+          "text": "Als die Menge die ersten Zeilen eines anderen Songs mitsingt, lacht sie glucksend auf, wie jemand, der eben erkannt hat, dass sein Gegenüber in ihn verknallt ist."
+        },
+        {
+          "text": "Dass sie selbst für ein Revival – oder für das Revival eines Revivals – stehen, ist der Band offenbar bewusst, sagte Sängerin Morris vor Kurzem in einem Interview: »Ich gehe davon aus, dass wir Teil einer großen Renaissance sind.«"
+        }
+      ],
+      "directQuotes": [
+        {
+          "text": "Ich gehe davon aus, dass wir Teil einer großen Renaissance sind."
+        }
+      ],
+      "inIntro": false,
+      "inTitle": false,
+      "indirectQuotes": [],
+      "isMain": false,
+      "name": "Abigail Morris",
+      "occupations": [
+        {
+          "text": "Sängerin"
+        }
+      ],
+      "occurrences": {
+        "firstNameOnly": 0,
+        "fullName": 2,
+        "lastNameOnly": 1,
+        "total": 3
+      },
+      "quotedInIntro": false,
+      "quotedInTitle": false,
+      "sex": "female"
+    },
+    {
+      "age": -1,
+      "alternativeNames": [],
+      "birthday": null,
+      "descriptiveTexts": [
+        {
+          "text": "Aber die Idee hielt dem Kater stand – Abigail Morris, Aurora Nishevci, Emily Roberts, Georgia Davies und Lizzie Mayland wurden The Last Dinner Party."
+        }
+      ],
+      "directQuotes": [],
+      "inIntro": false,
+      "inTitle": false,
+      "indirectQuotes": [],
+      "isMain": false,
+      "name": "Aurora Nishevci",
+      "occupations": [],
+      "occurrences": {
+        "firstNameOnly": 0,
+        "fullName": 1,
+        "lastNameOnly": 0,
+        "total": 1
+      },
+      "quotedInIntro": false,
+      "quotedInTitle": false,
+      "sex": "female"
+    },
+    {
+      "age": -1,
+      "alternativeNames": [],
+      "birthday": null,
+      "descriptiveTexts": [
+        {
+          "text": "Aber die Idee hielt dem Kater stand – Abigail Morris, Aurora Nishevci, Emily Roberts, Georgia Davies und Lizzie Mayland wurden The Last Dinner Party."
+        }
+      ],
+      "directQuotes": [],
+      "inIntro": false,
+      "inTitle": false,
+      "indirectQuotes": [],
+      "isMain": false,
+      "name": "Emily Roberts",
+      "occupations": [],
+      "occurrences": {
+        "firstNameOnly": 0,
+        "fullName": 1,
+        "lastNameOnly": 0,
+        "total": 1
+      },
+      "quotedInIntro": false,
+      "quotedInTitle": false,
+      "sex": "female"
+    },
+    {
+      "age": -1,
+      "alternativeNames": [],
+      "birthday": null,
+      "descriptiveTexts": [
+        {
+          "text": "Aber die Idee hielt dem Kater stand – Abigail Morris, Aurora Nishevci, Emily Roberts, Georgia Davies und Lizzie Mayland wurden The Last Dinner Party."
+        }
+      ],
+      "directQuotes": [],
+      "inIntro": false,
+      "inTitle": false,
+      "indirectQuotes": [],
+      "isMain": false,
+      "name": "Georgia Davies",
+      "occupations": [],
+      "occurrences": {
+        "firstNameOnly": 0,
+        "fullName": 1,
+        "lastNameOnly": 0,
+        "total": 1
+      },
+      "quotedInIntro": false,
+      "quotedInTitle": false,
+      "sex": "female"
+    },
+    {
+      "age": -1,
+      "alternativeNames": [],
+      "birthday": null,
+      "descriptiveTexts": [
+        {
+          "text": "Aber die Idee hielt dem Kater stand – Abigail Morris, Aurora Nishevci, Emily Roberts, Georgia Davies und Lizzie Mayland wurden The Last Dinner Party."
+        }
+      ],
+      "directQuotes": [],
+      "inIntro": false,
+      "inTitle": false,
+      "indirectQuotes": [],
+      "isMain": false,
+      "name": "Lizzie Mayland",
+      "occupations": [],
+      "occurrences": {
+        "firstNameOnly": 0,
+        "fullName": 1,
+        "lastNameOnly": 0,
+        "total": 1
+      },
+      "quotedInIntro": false,
+      "quotedInTitle": false,
+      "sex": "male"
+    },
+    {
+      "age": -1,
+      "alternativeNames": [],
+      "birthday": null,
+      "descriptiveTexts": [
+        {
+          "text": "Ihre Instrumente sind aufgebaut zwischen einem Poster von PJ Harvey, der erhabenen englischen Songwriterin, die ihre Augen geschlossen hat, und einer Discokugel, die aufdringlich blendet."
+        },
+        {
+          "text": "In der Strophe eines Songs wirft sie ihre braunen Haare hin und her, die Augen geschlossen wie PJ Harvey, und schaut dann im Refrain auffordernd ins Publikum, fast so aufdringlich wie die Discokugel."
+        }
+      ],
+      "directQuotes": [],
+      "inIntro": false,
+      "inTitle": false,
+      "indirectQuotes": [],
+      "isMain": false,
+      "name": "PJ Harvey",
+      "occupations": [],
+      "occurrences": {
+        "firstNameOnly": 0,
+        "fullName": 2,
+        "lastNameOnly": 0,
+        "total": 2
+      },
+      "quotedInIntro": false,
+      "quotedInTitle": false,
+      "sex": "female"
+    },
+    {
+      "age": -1,
+      "alternativeNames": [],
+      "birthday": null,
+      "descriptiveTexts": [
+        {
+          "text": "Essayisten wie der US-Autor Chuck Klosterman oder der britische Musikjournalist Simon Reynolds gehen von einer Art 20-Jahre-Regel aus: Bestimmte Phänomene der Popkultur wiederholen sich alle zwei Jahrzehnte."
+        }
+      ],
+      "directQuotes": [],
+      "inIntro": false,
+      "inTitle": false,
+      "indirectQuotes": [],
+      "isMain": false,
+      "name": "Chuck Klosterman",
+      "occupations": [
+        {
+          "text": "Essayisten"
+        },
+        {
+          "text": "US-Autor"
+        }
+      ],
+      "occurrences": {
+        "firstNameOnly": 0,
+        "fullName": 1,
+        "lastNameOnly": 0,
+        "total": 1
+      },
+      "quotedInIntro": false,
+      "quotedInTitle": false,
+      "sex": "male"
+    },
+    {
+      "age": -1,
+      "alternativeNames": [],
+      "birthday": null,
+      "descriptiveTexts": [
+        {
+          "text": "Essayisten wie der US-Autor Chuck Klosterman oder der britische Musikjournalist Simon Reynolds gehen von einer Art 20-Jahre-Regel aus: Bestimmte Phänomene der Popkultur wiederholen sich alle zwei Jahrzehnte."
+        }
+      ],
+      "directQuotes": [],
+      "inIntro": false,
+      "inTitle": false,
+      "indirectQuotes": [],
+      "isMain": false,
+      "name": "Simon Reynolds",
+      "occupations": [
+        {
+          "text": "Musikjournalist"
+        }
+      ],
+      "occurrences": {
+        "firstNameOnly": 0,
+        "fullName": 1,
+        "lastNameOnly": 0,
+        "total": 1
+      },
+      "quotedInIntro": false,
+      "quotedInTitle": false,
+      "sex": "male"
+    },
+    {
+      "age": -1,
+      "alternativeNames": [],
+      "birthday": null,
+      "descriptiveTexts": [
+        {
+          "text": "In den Siebzigerjahren kamen die Fünfzigerjahre zurück, und John Travolta spielte im Fifties-Film »Grease«."
+        },
+        {
+          "text": "In den Neunzigerjahren dann die Siebzigerjahre, und »Grease«-Star Travolta hatte sein Comeback mit Tarantinos »Pulp Fiction«."
+        }
+      ],
+      "directQuotes": [],
+      "inIntro": false,
+      "inTitle": false,
+      "indirectQuotes": [],
+      "isMain": false,
+      "name": "John Travolta",
+      "occupations": [],
+      "occurrences": {
+        "firstNameOnly": 0,
+        "fullName": 1,
+        "lastNameOnly": 1,
+        "total": 2
+      },
+      "quotedInIntro": false,
+      "quotedInTitle": false,
+      "sex": "male"
+    },
+    {
+      "age": -1,
+      "alternativeNames": [],
+      "birthday": null,
+      "descriptiveTexts": [
+        {
+          "text": "Als niemand Taylor Swift kannte."
+        }
+      ],
+      "directQuotes": [],
+      "inIntro": false,
+      "inTitle": false,
+      "indirectQuotes": [],
+      "isMain": false,
+      "name": "Taylor Swift",
+      "occupations": [],
+      "occurrences": {
+        "firstNameOnly": 0,
+        "fullName": 1,
+        "lastNameOnly": 0,
+        "total": 1
+      },
+      "quotedInIntro": false,
+      "quotedInTitle": false,
+      "sex": "female"
+    }
+  ],
+  "subtopics": [
+    "Kultur",
+    "Musik",
+    "Fankultur"
+  ]
+}

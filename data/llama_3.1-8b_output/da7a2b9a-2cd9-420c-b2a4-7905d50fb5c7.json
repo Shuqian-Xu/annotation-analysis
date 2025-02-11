@@ -1,0 +1,1229 @@
+{
+    "persons": [
+        {
+            "name": "Matteo Salvini",
+            "alternativeNames": [],
+            "age": -1,
+            "sex": "male",
+            "occurences": {
+                "total": 1,
+                "firstNameOnly": 0,
+                "lastNameOnly": 0,
+                "fullName": 1,
+                "nickname": 0
+            },
+            "inTitle": false,
+            "inIntro": false,
+            "_name": {
+                "firstname": "Matteo",
+                "lastname": "Salvini",
+                "nickname": null,
+                "alternative_names": [],
+                "academic_title": null,
+                "nobility_title_or_rank": null
+            },
+            "descriptiveTexts": [
+                {
+                    "text": "Seine Freunde hei\u00dfen Narendra Modi, der indische Regierungschef, in Europa sind es der Ungar Viktor Orb\u00e1n oder der italienische Vize-Premier Matteo Salvini."
+                }
+            ],
+            "occupations": [
+                {
+                    "text": "Politiker"
+                }
+            ],
+            "directQuotes": [],
+            "quotedInTitle": false,
+            "quotedInIntro": false
+        },
+        {
+            "name": "Narendra Modi",
+            "alternativeNames": [],
+            "age": -1,
+            "sex": "male",
+            "occurences": {
+                "total": 1,
+                "firstNameOnly": 0,
+                "lastNameOnly": 0,
+                "fullName": 1,
+                "nickname": 0
+            },
+            "inTitle": false,
+            "inIntro": false,
+            "_name": {
+                "firstname": "Narendra",
+                "lastname": "Modi",
+                "nickname": null,
+                "alternative_names": [],
+                "academic_title": null,
+                "nobility_title_or_rank": null
+            },
+            "descriptiveTexts": [
+                {
+                    "text": "Seine Freunde hei\u00dfen Narendra Modi, der indische Regierungschef, in Europa sind es der Ungar Viktor Orb\u00e1n oder der italienische Vize-Premier Matteo Salvini."
+                }
+            ],
+            "occupations": [
+                {
+                    "text": "Politiker"
+                }
+            ],
+            "directQuotes": [],
+            "quotedInTitle": false,
+            "quotedInIntro": false
+        },
+        {
+            "name": "Bill Clinton",
+            "alternativeNames": [],
+            "age": -1,
+            "sex": "male",
+            "occurences": {
+                "total": 1,
+                "firstNameOnly": 0,
+                "lastNameOnly": 0,
+                "fullName": 1,
+                "nickname": 0
+            },
+            "inTitle": false,
+            "inIntro": false,
+            "_name": {
+                "firstname": "Bill",
+                "lastname": "Clinton",
+                "nickname": null,
+                "alternative_names": [],
+                "academic_title": null,
+                "nobility_title_or_rank": null
+            },
+            "descriptiveTexts": [
+                {
+                    "text": "Egal, ob er damit Bill Clinton zur Verzweiflung brachte, der irgendwann entgeistert fragte, wer hier eigentlich die Supermacht sei?"
+                }
+            ],
+            "occupations": [],
+            "directQuotes": [],
+            "quotedInTitle": false,
+            "quotedInIntro": false
+        },
+        {
+            "name": "Benzion Netanyahu",
+            "alternativeNames": [],
+            "age": 102,
+            "sex": "male",
+            "occurences": {
+                "total": 5,
+                "firstNameOnly": 2,
+                "lastNameOnly": 0,
+                "fullName": 3,
+                "nickname": 0
+            },
+            "inTitle": false,
+            "inIntro": false,
+            "_name": {
+                "firstname": "Benzion",
+                "lastname": "Netanyahu",
+                "nickname": null,
+                "alternative_names": [],
+                "academic_title": null,
+                "nobility_title_or_rank": null
+            },
+            "descriptiveTexts": [
+                {
+                    "text": "Mehr als ein Jahrzehnt sp\u00e4ter, 2010, an seinem hundertsten Geburtstag, wiederholt Benzion Netanyahu seine Einsch\u00e4tzung: Er habe immer an eine gro\u00dfe Zukunft seines Erstgeborenen geglaubt, aber nicht unbedingt an die seines mittleren, Benjamin."
+                },
+                {
+                    "text": "Benzion Netanyahu starb 2012 mit 102 Jahren, sein Leben lang war er Anh\u00e4nger der revisionistischen Ideologie des Zionisten Zeev Jabotinsky."
+                },
+                {
+                    "text": "Die liberalen Eliten der Aschkenasim, aus Europa stammende Juden wie er, die nach der Staatsgr\u00fcndung 1948 jahrzehntelang die Geschicke Israels lenkten, verachtete er: Sie verscherbelten das Land an die Araber, glaubte er."
+                },
+                {
+                    "text": "2012 stirbt Benzion Netanyahu mit 102."
+                },
+                {
+                    "text": "Er wird beerdigt auf dem Hamenuchot-Friedhof in Jerusalem."
+                },
+                {
+                    "text": "\u00bbDu warst wunderbar zu uns, Vater\u00ab, sagt er."
+                },
+                {
+                    "text": "\u00bbDu hast mich gelehrt, der Wirklichkeit ins Auge zu sehen und daraus die notwendigen Schl\u00fcsse zu ziehen.\u00ab"
+                }
+            ],
+            "occupations": [],
+            "directQuotes": [
+                {
+                    "text": "H\u00e4tte Yoni \u00fcberlebt, w\u00e4re er Staatsoberhaupt geworden, er hatte das Zeug dazu. Aber dass Bibi das werden w\u00fcrde, konnte ich mir nicht vorstellen."
+                }
+            ],
+            "quotedInTitle": false,
+            "quotedInIntro": false
+        },
+        {
+            "name": "Yitzhak Shamir",
+            "alternativeNames": [],
+            "age": -1,
+            "sex": "male",
+            "occurences": {
+                "total": 2,
+                "firstNameOnly": 1,
+                "lastNameOnly": 0,
+                "fullName": 1,
+                "nickname": 0
+            },
+            "inTitle": false,
+            "inIntro": false,
+            "_name": {
+                "firstname": "Yitzhak",
+                "lastname": "Shamir",
+                "nickname": null,
+                "alternative_names": [],
+                "academic_title": null,
+                "nobility_title_or_rank": null
+            },
+            "descriptiveTexts": [
+                {
+                    "text": "Und gegen denjenigen, der das mehr und mehr auch zu seiner Sache macht: der damalige Premier Yitzhak Rabin."
+                },
+                {
+                    "text": "Auf dem Staatsbegr\u00e4bnis sieht man einen tuschelnden Netanyahu mit schwarzer Kippa; als er Rabins Witwe Leah kondolieren will, verweigert sie ihm die Hand."
+                },
+                {
+                    "text": "Yitzhak Shamir, Netanyahus Vorg\u00e4nger als Likud-Chef, nannte ihn \u00bbEngel der Zerst\u00f6rung\u00ab."
+                }
+            ],
+            "occupations": [
+                {
+                    "text": "Politiker"
+                }
+            ],
+            "directQuotes": [],
+            "quotedInTitle": false,
+            "quotedInIntro": false
+        },
+        {
+            "name": "Zeev Jabotinsky",
+            "alternativeNames": [],
+            "age": -1,
+            "sex": "male",
+            "occurences": {
+                "total": 1,
+                "firstNameOnly": 0,
+                "lastNameOnly": 0,
+                "fullName": 1,
+                "nickname": 0
+            },
+            "inTitle": false,
+            "inIntro": false,
+            "_name": {
+                "firstname": "Zeev",
+                "lastname": "Jabotinsky",
+                "nickname": null,
+                "alternative_names": [],
+                "academic_title": null,
+                "nobility_title_or_rank": null
+            },
+            "descriptiveTexts": [
+                {
+                    "text": "Benzion Netanyahu starb 2012 mit 102 Jahren, sein Leben lang war er Anh\u00e4nger der revisionistischen Ideologie des Zionisten Zeev Jabotinsky."
+                }
+            ],
+            "occupations": [
+                {
+                    "text": "Zionist"
+                }
+            ],
+            "directQuotes": [
+                {
+                    "text": "Der Jordan hat zwei Ufer, das eine geh\u00f6rt uns, das andere auch"
+                }
+            ],
+            "quotedInTitle": false,
+            "quotedInIntro": false
+        },
+        {
+            "name": "Barack Obama",
+            "alternativeNames": [],
+            "age": -1,
+            "sex": "male",
+            "occurences": {
+                "total": 2,
+                "firstNameOnly": 0,
+                "lastNameOnly": 1,
+                "fullName": 1,
+                "nickname": 0
+            },
+            "inTitle": false,
+            "inIntro": false,
+            "_name": {
+                "firstname": "Barack",
+                "lastname": "Obama",
+                "nickname": null,
+                "alternative_names": [],
+                "academic_title": null,
+                "nobility_title_or_rank": null
+            },
+            "descriptiveTexts": [
+                {
+                    "text": "\u00bbWir denken immer, wir seien die besten, wir k\u00f6nnten alle manipulieren: Obama, Biden, einfach alle.\u00ab"
+                },
+                {
+                    "text": "Oder Barack Obama, der einst zu Nicolas Sarkozy sagte: \u00bbDu bist ihn leid, aber ich habe jeden Tag mit ihm zu tun.\u00ab"
+                }
+            ],
+            "occupations": [
+                {
+                    "text": "Politiker"
+                }
+            ],
+            "directQuotes": [],
+            "quotedInTitle": false,
+            "quotedInIntro": false
+        },
+        {
+            "name": "Avigdor Liberman",
+            "alternativeNames": [
+                "Netanyahu"
+            ],
+            "age": -1,
+            "sex": "male",
+            "occurences": {
+                "total": 7,
+                "firstNameOnly": 0,
+                "lastNameOnly": 4,
+                "fullName": 3,
+                "nickname": 0
+            },
+            "inTitle": false,
+            "inIntro": false,
+            "_name": {
+                "firstname": "Avigdor",
+                "lastname": "Liberman",
+                "nickname": null,
+                "alternative_names": [
+                    "Netanyahu"
+                ],
+                "academic_title": null,
+                "nobility_title_or_rank": null
+            },
+            "descriptiveTexts": [
+                {
+                    "text": "\u00bbWir haben jahrzehntelang das Falsche gemacht\u00ab, brummt Avigdor Liberman."
+                },
+                {
+                    "text": "Liberman ist Widersacher und Wegbegleiter Netanyahus in einem; er kann ihn nicht leiden und war politisch mit ihm doch immer verbandelt."
+                },
+                {
+                    "text": "\u00bbEr hat sich get\u00e4uscht in seinen Annahmen\u00ab, sagt Liberman und meint Netanyahus Conceptzia."
+                },
+                {
+                    "text": "Auf Russisch sagt man: Wenn du schie\u00dfen willst, schie\u00dfe."
+                },
+                {
+                    "text": "Fasst man Avigdor Libermans Anw\u00fcrfe zusammen, ist Netanyahu f\u00fcr ihn ein korrumpiertes Weichei."
+                },
+                {
+                    "text": "Liberman tickt da anders."
+                },
+                {
+                    "text": "Er h\u00e4lt den Zeitpunkt f\u00fcr gekommen, nicht nur mit der Hamas, sondern auch mit der Hisbollah an der Nordgrenze aufzur\u00e4umen."
+                },
+                {
+                    "text": "Daf\u00fcr sucht er Verb\u00fcndete, auch im Likud."
+                },
+                {
+                    "text": "Sie beginnen mit der Justiz."
+                },
+                {
+                    "text": "Die Israelis demonstrieren f\u00fcr ihre Demokratie, aber sie protestieren auch gegen ihn, gegen Benjamin Netanyahu, den diese Koalition wieder ins Amt gehoben hat."
+                },
+                {
+                    "text": "Als Netanyahu Avigdor Liberman 2009 zum Au\u00dfenminister machte, war ein extremeres Regierungsb\u00fcndnis schwer vorstellbar."
+                },
+                {
+                    "text": "Liberman galt als Rechtsau\u00dfen, er forderte Loyalit\u00e4tsbekenntnisse von den arabischen Staatsb\u00fcrgern Israels."
+                },
+                {
+                    "text": "Im Vergleich zu den Mitgliedern des aktuellen Kabinetts wirkt er wie ein grantelnder Gro\u00dfonkel."
+                },
+                {
+                    "text": "\u00bbBibi bleibt Bibi, er wird f\u00fcr sich k\u00e4mpfen bis zum letzten Atemzug.\u00ab"
+                }
+            ],
+            "occupations": [
+                {
+                    "text": "Politiker"
+                },
+                {
+                    "text": "Widersacher und Wegbegleiter Netanyahus"
+                }
+            ],
+            "directQuotes": [
+                {
+                    "text": "existenzielle Bedrohung"
+                },
+                {
+                    "text": "Wir haben jahrzehntelang das Falsche gemacht"
+                },
+                {
+                    "text": "Bibi bleibt Bibi, er wird f\u00fcr sich k\u00e4mpfen bis zum letzten Atemzug."
+                }
+            ],
+            "quotedInTitle": false,
+            "quotedInIntro": false
+        },
+        {
+            "name": "Benjamin Netanyahu",
+            "alternativeNames": [
+                "Mr. Bibi",
+                "Dr. Netanyahu"
+            ],
+            "age": 74,
+            "sex": "male",
+            "occurences": {
+                "total": 68,
+                "firstNameOnly": 1,
+                "lastNameOnly": 39,
+                "fullName": 16,
+                "nickname": 12
+            },
+            "inTitle": false,
+            "inIntro": true,
+            "_name": {
+                "firstname": "Benjamin",
+                "lastname": "Netanyahu",
+                "nickname": "Bibi",
+                "alternative_names": [
+                    "Mr. Bibi",
+                    "Dr. Netanyahu"
+                ],
+                "academic_title": null,
+                "nobility_title_or_rank": null
+            },
+            "descriptiveTexts": [
+                {
+                    "text": "Was hat Benjamin Netanyahu zu dem gemacht, was er heute ist?"
+                },
+                {
+                    "text": "Kein Kompliment, das Benjamin Netanyahu da von seinem Vater Benzion bekommt, denn zu diesem Zeitpunkt, im Jahr 1998, ist er bereits seit zwei Jahren Regierungschef in Jerusalem."
+                },
+                {
+                    "text": "Mehr als ein Jahrzehnt sp\u00e4ter, 2010, an seinem hundertsten Geburtstag, wiederholt Benzion Netanyahu seine Einsch\u00e4tzung: Er habe immer an eine gro\u00dfe Zukunft seines Erstgeborenen geglaubt, aber nicht unbedingt an die seines mittleren, Benjamin."
+                },
+                {
+                    "text": "\u00bbH\u00e4tte Yoni \u00fcberlebt, w\u00e4re er Staatsoberhaupt geworden, er hatte das Zeug dazu. Aber dass Bibi das werden w\u00fcrde, konnte ich mir nicht vorstellen.\u00ab"
+                },
+                {
+                    "text": "Yoni ist Yonatan, Benjamin Netanyahus \u00e4lterer Bruder, gefallen als Held bei der Geiselbefreiung von Entebbe 1976."
+                },
+                {
+                    "text": "Heute regiert er l\u00e4nger als Staatsgr\u00fcnder David Ben-Gurion."
+                },
+                {
+                    "text": "Benjamin Netanyahu wurde 1996 mit 46 Jahren zum ersten Mal Premier; er war Finanzminister, Au\u00dfenminister, Kommunikationsminister, Gesundheitsminister, Diasporaminister, Innenminister."
+                },
+                {
+                    "text": "Wer ist dieser Benjamin Netanyahu, der so m\u00e4chtig wurde, dass sein Name untrennbar mit seinem Land verkn\u00fcpft zu sein scheint?"
+                },
+                {
+                    "text": "Was hat ihn gepr\u00e4gt, geformt, und zu dem werden lassen, der er heute ist?"
+                },
+                {
+                    "text": "Der diesen blutigen Krieg im Gazastreifen auch im f\u00fcnften Monat augenscheinlich nicht enden lassen will, obwohl es fraglich ist, ob er sein Ziel, die Hamas zu vernichten, je erreicht?"
+                },
+                {
+                    "text": "Denn der Vater hat recht: Benjamin Netanyahu hat die Gabe, Menschen zu beeinflussen."
+                },
+                {
+                    "text": "Sein Blick auf die Welt hat das Israel der Gegenwart gepr\u00e4gt, seine \u00c4ngste, seine Vorstellungen haben sich eingegraben in die israelische Psyche \u2013 und er hat damit eine Wahl nach der anderen gewonnen."
+                },
+                {
+                    "text": "Bis heute steht er an der Spitze des kleinen Landes, scheinbar unger\u00fchrt."
+                },
+                {
+                    "text": "Man sieht ihm sein Alter jetzt manchmal an, bei seinen Auftritten wirkt er w\u00e4chsern, trotz Schminke, trotz sorgsamer Inszenierung."
+                },
+                {
+                    "text": "Benjamin Netanyahu hat immer schon die Erwartungen \u00fcbertroffen; nicht nur die seines Vaters."
+                },
+                {
+                    "text": "Er ist der Schachtelteufel der israelischen Politik."
+                },
+                {
+                    "text": "Sein Umfeld mag sich ver\u00e4ndern, er verschafft sich seinen Platz."
+                },
+                {
+                    "text": "Er ist nicht gl\u00e4ubig, zweimal geschieden, h\u00e4lt nicht koscher, aber l\u00e4sst die Ultraorthodoxen zur wichtigen politischen Kraft werden."
+                },
+                {
+                    "text": "Er galt als Kriegstreiber, der nie angreift."
+                },
+                {
+                    "text": "Und damit bleibt er auch immer: ein R\u00e4tsel."
+                },
+                {
+                    "text": "Bis heute blickt Benjamin Netanyahu, 74 Jahre alt, auf sein Land, auf die Welt wie sein Vater."
+                },
+                {
+                    "text": "In all den Jahren h\u00e4tte er abweichen k\u00f6nnen von dieser Matrix."
+                },
+                {
+                    "text": "Er h\u00e4tte sehen k\u00f6nnen, dass seine \u00bbConceptzia\u00ab \u2013 hebr\u00e4isch f\u00fcr sein politisches Konzept, den Konflikt mit den Pal\u00e4stinensern weiter zu managen, statt zu versuchen, ihn zu l\u00f6sen \u2013 die Werte Israels als Demokratie kompromittiert."
+                },
+                {
+                    "text": "Und w\u00e4hrend nun wieder \u00f6fter der Begriff der Zweistaatenl\u00f6sung f\u00e4llt und selbst Zyniker fragen, wie denn ein friedlicheres Dasein f\u00fcr Israelis und Pal\u00e4stinenser m\u00f6glich sein k\u00f6nne ohne territoriale Trennung, br\u00fcstet sich Netanyahu in regelm\u00e4\u00dfigen Abst\u00e4nden damit, dass nur er allein einen pal\u00e4stinensischen Staat verhindern k\u00f6nne."
+                },
+                {
+                    "text": "Nur er k\u00f6nne dem \u00bbbest of friends\u00ab in Washington entgegentreten und den Bef\u00fcrwortern der Zweistaatenl\u00f6sung auch mal Nein sagen."
+                },
+                {
+                    "text": "Um die Pal\u00e4stinenser als Verhandlungspartner auszuschalten, hat er jahrelang \u00fcber Bande durch Katar die Hamas im Gazastreifen finanziell unterst\u00fctzen lassen."
+                },
+                {
+                    "text": "\u00bbDas ist Teil unserer Strategie\u00ab, sagte er 2019 auf einem Parteitag seines rechtsnationalen Likud."
+                },
+                {
+                    "text": "Und er hat \u2013 wie eigentlich jeder israelische Premier \u2013 die Siedler unterst\u00fctzt, die Fakten schaffen, um jegliches \u00bbLand-f\u00fcr-Frieden\u00ab-Konzept unm\u00f6glich zu machen."
+                },
+                {
+                    "text": "\u00bbWenn hier jemand die Siedler attackiert, attackiert er damit einen Gro\u00dfteil der Menschen dieses Landes\u00ab, rief er bereits 1994 als aufstrebender Likud-Politiker von einem Podium."
+                },
+                {
+                    "text": "\u00bbEr muss weg.\u00ab"
+                },
+                {
+                    "text": "Wird er gehen?"
+                },
+                {
+                    "text": "An dieser Haltung hat sich bei Benjamin Netanyahu bis heute nichts ge\u00e4ndert."
+                },
+                {
+                    "text": "Manchmal justiert er seine Verhinderungstaktik, das Ziel bleibt gleich."
+                },
+                {
+                    "text": "Egal, ob er damit Bill Clinton zur Verzweiflung brachte, der irgendwann entgeistert fragte, wer hier eigentlich die Supermacht sei?"
+                },
+                {
+                    "text": "Er hoffe darauf, dass Trump im November wieder zum Pr\u00e4sidenten gew\u00e4hlt werde, bis dahin hei\u00dfe die Parole: durchhalten."
+                },
+                {
+                    "text": "Bereits als Sch\u00fcler zieht Benjamin Netanyahu mit der Familie in die USA, wo der Vater an verschiedenen Universit\u00e4ten lehrt."
+                },
+                {
+                    "text": "Der erwachsene Netanyahu pendelt lange zwischen Israel und den Vereinigten Staaten, mit 35 Jahren wird er der j\u00fcngste Uno-Botschafter, den sein Land je entsandte."
+                },
+                {
+                    "text": "Schon damals mag er die Weltorganisation nicht."
+                },
+                {
+                    "text": "\u00bbDie Uno ist kein besonders nettes Pl\u00e4tzchen\u00ab, sagt er zu Hause im Fernsehen."
+                },
+                {
+                    "text": "Er betr\u00fcgt seine erste Frau mit der zweiten und heiratet schlie\u00dflich ein drittes Mal: die Flugbegleiterin Sara Ben-Artzi."
+                },
+                {
+                    "text": "1994 ist er ein aufstrebender Oppositionspolitiker."
+                },
+                {
+                    "text": "Er f\u00fchrt den Parteienblock an."
+                },
+                {
+                    "text": "An einem Herbstabend 1995 steht er auf einem Balkon am Zionsplatz in Jerusalem, es ist dunkel, unter ihm skandiert eine aufgebrachte Menschenmenge \u00bbTod den Arabern\u00ab."
+                },
+                {
+                    "text": "Auf dem Staatsbegr\u00e4bnis sieht man einen tuschelnden Netanyahu mit schwarzer Kippa; als er Rabins Witwe Leah kondolieren will, verweigert sie ihm die Hand."
+                },
+                {
+                    "text": "Kein Jahr sp\u00e4ter wird Benjamin Netanyahu der j\u00fcngste Ministerpr\u00e4sident in der Geschichte Israels."
+                },
+                {
+                    "text": "Er steht f\u00fcr nichts von dem, wof\u00fcr Rabin stand."
+                },
+                {
+                    "text": "Es ist eines seiner fr\u00fchen Kunstst\u00fccke: Mit knappem Vorsprung gewinnt er gegen den Rabin-Nachfolger Shimon Peres."
+                },
+                {
+                    "text": "Immer wieder in seiner Karriere wird ihm das gelingen: Die Vorzeichen stehen gegen ihn, er gewinnt trotzdem."
+                },
+                {
+                    "text": "So was \u00fcberlebe nicht einmal er, habe sie gedacht."
+                },
+                {
+                    "text": "Aber Benjamin Netanyahu macht einfach weiter."
+                },
+                {
+                    "text": "Statt in seiner Jerusalemer Residenz regiert er jetzt meistens von der Kirja aus, dem Verteidigungsministerium in Tel Aviv."
+                },
+                {
+                    "text": "Auf Facebook postet er fast jeden Tag ein Video, wo er wiederholt, sein oberstes Kriegsziel bleibe es, die Hamas zu eliminieren."
+                },
+                {
+                    "text": "F\u00fcr viele ihrer Landsleute sei alles, was Bibi betreffe, schwarz oder wei\u00df, sagt die Biografin Mazal Mualem: \u00bbEr wird zu eindimensional gesehen.\u00ab"
+                },
+                {
+                    "text": "Es gebe immer etwas, um das er k\u00e4mpfe."
+                },
+                {
+                    "text": "Um was k\u00e4mpft er jetzt?"
+                },
+                {
+                    "text": "Es ist das \u00bbwir\u00ab gegen \u00bbdie\u00ab, das er seinen Anh\u00e4ngern lange genug eingetrichtert hat."
+                },
+                {
+                    "text": "Benjamin Netanyahu war Populist, als das noch nicht unbedingt ein Schimpfwort war."
+                },
+                {
+                    "text": "Er sch\u00fcrte Ressentiments gegen die Eliten, lange bevor das in gro\u00dfen Teilen der Welt als best practice galt."
+                },
+                {
+                    "text": "Noch in den USA beginnt er, seine Reden einzustudieren, l\u00e4sst sich daf\u00fcr schminken, f\u00fcr Portr\u00e4ts h\u00e4lt er die Seite in die Kamera, die den Schmiss an der Oberlippe kaschiert."
+                },
+                {
+                    "text": "Es gibt keinen Graben, den er nicht vertieft h\u00e4tte: zwischen Juden und Arabern, Religi\u00f6sen und S\u00e4kularen, zwischen Israelis und Juden, die nicht im Land leben, Misrachim und Aschkenasim."
+                },
+                {
+                    "text": "Den Pal\u00e4stinensern hat er nicht nur das Recht auf Selbstbestimmung abgesprochen; er hat ihnen jegliche Hoffnung darauf genommen."
+                },
+                {
+                    "text": "An jenem Morgen des 7. Oktober, als Hamas-K\u00e4mpfer in israelisches Territorium eindringen und zu morden beginnen, explodiert Benjamin Netanyahus Conzeptzia."
+                },
+                {
+                    "text": "Er trennt nicht mehr zwischen seinen Interessen und denen des Landes."
+                },
+                {
+                    "text": "Der Staat ist er, schon seit einer Weile."
+                },
+                {
+                    "text": "\u00bbEr hat sich get\u00e4uscht in seinen Annahmen\u00ab, sagt Liberman und meint Netanyahus Conceptzia."
+                },
+                {
+                    "text": "Die Israelis demonstrieren f\u00fcr ihre Demokratie, aber sie protestieren auch gegen ihn, gegen Benjamin Netanyahu, den diese Koalition wieder ins Amt gehoben hat."
+                },
+                {
+                    "text": "Angeklagt ist er seit 2019 in drei F\u00e4llen wegen Betrugs, Untreue und Bestechlichkeit."
+                },
+                {
+                    "text": "F\u00fcr viele Israelis ist er jetzt der Verr\u00e4ter."
+                },
+                {
+                    "text": "In seiner Grabrede bedankt sich Benjamin Netanyahu, Premierminister Israels, bei seinem Vater."
+                },
+                {
+                    "text": "\u00bbDu warst wunderbar zu uns, Vater\u00ab, sagt er."
+                }
+            ],
+            "occupations": [
+                {
+                    "text": "Politiker"
+                },
+                {
+                    "text": "Au\u00dfenminister"
+                },
+                {
+                    "text": "Regierungschef"
+                },
+                {
+                    "text": "Finanzminister"
+                },
+                {
+                    "text": "Populist"
+                }
+            ],
+            "directQuotes": [
+                {
+                    "text": "Das ist Teil unserer Strategie"
+                },
+                {
+                    "text": "Land-f\u00fcr-Frieden"
+                },
+                {
+                    "text": "Wenn hier jemand die Siedler attackiert, attackiert er damit einen Gro\u00dfteil der Menschen dieses Landes"
+                },
+                {
+                    "text": "Er muss weg."
+                },
+                {
+                    "text": "Die Uno ist kein besonders nettes Pl\u00e4tzchen"
+                },
+                {
+                    "text": "Du warst wunderbar zu uns, Vater"
+                },
+                {
+                    "text": "Du hast mich gelehrt, der Wirklichkeit ins Auge zu sehen und daraus die notwendigen Schl\u00fcsse zu ziehen."
+                }
+            ],
+            "quotedInTitle": false,
+            "quotedInIntro": true
+        },
+        {
+            "name": "Ehud Olmert",
+            "alternativeNames": [],
+            "age": 78,
+            "sex": "male",
+            "occurences": {
+                "total": 7,
+                "firstNameOnly": 0,
+                "lastNameOnly": 4,
+                "fullName": 3,
+                "nickname": 0
+            },
+            "inTitle": false,
+            "inIntro": false,
+            "_name": {
+                "firstname": "Ehud",
+                "lastname": "Olmert",
+                "nickname": null,
+                "alternative_names": [],
+                "academic_title": null,
+                "nobility_title_or_rank": null
+            },
+            "descriptiveTexts": [
+                {
+                    "text": "An einem warmen Wintertag sitzt Ehud Olmert, Premierminister Israels von 2006 bis 2009, in seinem B\u00fcro im Tel Aviver Zentrum."
+                },
+                {
+                    "text": "Es ist etwa ein Jahr her, dass Olmert 18.000 Dollar an die Familie Netanyahu \u00fcberweisen musste, weil er sie in Interviews als psychisch krank bezeichnet hatte."
+                },
+                {
+                    "text": "Das Geld sei es ihm wert gewesen, sagt er trocken und streckt die knochigen H\u00e4nde: \u00bbSpread the word!\u00ab, weitersagen!"
+                },
+                {
+                    "text": "Ehud Olmert tickte fr\u00fcher wie Netanyahu."
+                },
+                {
+                    "text": "Dann beerbte er 1993 Teddy Kollek im Jerusalemer Rathaus und sah dort in Miniatur, was sich auf den Rest des Landes \u00fcbertragen lie\u00df: Der pal\u00e4stinensische Osten der Stadt, wo Hunderttausende weitgehend verarmt ohne gro\u00dfe politische Rechte leben."
+                },
+                {
+                    "text": "\u00bbIch merkte schnell, dass das so nicht aufgehen konnte\u00ab, sagt Olmert."
+                },
+                {
+                    "text": "Nicht, weil ihm die Pal\u00e4stinenser leidtaten, sondern weil er Angst um den Wohlstand der j\u00fcdischen Israelis hatte."
+                },
+                {
+                    "text": "\u00bbIch glaube bis heute, dass alles westlich des Jordans unser Land ist\u00ab, sagt er."
+                },
+                {
+                    "text": "Nein, findet Ehud Olmert: Land abzutreten, sei nach wie vor das einzige Konzept, das Israels Existenz wirklich sichere."
+                },
+                {
+                    "text": "Olmerts Schlussfolgerung, seit Jahren: Die Conceptzia muss weg, ein pal\u00e4stinensischer Staat her."
+                },
+                {
+                    "text": "Bibi habe ihnen den Weg bereitet, sagt Olmert."
+                },
+                {
+                    "text": "\u00bbHabe ich gesagt, dass ich all Ihre Fragen beantworten kann?\u00ab"
+                }
+            ],
+            "occupations": [
+                {
+                    "text": "Politiker"
+                },
+                {
+                    "text": "Premierminister Israels von 2006 bis 2009"
+                }
+            ],
+            "directQuotes": [
+                {
+                    "text": "Ich merkte schnell, dass das so nicht aufgehen konnte"
+                },
+                {
+                    "text": "Aber wollen wir wirklich f\u00fcr immer darum k\u00e4mpfen? Ist es das wert?"
+                },
+                {
+                    "text": "Wir sind nicht die Allerkl\u00fcgsten, und wir sind nicht unverwundbar."
+                }
+            ],
+            "quotedInTitle": false,
+            "quotedInIntro": false
+        },
+        {
+            "name": "Viktor Orb\u00e1n",
+            "alternativeNames": [],
+            "age": -1,
+            "sex": "male",
+            "occurences": {
+                "total": 1,
+                "firstNameOnly": 0,
+                "lastNameOnly": 0,
+                "fullName": 1,
+                "nickname": 0
+            },
+            "inTitle": false,
+            "inIntro": false,
+            "_name": {
+                "firstname": "Viktor",
+                "lastname": "Orb\u00e1n",
+                "nickname": null,
+                "alternative_names": [],
+                "academic_title": null,
+                "nobility_title_or_rank": null
+            },
+            "descriptiveTexts": [
+                {
+                    "text": "Seine Freunde hei\u00dfen Narendra Modi, der indische Regierungschef, in Europa sind es der Ungar Viktor Orb\u00e1n oder der italienische Vize-Premier Matteo Salvini."
+                }
+            ],
+            "occupations": [
+                {
+                    "text": "Populist"
+                },
+                {
+                    "text": "Politiker"
+                }
+            ],
+            "directQuotes": [],
+            "quotedInTitle": false,
+            "quotedInIntro": false
+        },
+        {
+            "name": "David Ben-Gurion",
+            "alternativeNames": [],
+            "age": -1,
+            "sex": "male",
+            "occurences": {
+                "total": 1,
+                "firstNameOnly": 0,
+                "lastNameOnly": 0,
+                "fullName": 1,
+                "nickname": 0
+            },
+            "inTitle": false,
+            "inIntro": false,
+            "_name": {
+                "firstname": "David",
+                "lastname": "Ben-Gurion",
+                "nickname": null,
+                "alternative_names": [],
+                "academic_title": null,
+                "nobility_title_or_rank": null
+            },
+            "descriptiveTexts": [
+                {
+                    "text": "Heute regiert er l\u00e4nger als Staatsgr\u00fcnder David Ben-Gurion."
+                }
+            ],
+            "occupations": [
+                {
+                    "text": "Politiker"
+                },
+                {
+                    "text": "Staatsgr\u00fcnder"
+                }
+            ],
+            "directQuotes": [],
+            "quotedInTitle": false,
+            "quotedInIntro": false
+        },
+        {
+            "name": "Yitzhak Rabin",
+            "alternativeNames": [],
+            "age": -1,
+            "sex": "male",
+            "occurences": {
+                "total": 6,
+                "firstNameOnly": 1,
+                "lastNameOnly": 4,
+                "fullName": 1,
+                "nickname": 0
+            },
+            "inTitle": false,
+            "inIntro": false,
+            "_name": {
+                "firstname": "Yitzhak",
+                "lastname": "Rabin",
+                "nickname": null,
+                "alternative_names": [],
+                "academic_title": null,
+                "nobility_title_or_rank": null
+            },
+            "descriptiveTexts": [
+                {
+                    "text": "Und gegen denjenigen, der das mehr und mehr auch zu seiner Sache macht: der damalige Premier Yitzhak Rabin."
+                },
+                {
+                    "text": "Die Proteste sind gewaltig, Plakate zeigen Rabin als SS-F\u00fchrer oder mit Pal\u00e4stinensertuch um den Kopf gewickelt."
+                },
+                {
+                    "text": "Auf dem Staatsbegr\u00e4bnis sieht man einen tuschelnden Netanyahu mit schwarzer Kippa; als er Rabins Witwe Leah kondolieren will, verweigert sie ihm die Hand."
+                },
+                {
+                    "text": "Er steht f\u00fcr nichts von dem, wof\u00fcr Rabin stand."
+                },
+                {
+                    "text": "Es ist eines seiner fr\u00fchen Kunstst\u00fccke: Mit knappem Vorsprung gewinnt er gegen den Rabin-Nachfolger Shimon Peres."
+                },
+                {
+                    "text": "Yitzhak Shamir, Netanyahus Vorg\u00e4nger als Likud-Chef, nannte ihn \u00bbEngel der Zerst\u00f6rung\u00ab."
+                }
+            ],
+            "occupations": [
+                {
+                    "text": "Politiker"
+                }
+            ],
+            "directQuotes": [],
+            "quotedInTitle": false,
+            "quotedInIntro": false
+        },
+        {
+            "name": "Sara Ben-Artzi",
+            "alternativeNames": [
+                "Sara Netanyahu"
+            ],
+            "age": -1,
+            "sex": "female",
+            "occurences": {
+                "total": 4,
+                "firstNameOnly": 3,
+                "lastNameOnly": 0,
+                "fullName": 1,
+                "nickname": 0
+            },
+            "inTitle": false,
+            "inIntro": false,
+            "_name": {
+                "firstname": "Sara",
+                "lastname": "Ben-Artzi",
+                "nickname": null,
+                "alternative_names": [
+                    "Sara Netanyahu"
+                ],
+                "academic_title": null,
+                "nobility_title_or_rank": null
+            },
+            "descriptiveTexts": [
+                {
+                    "text": "Aber unter Netanyahus \u00c4gide wurden sie von einem geh\u00e4tschelten Randph\u00e4nomen zur bestimmenden politischen Kraft im Land."
+                },
+                {
+                    "text": "Es ist etwa ein Jahr her, dass Olmert 18.000 Dollar an die Familie Netanyahu \u00fcberweisen musste, weil er sie in Interviews als psychisch krank bezeichnet hatte."
+                },
+                {
+                    "text": "Er betr\u00fcgt seine erste Frau mit der zweiten und heiratet schlie\u00dflich ein drittes Mal: die Flugbegleiterin Sara Ben-Artzi."
+                },
+                {
+                    "text": "Auch sie wird von ihm betrogen, aber sie verl\u00e4sst ihn nicht, sondern bekommt zwei S\u00f6hne und weicht nicht mehr von seiner Seite."
+                },
+                {
+                    "text": "Ohne Bibi w\u00e4re Israel dem Untergang geweiht, glaubt Sara Netanyahu."
+                },
+                {
+                    "text": "Es gibt Homestorys aus dieser Zeit, den fr\u00fchen Neunzigern: Sara, die kocht, Bibi, der Zigarre raucht und Yair, der Sohn, der f\u00fcr seinen toten Onkel Yonatan Klavier spielt."
+                },
+                {
+                    "text": "Sein B\u00fcro schickt t\u00e4glich Mails mit Zitaten und Bildern: Netanyahu bei Soldaten auf einer Milit\u00e4rbasis, Sara und er bei einem Start-up, Netanyahu mit dem franz\u00f6sischen Au\u00dfenminister."
+                }
+            ],
+            "occupations": [],
+            "directQuotes": [],
+            "quotedInTitle": false,
+            "quotedInIntro": false
+        },
+        {
+            "name": "Yonatan Klavier",
+            "alternativeNames": [],
+            "age": -1,
+            "sex": "male",
+            "occurences": {
+                "total": 2,
+                "firstNameOnly": 1,
+                "lastNameOnly": 0,
+                "fullName": 1,
+                "nickname": 0
+            },
+            "inTitle": false,
+            "inIntro": false,
+            "_name": {
+                "firstname": "Yonatan",
+                "lastname": "Klavier",
+                "nickname": null,
+                "alternative_names": [],
+                "academic_title": null,
+                "nobility_title_or_rank": null
+            },
+            "descriptiveTexts": [
+                {
+                    "text": "\u00bbH\u00e4tte Yoni \u00fcberlebt, w\u00e4re er Staatsoberhaupt geworden, er hatte das Zeug dazu. Aber dass Bibi das werden w\u00fcrde, konnte ich mir nicht vorstellen.\u00ab"
+                },
+                {
+                    "text": "Yoni ist Yonatan, Benjamin Netanyahus \u00e4lterer Bruder, gefallen als Held bei der Geiselbefreiung von Entebbe 1976."
+                },
+                {
+                    "text": "Es gibt Homestorys aus dieser Zeit, den fr\u00fchen Neunzigern: Sara, die kocht, Bibi, der Zigarre raucht und Yair, der Sohn, der f\u00fcr seinen toten Onkel Yonatan Klavier spielt."
+                }
+            ],
+            "occupations": [],
+            "directQuotes": [],
+            "quotedInTitle": false,
+            "quotedInIntro": false
+        },
+        {
+            "name": "Nicolas Sarkozy",
+            "alternativeNames": [],
+            "age": -1,
+            "sex": "male",
+            "occurences": {
+                "total": 1,
+                "firstNameOnly": 0,
+                "lastNameOnly": 0,
+                "fullName": 1,
+                "nickname": 0
+            },
+            "inTitle": false,
+            "inIntro": false,
+            "_name": {
+                "firstname": "Nicolas",
+                "lastname": "Sarkozy",
+                "nickname": null,
+                "alternative_names": [],
+                "academic_title": null,
+                "nobility_title_or_rank": null
+            },
+            "descriptiveTexts": [
+                {
+                    "text": "Oder Barack Obama, der einst zu Nicolas Sarkozy sagte: \u00bbDu bist ihn leid, aber ich habe jeden Tag mit ihm zu tun.\u00ab"
+                }
+            ],
+            "occupations": [
+                {
+                    "text": "Politiker"
+                }
+            ],
+            "directQuotes": [],
+            "quotedInTitle": false,
+            "quotedInIntro": false
+        },
+        {
+            "name": "Teddy Kollek",
+            "alternativeNames": [],
+            "age": -1,
+            "sex": "male",
+            "occurences": {
+                "total": 1,
+                "firstNameOnly": 0,
+                "lastNameOnly": 0,
+                "fullName": 1,
+                "nickname": 0
+            },
+            "inTitle": false,
+            "inIntro": false,
+            "_name": {
+                "firstname": "Teddy",
+                "lastname": "Kollek",
+                "nickname": null,
+                "alternative_names": [],
+                "academic_title": null,
+                "nobility_title_or_rank": null
+            },
+            "descriptiveTexts": [
+                {
+                    "text": "Dann beerbte er 1993 Teddy Kollek im Jerusalemer Rathaus und sah dort in Miniatur, was sich auf den Rest des Landes \u00fcbertragen lie\u00df: Der pal\u00e4stinensische Osten der Stadt, wo Hunderttausende weitgehend verarmt ohne gro\u00dfe politische Rechte leben."
+                }
+            ],
+            "occupations": [
+                {
+                    "text": "Politiker"
+                }
+            ],
+            "directQuotes": [],
+            "quotedInTitle": false,
+            "quotedInIntro": false
+        },
+        {
+            "name": "Mazal Mualem",
+            "alternativeNames": [],
+            "age": -1,
+            "sex": "female",
+            "occurences": {
+                "total": 3,
+                "firstNameOnly": 3,
+                "lastNameOnly": 0,
+                "fullName": 0,
+                "nickname": 0
+            },
+            "inTitle": false,
+            "inIntro": false,
+            "_name": {
+                "firstname": "Mazal",
+                "lastname": "Muaelem",
+                "nickname": null,
+                "alternative_names": [],
+                "academic_title": null,
+                "nobility_title_or_rank": null
+            },
+            "descriptiveTexts": [
+                {
+                    "text": "\u00bbH\u00e4tten Sie mich im Oktober gefragt, ob das sein Ende ist, ich h\u00e4tte geantwortet: Mit Sicherheit!\u00ab"
+                },
+                {
+                    "text": "Mazal Mualem hebt die schlanken H\u00e4nde und die Brauen gleich mit."
+                },
+                {
+                    "text": "So was \u00fcberlebe nicht einmal er, habe sie gedacht."
+                },
+                {
+                    "text": "\u00bbHeute bin ich mir da nicht mehr so sicher\u00ab, sagt sie, Autorin der Biografie \u00bbDer Netanyahu Code\u00ab."
+                },
+                {
+                    "text": "Die Rufe nach seinem Abgang sind mal laut, mal ohrenbet\u00e4ubend, doch sie scheinen ihn, auch das wie gehabt, nicht \u00fcber Geb\u00fchr zu beeindrucken."
+                },
+                {
+                    "text": "F\u00fcr viele ihrer Landsleute sei alles, was Bibi betreffe, schwarz oder wei\u00df, sagt die Biografin Mazal Mualem: \u00bbEr wird zu eindimensional gesehen.\u00ab"
+                },
+                {
+                    "text": "Anders als einige ihrer m\u00e4nnlichen Kollegen, seziert sie Netanyahus Lebensleistung weitgehend unger\u00fchrt."
+                },
+                {
+                    "text": "Sie verteilen sich \u00fcber das gesamte politische Spektrum."
+                },
+                {
+                    "text": "Bittet man Mazal Mualem, Netanyahu in einem Satz zu charakterisieren, sagt sie: \u00bbBibi gibt nie auf.\u00ab"
+                },
+                {
+                    "text": "Sie glaubt, seine Basis habe sich bereits wieder konsolidiert."
+                }
+            ],
+            "occupations": [],
+            "directQuotes": [
+                {
+                    "text": "H\u00e4tten Sie mich im Oktober gefragt, ob das sein Ende ist, ich h\u00e4tte geantwortet: Mit Sicherheit!"
+                },
+                {
+                    "text": "Heute bin ich mir da nicht mehr so sicher"
+                },
+                {
+                    "text": "Er wird zu eindimensional gesehen."
+                }
+            ],
+            "quotedInTitle": false,
+            "quotedInIntro": false
+        },
+        {
+            "name": "Shimon Peres",
+            "alternativeNames": [],
+            "age": -1,
+            "sex": "male",
+            "occurences": {
+                "total": 1,
+                "firstNameOnly": 0,
+                "lastNameOnly": 0,
+                "fullName": 1,
+                "nickname": 0
+            },
+            "inTitle": false,
+            "inIntro": false,
+            "_name": {
+                "firstname": "Shimon",
+                "lastname": "Peres",
+                "nickname": null,
+                "alternative_names": [],
+                "academic_title": null,
+                "nobility_title_or_rank": null
+            },
+            "descriptiveTexts": [
+                {
+                    "text": "Es ist eines seiner fr\u00fchen Kunstst\u00fccke: Mit knappem Vorsprung gewinnt er gegen den Rabin-Nachfolger Shimon Peres."
+                },
+                {
+                    "text": "Monatelang brandmarkt er ihn als Verr\u00e4ter, der Jerusalem den Pal\u00e4stinensern \u00fcberlassen wolle."
+                }
+            ],
+            "occupations": [
+                {
+                    "text": "Politiker"
+                },
+                {
+                    "text": "Premierminister Israels"
+                }
+            ],
+            "directQuotes": [],
+            "quotedInTitle": false,
+            "quotedInIntro": false
+        },
+        {
+            "name": "Donald Trump",
+            "alternativeNames": [],
+            "age": -1,
+            "sex": "male",
+            "occurences": {
+                "total": 4,
+                "firstNameOnly": 0,
+                "lastNameOnly": 3,
+                "fullName": 1,
+                "nickname": 0
+            },
+            "inTitle": false,
+            "inIntro": false,
+            "_name": {
+                "firstname": "Donald",
+                "lastname": "Trump",
+                "nickname": null,
+                "alternative_names": [],
+                "academic_title": null,
+                "nobility_title_or_rank": null
+            },
+            "descriptiveTexts": [
+                {
+                    "text": "Ganz anders dagegen Donald Trump."
+                },
+                {
+                    "text": "\u00bbMauern funktionieren. Fragt Israel\u00ab, sagte Trump einmal."
+                },
+                {
+                    "text": "Auf Trump konzentriere sich nun auch Netanyahus Exitstrategie, glauben Beobachter."
+                },
+                {
+                    "text": "Er hoffe darauf, dass Trump im November wieder zum Pr\u00e4sidenten gew\u00e4hlt werde, bis dahin hei\u00dfe die Parole: durchhalten."
+                }
+            ],
+            "occupations": [
+                {
+                    "text": "Politiker"
+                }
+            ],
+            "directQuotes": [
+                {
+                    "text": "Du bist ihn leid, aber ich habe jeden Tag mit ihm zu tun."
+                }
+            ],
+            "quotedInTitle": false,
+            "quotedInIntro": false
+        },
+        {
+            "name": "Moshe Yaalon",
+            "alternativeNames": [],
+            "age": -1,
+            "sex": "male",
+            "occurences": {
+                "total": 1,
+                "firstNameOnly": 0,
+                "lastNameOnly": 0,
+                "fullName": 1,
+                "nickname": 0
+            },
+            "inTitle": false,
+            "inIntro": false,
+            "_name": {
+                "firstname": "Moshe",
+                "lastname": "Yaalon",
+                "nickname": null,
+                "alternative_names": [],
+                "academic_title": null,
+                "nobility_title_or_rank": null
+            },
+            "descriptiveTexts": [
+                {
+                    "text": "Moshe Yaalon, einst sein Verteidigungsminister und Generalstabschef eine \u00bbexistenzielle Bedrohung\u00ab."
+                }
+            ],
+            "occupations": [
+                {
+                    "text": "Politiker"
+                }
+            ],
+            "directQuotes": [],
+            "quotedInTitle": false,
+            "quotedInIntro": false
+        }
+    ]
+}

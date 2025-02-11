@@ -1,0 +1,935 @@
+{
+    "persons": [
+        {
+            "name": "Bobby Charlton",
+            "alternativeNames": [],
+            "age": -1,
+            "sex": "male",
+            "occurences": {
+                "total": 2,
+                "firstNameOnly": 0,
+                "lastNameOnly": 1,
+                "fullName": 1,
+                "nickname": 0
+            },
+            "inTitle": false,
+            "inIntro": false,
+            "_name": {
+                "firstname": "Bobby",
+                "lastname": "Charlton",
+                "nickname": null,
+                "alternative_names": [],
+                "academic_title": null,
+                "nobility_title_or_rank": null
+            },
+            "descriptiveTexts": [
+                {
+                    "text": "Im Finale von Wembley 1966 kreuzte er seinen Weg mit Bobby Charlton, damals waren die Rollen noch fest verteilt."
+                },
+                {
+                    "text": "Charlton war Seine Majest\u00e4t, Beckenbauer der Kronprinz."
+                }
+            ],
+            "occupations": [
+                {
+                    "text": "Seine Majest\u00e4t"
+                }
+            ],
+            "directQuotes": [],
+            "quotedInTitle": false,
+            "quotedInIntro": false
+        },
+        {
+            "name": "Andy Roxburgh",
+            "alternativeNames": [],
+            "age": -1,
+            "sex": "male",
+            "occurences": {
+                "total": 2,
+                "firstNameOnly": 1,
+                "lastNameOnly": 0,
+                "fullName": 1,
+                "nickname": 0
+            },
+            "inTitle": false,
+            "inIntro": false,
+            "_name": {
+                "firstname": "Andy",
+                "lastname": "Roxburgh",
+                "nickname": null,
+                "alternative_names": [],
+                "academic_title": null,
+                "nobility_title_or_rank": null
+            },
+            "descriptiveTexts": [
+                {
+                    "text": "Der fr\u00fchere schottische Teammanager Andy Roxburgh hat mal \u00fcber ihn gesagt, Beckenbauer sei der einzige Mensch, der nach oben fiele, wenn er aus dem Fenster springt."
+                },
+                {
+                    "text": "Andy Warhol malte ihm ein Portr\u00e4t, im Hotel am Central Park hielt er ein Schw\u00e4tzchen mit Liza Minnelli, Fu\u00dfball spielte er bei Cosmos New York mit dem gottgleichen Pel\u00e9 und dem Schlitzohr Giorgio Chinaglia."
+                }
+            ],
+            "occupations": [
+                {
+                    "text": "Beckenbauer sei der einzige Mensch, der nach oben fiele, wenn er aus dem Fenster springt"
+                },
+                {
+                    "text": "Teammanager"
+                }
+            ],
+            "directQuotes": [],
+            "quotedInTitle": false,
+            "quotedInIntro": false
+        },
+        {
+            "name": "Andy Warhol",
+            "alternativeNames": [],
+            "age": -1,
+            "sex": "male",
+            "occurences": {
+                "total": 2,
+                "firstNameOnly": 1,
+                "lastNameOnly": 0,
+                "fullName": 1,
+                "nickname": 0
+            },
+            "inTitle": false,
+            "inIntro": false,
+            "_name": {
+                "firstname": "Andy",
+                "lastname": "Warhol",
+                "nickname": null,
+                "alternative_names": [],
+                "academic_title": null,
+                "nobility_title_or_rank": null
+            },
+            "descriptiveTexts": [
+                {
+                    "text": "Der fr\u00fchere schottische Teammanager Andy Roxburgh hat mal \u00fcber ihn gesagt, Beckenbauer sei der einzige Mensch, der nach oben fiele, wenn er aus dem Fenster springt."
+                },
+                {
+                    "text": "Andy Warhol malte ihm ein Portr\u00e4t, im Hotel am Central Park hielt er ein Schw\u00e4tzchen mit Liza Minnelli, Fu\u00dfball spielte er bei Cosmos New York mit dem gottgleichen Pel\u00e9 und dem Schlitzohr Giorgio Chinaglia."
+                }
+            ],
+            "occupations": [],
+            "directQuotes": [],
+            "quotedInTitle": false,
+            "quotedInIntro": false
+        },
+        {
+            "name": "Mida",
+            "alternativeNames": [],
+            "age": -1,
+            "sex": "unknown",
+            "occurences": {
+                "total": 4,
+                "firstNameOnly": 0,
+                "lastNameOnly": 0,
+                "fullName": 4,
+                "nickname": 0
+            },
+            "inTitle": false,
+            "inIntro": false,
+            "_name": {
+                "firstname": null,
+                "lastname": null,
+                "nickname": null,
+                "alternative_names": [],
+                "academic_title": null,
+                "nobility_title_or_rank": null
+            },
+            "descriptiveTexts": [
+                {
+                    "text": "Was er anfasste, wurde zu Gold, er war mehr noch als K\u00f6nig Midas, er war Kaiser Midas."
+                },
+                {
+                    "text": "Aber so wie K\u00f6nig Midas irgendwann das Gold zum Verh\u00e4ngnis wurde, so lie\u00df den Kaiser Midas, das vom Schicksal gek\u00fcsste Gl\u00fcckskind aus Giesing, die Sonne im Stich."
+                }
+            ],
+            "occupations": [
+                {
+                    "text": "Kaiser Midas"
+                },
+                {
+                    "text": "Lichtgestalt"
+                },
+                {
+                    "text": "Chef des Organisationskomitees"
+                }
+            ],
+            "directQuotes": [],
+            "quotedInTitle": false,
+            "quotedInIntro": false
+        },
+        {
+            "name": "Uli Hoene\u00df",
+            "alternativeNames": [],
+            "age": -1,
+            "sex": "male",
+            "occurences": {
+                "total": 2,
+                "firstNameOnly": 0,
+                "lastNameOnly": 0,
+                "fullName": 2,
+                "nickname": 0
+            },
+            "inTitle": false,
+            "inIntro": false,
+            "_name": {
+                "firstname": "Uli",
+                "lastname": "Hoene\u00df",
+                "nickname": null,
+                "alternative_names": [],
+                "academic_title": null,
+                "nobility_title_or_rank": null
+            },
+            "descriptiveTexts": [
+                {
+                    "text": "Gerd M\u00fcller, selbst Uli Hoene\u00df, die h\u00e4tte man geknuddelt als Fan, aber doch nicht Franz Beckenbauer."
+                },
+                {
+                    "text": "Sein alter Weggef\u00e4hrte Uli Hoene\u00df hat Millionen an Steuern hinterzogen und ist daf\u00fcr ins Gef\u00e4ngnis gegangen."
+                }
+            ],
+            "occupations": [
+                {
+                    "text": "Pr\u00e4sident des FC Bayern"
+                }
+            ],
+            "directQuotes": [],
+            "quotedInTitle": false,
+            "quotedInIntro": false
+        },
+        {
+            "name": "Schwarzenbeck",
+            "alternativeNames": [],
+            "age": -1,
+            "sex": "male",
+            "occurences": {
+                "total": 1,
+                "firstNameOnly": 0,
+                "lastNameOnly": 0,
+                "fullName": 1,
+                "nickname": 0
+            },
+            "inTitle": false,
+            "inIntro": false,
+            "_name": {
+                "firstname": null,
+                "lastname": "Schwarzenbeck",
+                "nickname": null,
+                "alternative_names": [],
+                "academic_title": null,
+                "nobility_title_or_rank": null
+            },
+            "descriptiveTexts": [
+                {
+                    "text": "Seine H\u00f6flinge beim FC Bayern und in der Nationalmannschaft, seine Schwarzenbecks, erledigten derweil die Arbeit, Beckenbauer machte sich nicht gemein mit den Gr\u00e4tschern, W\u00fchlern und Rackerern."
+                }
+            ],
+            "occupations": [],
+            "directQuotes": [],
+            "quotedInTitle": false,
+            "quotedInIntro": false
+        },
+        {
+            "name": "Konrad Adenauer",
+            "alternativeNames": [],
+            "age": -1,
+            "sex": "male",
+            "occurences": {
+                "total": 2,
+                "firstNameOnly": 0,
+                "lastNameOnly": 0,
+                "fullName": 2,
+                "nickname": 0
+            },
+            "inTitle": false,
+            "inIntro": true,
+            "_name": {
+                "firstname": "Konrad",
+                "lastname": "Adenauer",
+                "nickname": null,
+                "alternative_names": [],
+                "academic_title": null,
+                "nobility_title_or_rank": null
+            },
+            "descriptiveTexts": [
+                {
+                    "text": "Er pr\u00e4gte die Bundesrepublik wie Konrad Adenauer und Willy Brandt."
+                },
+                {
+                    "text": "Er hat die Bundesrepublik gepr\u00e4gt wie Konrad Adenauer und Willy Brandt."
+                }
+            ],
+            "occupations": [
+                {
+                    "text": "hat die Bundesrepublik gepr\u00e4gt"
+                }
+            ],
+            "directQuotes": [],
+            "quotedInTitle": false,
+            "quotedInIntro": true
+        },
+        {
+            "name": "Knorr",
+            "alternativeNames": [],
+            "age": -1,
+            "sex": "unknown",
+            "occurences": {
+                "total": 1,
+                "firstNameOnly": 0,
+                "lastNameOnly": 0,
+                "fullName": 1,
+                "nickname": 0
+            },
+            "inTitle": false,
+            "inIntro": false,
+            "_name": {
+                "firstname": null,
+                "lastname": "Knorr",
+                "nickname": null,
+                "alternative_names": [],
+                "academic_title": null,
+                "nobility_title_or_rank": null
+            },
+            "descriptiveTexts": [
+                {
+                    "text": "Als Werbefigur hatte er damals schon l\u00e4ngst Kraft auf dem Tisch und Knorr im Teller."
+                }
+            ],
+            "occupations": [
+                {
+                    "text": "Knorr im Teller"
+                }
+            ],
+            "directQuotes": [],
+            "quotedInTitle": false,
+            "quotedInIntro": false
+        },
+        {
+            "name": "Robert Schwan",
+            "alternativeNames": [],
+            "age": -1,
+            "sex": "male",
+            "occurences": {
+                "total": 2,
+                "firstNameOnly": 0,
+                "lastNameOnly": 1,
+                "fullName": 1,
+                "nickname": 0
+            },
+            "inTitle": false,
+            "inIntro": false,
+            "_name": {
+                "firstname": "Robert",
+                "lastname": "Schwan",
+                "nickname": null,
+                "alternative_names": [],
+                "academic_title": null,
+                "nobility_title_or_rank": null
+            },
+            "descriptiveTexts": [
+                {
+                    "text": "Allen voran der unerm\u00fcdliche Robert Schwan, Berater, Vertrauter, Finanzjongleur Beckenbauers."
+                },
+                {
+                    "text": "Schwan schob f\u00fcr ihn hinter den Kulissen die Summen hin und her, Franz Beckenbauer genoss das Leben."
+                }
+            ],
+            "occupations": [
+                {
+                    "text": "Berater, Vertrauter, Finanzjongleur Beckenbauers"
+                }
+            ],
+            "directQuotes": [],
+            "quotedInTitle": false,
+            "quotedInIntro": false
+        },
+        {
+            "name": "Platini",
+            "alternativeNames": [],
+            "age": -1,
+            "sex": "male",
+            "occurences": {
+                "total": 1,
+                "firstNameOnly": 0,
+                "lastNameOnly": 0,
+                "fullName": 1,
+                "nickname": 0
+            },
+            "inTitle": false,
+            "inIntro": false,
+            "_name": {
+                "firstname": null,
+                "lastname": "Platini",
+                "nickname": null,
+                "alternative_names": [],
+                "academic_title": null,
+                "nobility_title_or_rank": null
+            },
+            "descriptiveTexts": [
+                {
+                    "text": "Und der, der \u00fcber allem schwebte, war pl\u00f6tzlich einer, der auch nicht viel besser war als all die anderen, die Blatters und Platinis."
+                }
+            ],
+            "occupations": [
+                {
+                    "text": "Platini"
+                }
+            ],
+            "directQuotes": [],
+            "quotedInTitle": false,
+            "quotedInIntro": false
+        },
+        {
+            "name": "Oskar Klose",
+            "alternativeNames": [],
+            "age": -1,
+            "sex": "male",
+            "occurences": {
+                "total": 1,
+                "firstNameOnly": 0,
+                "lastNameOnly": 0,
+                "fullName": 1,
+                "nickname": 0
+            },
+            "inTitle": false,
+            "inIntro": false,
+            "_name": {
+                "firstname": "Oskar",
+                "lastname": "Klose",
+                "nickname": null,
+                "alternative_names": [],
+                "academic_title": null,
+                "nobility_title_or_rank": null
+            },
+            "descriptiveTexts": [
+                {
+                    "text": "Beckenbauers Solospaziergang durch die englische Deckung beim Anschlusstreffer zum 1:2, dazu die langsam anschwellende Stimme des Livereporters Oskar Klose \u00bbBeckenbauer, Beckenbauer, Beckenbauer\u00ab."
+                }
+            ],
+            "occupations": [
+                {
+                    "text": "Livereporter"
+                }
+            ],
+            "directQuotes": [
+                {
+                    "text": "Beckenbauer, Beckenbauer, Beckenbauer"
+                }
+            ],
+            "quotedInTitle": false,
+            "quotedInIntro": false
+        },
+        {
+            "name": "Willy Brandt",
+            "alternativeNames": [],
+            "age": -1,
+            "sex": "male",
+            "occurences": {
+                "total": 2,
+                "firstNameOnly": 0,
+                "lastNameOnly": 0,
+                "fullName": 2,
+                "nickname": 0
+            },
+            "inTitle": false,
+            "inIntro": true,
+            "_name": {
+                "firstname": "Willy",
+                "lastname": "Brandt",
+                "nickname": null,
+                "alternative_names": [],
+                "academic_title": null,
+                "nobility_title_or_rank": null
+            },
+            "descriptiveTexts": [
+                {
+                    "text": "Er pr\u00e4gte die Bundesrepublik wie Konrad Adenauer und Willy Brandt."
+                },
+                {
+                    "text": "Er hat die Bundesrepublik gepr\u00e4gt wie Konrad Adenauer und Willy Brandt."
+                }
+            ],
+            "occupations": [
+                {
+                    "text": "hat die Bundesrepublik gepr\u00e4gt"
+                }
+            ],
+            "directQuotes": [],
+            "quotedInTitle": false,
+            "quotedInIntro": true
+        },
+        {
+            "name": "Spezln",
+            "alternativeNames": [],
+            "age": -1,
+            "sex": "unknown",
+            "occurences": {
+                "total": 1,
+                "firstNameOnly": 0,
+                "lastNameOnly": 0,
+                "fullName": 1,
+                "nickname": 0
+            },
+            "inTitle": false,
+            "inIntro": false,
+            "_name": {
+                "firstname": null,
+                "lastname": null,
+                "nickname": null,
+                "alternative_names": [],
+                "academic_title": null,
+                "nobility_title_or_rank": null
+            },
+            "descriptiveTexts": [
+                {
+                    "text": "Es gab daheim genug Freunde, Spezln zwischen Politik, Schickeria und Sport, die ihm das Problem aus der Welt schafften."
+                }
+            ],
+            "occupations": [],
+            "directQuotes": [],
+            "quotedInTitle": false,
+            "quotedInIntro": false
+        },
+        {
+            "name": "Gerd M\u00fcller",
+            "alternativeNames": [],
+            "age": -1,
+            "sex": "male",
+            "occurences": {
+                "total": 1,
+                "firstNameOnly": 0,
+                "lastNameOnly": 0,
+                "fullName": 1,
+                "nickname": 0
+            },
+            "inTitle": false,
+            "inIntro": false,
+            "_name": {
+                "firstname": "Gerd",
+                "lastname": "M\u00fcller",
+                "nickname": null,
+                "alternative_names": [],
+                "academic_title": null,
+                "nobility_title_or_rank": null
+            },
+            "descriptiveTexts": [
+                {
+                    "text": "Gerd M\u00fcller, selbst Uli Hoene\u00df, die h\u00e4tte man geknuddelt als Fan, aber doch nicht Franz Beckenbauer."
+                }
+            ],
+            "occupations": [],
+            "directQuotes": [],
+            "quotedInTitle": false,
+            "quotedInIntro": false
+        },
+        {
+            "name": "Giorgio Chinaglia",
+            "alternativeNames": [],
+            "age": -1,
+            "sex": "male",
+            "occurences": {
+                "total": 1,
+                "firstNameOnly": 0,
+                "lastNameOnly": 0,
+                "fullName": 1,
+                "nickname": 0
+            },
+            "inTitle": false,
+            "inIntro": false,
+            "_name": {
+                "firstname": "Giorgio",
+                "lastname": "Chinaglia",
+                "nickname": null,
+                "alternative_names": [],
+                "academic_title": null,
+                "nobility_title_or_rank": null
+            },
+            "descriptiveTexts": [
+                {
+                    "text": "Andy Warhol malte ihm ein Portr\u00e4t, im Hotel am Central Park hielt er ein Schw\u00e4tzchen mit Liza Minnelli, Fu\u00dfball spielte er bei Cosmos New York mit dem gottgleichen Pel\u00e9 und dem Schlitzohr Giorgio Chinaglia."
+                }
+            ],
+            "occupations": [
+                {
+                    "text": "Schlitzohr"
+                }
+            ],
+            "directQuotes": [],
+            "quotedInTitle": false,
+            "quotedInIntro": false
+        },
+        {
+            "name": "Franz Beckenbauer",
+            "alternativeNames": [],
+            "age": 78,
+            "sex": "male",
+            "occurences": {
+                "total": 35,
+                "firstNameOnly": 2,
+                "lastNameOnly": 21,
+                "fullName": 11,
+                "nickname": 1
+            },
+            "inTitle": false,
+            "inIntro": true,
+            "_name": {
+                "firstname": "Franz",
+                "lastname": "Beckenbauer",
+                "nickname": "Monsieur Nonchalance",
+                "alternative_names": [],
+                "academic_title": null,
+                "nobility_title_or_rank": "Kaiser"
+            },
+            "descriptiveTexts": [
+                {
+                    "text": "Franz Beckenbauer war viel mehr als ein Fu\u00dfballer."
+                },
+                {
+                    "text": "Er pr\u00e4gte die Bundesrepublik wie Konrad Adenauer und Willy Brandt."
+                },
+                {
+                    "text": "Eine Jahrhundertfigur aber bleibt er."
+                },
+                {
+                    "text": "Als Franz Beckenbauer 70 wurde, am 11. September 2015, hat die ARD ihm einen langen Film \u00fcber sein Leben gewidmet."
+                },
+                {
+                    "text": "\u00bbAlle Sonntage der Welt sind in mir vereint\u00ab, sagt Beckenbauer an einer Stelle in dem Film."
+                },
+                {
+                    "text": "Was er anfasste, wurde zu Gold, er war mehr noch als K\u00f6nig Midas, er war Kaiser Midas."
+                },
+                {
+                    "text": "Der fr\u00fchere schottische Teammanager Andy Roxburgh hat mal \u00fcber ihn gesagt, Beckenbauer sei der einzige Mensch, der nach oben fiele, wenn er aus dem Fenster springt."
+                },
+                {
+                    "text": "Beckenbauer, die Lichtgestalt, der Charmeur, der die Leichtigkeit des Seins immer an seiner Seite wusste."
+                },
+                {
+                    "text": "Franz Beckenbauer schwebt \u00fcber den Dingen."
+                },
+                {
+                    "text": "So war er schon als Fu\u00dfballer."
+                },
+                {
+                    "text": "Als Fu\u00dfballer war er einer der Besten."
+                },
+                {
+                    "text": "Nein, er war einer der Allerbesten."
+                },
+                {
+                    "text": "Wie er den Ball f\u00fchrte, aufrecht, wahrhaft majest\u00e4tisch, die Neuerfindung des Liberos."
+                },
+                {
+                    "text": "Er lief nicht \u00fcbers Feld, er schritt, er hielt Hof vor der Abwehr."
+                },
+                {
+                    "text": "Seine H\u00f6flinge beim FC Bayern und in der Nationalmannschaft, seine Schwarzenbecks, erledigten derweil die Arbeit, Beckenbauer machte sich nicht gemein mit den Gr\u00e4tschern, W\u00fchlern und Rackerern."
+                },
+                {
+                    "text": "Mit 20 war er bereits Nationalspieler, WM-Teilnehmer, Vizeweltmeister."
+                },
+                {
+                    "text": "Im Finale von Wembley 1966 kreuzte er seinen Weg mit Bobby Charlton, damals waren die Rollen noch fest verteilt."
+                },
+                {
+                    "text": "Charlton war Seine Majest\u00e4t, Beckenbauer der Kronprinz."
+                },
+                {
+                    "text": "Beckenbauers Solospaziergang durch die englische Deckung beim Anschlusstreffer zum 1:2, dazu die langsam anschwellende Stimme des Livereporters Oskar Klose \u00bbBeckenbauer, Beckenbauer, Beckenbauer\u00ab."
+                },
+                {
+                    "text": "Anschlie\u00dfend seine Rolle als leidender Schmerzensmann im epischen Halbfinale gegen Italien \u2013 Beckenbauer mit dem Arm in der Schlinge, der tapfer durchh\u00e4lt bis zum Schluss."
+                },
+                {
+                    "text": "Als Werbefigur hatte er damals schon l\u00e4ngst Kraft auf dem Tisch und Knorr im Teller."
+                },
+                {
+                    "text": "Seine Autobiografie, die er bereits 1975 auf den Markt brachte, hie\u00df \u00bbEiner wie ich\u00ab."
+                },
+                {
+                    "text": "Eigentlich h\u00e4tte sie hei\u00dfen m\u00fcssen: \u00bbKeiner wie ich\u00ab."
+                },
+                {
+                    "text": "Das Publikum auf den R\u00e4ngen betrachtete fast mit scheuer Ehrfurcht, was er dort auf dem Platz zelebrierte."
+                },
+                {
+                    "text": "Beckenbauer war einer aus dem Volk, aber er war keiner f\u00fcrs Volk."
+                },
+                {
+                    "text": "Gerd M\u00fcller, selbst Uli Hoene\u00df, die h\u00e4tte man geknuddelt als Fan, aber doch nicht Franz Beckenbauer."
+                },
+                {
+                    "text": "Er hat die Bundesrepublik gepr\u00e4gt"
+                },
+                {
+                    "text": "Selbst als er Weltmeister wurde, Europameister, dreimal nacheinander Europapokalsieger der Landesmeister, Deutscher Meister sowieso, da wusste jeder: Dieser Franz Beckenbauer ist mehr als ein \u00fcberragender Fu\u00dfballer, er ist eine gesellschaftliche Figur, eine Person der Zeitgeschichte."
+                },
+                {
+                    "text": "Er hat die Bundesrepublik gepr\u00e4gt wie Konrad Adenauer und Willy Brandt."
+                },
+                {
+                    "text": "Als h\u00e4tte er ihn sich selbst ausgesucht."
+                },
+                {
+                    "text": "Beckenbauer symbolisierte den Zeitgeist"
+                },
+                {
+                    "text": "Immer, wenn der Zeitgeist sich \u00e4nderte, war Beckenbauer schon da."
+                },
+                {
+                    "text": "Die leichtherzigen Siebzigerjahre, als alles m\u00f6glich schien \u2013 Beckenbauer schritt ihnen voran, wie ein Playboy lief er durch New York, ein Deutscher in New York, cooler konnte man sich das Leben nicht vorstellen."
+                },
+                {
+                    "text": "Andy Warhol malte ihm ein Portr\u00e4t, im Hotel am Central Park hielt er ein Schw\u00e4tzchen mit Liza Minnelli, Fu\u00dfball spielte er bei Cosmos New York mit dem gottgleichen Pel\u00e9 und dem Schlitzohr Giorgio Chinaglia."
+                },
+                {
+                    "text": "Der Weltb\u00fcrger Franz Beckenbauer."
+                },
+                {
+                    "text": "Dass er damals auch nach New York wechselte und Deutschland fast fluchtartig verlie\u00df, weil die deutsche Steuerfahndung ihm im Nacken sa\u00df, gab zwar ein paar unsch\u00f6ne Schlagzeilen."
+                },
+                {
+                    "text": "Allen voran der unerm\u00fcdliche Robert Schwan, Berater, Vertrauter, Finanzjongleur Beckenbauers."
+                },
+                {
+                    "text": "Schwan schob f\u00fcr ihn hinter den Kulissen die Summen hin und her, Franz Beckenbauer genoss das Leben."
+                },
+                {
+                    "text": "Fu\u00dfballerisch war seine Zeit beim HSV eher \u00fcberschaubar, Beckenbauer war h\u00e4ufiger in der Reha als auf dem Fu\u00dfballplatz, es wurde Zeit, seine Karriere zu beenden."
+                },
+                {
+                    "text": "In den Achtzigerjahren, als alles ernsthafter wurde, wurde aus dem Lebemann Beckenbauer der Trainer Beckenbauer, nat\u00fcrlich mit dem Erfolg im Gep\u00e4ck."
+                },
+                {
+                    "text": "Aus den Rumpelfu\u00dfballern der Zeit formte er eine Mannschaft, die 1990 allen in der Welt \u00fcberlegen war."
+                },
+                {
+                    "text": "Beckenbauer, \u00fcber den Rasen schreitend, nach dem Finaltriumph im Halbschatten des Olympiastadions von Rom, in sich gekehrt, wie ihn die \u00d6ffentlichkeit sonst nie sah."
+                },
+                {
+                    "text": "Franz Beckenbauer als Chef des Organisationskomitees, der Reisekaiser, der auch den Bundeskanzler und den Papst f\u00fcr seine Zwecke einspannt, der in der Fifa-Zentrale genauso ein und aus geht wie im Bundeskanzleramt und in der Bayerischen Staatskanzlei, die Bewerbung um die Ausrichtung der WM 2006 schien der H\u00f6hepunkt des beckenbauerschen Schaffens zu sein."
+                },
+                {
+                    "text": "Schlie\u00dflich war der Franz doch beteiligt."
+                },
+                {
+                    "text": "All jene, die sich irgendwann f\u00fcr so unangreifbar hielten, dass sie glaubten, machen zu d\u00fcrfen, was anderen verboten ist."
+                },
+                {
+                    "text": "Und man fragte sich: Warum hat er so etwas n\u00f6tig?"
+                },
+                {
+                    "text": "Blatter, okay, ein kleiner Empork\u00f6mmling, anf\u00e4llig f\u00fcr die Versuchungen der Macht, aber doch nicht der Kaiser, doch nicht der Franz."
+                },
+                {
+                    "text": "Doch, auch er."
+                },
+                {
+                    "text": "Danach ist er wieder Pr\u00e4sident des FC Bayern geworden, und es war fast so, als sei nichts gewesen."
+                },
+                {
+                    "text": "Beckenbauer dagegen hat viel mehr verloren."
+                },
+                {
+                    "text": "Sich den Anschein zu geben, sich im Dienst der Sache als One-Dollar-Man f\u00fcr die WM in Deutschland zu engagieren und in Wirklichkeit hintenrum Millionen zu kassieren \u2013 das ist das Schlimmste, was Franz Beckenbauer dem Image Franz Beckenbauers antun konnte."
+                },
+                {
+                    "text": "Von diesem Verlust hat er sich nicht mehr erholt."
+                },
+                {
+                    "text": "Aus dem Mann, der im ARD-Film sagt, \u00bbich war einer, der immer rausmuss\u00ab, heraus ans Licht, heraus in die \u00d6ffentlichkeit, wurde einer, der sich verkroch in sein Haus in Salzburg."
+                },
+                {
+                    "text": "Franz Beckenbauer starb am Sonntag im Alter von 78 Jahren."
+                }
+            ],
+            "occupations": [
+                {
+                    "text": "der Franz"
+                },
+                {
+                    "text": "Kaiser"
+                },
+                {
+                    "text": "Monsieur Nonchalance"
+                },
+                {
+                    "text": "eine gesellschaftliche Figur, eine Person der Zeitgeschichte"
+                },
+                {
+                    "text": "Weltmeister als Spieler, Weltmeister als Trainer"
+                },
+                {
+                    "text": "Trainer"
+                },
+                {
+                    "text": "ein sehr sch\u00f6ner Schein"
+                }
+            ],
+            "directQuotes": [
+                {
+                    "text": "Alle Sonntage der Welt sind in mir vereint"
+                },
+                {
+                    "text": "Einer wie ich"
+                }
+            ],
+            "quotedInTitle": false,
+            "quotedInIntro": true
+        },
+        {
+            "name": "Pel\u00e9",
+            "alternativeNames": [],
+            "age": -1,
+            "sex": "male",
+            "occurences": {
+                "total": 1,
+                "firstNameOnly": 0,
+                "lastNameOnly": 0,
+                "fullName": 1,
+                "nickname": 0
+            },
+            "inTitle": false,
+            "inIntro": false,
+            "_name": {
+                "firstname": null,
+                "lastname": "Pel\u00e9",
+                "nickname": null,
+                "alternative_names": [],
+                "academic_title": null,
+                "nobility_title_or_rank": null
+            },
+            "descriptiveTexts": [
+                {
+                    "text": "Andy Warhol malte ihm ein Portr\u00e4t, im Hotel am Central Park hielt er ein Schw\u00e4tzchen mit Liza Minnelli, Fu\u00dfball spielte er bei Cosmos New York mit dem gottgleichen Pel\u00e9 und dem Schlitzohr Giorgio Chinaglia."
+                }
+            ],
+            "occupations": [
+                {
+                    "text": "gottgleichen Pel\u00e9"
+                }
+            ],
+            "directQuotes": [],
+            "quotedInTitle": false,
+            "quotedInIntro": false
+        },
+        {
+            "name": "Liza Minnelli",
+            "alternativeNames": [],
+            "age": -1,
+            "sex": "female",
+            "occurences": {
+                "total": 1,
+                "firstNameOnly": 0,
+                "lastNameOnly": 0,
+                "fullName": 1,
+                "nickname": 0
+            },
+            "inTitle": false,
+            "inIntro": false,
+            "_name": {
+                "firstname": "Liza",
+                "lastname": "Minnelli",
+                "nickname": null,
+                "alternative_names": [],
+                "academic_title": null,
+                "nobility_title_or_rank": null
+            },
+            "descriptiveTexts": [
+                {
+                    "text": "Andy Warhol malte ihm ein Portr\u00e4t, im Hotel am Central Park hielt er ein Schw\u00e4tzchen mit Liza Minnelli, Fu\u00dfball spielte er bei Cosmos New York mit dem gottgleichen Pel\u00e9 und dem Schlitzohr Giorgio Chinaglia."
+                }
+            ],
+            "occupations": [
+                {
+                    "text": "Schw\u00e4tzchen"
+                }
+            ],
+            "directQuotes": [],
+            "quotedInTitle": false,
+            "quotedInIntro": false
+        },
+        {
+            "name": "Blatter",
+            "alternativeNames": [],
+            "age": -1,
+            "sex": "male",
+            "occurences": {
+                "total": 2,
+                "firstNameOnly": 0,
+                "lastNameOnly": 0,
+                "fullName": 2,
+                "nickname": 0
+            },
+            "inTitle": false,
+            "inIntro": false,
+            "_name": {
+                "firstname": null,
+                "lastname": "Blatter",
+                "nickname": null,
+                "alternative_names": [],
+                "academic_title": null,
+                "nobility_title_or_rank": null
+            },
+            "descriptiveTexts": [
+                {
+                    "text": "Und der, der \u00fcber allem schwebte, war pl\u00f6tzlich einer, der auch nicht viel besser war als all die anderen, die Blatters und Platinis."
+                },
+                {
+                    "text": "Blatter, okay, ein kleiner Empork\u00f6mmling, anf\u00e4llig f\u00fcr die Versuchungen der Macht, aber doch nicht der Kaiser, doch nicht der Franz."
+                }
+            ],
+            "occupations": [
+                {
+                    "text": "anf\u00e4llig f\u00fcr die Versuchungen der Macht"
+                },
+                {
+                    "text": "kleiner Empork\u00f6mmling"
+                }
+            ],
+            "directQuotes": [],
+            "quotedInTitle": false,
+            "quotedInIntro": false
+        },
+        {
+            "name": "Stephan",
+            "alternativeNames": [],
+            "age": -1,
+            "sex": "male",
+            "occurences": {
+                "total": 1,
+                "firstNameOnly": 0,
+                "lastNameOnly": 0,
+                "fullName": 1,
+                "nickname": 0
+            },
+            "inTitle": false,
+            "inIntro": false,
+            "_name": {
+                "firstname": "Stephan",
+                "lastname": null,
+                "nickname": null,
+                "alternative_names": [],
+                "academic_title": null,
+                "nobility_title_or_rank": null
+            },
+            "descriptiveTexts": [
+                {
+                    "text": "Ein schwerer Schicksalsschlag kommt hinzu: Der fr\u00fche Tod seines Sohnes Stephan f\u00e4llt in diese Zeit."
+                }
+            ],
+            "occupations": [
+                {
+                    "text": "Der fr\u00fche Tod seines Sohnes Stephan f\u00e4llt in diese Zeit."
+                }
+            ],
+            "directQuotes": [],
+            "quotedInTitle": false,
+            "quotedInIntro": false
+        }
+    ]
+}

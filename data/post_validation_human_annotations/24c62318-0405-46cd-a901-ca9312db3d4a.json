@@ -1,0 +1,975 @@
+{
+	"persons": [
+		{
+			"age": 48,
+			"alternativeNames": [],
+			"birthday": "12. Dezember 1885",
+			"descriptiveTexts": [
+				{
+					"text": "Am 12. Dezember 1933 brachte sie sich mit 48 Jahren in Kampen auf Sylt mit einer Überdosis Schlafmittel um."
+				},
+				{
+					"text": "Anita Rée war ein Shootingstar der Malerei."
+				},
+				{
+					"text": "Im Nationalsozialismus wurde ihre Kunst als »entartet« gebrandmarkt, sie als Jüdin bis zum Suizid drangsaliert."
+				},
+				{
+					"text": "Ihr Name verschwand aus dem Kunstkanon – wie ihr erging es zahlreichen jüdischen Kreativen."
+				},
+				{
+					"text": "In einem der Säle strahlte ein ortsansässiges Talent besonders hell: die Malerin Anita Rée."
+				},
+				{
+					"text": "Damals war sie Anfang dreißig und für einen Rezensenten eine der »starken Hoffnungen der jungen Hamburger Generation«."
+				},
+				{
+					"text": "Es blieb nicht bei der Hoffnung: Anita Rée erfüllte jahrelang alle Erwartungen."
+				},
+				{
+					"text": "Sie erfand in ihren Bildern ihre eigene Moderne, noch figurativ und ihrer Zeit doch voraus, oft nüchtern, manchmal fast surreal und immer berührend."
+				},
+				{
+					"text": "Dann bekam sie, die Tochter eines jüdischen Vaters, den wachsenden Antisemitismus zu spüren."
+				},
+				{
+					"text": "In einem Brief Anfang Dezember 1933 beklagte sie ihre »Einsamkeit in dieser dem Wahnsinn verfallenen Welt«, fragte, warum man an deren Grausamkeiten zugrunde gehen solle."
+				},
+				{
+					"text": "Nach ihrem Tod geriet sie weitgehend in Vergessenheit."
+				},
+				{
+					"text": "Erst 1986 widmete ihr eine Kunsthistorikerin eine Doktorarbeit und ein kleineres Hamburger Museum bald darauf eine Schau."
+				},
+				{
+					"text": "2017 wurde Rée endlich auch in einer großen Ausstellung der Hamburger Kunsthalle geehrt."
+				},
+				{
+					"text": "Sogar Romane über ihr Leben sind erschienen."
+				},
+				{
+					"text": "Aber bis heute ist ihr Ruhm nicht annähernd so groß, wie sie es verdient hätte."
+				},
+				{
+					"text": "Wie so viele wurde sie zuerst von den Nazis und in der Folge auch von den Kunstexperten der Nachkriegszeit aus dem kulturellen Gedächtnis gestrichen."
+				},
+				{
+					"text": "Unter ihnen ist auch Anita Rée."
+				},
+				{
+					"text": "Innerhalb der Avantgarde ging sie ihren eigenen faszinierenden Weg."
+				},
+				{
+					"text": "Deutlich wird das in jedem ihrer Werke, auch und gerade in den Selbstporträts."
+				},
+				{
+					"text": "Eines malte sie um 1911, sie war Mitte zwanzig."
+				},
+				{
+					"text": "Der Bildausschnitt ist eng, sie zeigt dem Betrachter ihr Gesicht aus der Nähe."
+				},
+				{
+					"text": "Umso intensiver ist die Wirkung ihres gleichermaßen skeptischen, melancholischen wie durchdringenden Blicks, der wie herangezoomt wirkt."
+				},
+				{
+					"text": "Wie aber kam die 1885 geborene Hamburger Kaufmannstochter Rée überhaupt zum Beruf der Malerin?"
+				},
+				{
+					"text": "Und wie war sie zu einer solchen Meisterin geworden, obwohl Frauen in Deutschland damals noch nicht einmal Akademien besuchen durften?"
+				},
+				{
+					"text": "Wer also war Anita Rée?"
+				},
+				{
+					"text": "Wer durfte sie dann nicht mehr sein?"
+				},
+				{
+					"text": "Ihre Mutter Anna Clara Hahn war in Venezuela geboren und großgezogen worden, laut Heiratsurkunde war sie katholisch, der Vater Eduard Israel Rée jüdisch."
+				},
+				{
+					"text": "Wie ihre ältere Schwester Emilie wurde Anita protestantisch getauft."
+				},
+				{
+					"text": "Von 1904 bis 1910 ließ sich das junge »Fräulein Rée« in der Malschule des Freiluftmalers Arthur Siebelist unterrichten."
+				},
+				{
+					"text": "Fotos zeigen diese Schülerin mit Hut, Bluse und langem Rock an der Staffelei in einem Garten."
+				},
+				{
+					"text": "Sie holte sich Rat beim erfolgreichen Maler Max Liebermann in Berlin, wandte sich schriftlich an Auguste Renoir, und traute sich 1912 für einige Wochen, womöglich auch Monate, nach Paris, bildete sich dort vielleicht weiter, vielleicht beim Kubisten Fernand Léger."
+				},
+				{
+					"text": "Man weiß wenig über diesen Aufenthalt in Frankreich, aber der künstlerische Aufbruchsgeist dort dürfte sie beeindruckt haben."
+				},
+				{
+					"text": "In Hamburg gehörte sie zu den ersten Mitgliedern der 1919 gegründeten Sezession, eine Gruppe von Künstlerinnen und Künstlern, die sich von der traditionellen Linie abspaltete und dafür sorgen wollte, dass sich auch in der Kaufmannsmetropole eine fortschrittliche Kulturszene etablierte."
+				},
+				{
+					"text": "Überhaupt schien Rée bei aller Zurückhaltung, die ihr offenbar wichtig war, bestens vernetzt in jenen Kreisen, die sich für Kunst interessierten."
+				},
+				{
+					"text": "Und natürlich lebte sie mit ihrer Karriere ein Leben, das für Frauen so nicht vorgesehen war, es gab für sie keine Schablone."
+				},
+				{
+					"text": "Das Glück fand sie in Süditalien"
+				},
+				{
+					"text": "Berufliches und Privates vermischten sich bei ihr wie bei vielen ihrer Kolleginnen und Kollegen."
+				},
+				{
+					"text": "In einem zu ihren Lebzeiten erschienenen Artikel im Magazin »Der Kreis« hieß es, der 1918 gefallene Maler Franz Nölten habe sie einst »wesentlich gefördert«."
+				},
+				{
+					"text": "An anderer Stelle ist die Rede davon, dass sie sich ebenfalls zu Frauen hingezogen fühlte und man das auch in ihren Bildern sehe."
+				},
+				{
+					"text": "Glücklich war sie zumindest eine ganze Zeit lang in Süditalien, drei Jahre lebte sie im kleinen Ort Positano an der Amalfiküste, der bei Künstlern beliebt war."
+				},
+				{
+					"text": "Im Spätsommer 1922 kam sie dort an, quartierte sich vergleichsweise bescheiden ein, hatte eine Beziehung mit ihrem Kollegen Christian Selle."
+				},
+				{
+					"text": "Sie malte während dieser Jahre wichtige Bilder, auch eines ihrer Hauptwerke, »Weiße Nussbäume«, das fast surreal anmutet."
+				},
+				{
+					"text": "»Ich möchte nie nach Deutschland zurück«, schrieb sie an eine Freundin."
+				},
+				{
+					"text": "Schließlich hielt sie doch nichts mehr in Positano, aber Italien hinterließ deutliche Spuren in ihrer Bilderwelt."
+				},
+				{
+					"text": "Und als Malerin wurde sie ja durchaus ernst genommen, von einigen zumindest."
+				},
+				{
+					"text": "Ein Kunstkritiker zählte ihre Werke zum Besten, »was in Deutschland z. Z. an neuerer Malerei gemacht wird«."
+				},
+				{
+					"text": "Für einen anderen war sie doch nur eine »echte frauliche Begabung«."
+				},
+				{
+					"text": "Aber alles in allem hatte sie sich einen gewissen Platz erobert, was für Künstlerinnen damals sehr viel schwerer war als für Künstler."
+				},
+				{
+					"text": "Aber dann zog ihr die sich verändernde gesellschaftliche Stimmung den Boden unter den Füßen weg."
+				},
+				{
+					"text": "Dass nationalistische und antisemitische Tendenzen in Deutschland stärker wurden, war für jeden zu erfassen, und Rée bekam früh zu spüren, dass sie auch persönlich gemeint war."
+				},
+				{
+					"text": "Eine nationalsozialistische Zeitung beschwerte sich Ende 1930 bei der Hamburger Landeskirche, dass der Auftrag für ein Altarbild an Rée gehen solle: »Als Nationalsozialisten könnten wir nicht verstehen, wie die Ausschmückung einer evangelischen Kirche an eine Jüdin vergeben werden kann.«"
+				},
+				{
+					"text": "In Briefen beklagte sie »tiefste verlassene Einsamkeit«"
+				},
+				{
+					"text": "Sie reiste nochmals nach Positano, zog Mitte 1932 nach Sylt, wohnte in bescheidenen Unterkünften."
+				},
+				{
+					"text": "In Briefen an Freundinnen und Freunde schilderte sie ihre Verzweiflung und ihre »tiefste verlassene Einsamkeit«."
+				},
+				{
+					"text": "Manchmal muss sie darüber nachgedacht haben, aus Deutschland wegzugehen, sie plante, so schrieb sie es auch, die ganze Welt ihre Heimat zu nennen."
+				},
+				{
+					"text": "Auf einer Reihe von gezeichneten Selbstporträts, die 1932 oder 1933 entstanden sind, wirkt sie ratlos, wie verschattet."
+				},
+				{
+					"text": "Einen geradezu irritierenden Kontrast dazu bilden die skizzenhaften kleinen Porträts, die sie von einer Freundin schuf, von der Sängerin und Tänzerin Lotte Burk."
+				},
+				{
+					"text": "Rée musste von Sylt aus beobachten, wie sich die Lage nach Hitlers Machtübernahme im Januar 1933 sofort zuspitzte, in der Gesellschaft und in der Kunst."
+				},
+				{
+					"text": "Im März 1933 sperrte der Hamburger Polizeipräsident eine Ausstellung der Sezession, warf ihr die »Förderung von Kulturbolschewismus« vor."
+				},
+				{
+					"text": "Als »artfremdes Mitglied« wurde Rée im April 1933 von der Hamburger Künstlerschaft ausgeschlossen."
+				},
+				{
+					"text": "Ob er einst, Jahrzehnte früher, in Paris dieselben Museen und Cafés besucht hatte wie Anita Rée?"
+				},
+				{
+					"text": "Wer die späten Porträts von Levy und Rée betrachtet, sein Ölbild, ihre Zeichnungen, sieht auch Todesangst."
+				}
+			],
+			"directQuotes": [
+				{
+					"text": "Einsamkeit in dieser dem Wahnsinn verfallenen Welt"
+				},
+				{
+					"text": "Ich möchte nie nach Deutschland zurück"
+				},
+				{
+					"text": "tiefste verlassene Einsamkeit"
+				}
+			],
+			"inIntro": true,
+			"inTitle": false,
+			"indirectQuotes": [
+				{
+					"text": "In einem Brief Anfang Dezember 1933 beklagte sie ihre »Einsamkeit in dieser dem Wahnsinn verfallenen Welt«, fragte, warum man an deren Grausamkeiten zugrunde gehen solle."
+				},
+				{
+					"text": "Manchmal muss sie darüber nachgedacht haben, aus Deutschland wegzugehen, sie plante, so schrieb sie es auch, die ganze Welt ihre Heimat zu nennen."
+				}
+			],
+			"isMain": true,
+			"name": "Anita Rée",
+			"occupations": [
+				{
+					"text": "Shootingstar der Malerei"
+				},
+				{
+					"text": "ortsansässiges Talent"
+				},
+				{
+					"text": "Malerin"
+				},
+				{
+					"text": "Hamburger Kaufmannstochter"
+				},
+				{
+					"text": "Meisterin"
+				},
+				{
+					"text": "Schülerin"
+				}
+			],
+			"occurrences": {
+				"firstNameOnly": 1,
+				"fullName": 6,
+				"lastNameOnly": 10,
+				"total": 17
+			},
+			"quotedInIntro": false,
+			"quotedInTitle": false,
+			"sex": "female"
+		},
+		{
+			"age": -1,
+			"alternativeNames": [],
+			"birthday": null,
+			"descriptiveTexts": [
+				{
+					"text": "In der pompösen Kunsthalle nahe der Alster war Malerei aus Privatbesitz zu sehen, darunter Gemälde von van Gogh und Picasso."
+				}
+			],
+			"directQuotes": [],
+			"inIntro": false,
+			"inTitle": false,
+			"indirectQuotes": [],
+			"isMain": false,
+			"name": "van Gogh",
+			"occupations": [],
+			"occurrences": {
+				"firstNameOnly": 0,
+				"fullName": 0,
+				"lastNameOnly": 1,
+				"total": 1
+			},
+			"quotedInIntro": false,
+			"quotedInTitle": false,
+			"sex": "male"
+		},
+		{
+			"age": -1,
+			"alternativeNames": [],
+			"birthday": null,
+			"descriptiveTexts": [
+				{
+					"text": "In der pompösen Kunsthalle nahe der Alster war Malerei aus Privatbesitz zu sehen, darunter Gemälde von van Gogh und Picasso."
+				}
+			],
+			"directQuotes": [],
+			"inIntro": false,
+			"inTitle": false,
+			"indirectQuotes": [],
+			"isMain": false,
+			"name": "Picasso",
+			"occupations": [],
+			"occurrences": {
+				"firstNameOnly": 0,
+				"fullName": 0,
+				"lastNameOnly": 1,
+				"total": 1
+			},
+			"quotedInIntro": false,
+			"quotedInTitle": false,
+			"sex": "male"
+		},
+		{
+			"age": -1,
+			"alternativeNames": [],
+			"birthday": null,
+			"descriptiveTexts": [
+				{
+					"text": "Ihre Mutter Anna Clara Hahn war in Venezuela geboren und großgezogen worden, laut Heiratsurkunde war sie katholisch, der Vater Eduard Israel Rée jüdisch."
+				},
+				{
+					"text": "Vielleicht war es eine Art Bekenntnis der Eltern zu der in Hamburg am stärksten verbreiteten Konfession."
+				}
+			],
+			"directQuotes": [],
+			"inIntro": false,
+			"inTitle": false,
+			"indirectQuotes": [],
+			"isMain": false,
+			"name": "Anna Clara Hahn",
+			"occupations": [
+				{
+					"text": "Mutter"
+				}
+			],
+			"occurrences": {
+				"firstNameOnly": 0,
+				"fullName": 1,
+				"lastNameOnly": 0,
+				"total": 1
+			},
+			"quotedInIntro": false,
+			"quotedInTitle": false,
+			"sex": "female"
+		},
+		{
+			"age": -1,
+			"alternativeNames": [],
+			"birthday": null,
+			"descriptiveTexts": [
+				{
+					"text": "Ihre Mutter Anna Clara Hahn war in Venezuela geboren und großgezogen worden, laut Heiratsurkunde war sie katholisch, der Vater Eduard Israel Rée jüdisch."
+				},
+				{
+					"text": "Vielleicht war es eine Art Bekenntnis der Eltern zu der in Hamburg am stärksten verbreiteten Konfession."
+				}
+			],
+			"directQuotes": [],
+			"inIntro": false,
+			"inTitle": false,
+			"indirectQuotes": [],
+			"isMain": false,
+			"name": "Eduard Israel Rée",
+			"occupations": [
+				{
+					"text": "Vater"
+				}
+			],
+			"occurrences": {
+				"firstNameOnly": 0,
+				"fullName": 1,
+				"lastNameOnly": 0,
+				"total": 1
+			},
+			"quotedInIntro": false,
+			"quotedInTitle": false,
+			"sex": "male"
+		},
+		{
+			"age": -1,
+			"alternativeNames": [],
+			"birthday": null,
+			"descriptiveTexts": [
+				{
+					"text": "Wie ihre ältere Schwester Emilie wurde Anita protestantisch getauft."
+				}
+			],
+			"directQuotes": [],
+			"inIntro": false,
+			"inTitle": false,
+			"indirectQuotes": [],
+			"isMain": false,
+			"name": "Emilie",
+			"occupations": [
+				{
+					"text": "ältere Schwester"
+				}
+			],
+			"occurrences": {
+				"firstNameOnly": 1,
+				"fullName": 0,
+				"lastNameOnly": 0,
+				"total": 1
+			},
+			"quotedInIntro": false,
+			"quotedInTitle": false,
+			"sex": "female"
+		},
+		{
+			"age": -1,
+			"alternativeNames": [],
+			"birthday": null,
+			"descriptiveTexts": [
+				{
+					"text": "Von 1904 bis 1910 ließ sich das junge »Fräulein Rée« in der Malschule des Freiluftmalers Arthur Siebelist unterrichten."
+				}
+			],
+			"directQuotes": [],
+			"inIntro": false,
+			"inTitle": false,
+			"indirectQuotes": [],
+			"isMain": false,
+			"name": "Arthur Siebelist",
+			"occupations": [
+				{
+					"text": "Freiluftmalers"
+				}
+			],
+			"occurrences": {
+				"firstNameOnly": 0,
+				"fullName": 1,
+				"lastNameOnly": 0,
+				"total": 1
+			},
+			"quotedInIntro": false,
+			"quotedInTitle": false,
+			"sex": "male"
+		},
+		{
+			"age": -1,
+			"alternativeNames": [],
+			"birthday": null,
+			"descriptiveTexts": [
+				{
+					"text": "Sie holte sich Rat beim erfolgreichen Maler Max Liebermann in Berlin, wandte sich schriftlich an Auguste Renoir, und traute sich 1912 für einige Wochen, womöglich auch Monate, nach Paris, bildete sich dort vielleicht weiter, vielleicht beim Kubisten Fernand Léger."
+				}
+			],
+			"directQuotes": [],
+			"inIntro": false,
+			"inTitle": false,
+			"indirectQuotes": [],
+			"isMain": false,
+			"name": "Max Liebermann",
+			"occupations": [
+				{
+					"text": "erfolgreichen Maler"
+				}
+			],
+			"occurrences": {
+				"firstNameOnly": 0,
+				"fullName": 1,
+				"lastNameOnly": 0,
+				"total": 1
+			},
+			"quotedInIntro": false,
+			"quotedInTitle": false,
+			"sex": "male"
+		},
+		{
+			"age": -1,
+			"alternativeNames": [],
+			"birthday": null,
+			"descriptiveTexts": [
+				{
+					"text": "Sie holte sich Rat beim erfolgreichen Maler Max Liebermann in Berlin, wandte sich schriftlich an Auguste Renoir, und traute sich 1912 für einige Wochen, womöglich auch Monate, nach Paris, bildete sich dort vielleicht weiter, vielleicht beim Kubisten Fernand Léger."
+				}
+			],
+			"directQuotes": [],
+			"inIntro": false,
+			"inTitle": false,
+			"indirectQuotes": [],
+			"isMain": false,
+			"name": "Auguste Renoir",
+			"occupations": [],
+			"occurrences": {
+				"firstNameOnly": 0,
+				"fullName": 1,
+				"lastNameOnly": 0,
+				"total": 1
+			},
+			"quotedInIntro": false,
+			"quotedInTitle": false,
+			"sex": "male"
+		},
+		{
+			"age": -1,
+			"alternativeNames": [],
+			"birthday": null,
+			"descriptiveTexts": [
+				{
+					"text": "Sie holte sich Rat beim erfolgreichen Maler Max Liebermann in Berlin, wandte sich schriftlich an Auguste Renoir, und traute sich 1912 für einige Wochen, womöglich auch Monate, nach Paris, bildete sich dort vielleicht weiter, vielleicht beim Kubisten Fernand Léger."
+				}
+			],
+			"directQuotes": [],
+			"inIntro": false,
+			"inTitle": false,
+			"indirectQuotes": [],
+			"isMain": false,
+			"name": "Fernand Léger",
+			"occupations": [
+				{
+					"text": "Kubisten"
+				}
+			],
+			"occurrences": {
+				"firstNameOnly": 0,
+				"fullName": 1,
+				"lastNameOnly": 0,
+				"total": 1
+			},
+			"quotedInIntro": false,
+			"quotedInTitle": false,
+			"sex": "male"
+		},
+		{
+			"age": -1,
+			"alternativeNames": [],
+			"birthday": null,
+			"descriptiveTexts": [
+				{
+					"text": "In einem zu ihren Lebzeiten erschienenen Artikel im Magazin »Der Kreis« hieß es, der 1918 gefallene Maler Franz Nölten habe sie einst »wesentlich gefördert«."
+				},
+				{
+					"text": "Immer mal wieder wird unerfüllte Liebe zu ihm angedeutet."
+				}
+			],
+			"directQuotes": [],
+			"inIntro": false,
+			"inTitle": false,
+			"indirectQuotes": [],
+			"isMain": false,
+			"name": "Franz Nölten",
+			"occupations": [
+				{
+					"text": "Maler"
+				}
+			],
+			"occurrences": {
+				"firstNameOnly": 0,
+				"fullName": 1,
+				"lastNameOnly": 0,
+				"total": 1
+			},
+			"quotedInIntro": false,
+			"quotedInTitle": false,
+			"sex": "male"
+		},
+		{
+			"age": -1,
+			"alternativeNames": [],
+			"birthday": null,
+			"descriptiveTexts": [
+				{
+					"text": "Im Spätsommer 1922 kam sie dort an, quartierte sich vergleichsweise bescheiden ein, hatte eine Beziehung mit ihrem Kollegen Christian Selle."
+				}
+			],
+			"directQuotes": [],
+			"inIntro": false,
+			"inTitle": false,
+			"indirectQuotes": [],
+			"isMain": false,
+			"name": "Christian Selle",
+			"occupations": [
+				{
+					"text": "Kollegen"
+				}
+			],
+			"occurrences": {
+				"firstNameOnly": 0,
+				"fullName": 1,
+				"lastNameOnly": 0,
+				"total": 1
+			},
+			"quotedInIntro": false,
+			"quotedInTitle": false,
+			"sex": "male"
+		},
+		{
+			"age": -1,
+			"alternativeNames": [],
+			"birthday": null,
+			"descriptiveTexts": [
+				{
+					"text": "Einen geradezu irritierenden Kontrast dazu bilden die skizzenhaften kleinen Porträts, die sie von einer Freundin schuf, von der Sängerin und Tänzerin Lotte Burk."
+				},
+				{
+					"text": "Man sieht deren lachendes Gesicht im Profil."
+				},
+				{
+					"text": "Für Burk brachte die neue Zeit offenbar keine Einschränkungen, sie kam auch während der Nazijahre an, tourte später auch im Auftrag der Wehrmacht durchs besetzte Norwegen."
+				}
+			],
+			"directQuotes": [],
+			"inIntro": false,
+			"inTitle": false,
+			"indirectQuotes": [],
+			"isMain": false,
+			"name": "Lotte Burk",
+			"occupations": [
+				{
+					"text": "Sängerin"
+				},
+				{
+					"text": "Tänzerin"
+				}
+			],
+			"occurrences": {
+				"firstNameOnly": 0,
+				"fullName": 1,
+				"lastNameOnly": 1,
+				"total": 2
+			},
+			"quotedInIntro": false,
+			"quotedInTitle": false,
+			"sex": "female"
+		},
+		{
+			"age": -1,
+			"alternativeNames": [],
+			"birthday": null,
+			"descriptiveTexts": [
+				{
+					"text": "Maler Emil Nolde diente sich den Nazis an"
+				},
+				{
+					"text": "Mancher expressionistisch arbeitende Künstler wollte sich noch den neuen Machthabern anbiedern."
+				},
+				{
+					"text": "Etwa der Maler Emil Nolde, der zwar modern gemalt hatte, aber glühender Anhänger der Nazis war und extrem antisemitisch, er verfasste 1933 einen »Entjudungsplan«, den er an Hitler adressieren wollte."
+				},
+				{
+					"text": "Allerdings griff man dabei vor allem auf Leute wie Nolde zurück und machte zugleich einen weiten Bogen um jene, die ausgestoßen, verfolgt und ermordet worden waren."
+				}
+			],
+			"directQuotes": [],
+			"inIntro": false,
+			"inTitle": false,
+			"indirectQuotes": [],
+			"isMain": false,
+			"name": "Emil Nolde",
+			"occupations": [
+				{
+					"text": "Maler"
+				},
+				{
+					"text": "glühender Anhänger der Nazis"
+				}
+			],
+			"occurrences": {
+				"firstNameOnly": 0,
+				"fullName": 2,
+				"lastNameOnly": 1,
+				"total": 3
+			},
+			"quotedInIntro": false,
+			"quotedInTitle": false,
+			"sex": "male"
+		},
+		{
+			"age": -1,
+			"alternativeNames": [],
+			"birthday": null,
+			"descriptiveTexts": [
+				{
+					"text": "Rée musste von Sylt aus beobachten, wie sich die Lage nach Hitlers Machtübernahme im Januar 1933 sofort zuspitzte, in der Gesellschaft und in der Kunst."
+				},
+				{
+					"text": "Etwa der Maler Emil Nolde, der zwar modern gemalt hatte, aber glühender Anhänger der Nazis war und extrem antisemitisch, er verfasste 1933 einen »Entjudungsplan«, den er an Hitler adressieren wollte."
+				},
+				{
+					"text": "Ebenfalls in München, in seinem neuen »Haus der Deutschen Kunst«, ließ Hitler jedes Jahr solche Werke auffahren, die seinem Geschmack entsprachen."
+				}
+			],
+			"directQuotes": [],
+			"inIntro": false,
+			"inTitle": false,
+			"indirectQuotes": [],
+			"isMain": false,
+			"name": "Hitler",
+			"occupations": [],
+			"occurrences": {
+				"firstNameOnly": 0,
+				"fullName": 0,
+				"lastNameOnly": 1,
+				"total": 1
+			},
+			"quotedInIntro": false,
+			"quotedInTitle": false,
+			"sex": "male"
+		},
+		{
+			"age": -1,
+			"alternativeNames": [],
+			"birthday": null,
+			"descriptiveTexts": [
+				{
+					"text": "Viele jüngere Maler entdeckten die Abstraktion wieder, der Neoexpressionismus eines Georg Baselitz oder Markus Lüpertz wurde zur wichtigen Strömung in Deutschland."
+				}
+			],
+			"directQuotes": [],
+			"inIntro": false,
+			"inTitle": false,
+			"indirectQuotes": [],
+			"isMain": false,
+			"name": "Georg Baselitz",
+			"occupations": [],
+			"occurrences": {
+				"firstNameOnly": 0,
+				"fullName": 1,
+				"lastNameOnly": 0,
+				"total": 1
+			},
+			"quotedInIntro": false,
+			"quotedInTitle": false,
+			"sex": "male"
+		},
+		{
+			"age": -1,
+			"alternativeNames": [],
+			"birthday": null,
+			"descriptiveTexts": [
+				{
+					"text": "Viele jüngere Maler entdeckten die Abstraktion wieder, der Neoexpressionismus eines Georg Baselitz oder Markus Lüpertz wurde zur wichtigen Strömung in Deutschland."
+				}
+			],
+			"directQuotes": [],
+			"inIntro": false,
+			"inTitle": false,
+			"indirectQuotes": [],
+			"isMain": false,
+			"name": "Markus Lüpertz",
+			"occupations": [],
+			"occurrences": {
+				"firstNameOnly": 0,
+				"fullName": 1,
+				"lastNameOnly": 0,
+				"total": 1
+			},
+			"quotedInIntro": false,
+			"quotedInTitle": false,
+			"sex": "male"
+		},
+		{
+			"age": -1,
+			"alternativeNames": [],
+			"birthday": null,
+			"descriptiveTexts": [
+				{
+					"text": "Doch bis auf Marc Chagall waren keine jüdischen Künstler vertreten."
+				}
+			],
+			"directQuotes": [],
+			"inIntro": false,
+			"inTitle": false,
+			"indirectQuotes": [],
+			"isMain": false,
+			"name": "Marc Chagall",
+			"occupations": [
+				{
+					"text": "jüdischen Künstler"
+				}
+			],
+			"occurrences": {
+				"firstNameOnly": 0,
+				"fullName": 1,
+				"lastNameOnly": 0,
+				"total": 1
+			},
+			"quotedInIntro": false,
+			"quotedInTitle": false,
+			"sex": "male"
+		},
+		{
+			"age": -1,
+			"alternativeNames": [],
+			"birthday": null,
+			"descriptiveTexts": [
+				{
+					"text": "Auch der für die Auswahl der Werke für die Documenta zuständige Kunsthistoriker Werner Haftmann war ein ehemaliger SA-Mann, der in Italien wohl Kriegsverbrechen begangen hatte."
+				},
+				{
+					"text": "In Deutschland galt er in den Fünfzigerjahren als der Wiederentdecker und Retter der frühen Avantgarde."
+				},
+				{
+					"text": "Seinen alten Einstellungen blieb er offenbar treu: In einem seiner Bücher zur Malerei sortierte er kurzerhand alle jüdischen Künstler aus der Moderne aus: »Die moderne Kunst wurde als jüdische Erfindung zur Zersetzung des »nordischen Geistes« erklärt, obwohl nicht ein einziger der deutschen modernen Maler Jude war.«"
+				},
+				{
+					"text": "Er wusste es besser, warum also schrieb er das?"
+				},
+				{
+					"text": "Warum ließ er selbst die Werke jener beiden verfolgten Künstler auf der Documenta von 1955 nicht vorkommen, über die anfangs offenbar diskutiert wurde?"
+				},
+				{
+					"text": "In Florenz, wo er seit 1940 lebte, könnte er sogar Documenta-Macher Haftmann begegnet sein."
+				},
+				{
+					"text": "Der wusste von Levys Ermordung, nannte ihn aber später »verschollen«."
+				}
+			],
+			"directQuotes": [
+				{
+					"text": "Die moderne Kunst wurde als jüdische Erfindung zur Zersetzung des »nordischen Geistes« erklärt, obwohl nicht ein einziger der deutschen modernen Maler Jude war."
+				}
+			],
+			"inIntro": false,
+			"inTitle": false,
+			"indirectQuotes": [],
+			"isMain": true,
+			"name": "Werner Haftmann",
+			"occupations": [
+				{
+					"text": "Kunsthistoriker"
+				},
+				{
+					"text": "ehemaliger SA-Mann"
+				},
+				{
+					"text": "Wiederentdecker und Retter der frühen Avantgarde"
+				},
+				{
+					"text": "Documenta-Macher"
+				}
+			],
+			"occurrences": {
+				"firstNameOnly": 0,
+				"fullName": 1,
+				"lastNameOnly": 1,
+				"total": 2
+			},
+			"quotedInIntro": false,
+			"quotedInTitle": false,
+			"sex": "male"
+		},
+		{
+			"age": -1,
+			"alternativeNames": [],
+			"birthday": null,
+			"descriptiveTexts": [
+				{
+					"text": "Otto Freundlich strich man in Kassel von der Vorschlagliste."
+				}
+			],
+			"directQuotes": [],
+			"inIntro": false,
+			"inTitle": false,
+			"indirectQuotes": [],
+			"isMain": false,
+			"name": "Otto Freundlich",
+			"occupations": [],
+			"occurrences": {
+				"firstNameOnly": 0,
+				"fullName": 1,
+				"lastNameOnly": 0,
+				"total": 1
+			},
+			"quotedInIntro": false,
+			"quotedInTitle": false,
+			"sex": "male"
+		},
+		{
+			"age": 68,
+			"alternativeNames": [],
+			"birthday": null,
+			"descriptiveTexts": [
+				{
+					"text": "Levy war schließlich sogar Experten für die Kunst des 20. Jahrhunderts kein Begriff mehr."
+				},
+				{
+					"text": "Rudolf Levy hatte es nur in eine vorläufige Auswahl geschafft."
+				},
+				{
+					"text": "Ins Bewusstsein kehrte er erst durch die Ausstellung im Deutschen Historischen Museum 2021 zurück."
+				},
+				{
+					"text": "2023 gab es endlich eine erste Retrospektive seiner Kunst, für diese kooperierten die Uffizien in Florenz mit der Pfalzgalerie in Kaiserslautern."
+				},
+				{
+					"text": "Im Ankündigungstext hieß es, zwar besäßen viele Museen Werke dieses »Magiers der Farbe«."
+				},
+				{
+					"text": "Doch sei er »im Kanon der Moderne so gut wie nicht mehr präsent«."
+				},
+				{
+					"text": "Der Pfalzgalerie gehört jenes eindringliche Selbstporträt, das Levy kurz vor seiner Verhaftung durch die Gestapo schuf."
+				},
+				{
+					"text": "Das war im Dezember 1943 in Florenz, Levy wurde in Mailand interniert, dann deportierte man den 68-Jährigen nach Auschwitz."
+				},
+				{
+					"text": "Sein genaues Todesdatum ist nicht bekannt."
+				},
+				{
+					"text": "Ob er einst, Jahrzehnte früher, in Paris dieselben Museen und Cafés besucht hatte wie Anita Rée?"
+				},
+				{
+					"text": "Er hatte lange in der Stadt gelebt, hatte dort beim Fauvisten Henri Matisse studiert, kurzzeitig dessen private Akademie geleitet."
+				},
+				{
+					"text": "Später zog Levy, in Stettin geboren, nach Berlin."
+				},
+				{
+					"text": "Deutschland verließ er wegen der sofort zunehmenden antisemitischen Angriffe und Ausgrenzungen bereits 1933 wieder, doch das Exil brachte keine Rettung."
+				},
+				{
+					"text": "In Florenz, wo er seit 1940 lebte, könnte er sogar Documenta-Macher Haftmann begegnet sein."
+				},
+				{
+					"text": "Der wusste von Levys Ermordung, nannte ihn aber später »verschollen«."
+				},
+				{
+					"text": "Wer die späten Porträts von Levy und Rée betrachtet, sein Ölbild, ihre Zeichnungen, sieht auch Todesangst."
+				},
+				{
+					"text": "Die hier gezeigten Bilder von Rudolf Levy sind Teil der Retrospektive »Rudolf Levy (1875 – 1944). Magier der Farbe«, die bis 11. Februar 2024 im Museum Pfalzgalerie Kaiserslautern zu sehen ist."
+				},
+				{
+					"text": "Die erste Retrospektive des lange vergessenen Malers zeigt rund 50 Gemälde aus öffentlichem und privatem Besitz und entstand in Kooperation mit den Uffizien."
+				}
+			],
+			"directQuotes": [],
+			"inIntro": false,
+			"inTitle": false,
+			"indirectQuotes": [],
+			"isMain": true,
+			"name": "Rudolf Levy",
+			"occupations": [
+				{
+					"text": "lange vergessenen Malers"
+				}
+			],
+			"occurrences": {
+				"firstNameOnly": 0,
+				"fullName": 3,
+				"lastNameOnly": 6,
+				"total": 9
+			},
+			"quotedInIntro": false,
+			"quotedInTitle": false,
+			"sex": "male"
+		},
+		{
+			"age": -1,
+			"alternativeNames": [],
+			"birthday": null,
+			"descriptiveTexts": [
+				{
+					"text": "Er hatte lange in der Stadt gelebt, hatte dort beim Fauvisten Henri Matisse studiert, kurzzeitig dessen private Akademie geleitet."
+				}
+			],
+			"directQuotes": [],
+			"inIntro": false,
+			"inTitle": false,
+			"indirectQuotes": [],
+			"isMain": false,
+			"name": "Henri Matisse",
+			"occupations": [
+				{
+					"text": "Fauvisten"
+				}
+			],
+			"occurrences": {
+				"firstNameOnly": 0,
+				"fullName": 1,
+				"lastNameOnly": 0,
+				"total": 1
+			},
+			"quotedInIntro": false,
+			"quotedInTitle": false,
+			"sex": "male"
+		}
+	],
+	"subtopics": [
+		"Kunst",
+		"Geschichte",
+		"Malerei",
+		"Nationalsozialismus"
+	]
+}

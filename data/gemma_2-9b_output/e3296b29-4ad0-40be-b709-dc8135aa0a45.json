@@ -1,0 +1,190 @@
+{
+    "persons": [
+        {
+            "name": "Masayoshi Son",
+            "alternativeNames": [],
+            "age": 66,
+            "sex": "male",
+            "occurences": {
+                "total": 2,
+                "firstNameOnly": 0,
+                "lastNameOnly": 0,
+                "fullName": 2,
+                "nickname": 0
+            },
+            "inTitle": false,
+            "inIntro": true,
+            "_name": {
+                "firstname": "Masayoshi",
+                "lastname": "Son",
+                "nickname": null,
+                "alternative_names": [],
+                "academic_title": null,
+                "nobility_title_or_rank": null
+            },
+            "descriptiveTexts": [
+                {
+                    "text": "Softbank-Chef Masayoshi Son bringt den Chipdesigner Arm zur\u00fcck an die B\u00f6rse."
+                },
+                {
+                    "text": "Softbank-Gr\u00fcnder und CEO Masayoshi Son (66) zeigte sich ungewohnt zur\u00fcckhaltend: Der japanische Technologieinvestor verzichtete am Mittwoch darauf, die Aktien des Chip-Designers \u00fcber der Angebotsspanne zuzuteilen."
+                },
+                {
+                    "text": "Die Japaner erkl\u00e4rten erst k\u00fcrzlich, dass sie ihren Vorsto\u00df umfangreicher Investitionen in k\u00fcnstliche Intelligenz erneuern wollen."
+                }
+            ],
+            "occupations": [
+                {
+                    "text": "Softbank-Gr\u00fcnder und CEO"
+                }
+            ],
+            "directQuotes": [],
+            "quotedInTitle": false,
+            "quotedInIntro": true
+        },
+        {
+            "name": "Chris Miller",
+            "alternativeNames": [],
+            "age": -1,
+            "sex": "male",
+            "occurences": {
+                "total": 1,
+                "firstNameOnly": 0,
+                "lastNameOnly": 0,
+                "fullName": 1,
+                "nickname": 0
+            },
+            "inTitle": false,
+            "inIntro": false,
+            "_name": {
+                "firstname": "Chris",
+                "lastname": "Miller",
+                "nickname": null,
+                "alternative_names": [],
+                "academic_title": null,
+                "nobility_title_or_rank": null
+            },
+            "descriptiveTexts": [
+                {
+                    "text": "Erst k\u00fcrzlich warnte Halbleiterexperte Chris Miller im mm-Interview vor einem schweren Schlag f\u00fcr die Weltwirtschaft, wenn China den Chipexport verhindern oder sogar in Taiwan einmarschieren sollte."
+                }
+            ],
+            "occupations": [
+                {
+                    "text": "Halbleiterexperte"
+                }
+            ],
+            "directQuotes": [],
+            "quotedInTitle": false,
+            "quotedInIntro": false
+        },
+        {
+            "name": "Arm",
+            "alternativeNames": [],
+            "age": -1,
+            "sex": "unknown",
+            "occurences": {
+                "total": 22,
+                "firstNameOnly": 0,
+                "lastNameOnly": 0,
+                "fullName": 22,
+                "nickname": 0
+            },
+            "inTitle": true,
+            "inIntro": true,
+            "_name": {
+                "firstname": null,
+                "lastname": null,
+                "nickname": null,
+                "alternative_names": [],
+                "academic_title": null,
+                "nobility_title_or_rank": null
+            },
+            "descriptiveTexts": [
+                {
+                    "text": "Was den Chipdesigner Arm so besonders macht"
+                },
+                {
+                    "text": "Softbank-Chef Masayoshi Son bringt den Chipdesigner Arm zur\u00fcck an die B\u00f6rse."
+                },
+                {
+                    "text": "Es ist der gr\u00f6\u00dfte B\u00f6rsengang des Jahres: Der britische Chipdesigner Arm kehrt nach sieben Jahren zur\u00fcck an die B\u00f6rse."
+                },
+                {
+                    "text": "Dem bisherigen Allein-Eigent\u00fcmer Softbank, der fast 10 Prozent des Grundkapitals von Arm verkauft, k\u00f6nnten durch den IPO also rund f\u00fcnf Milliarden Euro an Emissionserl\u00f6s zuflie\u00dfen."
+                },
+                {
+                    "text": "Denn Arm ist durch seine Chiparchitektur schon lange extrem begehrt und bildet so etwas wie das R\u00fcckgrat des Westens in der Chipindustrie."
+                },
+                {
+                    "text": "Das Interesse an Anteilen ist riesig, vor allem unter Arms Kunden."
+                },
+                {
+                    "text": "F\u00fcr sie hat Arm Anteilsscheine im Wert von 700 Millionen US-Dollar reserviert \u2013 keine Wahnsinnssumme, aber doch ein Vertrauensbeweis f\u00fcr andere institutionelle Anleger."
+                },
+                {
+                    "text": "Was macht also die Chipfirma Arm so besonders, dass alle ein St\u00fcck von ihr haben wollen?"
+                },
+                {
+                    "text": "Arm hat seinen Sitz im britischen Cambridge, also mitten in Europa."
+                },
+                {
+                    "text": "Dazu muss man wissen: Arm stellt selbst keine Chips her, sondern die Firma beliefert Chiphersteller mit Chipdesigns."
+                },
+                {
+                    "text": "Arm ist aber nicht blo\u00df ein klassischer Chipdesigner, sondern entwirft die dominante Chiparchitektur f\u00fcr Smartphones."
+                },
+                {
+                    "text": "Nicht nur Apple und Samsung entwickeln ihre Prozessoren mit Arms Chipdesigns, auch Halbleiterkonzern Qualcomm ist auf sie angewiesen."
+                },
+                {
+                    "text": "Weil Arm so gesehen alle Konzerne neutral beliefert, gilt der Chipdesigner auch als \"die Schweiz der Chipindustrie\"."
+                },
+                {
+                    "text": "Die Techkonzerne m\u00fcssen Lizenzgeb\u00fchren an Arm zahlen, damit sie die Chiparchitektur nutzen d\u00fcrfen."
+                },
+                {
+                    "text": "Mit dem Kauf der Anteilsscheine im gro\u00dfen Stil geht es f\u00fcr Apple und Co. also vor allem darum, die weitere Zusammenarbeit mit Arm zu sichern und zu verhindern, dass sich die Konkurrenz einen Wettbewerbsvorteil verschafft."
+                },
+                {
+                    "text": "Dieses Drohszenario steckt noch in den K\u00f6pfen vieler Arm-Kunden, seit Chiphersteller Nvidia im Jahr 2020 versuchte, Arm zu \u00fcbernehmen."
+                },
+                {
+                    "text": "Aber auch das Wachstumspotenzial von Arm treibt die Nachfrage nach Aktien in die H\u00f6he."
+                },
+                {
+                    "text": "Die Anleger setzen darauf, dass Arm es schafft, nicht nur mehr Umsatz mit seinen derzeitigen Kunden zu erzielen, sondern auch neue M\u00e4rkte zu erschlie\u00dfen."
+                },
+                {
+                    "text": "K\u00fcnftig will der Chipdesigner auch in Bereichen Fu\u00df fassen, in den er bislang weniger dominant ist, etwa in Computernetzwerken, im Cloud-Computing und in der Automobilbranche."
+                },
+                {
+                    "text": "F\u00fcr die Entwicklung und den Einsatz von KI-Systemen braucht es gro\u00dfe Mengen an Rechenleistung \u2013 f\u00fcr Chiphersteller und Zulieferer wie Arm ein riesiger neuer Markt."
+                },
+                {
+                    "text": "B\u00f6rsenaspirant Arm, der ebenfalls Nvidia mit Technologie beliefert, k\u00f6nnte von diesem Boom profitieren, so die Hoffnung."
+                },
+                {
+                    "text": "Seine Anteile an Arm k\u00f6nnte Softbank im Laufe der Zeit weiter abbauen, sobald die Aktie steigt und mehr Gewinn abwirft."
+                }
+            ],
+            "occupations": [
+                {
+                    "text": "Joint Venture"
+                },
+                {
+                    "text": "R\u00fcckgrat des Westens in der Chipindustrie"
+                },
+                {
+                    "text": "Chipdesigner"
+                },
+                {
+                    "text": "die Schweiz der Chipindustrie"
+                }
+            ],
+            "directQuotes": [],
+            "quotedInTitle": true,
+            "quotedInIntro": true
+        }
+    ]
+}

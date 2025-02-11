@@ -1,0 +1,726 @@
+{
+  "persons": [
+    {
+      "age": 78, 
+      "alternativeNames": [],
+      "birthday": null,
+      "descriptiveTexts": [
+        {
+          "text": "Es gehört Jakob Edinger (78), einem Tiroler Unternehmensberater, weißes Haar, Brille, groß gewachsen."
+        },
+        {
+          "text": "Edinger sitzt im Salon am Kamin."
+        },
+        {
+          "text": "Kaum jemand kennt ihn."
+        },
+        {
+          "text": "Edinger kaufte es der Kirche ab, nannte es »Das Kranzbach«."
+        },
+        {
+          "text": "Zwei Gipfel hat Edinger hinter sich, überall Panzerglas, Security, die Weltpolitik mietet alles komplett."
+        },
+        {
+          "text": "Einen dritten Gipfel braucht er nicht."
+        },
+        {
+          "text": "Fast 5000 touristische Destinationen hat Edinger in seinem Leben beraten, jetzt will er sein eigenes Ding machen: Über 40 Millionen Euro hat er aufgetrieben und ins »Kranzbach« investiert."
+        },
+        {
+          "text": "Es gibt aktuell, findet er, für Hoteliers so viel zu tun wie vielleicht nie zuvor."
+        },
+        {
+          "text": "Die Menschen, sagt der heutige Wohlfühlberater Edinger, bräuchten jetzt Ruhe, Fürsorge, Eleganz."
+        },
+        {
+          "text": "»Vielen geht es nicht gut«, hat der Gastgeber beobachtet."
+        },
+        {
+          "text": "Hausherr Jakob Edinger schenkt Earl-Grey-Tee nach. "
+        }
+      ],
+      "directQuotes": [
+        {
+          "text": "Vielen geht es nicht gut"
+        }
+      ],
+      "inIntro": false,
+      "inTitle": false,
+      "indirectQuotes": [
+        {
+          "text": "Es gibt aktuell, findet er, für Hoteliers so viel zu tun wie vielleicht nie zuvor."
+        },
+        {
+          "text": "Die Menschen, sagt der heutige Wohlfühlberater Edinger, bräuchten jetzt Ruhe, Fürsorge, Eleganz."
+        }
+      ],
+      "isMain": false,
+      "name": "Jakob Edinger",
+      "occupations": [
+        {
+          "text": "Tiroler Unternehmensberater"
+        },
+        {
+          "text": "Wohlfühlberater"
+        },
+        {
+          "text": "Gastgeber"
+        },
+        {
+          "text": "Hausherr"
+        }
+      ],
+      "occurences": {
+        "firstNameOnly": 0,
+        "fullName": 2,
+        "lastNameOnly": 5,
+        "total": 7
+      },
+      "quotedInIntro": false,
+      "quotedInTitle": false,
+      "sex": "male"
+    },
+    {
+      "age": 67, 
+      "alternativeNames": [],
+      "birthday": null,
+      "descriptiveTexts": [
+        {
+          "text": "Zum G7-Gipfel 2015 kamen Christine Lagarde (67) und afrikanische Staatschefs."
+        }
+      ],
+      "directQuotes": [
+        
+      ],
+      "inIntro": false,
+      "inTitle": false,
+      "indirectQuotes": [
+        
+      ],
+      "isMain": false,
+      "name": "Christine Lagarde",
+      "occupations": [
+        
+      ],
+      "occurences": {
+        "firstNameOnly": 0,
+        "fullName": 1,
+        "lastNameOnly": 0,
+        "total": 1
+      },
+      "quotedInIntro": false,
+      "quotedInTitle": false,
+      "sex": "female"
+    },
+    {
+      "age": -1, 
+      "alternativeNames": [],
+      "birthday": null,
+      "descriptiveTexts": [
+        {
+          "text": "Andreas Förderer hat im Auftrag der Stadt Baden-Baden eine Studie dazu durchgeführt."
+        },
+        {
+          "text": "Er nennt die Orte »Playgrounds of Europe«."
+        }
+      ],
+      "directQuotes": [
+        {
+          "text": "Playgrounds of Europe"
+        }
+      ],
+      "inIntro": false,
+      "inTitle": false,
+      "indirectQuotes": [
+        
+      ],
+      "isMain": false,
+      "name": "Andreas Förderer",
+      "occupations": [
+        
+      ],
+      "occurences": {
+        "firstNameOnly": 0,
+        "fullName": 1,
+        "lastNameOnly": 0,
+        "total": 1
+      },
+      "quotedInIntro": false,
+      "quotedInTitle": false,
+      "sex": "male"
+    },
+    {
+      "age": -1, 
+      "alternativeNames": [],
+      "birthday": null,
+      "descriptiveTexts": [
+        {
+          "text": "Etwa 10 Prozent aller Corona-Patienten, schreibt Hirnforscher Martin Korte, Neurobiologe an der TU Braunschweig, in seinem Buch »Long Covid«, leiden selbst nach mildem Verlauf unter Erschöpfung, Konzentrationsproblemen. "
+        }
+      ],
+      "directQuotes": [
+
+      ],
+      "inIntro": false,
+      "inTitle": false,
+      "indirectQuotes": [
+        {
+          "text": "Etwa 10 Prozent aller Corona-Patienten, schreibt Hirnforscher Martin Korte, Neurobiologe an der TU Braunschweig, in seinem Buch »Long Covid«, leiden selbst nach mildem Verlauf unter Erschöpfung, Konzentrationsproblemen. "
+        }
+      ],
+      "isMain": false,
+      "name": "Martin Korte",
+      "occupations": [
+        {
+          "text": "Neurobiologe an der TU Braunschweig"
+        }
+      ],
+      "occurences": {
+        "firstNameOnly": 0,
+        "fullName": 1,
+        "lastNameOnly": 0,
+        "total": 1
+      },
+      "quotedInIntro": false,
+      "quotedInTitle": false,
+      "sex": "male"
+    },
+    {
+      "age": -1, 
+      "alternativeNames": [],
+      "birthday": null,
+      "descriptiveTexts": [
+        {
+          "text": "»Man will berührt werden von Natur und Menschen«, sagt Anja Kirig, Tourismusexpertin beim Frankfurter Zukunftsinstitut."
+        },
+        {
+          "text": "Es gebe »eine Grundsehnsucht nach einer Welt, die einem antwortet«."
+        }
+      ],
+      "directQuotes": [
+        {
+          "text": "Man will berührt werden von Natur und Menschen"
+        },
+        {
+          "text": "eine Grundsehnsucht nach einer Welt, die einem antwortet"
+        }
+      ],
+      "inIntro": false,
+      "inTitle": false,
+      "indirectQuotes": [
+        {
+          "text": "Es gebe »eine Grundsehnsucht nach einer Welt, die einem antwortet«."
+        }
+      ],
+      "isMain": false,
+      "name": "Anja Kirig",
+      "occupations": [
+        {
+          "text": "Tourismusexpertin beim Frankfurter Zukunftsinstitut"
+        }
+      ],
+      "occurences": {
+        "firstNameOnly": 0,
+        "fullName": 1,
+        "lastNameOnly": 0,
+        "total": 1
+      },
+      "quotedInIntro": false,
+      "quotedInTitle": false,
+      "sex": "female"
+    },
+    {
+      "age": -1, 
+      "alternativeNames": [],
+      "birthday": null,
+      "descriptiveTexts": [
+        {
+          "text": "Erbauen ließ das Märchenschloss einst die britische Adlige Mary Isabel Portman, unverheiratet, reich, von der Familie aus London abgeschoben."
+        },
+        {
+          "text": "1913 entschied sie, in der Kutsche auf dem Weg zur Berghütte von König Ludwig II. am Fuße des Wettersteinmassivs: »Hier werde ich mir mein Hideaway bauen.«"
+        },
+        {
+          "text": "Das sie wohl nie betrat."
+        }
+      ],
+      "directQuotes": [
+        {
+          "text": "Hier werde ich mir mein Hideaway bauen."
+        }
+      ],
+      "inIntro": false,
+      "inTitle": false,
+      "indirectQuotes": [
+        
+      ],
+      "isMain": false,
+      "name": "Mary Isabel Portman",
+      "occupations": [
+        {
+          "text": "britische Adlige"
+        }
+      ],
+      "occurences": {
+        "firstNameOnly": 0,
+        "fullName": 1,
+        "lastNameOnly": 0,
+        "total": 1
+      },
+      "quotedInIntro": false,
+      "quotedInTitle": false,
+      "sex": "female"
+    },
+    {
+      "age": -1, 
+      "alternativeNames": [],
+      "birthday": null,
+      "descriptiveTexts": [
+        {
+          "text": "»Soho House«-Designerin Ilse Crawford hat das Domizil eingerichtet, auch einen Dart-Raum und einen mit Brettspielen für Erwachsene."
+        }
+      ],
+      "directQuotes": [
+        
+      ],
+      "inIntro": false,
+      "inTitle": false,
+      "indirectQuotes": [
+        
+      ],
+      "isMain": false,
+      "name": "Ilse Crawford",
+      "occupations": [
+        {
+          "text": "»Soho House«-Designerin"
+        }
+      ],
+      "occurences": {
+        "firstNameOnly": 0,
+        "fullName": 1,
+        "lastNameOnly": 0,
+        "total": 1
+      },
+      "quotedInIntro": false,
+      "quotedInTitle": false,
+      "sex": "female"
+    },
+    {
+      "age": -1, 
+      "alternativeNames": [],
+      "birthday": null,
+      "descriptiveTexts": [
+        {
+          "text": "Am Morgen geht eine Gruppe schweigend zum Meditationshaus von Stararchitekt Kengo Kuma: Glasfenster, 1550 Schindeln aus Weißtanne, ein Stück Japan-Zen mitten im Wald."
+        }
+      ],
+      "directQuotes": [
+        
+      ],
+      "inIntro": false,
+      "inTitle": false,
+      "indirectQuotes": [
+        
+      ],
+      "isMain": false,
+      "name": "Kengo Kuma",
+      "occupations": [
+        {
+          "text": "Stararchitekt"
+        }
+      ],
+      "occurences": {
+        "firstNameOnly": 0,
+        "fullName": 1,
+        "lastNameOnly": 0,
+        "total": 1
+      },
+      "quotedInIntro": false,
+      "quotedInTitle": false,
+      "sex": "male"
+    },
+    {
+      "age": 43, 
+      "alternativeNames": [],
+      "birthday": null,
+      "descriptiveTexts": [
+        {
+          "text": "Wer, entscheidet Janne Honkanen (43) mit Freund und Geschäftspartner Formel-1-Weltmeister Mika Häkkinen (54)."
+        },
+        {
+          "text": "Honkanen fuhr früher Schneemobilrennen, führte wohlhabende Familien durch die Wildnis Lapplands."
+        },
+        {
+          "text": "Ihm fiel auf: Sie hatten keinen rechten Ort, um zu bleiben."
+        }
+      ],
+      "directQuotes": [
+        
+      ],
+      "inIntro": false,
+      "inTitle": false,
+      "indirectQuotes": [
+      ],
+      "isMain": false,
+      "name": "Janne Honkanen",
+      "occupations": [
+        
+      ],
+      "occurences": {
+        "firstNameOnly": 0,
+        "fullName": 1,
+        "lastNameOnly": 1,
+        "total": 2
+      },
+      "quotedInIntro": false,
+      "quotedInTitle": false,
+      "sex": "male"
+    },
+    {
+      "age": -1, 
+      "alternativeNames": [],
+      "birthday": null,
+      "descriptiveTexts": [
+        {
+          "text": "Prinz Albert von Monaco, Cricket-Star Virat Kohli und Techtycoone der Silicon Valley waren schon hier."
+        }
+      ],
+      "directQuotes": [
+        
+      ],
+      "inIntro": false,
+      "inTitle": false,
+      "indirectQuotes": [
+        
+      ],
+      "isMain": false,
+      "name": "Prinz Albert von Monaco",
+      "occupations": [
+        {
+          "text": "Prinz"
+        }
+      ],
+      "occurences": {
+        "firstNameOnly": 0,
+        "fullName": 1,
+        "lastNameOnly": 0,
+        "total": 1
+      },
+      "quotedInIntro": false,
+      "quotedInTitle": false,
+      "sex": "male"
+    },
+    {
+      "age": -1, 
+      "alternativeNames": [],
+      "birthday": null,
+      "descriptiveTexts": [
+        {
+          "text": "Prinz Albert von Monaco, Cricket-Star Virat Kohli und Techtycoone der Silicon Valley waren schon hier."
+        }
+      ],
+      "directQuotes": [],
+      "inIntro": false,
+      "inTitle": false,
+      "indirectQuotes": [
+        
+      ],
+      "isMain": false,
+      "name": "Virat Kohli",
+      "occupations": [
+        {
+          "text": "Cricket-Star"
+        }
+      ],
+      "occurences": {
+        "firstNameOnly": 0,
+        "fullName": 1,
+        "lastNameOnly": 0,
+        "total": 1
+      },
+      "quotedInIntro": false,
+      "quotedInTitle": false,
+      "sex": "male"
+    },
+    
+    {
+      "age": 54, 
+      "alternativeNames": [],
+      "birthday": null,
+      "descriptiveTexts": [
+        {
+          "text": "Wer, entscheidet Janne Honkanen (43) mit Freund und Geschäftspartner Formel-1-Weltmeister Mika Häkkinen (54)."
+        }
+      ],
+      "directQuotes": [
+        
+      ],
+      "inIntro": false,
+      "inTitle": false,
+      "indirectQuotes": [
+        
+      ],
+      "isMain": false,
+      "name": "Mika Häkkinen",
+      "occupations": [
+        {
+          "text": "Formel-1-Weltmeister"
+        },
+        {
+          "text": "Geschäftspartner"
+        },
+        {
+          "text": "Freund"
+        }
+      ],
+      "occurences": {
+        "firstNameOnly": 0,
+        "fullName": 1,
+        "lastNameOnly": 0,
+        "total": 1
+      },
+      "quotedInIntro": false,
+      "quotedInTitle": false,
+      "sex": "male"
+    },
+    {
+      "age": 66, 
+      "alternativeNames": [],
+      "birthday": null,
+      "descriptiveTexts": [
+        {
+          "text": "Und Samih Sawiris (66) segelt gern."
+        },
+        {
+          "text": "850 Millionen Dollar, so »Forbes«, soll er besitzen, der Sawiris-Clan ist unter anderem beteiligt am Dax-Konzern Adidas."
+        },
+        {
+          "text": "Die Sawiris-Familie ist die reichste Ägyptens."
+        },
+        {
+          "text": "Der 66-Jährige ist in Kairo geboren, hat in Berlin an der TU Wirtschaftsingenieurwesen studiert, spricht fließend Deutsch und hat ein Hobby, das eines Fastmilliardärs würdig ist: Er baut Städte aus dem Nichts, etwa El Gouna, Andermatt, Luštica Bay in Montenegro."
+        },
+        {
+          "text": "»Geduld und Sturheit« zeichnen ihn aus, sagt Sawiris über sich selbst."
+        },
+        {
+          "text": "Er baute Luštica Bay, wurde montenegrinischer Staatsbürger, aber damit war er noch nicht am Ziel."
+        },
+        {
+          "text": "Er suchte ein Versteck, einen Zufluchtsort."
+        },
+        {
+          "text": "Mit dem Helikopter flog er die Adriaküste entlang und fand eine Insel: Die musste es sein, Mamula."
+        },
+        {
+          "text": "Für 49 Jahre hat Sawiris die Insel gemietet, das dortige Fort zum Boutiquehotel mit 32 Zimmern, Pools, Restaurants, Strand umgebaut."
+        },
+        {
+          "text": "Mehr als 15 Millionen Euro hat Sawiris investiert, Fresken restauriert, eine Gedenkstätte eröffnet und Familien der Opfer, der früheren Insassen, als Erste eingeladen, die Memorial Hall zu besuchen."
+        }
+      ],
+      "directQuotes": [
+        {
+          "text": "Geduld und Sturheit"
+        }
+      ],
+      "inIntro": false,
+      "inTitle": false,
+      "indirectQuotes": [
+        
+      ],
+      "isMain": false,
+      "name": "Samih Sawiris",
+      "occupations": [
+        
+      ],
+      "occurences": {
+        "firstNameOnly": 0,
+        "fullName": 1,
+        "lastNameOnly": 5,
+        "total": 6
+      },
+      "quotedInIntro": false,
+      "quotedInTitle": false,
+      "sex": "male"
+    },
+    {
+      "age": -1, 
+      "alternativeNames": [],
+      "birthday": null,
+      "descriptiveTexts": [
+        {
+          "text": "Hoteldirektor Henning A. Schaub ist von Berlin an die Adria gezogen: »Montenegro wirkt rauer als die Toskana, besitzt aber auch Trüffel, Olivenöl, Wein, Oktopus.«"
+        }
+      ],
+      "directQuotes": [
+        {
+          "text": "Montenegro wirkt rauer als die Toskana, besitzt aber auch Trüffel, Olivenöl, Wein, Oktopus."
+        }
+      ],
+      "inIntro": false,
+      "inTitle": false,
+      "indirectQuotes": [
+        
+      ],
+      "isMain": false,
+      "name": "Henning A. Schaub",
+      "occupations": [
+        {
+          "text": "Hoteldirektor"
+        }
+      ],
+      "occurences": {
+        "firstNameOnly": 0,
+        "fullName": 1,
+        "lastNameOnly": 0,
+        "total": 1
+      },
+      "quotedInIntro": false,
+      "quotedInTitle": false,
+      "sex": "male"
+    },
+    {
+      "age": 70, 
+      "alternativeNames": [],
+      "birthday": null,
+      "descriptiveTexts": [
+        {
+          "text": "Mit dem »Newt«, 50 Kilometer südlich von Bristol, hat Koos Bekker so einen Rückzugsort aufgebaut."
+        },
+        {
+          "text": "Der 70-Jährige wuchs in Heidelberg, Südafrika, auf einer Maisfarm aus."
+        },
+        {
+          "text": "Mit 2,3 Milliarden Euro ist der Ex-Chef des Medienhauses Nasper einer der reichsten Afrikaner und größter Aktionär des Berliner Start-ups Delivery Hero."
+        },
+        {
+          "text": "Vor mehr als 20 Jahren investierte er in ein chinesisches Start-up, das niemand kannte."
+        },
+        {
+          "text": "Bekker fragte seine Frau Karen Roos, wo sie gern leben würde, so erzählt sie es im Girlahead-Podcast von Mary Gostelow."
+        },
+        {
+          "text": "Bei einem Besuch in Bath las das Paar von Hadspen House, Baujahr 1690."
+        },
+        {
+          "text": "Ihr hätte ein Haus mit einem Hof gereicht, ihr Mann dachte größer."
+        },
+        {
+          "text": "In den Winelands der Kapregion gehört dem Paar bereits »Babylonstoren«, ein Farmhotel mit luxuriöser Down-to-earth-Gastronomie, das für seine weitläufigen Gemüse- und Obstgärten bekannt ist."
+        },
+        {
+          "text": "Koos Bekker begeistert sich für Geschichte, die Reste einer benachbarten römischen Villa ließ er aufwendig restaurieren: Die Villa Ventorum mit Mosaikfußboden ist jetzt ein Museum."
+        },
+        {
+          "text": "Historisches Augenzwinkern allerorten: Der Südafrikaner zeigt den Briten, was ein Garten ist."
+        },
+        {
+          "text": "Denn so fing alles an: Bekker interessiert sich schon länger für Äpfel."
+        }
+      ],
+      "directQuotes": [
+        
+      ],
+      "inIntro": false,
+      "inTitle": false,
+      "indirectQuotes": [
+        {
+          "text": "Bekker fragte seine Frau Karen Roos, wo sie gern leben würde, so erzählt sie es im Girlahead-Podcast von Mary Gostelow."
+        }
+      ],
+      "isMain": false,
+      "name": "Koos Bekker",
+      "occupations": [
+        {
+          "text": "Ex-Chef des Medienhauses Nasper"
+        }
+      ],
+      "occurences": {
+        "firstNameOnly": 0,
+        "fullName": 2,
+        "lastNameOnly": 2,
+        "total": 4
+      },
+      "quotedInIntro": false,
+      "quotedInTitle": false,
+      "sex": "male"
+    },
+    {
+      "age": -1, 
+      "alternativeNames": [],
+      "birthday": null,
+      "descriptiveTexts": [
+        {
+          "text": "Bekker fragte seine Frau Karen Roos, wo sie gern leben würde, so erzählt sie es im Girlahead-Podcast von Mary Gostelow."
+        },
+        {
+          "text": "Roos ist mit englischer Literatur aufgewachsen und Jane-Austen-Fan."
+        },
+        {
+          "text": "Bei einem Besuch in Bath las das Paar von Hadspen House, Baujahr 1690."
+        },
+        {
+          "text": "Ihr hätte ein Haus mit einem Hof gereicht, ihr Mann dachte größer."
+        },
+        {
+          "text": "In den Winelands der Kapregion gehört dem Paar bereits »Babylonstoren«, ein Farmhotel mit luxuriöser Down-to-earth-Gastronomie, das für seine weitläufigen Gemüse- und Obstgärten bekannt ist."
+        }
+      ],
+      "directQuotes": [
+        
+      ],
+      "inIntro": false,
+      "inTitle": false,
+      "indirectQuotes": [
+      ],
+      "isMain": false,
+      "name": "Karen Roos",
+      "occupations": [
+        
+      ],
+      "occurences": {
+        "firstNameOnly": 0,
+        "fullName": 1,
+        "lastNameOnly": 1,
+        "total": 2
+      },
+      "quotedInIntro": false,
+      "quotedInTitle": false,
+      "sex": "female"
+    },
+    {
+      "age": -1,
+      "alternativeNames": [],
+      "birthday": null,
+      "descriptiveTexts": [
+        {
+          "text": "Heute checkt auch mal Paul McCartney ein, 750 Euro kostet eine Nacht, mindestens."
+        }
+      ],
+      "directQuotes": [
+      ],
+      "inIntro": false,
+      "inTitle": false,
+      "indirectQuotes": [
+      ],
+      "isMain": false,
+      "name": "Paul McCartney",
+      "occupations": [
+      ],
+      "occurences": {
+        "firstNameOnly": 0,
+        "fullName": 1,
+        "lastNameOnly": 0,
+        "total": 1
+      },
+      "quotedInIntro": false,
+      "quotedInTitle": false,
+      "sex": "male"
+    }
+  ],
+  "subtopics": [
+    "Urlaub", "Hotel", "Entspannung", "Hobby", 
+    "Reise"
+  ]
+}

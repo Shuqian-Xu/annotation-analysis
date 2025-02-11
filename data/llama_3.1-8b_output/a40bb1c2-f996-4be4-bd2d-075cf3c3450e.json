@@ -1,0 +1,226 @@
+{
+    "persons": [
+        {
+            "name": "Marion Slota",
+            "alternativeNames": [
+                "Marion Slota-Haaf"
+            ],
+            "age": -1,
+            "sex": "female",
+            "occurences": {
+                "total": 1,
+                "firstNameOnly": 0,
+                "lastNameOnly": 0,
+                "fullName": 1,
+                "nickname": 0
+            },
+            "inTitle": false,
+            "inIntro": false,
+            "_name": {
+                "firstname": "Marion",
+                "lastname": "Slota",
+                "nickname": null,
+                "alternative_names": [
+                    "Marion Slota-Haaf"
+                ],
+                "academic_title": null,
+                "nobility_title_or_rank": null
+            },
+            "descriptiveTexts": [
+                {
+                    "text": "Die Beute, also die zu Unrecht erstattete Steuer, h\u00e4tten sie der Staatsanwaltschaft zufolge unter sich aufgeteilt."
+                },
+                {
+                    "text": "Nun leitet Marion Slota-Haaf das Verfahren als Vorsitzende Richterin."
+                }
+            ],
+            "occupations": [
+                {
+                    "text": "Richterin"
+                }
+            ],
+            "directQuotes": [],
+            "quotedInTitle": false,
+            "quotedInIntro": false
+        },
+        {
+            "name": "Edgar Panizza",
+            "alternativeNames": [],
+            "age": -1,
+            "sex": "male",
+            "occurences": {
+                "total": 1,
+                "firstNameOnly": 0,
+                "lastNameOnly": 0,
+                "fullName": 1,
+                "nickname": 0
+            },
+            "inTitle": false,
+            "inIntro": false,
+            "_name": {
+                "firstname": "Edgar",
+                "lastname": "Panizza",
+                "nickname": null,
+                "alternative_names": [],
+                "academic_title": null,
+                "nobility_title_or_rank": null
+            },
+            "descriptiveTexts": [
+                {
+                    "text": "Der urspr\u00fcngliche f\u00fcr den Fall Olearius geplante Richter am Landgericht Bonn, Edgar Panizza, ist wegen Befangenheit abgesetzt worden."
+                }
+            ],
+            "occupations": [],
+            "directQuotes": [],
+            "quotedInTitle": false,
+            "quotedInIntro": false
+        },
+        {
+            "name": "Christian Olearius",
+            "alternativeNames": [],
+            "age": 81,
+            "sex": "male",
+            "occurences": {
+                "total": 8,
+                "firstNameOnly": 0,
+                "lastNameOnly": 6,
+                "fullName": 2,
+                "nickname": 0
+            },
+            "inTitle": false,
+            "inIntro": true,
+            "_name": {
+                "firstname": "Christian",
+                "lastname": "Olearius",
+                "nickname": null,
+                "alternative_names": [],
+                "academic_title": null,
+                "nobility_title_or_rank": null
+            },
+            "descriptiveTexts": [
+                {
+                    "text": "Prozessauftakt gegen einen der prominentesten Angeklagten im Cum-ex-Skandal: Warburg-Banker Christian Olearius soll einen Steuerschaden von 280 Millionen Euro mitverursacht haben \u2013 er bestreitet das."
+                },
+                {
+                    "text": "Wie Warburg-Topbanker sich das sch\u00f6n redeten, das ist eines der Details in der Anklageschrift gegen Christian Olearius (81)."
+                },
+                {
+                    "text": "Olearius ist der bisher prominenteste Angeklagte im Cum-ex-Skandal."
+                },
+                {
+                    "text": "Olearius verfolgte das mit regungslosem Blick."
+                },
+                {
+                    "text": "Gelegentlich tippte er mit seinem Kugelschreiber auf den Tisch vor sich, als ob er das Prozedere beschleunigen wollte."
+                },
+                {
+                    "text": "Der Anklage zufolge soll Olearius gemeinsam mit Komplizen einen Steuerschaden von 280 Millionen Euro verursacht haben, dabei sollen er und seine Mitt\u00e4ter \"arbeitsteilig\" vorgegangen sein."
+                },
+                {
+                    "text": "Die Beute, also die zu Unrecht erstattete Steuer, h\u00e4tten sie der Staatsanwaltschaft zufolge unter sich aufgeteilt."
+                },
+                {
+                    "text": "Olearius soll sich detailliert in die Cum-ex-Gesch\u00e4ftsmodelle eingearbeitet haben und durchgehend in alle Planungen und Abl\u00e4ufe eingebunden gewesen sein."
+                },
+                {
+                    "text": "Laut Anklageschrift hat Olearius versucht, Scholz einzuspannen, um Steuerr\u00fcckforderungen zu verhindern."
+                },
+                {
+                    "text": "Der urspr\u00fcngliche f\u00fcr den Fall Olearius geplante Richter am Landgericht Bonn, Edgar Panizza, ist wegen Befangenheit abgesetzt worden."
+                }
+            ],
+            "occupations": [
+                {
+                    "text": "Hauptgesellschafter der Privatbank"
+                },
+                {
+                    "text": "Banker"
+                },
+                {
+                    "text": "Warburg-Topbanker"
+                }
+            ],
+            "directQuotes": [],
+            "quotedInTitle": false,
+            "quotedInIntro": true
+        },
+        {
+            "name": "Olaf Scholz",
+            "alternativeNames": [],
+            "age": 65,
+            "sex": "male",
+            "occurences": {
+                "total": 3,
+                "firstNameOnly": 0,
+                "lastNameOnly": 2,
+                "fullName": 1,
+                "nickname": 0
+            },
+            "inTitle": false,
+            "inIntro": false,
+            "_name": {
+                "firstname": "Olaf",
+                "lastname": "Scholz",
+                "nickname": null,
+                "alternative_names": [],
+                "academic_title": null,
+                "nobility_title_or_rank": null
+            },
+            "descriptiveTexts": [
+                {
+                    "text": "Der Prozess wirft auch ein Schlaglicht auf Bundeskanzler Olaf Scholz (65), Hamburgs fr\u00fcheren Ersten B\u00fcrgermeister."
+                },
+                {
+                    "text": "Laut Anklageschrift hat Olearius versucht, Scholz einzuspannen, um Steuerr\u00fcckforderungen zu verhindern."
+                },
+                {
+                    "text": "Scholz beruft sich bei dem Thema auf Erinnerungsl\u00fccken."
+                }
+            ],
+            "occupations": [
+                {
+                    "text": "Bundeskanzler"
+                }
+            ],
+            "directQuotes": [],
+            "quotedInTitle": false,
+            "quotedInIntro": false
+        },
+        {
+            "name": "Haaf",
+            "alternativeNames": [],
+            "age": -1,
+            "sex": "female",
+            "occurences": {
+                "total": 1,
+                "firstNameOnly": 0,
+                "lastNameOnly": 0,
+                "fullName": 1,
+                "nickname": 0
+            },
+            "inTitle": false,
+            "inIntro": false,
+            "_name": {
+                "firstname": null,
+                "lastname": "Haaf",
+                "nickname": null,
+                "alternative_names": [],
+                "academic_title": null,
+                "nobility_title_or_rank": null
+            },
+            "descriptiveTexts": [
+                {
+                    "text": "Nun leitet Marion Slota-Haaf das Verfahren als Vorsitzende Richterin."
+                }
+            ],
+            "occupations": [
+                {
+                    "text": "Richterin"
+                }
+            ],
+            "directQuotes": [],
+            "quotedInTitle": false,
+            "quotedInIntro": false
+        }
+    ]
+}

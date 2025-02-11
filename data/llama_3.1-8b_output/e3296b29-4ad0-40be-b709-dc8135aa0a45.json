@@ -1,0 +1,100 @@
+{
+    "persons": [
+        {
+            "name": "Chris Miller",
+            "alternativeNames": [],
+            "age": -1,
+            "sex": "male",
+            "occurences": {
+                "total": 1,
+                "firstNameOnly": 0,
+                "lastNameOnly": 0,
+                "fullName": 1,
+                "nickname": 0
+            },
+            "inTitle": false,
+            "inIntro": false,
+            "_name": {
+                "firstname": "Chris",
+                "lastname": "Miller",
+                "nickname": null,
+                "alternative_names": [],
+                "academic_title": null,
+                "nobility_title_or_rank": null
+            },
+            "descriptiveTexts": [
+                {
+                    "text": "F\u00fcr sie hat Arm Anteilsscheine im Wert von 700 Millionen US-Dollar reserviert \u2013 keine Wahnsinnssumme, aber doch ein Vertrauensbeweis f\u00fcr andere institutionelle Anleger."
+                },
+                {
+                    "text": "Erst k\u00fcrzlich warnte Halbleiterexperte Chris Miller im mm-Interview vor einem schweren Schlag f\u00fcr die Weltwirtschaft, wenn China den Chipexport verhindern oder sogar in Taiwan einmarschieren sollte."
+                },
+                {
+                    "text": "Nicht nur Apple und Samsung entwickeln ihre Prozessoren mit Arms Chipdesigns, auch Halbleiterkonzern Qualcomm ist auf sie angewiesen."
+                },
+                {
+                    "text": "Die Techkonzerne m\u00fcssen Lizenzgeb\u00fchren an Arm zahlen, damit sie die Chiparchitektur nutzen d\u00fcrfen."
+                }
+            ],
+            "occupations": [
+                {
+                    "text": "Halbleiterexperte"
+                }
+            ],
+            "directQuotes": [],
+            "quotedInTitle": false,
+            "quotedInIntro": false
+        },
+        {
+            "name": "Masayoshi Son",
+            "alternativeNames": [],
+            "age": 66,
+            "sex": "male",
+            "occurences": {
+                "total": 2,
+                "firstNameOnly": 0,
+                "lastNameOnly": 0,
+                "fullName": 2,
+                "nickname": 0
+            },
+            "inTitle": false,
+            "inIntro": true,
+            "_name": {
+                "firstname": "Masayoshi",
+                "lastname": "Son",
+                "nickname": null,
+                "alternative_names": [],
+                "academic_title": null,
+                "nobility_title_or_rank": null
+            },
+            "descriptiveTexts": [
+                {
+                    "text": "Softbank-Chef Masayoshi Son bringt den Chipdesigner Arm zur\u00fcck an die B\u00f6rse."
+                },
+                {
+                    "text": "Softbank-Gr\u00fcnder und CEO Masayoshi Son (66) zeigte sich ungewohnt zur\u00fcckhaltend: Der japanische Technologieinvestor verzichtete am Mittwoch darauf, die Aktien des Chip-Designers \u00fcber der Angebotsspanne zuzuteilen."
+                },
+                {
+                    "text": "F\u00fcr sie hat Arm Anteilsscheine im Wert von 700 Millionen US-Dollar reserviert \u2013 keine Wahnsinnssumme, aber doch ein Vertrauensbeweis f\u00fcr andere institutionelle Anleger."
+                },
+                {
+                    "text": "Nicht nur Apple und Samsung entwickeln ihre Prozessoren mit Arms Chipdesigns, auch Halbleiterkonzern Qualcomm ist auf sie angewiesen."
+                },
+                {
+                    "text": "Die Techkonzerne m\u00fcssen Lizenzgeb\u00fchren an Arm zahlen, damit sie die Chiparchitektur nutzen d\u00fcrfen."
+                },
+                {
+                    "text": "Die Japaner erkl\u00e4rten erst k\u00fcrzlich, dass sie ihren Vorsto\u00df umfangreicher Investitionen in k\u00fcnstliche Intelligenz erneuern wollen."
+                }
+            ],
+            "occupations": [
+                {
+                    "text": "Technologieinvestor"
+                }
+            ],
+            "directQuotes": [],
+            "quotedInTitle": false,
+            "quotedInIntro": true
+        }
+    ]
+}

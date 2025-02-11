@@ -1,0 +1,286 @@
+{
+	"persons": [
+		{
+			"age": -1,
+			"alternativeNames": [],
+			"birthday": null,
+			"descriptiveTexts": [
+				{
+					"text": "Wolodymyr Selensky, der Präsident der angegriffenen Ukraine, wird später als Gast erwartet."
+				}
+			],
+			"directQuotes": [],
+			"inIntro": false,
+			"inTitle": false,
+			"indirectQuotes": [],
+			"isMain": false,
+			"name": "Wolodymyr Selensky",
+			"occupations": [
+				{
+					"text": "Präsident der angegriffenen Ukraine"
+				}
+			],
+			"occurrences": {
+				"firstNameOnly": 0,
+				"fullName": 1,
+				"lastNameOnly": 0,
+				"total": 1
+			},
+			"quotedInIntro": false,
+			"quotedInTitle": false,
+			"sex": "male"
+		},
+		{
+			"age": -1,
+			"alternativeNames": [],
+			"birthday": null,
+			"descriptiveTexts": [
+				{
+					"text": "Die Revolutionärin: Als Delia Lachance schwanger wurde, veränderte das nicht nur ihr Leben, sondern am Ende auch das Aktienrecht."
+				},
+				{
+					"text": "Die Gründerin von Westwing musste im März 2020 für ihre Babypause den Vorstand des Online-Einrichtungsshops verlassen."
+				},
+				{
+					"text": "Delia Lachance arbeitet inzwischen wieder in der Westwing-Spitze, nun als Kreativchefin."
+				},
+				{
+					"text": "Christina Kyriasoglou hat mit ihr über ihr neues Leben gesprochen."
+				}
+			],
+			"directQuotes": [],
+			"inIntro": false,
+			"inTitle": false,
+			"indirectQuotes": [],
+			"isMain": false,
+			"name": "Delia Lachance",
+			"occupations": [
+				{
+					"text": "Revolutionärin"
+				},
+				{
+					"text": "Gründerin von Westwing"
+				},
+				{
+					"text": "Vorstand des Online-Einrichtungsshops"
+				},
+				{
+					"text": "Kreativchefin"
+				}
+			],
+			"occurrences": {
+				"firstNameOnly": 0,
+				"fullName": 2,
+				"lastNameOnly": 0,
+				"total": 2
+			},
+			"quotedInIntro": false,
+			"quotedInTitle": false,
+			"sex": "female"
+		},
+		{
+			"age": -1,
+			"alternativeNames": [],
+			"birthday": null,
+			"descriptiveTexts": [
+				{
+					"text": "Christina Kyriasoglou hat mit ihr über ihr neues Leben gesprochen."
+				}
+			],
+			"directQuotes": [],
+			"inIntro": false,
+			"inTitle": false,
+			"indirectQuotes": [],
+			"isMain": false,
+			"name": "Christina Kyriasoglou",
+			"occupations": [],
+			"occurrences": {
+				"firstNameOnly": 0,
+				"fullName": 1,
+				"lastNameOnly": 0,
+				"total": 1
+			},
+			"quotedInIntro": false,
+			"quotedInTitle": false,
+			"sex": "female"
+		},
+		{
+			"age": -1,
+			"alternativeNames": [],
+			"birthday": null,
+			"descriptiveTexts": [
+				{
+					"text": "'Womöglich müssen wir die gesamte Business-School-Erfahrung neu denken', sagt einer der Autoren, der prominente Politökonom Daron Acemoğlu vom MIT."
+				}
+			],
+			"directQuotes": [
+				{
+					"text": "Womöglich müssen wir die gesamte Business-School-Erfahrung neu denken"
+				}
+			],
+			"inIntro": false,
+			"inTitle": false,
+			"indirectQuotes": [],
+			"isMain": false,
+			"name": "Daron Acemoğlu",
+			"occupations": [
+				{
+					"text": "prominente Politökonom"
+				},
+				{
+					"text": "Autoren"
+				}
+			],
+			"occurrences": {
+				"firstNameOnly": 0,
+				"fullName": 1,
+				"lastNameOnly": 0,
+				"total": 1
+			},
+			"quotedInIntro": false,
+			"quotedInTitle": false,
+			"sex": "male"
+		},
+		{
+			"age": -1,
+			"alternativeNames": [],
+			"birthday": null,
+			"descriptiveTexts": [
+				{
+					"text": "Das sagt Cristina Mariani-May, die Chefin des Weinguts Castello Banfi in der Toskana, das den ultimativen Edelessig herstellt."
+				},
+				{
+					"text": "Meine Kollegin Uschka Pittroff hat mit der Meisterin gesprochen und kann Ihnen deshalb eine besondere kleine Anregung für das Dinner am Wochenende mitgeben."
+				}
+			],
+			"directQuotes": [],
+			"inIntro": false,
+			"inTitle": false,
+			"indirectQuotes": [],
+			"isMain": false,
+			"name": "Cristina Mariani-May",
+			"occupations": [
+				{
+					"text": "Chefin des Weinguts Castello Banfi in der Toskana"
+				},
+				{
+					"text": "Meisterin"
+				}
+			],
+			"occurrences": {
+				"firstNameOnly": 0,
+				"fullName": 1,
+				"lastNameOnly": 0,
+				"total": 1
+			},
+			"quotedInIntro": false,
+			"quotedInTitle": false,
+			"sex": "female"
+		},
+		{
+			"age": -1,
+			"alternativeNames": [],
+			"birthday": null,
+			"descriptiveTexts": [
+				{
+					"text": "Meine Kollegin Uschka Pittroff hat mit der Meisterin gesprochen und kann Ihnen deshalb eine besondere kleine Anregung für das Dinner am Wochenende mitgeben."
+				}
+			],
+			"directQuotes": [],
+			"inIntro": false,
+			"inTitle": false,
+			"indirectQuotes": [],
+			"isMain": false,
+			"name": "Uschka Pittroff",
+			"occupations": [
+				{
+					"text": "Kollegin"
+				}
+			],
+			"occurrences": {
+				"firstNameOnly": 0,
+				"fullName": 1,
+				"lastNameOnly": 0,
+				"total": 1
+			},
+			"quotedInIntro": false,
+			"quotedInTitle": false,
+			"sex": "female"
+		},
+		{
+			"age": -1,
+			"alternativeNames": [],
+			"birthday": null,
+			"descriptiveTexts": [
+				{
+					"text": "Schon jetzt außerdem ein Hinweis für Ihre Sonntagslektüre: Zur letzten Runde beim G7-Gipfel in Japan finden Sie bei uns auch die Titelgeschichte des 'Economist' (auf Englisch), die sich mit US-Präsident Joe Biden und seiner Sicht auf die Welt beschäftigt."
+				}
+			],
+			"directQuotes": [],
+			"inIntro": false,
+			"inTitle": false,
+			"indirectQuotes": [],
+			"isMain": false,
+			"name": "Joe Biden",
+			"occupations": [
+				{
+					"text": "US-Präsident"
+				}
+			],
+			"occurrences": {
+				"firstNameOnly": 0,
+				"fullName": 1,
+				"lastNameOnly": 0,
+				"total": 1
+			},
+			"quotedInIntro": false,
+			"quotedInTitle": false,
+			"sex": "male"
+		},
+		{
+			"age": -1,
+			"alternativeNames": [],
+			"birthday": null,
+			"descriptiveTexts": [
+				{
+					"text": "Meine Empfehlung für den Abend"
+				},
+				{
+					"text": "Meine Kollegin Uschka Pittroff hat mit der Meisterin gesprochen und kann Ihnen deshalb eine besondere kleine Anregung für das Dinner am Wochenende mitgeben."
+				},
+				{
+					"text": "Ich wünsche Ihnen ein anregendes Wochenende, Ihr Christian Schütte"
+				},
+				{
+					"text": "Haben Sie Wünsche, Anregungen, Informationen, um die wir uns journalistisch kümmern sollten?"
+				},
+				{
+					"text": "Wir freuen uns auf Ihre Post unter chefredaktion@manager-magazin.de."
+				}
+			],
+			"directQuotes": [],
+			"inIntro": false,
+			"inTitle": false,
+			"indirectQuotes": [],
+			"isMain": false,
+			"name": "Christian Schütte",
+			"occupations": [],
+			"occurrences": {
+				"firstNameOnly": 0,
+				"fullName": 1,
+				"lastNameOnly": 0,
+				"total": 1
+			},
+			"quotedInIntro": false,
+			"quotedInTitle": false,
+			"sex": "male"
+		}
+	],
+	"subtopics": [
+		"Geopolitik",
+		"Brückentag",
+		"Westwing",
+		"Personalwesen",
+		"Elternzeit"
+	]
+}

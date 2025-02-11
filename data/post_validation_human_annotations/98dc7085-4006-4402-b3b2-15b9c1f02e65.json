@@ -1,0 +1,1314 @@
+{
+  "persons": [
+    {
+      "age": -1,
+      "alternativeNames": [],
+      "birthday": null,
+      "descriptiveTexts": [
+        {
+          "text": "Die letzten Stunden vor der Oscargala sind hektisch für die drei deutschen Nominierten."
+        },
+        {
+          "text": "Dabei erfahren Sandra Hüller, Wim Wenders und İlker Çatak aber auch, dass die Academy Awards immer internationaler werden."
+        },
+        {
+          "text": "Sandra Hüller wird draußen von den Kameras abgefangen."
+        },
+        {
+          "text": "Geduldig beantwortet die Schauspielerin Fragen, die sie schon zigmal beantwortet hat."
+        },
+        {
+          "text": "Was sie trägt: »Lemaire.«"
+        },
+        {
+          "text": "Wie sie im thüringischen Suhl gefeiert wird: »Weiß ich nicht, ich kenn da niemanden, ich bin da nur geboren.«"
+        },
+        {
+          "text": "Wie es sich anfühlt, in Hollywood angekommen zu sein: »Das kann man doch nicht sagen, das ist doch absurd.«"
+        },
+        {
+          "text": "Schließlich entzieht sie sich dem Verhör und flieht."
+        },
+        {
+          "text": "Wenders, Hüller, Çatak: Treffen sich drei Deutsche in Hollywood."
+        },
+        {
+          "text": "Denn alle drei, die dieser Tage kreuz und quer durch Los Angeles tingeln, sind für Academy Awards nominiert: die beiden Berliner Wenders und Çatak für ihre Filme »Perfect Days« und »Das Lehrerzimmer«, und Hüller, die in Leipzig lebt, für ihre Hauptrolle in »Anatomie eines Falls«."
+        },
+        {
+          "text": "Hüller konkurriert mit Emma Stone, Lily Gladstone, Annette Bening und Carey Mulligan (Britin)."
+        },
+        {
+          "text": "Weitere Deutsche, die an den Oscars beteiligt sind: Schauspieler Christian Friedel (und erneut Hüller) mit »The Zone of Interest« – der Auslandsfavorit – und der Berliner Produzent Thanassis Karathanos mit dem Dokumentarfilm »Four Daughters«."
+        },
+        {
+          "text": "Wenders, Çatak und Hüller sind zum großen Finale dieser langen, globalen Filmsaison jetzt zwar in Hollywood gelandet, doch mehr noch in »Hollyworld« (»Economist«)."
+        },
+        {
+          "text": "Das spürt man überall auf ihrer Reise durch die vielen Empfänge, Fototermine, Interviews, Talkrunden und Anproben, die sie erst noch absolvieren müssen, bevor sie dann in wenigen Stunden über den 300 Meter langen roten Teppich ins Dolby Theatre gescheucht werden wie glamouröse Herdentiere."
+        },
+        {
+          "text": "Sie meistern diese Pflicht vor der Kür souverän, ohne sich Nervosität anmerken zu lassen, mal getrennt, oft gemeinsam, doch immer mit Geduld – auch wenn diese Geduld zuletzt manchmal etwas abblättert."
+        },
+        {
+          "text": "Am schwersten tut sich Hüller, die mit dem ganzen Hollywood-Rummel noch nie viel anfangen konnte."
+        },
+        {
+          "text": "»Unbehaglich im Rampenlicht«, so hat die »New York Times« sie nach ihrer Oscar-Nominierung tituliert."
+        },
+        {
+          "text": "Hüller hatte dem »Times«-Reporter über ihren plötzlichen Ruhm gesagt, sie habe nicht unbedingt »darauf gewartet, dass das passiert«."
+        },
+        {
+          "text": "Am Freitag steht sie also am Sunset Boulevard, um sich vernehmen zu lassen, auf Deutsch und Französisch."
+        },
+        {
+          "text": "»Anscheinend gibt’s hier eine Menge Veranstaltungen, wo man teilnehmen muss«, informiert sie einen über ihren prallen Terminkalender vor den Oscars."
+        },
+        {
+          "text": "Als sich ein Reporter beschwert, dass sie »immer so bescheiden« sei, erwidert Hüller, sie habe eben nicht »so eine Headline im Kopf wie Sie«."
+        },
+        {
+          "text": "Wenders, Çatak und Hüller plaudern mit Leonie Benesch, dem Star von »Das Lehrerzimmer«."
+        },
+        {
+          "text": "Sie machen Selfies, umarmen sich, lachen."
+        },
+        {
+          "text": "»Ich drücke Sandra die Daumen und Wim die Daumen«, sagt Çatak, der im selben Jahr geboren wurde wie Wenders’ »Paris, Texas«."
+        },
+        {
+          "text": "Sollte die britische Produktion, die hier heiß gehandelt wird, den Auslandsoscar gewinnen, könnte es sein, dass Hüller mit auf die Bühne kommt, auch wenn sie und die anderen Deutschen leer ausgehen."
+        },
+        {
+          "text": "Auch wenn er dabei immer wieder nach Sandra Hüller gefragt wird statt nach seinem eigenen Film."
+        },
+        {
+          "text": "Warum die denn so ist, wie sie ist, so verschlossen und geheimnisvoll?"
+        },
+        {
+          "text": "»Die Sandra«, sagt Çatak, »hat das total verdient.«"
+        }
+      ],
+      "directQuotes": [
+        {
+          "text": "Lemaire."
+        },
+        {
+          "text": "Weiß ich nicht, ich kenn da niemanden, ich bin da nur geboren."
+        },
+        {
+          "text": "Das kann man doch nicht sagen, das ist doch absurd."
+        },
+        {
+          "text": "darauf gewartet, dass das passiert"
+        },
+        {
+          "text": "Anscheinend gibt’s hier eine Menge Veranstaltungen, wo man teilnehmen muss"
+        },
+        {
+          "text": "Jetzt bin ich erst mal hier, und dann fahr ich wieder weg, und dann sehen wir mal."
+        },
+        {
+          "text": "so eine Headline im Kopf wie Sie"
+        }
+      ],
+      "inIntro": true,
+      "inTitle": false,
+      "indirectQuotes": [
+        {
+          "text": "Hüller hatte dem »Times«-Reporter über ihren plötzlichen Ruhm gesagt, sie habe nicht unbedingt »darauf gewartet, dass das passiert«."
+        },
+        {
+          "text": "Als sich ein Reporter beschwert, dass sie »immer so bescheiden« sei, erwidert Hüller, sie habe eben nicht »so eine Headline im Kopf wie Sie«."
+        }
+      ],
+      "isMain": true,
+      "name": "Sandra Hüller",
+      "occupations": [
+        {
+          "text": "deutschen Nominierten"
+        }
+      ],
+      "occurrences": {
+        "firstNameOnly": 2,
+        "fullName": 3,
+        "lastNameOnly": 10,
+        "total": 15
+      },
+      "quotedInIntro": false,
+      "quotedInTitle": false,
+      "sex": "female"
+    },
+    {
+      "age": -1,
+      "alternativeNames": [],
+      "birthday": null,
+      "descriptiveTexts": [
+        {
+          "text": "Die letzten Stunden vor der Oscargala sind hektisch für die drei deutschen Nominierten."
+        },
+        {
+          "text": "Dabei erfahren Sandra Hüller, Wim Wenders und İlker Çatak aber auch, dass die Academy Awards immer internationaler werden."
+        },
+        {
+          "text": "Wim Wenders schaut in den Spiegel, als wolle er die Unruhe ringsum ausblenden."
+        },
+        {
+          "text": "Er ist ganz in Schwarz, die einzigen Farbflecken eine rote Binde am Kragen und die lila Hornbrille."
+        },
+        {
+          "text": "Der Regisseur hat sich in einen Raum am Innenhof zurückgezogen, fern vom Rummel der Eingangshalle."
+        },
+        {
+          "text": "Trotzdem entkommt er dem Lärm auch hier nicht."
+        },
+        {
+          "text": "Alle wollen was von ihm."
+        },
+        {
+          "text": "Wenders, Hüller, Çatak: Treffen sich drei Deutsche in Hollywood."
+        },
+        {
+          "text": "Denn alle drei, die dieser Tage kreuz und quer durch Los Angeles tingeln, sind für Academy Awards nominiert: die beiden Berliner Wenders und Çatak für ihre Filme »Perfect Days« und »Das Lehrerzimmer«, und Hüller, die in Leipzig lebt, für ihre Hauptrolle in »Anatomie eines Falls«."
+        },
+        {
+          "text": "Zwei Deutsche streiten um den »Best International Feature Film«: Çatak (teils in der Türkei aufgewachsen) für Deutschland, Wenders (Berliner Weltbürger) für Japan."
+        },
+        {
+          "text": "Wenders, Çatak und Hüller sind zum großen Finale dieser langen, globalen Filmsaison jetzt zwar in Hollywood gelandet, doch mehr noch in »Hollyworld« (»Economist«)."
+        },
+        {
+          "text": "Das spürt man überall auf ihrer Reise durch die vielen Empfänge, Fototermine, Interviews, Talkrunden und Anproben, die sie erst noch absolvieren müssen, bevor sie dann in wenigen Stunden über den 300 Meter langen roten Teppich ins Dolby Theatre gescheucht werden wie glamouröse Herdentiere."
+        },
+        {
+          "text": "Sie meistern diese Pflicht vor der Kür souverän, ohne sich Nervosität anmerken zu lassen, mal getrennt, oft gemeinsam, doch immer mit Geduld – auch wenn diese Geduld zuletzt manchmal etwas abblättert."
+        },
+        {
+          "text": "Studioleute sind da, Produzenten und, juxend auf einer Bank, Tom Bernard und Michael Baker, die Chefs von Sony Pictures Classics, dem Verleih, der für den US-Kinoerfolg vieler deutscher Filme verantwortlich ist, darunter der von Wenders."
+        },
+        {
+          "text": "Wenders, Çatak und Hüller plaudern mit Leonie Benesch, dem Star von »Das Lehrerzimmer«."
+        },
+        {
+          "text": "Sie machen Selfies, umarmen sich, lachen."
+        },
+        {
+          "text": "Wenders, zum vierten Mal als Oscarkandidat dabei, legt Çatak väterlich die Hand auf die Schulter."
+        },
+        {
+          "text": "»Ich drücke Sandra die Daumen und Wim die Daumen«, sagt Çatak, der im selben Jahr geboren wurde wie Wenders’ »Paris, Texas«."
+        },
+        {
+          "text": "»Dieser Mann hat sein Leben dem Kino verpflichtet. Das ist jemand, dem ich das so sehr wünsche würde.«"
+        },
+        {
+          "text": "Doch die Chance stehen für Wenders ähnlich schlecht wie für Çatak, jedenfalls im Vergleich zum Holocaustdrama »The Zone of Interest«."
+        },
+        {
+          "text": "Wenders und Ehefrau Donata, beide in Schwarz, lehnen Arm in Arm an einem Stehtisch, vor sich einen Weißwein."
+        },
+        {
+          "text": "»Ich werde überrascht sein, wenn er nicht gewinnt.«"
+        },
+        {
+          "text": "Ein Kleid aus Wim Wenders’ VHS-Kassetten"
+        },
+        {
+          "text": "Verarbeitet hat sie drei Wenders-Filme: »Paris, Texas«, »Der Himmel über Berlin« und »Tokyo-Ga«."
+        },
+        {
+          "text": "Ihr Mann ergänzt, dass er diese Kassetten sowieso habe loswerden wollen, wegen der schlechten Bildqualität: »Ich habe mich dafür immer nur geschämt.«"
+        },
+        {
+          "text": "Abends sitzen Wenders und Çatak auf der Bühne des enormen Hauskinos des Academy Museums."
+        },
+        {
+          "text": "Als Rajendra Roy, der Co-Chef des internationalen Komitees der Academy, sie nach vorne bittet, ruft er: »Aus Japan, Wim Wenders!«"
+        },
+        {
+          "text": "Wenders preist »Das Lehrerzimmer«: »Ich liebe diesen Film.«"
+        },
+        {
+          "text": "Wenders, der »elder statesman« in der Runde, legt sich ergriffen die Hand aufs Herz."
+        },
+        {
+          "text": "Wenders stoppt einen Reporter, der einen Minioscar am Revers stecken hat."
+        },
+        {
+          "text": "Woher er den hat?"
+        },
+        {
+          "text": "»Toll«, sagt Wenders, als habe er das Geheimnis Hollywoods entdeckt."
+        }
+      ],
+      "directQuotes": [
+        {
+          "text": "Ich habe mich dafür immer nur geschämt."
+        },
+        {
+          "text": "Ich liebe diesen Film."
+        },
+        {
+          "text": "Toll"
+        },
+        {
+          "text": "Wenn ich keinen gewinne, hole ich mir auch so’n Ding."
+        }
+      ],
+      "inIntro": true,
+      "inTitle": false,
+      "indirectQuotes": [
+      ],
+      "isMain": true,
+      "name": "Wim Wenders",
+      "occupations": [
+        {
+          "text": "deutschen Nominierten"
+        },
+        {
+          "text": "Regisseur"
+        },
+        {
+          "text": "Schauspielerin"
+        }
+      ],
+      "occurrences": {
+        "firstNameOnly": 1,
+        "fullName": 4,
+        "lastNameOnly": 16,
+        "total": 21
+      },
+      "quotedInIntro": false,
+      "quotedInTitle": false,
+      "sex": "male"
+    },
+    {
+      "age": -1,
+      "alternativeNames": [],
+      "birthday": null,
+      "descriptiveTexts": [
+        {
+          "text": "Die letzten Stunden vor der Oscargala sind hektisch für die drei deutschen Nominierten."
+        },
+        {
+          "text": "Dabei erfahren Sandra Hüller, Wim Wenders und İlker Çatak aber auch, dass die Academy Awards immer internationaler werden."
+        },
+        {
+          "text": "İlker Çatak blickt über die Köpfe der Gäste aufs Meer hinaus."
+        },
+        {
+          "text": "»Es ist ein Märchen, heute hier zu sein«, sagt der hochgeschossene Regisseur."
+        },
+        {
+          "text": "Er erinnert sich daran, wie alles anfing, damals, als sie »dieses winzige Projekt« zu filmen begannen."
+        },
+        {
+          "text": "Da scheint es ihn auch nicht mehr zu stören, dass der Gastgeber, wie so viele, Çataks Vornamen falsch ausspricht."
+        },
+        {
+          "text": "Wenders, Hüller, Çatak: Treffen sich drei Deutsche in Hollywood."
+        },
+        {
+          "text": "Denn alle drei, die dieser Tage kreuz und quer durch Los Angeles tingeln, sind für Academy Awards nominiert: die beiden Berliner Wenders und Çatak für ihre Filme »Perfect Days« und »Das Lehrerzimmer«, und Hüller, die in Leipzig lebt, für ihre Hauptrolle in »Anatomie eines Falls«."
+        },
+        {
+          "text": "Zwei Deutsche streiten um den »Best International Feature Film«: Çatak (teils in der Türkei aufgewachsen) für Deutschland, Wenders (Berliner Weltbürger) für Japan."
+        },
+        {
+          "text": "Wenders, Çatak und Hüller sind zum großen Finale dieser langen, globalen Filmsaison jetzt zwar in Hollywood gelandet, doch mehr noch in »Hollyworld« (»Economist«)."
+        },
+        {
+          "text": "Das spürt man überall auf ihrer Reise durch die vielen Empfänge, Fototermine, Interviews, Talkrunden und Anproben, die sie erst noch absolvieren müssen, bevor sie dann in wenigen Stunden über den 300 Meter langen roten Teppich ins Dolby Theatre gescheucht werden wie glamouröse Herdentiere."
+        },
+        {
+          "text": "Sie meistern diese Pflicht vor der Kür souverän, ohne sich Nervosität anmerken zu lassen, mal getrennt, oft gemeinsam, doch immer mit Geduld – auch wenn diese Geduld zuletzt manchmal etwas abblättert."
+        },
+        {
+          "text": "Wenders, Çatak und Hüller plaudern mit Leonie Benesch, dem Star von »Das Lehrerzimmer«."
+        },
+        {
+          "text": "Sie machen Selfies, umarmen sich, lachen."
+        },
+        {
+          "text": "Wenders, zum vierten Mal als Oscarkandidat dabei, legt Çatak väterlich die Hand auf die Schulter."
+        },
+        {
+          "text": "»Ich drücke Sandra die Daumen und Wim die Daumen«, sagt Çatak, der im selben Jahr geboren wurde wie Wenders’ »Paris, Texas«."
+        },
+        {
+          "text": "Doch die Chance stehen für Wenders ähnlich schlecht wie für Çatak, jedenfalls im Vergleich zum Holocaustdrama »The Zone of Interest«."
+        },
+        {
+          "text": "Çatak sieht’s gelassen."
+        },
+        {
+          "text": "»Wir sind ja krasse Außenseiter«, sagt er."
+        },
+        {
+          "text": "Was er mitnehmen möchte, »ist einfach mal dabei gewesen zu sein und zu sehen, wie sie das, was sie hier tun, auf Händen tragen wie ein Heiligtum.«"
+        },
+        {
+          "text": "Als er im Februar schon mal da war, zum Treffen aller Nominierten, gab ihm die Academy eine Urkunde mit der goldenen Gravur: »We are craftsmen – guardians – educators. We are the champions of filmmakers – past – present – future.«"
+        },
+        {
+          "text": "Abends sitzen Wenders und Çatak auf der Bühne des enormen Hauskinos des Academy Museums."
+        },
+        {
+          "text": "Vorher haben sie backstage noch Gruppenfotos gemacht, Çatak setzt sich dazu grinsend eine Sonnenbrille auf."
+        },
+        {
+          "text": "Moderator Roy fragt sie denn auch bald nach ihrer nicht immer leicht zu definierenden Identität – und spricht Çatak prompt auf seine Schelte der deutschen Medien an, die seinen türkischen Namen ausgeblendet oder falsch geschrieben hatten."
+        },
+        {
+          "text": "»Oh man, really?«, sagt Çatak, als wolle er nicht noch mal in diese Debatte eintauchen."
+        },
+        {
+          "text": "Çatak lobt »Zone of Interest« als »eine unglaubliche Leistung«."
+        },
+        {
+          "text": "Mit seelenruhigem Lächeln handelt derweil Çatak die Interviews ab, mittlerweile ein eiskalter Profi auf diesem Feld."
+        },
+        {
+          "text": "Auch wenn er dabei immer wieder nach Sandra Hüller gefragt wird statt nach seinem eigenen Film."
+        },
+        {
+          "text": "Warum die denn so ist, wie sie ist, so verschlossen und geheimnisvoll?"
+        },
+        {
+          "text": "»Die Sandra«, sagt Çatak, »hat das total verdient.«"
+        }
+      ],
+      "directQuotes": [
+        {
+          "text": "Meine Kollegen, meine Freunde, danke für alles."
+        },
+        {
+          "text": "Es ist ein Märchen, heute hier zu sein"
+        },
+        {
+          "text": "dieses winzige Projekt"
+        },
+        {
+          "text": "Ich drücke Sandra die Daumen und Wim die Daumen"
+        },
+        {
+          "text": "Dieser Mann hat sein Leben dem Kino verpflichtet. Das ist jemand, dem ich das so sehr wünsche würde."
+        },
+        {
+          "text": "Wir sind ja krasse Außenseiter"
+        },
+        {
+          "text": "Ich geh da hin und lehn mich zurück."
+        },
+        {
+          "text": "ist einfach mal dabei gewesen zu sein und zu sehen, wie sie das, was sie hier tun, auf Händen tragen wie ein Heiligtum."
+        },
+        {
+          "text": "We are craftsmen – guardians – educators. We are the champions of filmmakers – past – present – future."
+        },
+        {
+          "text": "Oh man, really?"
+        },
+        {
+          "text": "Ich liebe Deutschland und ich liebe es, dort zu leben, und deshalb kritisiere ich das Land."
+        },
+        {
+          "text": "eine unglaubliche Leistung"
+        },
+        {
+          "text": "Die Sandra"
+        },
+        {
+          "text": "hat das total verdient."
+        }
+      ],
+      "inIntro": true,
+      "inTitle": false,
+      "indirectQuotes": [],
+      "isMain": true,
+      "name": "İlker Çatak",
+      "occupations": [
+        {
+          "text": "deutschen Nominierten"
+        },
+        {
+          "text": "Regisseur"
+        }
+      ],
+      "occurrences": {
+        "firstNameOnly": 0,
+        "fullName": 2,
+        "lastNameOnly": 17,
+        "total": 19
+      },
+      "quotedInIntro": false,
+      "quotedInTitle": false,
+      "sex": "male"
+    },
+    {
+      "age": -1,
+      "alternativeNames": [],
+      "birthday": null,
+      "descriptiveTexts": [
+        {
+          "text": "»Es herrscht echtes Interesse am deutschen Film«, sagt Generalkonsulin Andrea Sasse. »Und das zu Recht.«"
+        }
+      ],
+      "directQuotes": [
+        {
+          "text": "Es herrscht echtes Interesse am deutschen Film"
+        },
+        {
+          "text": "Und das zu Recht."
+        }
+      ],
+      "inIntro": false,
+      "inTitle": false,
+      "indirectQuotes": [],
+      "isMain": false,
+      "name": "Andrea Sasse",
+      "occupations": [
+        {
+          "text": "Generalkonsulin"
+        }
+      ],
+      "occurrences": {
+        "firstNameOnly": 0,
+        "fullName": 1,
+        "lastNameOnly": 0,
+        "total": 1
+      },
+      "quotedInIntro": false,
+      "quotedInTitle": false,
+      "sex": "female"
+    },
+    {
+      "age": -1,
+      "alternativeNames": [],
+      "birthday": null,
+      "descriptiveTexts": [
+        {
+          "text": "Hüller konkurriert mit Emma Stone, Lily Gladstone, Annette Bening und Carey Mulligan (Britin)."
+        }
+      ],
+      "directQuotes": [],
+      "inIntro": false,
+      "inTitle": false,
+      "indirectQuotes": [],
+      "isMain": false,
+      "name": "Emma Stone",
+      "occupations": [],
+      "occurrences": {
+        "firstNameOnly": 0,
+        "fullName": 1,
+        "lastNameOnly": 0,
+        "total": 1
+      },
+      "quotedInIntro": false,
+      "quotedInTitle": false,
+      "sex": "female"
+    },
+    {
+      "age": -1,
+      "alternativeNames": [],
+      "birthday": null,
+      "descriptiveTexts": [
+        {
+          "text": "Hüller konkurriert mit Emma Stone, Lily Gladstone, Annette Bening und Carey Mulligan (Britin)."
+        }
+      ],
+      "directQuotes": [],
+      "inIntro": false,
+      "inTitle": false,
+      "indirectQuotes": [],
+      "isMain": false,
+      "name": "Lily Gladstone",
+      "occupations": [],
+      "occurrences": {
+        "firstNameOnly": 0,
+        "fullName": 1,
+        "lastNameOnly": 0,
+        "total": 1
+      },
+      "quotedInIntro": false,
+      "quotedInTitle": false,
+      "sex": "female"
+    },
+    {
+      "age": -1,
+      "alternativeNames": [],
+      "birthday": null,
+      "descriptiveTexts": [
+        {
+          "text": "Hüller konkurriert mit Emma Stone, Lily Gladstone, Annette Bening und Carey Mulligan (Britin)."
+        }
+      ],
+      "directQuotes": [],
+      "inIntro": false,
+      "inTitle": false,
+      "indirectQuotes": [],
+      "isMain": false,
+      "name": "Annette Bening",
+      "occupations": [],
+      "occurrences": {
+        "firstNameOnly": 0,
+        "fullName": 1,
+        "lastNameOnly": 0,
+        "total": 1
+      },
+      "quotedInIntro": false,
+      "quotedInTitle": false,
+      "sex": "female"
+    },
+    {
+      "age": -1,
+      "alternativeNames": [],
+      "birthday": null,
+      "descriptiveTexts": [
+        {
+          "text": "Hüller konkurriert mit Emma Stone, Lily Gladstone, Annette Bening und Carey Mulligan (Britin)."
+        }
+      ],
+      "directQuotes": [],
+      "inIntro": false,
+      "inTitle": false,
+      "indirectQuotes": [],
+      "isMain": false,
+      "name": "Carey Mulligan",
+      "occupations": [],
+      "occurrences": {
+        "firstNameOnly": 0,
+        "fullName": 1,
+        "lastNameOnly": 0,
+        "total": 1
+      },
+      "quotedInIntro": false,
+      "quotedInTitle": false,
+      "sex": "female"
+    },
+    {
+      "age": -1,
+      "alternativeNames": [],
+      "birthday": null,
+      "descriptiveTexts": [
+        {
+          "text": "Weitere Deutsche, die an den Oscars beteiligt sind: Schauspieler Christian Friedel (und erneut Hüller) mit »The Zone of Interest« – der Auslandsfavorit – und der Berliner Produzent Thanassis Karathanos mit dem Dokumentarfilm »Four Daughters«."
+        }
+      ],
+      "directQuotes": [],
+      "inIntro": false,
+      "inTitle": false,
+      "indirectQuotes": [],
+      "isMain": false,
+      "name": "Christian Friedel",
+      "occupations": [
+        {
+          "text": "Schauspieler"
+        }
+      ],
+      "occurrences": {
+        "firstNameOnly": 0,
+        "fullName": 1,
+        "lastNameOnly": 0,
+        "total": 1
+      },
+      "quotedInIntro": false,
+      "quotedInTitle": false,
+      "sex": "male"
+    },
+    {
+      "age": -1,
+      "alternativeNames": [],
+      "birthday": null,
+      "descriptiveTexts": [
+        {
+          "text": "Weitere Deutsche, die an den Oscars beteiligt sind: Schauspieler Christian Friedel (und erneut Hüller) mit »The Zone of Interest« – der Auslandsfavorit – und der Berliner Produzent Thanassis Karathanos mit dem Dokumentarfilm »Four Daughters«."
+        }
+      ],
+      "directQuotes": [],
+      "inIntro": false,
+      "inTitle": false,
+      "indirectQuotes": [],
+      "isMain": false,
+      "name": "Thanassis Karathanos",
+      "occupations": [
+        {
+          "text": "Produzent"
+        }
+      ],
+      "occurrences": {
+        "firstNameOnly": 0,
+        "fullName": 1,
+        "lastNameOnly": 0,
+        "total": 1
+      },
+      "quotedInIntro": false,
+      "quotedInTitle": false,
+      "sex": "male"
+    },
+    {
+      "age": -1,
+      "alternativeNames": [],
+      "birthday": null,
+      "descriptiveTexts": [
+        {
+          "text": "Und Matthias Schweighöfer spielt in »Oppenheimer« mit."
+        }
+      ],
+      "directQuotes": [
+      ],
+      "inIntro": false,
+      "inTitle": false,
+      "indirectQuotes": [
+      ],
+      "isMain": false,
+      "name": "Matthias Schweighöfer",
+      "occupations": [],
+      "occurrences": {
+        "firstNameOnly": 0,
+        "fullName": 1,
+        "lastNameOnly": 0,
+        "total": 1
+      },
+      "quotedInIntro": false,
+      "quotedInTitle": false,
+      "sex": "male"
+    },
+    {
+      "age": -1,
+      "alternativeNames": [],
+      "birthday": null,
+      "descriptiveTexts": [
+        {
+          "text": "Und Teo Yoo, Co-Star des Films »Past Lives«, wurde in Köln geboren."
+        }
+      ],
+      "directQuotes": [],
+      "inIntro": false,
+      "inTitle": false,
+      "indirectQuotes": [],
+      "isMain": false,
+      "name": "Teo Yoo",
+      "occupations": [],
+      "occurrences": {
+        "firstNameOnly": 0,
+        "fullName": 1,
+        "lastNameOnly": 0,
+        "total": 1
+      },
+      "quotedInIntro": false,
+      "quotedInTitle": false,
+      "sex": "male"
+    },
+    {
+      "age": -1, 
+      "alternativeNames": [],
+      "birthday": null,
+      "descriptiveTexts": [
+        {
+          "text": "Studioleute sind da, Produzenten und, juxend auf einer Bank, Tom Bernard und Michael Baker, die Chefs von Sony Pictures Classics, dem Verleih, der für den US-Kinoerfolg vieler deutscher Filme verantwortlich ist, darunter der von Wenders."
+        }
+      ],
+      "directQuotes": [],
+      "inIntro": false,
+      "inTitle": false,
+      "indirectQuotes": [],
+      "isMain": false,
+      "name": "Tom Bernard",
+      "occupations": [
+        {
+          "text": "Chefs von Sony Pictures Classics"
+        }
+      ],
+      "occurrences": {
+        "firstNameOnly": 0,
+        "fullName": 1,
+        "lastNameOnly": 0,
+        "total": 1
+      },
+      "quotedInIntro": false,
+      "quotedInTitle": false,
+      "sex": "male"
+    },
+    {
+      "age": -1, 
+      "alternativeNames": [],
+      "birthday": null,
+      "descriptiveTexts": [
+        {
+          "text": "Studioleute sind da, Produzenten und, juxend auf einer Bank, Tom Bernard und Michael Baker, die Chefs von Sony Pictures Classics, dem Verleih, der für den US-Kinoerfolg vieler deutscher Filme verantwortlich ist, darunter der von Wenders."
+        }
+      ],
+      "directQuotes": [],
+      "inIntro": false,
+      "inTitle": false,
+      "indirectQuotes": [],
+      "isMain": false,
+      "name": "Michael Baker",
+      "occupations": [
+        {
+          "text": "Chefs von Sony Pictures Classics"
+        }
+      ],
+      "occurrences": {
+        "firstNameOnly": 0,
+        "fullName": 1,
+        "lastNameOnly": 0,
+        "total": 1
+      },
+      "quotedInIntro": false,
+      "quotedInTitle": false,
+      "sex": "male"
+    },
+    {
+      "age": -1,
+      "alternativeNames": [],
+      "birthday": null,
+      "descriptiveTexts": [
+        {
+          "text": "Wenders, Çatak und Hüller plaudern mit Leonie Benesch, dem Star von »Das Lehrerzimmer«."
+        },
+        {
+          "text": "Sie machen Selfies, umarmen sich, lachen."
+        }
+      ],
+      "directQuotes": [],
+      "inIntro": false,
+      "inTitle": false,
+      "indirectQuotes": [],
+      "isMain": false,
+      "name": "Leonie Benesch",
+      "occupations": [
+        {
+          "text": "Star"
+        }
+      ],
+      "occurrences": {
+        "firstNameOnly": 0,
+        "fullName": 1,
+        "lastNameOnly": 0,
+        "total": 1
+      },
+      "quotedInIntro": false,
+      "quotedInTitle": false,
+      "sex": "female"
+    },
+    {
+      "age": -1,
+      "alternativeNames": [],
+      "birthday": null,
+      "descriptiveTexts": [
+        {
+          "text": "Wenders und Ehefrau Donata, beide in Schwarz, lehnen Arm in Arm an einem Stehtisch, vor sich einen Weißwein."
+        },
+        {
+          "text": "»Ich werde überrascht sein, wenn er gewinnt«, sagt sie."
+        },
+        {
+          "text": "Donata Wenders ist Fotografin, in »Perfect Days« hat sie die Traumszenen gedreht."
+        },
+        {
+          "text": "Für die Oscars wird sie ein Kleid tragen, das die Berliner Modeschöpferin Mira von der Osten für sie aus Magnetbändern von alten VHS-Kassetten gestrickt hat."
+        },
+        {
+          "text": "Verarbeitet hat sie drei Wenders-Filme: »Paris, Texas«, »Der Himmel über Berlin« und »Tokyo-Ga«."
+        },
+        {
+          "text": "»Total nachhaltig«, sagt Donata Wenders."
+        }
+      ],
+      "directQuotes": [
+        {
+          "text": "Ich werde überrascht sein, wenn er gewinnt"
+        },
+        {
+          "text": "Ich werde überrascht sein, wenn er nicht gewinnt."
+        },
+        {
+          "text": "Total nachhaltig"
+        },
+        {
+          "text": "Ich habe mich dafür immer nur geschämt."
+        }
+      ],
+      "inIntro": false,
+      "inTitle": false,
+      "indirectQuotes": [],
+      "isMain": false,
+      "name": "Donata Wenders",
+      "occupations": [
+        {
+          "text": "Fotografin"
+        }
+      ],
+      "occurrences": {
+        "firstNameOnly": 1,
+        "fullName": 2,
+        "lastNameOnly": 0,
+        "total": 3
+      },
+      "quotedInIntro": false,
+      "quotedInTitle": false,
+      "sex": "female"
+    },
+    {
+      "age": -1,
+      "alternativeNames": [],
+      "birthday": null,
+      "descriptiveTexts": [
+        {
+          "text": "Für die Oscars wird sie ein Kleid tragen, das die Berliner Modeschöpferin Mira von der Osten für sie aus Magnetbändern von alten VHS-Kassetten gestrickt hat."
+        },
+        {
+          "text": "Verarbeitet hat sie drei Wenders-Filme: »Paris, Texas«, »Der Himmel über Berlin« und »Tokyo-Ga«."
+        }
+      ],
+      "directQuotes": [],
+      "inIntro": false,
+      "inTitle": false,
+      "indirectQuotes": [],
+      "isMain": false,
+      "name": "Mira von der Osten",
+      "occupations": [
+        {
+          "text": "Modeschöpferin"
+        }
+      ],
+      "occurrences": {
+        "firstNameOnly": 0,
+        "fullName": 1,
+        "lastNameOnly": 0,
+        "total": 1
+      },
+      "quotedInIntro": false,
+      "quotedInTitle": false,
+      "sex": "female"
+    },
+    {
+      "age": -1,
+      "alternativeNames": [],
+      "birthday": null,
+      "descriptiveTexts": [
+        {
+          "text": "Mit dabei: Matteo Garrone aus Italien (»Io capitano«), J.A. Bayona aus Spanien (»Die Schneegesellschaft«) und der britische Produzent James Wilson (»Zone of Interest«), da Regisseur Jonathan Glazer verhindert ist."
+        },
+        {
+          "text": "Vorher haben sie backstage noch Gruppenfotos gemacht, Çatak setzt sich dazu grinsend eine Sonnenbrille auf."
+        }
+      ],
+      "directQuotes": [],
+      "inIntro": false,
+      "inTitle": false,
+      "indirectQuotes": [],
+      "isMain": false,
+      "name": "Matteo Garrone",
+      "occupations": [],
+      "occurrences": {
+        "firstNameOnly": 0,
+        "fullName": 1,
+        "lastNameOnly": 0,
+        "total": 1
+      },
+      "quotedInIntro": false,
+      "quotedInTitle": false,
+      "sex": "male"
+    },
+    {
+      "age": -1,
+      "alternativeNames": [],
+      "birthday": null,
+      "descriptiveTexts": [
+        {
+          "text": "Mit dabei: Matteo Garrone aus Italien (»Io capitano«), J.A. Bayona aus Spanien (»Die Schneegesellschaft«) und der britische Produzent James Wilson (»Zone of Interest«), da Regisseur Jonathan Glazer verhindert ist."
+        },
+        {
+          "text": "Vorher haben sie backstage noch Gruppenfotos gemacht, Çatak setzt sich dazu grinsend eine Sonnenbrille auf."
+        }
+      ],
+      "directQuotes": [],
+      "inIntro": false,
+      "inTitle": false,
+      "indirectQuotes": [],
+      "isMain": false,
+      "name": "J.A. Bayona",
+      "occupations": [],
+      "occurrences": {
+        "firstNameOnly": 0,
+        "fullName": 1,
+        "lastNameOnly": 0,
+        "total": 1
+      },
+      "quotedInIntro": false,
+      "quotedInTitle": false,
+      "sex": "male"
+    },
+    {
+      "age": -1,
+      "alternativeNames": [],
+      "birthday": null,
+      "descriptiveTexts": [
+        {
+          "text": "Mit dabei: Matteo Garrone aus Italien (»Io capitano«), J.A. Bayona aus Spanien (»Die Schneegesellschaft«) und der britische Produzent James Wilson (»Zone of Interest«), da Regisseur Jonathan Glazer verhindert ist."
+        },
+        {
+          "text": "Vorher haben sie backstage noch Gruppenfotos gemacht, Çatak setzt sich dazu grinsend eine Sonnenbrille auf."
+        },
+        {
+          "text": "Wilson nennt »Perfect Days« ein »cineastisches Haiku«, das sein »Leben verändert« habe."
+        }
+      ],
+      "directQuotes": [],
+      "inIntro": false,
+      "inTitle": false,
+      "indirectQuotes": [],
+      "isMain": false,
+      "name": "James Wilson",
+      "occupations": [
+        {
+          "text": "Produzent"
+        }
+      ],
+      "occurrences": {
+        "firstNameOnly": 0,
+        "fullName": 1,
+        "lastNameOnly": 1,
+        "total": 2
+      },
+      "quotedInIntro": false,
+      "quotedInTitle": false,
+      "sex": "male"
+    },
+    {
+      "age": -1,
+      "alternativeNames": [],
+      "birthday": null,
+      "descriptiveTexts": [
+        {
+          "text": "Mit dabei: Matteo Garrone aus Italien (»Io capitano«), J.A. Bayona aus Spanien (»Die Schneegesellschaft«) und der britische Produzent James Wilson (»Zone of Interest«), da Regisseur Jonathan Glazer verhindert ist."
+        },
+        {
+          "text": "Vorher haben sie backstage noch Gruppenfotos gemacht, Çatak setzt sich dazu grinsend eine Sonnenbrille auf."
+        }
+      ],
+      "directQuotes": [],
+      "inIntro": false,
+      "inTitle": false,
+      "indirectQuotes": [],
+      "isMain": false,
+      "name": "Jonathan Glazer",
+      "occupations": [
+        {
+          "text": "Regisseur"
+        }
+      ],
+      "occurrences": {
+        "firstNameOnly": 0,
+        "fullName": 1,
+        "lastNameOnly": 0,
+        "total": 1
+      },
+      "quotedInIntro": false,
+      "quotedInTitle": false,
+      "sex": "male"
+    },
+    {
+      "age": -1,
+      "alternativeNames": [],
+      "birthday": null,
+      "descriptiveTexts": [
+        {
+          "text": "Als Rajendra Roy, der Co-Chef des internationalen Komitees der Academy, sie nach vorne bittet, ruft er: »Aus Japan, Wim Wenders!«"
+        },
+        {
+          "text": "Spätestens hier, vor diesem großen Academy-Publikum, wird ihnen klar: Die Oscars sind kein Filmpreis wie die anderen, verliehen von einem Gremium oder einer Jury."
+        },
+        {
+          "text": "Moderator Roy fragt sie denn auch bald nach ihrer nicht immer leicht zu definierenden Identität – und spricht Çatak prompt auf seine Schelte der deutschen Medien an, die seinen türkischen Namen ausgeblendet oder falsch geschrieben hatten."
+        }
+      ],
+      "directQuotes": [
+        {
+          "text": "Aus Japan, Wim Wenders!"
+        }
+      ],
+      "inIntro": false,
+      "inTitle": false,
+      "indirectQuotes": [],
+      "isMain": false,
+      "name": "Rajendra Roy",
+      "occupations": [
+        {
+          "text": "Co-Chef des internationalen Komitees der Academy"
+        }
+      ],
+      "occurrences": {
+        "firstNameOnly": 0,
+        "fullName": 1,
+        "lastNameOnly": 1,
+        "total": 2
+      },
+      "quotedInIntro": false,
+      "quotedInTitle": false,
+      "sex": "male"
+    },
+    {
+      "age": -1,
+      "alternativeNames": [],
+      "birthday": null,
+      "descriptiveTexts": [
+        {
+          "text": "Am Samstag finden sie dann noch mal zusammen, an einem wirklich passenden Ort: Die Villa Aurora, ein mediterranes Anwesen in den Hügeln hoch über dem Pazifik, gehörte früher dem vor den Nazis geflohenen Schriftsteller Lion Feuchtwanger und war ein Refugium für europäische Exilanten: Thomas und Heinrich Mann, Bertolt Brecht, Charlie Chaplin."
+        }
+      ],
+      "directQuotes": [],
+      "inIntro": false,
+      "inTitle": false,
+      "indirectQuotes": [],
+      "isMain": false,
+      "name": "Lion Feuchtwanger",
+      "occupations": [
+        {
+          "text": "Schriftsteller"
+        }
+      ],
+      "occurrences": {
+        "firstNameOnly": 0,
+        "fullName": 1,
+        "lastNameOnly": 0,
+        "total": 1
+      },
+      "quotedInIntro": false,
+      "quotedInTitle": false,
+      "sex": "male"
+    },
+    {
+      "age": -1,
+      "alternativeNames": [],
+      "birthday": null,
+      "descriptiveTexts": [
+        {
+          "text": "Am Samstag finden sie dann noch mal zusammen, an einem wirklich passenden Ort: Die Villa Aurora, ein mediterranes Anwesen in den Hügeln hoch über dem Pazifik, gehörte früher dem vor den Nazis geflohenen Schriftsteller Lion Feuchtwanger und war ein Refugium für europäische Exilanten: Thomas und Heinrich Mann, Bertolt Brecht, Charlie Chaplin."
+        }
+      ],
+      "directQuotes": [],
+      "inIntro": false,
+      "inTitle": false,
+      "indirectQuotes": [],
+      "isMain": false,
+      "name": "Thomas Mann",
+      "occupations": [
+        {
+          "text": "europäische Exilanten"
+        }
+      ],
+      "occurrences": {
+        "firstNameOnly": 0,
+        "fullName": 1,
+        "lastNameOnly": 0,
+        "total": 1
+      },
+      "quotedInIntro": false,
+      "quotedInTitle": false,
+      "sex": "male"
+    },
+    {
+      "age": -1,
+      "alternativeNames": [],
+      "birthday": null,
+      "descriptiveTexts": [
+        {
+          "text": "Am Samstag finden sie dann noch mal zusammen, an einem wirklich passenden Ort: Die Villa Aurora, ein mediterranes Anwesen in den Hügeln hoch über dem Pazifik, gehörte früher dem vor den Nazis geflohenen Schriftsteller Lion Feuchtwanger und war ein Refugium für europäische Exilanten: Thomas und Heinrich Mann, Bertolt Brecht, Charlie Chaplin."
+        }
+      ],
+      "directQuotes": [],
+      "inIntro": false,
+      "inTitle": false,
+      "indirectQuotes": [],
+      "isMain": false,
+      "name": "Heinrich Mann",
+      "occupations": [
+        {
+          "text": "europäische Exilanten"
+        }
+      ],
+      "occurrences": {
+        "firstNameOnly": 0,
+        "fullName": 1,
+        "lastNameOnly": 0,
+        "total": 1
+      },
+      "quotedInIntro": false,
+      "quotedInTitle": false,
+      "sex": "male"
+    },
+    {
+      "age": -1,
+      "alternativeNames": [],
+      "birthday": null,
+      "descriptiveTexts": [
+        {
+          "text": "Am Samstag finden sie dann noch mal zusammen, an einem wirklich passenden Ort: Die Villa Aurora, ein mediterranes Anwesen in den Hügeln hoch über dem Pazifik, gehörte früher dem vor den Nazis geflohenen Schriftsteller Lion Feuchtwanger und war ein Refugium für europäische Exilanten: Thomas und Heinrich Mann, Bertolt Brecht, Charlie Chaplin."
+        }
+      ],
+      "directQuotes": [],
+      "inIntro": false,
+      "inTitle": false,
+      "indirectQuotes": [],
+      "isMain": false,
+      "name": "Bertolt Brecht",
+      "occupations": [
+        {
+          "text": "europäische Exilanten"
+        }
+      ],
+      "occurrences": {
+        "firstNameOnly": 0,
+        "fullName": 1,
+        "lastNameOnly": 0,
+        "total": 1
+      },
+      "quotedInIntro": false,
+      "quotedInTitle": false,
+      "sex": "male"
+    },
+    {
+      "age": -1,
+      "alternativeNames": [],
+      "birthday": null,
+      "descriptiveTexts": [
+        {
+          "text": "Am Samstag finden sie dann noch mal zusammen, an einem wirklich passenden Ort: Die Villa Aurora, ein mediterranes Anwesen in den Hügeln hoch über dem Pazifik, gehörte früher dem vor den Nazis geflohenen Schriftsteller Lion Feuchtwanger und war ein Refugium für europäische Exilanten: Thomas und Heinrich Mann, Bertolt Brecht, Charlie Chaplin."
+        }
+      ],
+      "directQuotes": [],
+      "inIntro": false,
+      "inTitle": false,
+      "indirectQuotes": [],
+      "isMain": false,
+      "name": "Charlie Chaplin",
+      "occupations": [
+        {
+          "text": "europäische Exilanten"
+        }
+      ],
+      "occurrences": {
+        "firstNameOnly": 0,
+        "fullName": 1,
+        "lastNameOnly": 0,
+        "total": 1
+      },
+      "quotedInIntro": false,
+      "quotedInTitle": false,
+      "sex": "male"
+    },
+    {
+      "age": -1,
+      "alternativeNames": [],
+      "birthday": null,
+      "descriptiveTexts": [
+        {
+          "text": "Jetzt ist sie Künstlerresidenz – Edward Berger, der deutsche Oscarheld vom letzten Jahr, hatte in dieser Idylle mal ein Stipendium – und Schauplatz der offiziellen deutschen Oscarparty."
+        }
+      ],
+      "directQuotes": [],
+      "inIntro": false,
+      "inTitle": false,
+      "indirectQuotes": [],
+      "isMain": false,
+      "name": "Edward Berger",
+      "occupations": [
+        {
+          "text": "deutsche Oscarheld"
+        }
+      ],
+      "occurrences": {
+        "firstNameOnly": 0,
+        "fullName": 1,
+        "lastNameOnly": 0,
+        "total": 1
+      },
+      "quotedInIntro": false,
+      "quotedInTitle": false,
+      "sex": "male"
+    },
+    {
+      "age": 14,
+      "alternativeNames": [],
+      "birthday": null,
+      "descriptiveTexts": [
+        {
+          "text": "So richtig verändert habe sich für ihn bisher nichts, sagt der 14-jährige Leonard Stettnisch, der in »Das Lehrerzimmer« seine erste Rolle hatte, als Schüler."
+        },
+        {
+          "text": "Sein Vater Michael Klammer, der einen Lehrer spielt, steht grinsend daneben: Der Weg ihres kleinen Films zu den Oscars sei immerhin »eine einzigartige Geschichte«."
+        }
+      ],
+      "directQuotes": [
+        {
+          "text": "Ich bin immer noch der Leo."
+        }
+      ],
+      "inIntro": false,
+      "inTitle": false,
+      "indirectQuotes": [
+        {
+          "text": "So richtig verändert habe sich für ihn bisher nichts, sagt der 14-jährige Leonard Stettnisch, der in »Das Lehrerzimmer« seine erste Rolle hatte, als Schüler."
+        }
+      ],
+      "isMain": false,
+      "name": "Leonard Stettnisch",
+      "occupations": [],
+      "occurrences": {
+        "firstNameOnly": 0,
+        "fullName": 1,
+        "lastNameOnly": 0,
+        "total": 1
+      },
+      "quotedInIntro": false,
+      "quotedInTitle": false,
+      "sex": "male"
+    },
+    {
+      "age": -1,
+      "alternativeNames": [],
+      "birthday": null,
+      "descriptiveTexts": [
+        {
+          "text": "Sein Vater Michael Klammer, der einen Lehrer spielt, steht grinsend daneben: Der Weg ihres kleinen Films zu den Oscars sei immerhin »eine einzigartige Geschichte«."
+        }
+      ],
+      "directQuotes": [
+        {
+          "text": "eine einzigartige Geschichte"
+        }
+      ],
+      "inIntro": false,
+      "inTitle": false,
+      "indirectQuotes": [
+        {
+          "text": "Sein Vater Michael Klammer, der einen Lehrer spielt, steht grinsend daneben: Der Weg ihres kleinen Films zu den Oscars sei immerhin »eine einzigartige Geschichte«."
+        }
+      ],
+      "isMain": false,
+      "name": "Michael Klammer",
+      "occupations": [],
+      "occurrences": {
+        "firstNameOnly": 0,
+        "fullName": 1,
+        "lastNameOnly": 0,
+        "total": 1
+      },
+      "quotedInIntro": false,
+      "quotedInTitle": false,
+      "sex": "male"
+    }
+  ],
+  "subtopics": [
+    "Kultur",
+    "Berühmtheit",
+    "Kino",
+    "Oscars",
+    "Film"
+  ]
+}

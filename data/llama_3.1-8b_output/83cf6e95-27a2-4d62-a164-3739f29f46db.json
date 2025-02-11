@@ -1,0 +1,467 @@
+{
+    "persons": [
+        {
+            "name": "Kevin Kelly",
+            "alternativeNames": [],
+            "age": -1,
+            "sex": "male",
+            "occurences": {
+                "total": 1,
+                "firstNameOnly": 0,
+                "lastNameOnly": 0,
+                "fullName": 1,
+                "nickname": 0
+            },
+            "inTitle": false,
+            "inIntro": false,
+            "_name": {
+                "firstname": "Kevin",
+                "lastname": "Kelly",
+                "nickname": null,
+                "alternative_names": [],
+                "academic_title": null,
+                "nobility_title_or_rank": null
+            },
+            "descriptiveTexts": [
+                {
+                    "text": "Sie dokumentieren, wie im Herbst \u00fcber 4400 Zuschauerinnen und Zuschauer per TikTok live verfolgten, wie der Kandidat seinen Plastikbecher leerte, zum Titellied von Pippi Langstrumpf."
+                },
+                {
+                    "text": "Falls Sie sich jetzt fragen, wo im Internet Sie falsch abgebogen sind, um so etwas hier zu lesen, sei Ihnen versichert: Niknando ist als Webstar zwar nicht so bekannt wie ein Rezo, ein Papaplatte oder eine Bibi."
+                },
+                {
+                    "text": "Niknando wirkt so wie der ultimative Beweis f\u00fcr die These des Techjournalisten Kevin Kelly, laut der mitunter 1000 zahlungswillige Hardcore-Fans ausreichen, damit Influencer von ihrem Content leben k\u00f6nnen."
+                }
+            ],
+            "occupations": [],
+            "directQuotes": [],
+            "quotedInTitle": false,
+            "quotedInIntro": false
+        },
+        {
+            "name": "AlphaKevin",
+            "alternativeNames": [],
+            "age": -1,
+            "sex": "male",
+            "occurences": {
+                "total": 1,
+                "firstNameOnly": 0,
+                "lastNameOnly": 0,
+                "fullName": 1,
+                "nickname": 0
+            },
+            "inTitle": false,
+            "inIntro": false,
+            "_name": {
+                "firstname": "AlphaKevin",
+                "lastname": null,
+                "nickname": null,
+                "alternative_names": [],
+                "academic_title": null,
+                "nobility_title_or_rank": null
+            },
+            "descriptiveTexts": [
+                {
+                    "text": "Viel herumgereicht wurde ein Beitrag des Meinungsbloggers AlphaKevin mit dem Titel \u00bbNiknando \u2013 Dieser riesen TikTok Streamer nutzt Menschen mit geistiger Behinderung aus?!\u00ab."
+                }
+            ],
+            "occupations": [],
+            "directQuotes": [],
+            "quotedInTitle": false,
+            "quotedInIntro": false
+        },
+        {
+            "name": "Tobias Kybart",
+            "alternativeNames": [],
+            "age": -1,
+            "sex": "male",
+            "occurences": {
+                "total": 3,
+                "firstNameOnly": 0,
+                "lastNameOnly": 2,
+                "fullName": 1,
+                "nickname": 0
+            },
+            "inTitle": false,
+            "inIntro": false,
+            "_name": {
+                "firstname": "Tobias",
+                "lastname": "Kybart",
+                "nickname": null,
+                "alternative_names": [],
+                "academic_title": null,
+                "nobility_title_or_rank": null
+            },
+            "descriptiveTexts": [
+                {
+                    "text": "Auf diesen Vorwurf angesprochen blickt Niknando zu seinem Manager Tobias Kybart, der beim Interview neben ihm sitzt."
+                },
+                {
+                    "text": "Kybart stellt klar, dass er derjenige sei, der etwa f\u00fcr \u00bbHouse of Challenge\u00ab die Bewerbungen sichte."
+                },
+                {
+                    "text": "Mit den Kandidaten f\u00fchre er vor Beginn jenes Drehs vier Gruppencalls durch, sagt er, trotzdem falle es ihm manchmal schwer, abzusch\u00e4tzen, wie gut jemand physisch und mental f\u00fcr das Format geeignet sei."
+                },
+                {
+                    "text": "Dass bei Niknando-Shows tats\u00e4chlich schon Menschen mit k\u00f6rperlichen und geistigen Behinderungen mitgemacht haben, best\u00e4tigt Kybart."
+                },
+                {
+                    "text": "Pauschal abgelehnt h\u00e4tten Niknando und er bisher lediglich Bewerber mit gesetzlichen Betreuern, sagt er."
+                }
+            ],
+            "occupations": [],
+            "directQuotes": [],
+            "quotedInTitle": false,
+            "quotedInIntro": false
+        },
+        {
+            "name": "Katrin Scheibe",
+            "alternativeNames": [],
+            "age": -1,
+            "sex": "female",
+            "occurences": {
+                "total": 2,
+                "firstNameOnly": 0,
+                "lastNameOnly": 1,
+                "fullName": 1,
+                "nickname": 0
+            },
+            "inTitle": false,
+            "inIntro": false,
+            "_name": {
+                "firstname": "Katrin",
+                "lastname": "Scheibe",
+                "nickname": null,
+                "alternative_names": [],
+                "academic_title": null,
+                "nobility_title_or_rank": null
+            },
+            "descriptiveTexts": [
+                {
+                    "text": "Mit der Frage, warum sich Menschen \u00fcberhaupt Livestreams anschauen, besch\u00e4ftigt sich Katrin Scheibe von der Heinrich-Heine-Universit\u00e4t D\u00fcsseldorf."
+                },
+                {
+                    "text": "Sie sagt, der Reiz von Live-Inhalten bestehe vor allem darin, \u00fcber den Chat mit der streamenden Person und anderen Zuschauerinnen und Zuschauern in Kontakt zu treten: \u00bbMan pflegt dort seine cybersozialen Beziehungen.\u00ab"
+                },
+                {
+                    "text": "Ein weiterer Reiz von Livestreams sei die \u00bbUnvorhersehbarkeit und Spontaneit\u00e4t\u00ab, so Scheibe."
+                }
+            ],
+            "occupations": [],
+            "directQuotes": [
+                {
+                    "text": "Man pflegt dort seine cybersozialen Beziehungen."
+                },
+                {
+                    "text": "Unvorhersehbarkeit und Spontaneit\u00e4t"
+                }
+            ],
+            "quotedInTitle": false,
+            "quotedInIntro": false
+        },
+        {
+            "name": "Dennis Michael Bauer",
+            "alternativeNames": [],
+            "age": 35,
+            "sex": "male",
+            "occurences": {
+                "total": 58,
+                "firstNameOnly": 0,
+                "lastNameOnly": 1,
+                "fullName": 1,
+                "nickname": 56
+            },
+            "inTitle": false,
+            "inIntro": true,
+            "_name": {
+                "firstname": "Dennis Michael",
+                "lastname": "Bauer",
+                "nickname": "Niknando",
+                "alternative_names": [],
+                "academic_title": null,
+                "nobility_title_or_rank": null
+            },
+            "descriptiveTexts": [
+                {
+                    "text": "Niknando, ein 1,96-Meter-Mann mit goldenen Ohrringen, hei\u00dft eigentlich Dennis Michael Bauer."
+                },
+                {
+                    "text": "Er ist 35 Jahre alt und lebt in der N\u00e4he von Hannover."
+                },
+                {
+                    "text": "Auf den Hals hat er sich den Kopf eines L\u00f6wen t\u00e4towieren lassen, der eine Krone tr\u00e4gt."
+                },
+                {
+                    "text": "Niknando verweist auf beliebte TV-Formate wie \u00bbBauer sucht Frau\u00ab, nach dem Motto: Die machen doch im Grunde dasselbe, nur mit mehr Budget."
+                }
+            ],
+            "occupations": [
+                {
+                    "text": "Influencer"
+                },
+                {
+                    "text": "Entertainer"
+                },
+                {
+                    "text": "Livestreamer"
+                },
+                {
+                    "text": "Lovoo-Streamer"
+                }
+            ],
+            "directQuotes": [],
+            "quotedInTitle": false,
+            "quotedInIntro": true
+        },
+        {
+            "name": "Nando",
+            "alternativeNames": [],
+            "age": -1,
+            "sex": "male",
+            "occurences": {
+                "total": 3,
+                "firstNameOnly": 0,
+                "lastNameOnly": 0,
+                "fullName": 3,
+                "nickname": 0
+            },
+            "inTitle": false,
+            "inIntro": false,
+            "_name": {
+                "firstname": "Nando",
+                "lastname": null,
+                "nickname": null,
+                "alternative_names": [],
+                "academic_title": null,
+                "nobility_title_or_rank": null
+            },
+            "descriptiveTexts": [
+                {
+                    "text": "Wie er dazu stehe, dass ein Kandidat in einem seiner Showformate Eigenurin geext hat?"
+                },
+                {
+                    "text": "\u00bbEs gibt Pipikuren\u00ab, schickt er vorweg: \u00bbPipi ist nicht gesundheitssch\u00e4digend.\u00ab"
+                },
+                {
+                    "text": "Und dann betont Niknando, dass er nie etwas von anderen verlange, das er nicht auch selbst tun w\u00fcrde: \u00bbIn einem meiner ersten Streams habe auch ich mal einen Urinshot getrunken.\u00ab"
+                },
+                {
+                    "text": "Doch auch Menschen wie er pr\u00e4gen die Netzkultur."
+                },
+                {
+                    "text": "Wie ihm ein TikTok-Mitarbeiter 2023 in einem Livestream mitteilte, war er auf der Plattform zeitweilig sogar der Streamer mit den meisten zahlenden Abonnenten weltweit \u2013 und aktuell liegt Niknando seinem Stand nach deutschlandweit vorn."
+                },
+                {
+                    "text": "Der Streamer sagt, seit seinem Start dort im M\u00e4rz 2022 habe er auf TikTok mehr als eine Million Euro Umsatz erwirtschaftet \u2013 was angesichts vieler hoher Platzierungen in \u00f6ffentlich einsehbaren Live-Ranglisten plausibel wirkt."
+                },
+                {
+                    "text": "Viele davon sind Dating- und Talk-Formate, in denen er Zuschauerinnen und Zuschauer per Videocall in den Stream holt, wo diese Partner suchen oder mit Ex-Partnern abrechnen."
+                },
+                {
+                    "text": "H\u00e4ufig beschw\u00f6rt er, dass es in seinen Shows \u00bbknallt\u00ab oder \u00bbwild\u00ab wird."
+                },
+                {
+                    "text": "Seinem Livepublikum erz\u00e4hlte er k\u00fcrzlich offenherzig, dass er gern andere Menschen auslache und sehr schadenfroh sei."
+                },
+                {
+                    "text": "F\u00fcr manche Formate trifft er die Teilnehmer auch pers\u00f6nlich."
+                },
+                {
+                    "text": "Er hat sein eigenes \u00bbBig Brother\u00ab"
+                },
+                {
+                    "text": "Er und andere Kritiker vermuten, auch auf Basis der eben beschriebenen Szene, dass Niknando in seinen Shows Menschen vor die Kamera holt, die die Folgen schwer absch\u00e4tzen k\u00f6nnen."
+                },
+                {
+                    "text": "Internetnutzer, sagt Niknando, h\u00e4tten ihn schon so oft als \u00bbb\u00f6se\u00ab bezeichnet, dass er inzwischen auch selbst so \u00fcber sich spreche, \u00fcber den \u00bbb\u00f6sen Niknando\u00ab."
+                },
+                {
+                    "text": "\u00bbIch spiele das Spiel einfach mit. Weil ich das Gef\u00fchl habe, dass ich es den Leuten eh nie recht machen kann.\u00ab"
+                },
+                {
+                    "text": "Niknandos Erfolg basiert darauf, dass er sich, langj\u00e4hrigem Gegenwind zum Trotz, eine sehr treue Fan-Community aufgebaut hat, in f\u00fcnfstelliger Gr\u00f6\u00dfenordnung."
+                },
+                {
+                    "text": "Die meisten seiner Fans seien 25 bis 40 Jahre alt und weiblich, sagt er."
+                },
+                {
+                    "text": "Follower identifizieren sich sogar in ihrer Profilbeschreibung mit ihm, bezeichnen sich als Teil des \u00bbTeam Nando\u00ab oder posten \u00bbEinmal Nando, immer Nando\u00ab."
+                },
+                {
+                    "text": "Werbedeals hat Niknando fast nie \u2013 wohl vor allem, weil er nicht brandsafe ist."
+                },
+                {
+                    "text": "Zwar kommt selbst bei ihm der weit \u00fcberwiegende Teil der Tausenden von Stunden, die er schon vor der Kamera gestanden hat, harmlos daher."
+                },
+                {
+                    "text": "\u00bbIch schei\u00df auf euch\u00ab, w\u00fctete er dabei einmal."
+                },
+                {
+                    "text": "\u00bbF\u00fcr was mache ich diese Shows? Ich ficke euch, Alter.\u00ab"
+                },
+                {
+                    "text": "Virtuelle Geschenke, wie sie Niknando als eine Art gemeinschaftlich zu entrichtendes Eintrittsgeld f\u00fcr seine Shows sieht, seien dabei ein Weg, Streamerinnen und Streamer f\u00fcr gew\u00fcnschtes Verhalten zu belohnen und aus der Masse hervorzustechen."
+                },
+                {
+                    "text": "Anders als klassische Onlinevideos k\u00f6nne man TikTok-Streams in der Regel nicht so einfach im Nachhinein anschauen \u2013 was bei vielen Menschen die Sorge wecke, sie k\u00f6nnten etwas verpassen, wenn sie nicht einschalten und dranbleiben."
+                },
+                {
+                    "text": "Er selbst ist ein Workaholic, bei dem Job und Freizeit verschwimmen, zum Beispiel bei Community-Treffen."
+                },
+                {
+                    "text": "In den vergangenen sechs Jahren sei er nahezu jeden Tag live gewesen, sagt er, Streamen sei f\u00fcr ihn \u00bbwie eine Sucht\u00ab: \u00bbEs gibt Tage, da esse, schlafe und streame ich nur.\u00ab"
+                },
+                {
+                    "text": "Ohne seinen Stream habe er \u00bbVerlust\u00e4ngste\u00ab, sagt Niknando: \u00bbIch denke dann, dass die Zuschauer woanders hingehen.\u00ab"
+                },
+                {
+                    "text": "\u00dcber sein fr\u00fcheres Leben erz\u00e4hlt er, er sei in Heidelberg aufgewachsen, \u00bbin \u00e4rmeren Verh\u00e4ltnissen\u00ab: \u00bbMeine Mutter war alleinerziehend, meist war ich bei Oma und Opa.\u00ab"
+                },
+                {
+                    "text": "Als Kind sei er sch\u00fcchtern gewesen, seine \u00bbgro\u00dfe Klappe\u00ab habe sich erst als Jugendtrainer im Fu\u00dfball-Dorfverein entwickelt."
+                },
+                {
+                    "text": "F\u00fcr seinen Wunschberuf Bankkaufmann habe ihm die Qualifikation gefehlt, sagt Niknando, in der Schule sei er faul gewesen."
+                },
+                {
+                    "text": "Er habe sich daher von Job zu Job gehangelt: Callcenter, Supermarkt, Kinderpflege."
+                },
+                {
+                    "text": "Mitte der Zehnerjahre habe er im Umfeld des Frankfurter Hauptbahnhofs f\u00fcr einen Sicherheitsdienst gearbeitet."
+                },
+                {
+                    "text": "\u00dcber eine neue Bekanntschaft sei er auf der Liveplattform YouNow gelandet: Dort habe er 2016 zun\u00e4chst mit 9Live-artigem Content experimentiert \u2013 womit er bald so viel verdient habe, dass er das Streamen zu seinem Hauptjob machte."
+                },
+                {
+                    "text": "Dort avancierte er zu Deutschlands Lovoo-Streamer Nummer eins \u2013 der sich jedoch nach eigenem Bekunden lange nicht um das Versteuern seiner schon damals betr\u00e4chtlichen Einnahmen scherte."
+                },
+                {
+                    "text": "Laut eigenen Angaben lebte er zeitweise bewusst in Hotels, um dem Finanzamt zu entgehen."
+                },
+                {
+                    "text": "Sp\u00e4ter habe er mehr als 100.000 Euro nachzahlen m\u00fcssen."
+                },
+                {
+                    "text": "Bereits auf Lovoo habe er Datingformate gehabt, erz\u00e4hlt Niknando."
+                },
+                {
+                    "text": "Parallel dazu habe er auf seiner eigenen Website Zug\u00e4nge zu Content verkauft, einmal auch zu Erotik-Content."
+                },
+                {
+                    "text": "In diesen Zeitr\u00e4umen hatte er kein Einkommen."
+                },
+                {
+                    "text": "Eine der Zwangspausen bescherte ihm eine Challenge mit W\u00e4scheklammern, sagt er \u2013 mit W\u00e4scheklammern im Gesicht."
+                },
+                {
+                    "text": "Niknando betont, er \u00bbstehe nicht vor einem Behindertenheim und caste da Leute\u00ab."
+                },
+                {
+                    "text": "Und wie steht er zum Kern der Anschuldigungen, dem Ausnutzen?"
+                },
+                {
+                    "text": "Au\u00dferdem spricht er von einer Win-win-Situation."
+                },
+                {
+                    "text": "Ja, er verdiene durch die Shows Geld."
+                },
+                {
+                    "text": "Niknando meint, viele, die ihm ein Fehlverhalten vorwerfen, w\u00fcrden sich anders als er selbst \u00fcberhaupt nicht f\u00fcr die Menschen interessieren, die in seinen Shows auftauchen: \u00bbDie kennen sie ja nur durch mich.\u00ab"
+                },
+                {
+                    "text": "Au\u00dferdem sagt er: \u00bbIch finde, dass es auch Menschen mit einer Beeintr\u00e4chtigung verdient haben, an meinen Shows teilzunehmen, wenn sie das wollen.\u00ab"
+                },
+                {
+                    "text": "Als Showmaster befindet er sich in einer Machtposition, die Verantwortung mit sich bringt \u2013 und es hilft, wenn genau hingeschaut wird, was in Nischen wie seiner passiert."
+                },
+                {
+                    "text": "\u00bbMir ist schon bewusst, dass ich irgendwie auch ein Vorbild bin\u00ab"
+                },
+                {
+                    "text": "Niknando betont noch, er habe aus seiner Vergangenheit gelernt: So mache er etwa keinen Erotik-Content mehr."
+                },
+                {
+                    "text": "\u00bbEine gewisse Kritik an uns ist berechtigt\u00ab, sagt er auch."
+                },
+                {
+                    "text": "Zum Thema Verantwortung sagt er: \u00bbMir ist schon bewusst, dass ich irgendwie auch ein Vorbild bin. Auch wenn ich es manchmal vielleicht nicht wahrhaben will.\u00ab"
+                },
+                {
+                    "text": "Mehrfach aber spielte er auch Lacher ein."
+                },
+                {
+                    "text": "Und schlie\u00dflich sagte er: \u00bbUnd jetzt zum Finale noch mal den Becher voll \u00fcber den Kopf leeren!\u00ab"
+                }
+            ],
+            "occupations": [
+                {
+                    "text": "Entertainer"
+                },
+                {
+                    "text": "Livestreamer"
+                },
+                {
+                    "text": "Lovoo-Streamer"
+                }
+            ],
+            "directQuotes": [
+                {
+                    "text": "Du rotzt und kotzt mich nicht an, oder so?"
+                },
+                {
+                    "text": "Es gibt Pipikuren"
+                },
+                {
+                    "text": "Pipi ist nicht gesundheitssch\u00e4digend."
+                },
+                {
+                    "text": "In einem meiner ersten Streams habe auch ich mal einen Urinshot getrunken."
+                },
+                {
+                    "text": "knallt"
+                },
+                {
+                    "text": "in die Annalen eingehen"
+                },
+                {
+                    "text": "b\u00f6se"
+                },
+                {
+                    "text": "Ich spiele das Spiel einfach mit. Weil ich das Gef\u00fchl habe, dass ich es den Leuten eh nie recht machen kann."
+                },
+                {
+                    "text": "F\u00fcr was mache ich diese Shows? Ich ficke euch, Alter."
+                },
+                {
+                    "text": "Es gibt Tage, da esse, schlafe und streame ich nur."
+                },
+                {
+                    "text": "Ich denke dann, dass die Zuschauer woanders hingehen."
+                },
+                {
+                    "text": "Meine Mutter war alleinerziehend, meist war ich bei Oma und Opa."
+                },
+                {
+                    "text": "Mein Content fr\u00fcher war viel perverser, viel kranker."
+                },
+                {
+                    "text": "dass wir uns aus 100 Leuten zehn crazy people raussuchen, mit denen wir glauben, das meiste Geld zu verdienen, wie es uns Leute vorwerfen"
+                },
+                {
+                    "text": "Die kennen sie ja nur durch mich."
+                },
+                {
+                    "text": "Ich finde, dass es auch Menschen mit einer Beeintr\u00e4chtigung verdient haben, an meinen Shows teilzunehmen, wenn sie das wollen."
+                },
+                {
+                    "text": "Bei \u203aHouse of Challenge\u2039 etwa stimmt es, dass wir professioneller werden m\u00fcssen."
+                },
+                {
+                    "text": "Mir ist schon bewusst, dass ich irgendwie auch ein Vorbild bin. Auch wenn ich es manchmal vielleicht nicht wahrhaben will."
+                }
+            ],
+            "quotedInTitle": false,
+            "quotedInIntro": false
+        }
+    ]
+}

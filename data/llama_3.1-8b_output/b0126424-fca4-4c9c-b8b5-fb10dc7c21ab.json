@@ -1,0 +1,307 @@
+{
+    "persons": [
+        {
+            "name": "Emmanuel Macron",
+            "alternativeNames": [],
+            "age": -1,
+            "sex": "male",
+            "occurences": {
+                "total": 1,
+                "firstNameOnly": 0,
+                "lastNameOnly": 0,
+                "fullName": 1,
+                "nickname": 0
+            },
+            "inTitle": false,
+            "inIntro": false,
+            "_name": {
+                "firstname": "Emmanuel",
+                "lastname": "Macron",
+                "nickname": null,
+                "alternative_names": [],
+                "academic_title": null,
+                "nobility_title_or_rank": null
+            },
+            "descriptiveTexts": [
+                {
+                    "text": "Schon im M\u00e4rz 2023 traf er sich deshalb mit Frankreichs Pr\u00e4sident Emmanuel Macron."
+                }
+            ],
+            "occupations": [],
+            "directQuotes": [
+                {
+                    "text": "Es ist nonstop und auf allen Ebenen."
+                }
+            ],
+            "quotedInTitle": false,
+            "quotedInIntro": false
+        },
+        {
+            "name": "Rishi Sunak",
+            "alternativeNames": [],
+            "age": -1,
+            "sex": "male",
+            "occurences": {
+                "total": 2,
+                "firstNameOnly": 0,
+                "lastNameOnly": 0,
+                "fullName": 2,
+                "nickname": 0
+            },
+            "inTitle": false,
+            "inIntro": true,
+            "_name": {
+                "firstname": "Rishi",
+                "lastname": "Sunak",
+                "nickname": null,
+                "alternative_names": [],
+                "academic_title": null,
+                "nobility_title_or_rank": null
+            },
+            "descriptiveTexts": [
+                {
+                    "text": "\u00bbStop the boats!\u00ab, fordert Premier Rishi Sunak."
+                },
+                {
+                    "text": "Der britische Premier Rishi Sunak aber hat \u00bbStop the boats!\u00ab zu einem seiner zentralen Wahlversprechen gemacht."
+                },
+                {
+                    "text": "Kaum etwas kann er weniger gebraucht als Bilder von Migranten, die in Dover anlanden."
+                }
+            ],
+            "occupations": [],
+            "directQuotes": [
+                {
+                    "text": "Stop the boats!"
+                }
+            ],
+            "quotedInTitle": false,
+            "quotedInIntro": true
+        },
+        {
+            "name": "Robert Jenrick",
+            "alternativeNames": [],
+            "age": -1,
+            "sex": "male",
+            "occurences": {
+                "total": 1,
+                "firstNameOnly": 0,
+                "lastNameOnly": 0,
+                "fullName": 1,
+                "nickname": 0
+            },
+            "inTitle": false,
+            "inIntro": false,
+            "_name": {
+                "firstname": "Robert",
+                "lastname": "Jenrick",
+                "nickname": null,
+                "alternative_names": [],
+                "academic_title": null,
+                "nobility_title_or_rank": null
+            },
+            "descriptiveTexts": [
+                {
+                    "text": "Im September 2023 sprach Migrationsminister Robert Jenrick offen aus, was die Briten erwarten: Man habe die Franzosen ermutigt, Boote \u00bbauf dem Wasser abzufangen\u00ab."
+                }
+            ],
+            "occupations": [
+                {
+                    "text": "Migrationsminister"
+                }
+            ],
+            "directQuotes": [],
+            "quotedInTitle": false,
+            "quotedInIntro": false
+        },
+        {
+            "name": "Satinder",
+            "alternativeNames": [],
+            "age": 27,
+            "sex": "male",
+            "occurences": {
+                "total": 9,
+                "firstNameOnly": 0,
+                "lastNameOnly": 0,
+                "fullName": 9,
+                "nickname": 0
+            },
+            "inTitle": false,
+            "inIntro": false,
+            "_name": {
+                "firstname": "Satinder",
+                "lastname": null,
+                "nickname": null,
+                "alternative_names": [],
+                "academic_title": null,
+                "nobility_title_or_rank": null
+            },
+            "descriptiveTexts": [
+                {
+                    "text": "Die \u00dcberfahrt sei lange ruhig verlaufen, sagt Satinder."
+                },
+                {
+                    "text": "Zehn oder f\u00fcnfzehn Minuten seien er und 45 andere Migranten, die meisten aus Indien und Afghanistan, den wei\u00dfen Felsen von Dover entgegengerast, so wie sie es geplant hatten."
+                },
+                {
+                    "text": "Doch dann h\u00e4tten sie das Boot der franz\u00f6sischen Gendarmerie gesehen."
+                },
+                {
+                    "text": "Satinder, 27, ein hoch aufgeschossener Sikh aus Punjab, einer Region im Norden Indiens, erz\u00e4hlt diese Geschichte an einem regnerischen Januartag."
+                },
+                {
+                    "text": "Satinder w\u00e4rmt sich an einem Feuer."
+                },
+                {
+                    "text": "Als die franz\u00f6sischen Beamten sie erreicht h\u00e4tten, sei der Steuermann des Boots in Panik geraten, erinnert sich Satinder."
+                },
+                {
+                    "text": "Er habe Gas gegeben und versucht zu entkommen."
+                },
+                {
+                    "text": "Die Luft sei aus dem Boot entwichen, sagt Satinder."
+                },
+                {
+                    "text": "Der Steuermann habe noch versucht beizudrehen, vergeblich probierte er die franz\u00f6sische K\u00fcste zu erreichen."
+                },
+                {
+                    "text": "Doch das Boot sei gesunken, er und die anderen Passagiere h\u00e4tten minutenlang an Land schwimmen m\u00fcssen."
+                },
+                {
+                    "text": "Gestorben, sagt Satinder, sei niemand."
+                },
+                {
+                    "text": "F\u00fcr Satinders Geschichte gibt es keine visuellen Belege."
+                },
+                {
+                    "text": "Vier weitere Migranten geben zudem an, dass franz\u00f6sische Beamte ihre Schlauchboote aufgeschlitzt h\u00e4tten, als sie schon im Wasser gewesen seien."
+                },
+                {
+                    "text": "Satinder hat eine Beschwerde bei der franz\u00f6sischen B\u00fcrgerbeauftragten eingereicht, an die Pariser Beh\u00f6rde k\u00f6nnen sich Menschen wenden, die ihre Rechte missachtet sehen."
+                },
+                {
+                    "text": "Doch wenn sie es erst einmal aufs Wasser geschafft hatten, wurden Asylsuchende bisher meist nur im Rahmen von Rettungseins\u00e4tzen nach Frankreich zur\u00fcckgebracht."
+                },
+                {
+                    "text": "Sie verifizierten zudem Videos, die Migranten mit ihren Handys aufgenommen haben."
+                },
+                {
+                    "text": "Dann, so zeigen es die Bilder, rammen sie das Schlauchboot \u2013 und drehen ab."
+                },
+                {
+                    "text": "Der Mann am Steuer sei vermutlich ein Schlepper gewesen, er habe nicht kooperiert, teilen die franz\u00f6sischen Beh\u00f6rden dazu auf Anfrage mit."
+                },
+                {
+                    "text": "Als Reaktion auf die Kontrollen am Stand begannen die Schlepper sogenannte \u00bbTaxiboote\u00ab zu nutzen: Sie lassen diese an weit entfernten K\u00fcstenabschnitten oder in Fl\u00fcssen zu Wasser \u2013 und holen die Migranten anschlie\u00dfend am Strand ab."
+                },
+                {
+                    "text": "Zwangsma\u00dfnahmen gegen Boote auf See, von denen unter anderem Migranten wie Satinder berichten, habe man nie angeordnet."
+                },
+                {
+                    "text": "Sie f\u00fchre zu Gewalt und Chaos, schreiben die Aktivisten."
+                }
+            ],
+            "occupations": [
+                {
+                    "text": "Sikh aus Punjab"
+                },
+                {
+                    "text": "Migrant"
+                }
+            ],
+            "directQuotes": [],
+            "quotedInTitle": false,
+            "quotedInIntro": false
+        },
+        {
+            "name": "Kevin Saunders",
+            "alternativeNames": [],
+            "age": -1,
+            "sex": "male",
+            "occurences": {
+                "total": 3,
+                "firstNameOnly": 0,
+                "lastNameOnly": 2,
+                "fullName": 1,
+                "nickname": 0
+            },
+            "inTitle": false,
+            "inIntro": false,
+            "_name": {
+                "firstname": "Kevin",
+                "lastname": "Saunders",
+                "nickname": null,
+                "alternative_names": [],
+                "academic_title": null,
+                "nobility_title_or_rank": null
+            },
+            "descriptiveTexts": [
+                {
+                    "text": "\u00bbDas Video hat mich schockiert\u00ab, sagt der ehemalige britische K\u00fcstenw\u00e4chter Kevin Saunders."
+                },
+                {
+                    "text": "Saunders war selbst in Calais stationiert, er kennt den \u00c4rmelkanal gut, kann einsch\u00e4tzen, wie bedrohlich Str\u00f6mungen und Wetter sein k\u00f6nnen."
+                },
+                {
+                    "text": "Er sei \u00fcberrascht, dass die Franzosen so vorgingen, sagt Saunders."
+                }
+            ],
+            "occupations": [
+                {
+                    "text": "Das ist unglaublich gef\u00e4hrlich"
+                }
+            ],
+            "directQuotes": [
+                {
+                    "text": "Das Video hat mich schockiert"
+                }
+            ],
+            "quotedInTitle": false,
+            "quotedInIntro": false
+        },
+        {
+            "name": "R\u00e9mi Vandeplanque",
+            "alternativeNames": [],
+            "age": -1,
+            "sex": "male",
+            "occurences": {
+                "total": 4,
+                "firstNameOnly": 0,
+                "lastNameOnly": 3,
+                "fullName": 1,
+                "nickname": 0
+            },
+            "inTitle": false,
+            "inIntro": false,
+            "_name": {
+                "firstname": "R\u00e9mi",
+                "lastname": "Vandeplanque",
+                "nickname": null,
+                "alternative_names": [],
+                "academic_title": null,
+                "nobility_title_or_rank": "Kurf\u00fcrst"
+            },
+            "descriptiveTexts": [
+                {
+                    "text": "R\u00e9mi Vandeplanque, ein K\u00fcstenw\u00e4chter aus Brest, hat seine Bedenken in einer Beschwerde niedergeschrieben."
+                },
+                {
+                    "text": "Sie liegt dem SPIEGEL und seinen Recherchepartnern vor."
+                },
+                {
+                    "text": "Im Sommer, so Vandeplanque, sei ihm von Kollegen berichtet worden, dass die Polizei eine Besatzung der K\u00fcstenwache angewiesen habe, eines der \u00bbTaxiboote\u00ab zu zerstechen."
+                },
+                {
+                    "text": "Seine Kollegen, sagt Vandeplanque, h\u00e4tten sich \u00bbnat\u00fcrlich\u00ab geweigert, den mutma\u00dflichen Befehl auszuf\u00fchren \u2013 viel zu gef\u00e4hrlich."
+                },
+                {
+                    "text": "Wellen machen, Fl\u00fcchtlingsboote rammen, Vandeplanque sagt, er sch\u00e4me sich f\u00fcr diese Taktiken, die nun auf den Videos der Migranten sichtbar w\u00fcrden."
+                }
+            ],
+            "occupations": [],
+            "directQuotes": [],
+            "quotedInTitle": false,
+            "quotedInIntro": false
+        }
+    ]
+}

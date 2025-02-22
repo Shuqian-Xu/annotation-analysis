@@ -1,4 +1,5 @@
 import os
+import json
 
 def check_missing_files(human_folder: str, llm_folder: str, llm_name: str):
     """
@@ -22,3 +23,40 @@ def check_missing_files(human_folder: str, llm_folder: str, llm_name: str):
             print(f"{file} is missing in {llm_name} folder")
     else:
         print(f"No missing files in {llm_name} folder")
+
+def load_json(folder: str, filename: str):
+    """
+    Loads a JSON file from the specified folder.
+
+    :param folder: Path to the folder containing JSON files.
+    :param filename: Name of the JSON file to load.
+    :return: The JSON data as a dictionary (or list), or None if an error occurs.
+    """
+    if not filename.endswith(".json"):  # Ignore non-JSON files
+        return None
+
+    file_path = os.path.join(folder, filename)  # Construct full file path
+
+    # Check if the file exists
+    if not os.path.exists(file_path):
+        print(f"Error: {filename} not found in {folder}")
+        return None
+
+    # Try reading and parsing the JSON file
+    try:
+        with open(file_path, "r", encoding="utf-8") as f:  # Ensure UTF-8 decoding
+            data = json.load(f)
+
+        # Detect LLM error messages and exclude them
+        if isinstance(data, dict) and "error" in data and data["error"] == "string indices must be integers, not 'str'":
+            print(f"Skipping {filename} in {folder} (LLM error file)")
+            return None
+
+        return data  # Return JSON content as a Python object (dict or list)
+
+    except json.JSONDecodeError:
+        print(f"Error: {filename} is not a valid JSON file in {folder}")
+        return None
+    except Exception as e:
+        print(f"Unexpected error while reading {filename}: {e}")
+        return None

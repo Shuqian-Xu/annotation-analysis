@@ -1,0 +1,212 @@
+{
+  "persons": [
+    {
+      "age": -1,
+      "alternativeNames": [],
+      "birthday": null,
+      "descriptiveTexts": [
+        {
+          "text": "»Zu Hitlers Zeiten hat es vermutlich ähnlich angefangen«"
+        },
+        {
+          "text": "»Zu Hitlers Zeiten«, sagt er, »hat es vermutlich ähnlich angefangen«."
+        }
+      ],
+      "directQuotes": [],
+      "indirectQuotes": [],
+      "inIntro": false,
+      "inTitle": true,
+      "isMain": false,
+      "name": "Hitler",
+      "occupations": [],
+      "occurences": {
+        "firstNameOnly": 0,
+        "fullName": 0,
+        "lastNameOnly": 2,
+        "total": 2
+      },
+      "quotedInIntro": false,
+      "quotedInTitle": false,
+      "sex": []
+    },
+
+
+    {
+      "age": 65,
+      "alternativeNames": [],
+      "birthday": null,
+      "descriptiveTexts": [
+        {
+          "text": "Es ist, so steht es auf einem Pappschild, »5 vor 33« an diesem tristen Samstagmittag, als Ludger Appelhoff, 65 Jahre alt, 44 davon als Polizist, hinter einem schwarzen Block herläuft."
+        },
+        {
+          "text": "»Alle zusammen gegen den Faschismus« hallt es von vorne aus dem Zug und Appelhoff sagt: »Ich hätte vor ein paar Jahren nicht gedacht, dass ich mal bei einer solchen Demo mitlaufe.«"
+        },
+        {
+          "text": "Dienstlich habe er solche Veranstaltungen häufiger begleitet."
+        },
+        {
+          "text": "Aber jetzt, als frisch gebackener Rentner, hat sich Appelhoff eine grüne Jacke angezogen, darüber eine Weste der GdP, der Gewerkschaft der Polizei – und beschlossen, zu demonstrieren."
+        },
+        {
+          "text": "Dieses Gerede davon, dass es Deutschland schlecht ginge und die AfD das Land weiter bringen würde, das höre er zu oft."
+        },
+        {
+          "text": "»Zu Hitlers Zeiten«, sagt er, »hat es vermutlich ähnlich angefangen«."
+        },
+        {
+          "text": "Der frisch berentete Polizist Appellhoff freut sich, in der Menge den katholischen Stadtdechanten ausgemacht zu haben."
+        },
+        {
+          "text": "Auch wenn ihn die Massenabschiebungspläne nicht überrascht hätten, sei es Zeit, jetzt dagegenzuhalten und das Grundgesetz zu schützen."
+        },
+        {
+          "text": "Vor ihm das Plakat mit »5 vor 33«, hinter ihm »Für Liebe und Mitgefühl«."
+        }
+      ],
+      "directQuotes": [
+        {
+          "text": "»Ich hätte vor ein paar Jahren nicht gedacht, dass ich mal bei einer solchen Demo mitlaufe.«"
+        },
+        {
+          "text": "»Zu Hitlers Zeiten hat es vermutlich ähnlich angefangen«"
+        }
+      ],
+      "inIntro": false,
+      "inTitle": false,
+      "indirectQuotes": [
+        {
+          "text": "Dienstlich habe er solche Veranstaltungen häufiger begleitet."
+        },
+        {
+          "text": "Dieses Gerede davon, dass es Deutschland schlecht ginge und die AfD das Land weiter bringen würde, das höre er zu oft."
+        },
+        {
+          "text": "Auch wenn ihn die Massenabschiebungspläne nicht überrascht hätten, sei es Zeit, jetzt dagegenzuhalten und das Grundgesetz zu schützen."
+        }
+      ],
+      "isMain": true,
+      "name": "Ludger Appelhoff",
+      "occupations": [
+        {
+          "text": "berentete Polizist"
+        }
+      ],
+      "occurences": {
+        "firstNameOnly": 0,
+        "fullName": 1,
+        "lastNameOnly": 3,
+        "total": 4
+      },
+      "quotedInIntro": false,
+      "quotedInTitle": false,
+      "sex": "male"
+    },
+    {
+      "age": -1,
+      "alternativeNames": [],
+      "birthday": null,
+      "descriptiveTexts": [
+        {
+          "text": "1100 Menschen werden erwartet, der NRW-Landesvorsitzende Martin Vincentz will sprechen, später die AfD-Bundessprecherin Alice Weidel."
+        }
+      ],
+      "directQuotes": [],
+      "inIntro": false,
+      "inTitle": false,
+      "indirectQuotes": [],
+      "isMain": false,
+      "name": "Martin Vincentz",
+      "occupations": [
+        {
+          "text": "NRW-Landesvorsitzende"
+        }
+      ],
+      "occurences": {
+        "firstNameOnly": 0,
+        "fullName": 1,
+        "lastNameOnly": 0,
+        "total": 1
+      },
+      "quotedInIntro": false,
+      "quotedInTitle": false,
+      "sex": "male"
+    }, 
+    {
+      "age": -1,
+      "alternativeNames": [],
+      "birthday": null,
+      "descriptiveTexts": [
+        {
+          "text": "1100 Menschen werden erwartet, der NRW-Landesvorsitzende Martin Vincentz will sprechen, später die AfD-Bundessprecherin Alice Weidel."
+        },
+        {
+          "text": "Als der AfD-Kreisverband am 16. Dezember auf seiner Homepage veröffentlichte, dass man »sehr stolz« sei, Alice Weidel als Ehrengast und Rednerin für den Neujahrsempfang begrüßen zu dürfen, konnte er nicht ahnen, wie viel Aufmerksamkeit dieser Besuch auf sich ziehen würde."
+        },
+        {
+          "text": "Der ehemalige Chef-Jurist des Leverkusener Bayer-Konzern gilt als Vertrauter und »rechte Hand« Weidels."
+        },
+        {
+          "text": "Es wäre interessant zu hören gewesen, was Weidel oder andere Parteimitglieder zu den angedachten Plänen zu sagen gehabt hätten."
+        }
+      ],
+      "directQuotes": [],
+      "inIntro": false,
+      "inTitle": false,
+      "indirectQuotes": [],
+      "isMain": false,
+      "name": "Alice Weidel",
+      "occupations": [
+        {
+          "text": "AfD-Bundessprecherin"
+        }
+      ],
+      "occurences": {
+        "firstNameOnly": 0,
+        "fullName": 2,
+        "lastNameOnly": 2,
+        "total": 4
+      },
+      "quotedInIntro": false,
+      "quotedInTitle": false,
+      "sex": "female"
+    },
+    {
+      "age": -1,
+      "alternativeNames": [],
+      "birthday": null,
+      "descriptiveTexts": [
+        {
+          "text": "Bei dem Potsdamer Treffen und dem Beratschlagen über radikale Massenabschiebungen war, das hat die Partei mittlerweile bestätigt, auch Roland Hartwig dabei."
+        }
+      ],
+      "directQuotes": [],
+      "inIntro": false,
+      "inTitle": false,
+      "indirectQuotes": [],
+      "isMain": false,
+      "name": "Roland Hartwig",
+      "occupations": [
+        {
+          "text": "ehemalige Chef-Jurist des Leverkusener Bayer-Konzern"
+        },
+        {
+          "text": "Vertrauter und »rechte Hand« Weidels"
+        }
+      ],
+      "occurences": {
+        "firstNameOnly": 0,
+        "fullName": 1,
+        "lastNameOnly": 0,
+        "total": 1
+      },
+      "quotedInIntro": false,
+      "quotedInTitle": false,
+      "sex": "male"
+    }
+  ],
+  "subtopics": [
+    "Politik",
+    "Demonstration"
+  ]
+}

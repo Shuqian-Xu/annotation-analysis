@@ -1,0 +1,715 @@
+{
+  "persons": [
+    {
+      "age": -1,
+      "alternativeNames": [],
+      "birthday": null,
+      "descriptiveTexts": [
+        {
+          "text": "Jeden Abend fassen wir die wichtigsten Wirtschaftsnews des Tages zusammen. Heute mit hochbezahlten Aufräumern, einer kampferprobten Autolobbyistin und einem Amazon-Veteran, der junge Hacker ausbildet."
+        },
+        {
+          "text": "Privatermittler wie Simone Kämpfer, Eike Bicker oder Andreas Pohlmann treten stets dann in Erscheinung, wenn sonst nichts mehr geht."
+        },
+        {
+          "text": "Ihre Stunde schlägt, wenn Skandale über Unternehmen hinwegfegen, Staatsanwälte mit Durchsuchungsbefehlen vor der Tür stehen oder mächtige Regulierungsbehörden das Kommando an den Schaltzentralen der Konzerne zu übernehmen drohen."
+        },
+        {
+          "text": "Das Trio gehört zu einer ebenso kleinen wie elitären Gruppe von Anwältinnen und Anwälten, die seit Jahren Mandate in einer Größenordnung bekommen, die früher der Créme de la Créme der Gesellschaftsrechtler und Übernahmespezialisten vorbehalten blieb."
+        },
+        {
+          "text": "Spezialisiert auf Compliance-Verstöße, agieren sie als juristische Tatortreiniger."
+        },
+        {
+          "text": "Ihr Auftrag: Das Schlimmste zu verhindern."
+        },
+        {
+          "text": "Ihre Arbeit soll Behörden besänftigen, Altlasten beseitigen und ihren Auftraggebern einen sauberen Neustart ermöglichen."
+        },
+        {
+          "text": "Inzwischen gibt es kaum einen Wirtschaftsskandal, an dem nicht einer der drei an den Aufräumarbeiten beteiligt ist."
+        },
+        {
+          "text": "Die einstige Staatsanwältin und heutige Freshfields-Partnerin Kämpfer soll für den Springer-Konzern die Wirrnisse um Ex-Bild-Chefredakteur Julian Reichelt aufklären."
+        },
+        {
+          "text": "Unsere Reporter Katharina Slodczyk und Michael Freitag haben sich intensiv mit den neuen Stars der Juristenszene beschäftigt."
+        }
+        
+      ],
+      "directQuotes": [],
+      "indirectQuotes": [],
+      "inIntro": true,
+      "inTitle": false,
+      "isMain": false,
+      "name": "Simone Kämpfer",
+      "occupations": [
+        {
+          "text": "Privatermittler"
+        },
+        {
+          "text": "einstige Staatsanwältin"
+        },
+        {
+          "text": "heutige Freshfields-Partnerin"
+        }
+      ],
+      "occurences": {
+        "firstNameOnly": 0,
+        "fullName": 1,
+        "lastNameOnly": 1,
+        "total": 2
+      },
+      "quotedInIntro": false,
+      "quotedInTitle": false,
+      "sex": "female"
+    },
+
+    {
+      "age": -1,
+      "alternativeNames": [],
+      "birthday": null,
+      "descriptiveTexts": [
+        {
+          "text": "Jeden Abend fassen wir die wichtigsten Wirtschaftsnews des Tages zusammen. Heute mit hochbezahlten Aufräumern, einer kampferprobten Autolobbyistin und einem Amazon-Veteran, der junge Hacker ausbildet."
+        },
+        {
+          "text": "Privatermittler wie Simone Kämpfer, Eike Bicker oder Andreas Pohlmann treten stets dann in Erscheinung, wenn sonst nichts mehr geht."
+        },
+        {
+          "text": "Ihre Stunde schlägt, wenn Skandale über Unternehmen hinwegfegen, Staatsanwälte mit Durchsuchungsbefehlen vor der Tür stehen oder mächtige Regulierungsbehörden das Kommando an den Schaltzentralen der Konzerne zu übernehmen drohen."
+        },
+        {
+          "text": "Das Trio gehört zu einer ebenso kleinen wie elitären Gruppe von Anwältinnen und Anwälten, die seit Jahren Mandate in einer Größenordnung bekommen, die früher der Créme de la Créme der Gesellschaftsrechtler und Übernahmespezialisten vorbehalten blieb."
+        },
+        {
+          "text": "Spezialisiert auf Compliance-Verstöße, agieren sie als juristische Tatortreiniger."
+        },
+        {
+          "text": "Ihr Auftrag: Das Schlimmste zu verhindern."
+        },
+        {
+          "text": "Ihre Arbeit soll Behörden besänftigen, Altlasten beseitigen und ihren Auftraggebern einen sauberen Neustart ermöglichen."
+        },
+        {
+          "text": "Inzwischen gibt es kaum einen Wirtschaftsskandal, an dem nicht einer der drei an den Aufräumarbeiten beteiligt ist."
+        },
+        {
+          "text": "Gleiss-Lutz-Anwalt Bicker arbeitete erst für den kurzzeitigen Wirecard-Chef James Freis und später für den Insolvenzverwalter Michael Jaffé den Zusammenbruch des Finanzdienstleisters auf."
+        },
+        {
+          "text": "Unsere Reporter Katharina Slodczyk und Michael Freitag haben sich intensiv mit den neuen Stars der Juristenszene beschäftigt."
+        }
+      
+      ],
+      "directQuotes": [],
+      "indirectQuotes": [],
+      "inIntro": true,
+      "inTitle": false,
+      "isMain": false,
+      "name": "Eike Bicker",
+      "occupations": [
+        {
+          "text": "Privatermittler"
+        },
+        {
+          "text": "Gleiss-Lutz-Anwalt"
+        }
+      ],
+      "occurences": {
+        "firstNameOnly": 0,
+        "fullName": 1,
+        "lastNameOnly": 1,
+        "total": 2
+      },
+      "quotedInIntro": false,
+      "quotedInTitle": false,
+      "sex": "male"
+    },
+
+    {
+      "age": -1,
+      "alternativeNames": [],
+      "birthday": null,
+      "descriptiveTexts": [
+        {
+          "text": "Jeden Abend fassen wir die wichtigsten Wirtschaftsnews des Tages zusammen. Heute mit hochbezahlten Aufräumern, einer kampferprobten Autolobbyistin und einem Amazon-Veteran, der junge Hacker ausbildet."
+        },
+        {
+          "text": "Privatermittler wie Simone Kämpfer, Eike Bicker oder Andreas Pohlmann treten stets dann in Erscheinung, wenn sonst nichts mehr geht."
+        },
+        {
+          "text": "Ihre Stunde schlägt, wenn Skandale über Unternehmen hinwegfegen, Staatsanwälte mit Durchsuchungsbefehlen vor der Tür stehen oder mächtige Regulierungsbehörden das Kommando an den Schaltzentralen der Konzerne zu übernehmen drohen."
+        },
+        {
+          "text": "Das Trio gehört zu einer ebenso kleinen wie elitären Gruppe von Anwältinnen und Anwälten, die seit Jahren Mandate in einer Größenordnung bekommen, die früher der Créme de la Créme der Gesellschaftsrechtler und Übernahmespezialisten vorbehalten blieb."
+        },
+        {
+          "text": "Spezialisiert auf Compliance-Verstöße, agieren sie als juristische Tatortreiniger."
+        },
+        {
+          "text": "Ihr Auftrag: Das Schlimmste zu verhindern."
+        },
+        {
+          "text": "Ihre Arbeit soll Behörden besänftigen, Altlasten beseitigen und ihren Auftraggebern einen sauberen Neustart ermöglichen."
+        },
+        {
+          "text": "Inzwischen gibt es kaum einen Wirtschaftsskandal, an dem nicht einer der drei an den Aufräumarbeiten beteiligt ist."
+        },
+        {
+          "text": "Pohlmann machte dabei den Anfang."
+        },
+        {
+          "text": "Er wurde vom einstigen Siemens Chef Peter Löscher engagiert, um Licht in das System der konzerneigenen schwarzen Kassen zu bringen."
+        },
+        {
+          "text": "Unsere Reporter Katharina Slodczyk und Michael Freitag haben sich intensiv mit den neuen Stars der Juristenszene beschäftigt."
+        }
+      ],
+      "directQuotes": [],
+      "indirectQuotes": [],
+      "inIntro": true,
+      "inTitle": false,
+      "isMain": false,
+      "name": "Andreas Pohlmann",
+      "occupations": [
+        {
+          "text": "Privatermittler"
+        }
+      ],
+      "occurences": {
+        "firstNameOnly": 0,
+        "fullName": 1,
+        "lastNameOnly": 1,
+        "total": 2
+      },
+      "quotedInIntro": false,
+      "quotedInTitle": false,
+      "sex": "male"
+    },
+
+    {
+      "age": -1,
+      "alternativeNames": [],
+      "birthday": null,
+      "descriptiveTexts": [
+        {
+          "text": "Er wurde vom einstigen Siemens Chef Peter Löscher engagiert, um Licht in das System der konzerneigenen schwarzen Kassen zu bringen."
+        }
+      ],
+      "directQuotes": [],
+      "indirectQuotes": [],
+      "inIntro": false,
+      "inTitle": false,
+      "isMain": false,
+      "name": "Peter Löscher",
+      "occupations": [
+        {
+          "text": "Siemens Chef"
+        }
+      ],
+      "occurences": {
+        "firstNameOnly": 0,
+        "fullName": 1,
+        "lastNameOnly": 0,
+        "total": 1
+      },
+      "quotedInIntro": false,
+      "quotedInTitle": false,
+      "sex": "male"
+    },
+
+    {
+      "age": -1,
+      "alternativeNames": [],
+      "birthday": null,
+      "descriptiveTexts": [
+        {
+          "text": "Gleiss-Lutz-Anwalt Bicker arbeitete erst für den kurzzeitigen Wirecard-Chef James Freis und später für den Insolvenzverwalter Michael Jaffé den Zusammenbruch des Finanzdienstleisters auf."
+        }
+      ],
+      "directQuotes": [],
+      "indirectQuotes": [],
+      "inIntro": false,
+      "inTitle": false,
+      "isMain": false,
+      "name": "James Freis",
+      "occupations": [
+        {
+          "text": "kurzzeitigen Wirecard-Chef"
+        }
+      ],
+      "occurences": {
+        "firstNameOnly": 0,
+        "fullName": 1,
+        "lastNameOnly": 0,
+        "total": 1
+      },
+      "quotedInIntro": false,
+      "quotedInTitle": false,
+      "sex": "male"
+    },
+
+    {
+      "age": -1,
+      "alternativeNames": [],
+      "birthday": null,
+      "descriptiveTexts": [
+        {
+          "text": "Gleiss-Lutz-Anwalt Bicker arbeitete erst für den kurzzeitigen Wirecard-Chef James Freis und später für den Insolvenzverwalter Michael Jaffé den Zusammenbruch des Finanzdienstleisters auf."
+        }
+      ],
+      "directQuotes": [],
+      "indirectQuotes": [],
+      "inIntro": false,
+      "inTitle": false,
+      "isMain": false,
+      "name": "Michael Jaffé",
+      "occupations": [
+        {
+          "text": "Insolvenzverwalter"
+        }
+      ],
+      "occurences": {
+        "firstNameOnly": 0,
+        "fullName": 1,
+        "lastNameOnly": 0,
+        "total": 1
+      },
+      "quotedInIntro": false,
+      "quotedInTitle": false,
+      "sex": "male"
+    },
+
+    {
+      "age": -1,
+      "alternativeNames": [],
+      "birthday": null,
+      "descriptiveTexts": [
+        {
+          "text": "Die einstige Staatsanwältin und heutige Freshfields-Partnerin Kämpfer soll für den Springer-Konzern die Wirrnisse um Ex-Bild-Chefredakteur Julian Reichelt aufklären."
+        }
+      ],
+      "directQuotes": [],
+      "indirectQuotes": [],
+      "inIntro": false,
+      "inTitle": false,
+      "isMain": false,
+      "name": "Julian Reichelt",
+      "occupations": [
+        {
+          "text": "Ex-Bild-Chefredakteur"
+        }
+      ],
+      "occurences": {
+        "firstNameOnly": 0,
+        "fullName": 1,
+        "lastNameOnly": 0,
+        "total": 1
+      },
+      "quotedInIntro": false,
+      "quotedInTitle": false,
+      "sex": "male"
+    },
+
+    {
+      "age": -1,
+      "alternativeNames": [],
+      "birthday": null,
+      "descriptiveTexts": [
+        {
+          "text": "Unsere Reporter Katharina Slodczyk und Michael Freitag haben sich intensiv mit den neuen Stars der Juristenszene beschäftigt."
+        }
+      ],
+      "directQuotes": [],
+      "indirectQuotes": [],
+      "inIntro": false,
+      "inTitle": false,
+      "isMain": false,
+      "name": "Katharina Slodczyk",
+      "occupations": [
+        {
+          "text": "Reporter"
+        }
+      ],
+      "occurences": {
+        "firstNameOnly": 0,
+        "fullName": 1,
+        "lastNameOnly": 0,
+        "total": 1
+      },
+      "quotedInIntro": false,
+      "quotedInTitle": false,
+      "sex": "female"
+    },
+
+    {
+      "age": -1,
+      "alternativeNames": [],
+      "birthday": null,
+      "descriptiveTexts": [
+        {
+          "text": "Unsere Reporter Katharina Slodczyk und Michael Freitag haben sich intensiv mit den neuen Stars der Juristenszene beschäftigt."
+        }
+      ],
+      "directQuotes": [],
+      "indirectQuotes": [],
+      "inIntro": false,
+      "inTitle": false,
+      "isMain": false,
+      "name": "Michael Freitag",
+      "occupations": [
+        {
+          "text": "Reporter"
+        }
+      ],
+      "occurences": {
+        "firstNameOnly": 0,
+        "fullName": 1,
+        "lastNameOnly": 0,
+        "total": 1
+      },
+      "quotedInIntro": false,
+      "quotedInTitle": false,
+      "sex": "male"
+    },
+
+    {
+      "age": -1,
+      "alternativeNames": [],
+      "birthday": null,
+      "descriptiveTexts": [
+        {
+          "text": "Elon Musk fährt auf KI ab, Google-Chef Sundar Pichai bremst: Völlig unterschiedliche Signale erreichen uns in Sachen Künstliche Intelligenz aus dem Silicon Valley."
+        },
+        {
+          "text": "Multi-Unternehmer Elon Musk wittert das Geschäft, gründete eine neue Firma und spricht bereits mit Ingenieuren und Investoren."
+        }
+      ],
+      "directQuotes": [],
+      "indirectQuotes": [],
+      "inIntro": false,
+      "inTitle": false,
+      "isMain": false,
+      "name": "Elon Musk",
+      "occupations": [
+        {
+          "text": "Multi-Unternehmer"
+        }
+      ],
+      "occurences": {
+        "firstNameOnly": 0,
+        "fullName": 2,
+        "lastNameOnly": 0,
+        "total": 2
+      },
+      "quotedInIntro": false,
+      "quotedInTitle": false,
+      "sex": "male"
+    },
+
+    {
+      "age": -1,
+      "alternativeNames": [],
+      "birthday": null,
+      "descriptiveTexts": [
+        {
+          "text": "Elon Musk fährt auf KI ab, Google-Chef Sundar Pichai bremst: Völlig unterschiedliche Signale erreichen uns in Sachen Künstliche Intelligenz aus dem Silicon Valley."
+        },
+        {
+          "text": "CEO Pichai ruft nach gesellschaftlichen Regeln und regulatorischen Leitplanken für KI."
+        }
+      ],
+      "directQuotes": [],
+      "indirectQuotes": [],
+      "inIntro": false,
+      "inTitle": false,
+      "isMain": false,
+      "name": "Sundar Pichai",
+      "occupations": [
+        {
+          "text": "Google-Chef"
+        }
+      ],
+      "occurences": {
+        "firstNameOnly": 0,
+        "fullName": 1,
+        "lastNameOnly": 1,
+        "total": 2
+      },
+      "quotedInIntro": false,
+      "quotedInTitle": false,
+      "sex": "male"
+    },
+
+    {
+      "age": -1,
+      "alternativeNames": [],
+      "birthday": null,
+      "descriptiveTexts": [
+        {
+          "text": "Jeden Abend fassen wir die wichtigsten Wirtschaftsnews des Tages zusammen. Heute mit hochbezahlten Aufräumern, einer kampferprobten Autolobbyistin und einem Amazon-Veteran, der junge Hacker ausbildet."
+        },
+        {
+          "text": "Ausgerechnet als Europas erste Autolobbyistin Sigrid de Vries ihr Amt als Generalsekretärin des europäischen Verbands der Automobilhersteller und Lastenwagenbauer Acea antrat, scherte Stellantis mitsamt seinen Massenmarken Fiat, Peugeot und Opel aus dem Kampfverband aus."
+        },
+        {
+          "text": "Was die Niederländerin nicht an einem kraftvollen Antritt hinderte."
+        },
+        {
+          "text": "«Wir wollen die Klimaziele der EU nicht aufweichen», sagt sie: «Es ist aber auch wichtig, die Klimaziele auf die effizienteste Art zu erreichen und dabei möglichst viele Arbeitsplätze zu retten.»"
+        },
+        {
+          "text": "Wie de Vries die Interessen des vielstimmigen Chors der europäischen Autokonzerne in Brüssel durchsetzen will, schildert mein Kollege Claas Tatje."
+        }
+        
+      ],
+      "directQuotes": [
+        {
+          "text": "«Wir wollen die Klimaziele der EU nicht aufweichen»"
+        },
+        {
+          "text": "«Es ist aber auch wichtig, die Klimaziele auf die effizienteste Art zu erreichen und dabei möglichst viele Arbeitsplätze zu retten.»"
+        }
+      ],
+      "indirectQuotes": [],
+      "inIntro": true,
+      "inTitle": false,
+      "isMain": false,
+      "name": "Sigrid de Vries",
+      "occupations": [
+        {
+          "text": "Europas erste Autolobbyistin"
+        },
+        {
+          "text": "Sigrid de Vries"
+        }
+      ],
+      "occurences": {
+        "firstNameOnly": 0,
+        "fullName": 1,
+        "lastNameOnly": 1,
+        "total": 2
+      },
+      "quotedInIntro": false,
+      "quotedInTitle": false,
+      "sex": "male"
+    },
+
+    {
+      "age": -1,
+      "alternativeNames": [],
+      "birthday": null,
+      "descriptiveTexts": [
+        {
+          "text": "Wie de Vries die Interessen des vielstimmigen Chors der europäischen Autokonzerne in Brüssel durchsetzen will, schildert mein Kollege Claas Tatje."
+        }
+      ],
+      "directQuotes": [],
+      "indirectQuotes": [],
+      "inIntro": false,
+      "inTitle": false,
+      "isMain": false,
+      "name": "Claas Tatje",
+      "occupations": [
+        {
+          "text": "Kollege von Dietmar Palan"
+        }
+      ],
+      "occurences": {
+        "firstNameOnly": 0,
+        "fullName": 1,
+        "lastNameOnly": 0,
+        "total": 1
+      },
+      "quotedInIntro": false,
+      "quotedInTitle": false,
+      "sex": "male"
+    },
+
+    {
+      "age": -1,
+      "alternativeNames": [],
+      "birthday": null,
+      "descriptiveTexts": [
+        {
+          "text": "Wie Sie mit ein wenig Disziplin Struktur in die täglich wiederkehrenden Besprechungsrituale bringen, hat die auf Zeitmanagement spezialisierte Beraterin Rae Ringel für den Harvard Business Manager aufgeschrieben und auf fünf leicht zu befolgende Regeln eingedampft."
+        }
+      ],
+      "directQuotes": [],
+      "indirectQuotes": [],
+      "inIntro": false,
+      "inTitle": false,
+      "isMain": false,
+      "name": "Rae Ringel",
+      "occupations": [
+        {
+          "text": "auf Zeitmanagement spezialisierte Beraterin"
+        }
+      ],
+      "occurences": {
+        "firstNameOnly": 0,
+        "fullName": 1,
+        "lastNameOnly": 0,
+        "total": 1
+      },
+      "quotedInIntro": false,
+      "quotedInTitle": false,
+      "sex": "female"
+    },
+
+    {
+      "age": -1,
+      "alternativeNames": [],
+      "birthday": null,
+      "descriptiveTexts": [
+        {
+          "text": "Jeden Abend fassen wir die wichtigsten Wirtschaftsnews des Tages zusammen. Heute mit hochbezahlten Aufräumern, einer kampferprobten Autolobbyistin und einem Amazon-Veteran, der junge Hacker ausbildet."
+        },
+        {
+          "text": "Kulturschock made in Germany: Manchmal, wenn Ralf Kleber den Amazon Gründer Jeff Bezos in seinem Auto durch die Republik chauffierte, dröhnte Metallica aus den Lautsprechern."
+        },
+        {
+          "text": "Später verleitete der Deutschlandstatthalter des Internetgiganten seinen Chef auch mal zu einer Runde Schweinebraten und Bier."
+        },
+        {
+          "text": "Bis heute verbindet die beiden ihre gemeinsame Pionierzeit beim Aufbau eines der größten und innovativsten Unternehmen der Welt."
+        },
+        {
+          "text": "Vergangenen Sommer war für Kleber nach 22 Jahren, 9 Monaten und 11 Tagen Schluss."
+        },
+        {
+          "text": "Warum er heute lieber Rasen mäht und Jugendlichen an Brennpunktschulen das Programmieren näher bringt, hat er unserem Handelsexperten Martin Mehringer erzählt."
+        }
+      ],
+      "directQuotes": [],
+      "indirectQuotes": [],
+      "inIntro": true,
+      "inTitle": false,
+      "isMain": false,
+      "name": "Ralf Kleber",
+      "occupations": [
+        {
+          "text": "Deutschlandstatthalter des Internetgiganten"
+        }
+      ],
+      "occurences": {
+        "firstNameOnly": 0,
+        "fullName": 1,
+        "lastNameOnly": 1,
+        "total": 1
+      },
+      "quotedInIntro": false,
+      "quotedInTitle": false,
+      "sex": "male"
+    },
+
+    {
+      "age": -1,
+      "alternativeNames": [],
+      "birthday": null,
+      "descriptiveTexts": [
+        {
+          "text": "Kulturschock made in Germany: Manchmal, wenn Ralf Kleber den Amazon Gründer Jeff Bezos in seinem Auto durch die Republik chauffierte, dröhnte Metallica aus den Lautsprechern."
+        },
+        {
+          "text": "Später verleitete der Deutschlandstatthalter des Internetgiganten seinen Chef auch mal zu einer Runde Schweinebraten und Bier."
+        },
+        {
+          "text": "Bis heute verbindet die beiden ihre gemeinsame Pionierzeit beim Aufbau eines der größten und innovativsten Unternehmen der Welt."
+        }
+      ],
+      "directQuotes": [],
+      "indirectQuotes": [],
+      "inIntro": false,
+      "inTitle": false,
+      "isMain": false,
+      "name": "Jeff Bezos",
+      "occupations": [
+        {
+          "text": "Amazon Gründer"
+        }
+      ],
+      "occurences": {
+        "firstNameOnly": 0,
+        "fullName": 1,
+        "lastNameOnly": 0,
+        "total": 1
+      },
+      "quotedInIntro": false,
+      "quotedInTitle": false,
+      "sex": "male"
+    },
+
+    {
+      "age": -1,
+      "alternativeNames": [],
+      "birthday": null,
+      "descriptiveTexts": [
+        {
+          "text": "Warum er heute lieber Rasen mäht und Jugendlichen an Brennpunktschulen das Programmieren näher bringt, hat er unserem Handelsexperten Martin Mehringer erzählt."
+        }
+      ],
+      "directQuotes": [],
+      "indirectQuotes": [],
+      "inIntro": false,
+      "inTitle": false,
+      "isMain": false,
+      "name": "Martin Mehringer",
+      "occupations": [
+        {
+          "text": "Handelsexperten"
+        }
+      ],
+      "occurences": {
+        "firstNameOnly": 0,
+        "fullName": 1,
+        "lastNameOnly": 0,
+        "total": 1
+      },
+      "quotedInIntro": false,
+      "quotedInTitle": false,
+      "sex": "male"
+    },
+
+    
+    {
+      "age": -1,
+      "alternativeNames": [],
+      "birthday": null,
+      "descriptiveTexts": [
+        {
+          "text": "Wie de Vries die Interessen des vielstimmigen Chors der europäischen Autokonzerne in Brüssel durchsetzen will, schildert mein Kollege Claas Tatje"
+        },
+        {
+          "text": "Meine Empfehlung für den Abend: Kulturschock made in Germany: Manchmal, wenn Ralf Kleber den Amazon-Gründer Jeff Bezos in seinem Auto durch die Republik chauffierte, dröhnte Metallica aus den Lautsprechern."
+        },
+        {
+          "text": "Herzliche Grüße, Ihr Dietmar Palan"
+        }
+      ],
+      "directQuotes": [],
+      "indirectQuotes": [],
+      "inIntro": false,
+      "inTitle": false,
+      "isMain": false,
+      "name": "Dietmar Palan",
+      "occupations": [],
+      "occurences": {
+        "firstNameOnly": 0,
+        "fullName": 1,
+        "lastNameOnly": 0,
+        "total": 1
+      },
+      "quotedInIntro": false,
+      "quotedInTitle": false,
+      "sex": "male"
+    }
+
+    
+  ],
+  "subtopics": [
+    "Wirtschaft",
+    "Nachrichten"
+  ]
+}

@@ -1,0 +1,260 @@
+{
+  "persons": [
+    {
+      "age": 34,
+      "alternativeNames": [],
+      "birthday": null,
+      "descriptiveTexts": [
+        {
+          "text": "Für den neuen Premierminister Gabriel Attal wird die Agrarkrise zur Feuertaufe."
+        },
+        {
+          "text": "Und wie der von Präsident Emmanuel Macron gerade ernannte Premierminister Gabriel Attal, 34 Jahre, diesen Härtetest übersteht."
+        },
+        {
+          "text": "Die Zugeständnisse, die Attal vergangene Woche gemacht hatte, entschärften die Lage nicht. "
+        },
+        {
+          "text": "Am Montag hat Macron eilig ein Krisenkabinett zusammengerufen, an diesem Dienstag nun soll eine mit Spannung erwartete Regierungserklärung Attals den Zorn der Landwirte besänftigen."
+        },
+        {
+          "text": "Die Auflehnung des ausgezehrten Landes gegen die verhasste, vermeintlich verwöhnte Hauptstadtelite – die Attal geradezu klischeehaft verkörpert."
+        },
+        {
+          "text": "Attals Innenminister Gérald Darmanin schickt 15.000 Sicherheitskräfte sowie Panzerfahrzeuge und Hubschrauber, um zu verhindern, dass Traktoren nach Paris und andere Großstädte einrücken."
+        },
+        {
+          "text": "Anders ausgedrückt: Wenn die Botschaft nicht bei Attal ankommt, kommt sie eben zu ihm."
+        },
+        {
+          "text": "Attal wurde seit seiner Berufung zum Premier Mitte Januar viel dafür kritisiert, dass er zu pariserisch sei."
+        },
+        {
+          "text": "Sein Leben, warfen ihm die Gegner von rechts und links vor, habe sich bisher kaum anderswo abgespielt als am mondänen linken Pariser Seine-Ufer."
+        },
+        {
+          "text": "Tatsächlich führte ihn sein Werdegang auf relativ kurzem Weg von einer dort ansässigen renommierten Privatschule über diverse Ministerien nach Matignon, dem Amtssitz des französischen Regierungschefs."
+        },
+        {
+          "text": "Attal selbst bestreitet nicht, dass Landwirtschaft für ihn eine neue Welt ist."
+        },
+        {
+          "text": "Doch er lernt schnell."
+        },
+        {
+          "text": "Und er tut alles, damit die Agrarkrise, die jetzt seinen ersten wichtigen Auftritt im Parlament überschattet, nicht auch noch den kompletten politischen Neustart verdirbt, den Attal und Macron gerade probieren."
+        },
+        {
+          "text": "In der Hoffnung, den Zorn zu beschwichtigen, besuchte Attal am vergangenen Wochenende gleich zwei Bauernhöfe, einen im Süden, einen im Westen des Landes."
+        },
+        {
+          "text": "Der junge Premier hat, anders als Bauernfunktionär Rousseau suggeriert, die Botschaft längst verstanden: Attal hörte sich die vielen Klagen an über angeblich zu strenge Ökoauflagen und über vermeintlich unfairen Wettbewerb sogar aus EU-Ländern."
+        },
+        {
+          "text": "Wortgewandt und – wie immer – in edlem Zwirn gekleidet lobte er Frankreichs Bauern geradezu über den grünen Klee."
+        },
+        {
+          "text": "»Ich habe Sie verstanden«, sagte er."
+        },
+        {
+          "text": "Ja sogar: »Die Landwirtschaft steht über allem anderen.«"
+        },
+        {
+          "text": "Vor allem sagte der Regierungschef die Minderung bürokratischer Pflichten und den Verzicht auf eine Steuererhöhung bei Agrardiesel zu."
+        },
+        {
+          "text": "Bauernboss Rousseau hat Attal einen Katalog mit mehr als 100 Einzelforderungen übermittelt."
+        },
+        {
+          "text": "Beim Gipfel der Staats- und Regierungschefs an diesem Donnerstag in Brüssel, so wünschen es sich die Bauern, soll dann Attals Chef Macron am besten gleich den ungeliebten Green Deal der EU aushebeln."
+        },
+        {
+          "text": "Im Herzen der Hauptstadt wird Premierminister Gabriel Attal am Dienstag seine Feuertaufe erleben."
+        },
+        {
+          "text": "In seiner Regierungserklärung dürfte es viel um die Agrarkrise gehen."
+        }
+      ],
+      "directQuotes": [
+        {
+          "text": "»Ich habe Sie verstanden«"
+        },
+        {
+          "text": "»Die Landwirtschaft steht über allem anderen.«"
+        }
+      ],
+      "indirectQuotes": [],
+      "inIntro": true,
+      "inTitle": false,
+      "isMain": true,
+      "name": "Gabriel Attal",
+      "occupations": [
+        {
+          "text": "Regierungschef"
+        },
+        {
+          "text": "Premierminister"
+        }
+      ],
+      "occurences": {
+        "firstNameOnly": 0,
+        "fullName": 3,
+        "lastNameOnly": 12,
+        "total": 15
+      },
+      "quotedInIntro": false,
+      "quotedInTitle": false,
+      "sex": "male"
+    },
+
+    {
+      "age": -1,
+      "alternativeNames": [],
+      "birthday": null,
+      "descriptiveTexts": [
+        {
+          "text": "Und wie der von Präsident Emmanuel Macron gerade ernannte Premierminister Gabriel Attal, 34 Jahre, diesen Härtetest übersteht."
+        },
+        {
+          "text": "Am Montag hat Macron eilig ein Krisenkabinett zusammengerufen, an diesem Dienstag nun soll eine mit Spannung erwartete Regierungserklärung Attals den Zorn der Landwirte besänftigen."
+        },
+        {
+          "text": "Nach den Massendemonstrationen gegen Macrons Rentenreform im Frühjahr 2023 und den Vorstadtkrawallen im vergangenen Sommer erlebt Frankreich mit den Wutbauern die dritte mächtige Protestbewegung innerhalb eines Jahres."
+        },
+        {
+          "text": "Und er tut alles, damit die Agrarkrise, die jetzt seinen ersten wichtigen Auftritt im Parlament überschattet, nicht auch noch den kompletten politischen Neustart verdirbt, den Attal und Macron gerade probieren."
+        },
+        {
+          "text": "Beim Gipfel der Staats- und Regierungschefs an diesem Donnerstag in Brüssel, so wünschen es sich die Bauern, soll dann Attals Chef Macron am besten gleich den ungeliebten Green Deal der EU aushebeln."
+        }
+      ],
+      "directQuotes": [],
+      "indirectQuotes": [],
+      "inIntro": false,
+      "inTitle": false,
+      "isMain": false,
+      "name": "Emmanuel Macron",
+      "occupations": [
+        {
+          "text": "Präsident Frankreichs"
+        },
+        {
+          "text": "Attals Chef"
+        }
+      ],
+      "occurences": {
+        "firstNameOnly": 0,
+        "fullName": 1,
+        "lastNameOnly": 4,
+        "total": 5
+      },
+      "quotedInIntro": false,
+      "quotedInTitle": false,
+      "sex": "male"
+    },
+
+    {
+      "age": -1,
+      "alternativeNames": [],
+      "birthday": null,
+      "descriptiveTexts": [
+        {
+          "text": "Attals Innenminister Gérald Darmanin schickt 15.000 Sicherheitskräfte sowie Panzerfahrzeuge und Hubschrauber, um zu verhindern, dass Traktoren nach Paris und andere Großstädte einrücken."
+        },
+        {
+          "text": "Darmanin nennt es ein »defensives Aufgebot« und fordert »Zurückhaltung« von seinen Beamten, anders als bei den Rentenrandalen und den Banlieue-Krawallen."
+        }
+      ],
+      "directQuotes": [
+        {
+          "text": "»defensives Aufgebot«"
+        },
+        {
+          "text": "»Zurückhaltung«"
+        }
+      ],
+      "indirectQuotes": [],
+      "inIntro": false,
+      "inTitle": false,
+      "isMain": false,
+      "name": "Gérald Darmanin",
+      "occupations": [
+        {
+          "text": "Innenminister"
+        }
+      ],
+      "occurences": {
+        "firstNameOnly": 0,
+        "fullName": 1,
+        "lastNameOnly": 1,
+        "total": 2
+      },
+      "quotedInIntro": false,
+      "quotedInTitle": false,
+      "sex": "male"
+    },
+    {
+      "age": -1,
+      "alternativeNames": [],
+      "birthday": null,
+      "descriptiveTexts": [
+        {
+          "text": "»Aber wenn sich alles weit weg von Paris abspielt, kommt die Botschaft nicht an«, sagt FNSEA-Chef Arnaud Rousseau."
+        },
+        {
+          "text": "Anders ausgedrückt: Wenn die Botschaft nicht bei Attal ankommt, kommt sie eben zu ihm."
+        },
+        {
+          "text": "Der junge Premier hat, anders als Bauernfunktionär Rousseau suggeriert, die Botschaft längst verstanden: Attal hörte sich die vielen Klagen an über angeblich zu strenge Ökoauflagen und über vermeintlich unfairen Wettbewerb sogar aus EU-Ländern."
+        },
+        {
+          "text": "Bauernboss Rousseau hat Attal einen Katalog mit mehr als 100 Einzelforderungen übermittelt."
+        },
+        {
+          "text": "»Ich habe Sie verstanden«, sagte er."
+        },
+        {
+          "text": "Sein Verband FNSEA, der die konventionelle, auf Ertrag ausgerichtete Landwirtschaft vertritt, verlangt unter anderem mehr Freiheit beim Einsatz von Pflanzengift und lehnt die EU-Regel ab, vier Prozent der Anbauflächen brachliegen zu lassen."
+        },
+        {
+          "text": "Beim Gipfel der Staats- und Regierungschefs an diesem Donnerstag in Brüssel, so wünschen es sich die Bauern, soll dann Attals Chef Macron am besten gleich den ungeliebten Green Deal der EU aushebeln."
+        }
+      ],
+      "directQuotes": [
+        {
+          "text": "»Aber wenn sich alles weit weg von Paris abspielt, kommt die Botschaft nicht an«"
+        }
+      ],
+      "indirectQuotes": [],
+      "inIntro": false,
+      "inTitle": false,
+      "isMain": false,
+      "name": "Arnaud Rousseau",
+      "occupations": [
+        {
+          "text": "FNSEA-Chef"
+        },
+        {
+          "text": "Bauernfunktionär"
+        },
+        {
+          "text": "Bauernboss"
+        }
+      ],
+      "occurences": {
+        "firstNameOnly": 0,
+        "fullName": 1,
+        "lastNameOnly": 2,
+        "total": 3
+      },
+      "quotedInIntro": false,
+      "quotedInTitle": false,
+      "sex": "male"
+    }
+  
+  ],
+  "subtopics": [
+    "Politik",
+    "Regierung"
+  ]
+}

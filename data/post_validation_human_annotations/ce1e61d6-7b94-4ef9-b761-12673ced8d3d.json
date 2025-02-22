@@ -1,0 +1,312 @@
+{
+  "persons": [
+    {
+      "age": 52,
+      "alternativeNames": [],
+      "birthday": null,
+      "descriptiveTexts": [
+        {
+          "text": "Ein genialer Schachzug von Elon Musk"
+        },
+        {
+          "text": "Erstaunt bis entsetzt reagiert die Öffentlichkeit auf den Schritt von Elon Musk, Twitter durch X zu ersetzen."
+        },
+        {
+          "text": "Der Techmilliardär begräbt eine der bekanntesten Marken der Welt."
+        },
+        {
+          "text": "Milliarden von Dollar an Markenwert versenkt durch Elon Musk (52), so zeigte es auf der Plattform ein Bild mit einem Totengrab."
+        },
+        {
+          "text": "Für unsere Autoindustrie könne man nur hoffen, dass Elon Musk sich mit seiner unternehmerischen Genialität bald wieder mehr Tesla widmen werde, schrieb er auf der Social Media Plattform. "
+        },
+        {
+          "text": "Wäre schön, wenn Musk Tesla im gleichen Tempo ramponieren würde, damit Volkswagen und Co. wieder eine Chance gegen die Nummer eins haben."
+        },
+        {
+          "text": "Bislang hätten Musk und auch das ehemalige Management kein profitables Geschäftsmodell mit der Marke Twitter und der Leistung Kurznachrichten gefunden, argumentiert Gietl."
+        },
+        {
+          "text": "Offensichtlich komme Musk unternehmerisch nicht weiter, so sei es nur konsequent einen Schlussstrich zu ziehen – auch wenn mehr als 15 Jahre lang viel in die Marke investiert wurde."
+        },
+        {
+          "text": "Doch eine gute Basis für das, was Musk mit X vorhat, meint Gietl."
+        },
+        {
+          "text": "Der Techmilliardär will aus Twitter eine Art App für alles machen, wie er am Mittwoch auf der Social-Media-Plattform erklärte."
+        },
+        {
+          "text": "Elon Musk eifert mit X der chinesischen App Wechat nach, die alles vereint, was im Westen über einzelne Dienste läuft: Uber, Booking.com, Lieferando, Paypal, etc."
+        },
+        {
+          "text": "Schon früh hatte Musk durchblicken lassen, dass er mit Twitter größere Pläne hat."
+        },
+        {
+          "text": "Im vergangenen Oktober kündigte er schon einmal die Super-App X an."
+        },
+        {
+          "text": "Darum lag die logische Konsequenz von Musk darin, Twitter zu beenden."
+        },
+        {
+          "text": "Zugespitzt gesagt hat Musk sich mit seinem 44 Milliarden Dollar-Deal vor allem eins gekauft: Twitters Kundendaten, die er jetzt für X nutzt."
+        },
+        {
+          "text": "Ähnlich wie Gietl halten auch einige andere Markenexperten Musks Entscheidung für nachvollziehbar."
+        },
+        {
+          "text": "X liefere enorm viele Daten (Kommunikation, Finanzbewegungen, Kaufverhalten), die wiederum Musks Open AI-Klon X.AI und Neuralink, eine Hirnimplantat-Firma, gut brauchen könnten."
+        },
+        {
+          "text": "Experte Gietl sieht beim Umbau von Twitter eine ganz andere Herausforderung als das Rebranding: Gelingt es Musk, die anderen Dienste besser, bequemer, schneller und sicherer zu machen als jene, die sich bereits etabliert haben?"
+        }
+      ],
+      "directQuotes": [],
+      "indirectQuotes": [
+        {
+          "text": "Der Techmilliardär will aus Twitter eine Art App für alles machen, wie er am Mittwoch auf der Social-Media-Plattform erklärte."
+        },
+        {
+          "text": "Im vergangenen Oktober kündigte er schon einmal die Super-App X an."
+        }
+      ],
+      "inIntro": true,
+      "inTitle": true,
+      "isMain": true,
+      "name": "Elon Musk",
+      "occupations": [
+        {
+          "text": "Techmilliardär"
+        }
+      ],
+      "occurences": {
+        "firstNameOnly": 0,
+        "fullName": 5,
+        "lastNameOnly": 12,
+        "total": 17
+      },
+      "quotedInIntro": false,
+      "quotedInTitle": false,
+      "sex": "male"
+    },
+
+    {
+      "age": 60,
+      "alternativeNames": [],
+      "birthday": null,
+      "descriptiveTexts": [
+        {
+          "text": "Selbst Gesundheitsminister Karl Lauterbach (60) machte sein Entsetzen publik."
+        },
+        {
+          "text": "Für unsere Autoindustrie könne man nur hoffen, dass Elon Musk sich mit seiner unternehmerischen Genialität bald wieder mehr Tesla widmen werde, schrieb er auf der Social Media Plattform. "
+        }
+       
+      ],
+      "directQuotes": [
+        
+      ],
+      "inIntro": false,
+      "inTitle": false,
+      "indirectQuotes": [
+        {
+          "text": "Für unsere Autoindustrie könne man nur hoffen, dass Elon Musk sich mit seiner unternehmerischen Genialität bald wieder mehr Tesla widmen werde, schrieb er auf der Social Media Plattform. "
+        },
+        {
+          "text": "Wäre schön, wenn Musk Tesla im gleichen Tempo ramponieren würde, damit Volkswagen und Co. wieder eine Chance gegen die Nummer eins haben."
+        }
+      ],
+      "isMain": false,
+      "name": "Karl Lauterbach",
+      "occupations": [
+        {
+          "text": "Gesundheitsminister"
+        }
+      ],
+      "occurences": {
+        "firstNameOnly": 0,
+        "fullName": 1,
+        "lastNameOnly": 0,
+        "total": 4
+      },
+      "quotedInIntro": false,
+      "quotedInTitle": false,
+      "sex": "male"
+    },
+    {
+      "age": -1,
+      "alternativeNames": [],
+      "birthday": null,
+      "descriptiveTexts": [
+        {
+          "text": "Nein, meint Jürgen Gietl, Managing Partner der Beratungsfirma Brand Trust, im Gespräch mit manager magazin, auch wenn der Schritt auf den ersten Blick irritieren möge."
+        },
+        {
+          "text": "Der auf Technologiemarken spezialisierte Experte hält den Abschied der bekannten Marke für durchaus logisch und konsequent."
+        },
+        {
+          "text": "Aus wirtschaftlicher Sicht verstehe ich die Entscheidung. Nur Bekanntheit reicht manchmal nicht aus, um auch wirtschaftlich erfolgreich zu sein."
+        },
+        {
+          "text": "Bislang hätten Musk und auch das ehemalige Management kein profitables Geschäftsmodell mit der Marke Twitter und der Leistung Kurznachrichten gefunden, argumentiert Gietl."
+        },
+        {
+          "text": "Die Milliarden an Markenwert hält der Experte keinesfalls für verloren."
+        },
+        {
+          "text": "Doch eine gute Basis für das, was Musk mit X vorhat, meint Gietl."
+        },
+        {
+          "text": "Für Markenexperte Gietl ist die Sache klar: Die Positionierung der Marke Twitter ist für diese Pläne zu eng."
+        },
+        {
+          "text": "»Jetzt eine Marke darauf zu setzten, die eben nicht auf Kurznachrichten beschränkt ist, sondern mit der das Unternehmen mehr vorhat, das ist aus meiner Sicht ein genialer Schachzug«, sagt der Berater."
+        },
+        {
+          "text": "Mit einer neuen Marke neben Twitter auf die neuen Dienste aufmerksam zu machen, wäre aus Sicht des Markentechnikers sehr viel schwerer."
+        },
+        {
+          "text": "Auch ein Rebranding wie bei Vorzeigemarke Google wäre aus Sicht des Experten schwer vorstellbar gewesen."
+        },
+        {
+          "text": "Ähnlich wie Gietl halten auch einige andere Markenexperten Musks Entscheidung für nachvollziehbar."
+        },
+        {
+          "text": "Experte Gietl sieht beim Umbau von Twitter eine ganz andere Herausforderung als das Rebranding: Gelingt es Musk, die anderen Dienste besser, bequemer, schneller und sicherer zu machen als jene, die sich bereits etabliert haben?"
+        }
+      ],
+      "directQuotes": [
+        {
+          "text": "Aus wirtschaftlicher Sicht verstehe ich die Entscheidung. Nur Bekanntheit reicht manchmal nicht aus, um auch wirtschaftlich erfolgreich zu sein."
+        },
+        {
+          "text": "Der Wert der Marke liegt im Kontakt zu den Nutzern"
+        },
+        {
+          "text": "Der Wert der Marke liegt eigentlich im direkten Kontakt zu den Nutzern. Und diese Nutzerbeziehung ist sehr viel wert." 
+        },
+        {
+          "text": "Jetzt eine Marke darauf zu setzten, die eben nicht auf Kurznachrichten beschränkt ist, sondern mit der das Unternehmen mehr vorhat, das ist aus meiner Sicht ein genialer Schachzug."
+        },
+        {
+          "text": "Letztendlich entsteht ein modernes Imperium, das Medien, Handel, Raumfahrt, Mobilität in einem Markensystem verbindet." 
+        },
+        {
+          "text": "Das wird der große Lackmustest sein – nicht, ob es unter Twitter oder unter X läuft."
+        }
+
+      ],
+      "inIntro": false,
+      "inTitle": false,
+      "indirectQuotes": [
+        {
+          "text": "Nein, meint Jürgen Gietl, Managing Partner der Beratungsfirma Brand Trust, im Gespräch mit manager magazin, auch wenn der Schritt auf den ersten Blick irritieren möge."
+        },
+        {
+          "text": "Bislang hätten Musk und auch das ehemalige Management kein profitables Geschäftsmodell mit der Marke Twitter und der Leistung Kurznachrichten gefunden, argumentiert Gietl."
+        },
+        {
+          "text": "Offensichtlich komme Musk unternehmerisch nicht weiter, so sei es nur konsequent einen Schlussstrich zu ziehen – auch wenn mehr als 15 Jahre lang viel in die Marke investiert wurde."
+        },
+        {
+          "text": "Doch eine gute Basis für das, was Musk mit X vorhat, meint Gietl."
+        },
+        {
+          "text": "Mit einer neuen Marke neben Twitter auf die neuen Dienste aufmerksam zu machen, wäre aus Sicht des Markentechnikers sehr viel schwerer."
+        },
+        {
+          "text": "Auch ein Rebranding wie bei Vorzeigemarke Google wäre aus Sicht des Experten schwer vorstellbar gewesen."
+        }
+
+      ],
+      "isMain": false,
+      "name": "Jürgen Gietl",
+      "occupations": [
+        {
+          "text": "Managing Partner der Beratungsfirma Brand Trust"
+        }
+      ],
+      "occurences": {
+        "firstNameOnly": 0,
+        "fullName": 1,
+        "lastNameOnly": 5,
+        "total": 6
+      },
+      "quotedInIntro": false,
+      "quotedInTitle": false,
+      "sex": "male"
+    }, 
+    {
+      "age": 59,
+      "alternativeNames": [],
+      "birthday": null,
+      "descriptiveTexts": [
+        {
+          "text": "Und die neue Twitter-Chefin Linda Yaccarino (59) sagte: »Basierend auf Audio, Video, Nachrichten, Banking erschaffen wir einen globalen Marktplatz für Ideen, Waren, Dienstleistungen und Möglichkeiten.«"
+        }
+       
+      ],
+      "directQuotes": [
+        {
+          "text": "Basierend auf Audio, Video, Nachrichten, Banking erschaffen wir einen globalen Marktplatz für Ideen, Waren, Dienstleistungen und Möglichkeiten."
+        }
+      ],
+      "inIntro": false,
+      "inTitle": false,
+      "indirectQuotes": [],
+      "isMain": false,
+      "name": "Linda Yaccarino",
+      "occupations": [
+        {
+          "text": "die neue Twitter-Chefin"
+        }
+      ],
+      "occurences": {
+        "firstNameOnly": 0,
+        "fullName": 1,
+        "lastNameOnly": 0,
+        "total": 1
+      },
+      "quotedInIntro": false,
+      "quotedInTitle": false,
+      "sex": "female"
+    },
+    {
+      "age": -1,
+      "alternativeNames": [],
+      "birthday": null,
+      "descriptiveTexts": [
+        {
+          "text": "»Keine kindische Impulsreaktion, sondern ein logischer nächster Schritt« in Richtung Superintelligenz, schreibt die Digital-Marketing-Expertin Helén Orgis auf LinkedIn."
+        }
+      ],
+      "directQuotes": [
+        {
+          "text": "Keine kindische Impulsreaktion, sondern ein logischer nächster Schritt"
+        }
+      ],
+      "inIntro": false,
+      "inTitle": false,
+      "indirectQuotes": [],
+      "isMain": false,
+      "name": "Helén Orgis",
+      "occupations": [
+        {
+          "text": "Digital-Marketing-Expertin"
+        }
+      ],
+      "occurences": {
+        "firstNameOnly": 0,
+        "fullName": 1,
+        "lastNameOnly": 0,
+        "total": 1
+      },
+      "quotedInIntro": false,
+      "quotedInTitle": false,
+      "sex": "female"
+    }
+  ],
+  "subtopics": [
+    "Unternehmensstrategie",
+    "Twitter/X"
+  ]
+}

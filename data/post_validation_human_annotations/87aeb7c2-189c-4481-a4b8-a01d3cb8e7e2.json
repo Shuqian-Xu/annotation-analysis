@@ -1,0 +1,136 @@
+{
+  "persons": [
+    {
+      "age": -1,
+      "alternativeNames": [],
+      "birthday": null,
+      "descriptiveTexts": [
+        {
+          "text": ". Wenn es plötzlich um Leben und Tod geht, greifen Betroffene nach dem letzten Strohhalm und sind besonders anfällig für die Verlockungen von selbst ernannten Krebsheilern – sogar Apple-Gründer Steve Jobs fiel solchen Umtrieben wohl zum Opfer."
+        }
+      ],
+      "directQuotes": [],
+      "indirectQuotes": [],
+      "inIntro": false,
+      "inTitle": false,
+      "isMain": false,
+      "name": "Steve Jobs",
+      "occupations": [
+        {
+          "text": "Apple-Gründer"
+        }
+      ],
+      "occurences": {
+        "firstNameOnly": 0,
+        "fullName": 1,
+        "lastNameOnly": 0,
+        "total": 1
+      },
+      "quotedInIntro": false,
+      "quotedInTitle": false,
+      "sex": "male"
+    },
+
+    {
+      "age": -1,
+      "alternativeNames": [],
+      "birthday": null,
+      "descriptiveTexts": [
+        {
+          "text": "Es gebe eine viel bessere Möglichkeit: »Befolgen Sie doch einfach die Anti-Krebs-Diät von Dr. Schwartz.«"
+        }
+      ],
+      "directQuotes": [],
+      "indirectQuotes": [],
+      "inIntro": false,
+      "inTitle": false,
+      "isMain": false,
+      "name": "Schwartz",
+      "occupations": [
+        {
+          "text": "Arzt"
+        }
+      ],
+      "occurences": {
+        "firstNameOnly": 0,
+        "fullName": 0,
+        "lastNameOnly": 1,
+        "total": 1
+      },
+      "quotedInIntro": false,
+      "quotedInTitle": false,
+      "sex": "male"
+    },
+
+    {
+      "age": -1,
+      "alternativeNames": [],
+      "birthday": null,
+      "descriptiveTexts": [
+        {
+          "text": "Ihr Gründer Ryke Geerd Hamer behauptete, dass Krebs lediglich durch innere Konflikte entstünde."
+        }
+      ],
+      "directQuotes": [],
+      "indirectQuotes": [],
+      "inIntro": false,
+      "inTitle": false,
+      "isMain": false,
+      "name": "Ryke Geerd Hamer",
+      "occupations": [
+        {
+          "text": "Gründer von »Germanischen Neuen Medizin«"
+        }
+      ],
+      "occurences": {
+        "firstNameOnly": 0,
+        "fullName": 1,
+        "lastNameOnly": 0,
+        "total": 1
+      },
+      "quotedInIntro": false,
+      "quotedInTitle": false,
+      "sex": "male"
+    },
+
+    {
+      "age": -1,
+      "alternativeNames": [],
+      "birthday": null,
+      "descriptiveTexts": [
+        {
+          "text": "Große Aufmerksamkeit erregte etwa der Fall des Heilpraktikers Klaus R., nach dessen »Behandlung« mit einer experimentellen Chemikalie drei Menschen ums Leben kamen."
+        },
+        {
+          "text": "Eine juristische Aufarbeitung, wie im Fall von Klaus R., ist dabei eine Seltenheit."
+        }
+      ],
+      "directQuotes": [],
+      "indirectQuotes": [],
+      "inIntro": false,
+      "inTitle": false,
+      "isMain": false,
+      "name": "Klaus R.",
+      "occupations": [
+        {
+          "text": "Heilpraktiker"
+        }
+      ],
+      "occurences": {
+        "firstNameOnly": 0,
+        "fullName": 2,
+        "lastNameOnly": 0,
+        "total": 2
+      },
+      "quotedInIntro": false,
+      "quotedInTitle": false,
+      "sex": "male"
+    }
+
+    
+  ],
+  "subtopics": [
+    "Heilmethoden",
+    "Gesundheit"
+  ]
+}

@@ -1,0 +1,329 @@
+{
+  "persons": [
+    {
+      "age": -1,
+      "alternativeNames": [],
+      "birthday": null,
+      "descriptiveTexts": [
+        {
+          "text": "Jennifer Chipulu ist seit drei Tagen hier, von morgens 6 Uhr bis abends, wenn es dunkel wird."
+        },
+        {
+          "text": "Ihre 79-jährige Mutter wurde plötzlich krank, bekam Durchfall, erbrach sich."
+        },
+        {
+          "text": "Tochter Chipulu harrt seither vor dem Gitter aus, ihren Job hat sie aufgegeben, um in der Nähe der Mutter zu sein."
+        },
+        {
+          "text": "Doch deren Name steht auf keiner Liste, niemand kann ihr sagen, was passiert ist, ob sie noch lebt oder schon begraben wurde."
+        },
+        {
+          "text": "»Ich werde wahnsinnig. Ich brauche endlich Gewissheit«, sagt die Tochter."
+        },
+        {
+          "text": "Doch niemand kann ihr helfen."
+        },
+        {
+          "text": "In den vergangenen Wochen erging es vielen Angehörigen wie Chipulu, denn die Cholera breitet sich immer schneller aus in Sambias Hauptstadt Lusaka, und damit das Chaos."
+        }
+      ],
+      "directQuotes": [
+        {
+          "text": "»Ich werde wahnsinnig. Ich brauche endlich Gewissheit«"
+        }
+      ],
+      "indirectQuotes": [],
+      "inIntro": false,
+      "inTitle": false,
+      "isMain": false,
+      "name": "Jennifer Chipulu",
+      "occupations": [],
+      "occurences": {
+        "firstNameOnly": 0,
+        "fullName": 1,
+        "lastNameOnly": 2,
+        "total": 3
+      },
+      "quotedInIntro": false,
+      "quotedInTitle": false,
+      "sex": "female"
+    },
+
+    {
+      "age": -1,
+      "alternativeNames": [],
+      "birthday": null,
+      "descriptiveTexts": [
+        {
+          "text": "»Das ist erst der Anfang, eine Art Weckruf«, sagt Professor Roma Chilengi vom staatlichen Zambia National Public Health Institute."
+        },
+        {
+          "text": "»Cholera ist eine Arme-Leute-Krankheit, da wird nicht so massiv investiert wie bei Corona. Die Pharmaindustrie interessiert sich nicht für den Globalen Süden, hier lassen sich keine Geschäfte machen«, moniert Professor Roma Chilengi vom Zambia National Public Health Institute."
+        }
+        
+      ],
+      "directQuotes": [
+        {
+          "text": "»Das ist erst der Anfang, eine Art Weckruf«"
+        },
+        {
+          "text": "»Wir werden eine starke Zunahme an Krankheitsausbrüchen sehen. Die Entwicklungsländer stehen wegen des Klimawandels vor massiven Problemen. Das sollten endlich alle begreifen.«"
+        },
+        {
+          "text": "»Cholera ist eine Arme-Leute-Krankheit, da wird nicht so massiv investiert wie bei Corona. Die Pharmaindustrie interessiert sich nicht für den Globalen Süden, hier lassen sich keine Geschäfte machen«"
+        }
+      ],
+      "indirectQuotes": [],
+      "inIntro": false,
+      "inTitle": false,
+      "isMain": false,
+      "name": "Roma Chilengi",
+      "occupations": [
+        {
+          "text": "Professor vom staatlichen Zambia National Public Health Institute"
+        }
+      ],
+      "occurences": {
+        "firstNameOnly": 0,
+        "fullName": 2,
+        "lastNameOnly": 0,
+        "total": 2
+      },
+      "quotedInIntro": false,
+      "quotedInTitle": false,
+      "sex": "male"
+    },
+
+    {
+      "age": -1,
+      "alternativeNames": [],
+      "birthday": null,
+      "descriptiveTexts": [
+        {
+          "text": "Jessica Bwali erlebt diese Probleme tagtäglich."
+        },
+        {
+          "text": "Sie läuft schnellen Schrittes durch eine der ärmeren Gegenden der Hauptstadt Lusaka."
+        },
+        {
+          "text": "Bwali bleibt häufig stehen, redet mit den Bewohnerinnen und Bewohnern, sie hört ihnen zu."
+        },
+        {
+          "text": "Die Endzwanzigerin arbeitet für Tearfund, eine kirchliche Nichtregierungsorganisation."
+        },
+        {
+          "text": "Sie war früher Radiomoderatorin, hostete eine landesweit bekannte Morningshow."
+        },
+        {
+          "text": "Bwali fing an, über die Gründe zu recherchieren."
+        },
+        {
+          "text": "Heute ist sie eine der bekanntesten Klimaaktivistinnen im Land, geht an Schulen und fördert lokale Initiativen."
+        },
+        {
+          "text": "»Früher kamen die Regen immer am 24. Oktober, man konnte die Uhr danach stellen. Heute warten wir manchmal bis Januar auf Niederschlag, und dann fällt plötzlich extrem viel auf einmal. Die Leute nehmen das wahr, aber sie wissen nicht, dass der Klimawandel dahintersteckt«, erzählt sie."
+        },
+        {
+          "text": "Den aktuellen Cholera-Ausbruch sieht sie als Vorboten einer noch viel düsteren Zeit."
+        },
+        {
+          "text": "An diesem Mittwochvormittag hat sie ihre Gummistiefel vergessen."
+        },
+        {
+          "text": "Sie muss in Turnschuhen über Steine springen, die in Pfützen gelegt wurden, als improvisierter Pfad."
+        },
+        {
+          "text": "Aktivistin Bwali ruft ihm ein paar Fragen zu, getrennt durch einen Wassergraben, den sie in ihren Turnschuhen nicht überqueren kann."
+        },
+        {
+          "text": "»Klimaanpassungsmaßnahmen«, sagt Bwali, die Aktivistin, »die Leute helfen sich selbst«."
+        },
+        {
+          "text": "»Länder wie Sambia haben keine Ressourcen, um dem Klimawandel zu begegnen, unsere Gesundheitssysteme sind schon jetzt am Limit«, sagt Bwali."
+        }
+      ],
+      "directQuotes": [
+        {
+          "text": "»Früher kamen die Regen immer am 24. Oktober, man konnte die Uhr danach stellen. Heute warten wir manchmal bis Januar auf Niederschlag, und dann fällt plötzlich extrem viel auf einmal. Die Leute nehmen das wahr, aber sie wissen nicht, dass der Klimawandel dahintersteckt«"
+        },
+        {
+          "text": "»Klimaanpassungsmaßnahmen«"
+        },
+        {
+          "text": "»die Leute helfen sich selbst«"
+        },
+        {
+          "text": "»Länder wie Sambia haben keine Ressourcen, um dem Klimawandel zu begegnen, unsere Gesundheitssysteme sind schon jetzt am Limit«"
+        }
+      ],
+      "indirectQuotes": [],
+      "inIntro": false,
+      "inTitle": false,
+      "isMain": true,
+      "name": "Jessica Bwali",
+      "occupations": [
+        {
+          "text": "arbeitet für Tearfund, eine kirchliche Nichtregierungsorganisation"
+        },
+        {
+          "text": "war früher Radiomoderatorin"
+        },
+        {
+          "text": "Aktivistin"
+        }
+      ],
+      "occurences": {
+        "firstNameOnly": 0,
+        "fullName": 1,
+        "lastNameOnly": 5,
+        "total": 6
+      },
+      "quotedInIntro": false,
+      "quotedInTitle": false,
+      "sex": "female"
+    },
+
+    {
+      "age": 35,
+      "alternativeNames": [],
+      "birthday": null,
+      "descriptiveTexts": [
+        {
+          "text": "Auch Suzyo Daka war krank in den vergangenen Tagen, hatte Bauchschmerzen und Durchfall."
+        },
+        {
+          "text": "Aktivistin Bwali ruft ihm ein paar Fragen zu, getrennt durch einen Wassergraben, den sie in ihren Turnschuhen nicht überqueren kann."
+        },
+        {
+          "text": "Vom Klimawandel weiß Daka nichts, wohl aber von den Fluten hier in der Gegend."
+        },
+        {
+          "text": "Mit ausgestreckter Hand zeigt er auf das Gebäude gegenüber, bis zum ersten Stock habe es bis vor Kurzem noch unter Wasser gestanden."
+        },
+        {
+          "text": "Ein idealer Nährboden für das Cholera-Bakterium Für ihn als Bauarbeiter sind es gute Zeiten, trotz der kursierenden Krankheiten."
+        },
+        {
+          "text": "Denn immer mehr Menschen wollen ihre Häuser höher legen, lassen sich eine Plattform bauen wie die, an der Daka gerade arbeitet."
+        },
+        {
+          "text": "»Das ist der neue Standard«, erzählt der 35-Jährige."
+        }
+      ],
+      "directQuotes": [
+        {
+          "text": "»Das ist der neue Standard«"
+        }
+      ],
+      "indirectQuotes": [],
+      "inIntro": false,
+      "inTitle": false,
+      "isMain": false,
+      "name": "Suzyo Daka",
+      "occupations": [],
+      "occurences": {
+        "firstNameOnly": 0,
+        "fullName": 1,
+        "lastNameOnly": 2,
+        "total": 3
+      },
+      "quotedInIntro": false,
+      "quotedInTitle": false,
+      "sex": "male"
+    },
+
+    {
+      "age": 65,
+      "alternativeNames": [],
+      "birthday": null,
+      "descriptiveTexts": [
+        {
+          "text": "Viele der Helferinnen sind Freiwillige, so wie Violet Chizema."
+        },
+        {
+          "text": "Seit mehr als 20 Jahren hilft die 65-Jährige in der George Clinic, hat schon mehrere Cholera-Ausbrüche mitgemacht."
+        },
+        {
+          "text": "Sie hat in den Eimern unter den Liegen Föten gefunden, die schwangere Frauen mit dem Durchfall verloren haben."
+        },
+        {
+          "text": "Zum Weinen blieb ihr keine Zeit."
+        },
+        {
+          "text": "Die Cholera-Toten wäscht sie mit einer Lösung mit zwei Prozent Chloranteil."
+        },
+        {
+          "text": "Eigentlich hatte die Regierung Pflegekräften wie ihr 100 Sambische Kwacha pro Tag versprochen, umgerechnet etwa drei Euro."
+        },
+        {
+          "text": "Chizema macht trotzdem weiter, jeden Tag eine Schicht, acht Stunden am Stück, seit Wochen schon."
+        },
+        {
+          "text": "»Ich will meiner Community helfen, wir müssen das gemeinsam überstehen«, sagt sie."
+        },
+        {
+          "text": "Auf Hilfe von der Regierung setzt sie kaum noch."
+        },
+        {
+          "text": "Chizema arbeitet nicht nur im Krankenhaus, sie dreht nach Dienstschluss auch ihre Runden im Viertel, kontrolliert die Einhaltung der Hygienevorschriften."
+        },
+        {
+          "text": "Die 65-Jährige steigt aus dem weißen Overall, desinfiziert ihre Schuhe."
+        },
+        {
+          "text": "Dann läuft sie über den Markt, auf selbst zusammengezimmerten Holzständen liegt rohes Fleisch aus, teils ganze Kuhköpfe, viele Innereien, alles voller Fliegen."
+        },
+        {
+          "text": "Ab und an versuchen die Marktfrauen, sie mit kleinen Wedeln zu vertreiben, doch sofort danach ist die Ware wieder übersät mit schwarzen Punkten."
+        },
+        {
+          "text": "Chizema erklärt mit ruhiger Stimme, warum sie hier ist, sie sagt Sätze wie: »Ich will dir dein Geschäft nicht wegnehmen.«"
+        },
+        {
+          "text": "Dann bittet sie die Verkäuferinnen zumindest Netze über die Waren zu legen, denn Fliegen könnten Krankheiten übertragen – doch ihre Bitten bleiben meist erfolglos."
+        },
+        {
+          "text": "Auf der Straße hinter ihr fährt gerade ein Auto mit aufmontiertem Lautsprecher vorbei, daraus dröhnt eine laute Stimme, die dazu aufruft, Angehörige mit Symptomen sofort ins Krankenhaus zu bringen."
+        },
+        {
+          "text": "Violet Chizema winkt den Kollegen kurz zu, man kennt sich."
+        }
+      ],
+      "directQuotes": [
+        {
+          "text": "»Neulich kam ein kleiner Junge rein, ich sang mit ihm noch Lieder, kurz darauf war er tot.«"
+        },
+        {
+          "text": "»Ich will meiner Community helfen, wir müssen das gemeinsam überstehen«"
+        },
+        {
+          "text": "»Ich will dir dein Geschäft nicht wegnehmen.«"
+        }
+      ],
+      "indirectQuotes": [],
+      "inIntro": false,
+      "inTitle": false,
+      "isMain": true,
+      "name": "Violet Chizema",
+      "occupations": [
+        {
+          "text": "hilft in der George Clinic"
+        }
+      ],
+      "occurences": {
+        "firstNameOnly": 0,
+        "fullName": 2,
+        "lastNameOnly": 3,
+        "total": 5
+      },
+      "quotedInIntro": false,
+      "quotedInTitle": false,
+      "sex": "female"
+    }
+    
+  ],
+  "subtopics": [
+    "Cholera",
+    "Klimawandel"
+  ]
+}

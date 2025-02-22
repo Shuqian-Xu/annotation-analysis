@@ -1,0 +1,192 @@
+{
+  "persons": [
+    {
+      "age": -1,
+      "alternativeNames": [],
+      "birthday": null,
+      "descriptiveTexts": [
+        {
+          "text":"»Hier riecht es aber komisch«, sagt Martin Hikel, Bezirksbürgermeister von Neukölln, als er in den Keller der Villa hinabsteigt."
+        },
+        {
+          "text": "»Das ist das Eau de Rammo«, sagt sein Mitarbeiter."
+        },
+        {
+          "text": "»Das hier ist ganz hübsch gemacht«, sagt Hikel und zeigt auf eine Wand, in die viele bunte Steine eingelassen sind."
+        },
+        {
+          "text": "An einem regnerischen Montag inspiziert er zum ersten Mal selbst das Innere der Villa."
+        },
+        {
+          "text": "Er trägt zum Besichtigungstermin ein Sakko und seinen Stolz im Gesicht: »Genau wegen der Geschichte der Villa wollen wir hier jetzt was Soziales machen, vielleicht eine Kita oder einen Jugendtreff«, kündigt er an."
+        },
+        {
+          "text": "Das Haus hat 168 Quadratmeter Wohnfläche, acht Zimmer, und Martin Hikel kann nun dafür sorgen, dass hier eine neue Geschichte beginnt."
+        },
+        {
+          "text": "Schließlich wurde dem Bezirksamt Neukölln die Verwaltung der Immobilie übertragen, also letztlich Hikel."
+        },
+        {
+          "text": "»Meine Freude hielt sich in Grenzen«, sagt Hikel."
+        },
+        {
+          "text": "Einem »wachen« Mitarbeiter im Bezirksamt sei das aufgefallen, erzählt Hikel."
+        },
+        {
+          "text": "Das meiste sei wohl wertlos, sagt Hikel."
+        },
+        {
+          "text": "Am Ende seines Rundgangs schließt Hikel das Tor zur Villa und damit auch das Kapitel der Clanvilla."
+        }
+      ],
+      "directQuotes": [
+        {
+          "text":"»Hier riecht es aber komisch«"
+        },
+        {
+          "text": "»Das hier ist ganz hübsch gemacht«"
+        },
+        {
+          "text": "»Genau wegen der Geschichte der Villa wollen wir hier jetzt was Soziales machen, vielleicht eine Kita oder einen Jugendtreff«"
+        },
+        {
+          "text": "»Meine Freude hielt sich in Grenzen«"
+        }
+      
+      ],
+      "indirectQuotes": [
+        {
+          "text": "Einem »wachen« Mitarbeiter im Bezirksamt sei das aufgefallen, erzählt Hikel."
+        },
+        {
+          "text": "Das meiste sei wohl wertlos, sagt Hikel."
+        }
+      ],
+      "inIntro": false,
+      "inTitle": false,
+      "isMain": true,
+      "name": "Martin Hikel",
+      "occupations": [
+        {
+          "text": "Bezirksbürgermeister von Neukölln"
+        }
+      ],
+      "occurences": {
+        "firstNameOnly": 0,
+        "fullName": 2,
+        "lastNameOnly": 6,
+        "total": 8
+      },
+      "quotedInIntro": false,
+      "quotedInTitle": false,
+      "sex": "male"
+    },
+
+    {
+      "age": -1,
+      "alternativeNames": [],
+      "birthday": null,
+      "descriptiveTexts": [
+        {
+          "text": "Die alte dreht sich auch um einen Schuldschein: »Hier mit Bestätige ich ISSA Rammo … Das ich Ali O. 128.000 € zurück zahlen muss.«"
+        },
+        {
+          "text": "Ein Sohn von Issa Rammo kaufte im selben Jahr die Villa – und zwar von der landeseigenen Wohnungsbaugesellschaft Stadt und Land."
+        },
+        {
+          "text": "Rammo und er sollen sich gestritten haben."
+        },
+        {
+          "text": "2019 verhandelte das Landgericht Berlin gegen einen der Söhne von Issa Rammo."
+        },
+        {
+          "text": "Laut Bezirksamt präsentierten sie einen Mietvertrag, der auf die Mutter von Issa Rammo ausgestellt war."
+        }
+      ],
+      "directQuotes": [],
+      "indirectQuotes": [],
+      "inIntro": false,
+      "inTitle": false,
+      "isMain": false,
+      "name": "Issa Rammo",
+      "occupations": [],
+      "occurences": {
+        "firstNameOnly": 0,
+        "fullName": 4,
+        "lastNameOnly": 0,
+        "total": 4
+      },
+      "quotedInIntro": false,
+      "quotedInTitle": false,
+      "sex": "male"
+    },
+
+    {
+      "age": -1,
+      "alternativeNames": [],
+      "birthday": null,
+      "descriptiveTexts": [
+        {
+          "text": "Die alte dreht sich auch um einen Schuldschein: »Hier mit Bestätige ich ISSA Rammo … Das ich Ali O. 128.000 € zurück zahlen muss.«"
+        },
+        {
+          "text": "Der Zettel wurde später bei Ali O. gefunden, als dieser tot auf dem Gehweg lag."
+        },
+        {
+          "text": "Rammo und er sollen sich gestritten haben."
+        }
+      ],
+      "directQuotes": [],
+      "indirectQuotes": [],
+      "inIntro": false,
+      "inTitle": false,
+      "isMain": false,
+      "name": "Ali O.",
+      "occupations": [],
+      "occurences": {
+        "firstNameOnly": 0,
+        "fullName": 2,
+        "lastNameOnly": 0,
+        "total": 2
+      },
+      "quotedInIntro": false,
+      "quotedInTitle": false,
+      "sex": "male"
+    },
+
+    {
+      "age": -1,
+      "alternativeNames": [],
+      "birthday": null,
+      "descriptiveTexts": [
+        {
+          "text": "»Das Fräulein von Scuderi« von E.T.A Hoffmann gilt als eine der ersten deutschen Kriminalnovellen."
+        }
+      ],
+      "directQuotes": [],
+      "indirectQuotes": [],
+      "inIntro": false,
+      "inTitle": false,
+      "isMain": false,
+      "name": "E.T.A Hoffmann",
+      "occupations": [
+        {
+          "text": "deutsche Kriminalnovellen Autor"
+        }
+      ],
+      "occurences": {
+        "firstNameOnly": 0,
+        "fullName": 1,
+        "lastNameOnly": 0,
+        "total": 1
+      },
+      "quotedInIntro": false,
+      "quotedInTitle": false,
+      "sex": []
+    }
+  ],
+  "subtopics": [
+    "Clan",
+    "Villa Räumung"
+  ]
+}

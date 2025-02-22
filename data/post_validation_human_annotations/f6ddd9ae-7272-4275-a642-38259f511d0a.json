@@ -1,0 +1,525 @@
+{
+  "persons": [
+    {
+      "age": -1,
+      "alternativeNames": [],
+      "birthday": null,
+      "descriptiveTexts": [
+        {
+          "text": "Heute mit René Benko in Not, dem Wirtschaftswachstum in Rot und Vonovias Hausfrieden aus dem Lot."
+        },
+        {
+          "text": "René Benko wollte schon immer hoch hinaus, aber dieses Treffen über den Dächern von Berlin hätte er sich wohl lieber erspart: An einem Montagmorgen Anfang Mai trifft sich der österreichische Milliardär mit wichtigen Investoren im 31. Stock des Upper West Towers im Zentrum der deutschen Hauptstadt."
+        },
+        {
+          "text": "Die Geldgeber wollen Antworten: Wird Benkos Unternehmensgruppe Signa die Immobilienkrise überstehen, die gerade auf Europa zurollt?"
+        },
+        {
+          "text": "Genau diese Frage beschäftigte auch meine Kollegen Margret Hucko und Martin Noé, die zu Benko und seinen Aktivitäten in der momentanen Umbruchphase im Immobiliengeschäft recherchiert haben."
+        },
+        {
+          "text": "Ergebnis: Benko, der in der Vergangenheit große Erfolge, aber auch schwierige Zeiten erlebt hat (Stichwort: zweimalige Insolvenz von Galeria Karstadt Kaufhof), hat den Ernst der Lage offenbar erkannt."
+        },
+        {
+          "text": "Um die zu bekommen, hat Benko bei der Signa einen radikalen Kursschwenk eingeleitet und einen grundlegenden Rettungsplan aufgestellt."
+        },
+        {
+          "text": "Wie der aussieht, haben die Kollegen Hucko und Noé für Sie recherchiert: Der neue Abbauplan des Immobilienkönigs René Benko"
+        }
+      ],
+      "directQuotes": [],
+      "indirectQuotes": [],
+      "inIntro": true,
+      "inTitle": false,
+      "isMain": false,
+      "name": "René Benko",
+      "occupations": [
+      
+        {
+          "text": "Immobilienkönig"
+        }
+      ],
+      "occurences": {
+        "firstNameOnly": 0,
+        "fullName": 3,
+        "lastNameOnly": 4,
+        "total": 7
+      },
+      "quotedInIntro": false,
+      "quotedInTitle": false,
+      "sex": "male"
+    },
+
+    {
+      "age": -1,
+      "alternativeNames": [],
+      "birthday": null,
+      "descriptiveTexts": [
+        {
+          "text": "Genau diese Frage beschäftigte auch meine Kollegen Margret Hucko und Martin Noé, die zu Benko und seinen Aktivitäten in der momentanen Umbruchphase im Immobiliengeschäft recherchiert haben."
+        },
+        {
+          "text": "Das liegt aber vor allem daran, dass die Investoren bereits im vergangenen Sommer eine Milliarde Euro frisches Kapital nachgeschossen haben, so Hucko und Noé."
+        },
+        {
+          "text": "Wie der aussieht, haben die Kollegen Hucko und Noé für Sie recherchiert: Der neue Abbauplan des Immobilienkönigs René Benko"
+        }
+      ],
+      "directQuotes": [],
+      "indirectQuotes": [],
+      "inIntro": false,
+      "inTitle": false,
+      "isMain": false,
+      "name": "Margret Hucko",
+      "occupations": [
+        {
+          "text": "Kollege von Christoph Rottwilm"
+        }
+      ],
+      "occurences": {
+        "firstNameOnly": 0,
+        "fullName": 1,
+        "lastNameOnly": 2,
+        "total": 3
+      },
+      "quotedInIntro": false,
+      "quotedInTitle": false,
+      "sex": []
+    },
+
+    {
+      "age": -1,
+      "alternativeNames": [],
+      "birthday": null,
+      "descriptiveTexts": [
+        {
+          "text": "Genau diese Frage beschäftigte auch meine Kollegen Margret Hucko und Martin Noé, die zu Benko und seinen Aktivitäten in der momentanen Umbruchphase im Immobiliengeschäft recherchiert haben."
+        },
+        {
+          "text": "Das liegt aber vor allem daran, dass die Investoren bereits im vergangenen Sommer eine Milliarde Euro frisches Kapital nachgeschossen haben, so Hucko und Noé."
+        },
+        {
+          "text": "Wie der aussieht, haben die Kollegen Hucko und Noé für Sie recherchiert: Der neue Abbauplan des Immobilienkönigs René Benko"
+        }
+      ],
+      "directQuotes": [],
+      "indirectQuotes": [],
+      "inIntro": false,
+      "inTitle": false,
+      "isMain": false,
+      "name": "Martin Noé",
+      "occupations": [
+        {
+          "text": "Kollege von Christoph Rottwilm"
+        }
+      ],
+      "occurences": {
+        "firstNameOnly": 0,
+        "fullName": 1,
+        "lastNameOnly": 2,
+        "total": 3
+      },
+      "quotedInIntro": false,
+      "quotedInTitle": false,
+      "sex": []
+    },
+
+    {
+      "age": -1,
+      "alternativeNames": [],
+      "birthday": null,
+      "descriptiveTexts": [
+        {
+          "text": "Klar ist aber auch: Der Konzern von Gründer Dieter Schwarz konnte wie die gesamte Branche im Zuge der Inflation nennenswerte Preiserhöhungen durchsetzen."
+        }
+      ],
+      "directQuotes": [],
+      "indirectQuotes": [],
+      "inIntro": false,
+      "inTitle": false,
+      "isMain": false,
+      "name": "Dieter Schwarz",
+      "occupations": [
+        {
+          "text": "Gründer der Schwarz-Gruppe"
+        }
+      ],
+      "occurences": {
+        "firstNameOnly": 0,
+        "fullName": 1,
+        "lastNameOnly": 0,
+        "total": 1
+      },
+      "quotedInIntro": false,
+      "quotedInTitle": false,
+      "sex": "male"
+    },
+
+    {
+      "age": -1,
+      "alternativeNames": [],
+      "birthday": null,
+      "descriptiveTexts": [
+        {
+          "text": "Was uns heute besonders beschäftigt hat: Als hätte der Immobilienkonzern Vonovia mit der Immobilienkrise nicht schon genug zu tun, gibt es auch noch intern Ärger: Dass Vorständin Helene von Roeder das Unternehmen verlassen wird, ist bereits bekannt."
+        },
+        {
+          "text": "Und die Managerin geht offenbar nicht ganz freiwillig, wie die Kollegen erfahren haben: Hintergrund ist vielmehr ein Streit – ausgerechnet mit ihrer Vorgesetzten von Roeder."
+        }
+      ],
+      "directQuotes": [],
+      "indirectQuotes": [],
+      "inIntro": false,
+      "inTitle": false,
+      "isMain": false,
+      "name": "Helene von Roeder",
+      "occupations": [
+        {
+          "text": "Ehemalige Vorständin von Vonovia"
+        }
+      ],
+      "occurences": {
+        "firstNameOnly": 0,
+        "fullName": 1,
+        "lastNameOnly": 1,
+        "total": 2
+      },
+      "quotedInIntro": false,
+      "quotedInTitle": false,
+      "sex": "female"
+    },
+
+    {
+      "age": -1,
+      "alternativeNames": [],
+      "birthday": null,
+      "descriptiveTexts": [
+        {
+          "text": "Was uns heute besonders beschäftigt hat: Als hätte der Immobilienkonzern Vonovia mit der Immobilienkrise nicht schon genug zu tun, gibt es auch noch intern Ärger: Dass Vorständin Helene von Roeder das Unternehmen verlassen wird, ist bereits bekannt."
+        }
+      ],
+      "directQuotes": [],
+      "indirectQuotes": [],
+      "inIntro": false,
+      "inTitle": false,
+      "isMain": false,
+      "name": "Hannah Steinharter",
+      "occupations": [
+        {
+          "text": "Kollegin von Christoph Rottwilm"
+        }
+      ],
+      "occurences": {
+        "firstNameOnly": 0,
+        "fullName": 1,
+        "lastNameOnly": 0,
+        "total": 1
+      },
+      "quotedInIntro": false,
+      "quotedInTitle": false,
+      "sex": "female"
+    },
+
+    {
+      "age": -1,
+      "alternativeNames": [],
+      "birthday": null,
+      "descriptiveTexts": [
+        {
+          "text": "Was uns heute besonders beschäftigt hat: Als hätte der Immobilienkonzern Vonovia mit der Immobilienkrise nicht schon genug zu tun, gibt es auch noch intern Ärger: Dass Vorständin Helene von Roeder das Unternehmen verlassen wird, ist bereits bekannt."
+        }
+      ],
+      "directQuotes": [],
+      "indirectQuotes": [],
+      "inIntro": false,
+      "inTitle": false,
+      "isMain": false,
+      "name": "Dietmar Palan",
+      "occupations": [
+        {
+          "text": "Kollege von Christoph Rottwilm"
+        }
+      ],
+      "occurences": {
+        "firstNameOnly": 0,
+        "fullName": 1,
+        "lastNameOnly": 0,
+        "total": 1
+      },
+      "quotedInIntro": false,
+      "quotedInTitle": false,
+      "sex": "male"
+    },
+
+    {
+      "age": -1,
+      "alternativeNames": [],
+      "birthday": null,
+      "descriptiveTexts": [
+        {
+          "text": "Was uns heute besonders beschäftigt hat: Als hätte der Immobilienkonzern Vonovia mit der Immobilienkrise nicht schon genug zu tun, gibt es auch noch intern Ärger: Dass Vorständin Helene von Roeder das Unternehmen verlassen wird, ist bereits bekannt."
+        },
+        {
+          "text": "Und die Managerin geht offenbar nicht ganz freiwillig, wie die Kollegen erfahren haben: Hintergrund ist vielmehr ein Streit – ausgerechnet mit ihrer Vorgesetzten von Roeder."
+        }
+      ],
+      "directQuotes": [],
+      "indirectQuotes": [],
+      "inIntro": false,
+      "inTitle": false,
+      "isMain": false,
+      "name": "Konstantina Kanellopoulos",
+      "occupations": [
+        {
+          "text": "Generalbevollmächtigte im Bereich Value-add"
+        }
+      ],
+      "occurences": {
+        "firstNameOnly": 0,
+        "fullName": 1,
+        "lastNameOnly": 0,
+        "total": 1
+      },
+      "quotedInIntro": false,
+      "quotedInTitle": false,
+      "sex": "female"
+    },
+
+    {
+      "age": -1,
+      "alternativeNames": [],
+      "birthday": null,
+      "descriptiveTexts": [
+        {
+          "text": "Klaus Hommels gibt gern den Starinvestor und geopolitischen Vordenker, beispielsweise in seiner neuen Rolle als Vorsitzender des frisch gestarteten Innovationsfonds der Nato."
+        }
+      ],
+      "directQuotes": [],
+      "indirectQuotes": [],
+      "inIntro": false,
+      "inTitle": false,
+      "isMain": false,
+      "name": "Klaus Hommels",
+      "occupations": [
+        {
+          "text": "Vorsitzender des frisch gestarteten Innovationsfonds der Nato."
+        },
+        {
+          "text": "Die Gründe haben meine Kollegen Christina Kyriasoglou und Jonas Rest recherchiert: Die Fonds von Hommels' Investmentfirma Lakestar halten offenbar immer seltener, was der Maestro einst versprach."
+        }
+      ],
+      "occurences": {
+        "firstNameOnly": 0,
+        "fullName": 1,
+        "lastNameOnly": 1,
+        "total": 2
+      },
+      "quotedInIntro": false,
+      "quotedInTitle": false,
+      "sex": "male"
+    },
+
+    {
+      "age": -1,
+      "alternativeNames": [],
+      "birthday": null,
+      "descriptiveTexts": [
+        {
+          "text": "Die Gründe haben meine Kollegen Christina Kyriasoglou und Jonas Rest recherchiert: Die Fonds von Hommels' Investmentfirma Lakestar halten offenbar immer seltener, was der Maestro einst versprach."
+        }
+      ],
+      "directQuotes": [],
+      "indirectQuotes": [],
+      "inIntro": false,
+      "inTitle": false,
+      "isMain": false,
+      "name": "Christina Kyriasoglou",
+      "occupations": [
+        {
+          "text": "Kollege von Christoph Rottwilm"
+        }
+      ],
+      "occurences": {
+        "firstNameOnly": 0,
+        "fullName": 1,
+        "lastNameOnly": 0,
+        "total": 1
+      },
+      "quotedInIntro": false,
+      "quotedInTitle": false,
+      "sex": []
+    },
+
+    {
+      "age": -1,
+      "alternativeNames": [],
+      "birthday": null,
+      "descriptiveTexts": [
+        {
+          "text": "Die Gründe haben meine Kollegen Christina Kyriasoglou und Jonas Rest recherchiert: Die Fonds von Hommels' Investmentfirma Lakestar halten offenbar immer seltener, was der Maestro einst versprach."
+        }
+      ],
+      "directQuotes": [],
+      "indirectQuotes": [],
+      "inIntro": false,
+      "inTitle": false,
+      "isMain": false,
+      "name": "Jonas Rest",
+      "occupations": [
+        {
+          "text": "Kollege von Christoph Rottwilm"
+        }
+      ],
+      "occurences": {
+        "firstNameOnly": 0,
+        "fullName": 1,
+        "lastNameOnly": 0,
+        "total": 1
+      },
+      "quotedInIntro": false,
+      "quotedInTitle": false,
+      "sex": []
+    },
+
+    {
+      "age": -1,
+      "alternativeNames": [],
+      "birthday": null,
+      "descriptiveTexts": [
+        {
+          "text": "Der Name Helmut Schlotterer dürfte nicht jedem auf Anhieb geläufig sein."
+        },
+        {
+          "text": "Schlotterer ist damit einer der erfolgreichsten Modeunternehmer des Landes."
+        },
+        {
+          "text": "Kollege Martin Mehringer schildert Ihnen alle Details: Sozialismus –der radikale Erbfolgeplan des Marc-Cain-Inhabers"
+        }
+      ],
+      "directQuotes": [],
+      "indirectQuotes": [],
+      "inIntro": false,
+      "inTitle": false,
+      "isMain": false,
+      "name": "Helmut Schlotterer",
+      "occupations": [
+        {
+          "text": "der erfolgreichsten Modeunternehmer des Landes"
+        }
+      ],
+      "occurences": {
+        "firstNameOnly": 0,
+        "fullName": 1,
+        "lastNameOnly": 1,
+        "total": 2
+      },
+      "quotedInIntro": false,
+      "quotedInTitle": false,
+      "sex": "male"
+    },
+
+    {
+      "age": -1,
+      "alternativeNames": [],
+      "birthday": null,
+      "descriptiveTexts": [ 
+        {
+          "text": "Kollege Martin Mehringer schildert Ihnen alle Details: Sozialismus –der radikale Erbfolgeplan des Marc-Cain-Inhabers"
+        }
+      ],
+      "directQuotes": [],
+      "indirectQuotes": [],
+      "inIntro": false,
+      "inTitle": false,
+      "isMain": false,
+      "name": "Martin Mehringer",
+      "occupations": [
+        {
+          "text": "Kollege von Christoph Rottwilm"
+        }
+      ],
+      "occurences": {
+        "firstNameOnly": 0,
+        "fullName": 1,
+        "lastNameOnly": 0,
+        "total": 1
+      },
+      "quotedInIntro": false,
+      "quotedInTitle": false,
+      "sex": "male"
+    },
+
+    {
+      "age": -1,
+      "alternativeNames": [],
+      "birthday": null,
+      "descriptiveTexts": [ 
+        {
+          "text": "Mit Tina Turner ist eine der ganz großen Künstlerinnen der Rock- und Pop-Welt verstorben, die den meisten als wilder Bühnenstar mit unverwechselbarer Stimme in Erinnerung bleiben dürfte."
+        },
+        {
+          "text": "Die Kollegen vom Harvard Business manager allerdings hatten vor wenigen Jahren die Gelegenheit, ein Interview mit der Sängerin zu führen, und lernten dabei eine andere Seite von Tina Turner kennen: Die Sängerin sprach über schwere Zeiten in ihrem Leben, über Missbrauch, und darüber, wie ihr Spiritualität und buddhistische Praxis geholfen haben, damit fertigzuwerden."
+        }
+      ],
+      "directQuotes": [
+        {
+          "text": "Für mich war es das Beste, auf der Bühne zu stehen."
+        }
+      ],
+      "indirectQuotes": [
+        {
+          "text": "Sängerin sprach über schwere Zeiten in ihrem Leben, über Missbrauch, und darüber, wie ihr Spiritualität und buddhistische Praxis geholfen haben, damit fertigzuwerden."
+        }
+      ],
+      "inIntro": false,
+      "inTitle": false,
+      "isMain": false,
+      "name": "Tina Turner",
+      "occupations": [
+        {
+          "text": "Sängerin"
+        }
+      ],
+      "occurences": {
+        "firstNameOnly": 0,
+        "fullName": 2,
+        "lastNameOnly": 0,
+        "total": 2
+      },
+      "quotedInIntro": false,
+      "quotedInTitle": false,
+      "sex": "female"
+    },
+
+    {
+      "age": -1,
+      "alternativeNames": [],
+      "birthday": null,
+      "descriptiveTexts": [
+        {
+          "text": "Beste Grüße, Ihr Christoph Rottwilm"
+        }
+      ],
+      "directQuotes": [],
+      "indirectQuotes": [],
+      "inIntro": false,
+      "inTitle": false,
+      "isMain": false,
+      "name": "Christoph Rottwilm",
+      "occupations": [],
+      "occurences": {
+        "firstNameOnly": 0,
+        "fullName": 1,
+        "lastNameOnly": 0,
+        "total": 1
+      },
+      "quotedInIntro": false,
+      "quotedInTitle": false,
+      "sex": "male"
+    }
+  ],
+  "subtopics": [
+    "Wirtschaftsnews",
+    "Konflikte"
+  ]
+}

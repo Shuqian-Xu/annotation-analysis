@@ -1,0 +1,395 @@
+{
+  "persons": [
+    {
+      "age": 38,
+      "alternativeNames": [],
+      "birthday": null,
+      "descriptiveTexts": [
+        {
+          "text": "«Bitte alle anschnallen,» please fasten your seatbelts, Stephen Sunday says in German."
+        },
+        {
+          "text": "He turns on the blinker, glances over his shoulder, and guides his large yellow bus into the left lane."
+        },
+        {
+          "text": "But Sunday wants to do everything just right because he is aiming for a future far away from the shores of Lake Victoria."
+        },
+        {
+          "text": "He is hoping for a job with a public transportation firm in northern Germany."
+        },
+        {
+          "text": "Sunday chugs along patiently in his bus behind all the obstacles, a gentle smile on his lips and his hand ready for action on the gear shift."
+        },
+        {
+          "text": "There’s not much that can upset him."
+        },
+        {
+          "text": "Sunday has been driving buses for 10 years."
+        },
+        {
+          "text": "He is employed by a school and brings children to soccer tournaments during the day."
+        },
+        {
+          "text": "«My father was a teacher, and I really wanted to work with children as well,» says the 38-year-old."
+        },
+        {
+          "text": "At times when his bus-driving skills aren’t needed, he helps out at the school by printing out exam papers or getting books."
+        },
+        {
+          "text": "He loves his job, he says."
+        },
+        {
+          "text": "But he is still looking forward to what lies ahead: a career as a bus driver in Germany, a secure job with, in comparison to Kenya, a solid income."
+        },
+        {
+          "text": "«I’m the explorer type,» he says."
+        },
+        {
+          "text": "The agency in Berlin through which Sunday is hoping to come to Germany has identified more than 100 candidates from Kenya to bolster local public transportation."
+        },
+        {
+          "text": "«I am Stephen Sunday, and I am a bus driver,» says the course participant, almost accent-free."
+        },
+        {
+          "text": "He has practiced the sentence frequently."
+        },
+        {
+          "text": "The B1 German exam is approaching on the weekend, and he has to do well."
+        },
+        {
+          "text": "«This exam is standing between you and a trip to Germany. Don’t forget,» says the teacher, Connie Achieng, upping the pressure."
+        }
+        
+      ],
+      "directQuotes": [
+        {
+          "text": "«Bitte alle anschnallen,» please fasten your seatbelts, Stephen Sunday says in German."
+        },
+        {
+          "text": "«We’re off.» "
+        },
+        {
+          "text": "«My father was a teacher, and I really wanted to work with children as well,»"
+        },
+        {
+          "text": "«I’m the explorer type,»"
+        },
+        {
+          "text": "«I am Stephen Sunday, and I am a bus driver,»"
+        }
+
+      ],
+      "indirectQuotes": [
+        {
+          "text": "He loves his job, he says."
+        }
+      ],
+      "inIntro": false,
+      "inTitle": false,
+      "isMain": false,
+      "name": "Stephen Sunday",
+      "occupations": [
+        {
+          "text": "Bus driver"
+        }
+      ],
+      "occurences": {
+        "firstNameOnly": 0,
+        "fullName": 2,
+        "lastNameOnly": 4,
+        "total": 6
+      },
+      "quotedInIntro": false,
+      "quotedInTitle": false,
+      "sex": "male"
+    },
+
+    {
+      "age": -1,
+      "alternativeNames": [],
+      "birthday": null,
+      "descriptiveTexts": [
+        {
+          "text": "German Chancellor Olaf Scholz made a state visit to Nairobi last year and gushed about the opportunities on the German job market."
+        },
+        {
+          "text": "At a press conference following his meeting with Scholz, Kenyan President William Ruto even spoke of 250,000 jobs available to his countrymen in Germany."
+        },
+        {
+          "text": "The Goethe Institute in the capital of Nairobi offers consulting for those interested in migrating, and since the chancellor’s visit, its appointment books have been full."
+        }
+      ],
+      "directQuotes": [],
+      "indirectQuotes": [],
+      "inIntro": false,
+      "inTitle": false,
+      "isMain": false,
+      "name": "Olaf Scholz",
+      "occupations": [
+        {
+          "text": "German Chancellor"
+        }
+      ],
+      "occurences": {
+        "firstNameOnly": 0,
+        "fullName": 1,
+        "lastNameOnly": 1,
+        "total": 2
+      },
+      "quotedInIntro": false,
+      "quotedInTitle": false,
+      "sex": "male"
+    },
+
+    {
+      "age": -1,
+      "alternativeNames": [],
+      "birthday": null,
+      "descriptiveTexts": [
+        {
+          "text": "At a press conference following his meeting with Scholz, Kenyan President William Ruto even spoke of 250,000 jobs available to his countrymen in Germany."
+        }
+      ],
+      "directQuotes": [],
+      "indirectQuotes": [],
+      "inIntro": false,
+      "inTitle": false,
+      "isMain": false,
+      "name": "William Ruto",
+      "occupations": [
+        {
+          "text": "Kenyan President"
+        }
+      ],
+      "occurences": {
+        "firstNameOnly": 0,
+        "fullName": 1,
+        "lastNameOnly": 0,
+        "total": 1
+      },
+      "quotedInIntro": false,
+      "quotedInTitle": false,
+      "sex": "male"
+    },
+
+    
+    {
+      "age": -1,
+      "alternativeNames": [],
+      "birthday": null,
+      "descriptiveTexts": [
+        {
+          "text": "«Demand has increased significantly,» says project manager Claudia Schilling."
+        },
+        {
+          "text": "She says she fields calls from bakeries in North Rhine-Westphalia looking for trainees and high school graduates from Kenya who want to work in the German healthcare industry."
+        },
+        {
+          "text": "But Schilling also warns: «More than anything, we have to manage expectations at the moment. Many of them are unrealistic, on both sides.»"
+        }
+      ],
+      "directQuotes": [
+        {
+          "text": "«Demand has increased significantly,» says project manager Claudia Schilling."
+        },
+        {
+          "text": "«There is now a much stronger focus on Germany as a possible destination. That represents an opportunity for both sides.»"
+        },
+        {
+          "text": "«More than anything, we have to manage expectations at the moment. Many of them are unrealistic, on both sides.»"
+        }
+      ],
+      "indirectQuotes": [
+        {
+          "text": "She says she fields calls from bakeries in North Rhine-Westphalia looking for trainees and high school graduates from Kenya who want to work in the German healthcare industry."
+        }
+      ],
+      "inIntro": false,
+      "inTitle": false,
+      "isMain": false,
+      "name": "Claudia Schilling",
+      "occupations": [
+        {
+          "text": "project manager"
+        }
+      ],
+      "occurences": {
+        "firstNameOnly": 0,
+        "fullName": 1,
+        "lastNameOnly": 1,
+        "total": 2
+      },
+      "quotedInIntro": false,
+      "quotedInTitle": false,
+      "sex": "female"
+    },
+
+    {
+      "age": -1,
+      "alternativeNames": [],
+      "birthday": null,
+      "descriptiveTexts": [
+        {
+          "text": "Torsten Albig, the former governor of the German state of Schleswig-Holstein, is a co-founder of the company, which has just completed the first contract for five bus drivers with a northern Germany transportation company."
+        },
+        {
+          "text": "«It is a pilot project, and the bureaucratic challenges are enormous,» says Albig’s partner, Bärbel Boy."
+        }
+      ],
+      "directQuotes": [],
+      "indirectQuotes": [],
+      "inIntro": false,
+      "inTitle": false,
+      "isMain": false,
+      "name": "Torsten Albig",
+      "occupations": [
+        {
+          "text": "former governor of the German state of Schleswig-Holstein"
+        },
+        {
+          "text": "co-founder of the company, which has just completed the first contract for five bus drivers with a northern Germany transportation company."
+        }
+      ],
+      "occurences": {
+        "firstNameOnly": 0,
+        "fullName": 1,
+        "lastNameOnly": 1,
+        "total": 2
+      },
+      "quotedInIntro": false,
+      "quotedInTitle": false,
+      "sex": "male"
+    },
+
+    {
+      "age": -1,
+      "alternativeNames": [],
+      "birthday": null,
+      "descriptiveTexts": [
+        {
+          "text": "«It is a pilot project, and the bureaucratic challenges are enormous,» says Albig’s partner, Bärbel Boy."
+        },
+        {
+          "text": "It becomes clear, she says, that «Germany is not a country of immigration.»"
+        }
+      ],
+      "directQuotes": [
+        {
+          "text": "«It is a pilot project, and the bureaucratic challenges are enormous,»"
+        },
+        {
+          "text": "«Germany is not a country of immigration.»"
+        }
+      ],
+      "indirectQuotes": [],
+      "inIntro": false,
+      "inTitle": false,
+      "isMain": false,
+      "name": "Bärbel Boy",
+      "occupations": [
+        {
+          "text": "Albig’s partner"
+        }
+      ],
+      "occurences": {
+        "firstNameOnly": 0,
+        "fullName": 1,
+        "lastNameOnly": 0,
+        "total": 1
+      },
+      "quotedInIntro": false,
+      "quotedInTitle": false,
+      "sex": "female"
+    },
+
+    {
+      "age": -1,
+      "alternativeNames": [],
+      "birthday": null,
+      "descriptiveTexts": [
+        {
+          "text": "Given the acute need for new drivers, Britta Oehlrich, head of the transportation company Verkehrsbetriebe Hamburg-Holstein, isn’t backing down in the face of such hurdles."
+        },
+        {
+          "text": "«When it comes to recruiting employees, we have to explore new strategies,» she says."
+        }
+      ],
+      "directQuotes": [],
+      "indirectQuotes": [],
+      "inIntro": false,
+      "inTitle": false,
+      "isMain": false,
+      "name": "Britta Oehlrich",
+      "occupations": [
+        {
+          "text": "head of the transportation company Verkehrsbetriebe Hamburg-Holstein"
+        },
+        {
+          "text": "«When it comes to recruiting employees, we have to explore new strategies,»"
+        }
+      ],
+      "occurences": {
+        "firstNameOnly": 0,
+        "fullName": 1,
+        "lastNameOnly": 0,
+        "total": 1
+      },
+      "quotedInIntro": false,
+      "quotedInTitle": false,
+      "sex": "female"
+    },
+
+    {
+      "age": -1,
+      "alternativeNames": [],
+      "birthday": null,
+      "descriptiveTexts": [
+        {
+          "text": "«This exam is standing between you and a trip to Germany. Don’t forget,» says the teacher, Connie Achieng, upping the pressure."
+        },
+        {
+          "text": "The teacher says that before each shift, drivers must inspect the bus, check for cleanliness and ensure that it has enough fuel."
+        },
+        {
+          "text": "It is important, she says, to show up for work in good shape and to have eaten before starting a shift."
+        }
+      ],
+      "directQuotes": [
+        {
+          "text": "«This exam is standing between you and a trip to Germany. Don’t forget,»"
+        }
+      ],
+      "indirectQuotes": [
+        {
+          "text": "The teacher says that before each shift, drivers must inspect the bus, check for cleanliness and ensure that it has enough fuel."
+        },
+        {
+          "text": "It is important, she says, to show up for work in good shape and to have eaten before starting a shift."
+        }
+      ],
+      "inIntro": false,
+      "inTitle": false,
+      "isMain": false,
+      "name": "Connie Achieng",
+      "occupations": [
+        {
+          "text": "teacher"
+        }
+      ],
+      "occurences": {
+        "firstNameOnly": 0,
+        "fullName": 1,
+        "lastNameOnly": 0,
+        "total": 1
+      },
+      "quotedInIntro": false,
+      "quotedInTitle": false,
+      "sex": "female"
+    }
+    
+  ],
+  "subtopics": [
+    "Labor migration",
+    "Bus drivers"
+  ]
+}

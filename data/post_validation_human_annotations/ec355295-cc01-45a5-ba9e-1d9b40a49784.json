@@ -1,0 +1,515 @@
+{
+  "persons": [
+    {
+      "age": -1,
+      "alternativeNames": [],
+      "birthday": null,
+      "descriptiveTexts": [
+        {
+          "text": "Es gehe um die Sicherheit und das Wohl der Europäer, kontert EU-Industriekommissar Thierry Breton: «Das ist unverhandelbar.»"
+        },
+        {
+          "text": "Google-Chef Sundar Pichai hat Anfang der Woche mit Breton über mögliche freiwillige Regeln gesprochen."
+        }
+        
+      ],
+      "directQuotes": [
+        {
+          "text": "«Das ist unverhandelbar.»"
+        }
+      ],
+      "indirectQuotes": [],
+      "inIntro": false,
+      "inTitle": false,
+      "isMain": false,
+      "name": "Thierry Breton",
+      "occupations": [
+        {
+          "text": "EU-Industriekommissar"
+        }
+      ],
+      "occurences": {
+        "firstNameOnly": 0,
+        "fullName": 1,
+        "lastNameOnly": 1,
+        "total": 2
+      },
+      "quotedInIntro": false,
+      "quotedInTitle": false,
+      "sex": "male"
+    },
+
+    {
+      "age": -1,
+      "alternativeNames": [],
+      "birthday": null,
+      "descriptiveTexts": [
+        {
+          "text": "Sam Altman, der Chef des ChatGPT-Erfinders OpenAI, hat bei seinem Deutschland-Besuch nun sanftere Töne angeschlagen."
+        },
+        {
+          "text": "Eine Regulierung von KI sei ohne Zweifel notwendig, sagte er auf einer Deutschland-Tour, die ihn auch ins Kanzleramt führte."
+        },
+        {
+          "text": "«Echo-Kammer»"
+        }
+      ],
+      "directQuotes": [],
+      "indirectQuotes": [
+        {
+          "text": "Eine Regulierung von KI sei ohne Zweifel notwendig, sagte er auf einer Deutschland-Tour, die ihn auch ins Kanzleramt führte."
+        },
+        {
+          "text": "Es sei auch gut, für Diskussionen einmal aus der kalifornischen «Echo-Kammer» herauszukommen."
+        }
+      ],
+      "inIntro": false,
+      "inTitle": false,
+      "isMain": false,
+      "name": "Sam Altman",
+      "occupations": [
+        {
+          "text": "der Chef des ChatGPT-Erfinders OpenAI"
+        }
+      ],
+      "occurences": {
+        "firstNameOnly": 0,
+        "fullName": 1,
+        "lastNameOnly": 0,
+        "total": 1
+      },
+      "quotedInIntro": false,
+      "quotedInTitle": false,
+      "sex": "male"
+    },
+
+    {
+      "age": -1,
+      "alternativeNames": [],
+      "birthday": null,
+      "descriptiveTexts": [
+        {
+          "text": "Google-Chef Sundar Pichai hat Anfang der Woche mit Breton über mögliche freiwillige Regeln gesprochen."
+        }
+      ],
+      "directQuotes": [],
+      "indirectQuotes": [],
+      "inIntro": false,
+      "inTitle": false,
+      "isMain": false,
+      "name": "Sundar Pichai",
+      "occupations": [
+        {
+          "text": "Google-Chef"
+        }
+      ],
+      "occurences": {
+        "firstNameOnly": 0,
+        "fullName": 1,
+        "lastNameOnly": 0,
+        "total": 1
+      },
+      "quotedInIntro": false,
+      "quotedInTitle": false,
+      "sex": "male"
+    },
+
+    {
+      "age": -1,
+      "alternativeNames": [],
+      "birthday": null,
+      "descriptiveTexts": [
+        {
+          "text": "Die Potenziale und Gefahren hat meine Kollegin Franziska Martin in einem besonderen Anwendungsfeld näher untersucht: Tools mit «emotionaler KI» sollen helfen, die Gefühlszustände von Menschen zu erkennen."
+        }
+      ],
+      "directQuotes": [],
+      "indirectQuotes": [],
+      "inIntro": false,
+      "inTitle": false,
+      "isMain": false,
+      "name": "Franziska Martin",
+      "occupations": [
+        {
+          "text": "Kollegin von Christian Schütte"
+        }
+      ],
+      "occurences": {
+        "firstNameOnly": 0,
+        "fullName": 1,
+        "lastNameOnly": 0,
+        "total": 1
+      },
+      "quotedInIntro": false,
+      "quotedInTitle": false,
+      "sex": "female"
+    },
+
+    {
+      "age": -1,
+      "alternativeNames": [],
+      "birthday": null,
+      "descriptiveTexts": [
+        {
+          "text": "«Pseudowissenschaft» nennt das hingegen die Oxford-Juristin Sandra Wachter."
+        }
+      ],
+      "directQuotes": [
+        {
+          "text": "«Pseudowissenschaft»"
+        }
+      ],
+      "indirectQuotes": [],
+      "inIntro": false,
+      "inTitle": false,
+      "isMain": false,
+      "name": "Sandra Wachter",
+      "occupations": [
+        {
+          "text": "Oxford-Juristin"
+        }
+      ],
+      "occurences": {
+        "firstNameOnly": 0,
+        "fullName": 1,
+        "lastNameOnly": 0,
+        "total": 1
+      },
+      "quotedInIntro": false,
+      "quotedInTitle": false,
+      "sex": "female"
+    },
+
+    {
+      "age": -1,
+      "alternativeNames": [],
+      "birthday": null,
+      "descriptiveTexts": [
+        {
+          "text": "Der Plan ist gescheitert, hat mein Kollege Christoph Seyerlein recherchiert."
+        }
+      ],
+      "directQuotes": [],
+      "indirectQuotes": [],
+      "inIntro": false,
+      "inTitle": false,
+      "isMain": false,
+      "name": "Christoph Seyerlein",
+      "occupations": [
+        {
+          "text": "Kollege von Christian Schütte"
+        }
+      ],
+      "occurences": {
+        "firstNameOnly": 0,
+        "fullName": 1,
+        "lastNameOnly": 0,
+        "total": 1
+      },
+      "quotedInIntro": false,
+      "quotedInTitle": false,
+      "sex": "male"
+    },
+
+    {
+      "age": -1,
+      "alternativeNames": [],
+      "birthday": null,
+      "descriptiveTexts": [
+        {
+          "text": "Vorstandschef Holger Engelmann will den Stecker ziehen und die Sparte bis Jahresende loswerden."
+        },
+        {
+          "text": "Womöglich muss er dem Abnehmer sogar noch etwas draufzahlen."
+        }
+      ],
+      "directQuotes": [],
+      "indirectQuotes": [],
+      "inIntro": false,
+      "inTitle": false,
+      "isMain": false,
+      "name": "Holger Engelmann",
+      "occupations": [
+        {
+          "text": "Vorstandschef"
+        }
+      ],
+      "occurences": {
+        "firstNameOnly": 0,
+        "fullName": 1,
+        "lastNameOnly": 0,
+        "total": 1
+      },
+      "quotedInIntro": false,
+      "quotedInTitle": false,
+      "sex": "male"
+    },
+
+    {
+      "age": -1,
+      "alternativeNames": [],
+      "birthday": null,
+      "descriptiveTexts": [
+        {
+          "text": "Der «Spiegel» hat seit heute einen neuen Chefredakteur."
+        },
+        {
+          "text": "Dirk Kurbjuweit folgt auf Steffen Klusmann, der die Redaktion seit Anfang 2019 geführt hatte."
+        },
+        {
+          "text": "Wir wünschen dem alten und dem neuen Chef alles Gute!"
+        }
+      ],
+      "directQuotes": [],
+      "indirectQuotes": [],
+      "inIntro": false,
+      "inTitle": false,
+      "isMain": false,
+      "name": "Dirk Kurbjuweit",
+      "occupations": [
+        {
+          "text": "Chefredakteur"
+        }
+      ],
+      "occurences": {
+        "firstNameOnly": 0,
+        "fullName": 1,
+        "lastNameOnly": 0,
+        "total": 1
+      },
+      "quotedInIntro": false,
+      "quotedInTitle": false,
+      "sex": "male"
+    },
+
+    {
+      "age": -1,
+      "alternativeNames": [],
+      "birthday": null,
+      "descriptiveTexts": [
+        {
+          "text": "Dirk Kurbjuweit folgt auf Steffen Klusmann, der die Redaktion seit Anfang 2019 geführt hatte."
+        },
+        {
+          "text": "Steffen Klusmann war zuvor fast fünf Jahre lang unser Chefredakteur, mit dem «Spiegel» sind wir eng verbunden, wir teilen uns in Hamburg ein Haus und der Spiegel-Verlag ist zu 75,1 Prozent Eigentümer des manager magazins."
+        },
+        {
+          "text": "Wir wünschen dem alten und dem neuen Chef alles Gute!"
+        }
+      ],
+      "directQuotes": [],
+      "indirectQuotes": [],
+      "inIntro": false,
+      "inTitle": false,
+      "isMain": false,
+      "name": "Steffen Klusmann",
+      "occupations": [
+        {
+          "text": "hat die Redaktion seit Anfang 2019 geführt"
+        },
+        {
+          "text": "alter Chef"
+        }
+      ],
+      "occurences": {
+        "firstNameOnly": 0,
+        "fullName": 2,
+        "lastNameOnly": 0,
+        "total": 2
+      },
+      "quotedInIntro": false,
+      "quotedInTitle": false,
+      "sex": "male"
+    },
+
+    {
+      "age": -1,
+      "alternativeNames": [],
+      "birthday": null,
+      "descriptiveTexts": [
+        {
+          "text": "Meine Kollegin Christina Kyriasoglou hat über Monate mit vielen Insiderinnen gesprochen."
+        },
+        {
+          "text": "Sie haben ihr von Machtmissbrauch, Diskriminierung und auch Belästigungen berichtet, die sie persönlich erfahren haben."
+        },
+        {
+          "text": "Und wenn Sie der Autorin lieber zuhören – im Podcast berichtet sie von ihrer Recherche."
+        }
+      ],
+      "directQuotes": [],
+      "indirectQuotes": [],
+      "inIntro": false,
+      "inTitle": false,
+      "isMain": false,
+      "name": "Christina Kyriasoglou",
+      "occupations": [
+        {
+          "text": "Kollegin von Christian Schütte"
+        }
+      ],
+      "occurences": {
+        "firstNameOnly": 0,
+        "fullName": 1,
+        "lastNameOnly": 0,
+        "total": 1
+      },
+      "quotedInIntro": false,
+      "quotedInTitle": false,
+      "sex": "female"
+    },
+
+    {
+      "age": -1,
+      "alternativeNames": [],
+      "birthday": null,
+      "descriptiveTexts": [
+        {
+          "text": "Martin und Max Viessmann, die Eigentümer des traditionsreichen Familienunternehmens, haben ihr Wärmepumpengeschäft für 12 Milliarden Euro in die USA verkauft."
+        },
+        {
+          "text": "Warum sie dabei sogar noch auf viel Geld verzichteten und was sie mit ihren Milliarden jetzt planen, haben sie meinem Kollegen Martin Noé in einem ausführlichen Doppelinterview erklärt."
+        },
+        {
+          "text": "Vorab: Vater und Sohn wollen eine industrielle Gruppe rund um das Klimathema aufbauen."
+        }
+      ],
+      "directQuotes": [],
+      "indirectQuotes": [],
+      "inIntro": false,
+      "inTitle": false,
+      "isMain": false,
+      "name": "Martin Viessmann",
+      "occupations": [
+        {
+          "text": "Eigentümer des traditionsreichen Familienunternehmens"
+        }
+      ],
+      "occurences": {
+        "firstNameOnly": 1,
+        "fullName": 0,
+        "lastNameOnly": 0,
+        "total": 1
+      },
+      "quotedInIntro": false,
+      "quotedInTitle": false,
+      "sex": "male"
+    },
+
+    {
+      "age": -1,
+      "alternativeNames": [],
+      "birthday": null,
+      "descriptiveTexts": [
+        {
+          "text": "Martin und Max Viessmann, die Eigentümer des traditionsreichen Familienunternehmens, haben ihr Wärmepumpengeschäft für 12 Milliarden Euro in die USA verkauft."
+        },
+        {
+          "text": "Warum sie dabei sogar noch auf viel Geld verzichteten und was sie mit ihren Milliarden jetzt planen, haben sie meinem Kollegen Martin Noé in einem ausführlichen Doppelinterview erklärt."
+        },
+        {
+          "text": "Vorab: Vater und Sohn wollen eine industrielle Gruppe rund um das Klimathema aufbauen."
+        }
+      ],
+      "directQuotes": [],
+      "indirectQuotes": [],
+      "inIntro": false,
+      "inTitle": false,
+      "isMain": false,
+      "name": "Max Viessmann",
+      "occupations": [
+        {
+          "text": "Eigentümer des traditionsreichen Familienunternehmens"
+        }
+      ],
+      "occurences": {
+        "firstNameOnly": 0,
+        "fullName": 1,
+        "lastNameOnly": 0,
+        "total": 1
+      },
+      "quotedInIntro": false,
+      "quotedInTitle": false,
+      "sex": "male"
+    },
+
+    {
+      "age": -1,
+      "alternativeNames": [],
+      "birthday": null,
+      "descriptiveTexts": [
+        {
+          "text": "Warum sie dabei sogar noch auf viel Geld verzichteten und was sie mit ihren Milliarden jetzt planen, haben sie meinem Kollegen Martin Noé in einem ausführlichen Doppelinterview erklärt."
+        }
+      ],
+      "directQuotes": [],
+      "indirectQuotes": [],
+      "inIntro": false,
+      "inTitle": false,
+      "isMain": false,
+      "name": "Martin Noé",
+      "occupations": [
+        {
+          "text": "Kollege von Christian Schütte"
+        }
+      ],
+      "occurences": {
+        "firstNameOnly": 0,
+        "fullName": 1,
+        "lastNameOnly": 0,
+        "total": 1
+      },
+      "quotedInIntro": false,
+      "quotedInTitle": false,
+      "sex": "male"
+    },
+
+    {
+      "age": -1,
+      "alternativeNames": [],
+      "birthday": null,
+      "descriptiveTexts": [
+        {
+          "text": "Die Potenziale und Gefahren hat meine Kollegin Franziska Martin in einem besonderen Anwendungsfeld näher untersucht: Tools mit «emotionaler KI» sollen helfen, die Gefühlszustände von Menschen zu erkennen."
+        },
+        {
+          "text": "Der Plan ist gescheitert, hat mein Kollege Christoph Seyerlein recherchiert."
+        },
+        {
+          "text": "Meine Kollegin Christina Kyriasoglou hat über Monate mit vielen Insiderinnen gesprochen."
+        },
+        {
+          "text": "Meine Empfehlungen für das lange Wochenende:"
+        },
+        {
+          "text": "Warum sie dabei sogar noch auf viel Geld verzichteten und was sie mit ihren Milliarden jetzt planen, haben sie meinem Kollegen Martin Noé in einem ausführlichen Doppelinterview erklärt."
+        },
+        {
+          "text": "Wir freuen uns auf Ihre Post unter chefredaktion@manager-magazin.de."
+        }
+      ],
+      "directQuotes": [],
+      "indirectQuotes": [],
+      "inIntro": false,
+      "inTitle": false,
+      "isMain": false,
+      "name": "Christian Schütte",
+      "occupations": [],
+      "occurences": {
+        "firstNameOnly": 0,
+        "fullName": 1,
+        "lastNameOnly": 0,
+        "total": 1
+      },
+      "quotedInIntro": false,
+      "quotedInTitle": false,
+      "sex": "male"
+    }
+
+  ],
+  "subtopics": [
+    "Wirtschaftsnews",
+    "KI",
+    "Beratung"
+  ]
+}

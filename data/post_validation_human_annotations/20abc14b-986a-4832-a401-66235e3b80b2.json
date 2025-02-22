@@ -1,0 +1,166 @@
+{
+  "persons": [
+    {
+      "age": 51,
+      "alternativeNames": [],
+      "birthday": null,
+      "descriptiveTexts": [
+        {
+          "text": "Und Konzern-CEO Sundar Pichai (51) baut Google Maps derzeit zu einer Super-App aus, über die man nicht nur navigieren, sondern auch direkt Restaurants oder Friseurtermine buchen und Essen bestellen kann."
+        }
+      ],
+      "directQuotes": [],
+      "indirectQuotes": [],
+      "inIntro": false,
+      "inTitle": false,
+      "isMain": false,
+      "name": "Sundar Pichai",
+      "occupations": [
+        {
+          "text": "Konzern-CEO"
+        }
+      ],
+      "occurences": {
+        "firstNameOnly": 0,
+        "fullName": 1,
+        "lastNameOnly": 0,
+        "total": 1
+      },
+      "quotedInIntro": false,
+      "quotedInTitle": false,
+      "sex": "male"
+    },
+
+    {
+      "age": -1,
+      "alternativeNames": [],
+      "birthday": null,
+      "descriptiveTexts": [
+        {
+          "text": "«Vor fünf Jahren sind wir gestartet, inzwischen haben wir 500 Städte live mit zuletzt 72 Betreibern», sagte Britta Duerscheid kürzlich bei der Micromobility Europe, einer Mikromobilitäts-Messe in Amsterdam."
+        },
+        {
+          "text": "Die Google-Maps-Managerin kümmert sich um die Entwicklung der strategischen Partnerschaften."
+        },
+        {
+          "text": "Die App «zeigt Echtzeit-Informationen für Hunderte von Zugfahrten täglich an und enthält einen Ticket-Link-Button, der Sie direkt zur DB-Plattform führt, um das Ticket zu buchen», erklärt Duerscheid gegenüber manager magazin."
+        },
+        {
+          "text": "Laut Duerscheid sucht Google nun nach weiteren «Win-win-Partnerschaften», von denen Google und die privaten Mikromobilitätsanbieter gleichermaßen profitieren sollen."
+        },
+        {
+          "text": "Damit Reisende solche Angebote nutzen, sei der Mehrwert entscheidend, sagt auch Duerscheid."
+        },
+        {
+          "text": "«Auch wenn Nutzern Nachhaltigkeit bei ihren Verkehrsmitteln wichtig ist, so ist doch der Standardnutzungsfall, dass man auf effiziente Weise von A nach B gelangen möchte», so die Google-Managerin."
+        },
+        {
+          "text": "Auch durch den Einsatz von künstlicher Intelligenz sollen viele verschiedene Faktoren wie Straßenqualität, Verkehrsprognosen, Fahrradwege oder öffentliche Verkehrsmittel analysiert werden, so Duerscheid."
+        },
+        {
+          "text": "«Wir sind von einer 2D-Visualisierung zu einer mehrdimensionalen Ansicht der Welt übergegangen», sagt Duerscheid."
+        },
+        {
+          "text": "Wie aus einer Vogelperspektive bekomme man etwa angezeigt, wie die Fahrradspur aussieht, wie viele Ampeln es gibt, wie viel Verkehr zu erwarten ist, wie die Luftqualität ist und wie das Wetter sein wird, erklärt Duerscheid."
+        }
+      ],
+      "directQuotes": [
+        {
+          "text": "«Vor fünf Jahren sind wir gestartet, inzwischen haben wir 500 Städte live mit zuletzt 72 Betreibern»"
+        },
+        {
+          "text": "«zeigt Echtzeit-Informationen für Hunderte von Zugfahrten täglich an und enthält einen Ticket-Link-Button, der Sie direkt zur DB-Plattform führt, um das Ticket zu buchen»"
+        },
+        {
+          "text": "«Win-win-Partnerschaften»"
+        },
+        {
+          "text": "«Auch wenn Nutzern Nachhaltigkeit bei ihren Verkehrsmitteln wichtig ist, so ist doch der Standardnutzungsfall, dass man auf effiziente Weise von A nach B gelangen möchte»"
+        },
+        {
+          "text": "«Und dafür sind Zeit und Geld die wichtigsten Faktoren.»"
+        },
+        {
+          "text": "«Wir sind von einer 2D-Visualisierung zu einer mehrdimensionalen Ansicht der Welt übergegangen»"
+        }
+      ],
+      "indirectQuotes": [
+        {
+          "text": "Laut Duerscheid sucht Google nun nach weiteren «Win-win-Partnerschaften», von denen Google und die privaten Mikromobilitätsanbieter gleichermaßen profitieren sollen."
+        },
+        {
+          "text": "Damit Reisende solche Angebote nutzen, sei der Mehrwert entscheidend, sagt auch Duerscheid."
+        },
+        {
+          "text": "Auch durch den Einsatz von künstlicher Intelligenz sollen viele verschiedene Faktoren wie Straßenqualität, Verkehrsprognosen, Fahrradwege oder öffentliche Verkehrsmittel analysiert werden, so Duerscheid."
+        },
+        {
+          "text": "Wie aus einer Vogelperspektive bekomme man etwa angezeigt, wie die Fahrradspur aussieht, wie viele Ampeln es gibt, wie viel Verkehr zu erwarten ist, wie die Luftqualität ist und wie das Wetter sein wird, erklärt Duerscheid."
+        }
+      ],
+      "inIntro": false,
+      "inTitle": false,
+      "isMain": true,
+      "name": "Britta Duerscheid",
+      "occupations": [
+        {
+          "text": "Google-Maps-Managerin"
+        }
+      ],
+      "occurences": {
+        "firstNameOnly": 0,
+        "fullName": 1,
+        "lastNameOnly": 6,
+        "total": 7
+      },
+      "quotedInIntro": false,
+      "quotedInTitle": false,
+      "sex": "female"
+    },
+
+    {
+      "age": -1,
+      "alternativeNames": [],
+      "birthday": null,
+      "descriptiveTexts": [
+        {
+          "text": "Zwar habe es in den letzten Jahren großen Fortschritt in technischer und industrieller Hinsicht gegeben und mehr Integration, mehr Standardisierung, mehr Zusammenarbeit, sagt Natalia le Gal, Gründerin des spezialisierten Beratungsunternehmens Behava."
+        }
+        
+      ],
+      "directQuotes": [
+        {
+          "text": "«Aber die Nutzer strömen noch nicht wirklich zu den MaaS-Apps.»"
+        }
+      ],
+      "indirectQuotes": [
+        {
+          "text": "Zwar habe es in den letzten Jahren großen Fortschritt in technischer und industrieller Hinsicht gegeben und mehr Integration, mehr Standardisierung, mehr Zusammenarbeit, sagt Natalia le Gal, Gründerin des spezialisierten Beratungsunternehmens Behava."
+        }
+      ],
+      "inIntro": false,
+      "inTitle": false,
+      "isMain": false,
+      "name": "Natalia le Gal",
+      "occupations": [
+        {
+          "text": "Gründerin des spezialisierten Beratungsunternehmens Behava"
+        }
+      ],
+      "occurences": {
+        "firstNameOnly": 0,
+        "fullName": 1,
+        "lastNameOnly": 0,
+        "total": 1
+      },
+      "quotedInIntro": false,
+      "quotedInTitle": false,
+      "sex": "female"
+    }
+
+  ],
+  "subtopics": [
+    "Mobility-as-a-Service",
+    "Google Maps"
+  ]
+}

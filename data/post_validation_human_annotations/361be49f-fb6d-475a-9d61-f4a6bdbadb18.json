@@ -1,0 +1,218 @@
+{
+  "persons": [
+    {
+      "age": -1,
+      "alternativeNames": [],
+      "birthday": null,
+      "descriptiveTexts": [
+        {
+          "text": "»Voraussetzung für einen wirksamen Vermittlungsvertrag ist, dass der Makler beauftragt und der Vertrag in Textform geschlossen wird«, sagt Inka-Marie Storm, Chefjustiziarin beim Eigentümerverband Haus & Grund Deutschland."
+        },
+        {
+          "text": "Beim Immobilienkauf gebe es keine gesetzlich festgeschriebene Höchstgrenze bei der Provision, sagt Inka-Marie Storm."
+        },
+        {
+          "text": "»Danach hat immer derjenige die Maklercourtage zu zahlen, der den Makler beauftragt hat«, sagt Storm."
+        },
+        {
+          "text": "Allerdings könnten die Kosten hierbei bis zur Hälfte auf den anderen Vertragspartner übertragen werden, so Storm."
+        },
+        {
+          "text": "»Der Makler hat allerdings keinen Anspruch auf ein Honorar, wenn ein bestehendes Mietverhältnis lediglich fortgesetzt, verlängert oder erneuert wird«, sagt die Chefjustiziarin von Haus & Grund Deutschland."
+        },
+        {
+          "text": "Laut Inka-Marie Storm dürften Makler in so einem Fall lediglich Reise- und Portokosten als Aufwandsentschädigung geltend machen, wenn sie diese konkret nachweisen können."
+        },
+        {
+          "text": "»Intransparente Pauschalen sind nicht erlaubt.«"
+        },
+        {
+          "text": "Storm sagt, Makler dürften keine Angaben im Exposé machen, durch die die Beschaffenheit einer Immobilie falsch dargestellt wird."
+        },
+        {
+          "text": "Für fehlerhafte Angaben in einem Maklerexposé kann ein Auftraggeber mit haften, sagt Inka-Marie Storm."
+        }
+      ],
+      "directQuotes": [
+        {
+          "text": "Voraussetzung für einen wirksamen Vermittlungsvertrag ist, dass der Makler beauftragt und der Vertrag in Textform geschlossen wird"
+        },
+        {
+          "text": "Beim Immobilienkauf gebe es keine gesetzlich festgeschriebene Höchstgrenze bei der Provision."
+        },
+        {
+          "text": "Danach hat immer derjenige die Maklercourtage zu zahlen, der den Makler beauftragt hat"
+        },
+        {
+          "text": "Der Makler hat allerdings keinen Anspruch auf ein Honorar, wenn ein bestehendes Mietverhältnis lediglich fortgesetzt, verlängert oder erneuert wird"
+        },
+        {
+          "text": "Intransparente Pauschalen sind nicht erlaubt."
+        },
+        {
+          "text": "Für fehlerhafte Angaben in einem Maklerexposé kann ein Auftraggeber mit haften."
+        }
+      ],
+      "inIntro": false,
+      "inTitle": false,
+      "indirectQuotes": [
+        {
+          "text": "Beim Immobilienkauf gebe es keine gesetzlich festgeschriebene Höchstgrenze bei der Provision, sagt Inka-Marie Storm."
+        },
+        {
+          "text": "Üblicherweise würden jedoch 7,14 Prozent des Kaufpreises fällig."
+        },
+        {
+          "text": "Storm sagt, Makler dürften keine Angaben im Exposé machen, durch die die Beschaffenheit einer Immobilie falsch dargestellt wird."
+        }
+      ],
+      "isMain": true,
+      "name": "Inka-Marie Storm",
+      "occupations": [
+        {
+          "text": "Chefjustiziarin von Haus & Grund Deutschland"
+        }
+      ],
+      "occurences": {
+        "firstNameOnly": 0,
+        "fullName": 4,
+        "lastNameOnly": 4,
+        "total": 8
+      },
+      "quotedInIntro": false,
+      "quotedInTitle": false,
+      "sex": "female"
+    },
+    {
+      "age": -1,
+      "alternativeNames": [],
+      "birthday": null,
+      "descriptiveTexts": [
+        {
+          "text": "Die Folge: Selbst bei erfolgreicher Vermittlung könne ein Makler dann keine Courtage verlangen, sagt Rechtsanwältin Manuela Reibold-Rolinger von der Arbeitsgemeinschaft Bau- und Immobilienrecht im Deutschen Anwaltverein."
+        },
+        {
+          "text": "Rechtsanwältin Manuela Reibold-Rolinger empfiehlt daher, keinen eigenständigen Reservierungsvertrag abzuschließen und im Idealfall auch keinen Maklervertrag zu unterzeichnen, in dem eine Reservierungsgebühr vorgesehen ist."
+        },
+        {
+          "text": "Eine Reservierungsvereinbarung bietet Reibold-Rolinger zufolge keinen nennenswerten Vorteil für Interessenten."
+        }
+      ],
+      "directQuotes": [],
+      "inIntro": false,
+      "inTitle": false,
+      "indirectQuotes": [
+        {
+          "text": "Rechtsanwältin Manuela Reibold-Rolinger empfiehlt daher, keinen eigenständigen Reservierungsvertrag abzuschließen und im Idealfall auch keinen Maklervertrag zu unterzeichnen, in dem eine Reservierungsgebühr vorgesehen ist."
+        }
+      ],
+      "isMain": false,
+      "name": "Manuela Reibold-Rolinger",
+      "occupations": [
+        {
+          "text": "Rechtsanwältin von der Arbeitsgemeinschaft Bau- und Immobilienrecht im Deutschen Anwaltverein"
+        }
+      ],
+      "occurences": {
+        "firstNameOnly": 0,
+        "fullName": 2,
+        "lastNameOnly": 1,
+        "total": 3
+      },
+      "quotedInIntro": false,
+      "quotedInTitle": false,
+      "sex": "female"
+    },
+    {
+      "age": -1,
+      "alternativeNames": [],
+      "birthday": null,
+      "descriptiveTexts": [
+        {
+          "text": "»Verbraucherinnen und Verbraucher müssen erst dann eine Provisionszahlung an den Makler leisten, wenn es zu einem erfolgreichen Abschluss eines Kauf- oder Mietvertrags kommt«, sagt Stephen Paul vom Immobilienverband Deutschland (IVD)."
+        }
+      ],
+      "directQuotes": [
+        {
+          "text": "»Verbraucherinnen und Verbraucher müssen erst dann eine Provisionszahlung an den Makler leisten, wenn es zu einem erfolgreichen Abschluss eines Kauf- oder Mietvertrags kommt«"
+        }
+      ],
+      "inIntro": false,
+      "inTitle": false,
+      "indirectQuotes": [],
+      "isMain": false,
+      "name": "Stephen Paul",
+      "occupations": [
+        {
+          "text": "vom Immobilienverband Deutschland"
+        }
+      ],
+      "occurences": {
+        "firstNameOnly": 0,
+        "fullName": 1,
+        "lastNameOnly": 0,
+        "total": 1
+      },
+      "quotedInIntro": false,
+      "quotedInTitle": false,
+      "sex": "male"
+    },
+    {
+      "age": -1,
+      "alternativeNames": [],
+      "birthday": null,
+      "descriptiveTexts": [
+        {
+          "text": "Laut Matthias Bauer von der Verbraucherzentrale Baden-Württemberg ist die Erhebung anderer Gebühren als der Maklercourtage in der Regel nicht zulässig."
+        },
+        {
+          "text": "Werden Maklerverträge per Post, Telefon, E-Mail, Internet oder im Rahmen eines Haustürgeschäfts geschlossen, stehe Verbrauchern grundsätzlich ein 14-tägiges Widerrufsrecht zu, sagt Verbraucherschützer Bauer."
+        },
+        {
+          "text": "»Tut er das nicht, kann der Vertrag noch bis zu einem Jahr und 14 Tage nach Vertragsschluss widerrufen werden«, sagt Bauer."
+        },
+        {
+          "text": "Matthias Bauer rät zu einer Laufzeitvereinbarung von drei bis sechs Monaten. So habe der Makler genügend Zeit, ein passendes Objekt oder einen entsprechenden Interessenten zu finden."
+        },
+        {
+          "text": "Die Verträge sehen Bauer zufolge häufig befristete Kündigungsklauseln vor."
+        }
+      ],
+      "directQuotes": [
+        {
+          "text": "Tut er das nicht, kann der Vertrag noch bis zu einem Jahr und 14 Tage nach Vertragsschluss widerrufen werden."
+        }
+      ],
+      "inIntro": false,
+      "inTitle": false,
+      "indirectQuotes": [
+        {
+          "text": "Werden Maklerverträge per Post, Telefon, E-Mail, Internet oder im Rahmen eines Haustürgeschäfts geschlossen, stehe Verbrauchern grundsätzlich ein 14-tägiges Widerrufsrecht zu, sagt Verbraucherschützer Bauer."
+        },
+        {
+          "text": "Matthias Bauer rät zu einer Laufzeitvereinbarung von drei bis sechs Monaten. So habe der Makler genügend Zeit, ein passendes Objekt oder einen entsprechenden Interessenten zu finden."
+        }
+      ],
+      "isMain": false,
+      "name": "Matthias Bauer",
+      "occupations": [
+        {
+          "text": "Verbraucherschützer"
+        }
+      ],
+      "occurences": {
+        "firstNameOnly": 0,
+        "fullName": 2,
+        "lastNameOnly": 3,
+        "total": 5
+      },
+      "quotedInIntro": false,
+      "quotedInTitle": false,
+      "sex": "male"
+    }
+  ],
+  "subtopics": [
+    "Immobilienrecht",
+    "Verbraucherschutz"
+  ]
+}

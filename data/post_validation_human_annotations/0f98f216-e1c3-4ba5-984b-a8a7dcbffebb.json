@@ -1,0 +1,465 @@
+{
+  "persons": [
+    {
+      "age": 22,
+      "alternativeNames": [],
+      "birthday": null,
+      "descriptiveTexts": [
+        {
+          "text": "Es war eine Szene wie in einer Filmkomödie, nur leider wohl ohne Happy End: Wang Weize (22) war voller Hoffnung zum Bewerbungsgespräch bei einer großen chinesischen Bank gegangen."
+        },
+        {
+          "text": "Doch als er dort ankam, erblickte er unter den Konkurrenten einen alten Bekannten: den Überflieger seiner Highschool, der unter den rund 400 Schülern seines Schuljahrgangs die besten Noten gehabt und anschließend eine Spitzenuniversität besucht hatte."
+        },
+        {
+          "text": "«Mein Gefühl war, in das Vorstellungsgespräch muss ich eigentlich gar nicht erst reingehen», sagt Wang."
+        },
+        {
+          "text": "«Wie soll ich da mithalten?»"
+        },
+        {
+          "text": "Wang ist Uni-Absolvent und verzweifelt auf Jobsuche."
+        },
+        {
+          "text": "Wie so viele seiner Generation."
+        },
+        {
+          "text": "Nach dem Gespräch in der Bank sitzt er an diesem Augusttag in einer Starbucks-Filiale in Pekings zentralem Geschäftsviertel."
+        },
+        {
+          "text": "Wie gern würde Wang zu ihnen gehören – nicht zu den Boten, sondern den Büroangestellten."
+        },
+        {
+          "text": "Äußerlich hat er sich ihnen schon angepasst, er trägt Anzughose und ein gebügeltes weißes Hemd, sein letzter Friseurbesuch kann nicht lange her sein."
+        },
+        {
+          "text": "Seine Lage ist ihm peinlich: Er fürchtet, einer seiner Bekannten könnte mitbekommen, dass er noch immer keine Arbeit gefunden hat."
+        },
+        {
+          "text": "Wang Weize dachte, er habe alles richtig gemacht."
+        },
+        {
+          "text": "Er stammt aus einer bildungsorientierten Mittelschichtsfamilie in Peking."
+        },
+        {
+          "text": "Seine Mutter ist Buchhalterin an einer Schule, sein Vater Einkäufer bei einem Staatsunternehmen."
+        },
+        {
+          "text": "Für seinen Bachelor studierte Wang an einer Technischen Universität in Peking im Hauptfach Wirtschaftsstatistik."
+        },
+        {
+          "text": "Er sei schüchtern und nicht auf einen Job erpicht, in dem er mit Menschen zu tun habe, sagt er, aber er möge Zahlen."
+        },
+        {
+          "text": "«Ich war sicher, damit kann ich gutes Geld verdienen.»"
+        },
+        {
+          "text": "Wang erreichte einen Durchschnitt von 2,7 – nicht überragend, aber solides Mittelfeld."
+        },
+        {
+          "text": "Früher hätte das locker für den Karriereeinstieg gereicht."
+        },
+        {
+          "text": "Etwa hundert Bewerbungen hat er inzwischen geschrieben."
+        },
+        {
+          "text": "Fünfmal wurde er zum Vorstellungsgespräch eingeladen."
+        },
+        {
+          "text": "Weiter hat er es bisher nicht geschafft."
+        },
+        {
+          "text": "Dieses Schicksal, erzählt Wang, teile er mit vielen der 47 Absolventinnen und Absolventen seines Fachs an seiner Universität."
+        },
+        {
+          "text": "Etwa 50 Prozent seiner Kommilitonen hätten einen Job oder einen weiterführenden Studienplatz ergattert, «der Rest ist arbeitslos»."
+        },
+        {
+          "text": "Wang glaubt das auch."
+        },
+        {
+          "text": "Um Daten über die Beschäftigungssituation zu erheben, sei ein Mitarbeiter seiner Universität in das Wohnheimzimmer gekommen, in dem sie zu viert leben."
+        },
+        {
+          "text": "«Ich habe mich ergeben», sagt Wang."
+        },
+        {
+          "text": "»Nur wenige haben ein Angebot bekommen«, sagt Wang."
+        },
+        {
+          "text": "Bei den Messen im Frühjahr 2023 hingegen seien vor allem Servicejobs angeboten worden – für ihn, der etwas menschenscheu ist, keine Option."
+        },
+        {
+          "text": "Der Wirtschaftsstatistik-Absolvent Wang Weize sagt, es bringe ja nichts, sich zu beschweren."
+        },
+        {
+          "text": "»Mei banfa«, sagt er, da kann man nichts machen."
+        },
+        {
+          "text": "Manchmal scheint aber doch seine Ratlosigkeit durch."
+        },
+        {
+          "text": "Natürlich könne er sich jetzt um einen Master-Studienplatz bemühen, aber angesichts der Arbeitsmarktlage sei ihm die Zuversicht abhandengekommen, dass ein höherer Abschluss die Lösung sei."
+        },
+        {
+          "text": "Seine Eltern würden ihm mittlerweile nahelegen, es bei einem Staatsunternehmen zu versuchen."
+        },
+        {
+          "text": "Doch Wang hat Zweifel: »Wer wird denn einzahlen, wenn ich mal im Rentenalter ankomme? Chinas Bevölkerung schrumpft«, sagt er."
+        },
+        {
+          "text": "In seiner Suche nach einer guten Zukunft sieht er sich weitgehend auf sich allein gestellt: »Man muss selbst dafür sorgen, dass jeder Tag zählt.«"
+        }
+        
+      ],
+      "directQuotes": [
+        {
+          "text": "«Mein Gefühl war, in das Vorstellungsgespräch muss ich eigentlich gar nicht erst reingehen»"
+        },
+        {
+          "text": "«Wie soll ich da mithalten?»"
+        },
+        {
+          "text": "«Ich war sicher, damit kann ich gutes Geld verdienen.»"
+        },
+        {
+          "text": "«der Rest ist arbeitslos»"
+        },
+        {
+          "text": "«Ich habe mich ergeben»"
+        },
+        {
+          "text": "»Nur wenige haben ein Angebot bekommen«"
+        },
+        {
+          "text": "»Mei banfa«"
+        },
+        {
+          "text": "»Wer wird denn einzahlen, wenn ich mal im Rentenalter ankomme? Chinas Bevölkerung schrumpft«"
+        },
+        {
+          "text": "»Man muss selbst dafür sorgen, dass jeder Tag zählt.«"
+        }
+      ],
+      "indirectQuotes": [
+        {
+          "text": "Wang Weize dachte, er habe alles richtig gemacht."
+        },
+        {
+          "text": "Er sei schüchtern und nicht auf einen Job erpicht, in dem er mit Menschen zu tun habe, sagt er, aber er möge Zahlen."
+        },
+        {
+          "text": "Dieses Schicksal, erzählt Wang, teile er mit vielen der 47 Absolventinnen und Absolventen seines Fachs an seiner Universität."
+        },
+        {
+          "text": "Der Wirtschaftsstatistik-Absolvent Wang Weize sagt, es bringe ja nichts, sich zu beschweren."
+        }
+      ],
+      "inIntro": false,
+      "inTitle": false,
+      "isMain": true,
+      "name": "Wang Weize",
+      "occupations": [
+        {
+          "text": "Wirtschaftsstatistik-Absolvent"
+        }
+      ],
+      "occurences": {
+        "firstNameOnly": 0,
+        "fullName": 3,
+        "lastNameOnly": 10,
+        "total": 13
+      },
+      "quotedInIntro": false,
+      "quotedInTitle": false,
+      "sex": "male"
+    },
+
+    {
+      "age": -1,
+      "alternativeNames": [],
+      "birthday": null,
+      "descriptiveTexts": [
+        {
+          "text": "Ist das schon «das Ende von Chinas Wirtschaftswunder», wie die Überschrift eines aktuellen Aufsatzes von Adam Posen lautet, dem Präsidenten des renommierten Peterson Institute for International Economics?"
+        }
+      ],
+      "directQuotes": [
+        {
+          "text": "«das Ende von Chinas Wirtschaftswunder»"
+        }
+      ],
+      "indirectQuotes": [],
+      "inIntro": false,
+      "inTitle": false,
+      "isMain": false,
+      "name": "Adam Posen",
+      "occupations": [
+        {
+          "text": "Präsidenten des renommierten Peterson Institute for International Economics"
+        }
+      ],
+      "occurences": {
+        "firstNameOnly": 0,
+        "fullName": 1,
+        "lastNameOnly": 0,
+        "total": 1
+      },
+      "quotedInIntro": false,
+      "quotedInTitle": false,
+      "sex": "male"
+    },
+
+    {
+      "age": -1,
+      "alternativeNames": [],
+      "birthday": null,
+      "descriptiveTexts": [
+        {
+          "text": "China sei nach der Pandemie «in der neuen Realität einer Wirtschaft aufgewacht, die sich über Jahre verlangsamen wird», sagt Alicia García-Herrero, Chefökonomin für die Asien-Pazifik-Region bei der Investmentbank Natixis."
+        }
+      ],
+      "directQuotes": [
+        {
+          "text": "«in der neuen Realität einer Wirtschaft aufgewacht, die sich über Jahre verlangsamen wird»"
+        },
+        {
+          "text": "«Das Wachstum wird nicht wieder in Höhen zurückkehren, wo es einmal war. Daran glaubt niemand.»"
+        }
+      ],
+      "indirectQuotes": [],
+      "inIntro": false,
+      "inTitle": false,
+      "isMain": false,
+      "name": "Alicia García-Herrero",
+      "occupations": [
+        {
+          "text": "Chefökonomin für die Asien-Pazifik-Region bei der Investmentbank Natixis"
+        }
+      ],
+      "occurences": {
+        "firstNameOnly": 0,
+        "fullName": 1,
+        "lastNameOnly": 0,
+        "total": 1
+      },
+      "quotedInIntro": false,
+      "quotedInTitle": false,
+      "sex": "female"
+    },
+
+    {
+      "age": -1,
+      "alternativeNames": [],
+      "birthday": null,
+      "descriptiveTexts": [
+        {
+          "text": "Zhang Dandan, Wirtschaftsdozentin an der Peking-Universität, schrieb im Juli im Magazin «Caixin», die wahre Jugendarbeitslosigkeit liege womöglich bei bis zu 46,5 Prozent."
+        },
+        {
+          "text": "Diese Schätzung stützte sie auf ihre Forschung über die Industriezentren Suzhou und Kunshan in der ostchinesischen Provinz Jiangsu."
+        },
+        {
+          "text": "Kurz nach der Veröffentlichung wurde Zhangs Artikel von der »Caixin«-Website gelöscht."
+        }
+      ],
+      "directQuotes": [],
+      "indirectQuotes": [
+        {
+          "text": "Zhang Dandan, Wirtschaftsdozentin an der Peking-Universität, schrieb im Juli im Magazin «Caixin», die wahre Jugendarbeitslosigkeit liege womöglich bei bis zu 46,5 Prozent."
+        }
+      ],
+      "inIntro": false,
+      "inTitle": false,
+      "isMain": false,
+      "name": "Zhang Dandan",
+      "occupations": [
+        {
+          "text": "Wirtschaftsdozentin an der Peking-Universität"
+        }
+      ],
+      "occurences": {
+        "firstNameOnly": 0,
+        "fullName": 1,
+        "lastNameOnly": 0,
+        "total": 1
+      },
+      "quotedInIntro": false,
+      "quotedInTitle": false,
+      "sex": "female"
+    },
+
+    {
+      "age": -1,
+      "alternativeNames": [],
+      "birthday": null,
+      "descriptiveTexts": [
+        {
+          "text": "»Die Führung dachte, die Erholung wird ein Selbstläufer«, sagt Max Zenglein, Chefökonom bei der Berliner China-Denkfabrik Merics."
+        }
+      ],
+      "directQuotes": [
+        {
+          "text": "»Die Führung dachte, die Erholung wird ein Selbstläufer«"
+        },
+        {
+          "text": "»Sie dachten, sie müssten nur die Null-Covid-Politik abschaffen, und dann legt sich ein Schalter um. Das stellt sich aber nicht ein.«"
+        }
+      ],
+      "indirectQuotes": [],
+      "inIntro": false,
+      "inTitle": false,
+      "isMain": false,
+      "name": "Max Zenglein",
+      "occupations": [
+        {
+          "text": "Chefökonom bei der Berliner China-Denkfabrik Merics"
+        }
+      ],
+      "occurences": {
+        "firstNameOnly": 0,
+        "fullName": 1,
+        "lastNameOnly": 0,
+        "total": 1
+      },
+      "quotedInIntro": false,
+      "quotedInTitle": false,
+      "sex": "male"
+    },
+
+    {
+      "age": -1,
+      "alternativeNames": [],
+      "birthday": null,
+      "descriptiveTexts": [
+        {
+          "text": "Chinas Jugend müsse lernen, »Bitterkeit zu essen«, also Härten zu ertragen, sagte Staats- und Parteichef Xi Jinping."
+        },
+        {
+          "text": "Er selbst hat sich diese Fähigkeit angeeignet, als er als Teenager aufs Land geschickt wurde, um die Kulturrevolution in einem Dorf ohne Strom und fließend Wasser zu überdauern."
+        },
+        {
+          "text": "Für die heutige Jugend scheint er Ähnliches im Sinn zu haben."
+        },
+        {
+          "text": "Ende 2022 wies er Kader an, College-Absolventen systematisch in ländliche Gegenden zu leiten, um die »ländliche Wirtschaft zu revitalisieren«."
+        }
+      ],
+      "directQuotes": [
+        {
+          "text": "»Bitterkeit zu essen«"
+        },
+        {
+          "text": "»ländliche Wirtschaft zu revitalisieren«"
+        }
+      ],
+      "indirectQuotes": [
+        {
+          "text": "Chinas Jugend müsse lernen, »Bitterkeit zu essen«, also Härten zu ertragen, sagte Staats- und Parteichef Xi Jinping."
+        }
+      ],
+      "inIntro": false,
+      "inTitle": false,
+      "isMain": false,
+      "name": "Xi Jinping",
+      "occupations": [
+        {
+          "text": "Staats- und Parteichef"
+        }
+      ],
+      "occurences": {
+        "firstNameOnly": 0,
+        "fullName": 1,
+        "lastNameOnly": 0,
+        "total": 1
+      },
+      "quotedInIntro": false,
+      "quotedInTitle": false,
+      "sex": "male"
+    },
+
+    {
+      "age": 24,
+      "alternativeNames": [],
+      "birthday": null,
+      "descriptiveTexts": [
+        {
+          "text": "Die Absolventin Xiao Shai ist ebenfalls hoch qualifiziert."
+        },
+        {
+          "text": "Mit 24 Jahren kann sie zwei Abschlüsse vorweisen: Ihren Bachelor in Mathematik und Wirtschaft hat sie in den USA gemacht, den Master in Data Science in Großbritannien."
+        },
+        {
+          "text": "Um Jobeinsteigerinnen mit so einem internationalen Bildungsweg haben sich Konzerne in China früher gerissen – zumal, wenn ihre Kenntnisse »in jeder Branche zu gebrauchen« sind, wie Xiao es beschreibt."
+        },
+        {
+          "text": "Doch nach 80 oder 90 Bewerbungen wartet sie immer noch auf eine Zusage."
+        },
+        {
+          "text": "Xiao gibt sich auch selbst die Schuld: Für Praktika sei neben dem intensiven Studium keine Zeit geblieben; mit dem Bewerben habe sie spät angefangen, weil sie sich zunächst auf ihre Abschlussarbeit konzentrieren wollte."
+        },
+        {
+          "text": "Ob sie Zukunftsangst spüre?"
+        },
+        {
+          "text": "Das lasse sich nicht vermeiden, sagt sie."
+        },
+        {
+          "text": "Sie stehe unter Stress und sei »ein wenig enttäuscht«."
+        },
+        {
+          "text": "Die Phase der Arbeitslosigkeit will sie nutzen, um besser programmieren zu lernen – und sie erwägt, ihr Heimatland wieder zu verlassen."
+        },
+        {
+          "text": "»Vielleicht bewerbe ich mich in Amerika auf eine Doktorandenstelle.«"
+        }
+      ],
+      "directQuotes": [
+        {
+          "text": "»in jeder Branche zu gebrauchen«"
+        },
+        {
+          "text": "»ein wenig enttäuscht«"
+        },
+        {
+          "text": "»Vielleicht bewerbe ich mich in Amerika auf eine Doktorandenstelle.«"
+        }
+      ],
+      "indirectQuotes": [
+        {
+          "text": "Um Jobeinsteigerinnen mit so einem internationalen Bildungsweg haben sich Konzerne in China früher gerissen – zumal, wenn ihre Kenntnisse »in jeder Branche zu gebrauchen« sind, wie Xiao es beschreibt."
+        },
+        {
+          "text": "Das lasse sich nicht vermeiden, sagt sie."
+        },
+        {
+          "text": "Die Phase der Arbeitslosigkeit will sie nutzen, um besser programmieren zu lernen – und sie erwägt, ihr Heimatland wieder zu verlassen."
+        }
+      ],
+      "inIntro": false,
+      "inTitle": false,
+      "isMain": false,
+      "name": "Xiao Shai",
+      "occupations": [
+        {
+          "text": "Absolventin"
+        }
+      ],
+      "occurences": {
+        "firstNameOnly": 0,
+        "fullName": 1,
+        "lastNameOnly": 2,
+        "total": 3
+      },
+      "quotedInIntro": false,
+      "quotedInTitle": false,
+      "sex": "female"
+    }
+
+    
+  ],
+  "subtopics": [
+    "Jugendarbeitslosigkeit",
+    "chinesischer Arbeitsmarkt"
+  ]
+}

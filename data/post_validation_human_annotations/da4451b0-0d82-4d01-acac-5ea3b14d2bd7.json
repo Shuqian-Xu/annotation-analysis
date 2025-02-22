@@ -1,0 +1,71 @@
+{
+  "persons": [
+    {
+      "age": -1,
+      "alternativeNames": [],
+      "birthday": null,
+      "descriptiveTexts": [
+        {
+          "text": "»Spätestens mit der Einführung des größeren Akkus haben auch Kilometerfresser im Außendienst kaum noch Argumente gegen das E-Auto«, lobt Stefan Moeller den ID.7."
+        },
+        {
+          "text": "Der Geschäftsführer des Elektroautovermieters nextmove hat die E-Limousine ebenfalls für einige Tage getestet."
+        },
+        {
+          "text": "Sein Fazit: Der Stromer sei bei vergleichbarer Ausstattung zwar ähnlich teuer wie der Passat, biete mit seinen 210 kW und rund 550 Newtonmetern Drehmoment aber oft deutlich mehr Leistung und »wohl auch das bessere Fahrerlebnis«, so Moeller."
+        },
+        {
+          "text": "Nextmove-Chef Moeller verweist auf eine neue Motorengeneration, die VW mit dem ID.7 eingeführt hat."
+        },
+        {
+          "text": "»Der neue Motor bietet mehr Leistung bei zugleich weniger Verbrauch«, sagt er."
+        },
+        {
+          "text": "Zudem, so Moeller, ermögliche die neue Softwaregeneration 4 deutlich schnelleres Laden des Akkus gerade im Winter."
+        }
+      ],
+      "directQuotes": [
+        {
+          "text": "»Spätestens mit der Einführung des größeren Akkus haben auch Kilometerfresser im Außendienst kaum noch Argumente gegen das E-Auto«"
+        },
+        {
+          "text": "»wohl auch das bessere Fahrerlebnis«"
+        },
+        {
+          "text": "»Der neue Motor bietet mehr Leistung bei zugleich weniger Verbrauch«"
+        }
+      ],
+      "indirectQuotes": [
+        {
+          "text": "Sein Fazit: Der Stromer sei bei vergleichbarer Ausstattung zwar ähnlich teuer wie der Passat, biete mit seinen 210 kW und rund 550 Newtonmetern Drehmoment aber oft deutlich mehr Leistung und »wohl auch das bessere Fahrerlebnis«, so Moeller."
+        },
+        {
+          "text": "Zudem, so Moeller, ermögliche die neue Softwaregeneration 4 deutlich schnelleres Laden des Akkus gerade im Winter."
+        }
+      ],
+      "inIntro": false,
+      "inTitle": false,
+      "isMain": true,
+      "name": "Stefan Moeller",
+      "occupations": [
+        {
+          "text": "Geschäftsführer des Elektroautovermieters Nextmove"
+        }
+      ],
+      "occurences": {
+        "firstNameOnly": 0,
+        "fullName": 1,
+        "lastNameOnly": 3,
+        "total": 4
+      },
+      "quotedInIntro": false,
+      "quotedInTitle": false,
+      "sex": "male"
+    }
+    
+  ],
+  "subtopics": [
+    "Elektroauto",
+    "Volkswagen"
+  ]
+}

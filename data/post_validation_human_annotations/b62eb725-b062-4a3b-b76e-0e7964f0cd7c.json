@@ -1,0 +1,789 @@
+{
+  "persons": [
+    {
+      "age": -1,
+      "alternativeNames": [],
+      "birthday": null,
+      "descriptiveTexts": [
+        {
+          "text": "Heute mit Anlagetipps fürs Wochenende, dem miesesten Job im Internet und dem Regiment von Bertelsmann-Alleinherrscher Thomas Rabe."
+        },
+        {
+          "text": "Meine Empfehlung für das Wochenende: Thomas Rabe poliert den einstigen Buchclub Bertelsmann zur Perle der Medienbranche auf."
+        },
+        {
+          "text": "Rabe führt den Konzern, der unter anderem den Privatsender RTL betreibt, seit gut einem Jahrzehnt."
+        },
+        {
+          "text": "Unter ihm ist der Umsatz um ein Viertel gestiegen, der operative Ertrag fast um die Hälfte, die Eigenkapitalquote bewegt sich in großen Schritten Richtung 50 Prozent."
+        },
+        {
+          "text": "Der Alleinherrscher zehrt den Medienkonzern intellektuell aus, wie mein Kollege Henning Hinze schreibt."
+        }
+      ],
+      "directQuotes": [],
+      "indirectQuotes": [],
+      "inIntro": true,
+      "inTitle": false,
+      "isMain": true,
+      "name": "Thomas Rabe",
+      "occupations": [
+        {
+          "text": "führt den Konzern, der unter anderem den Privatsender RTL betreibt"
+        }
+      ],
+      "occurences": {
+        "firstNameOnly": 0,
+        "fullName": 2,
+        "lastNameOnly": 1,
+        "total": 3
+      },
+      "quotedInIntro": false,
+      "quotedInTitle": false,
+      "sex": "male"
+    },
+
+    {
+      "age": -1,
+      "alternativeNames": [],
+      "birthday": null,
+      "descriptiveTexts": [
+        {
+          "text": "Der Chipriese Nvidia übersprang beim Börsenwert zwischenzeitlich die Billionen-Dollar-Schwelle, Elon Musk darf sich wieder als reichster Mensch der Erde feiern."
+        }
+      ],
+      "directQuotes": [],
+      "indirectQuotes": [],
+      "inIntro": false,
+      "inTitle": false,
+      "isMain": false,
+      "name": "Elon Musk",
+      "occupations": [],
+      "occurences": {
+        "firstNameOnly": 0,
+        "fullName": 1,
+        "lastNameOnly": 0,
+        "total": 1
+      },
+      "quotedInIntro": false,
+      "quotedInTitle": false,
+      "sex": "male"
+    },
+
+    {
+      "age": -1,
+      "alternativeNames": [],
+      "birthday": null,
+      "descriptiveTexts": [
+        {
+          "text": "Denn die Sommermonate werden es in sich haben, wie unser Portfolio-Guru Mark Böschen im Gespräch mit Chefredakteur Sven Clausen erläutert."
+        },
+        {
+          "text": "Er hat sich zuvor bei den Milliardenmanagern von Hedgefonds und Staatsfonds umgehört, hat ihre Sorgen vor einem Crash vernommen – und leitet daraus Schlüsse auch für Privatanleger ab."
+        }
+      ],
+      "directQuotes": [],
+      "indirectQuotes": [],
+      "inIntro": false,
+      "inTitle": false,
+      "isMain": false,
+      "name": "Sven Clausen",
+      "occupations": [
+        {
+          "text": "Chefredakteur"
+        }
+      ],
+      "occurences": {
+        "firstNameOnly": 0,
+        "fullName": 1,
+        "lastNameOnly": 0,
+        "total": 1
+      },
+      "quotedInIntro": false,
+      "quotedInTitle": false,
+      "sex": "male"
+    },
+
+    {
+      "age": -1,
+      "alternativeNames": [],
+      "birthday": null,
+      "descriptiveTexts": [
+        {
+          "text": "Ich empfehle da Sie unbedingt einen Report meiner Kollegen Thomas Mersch und Stefan Merx lesen: Wie Anleger vom KI-Boom der Datendealer profitieren können."
+        }
+      ],
+      "directQuotes": [
+        {
+          "text": "Wie Anleger vom KI-Boom der Datendealer profitieren können"
+        }
+      ],
+      "indirectQuotes": [],
+      "inIntro": false,
+      "inTitle": false,
+      "isMain": false,
+      "name": "Thomas Mersch",
+      "occupations": [
+        {
+          "text": "Kollege von Martin Mehringer"
+        }
+      ],
+      "occurences": {
+        "firstNameOnly": 0,
+        "fullName": 1,
+        "lastNameOnly": 0,
+        "total": 1
+      },
+      "quotedInIntro": false,
+      "quotedInTitle": false,
+      "sex": "male"
+    },
+
+    {
+      "age": -1,
+      "alternativeNames": [],
+      "birthday": null,
+      "descriptiveTexts": [
+        {
+          "text": "Ich empfehle da Sie unbedingt einen Report meiner Kollegen Thomas Mersch und Stefan Merx lesen: Wie Anleger vom KI-Boom der Datendealer profitieren können."
+        }
+      ],
+      "directQuotes": [
+        {
+          "text": "Wie Anleger vom KI-Boom der Datendealer profitieren können"
+        }
+      ],
+      "indirectQuotes": [],
+      "inIntro": false,
+      "inTitle": false,
+      "isMain": false,
+      "name": "Stefan Merx",
+      "occupations": [
+        {
+          "text": "Kollege von Martin Mehringer"
+        }
+      ],
+      "occurences": {
+        "firstNameOnly": 0,
+        "fullName": 1,
+        "lastNameOnly": 0,
+        "total": 1
+      },
+      "quotedInIntro": false,
+      "quotedInTitle": false,
+      "sex": "male"
+    },
+
+    {
+      "age": -1,
+      "alternativeNames": [],
+      "birthday": null,
+      "descriptiveTexts": [
+        {
+          "text": "Abgehängt: Lanxess-Chef Matthias Zachert hat den Standort Deutschland abgeschrieben."
+        },
+        {
+          "text": "Dabei hegt Zachert, wie er sagt, eigentlich durchaus patriotische Gefühle."
+        },
+        {
+          "text": "Die Bundesrepublik sei jedoch nicht mehr ausreichend wettbewerbsfähig."
+        },
+        {
+          "text": "Warum erläutert er im Gespräch mit meiner Kollegin Eva Buchhorn."
+        }
+      ],
+      "directQuotes": [],
+      "indirectQuotes": [
+        {
+          "text": "Dabei hegt Zachert, wie er sagt, eigentlich durchaus patriotische Gefühle."
+        },
+        {
+          "text": "Die Bundesrepublik sei jedoch nicht mehr ausreichend wettbewerbsfähig."
+        },
+        {
+          "text": "Warum erläutert er im Gespräch mit meiner Kollegin Eva Buchhorn."
+        }
+      ],
+      "inIntro": false,
+      "inTitle": false,
+      "isMain": false,
+      "name": "Matthias Zachert",
+      "occupations": [
+        {
+          "text": "Lanxess-Chef"
+        }
+      ],
+      "occurences": {
+        "firstNameOnly": 0,
+        "fullName": 1,
+        "lastNameOnly": 0,
+        "total": 1
+      },
+      "quotedInIntro": false,
+      "quotedInTitle": false,
+      "sex": "male"
+    },
+
+    {
+      "age": -1,
+      "alternativeNames": [],
+      "birthday": null,
+      "descriptiveTexts": [
+        {
+          "text": "Warum erläutert er im Gespräch mit meiner Kollegin Eva Buchhorn."
+        }
+      ],
+      "directQuotes": [],
+      "indirectQuotes": [],
+      "inIntro": false,
+      "inTitle": false,
+      "isMain": false,
+      "name": "Eva Buchhorn",
+      "occupations": [
+        {
+          "text": "Kollegin von Martin Mehringer"
+        }
+      ],
+      "occurences": {
+        "firstNameOnly": 0,
+        "fullName": 1,
+        "lastNameOnly": 0,
+        "total": 1
+      },
+      "quotedInIntro": false,
+      "quotedInTitle": false,
+      "sex": "female"
+    },
+
+
+    {
+      "age": -1,
+      "alternativeNames": [],
+      "birthday": null,
+      "descriptiveTexts": [
+        {
+          "text": "Das hat UBS-Chef Sergio Ermotti angekündigt."
+        }
+      ],
+      "directQuotes": [],
+      "indirectQuotes": [],
+      "inIntro": false,
+      "inTitle": false,
+      "isMain": false,
+      "name": "Sergio Ermotti",
+      "occupations": [
+        {
+          "text": "UBS-Chef"
+        }
+      ],
+      "occurences": {
+        "firstNameOnly": 0,
+        "fullName": 1,
+        "lastNameOnly": 0,
+        "total": 1
+      },
+      "quotedInIntro": false,
+      "quotedInTitle": false,
+      "sex": "male"
+    },
+
+    {
+      "age": -1,
+      "alternativeNames": [],
+      "birthday": null,
+      "descriptiveTexts": [
+        {
+          "text": "Was Menschen trotzdem dazu motiviert, das Netz zu einem besseren Ort zu machen, darüber sprach Thomas Stackpole, Redakteur der Havard Business Review, mit Expertin Sarah T. Roberts."
+        }
+      ],
+      "directQuotes": [],
+      "indirectQuotes": [],
+      "inIntro": false,
+      "inTitle": false,
+      "isMain": false,
+      "name": "Thomas Stackpole",
+      "occupations": [
+        {
+          "text": "Redaktuer der Havard Business Review"
+        }
+      ],
+      "occurences": {
+        "firstNameOnly": 0,
+        "fullName": 1,
+        "lastNameOnly": 0,
+        "total": 1
+      },
+      "quotedInIntro": false,
+      "quotedInTitle": false,
+      "sex": "male"
+    },
+
+    {
+      "age": -1,
+      "alternativeNames": [],
+      "birthday": null,
+      "descriptiveTexts": [
+        {
+          "text": "Was Menschen trotzdem dazu motiviert, das Netz zu einem besseren Ort zu machen, darüber sprach Thomas Stackpole, Redakteur der Havard Business Review, mit Expertin Sarah T. Roberts."
+        }
+      ],
+      "directQuotes": [],
+      "indirectQuotes": [],
+      "inIntro": false,
+      "inTitle": false,
+      "isMain": false,
+      "name": "Sarah T. Roberts",
+      "occupations": [
+        {
+          "text": "Expertin"
+        }
+      ],
+      "occurences": {
+        "firstNameOnly": 0,
+        "fullName": 1,
+        "lastNameOnly": 0,
+        "total": 1
+      },
+      "quotedInIntro": false,
+      "quotedInTitle": false,
+      "sex": "female"
+    },
+
+    {
+      "age": -1,
+      "alternativeNames": [],
+      "birthday": null,
+      "descriptiveTexts": [
+        {
+          "text": "Nein, warnt Cyrus de la Rubia, Chief Economist and Head of Research der Hamburg Commercial Bank in einem Gastbeitrag für manager magazin."
+        }
+      ],
+      "directQuotes": [],
+      "indirectQuotes": [
+        {
+          "text": "Nein, warnt Cyrus de la Rubia, Chief Economist and Head of Research der Hamburg Commercial Bank in einem Gastbeitrag für manager magazin."
+        }
+      ],
+      "inIntro": false,
+      "inTitle": false,
+      "isMain": false,
+      "name": "Cyrus de la Rubia",
+      "occupations": [
+        {
+          "text": "Chief Economist and Head of Research der Hamburg Commercial Bank"
+        }
+      ],
+      "occurences": {
+        "firstNameOnly": 0,
+        "fullName": 1,
+        "lastNameOnly": 0,
+        "total": 1
+      },
+      "quotedInIntro": false,
+      "quotedInTitle": false,
+      "sex": "male"
+    },
+
+    {
+      "age": -1,
+      "alternativeNames": [],
+      "birthday": null,
+      "descriptiveTexts": [
+        {
+          "text": "Glaube an ProSiebenSat.1: Die tschechische Milliardärin Renáta Kellnerová, Herrin der PPF Group, baut ihren Anteil am TV-Konzern ProSiebenSat.1 aus."
+        },
+        {
+          "text": "Inzwischen hält Kellnerová mehr als 15 Prozent."
+        }
+      ],
+      "directQuotes": [],
+      "indirectQuotes": [],
+      "inIntro": false,
+      "inTitle": false,
+      "isMain": false,
+      "name": "Renáta Kellnerová",
+      "occupations": [
+        {
+          "text": "tschechische Milliardärin"
+        },
+        {
+          "text": "Herrin der PPF Group"
+        }
+      ],
+      "occurences": {
+        "firstNameOnly": 0,
+        "fullName": 1,
+        "lastNameOnly": 1,
+        "total": 2
+      },
+      "quotedInIntro": false,
+      "quotedInTitle": false,
+      "sex": "female"
+    },
+
+    {
+      "age": -1,
+      "alternativeNames": [],
+      "birthday": null,
+      "descriptiveTexts": [
+        {
+          "text": "Letzte Hoffnung: Hanno Berger, Architekt der Cum-ex-Geschäfte, zieht vor den Bundesgerichtshof."
+        },
+        {
+          "text": "Berger geht damit gegen ein Urteil des Landgerichts Wiesbaden vor, dass ihn gestern zu einer Freiheitsstrafe von 15 Jahren verurteilt hat."
+        }
+      ],
+      "directQuotes": [],
+      "indirectQuotes": [],
+      "inIntro": false,
+      "inTitle": false,
+      "isMain": false,
+      "name": "Hanno Berger",
+      "occupations": [
+        {
+          "text": "Architekt der Cum-ex-Geschäfte"
+        }
+      ],
+      "occurences": {
+        "firstNameOnly": 0,
+        "fullName": 1,
+        "lastNameOnly": 0,
+        "total": 1
+      },
+      "quotedInIntro": false,
+      "quotedInTitle": false,
+      "sex": "male"
+    },
+
+    {
+      "age": -1,
+      "alternativeNames": [],
+      "birthday": null,
+      "descriptiveTexts": [
+        {
+          "text": "Goldjunge: Der globale Hype um Künstliche Intelligenz hat den Börsenwert des kalifornischen Chipkonzerns von Gründer Jensen Huang auf mehr als eine Billion Dollar getrieben."
+        }
+      ],
+      "directQuotes": [],
+      "indirectQuotes": [],
+      "inIntro": false,
+      "inTitle": false,
+      "isMain": false,
+      "name": "Jensen Huang",
+      "occupations": [
+        {
+          "text": "Gründer"
+        }
+      ],
+      "occurences": {
+        "firstNameOnly": 0,
+        "fullName": 1,
+        "lastNameOnly": 0,
+        "total": 1
+      },
+      "quotedInIntro": false,
+      "quotedInTitle": false,
+      "sex": "male"
+    },
+
+    {
+      "age": -1,
+      "alternativeNames": [],
+      "birthday": null,
+      "descriptiveTexts": [
+        {
+          "text": "Böses Häschen: Der Rap-Superstar Bad Bunny aus Puerto Rico ist seit drei Jahren der meistgestreamte Künstler auf Spotify."
+        }
+      ],
+      "directQuotes": [],
+      "indirectQuotes": [],
+      "inIntro": false,
+      "inTitle": false,
+      "isMain": false,
+      "name": "Bad Bunny",
+      "occupations": [
+        {
+          "text": "Rap-Superstar"
+        }
+      ],
+      "occurences": {
+        "firstNameOnly": 0,
+        "fullName": 1,
+        "lastNameOnly": 0,
+        "total": 1
+      },
+      "quotedInIntro": false,
+      "quotedInTitle": false,
+      "sex": "male"
+    },
+
+    {
+      "age": -1,
+      "alternativeNames": [],
+      "birthday": null,
+      "descriptiveTexts": [
+        {
+          "text": "Der Alleinherrscher zehrt den Medienkonzern intellektuell aus, wie mein Kollege Henning Hinze schreibt."
+        }
+      ],
+      "directQuotes": [],
+      "indirectQuotes": [],
+      "inIntro": false,
+      "inTitle": false,
+      "isMain": false,
+      "name": "Henning Hinze",
+      "occupations": [
+        {
+          "text": "Kollege von Martin Mehringer"
+        }
+      ],
+      "occurences": {
+        "firstNameOnly": 0,
+        "fullName": 1,
+        "lastNameOnly": 0,
+        "total": 1
+      },
+      "quotedInIntro": false,
+      "quotedInTitle": false,
+      "sex": "male"
+    },
+
+    {
+      "age": -1,
+      "alternativeNames": [],
+      "birthday": null,
+      "descriptiveTexts": [
+        {
+          "text": "Ich empfehle da Sie unbedingt einen Report meiner Kollegen Thomas Mersch und Stefan Merx lesen: Wie Anleger vom KI-Boom der Datendealer profitieren können."
+        },
+        {
+          "text": "Warum erläutert er im Gespräch mit meiner Kollegin Eva Buchhorn."
+        },
+        {
+          "text": "Meine Empfehlung für das Wochenende: Thomas Rabe poliert den einstigen Buchclub Bertelsmann zur Perle der Medienbranche auf."
+        },
+        {
+          "text": "Der Alleinherrscher zehrt den Medienkonzern intellektuell aus, wie mein Kollege Henning Hinze schreibt."
+        },
+        {
+          "text": "Viele Grüße, Ihr Martin Mehringer"
+        }
+      ],
+      "directQuotes": [
+        {
+          "text": "Alarmstufe rot und das Regiment eines Alleinherrschers"
+        },
+        {
+          "text": "Jeden Abend fassen wir die wichtigsten Wirtschaftsnews des Tages zusammen."
+        },
+        {
+          "text": "Heute mit Anlagetipps fürs Wochenende, dem miesesten Job im Internet und dem Regiment von Bertelsmann-Alleinherrscher Thomas Rabe."
+        },
+        {
+          "text": "Haben Sie Angst um Ihr Geld?"
+        },
+        {
+          "text": "Oder sind Sie ein notorisch optimistischer Zocker?"
+        },
+        {
+          "text": "Seit Längerem schon macht der Blick ins eigene Portfolio kaum noch Spaß – für die meisten zumindest."
+        },
+        {
+          "text": "Mal ziehen die Börsenkurse an, doch bevor die spontane Shoppingtour geplant oder der Altersruhesitz unter Palmen besichtigt ist, dreht die Stimmung bereits wieder und im Nu ist aus dem schönen Zugewinn ein fettes Minus geworden."
+        },
+        {
+          "text": "Dabei mehren sich die Zeichen einer Entspannung: Schon in der Vorwoche erreichte der Dax einen Rekordwert."
+        },
+        {
+          "text": "Im Laufe dieser Woche nun vermeldete das Statistische Bundesamt einen Rückgang der Einfuhrpreise für nach Deutschland importierte Güter um 7 Prozent; so etwas gab es seit 2009 nicht mehr."
+        },
+        {
+          "text": "Die Inflationsrate, auch das überraschend positiv, ist im Mai auf 6,1 Prozent gefallen."
+        },
+        {
+          "text": "Am späten Donnerstagabend haben die USA den drohenden Zahlungsausfall abgewendet, ein Risiko weniger."
+        },
+        {
+          "text": "Die Anleger feiern das Momentum."
+        },
+        {
+          "text": "Der Chipriese Nvidia übersprang beim Börsenwert zwischenzeitlich die Billionen-Dollar-Schwelle, Elon Musk darf sich wieder als reichster Mensch der Erde feiern."
+        },
+        {
+          "text": "Und selbst die besonders gebeutelten Immobilienwerte erholen sich ebenso wie der seit geraumer Zeit vor sich hindümpelnde Elektronikkonzern Ceconomy (Media-Markt und Saturn), der gerade einen Umbauplan vorgestellt hat."
+        },
+        {
+          "text": "Doch wer glaubt, dass das Schlimmste endlich überstanden ist, könnte falsch liegen."
+        },
+        {
+          "text": "Zumindest ist es höchste Zeit, sich intensiv mit der richtigen Anlagestrategie zu beschäftigen."
+        },
+        {
+          "text": "Denn die Sommermonate werden es in sich haben, wie unser Portfolio-Guru Mark Böschen im Gespräch mit Chefredakteur Sven Clausen erläutert."
+        },
+        {
+          "text": "Er hat sich zuvor bei den Milliardenmanagern von Hedgefonds und Staatsfonds umgehört, hat ihre Sorgen vor einem Crash vernommen – und leitet daraus Schlüsse auch für Privatanleger ab."
+        },
+        {
+          "text": "«Alarmstufe rot» heißt die Podcast-Folge, aber es lohnt sich."
+        },
+        {
+          "text": "Nachzulesen übrigens sind die Erkenntnisse auch hier."
+        },
+        {
+          "text": "Einen Spezialtipp zu Künstlicher Intelligenz, auch bei Geld dem Thema der Saison sozusagen, haben wir auch."
+        },
+        {
+          "text": "Ich empfehle da Sie unbedingt einen Report meiner Kollegen Thomas Mersch und Stefan Merx lesen: Wie Anleger vom KI-Boom der Datendealer profitieren können."
+        },
+        {
+          "text": "Die Wirtschaftsnews des Tages:"
+        },
+        {
+          "text": "Abgehängt: Lanxess-Chef Matthias Zachert hat den Standort Deutschland abgeschrieben."
+        },
+        {
+          "text": "Der Spezialchemie-Konzern aus Köln investiert lieber Hunderte Millionen Euro in den USA."
+        },
+        {
+          "text": "Dabei hegt Zachert, wie er sagt, eigentlich durchaus patriotische Gefühle."
+        },
+        {
+          "text": "Die Bundesrepublik sei jedoch nicht mehr ausreichend wettbewerbsfähig."
+        },
+        {
+          "text": "Warum erläutert er im Gespräch mit meiner Kollegin Eva Buchhorn."
+        },
+        {
+          "text": "Abgelöst: Die Übernahme der Credit Suisse durch die UBS steht kurz vor dem Abschluss."
+        },
+        {
+          "text": "Viele Mitarbeiter des Schweizer Bankgiganten verlieren durch die Megafusion ihren Job."
+        },
+        {
+          "text": "Das hat UBS-Chef Sergio Ermotti angekündigt."
+        },
+        {
+          "text": "Ab in die Wüste: Um die Abhängigkeit von China zu reduzieren, setzt der Autobauer BMW auf Lithium aus Saudi Arabien."
+        },
+        {
+          "text": "Das chemische Element gilt als der wichtigste Rohstoff der E-Mobilität - und der soll bekanntlich die Zukunft gehören."
+        },
+        {
+          "text": "Höchste Zeit also, sich abzusichern, falls China seine Exporte einstellen sollte."
+        },
+        {
+          "text": "Was uns heute noch beschäftigt hat:"
+        },
+        {
+          "text": "Der mieseste Job im Internet: Stellen Sie sich vor, Sie müssen den ganzen Tag lang Hasskommentare lesen und verstörende Bilder anschauen."
+        },
+        {
+          "text": "Und das auch noch für wenig Geld."
+        },
+        {
+          "text": "Für Content-Moderatorinnen und -Moderatoren ist das Alltag."
+        },
+        {
+          "text": "Was Menschen trotzdem dazu motiviert, das Netz zu einem besseren Ort zu machen, darüber sprach Thomas Stackpole, Redakteur der Havard Business Review, mit Expertin Sarah T. Roberts."
+        },
+        {
+          "text": "Sanktionen gegen Preistreiber: Der Vorwurf, dass viele Unternehmen die Inflation nutzen, um die Margen extrastark zu erhöhen, wird seit Monaten immer lauter."
+        },
+        {
+          "text": "Längst ist dafür ein eigenes Schlagwort entstanden: Gierflation."
+        },
+        {
+          "text": "Höchste Zeit für staatliche Eingriffe?"
+        },
+        {
+          "text": "Nein, warnt Cyrus de la Rubia, Chief Economist and Head of Research der Hamburg Commercial Bank in einem Gastbeitrag für manager magazin."
+        },
+        {
+          "text": "Glaube an ProSiebenSat.1: Die tschechische Milliardärin Renáta Kellnerová, Herrin der PPF Group, baut ihren Anteil am TV-Konzern ProSiebenSat.1 aus."
+        },
+        {
+          "text": "Inzwischen hält Kellnerová mehr als 15 Prozent."
+        },
+        {
+          "text": "Letzte Hoffnung: Hanno Berger, Architekt der Cum-ex-Geschäfte, zieht vor den Bundesgerichtshof."
+        },
+        {
+          "text": "Berger geht damit gegen ein Urteil des Landgerichts Wiesbaden vor, dass ihn gestern zu einer Freiheitsstrafe von 15 Jahren verurteilt hat."
+        },
+        {
+          "text": "Die besten Originaltexte aus dem «Economist»:"
+        },
+        {
+          "text": "Goldjunge: Der globale Hype um Künstliche Intelligenz hat den Börsenwert des kalifornischen Chipkonzerns von Gründer Jensen Huang auf mehr als eine Billion Dollar getrieben."
+        },
+        {
+          "text": "Doch auch für andere, teils wenig bekannte Firmen entwickelt sich der Verkauf spezieller Chips und Infrastruktur zu einer neuen Megaindustrie."
+        },
+        {
+          "text": "Böses Häschen: Der Rap-Superstar Bad Bunny aus Puerto Rico ist seit drei Jahren der meistgestreamte Künstler auf Spotify."
+        },
+        {
+          "text": "Und auch auf anderen Plattformen wie Youtube oder Netflix dominieren spanischsprachige Inhalte."
+        },
+        {
+          "text": "Meine Empfehlung für das Wochenende: Thomas Rabe poliert den einstigen Buchclub Bertelsmann zur Perle der Medienbranche auf."
+        },
+        {
+          "text": "Zumindest glänzt die Bilanz unter dem Rendite-Fetischist."
+        },
+        {
+          "text": "Rabe führt den Konzern, der unter anderem den Privatsender RTL betreibt, seit gut einem Jahrzehnt."
+        },
+        {
+          "text": "Unter ihm ist der Umsatz um ein Viertel gestiegen, der operative Ertrag fast um die Hälfte, die Eigenkapitalquote bewegt sich in großen Schritten Richtung 50 Prozent."
+        },
+        {
+          "text": "Doch intern brodelt es gewaltig."
+        },
+        {
+          "text": "Der Alleinherrscher zehrt den Medienkonzern intellektuell aus, wie mein Kollege Henning Hinze schreibt."
+        },
+        {
+          "text": "Die Fehlschläge häufen sich."
+        },
+        {
+          "text": "Weder eine geplante Übernahme auf dem US-Buchmarkt hat funktioniert, noch eine angestrebte Großfusion in der Fernsehsparte."
+        },
+        {
+          "text": "Stattdessen hagelte es millionenschwere Vertragsstrafen, die Integration des Hamburger Verlags Gruner + Jahr in RTL ist zum PR-Desaster geraten."
+        },
+        {
+          "text": "Ist das multiple Scheitern Ausdruck eines systemischen Problems?"
+        },
+        {
+          "text": "Viele Grüße, Ihr Martin Mehringer"
+        },
+        {
+          "text": "Haben Sie Wünsche, Anregungen, Informationen, um die wir uns journalistisch kümmern sollten? Wir freuen uns auf Ihre Post unter chefredaktion@manager-magazin.de."
+        }
+        
+      ],
+      "indirectQuotes": [],
+      "inIntro": false,
+      "inTitle": false,
+      "isMain": false,
+      "name": "Martin Mehringer",
+      "occupations": [],
+      "occurences": {
+        "firstNameOnly": 0,
+        "fullName": 1,
+        "lastNameOnly": 0,
+        "total": 1
+      },
+      "quotedInIntro": false,
+      "quotedInTitle": false,
+      "sex": "male"
+    }
+    
+  ],
+  "subtopics": [
+    "Wirtschaftnews",
+    "Anlagetipps"
+  ]
+}

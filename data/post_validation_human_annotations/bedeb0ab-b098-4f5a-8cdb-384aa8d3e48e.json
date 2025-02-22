@@ -1,0 +1,188 @@
+{
+  "persons": [
+    {
+      "age": 24,
+      "alternativeNames": [
+        {
+          "text": "Frau Vollgas"
+        }
+      ],
+      "birthday": null,
+      "descriptiveTexts": [
+        {
+          "text": "Lea Sophie Friedrich, Deutschlands schnellste Radfahrerin, wählte beim Finale der Europameisterschaften in den Niederlanden am vorvergangenen Wochenende die zweite Variante."
+        },
+        {
+          "text": "Als sie eine Runde vor dem Ziel das Tempo anzog, hatten ihre Konkurrentinnen keine Chance."
+        },
+        {
+          "text": "Friedrich erreichte mehr als 65 Kilometer pro Stunde und überquerte als Erste die Ziellinie."
+        },
+        {
+          "text": "»Es zeichnet mich aus, dass ich immer mit Vollgas herangehe, um mein Ziel zu erreichen«, sagt die 24-jährige Mecklenburgerin, die in Cottbus trainiert."
+        },
+        {
+          "text": "Es war Friedrichs vierter Europameistertitel im Keirin in Folge, das hat vor ihr noch niemand geschafft."
+        },
+        {
+          "text": "Daneben gewann sie aber auch Titel im klassischen Radsprint und im Zeitfahren auf der Bahn."
+        },
+        {
+          "text": "Achtmal siegte sie in den vergangenen Jahren schon bei Weltmeisterschaften."
+        },
+        {
+          "text": "Dabei hat Friedrich einst mit Fußballspielen angefangen, bevor ihr Talent als Radfahrerin erkannt wurde."
+        },
+        {
+          "text": "Erste Erfahrungen sammelte sie beim SV Dassow, bei dem auch der mehrfache Tour-de-France-Etappensieger Jens Voigt seine Karriere begann."
+        },
+        {
+          "text": "Friedrich ist nicht die einzige Deutsche, die rasend schnell auf zwei Rädern unterwegs ist."
+        },
+        {
+          "text": "Zusammen mit Emma Hinze und Pauline Grabosch tritt sie im Teamsprint an."
+        },
+        {
+          "text": "Trotzdem sagte Friedrich nach ihrem neuen Titel: »Es ist nicht selbstverständlich zu gewinnen. Ich musste an meine Grenzen gehen.«"
+        }
+      ],
+      "directQuotes": [
+        {
+          "text": "Es zeichnet mich aus, dass ich immer mit Vollgas herangehe, um mein Ziel zu erreichen."
+        },
+        {
+          "text": "Es ist nicht selbstverständlich zu gewinnen. Ich musste an meine Grenzen gehen."
+        }
+      ],
+      "inIntro": false,
+      "inTitle": true,
+      "indirectQuotes": [
+        {
+          "text": "Als sie eine Runde vor dem Ziel das Tempo anzog, hatten ihre Konkurrentinnen keine Chance."
+        },
+        {
+          "text": "Friedrich erreichte mehr als 65 Kilometer pro Stunde und überquerte als Erste die Ziellinie."
+        },
+        {
+          "text": "Daneben gewann sie aber auch Titel im klassischen Radsprint und im Zeitfahren auf der Bahn."
+        },
+        {
+          "text": "Achtmal siegte sie in den vergangenen Jahren schon bei Weltmeisterschaften."
+        },
+        {
+          "text": "Erste Erfahrungen sammelte sie beim SV Dassow, bei dem auch der mehrfache Tour-de-France-Etappensieger Jens Voigt seine Karriere begann."
+        }
+      ],
+      "isMain": true,
+      "name": "Lea Sophie Friedrich",
+      "occupations": [
+        {
+          "text": "Radfahrerin"
+        }
+      ],
+      "occurences": {
+        "firstNameOnly": 0,
+        "fullName": 1,
+        "lastNameOnly": 5,
+        "total": 6
+      },
+      "quotedInIntro": false,
+      "quotedInTitle": false,
+      "sex": "female"
+    },
+    {
+      "age": -1,
+      "alternativeNames": [],
+      "birthday": null,
+      "descriptiveTexts": [
+        {
+          "text": "Erste Erfahrungen sammelte sie beim SV Dassow, bei dem auch der mehrfache Tour-de-France-Etappensieger Jens Voigt seine Karriere begann."
+        }
+      ],
+      "directQuotes": [],
+      "inIntro": false,
+      "inTitle": false,
+      "indirectQuotes": [],
+      "isMain": false,
+      "name": "Jens Voigt",
+      "occupations": [
+        {
+          "text": "mehrfacher Tour-de-France-Etappensieger"
+        }
+      ],
+      "occurences": {
+        "firstNameOnly": 0,
+        "fullName": 1,
+        "lastNameOnly": 0,
+        "total": 1
+      },
+      "quotedInIntro": false,
+      "quotedInTitle": false,
+      "sex": "male"
+    },
+    {
+      "age": -1,
+      "alternativeNames": [],
+      "birthday": null,
+      "descriptiveTexts": [
+        {
+          "text": "Zusammen mit Emma Hinze und Pauline Grabosch tritt sie im Teamsprint an."
+        }
+      ],
+      "directQuotes": [],
+      "inIntro": false,
+      "inTitle": false,
+      "indirectQuotes": [],
+      "isMain": false,
+      "name": "Emma Hinze",
+      "occupations": [
+        {
+          "text": "Radfahrerin"
+        }
+      ],
+      "occurences": {
+        "firstNameOnly": 0,
+        "fullName": 1,
+        "lastNameOnly": 0,
+        "total": 1
+      },
+      "quotedInIntro": false,
+      "quotedInTitle": false,
+      "sex": "female"
+    },
+    {
+      "age": -1,
+      "alternativeNames": [],
+      "birthday": null,
+      "descriptiveTexts": [
+        {
+          "text": "Zusammen mit Emma Hinze und Pauline Grabosch tritt sie im Teamsprint an."
+        }
+      ],
+      "directQuotes": [],
+      "inIntro": false,
+      "inTitle": false,
+      "indirectQuotes": [],
+      "isMain": false,
+      "name": "Pauline Grabosch",
+      "occupations": [
+        {
+          "text": "Radfahrerin"
+        }
+      ],
+      "occurences": {
+        "firstNameOnly": 0,
+        "fullName": 1,
+        "lastNameOnly": 0,
+        "total": 1
+      },
+      "quotedInIntro": false,
+      "quotedInTitle": false,
+      "sex": "female"
+    }
+  ],
+  "subtopics": [
+    "Rad fahren",
+    "Friedrichs Erfolge"
+  ]
+}

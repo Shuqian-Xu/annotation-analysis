@@ -1,0 +1,153 @@
+{
+  "persons": [
+    {
+      "age": -1,
+      "alternativeNames": [],
+      "birthday": null,
+      "descriptiveTexts": [
+        {
+          "text": "Viessmann rechnet mit schnellem Hochlauf für Wärmepumpen Viessmann-Chef Max Viessmann blickt dagegen optimistischer nach vorn und sieht einen klaren Trend hin zu einem schnellen Hochlauf von Wärmepumpen."
+        },
+        {
+          "text": "Der Verkauf von Wärmepumpen sei im ersten Quartal dieses Jahres um 110 Prozent gestiegen, sagte der Chef des hessischen Heizungsherstellers dem «Handelsblatt» vom Dienstag."
+        },
+        {
+          "text": "Der Viessmann-Chef will seine Verkaufsentscheidung aber frei vom Heizungsgesetz verstanden wissen und verweist auf den jüngsten Boom."
+        }
+      ],
+      "directQuotes": [
+        {
+          "text": "«Die Stoßrichtung ist also klar, genauso wie die Aufbruchstimmung im gesamten Land – unabhängig von vereinzelten Diskussionen in Berlin.»"
+        }
+      ],
+      "indirectQuotes": [
+        {
+          "text": "Der Verkauf von Wärmepumpen sei im ersten Quartal dieses Jahres um 110 Prozent gestiegen, sagte der Chef des hessischen Heizungsherstellers dem «Handelsblatt» vom Dienstag."
+        }
+      ],
+      "inIntro": false,
+      "inTitle": false,
+      "isMain": true,
+      "name": "Max Viessmann",
+      "occupations": [
+        {
+          "text": "Viessmann-Chef"
+        }
+      ],
+      "occurences": {
+        "firstNameOnly": 0,
+        "fullName": 1,
+        "lastNameOnly": 0,
+        "total": 1
+      },
+      "quotedInIntro": false,
+      "quotedInTitle": false,
+      "sex": "male"
+    },
+
+    {
+      "age": 53,
+      "alternativeNames": [],
+      "birthday": null,
+      "descriptiveTexts": [
+        {
+          "text": "Wirtschaftsminister Robert Habeck (53, Grüne) will, dass ab 2024 keine reinen Öl- oder Gasheizungen mehr eingebaut werden dürfen und Wärmepumpen als Heizungsform eine große Bedeutung zukommen."
+        },
+        {
+          "text": "Jetzt versuchen sogar die drei Spitzen der Ampel, Kanzler Olaf Scholz (64, SPD), Vizekanzler Habeck und Finanzminister Christian Lindner (44, FDP), eine Lösung für den festgefahrenen Heizungsstreit zu finden und treffen sich am Dienstag zu einem Notfall-Schlichtungsgespräch über das sogenannte Gebäudeenergiegesetz."
+        }
+      ],
+      "directQuotes": [],
+      "indirectQuotes": [],
+      "inIntro": false,
+      "inTitle": false,
+      "isMain": false,
+      "name": "Robert Habeck",
+      "occupations": [
+        {
+          "text": "Wirtschaftsminister"
+        },
+        {
+          "text": "Vizekanzler"
+        }
+      ],
+      "occurences": {
+        "firstNameOnly": 0,
+        "fullName": 1,
+        "lastNameOnly": 1,
+        "total": 2
+      },
+      "quotedInIntro": false,
+      "quotedInTitle": false,
+      "sex": "male"
+    },
+
+    {
+      "age": 64,
+      "alternativeNames": [],
+      "birthday": null,
+      "descriptiveTexts": [
+        {
+          "text": "Jetzt versuchen sogar die drei Spitzen der Ampel, Kanzler Olaf Scholz (64, SPD), Vizekanzler Habeck und Finanzminister Christian Lindner (44, FDP), eine Lösung für den festgefahrenen Heizungsstreit zu finden und treffen sich am Dienstag zu einem Notfall-Schlichtungsgespräch über das sogenannte Gebäudeenergiegesetz."
+        }
+      ],
+      "directQuotes": [],
+      "indirectQuotes": [],
+      "inIntro": false,
+      "inTitle": false,
+      "isMain": false,
+      "name": "Olaf Scholz",
+      "occupations": [
+        {
+          "text": "Kanzler"
+        }
+      ],
+      "occurences": {
+        "firstNameOnly": 0,
+        "fullName": 1,
+        "lastNameOnly": 0,
+        "total": 1
+      },
+      "quotedInIntro": false,
+      "quotedInTitle": false,
+      "sex": "male"
+    },
+
+    {
+      "age": 44,
+      "alternativeNames": [],
+      "birthday": null,
+      "descriptiveTexts": [
+        {
+          "text": "Jetzt versuchen sogar die drei Spitzen der Ampel, Kanzler Olaf Scholz (64, SPD), Vizekanzler Habeck und Finanzminister Christian Lindner (44, FDP), eine Lösung für den festgefahrenen Heizungsstreit zu finden und treffen sich am Dienstag zu einem Notfall-Schlichtungsgespräch über das sogenannte Gebäudeenergiegesetz."
+        }
+      ],
+      "directQuotes": [],
+      "indirectQuotes": [],
+      "inIntro": false,
+      "inTitle": false,
+      "isMain": false,
+      "name": "Christian Lindner",
+      "occupations": [
+        {
+          "text": "Finanzminister"
+        }
+      ],
+      "occurences": {
+        "firstNameOnly": 0,
+        "fullName": 1,
+        "lastNameOnly": 0,
+        "total": 1
+      },
+      "quotedInIntro": false,
+      "quotedInTitle": false,
+      "sex": "male"
+    }
+  
+    
+  ],
+  "subtopics": [
+    "Elektrische Wärmepumpen",
+    "Energie"
+  ]
+}

@@ -1,0 +1,371 @@
+{
+  "persons": [
+    {
+      "age": -1,
+      "alternativeNames": [],
+      "birthday": null,
+      "descriptiveTexts": [
+        {
+          "text": "Liebe Leserin, lieber Leser, beim Namen Lidl denken die meisten Deutschen an den Discounter mit dem prägnanten gelb-blauen Logo, an Billigware und vielleicht noch an den Fernsehmoderator Günther Jauch, der gerade für eine angeblich besonders umweltverträgliche Lidl-Plastikflasche wirbt."
+        }
+      ],
+      "directQuotes": [],
+      "indirectQuotes": [],
+      "inIntro": false,
+      "inTitle": false,
+      "isMain": false,
+      "name": "Günther Jauch",
+      "occupations": [
+        {
+          "text": "Fernsehmoderator"
+        }
+      ],
+      "occurences": {
+        "firstNameOnly": 0,
+        "fullName": 1,
+        "lastNameOnly": 0,
+        "total": 1
+      },
+      "quotedInIntro": false,
+      "quotedInTitle": false,
+      "sex": "male"
+    },
+
+    {
+      "age": -1,
+      "alternativeNames": [],
+      "birthday": null,
+      "descriptiveTexts": [
+        {
+          "text": "Als da sind: Dieter Schwarz, derzeit wohl reichster Deutscher und verschwiegener Eigentümer von Europas größtem Handelskonzern, zu dem neben Lidl auch Kaufland gehört."
+        },
+        {
+          "text": "Und sein Statthalter Gerd Chrzanowski, als Chef der Schwarz Gruppe Gebieter über 133 Milliarden Euro Umsatz und 550.000 Beschäftigte."
+        }
+      ],
+      "directQuotes": [],
+      "indirectQuotes": [],
+      "inIntro": false,
+      "inTitle": false,
+      "isMain": false,
+      "name": "Dieter Schwarz",
+      "occupations": [
+        {
+          "text": "derzeit wohl reichster Deutscher und verschwiegener Eigentümer von Europas größtem Handelskonzern"
+        }
+      ],
+      "occurences": {
+        "firstNameOnly": 0,
+        "fullName": 1,
+        "lastNameOnly": 0,
+        "total": 1
+      },
+      "quotedInIntro": false,
+      "quotedInTitle": false,
+      "sex": "male"
+    },
+
+    {
+      "age": -1,
+      "alternativeNames": [],
+      "birthday": null,
+      "descriptiveTexts": [
+        {
+          "text": "Und sein Statthalter Gerd Chrzanowski, als Chef der Schwarz Gruppe Gebieter über 133 Milliarden Euro Umsatz und 550.000 Beschäftigte."
+        },
+        {
+          "text": "Das tut Chrzanowski heute mehr denn je."
+        },
+        {
+          "text": "Er bastelt an einer völlig neuen Aufstellung des Unternehmens – als digitaler Superhero in einem Konglomerat nämlich, das Hackerangriffe abwehrt, Daten speichert, an künstlicher Intelligenz forscht, Containerschiffe um die Welt schickt, Müll entsorgt und nebenbei tonnenweise Lebensmittel produziert und verkauft."
+        },
+        {
+          "text": "Das jedenfalls hat Chrzanowski höchstpersönlich meinen Kollegen Margret Hucko und Martin Mehringer erzählt."
+        },
+        {
+          "text": "Der Lidl-Topmann preist sie als sichere Alternative zu Amazon und Microsoft."
+        },
+        {
+          "text": "Auch ein Cyberabwehrzentrum gehört dazu, die nötigen Spezialisten hat der Lidl-Boss in Israel eingekauft."
+        },
+        {
+          "text": "Können die gigantomanischen Pläne des Lidl-Chefs aufgehen?"
+        },
+        {
+          "text": "Die Analyse zu einem der größten (und gewagtesten) Experimente der deutschen Wirtschaft ist unsere aktuelle Titelgeschichte und online heute hier zu finden: \"Der Masterplan des neuen Lidl-Herrschers\"."
+        }
+      ],
+      "directQuotes": [],
+      "indirectQuotes": [],
+      "inIntro": false,
+      "inTitle": false,
+      "isMain": false,
+      "name": "Gerd Chrzanowski",
+      "occupations": [
+        {
+          "text": "Chef der Schwarz Gruppe"
+        },
+        {
+          "text": "Lidl-Boss"
+        }
+      ],
+      "occurences": {
+        "firstNameOnly": 0,
+        "fullName": 1,
+        "lastNameOnly": 2,
+        "total": 3
+      },
+      "quotedInIntro": false,
+      "quotedInTitle": false,
+      "sex": "male"
+    },
+
+    {
+      "age": -1,
+      "alternativeNames": [],
+      "birthday": null,
+      "descriptiveTexts": [
+        {
+          "text": "Das jedenfalls hat Chrzanowski höchstpersönlich meinen Kollegen Margret Hucko und Martin Mehringer erzählt."
+        }
+      ],
+      "directQuotes": [],
+      "indirectQuotes": [],
+      "inIntro": false,
+      "inTitle": false,
+      "isMain": false,
+      "name": "Margret Hucko",
+      "occupations": [
+        {
+          "text": "Kollegin von Eva Buchhorn"
+        }
+      ],
+      "occurences": {
+        "firstNameOnly": 0,
+        "fullName": 1,
+        "lastNameOnly": 0,
+        "total": 1
+      },
+      "quotedInIntro": false,
+      "quotedInTitle": false,
+      "sex": "female"
+    },
+    
+    {
+      "age": -1,
+      "alternativeNames": [],
+      "birthday": null,
+      "descriptiveTexts": [
+        {
+          "text": "Das jedenfalls hat Chrzanowski höchstpersönlich meinen Kollegen Margret Hucko und Martin Mehringer erzählt."
+        },
+        {
+          "text": "Martin Mehringer hat die Details."
+        }
+      ],
+      "directQuotes": [],
+      "indirectQuotes": [],
+      "inIntro": false,
+      "inTitle": false,
+      "isMain": false,
+      "name": "Martin Mehringer",
+      "occupations": [
+        {
+          "text": "Kollege von Eva Buchhorn"
+        }
+      ],
+      "occurences": {
+        "firstNameOnly": 0,
+        "fullName": 2,
+        "lastNameOnly": 0,
+        "total": 2
+      },
+      "quotedInIntro": false,
+      "quotedInTitle": false,
+      "sex": "male"
+    },
+
+    {
+      "age": -1,
+      "alternativeNames": [],
+      "birthday": null,
+      "descriptiveTexts": [
+        {
+          "text": "Der Alarm ist so groß, dass der erst Ende 2022 berufene Finanzchef Ralf Gierig mit sofortiger Wirkung ausscheidet."
+        }
+      ],
+      "directQuotes": [],
+      "indirectQuotes": [],
+      "inIntro": false,
+      "inTitle": false,
+      "isMain": false,
+      "name": "Ralf Gierig",
+      "occupations": [
+        {
+          "text": "erst Ende 2022 berufene Finanzchef"
+        }
+      ],
+      "occurences": {
+        "firstNameOnly": 0,
+        "fullName": 1,
+        "lastNameOnly": 0,
+        "total": 1
+      },
+      "quotedInIntro": false,
+      "quotedInTitle": false,
+      "sex": "male"
+    },
+
+    {
+      "age": -1,
+      "alternativeNames": [],
+      "birthday": null,
+      "descriptiveTexts": [
+        {
+          "text": "Was hatte der neue Großinvestor meinem Kollegen Henning Hinze gerade erst gesagt?"
+        }
+      ],
+      "directQuotes": [],
+      "indirectQuotes": [],
+      "inIntro": false,
+      "inTitle": false,
+      "isMain": false,
+      "name": "Henning Hinze",
+      "occupations": [
+        {
+          "text": "Kollege von Eva Buchhorn"
+        }
+      ],
+      "occurences": {
+        "firstNameOnly": 0,
+        "fullName": 1,
+        "lastNameOnly": 0,
+        "total": 1
+      },
+      "quotedInIntro": false,
+      "quotedInTitle": false,
+      "sex": "male"
+    },
+
+    {
+      "age": -1,
+      "alternativeNames": [],
+      "birthday": null,
+      "descriptiveTexts": [
+        {
+          "text": "Die letzte Tranche von 750 Millionen Euro überwies Tui aus den Einnahmen der jüngsten Kapitalerhöhung, wie CEO Sebastian Ebel heute mitteilte."
+        }
+      ],
+      "directQuotes": [],
+      "indirectQuotes": [],
+      "inIntro": false,
+      "inTitle": false,
+      "isMain": false,
+      "name": "Sebastian Ebel",
+      "occupations": [
+        {
+          "text": "CEO"
+        }
+      ],
+      "occurences": {
+        "firstNameOnly": 0,
+        "fullName": 1,
+        "lastNameOnly": 0,
+        "total": 1
+      },
+      "quotedInIntro": false,
+      "quotedInTitle": false,
+      "sex": "male"
+    },
+
+    {
+      "age": -1,
+      "alternativeNames": [],
+      "birthday": null,
+      "descriptiveTexts": [
+        {
+          "text": "Die Eigentümerfamilie um Patrick Maximilian Cloppenburg könnte das Instrumentarium des Schutzschirmverfahrens womöglich gezielt ausgenutzt haben, zulasten von Steuerzahlern und Gläubigern."
+        }
+      ],
+      "directQuotes": [],
+      "indirectQuotes": [],
+      "inIntro": false,
+      "inTitle": false,
+      "isMain": false,
+      "name": "Patrick Maximilian Cloppenburg",
+      "occupations": [],
+      "occurences": {
+        "firstNameOnly": 0,
+        "fullName": 1,
+        "lastNameOnly": 0,
+        "total": 1
+      },
+      "quotedInIntro": false,
+      "quotedInTitle": false,
+      "sex": "male"
+    },
+
+    {
+      "age": -1,
+      "alternativeNames": [],
+      "birthday": null,
+      "descriptiveTexts": [
+        {
+          "text": "Und CEO Oliver Blume hat noch mehr vor, auf unserer Bühne hat er sogar einen elektrischen Porsche 911 in Aussicht gestellt."
+        }
+      ],
+      "directQuotes": [],
+      "indirectQuotes": [],
+      "inIntro": false,
+      "inTitle": false,
+      "isMain": false,
+      "name": "Oliver Blume",
+      "occupations": [
+        {
+          "text": "CEO"
+        }
+      ],
+      "occurences": {
+        "firstNameOnly": 0,
+        "fullName": 1,
+        "lastNameOnly": 0,
+        "total": 1
+      },
+      "quotedInIntro": false,
+      "quotedInTitle": false,
+      "sex": "male"
+    },
+
+    {
+      "age": -1,
+      "alternativeNames": [],
+      "birthday": null,
+      "descriptiveTexts": [
+        {
+          "text": "Herzliche Grüße und einen entspannten Abend, Ihre Eva Buchhorn"
+        }
+      ],
+      "directQuotes": [],
+      "indirectQuotes": [],
+      "inIntro": false,
+      "inTitle": false,
+      "isMain": false,
+      "name": "Eva Buchhorn",
+      "occupations": [],
+      "occurences": {
+        "firstNameOnly": 0,
+        "fullName": 1,
+        "lastNameOnly": 0,
+        "total": 1
+      },
+      "quotedInIntro": false,
+      "quotedInTitle": false,
+      "sex": "female"
+    }
+  ],
+  "subtopics": [
+    "Wirtschaftsnews",
+    "Krise & Insolvenz",
+    "Awards"
+  ]
+}

@@ -1,0 +1,843 @@
+{
+  "persons": [
+    {
+      "age": -1,
+      "alternativeNames": [],
+      "birthday": null,
+      "descriptiveTexts": [
+        {
+          "text": "Der nächste Kühnert"
+        },
+        {
+          "text": "Er ist der härteste Kritiker von Olaf Scholz in der SPD: Nicht nur darin erinnert Philipp Türmer an Kevin Kühnert."
+        },
+        {
+          "text": "Obwohl er den Jugendverband der SPD mit seinen rund 70.000 Mitgliedern erst seit drei Monaten führt, sehen ihn manche als den nächsten Kevin Kühnert."
+        },
+        {
+          "text": "Der heutige SPD-Generalsekretär machte einst als Vorsitzender die Jungsozialisten nach Jahren der Lethargie wieder groß und laut."
+        },
+        {
+          "text": "Er formte den Verband zu einem Machtfaktor, den die Parteispitze nicht mehr ignorieren konnte."
+        },
+        {
+          "text": "In puncto Ehrgeiz und Sendungsbewusstsein scheint er Kühnert ebenbürtig zu sein."
+        },
+        {
+          "text": "An der Spitze damals: Kevin Kühnert."
+        },
+        {
+          "text": "Kühnert ist in Berlin aufgewachsen, Türmer in der südhessischen Provinz."
+        },
+        {
+          "text": "Kühnert hat sein Studium nie abgeschlossen, Türmer absolvierte das erste juristische Staatsexamen."
+        },
+        {
+          "text": "Kühnerts politische Karriere wurde einst beflügelt von einer Krise der SPD."
+        },
+        {
+          "text": "Nach der verlorenen Wahl 2017 stieg er zum Gesicht der No-GroKo-Bewegung auf, zum Gegenspieler der Parteispitze um Andrea Nahles und Olaf Scholz, die eine weitere Große Koalition wollten."
+        },
+        {
+          "text": "Auch wenn die Jusos die Auseinandersetzung verloren: Kühnert wurde erst stellvertretender Parteichef, dann Bundestagsabgeordneter und Generalsekretär."
+        },
+        {
+          "text": "2019 waren es vor allem Kühnerts Jusos, die Scholz’ Wahl zum Parteivorsitzenden verhinderten."
+        },
+        {
+          "text": "Kühnert sagt, er habe es leichter gehabt als Türmer heute."
+        },
+        {
+          "text": "Kühnert nennt die Kritik an seinem Nachfolger unfair."
+        },
+        {
+          "text": "Beim Bundesparteitag Anfang Dezember erinnerte Türmer an den alten, streitlustigen Kühnert."
+        },
+        {
+          "text": "Ähnlich hatte sich am Wahlabend Kühnert geäußert."
+        },
+        {
+          "text": "Die kann Kühnert als Generalsekretär kaum noch sein."
+        },
+        {
+          "text": "Der Ex-Juso-Chef betrachtet das Treiben seines Nachfolgers wohlwollend."
+        },
+        {
+          "text": "Eine Sache stört Kühnert dann doch an seinem Nachfolger."
+        },
+        {
+          "text": "Er meint die Richtlinienkompetenz des Kanzlers gegenüber den Koalitionspartnern, die Türmer einfordert."
+        },
+        {
+          "text": "»Das funktioniert in einer Dreierkoalition einfach nicht«, sagt Kühnert."
+        }
+      ],
+      "directQuotes": [
+        {
+          "text": "»Direkt nach meiner Wahl haben wir die No-GroKo-Kampagne beschlossen. Mit 100 Prozent Zustimmung.«"
+        },
+        {
+          "text": "»Im internen Wahlkampf sind enorme Verletzungen entstanden. Philipp kann den Verband nur über inhaltliche Arbeit wieder einen.«"
+        },
+        {
+          "text": "»Ich bin froh, dass er das sehr konstruktiv macht. Ich höre von Parteifreunden, dass er sich an sie persönlich wendet, bevor er öffentlich Kritik übt.«"
+        },
+        {
+          "text": "»Es gehört dazu, dass die Jusos den Kanzler ermutigen, offensiver sozialdemokratische Positionen zu beziehen.«"
+        },
+        {
+          "text": "»Ich halte nichts von diesen Forderungen nach einem Machtwort.«"
+        },
+        {
+          "text": "»Das funktioniert in einer Dreierkoalition einfach nicht«"
+        },
+        {
+          "text": "»Deshalb ist es ein schmaler Grat, nicht zu häufig Erwartungen zu schüren, die sich nicht erfüllen lassen.«"
+        }
+      ],
+      "indirectQuotes": [
+        {
+          "text": "Kühnert sagt, er habe es leichter gehabt als Türmer heute."
+        }
+      ],
+      "inIntro": true,
+      "inTitle": true,
+      "isMain": false,
+      "name": "Kevin Kühnert",
+      "occupations": [
+        {
+          "text": "der heutige SPD-Generalsekretär"
+        },
+        {
+          "text": "der Ex-Juso-Chef"
+        }
+      ],
+      "occurences": {
+        "firstNameOnly": 0,
+        "fullName": 3,
+        "lastNameOnly": 14,
+        "total": 17
+      },
+      "quotedInIntro": false,
+      "quotedInTitle": false,
+      "sex": "male"
+    },
+
+    {
+      "age": -1,
+      "alternativeNames": [],
+      "birthday": null,
+      "descriptiveTexts": [
+        {
+          "text": "Er ist der härteste Kritiker von Olaf Scholz in der SPD: Nicht nur darin erinnert Philipp Türmer an Kevin Kühnert."
+        },
+        {
+          "text": "Und beim SPD-Parteitag im Dezember rief er dem Kanzler zu: »Olaf, du hast mal gesagt: Wer Führung bestellt, soll sie bekommen. Hiermit bestelle ich sie.«"
+        },
+        {
+          "text": "Innerhalb weniger Wochen ist Türmer in der SPD zum härtesten Kritiker von Olaf Scholz aufgestiegen."
+        },
+        {
+          "text": "Sie steckte in der Zwickmühle, musste den Kanzler stützen, sich der Fraktionsdisziplin beugen."
+        },
+        {
+          "text": "Zwei Stunden spricht er über Olaf Scholz, die Ampel und darüber, was ihn antreibt."
+        },
+        {
+          "text": "Dass Scholz zuletzt kämpferischer auftrat und im Bundestag etwa CDU-Chef Friedrich Merz offen angriff, schreibt Türmer auch dem Druck der Jusos zu."
+        },
+        {
+          "text": "Nach der verlorenen Wahl 2017 stieg er zum Gesicht der No-GroKo-Bewegung auf, zum Gegenspieler der Parteispitze um Andrea Nahles und Olaf Scholz, die eine weitere Große Koalition wollten."
+        },
+        {
+          "text": "2019 waren es vor allem Kühnerts Jusos, die Scholz’ Wahl zum Parteivorsitzenden verhinderten."
+        },
+        {
+          "text": "Direkt nach dessen Rede griff er Scholz frontal an."
+        },
+        {
+          "text": "Dass die Schlangen vor den Tafeln immer länger würden, sei ein »Armutszeugnis« für einen sozialdemokratischen Kanzler."
+        },
+        {
+          "text": "Scholz sei »Chef der Regierung, nicht Paartherapeut von Robert und Christian«."
+        },
+        {
+          "text": "Und dann bestellte Türmer die »Führung« beim Kanzler."
+        },
+        {
+          "text": "In der Kritik am Kanzler lässt er nicht nach Mitte Februar kommt Türmer auf Krücken in ein Café in Berlin-Mitte."
+        },
+        {
+          "text": "In seiner Kritik am Kanzler aber lässt Türmer nicht nach."
+        },
+        {
+          "text": "»Scholz versucht sich immer wieder von Positionen der Partei stark zu distanzieren«, sagt er."
+        },
+        {
+          "text": "Das bedeute, dass Scholz die Wahl zu einer Abstimmung über seinen Kurs mache."
+        },
+        {
+          "text": "»Dann muss es aber auch eine Reaktion geben, wenn es schiefgeht.«"
+        },
+        {
+          "text": "Türmer findet, Scholz müsse die FDP auf seinen Kurs zwingen."
+        },
+        {
+          "text": "Auch Türmers Kritik an Scholz sei weitgehend in Ordnung."
+        },
+        {
+          "text": "»Es gehört dazu, dass die Jusos den Kanzler ermutigen, offensiver sozialdemokratische Positionen zu beziehen.«"
+        },
+        {
+          "text": "Er meint die Richtlinienkompetenz des Kanzlers gegenüber den Koalitionspartnern, die Türmer einfordert."
+        },
+        {
+          "text": "Als Quälgeist des Kanzlers scheint Philipp Türmer sich ganz wohl zu fühlen."
+        }
+      ],
+      "directQuotes": [],
+      "indirectQuotes": [],
+      "inIntro": true,
+      "inTitle": false,
+      "isMain": false,
+      "name": "Olaf Scholz",
+      "occupations": [
+        {
+          "text": "Kanzler"
+        }
+      ],
+      "occurences": {
+        "firstNameOnly": 1,
+        "fullName": 4,
+        "lastNameOnly": 8,
+        "total": 13
+      },
+      "quotedInIntro": false,
+      "quotedInTitle": false,
+      "sex": "male"
+    },
+
+    {
+      "age": 28,
+      "alternativeNames": [],
+      "birthday": null,
+      "descriptiveTexts": [
+        {
+          "text": "Er ist der härteste Kritiker von Olaf Scholz in der SPD: Nicht nur darin erinnert Philipp Türmer an Kevin Kühnert."
+        },
+        {
+          "text": "Eine Palette mit Kartoffeln ist umgefallen, es fehlen die Karten für die Kundenausweise, die Philipp Türmer verlängern wollte."
+        },
+        {
+          "text": "Türmer scheint das Chaos nicht zu stören."
+        },
+        {
+          "text": "Er improvisiert, klaubt die Kartoffeln zusammen, schneidet Karteikarten zu provisorischen Ausweisen zurecht und organisiert die Verteilung der Lebensmittel."
+        },
+        {
+          "text": "»Haut jedem ordentlich Brot rein«, fordert der 28-Jährige die anderen Helfer auf."
+        },
+        {
+          "text": "Nebenbei telefoniert der Chef der Jungsozialisten mit seinem Büro im Willy-Brandt-Haus, der SPD-Zentrale."
+        },
+        {
+          "text": "Er ist unzufrieden mit einem Onlineposting zum EU-Lieferkettengesetz."
+        },
+        {
+          "text": "Der Beitrag zum Lieferkettengesetz müsse auch erklären, worum es eigentlich gehe, findet Türmer."
+        },
+        {
+          "text": "Die Organisation der Tafel und die Kritik an der Ampel, beides scheint Türmer leicht von der Hand zu gehen."
+        },
+        {
+          "text": "Der Juso-Chef macht auf sich aufmerksam."
+        },
+        {
+          "text": "Er scheut sich nicht, die eigenen Genossen scharf zu kritisieren."
+        },
+        {
+          "text": "Direkt nach seiner Wahl im November stellte er die Ampelkoalition infrage."
+        },
+        {
+          "text": "Und beim SPD-Parteitag im Dezember rief er dem Kanzler zu: »Olaf, du hast mal gesagt: Wer Führung bestellt, soll sie bekommen. Hiermit bestelle ich sie.«"
+        },
+        {
+          "text": "Innerhalb weniger Wochen ist Türmer in der SPD zum härtesten Kritiker von Olaf Scholz aufgestiegen."
+        },
+        {
+          "text": "Obwohl er den Jugendverband der SPD mit seinen rund 70.000 Mitgliedern erst seit drei Monaten führt, sehen ihn manche als den nächsten Kevin Kühnert."
+        },
+        {
+          "text": " Es war der Fluch des Erfolgs, gleich 49 Sozialdemokraten im Juso-Alter hatten es ins Parlament geschafft, darunter Jessica Rosenthal, Türmers Vorgängerin."
+        },
+        {
+          "text": "Türmer möchte das ändern."
+        },
+        {
+          "text": "Er will den Verband wieder zu einem echten Machtfaktor machen, der die SPD unter Druck setzen kann."
+        },
+        {
+          "text": "In puncto Ehrgeiz und Sendungsbewusstsein scheint er Kühnert ebenbürtig zu sein."
+        },
+        {
+          "text": "Wie weit kann er es bringen?"
+        },
+        {
+          "text": "Steht er ebenfalls vor einer Blitzkarriere?"
+        },
+        {
+          "text": "Kann er seine Partei in einer ähnlichen Weise treiben?"
+        },
+        {
+          "text": "Geht kaum Am Abend vor seinem Einsatz bei der Tafel sitzt Türmer in einem griechischen Restaurant in Offenbach."
+        },
+        {
+          "text": "Zwei Stunden spricht er über Olaf Scholz, die Ampel und darüber, was ihn antreibt."
+        },
+        {
+          "text": "Seit zwölf Jahren ist Türmer in der SPD, 2017 wurde er Vizechef der Jusos."
+        },
+        {
+          "text": "Kühnert ist in Berlin aufgewachsen, Türmer in der südhessischen Provinz."
+        },
+        {
+          "text": "Kühnert hat sein Studium nie abgeschlossen, Türmer absolvierte das erste juristische Staatsexamen."
+        },
+        {
+          "text": "Auch das Zweite will er machen."
+        },
+        {
+          "text": "In guten Wochen arbeite er 40 Stunden, meist seien es eher 60."
+        },
+        {
+          "text": "Vor Kurzem habe er sich ein Diensthandy geholt, trennen könne er Privates und Politik aber kaum."
+        },
+        {
+          "text": "Auch für Sport habe er immer seltener Zeit."
+        },
+        {
+          "text": "»Politik macht mir einfach Spaß«, sagt Türmer."
+        },
+        {
+          "text": "Dass Scholz zuletzt kämpferischer auftrat und im Bundestag etwa CDU-Chef Friedrich Merz offen angriff, schreibt Türmer auch dem Druck der Jusos zu."
+        },
+        {
+          "text": "Seinem Druck."
+        },
+        {
+          "text": "Er sei froh, dass »der Verband wieder stärker auf dem Platz ist«."
+        },
+        {
+          "text": "Was ihn umtreibt, ist auch die Sorge um die SPD."
+        },
+        {
+          "text": "Türmer glaubt, dass es in der SPD nicht ruhig sein darf, wenn sie in Umfragen bei 15 Prozent steht und in Sachsen und Thüringen Gefahr läuft, aus dem Parlament zu fliegen."
+        },
+        {
+          "text": "Kühnert sagt, er habe es leichter gehabt als Türmer heute."
+        },
+        {
+          "text": "Beim Bundeskongress in Braunschweig kandidierte neben Türmer auch Sarah Mohamed, eine schwarze Frau aus Bonn."
+        },
+        {
+          "text": "Türmer dagegen bleibe hinter den Erwartungen zurück, kritisiert sie."
+        },
+        {
+          "text": "Türmer sei überheblich und zugleich zu vorsichtig, ein Karrierist, der unbedingt in den Bundestag wolle."
+        },
+        {
+          "text": "Manche werfen ihm vor, identitätspolitische Fragen zu vernachlässigen."
+        },
+        {
+          "text": "Der Vorsitzende kennt die Kritik."
+        },
+        {
+          "text": "»Manche sagen sogar, ich sei eher ein rechter Juso«, sagt er und grinst."
+        },
+        {
+          "text": "Auch den Vorwurf, er sei ein Karrierist, will er nicht stehen lassen."
+        },
+        {
+          "text": "Er wolle sich auf die Jusos konzentrieren, die Doppelrolle habe sich nicht bewährt – also einerseits die Positionen der Jusos zu vertreten und andererseits im Parlament Kompromisse zu machen."
+        },
+        {
+          "text": "»Im internen Wahlkampf sind enorme Verletzungen entstanden. Philipp kann den Verband nur über inhaltliche Arbeit wieder einen.«"
+        },
+        {
+          "text": "Beim Bundesparteitag Anfang Dezember erinnerte Türmer an den alten, streitlustigen Kühnert."
+        },
+        {
+          "text": "Direkt nach dessen Rede griff er Scholz frontal an."
+        },
+        {
+          "text": "Und dann bestellte Türmer die »Führung« beim Kanzler."
+        },
+        {
+          "text": "Diesen Mut zeigte der Juso-Chef auch mit Anträgen gegen die Schuldenbremse und gegen die Migrationspolitik der SPD."
+        },
+        {
+          "text": "Nicht mit allem hatte er Erfolg, aber Türmer bewies Courage."
+        },
+        {
+          "text": "In der Kritik am Kanzler lässt er nicht nach Mitte Februar kommt Türmer auf Krücken in ein Café in Berlin-Mitte."
+        },
+        {
+          "text": "Er sei umgeknickt beim Protest gegen eine Nazidemo in Dresden, erzählt er und lacht."
+        },
+        {
+          "text": "Es läuft gut für den Juso-Chef."
+        },
+        {
+          "text": "Sein Terminkalender ist voll: Hintergrundgespräche mit Journalisten, Treffen mit Arbeitsminister Hubertus Heil, mit den Linken im Parteivorstand, mit der Jungen Arbeitsgemeinschaft bäuerliche Landwirtschaft."
+        },
+        {
+          "text": "Man kann sich fragen, warum Türmer so gute Laune hat."
+        },
+        {
+          "text": "Das Ergebnis könne angesichts der Umfragen niemanden überraschen, winkt Türmer ab."
+        },
+        {
+          "text": "Zum ersten Mal scheint bei Türmer der Pragmatiker durch, der schlechte Wahlergebnisse schönredet."
+        },
+        {
+          "text": "In seiner Kritik am Kanzler aber lässt Türmer nicht nach."
+        },
+        {
+          "text": "»Scholz versucht sich immer wieder von Positionen der Partei stark zu distanzieren«, sagt er."
+        },
+        {
+          "text": "Wieder spricht Türmer über das EU-Lieferkettengesetz."
+        },
+        {
+          "text": "Mit anderen Parteilinken setzt er wenige Tage nach dem Treffen einen Antrag im Parteivorstand durch, der eine Zustimmung der Bundesregierung in Brüssel fordert."
+        },
+        {
+          "text": "Türmer findet, Scholz müsse die FDP auf seinen Kurs zwingen."
+        },
+        {
+          "text": "Dass dies einen Bruch der Koalition provozieren könnte, stört Türmer nicht."
+        },
+        {
+          "text": "»Man darf nicht vergessen, dass die SPD die stärkste Partei in der Koalition ist. Das muss man auch mal zeigen«, sagt er."
+        },
+        {
+          "text": "Um selbst Akzente zu setzen, müsse die Schuldenbremse weg und die Steuer auf große Erbschaften deutlich erhöht werden, sagt Türmer."
+        },
+        {
+          "text": "Beides lehnt die FDP strikt ab, Türmer ist das egal."
+        },
+        {
+          "text": "Zweifellos werden Türmer Vorwürfe, er sei ein Karrierist, künftig häufiger begegnen, besonders aus den eigenen Reihen."
+        },
+        {
+          "text": "Beeindrucken dürfte ihn das nicht."
+        },
+        {
+          "text": "In der Partei wird ihm zugetraut, eine führende Stimme der derzeit schwächelnden Parteilinken zu werden."
+        },
+        {
+          "text": "»Ich bin froh, dass er das sehr konstruktiv macht. Ich höre von Parteifreunden, dass er sich an sie persönlich wendet, bevor er öffentlich Kritik übt.«"
+        },
+        {
+          "text": "Auch Türmers Kritik an Scholz sei weitgehend in Ordnung."
+        },
+        {
+          "text": "Eine Sache stört Kühnert dann doch an seinem Nachfolger."
+        },
+        {
+          "text": "Er meint die Richtlinienkompetenz des Kanzlers gegenüber den Koalitionspartnern, die Türmer einfordert."
+        },
+        {
+          "text": "Doch der Juso-Vorsitzende bleibt dabei."
+        },
+        {
+          "text": "»Die Richtlinienkompetenz steht im Grundgesetz«, sagt er."
+        },
+        {
+          "text": "Als Quälgeist des Kanzlers scheint Philipp Türmer sich ganz wohl zu fühlen."
+        }
+      ],
+      "directQuotes": [
+        {
+          "text": "»Haut jedem ordentlich Brot rein«"
+        },
+        {
+          "text": "»Das können wir außerhalb der Politikblase nicht voraussetzen.«"
+        },
+        {
+          "text": "»Olaf, du hast mal gesagt: Wer Führung bestellt, soll sie bekommen. Hiermit bestelle ich sie.«"
+        },
+        {
+          "text": "»Das würde sonst ein Leben lang an mir nagen.«"
+        },
+        {
+          "text": "»Das kommt dann doch alles auf meinem privaten Handy an.«"
+        },
+        {
+          "text": "»Politik macht mir einfach Spaß«"
+        },
+        {
+          "text": "»der Verband wieder stärker auf dem Platz ist«"
+        },
+        {
+          "text": "»Manche sagen sogar, ich sei eher ein rechter Juso«"
+        },
+        {
+          "text": "»Das stimmt natürlich nicht. Ich habe so einige Sozialismusseminare gegeben und sie auch zutiefst verinnerlicht.«"
+        },
+        {
+          "text": "»Ich hätte mich in Offenbach um ein Bundestagsmandat bewerben können, mache das aber nicht.«"
+        },
+        {
+          "text": "»Ich kann mir nicht vorstellen, in diese Fraktionszwänge eingebunden zu sein.«"
+        },
+        {
+          "text": "»Armutszeugnis«"
+        },
+        {
+          "text": "»Chef der Regierung, nicht Paartherapeut von Robert und Christian«"
+        },
+        {
+          "text": "»Scholz versucht sich immer wieder von Positionen der Partei stark zu distanzieren«"
+        },
+        {
+          "text": "»Ich finde es erstaunlich, dass er sich neben Katarina Barley auf die Plakate für die Europawahl drucken lässt.«"
+        },
+        {
+          "text": "»Dann muss es aber auch eine Reaktion geben, wenn es schiefgeht.«"
+        },
+        {
+          "text": "»Man darf nicht vergessen, dass die SPD die stärkste Partei in der Koalition ist. Das muss man auch mal zeigen«"
+        },
+        {
+          "text": "»Es ist keine Option mehr, sich von der FDP in allen wesentlichen Fragen blockieren zu lassen.«"
+        },
+        {
+          "text": "»Im Moment treibt die Union die Regierung bei jedem Thema vor sich her.«"
+        },
+        {
+          "text": "»Die FDP muss sich die Frage stellen, ob sie grundsätzlich noch eine regierungsfähige Partei ist.«"
+        },
+        {
+          "text": "»Die Richtlinienkompetenz steht im Grundgesetz«"
+        },
+        {
+          "text": "»Sie einzusetzen muss immer möglich sein – gerade jetzt.«"
+        }
+      ],
+      "indirectQuotes": [
+        {
+          "text": "Direkt nach seiner Wahl im November stellte er die Ampelkoalition infrage."
+        },
+        {
+          "text": "Er sei froh, dass »der Verband wieder stärker auf dem Platz ist«."
+        },
+        {
+          "text": "Er sei umgeknickt beim Protest gegen eine Nazidemo in Dresden, erzählt er und lacht."
+        },
+        {
+          "text": "Türmer findet, Scholz müsse die FDP auf seinen Kurs zwingen."
+        },
+        {
+          "text": "Um selbst Akzente zu setzen, müsse die Schuldenbremse weg und die Steuer auf große Erbschaften deutlich erhöht werden, sagt Türmer."
+        }
+      ],
+      "inIntro": true,
+      "inTitle": false,
+      "isMain": true,
+      "name": "Philipp Türmer",
+      "occupations": [
+        {
+          "text": "Chef der Jungsozialisten"
+        }
+      ],
+      "occurences": {
+        "firstNameOnly": 1,
+        "fullName": 3,
+        "lastNameOnly": 33,
+        "total": 37
+      },
+      "quotedInIntro": false,
+      "quotedInTitle": false,
+      "sex": "male"
+    },
+
+    {
+      "age": -1,
+      "alternativeNames": [],
+      "birthday": null,
+      "descriptiveTexts": [
+        {
+          "text": "»Wir brauchen da mehr als eine Punchline gegen den Blockierer Buschmann«, sagt er einer Mitarbeiterin."
+        },
+        {
+          "text": "Er meint FDP-Justizminister Marco Buschmann."
+        }
+      ],
+      "directQuotes": [],
+      "indirectQuotes": [],
+      "inIntro": false,
+      "inTitle": false,
+      "isMain": false,
+      "name": "Marco Buschmann",
+      "occupations": [
+        {
+          "text": "FDP-Justizminister"
+        }
+      ],
+      "occurences": {
+        "firstNameOnly": 0,
+        "fullName": 1,
+        "lastNameOnly": 1,
+        "total": 2
+      },
+      "quotedInIntro": false,
+      "quotedInTitle": false,
+      "sex": "male"
+    },
+
+    {
+      "age": -1,
+      "alternativeNames": [],
+      "birthday": null,
+      "descriptiveTexts": [
+        {
+          "text": "Es war der Fluch des Erfolgs, gleich 49 Sozialdemokraten im Juso-Alter hatten es ins Parlament geschafft, darunter Jessica Rosenthal, Türmers Vorgängerin."
+        },
+        {
+          "text": "Sie steckte in der Zwickmühle, musste den Kanzler stützen, sich der Fraktionsdisziplin beugen."
+        }
+      ],
+      "directQuotes": [],
+      "indirectQuotes": [],
+      "inIntro": false,
+      "inTitle": false,
+      "isMain": false,
+      "name": "Jessica Rosenthal",
+      "occupations": [
+        {
+          "text": "Türmers Vorgängerin"
+        }
+      ],
+      "occurences": {
+        "firstNameOnly": 0,
+        "fullName": 1,
+        "lastNameOnly": 0,
+        "total": 1
+      },
+      "quotedInIntro": false,
+      "quotedInTitle": false,
+      "sex": "female"
+    },
+
+    {
+      "age": -1,
+      "alternativeNames": [],
+      "birthday": null,
+      "descriptiveTexts": [
+        {
+          "text": "Dass Scholz zuletzt kämpferischer auftrat und im Bundestag etwa CDU-Chef Friedrich Merz offen angriff, schreibt Türmer auch dem Druck der Jusos zu."
+        }
+      ],
+      "directQuotes": [],
+      "indirectQuotes": [],
+      "inIntro": false,
+      "inTitle": false,
+      "isMain": false,
+      "name": "Friedrich Merz",
+      "occupations": [
+        {
+          "text": "CDU-Chef"
+        }
+      ],
+      "occurences": {
+        "firstNameOnly": 0,
+        "fullName": 1,
+        "lastNameOnly": 0,
+        "total": 1
+      },
+      "quotedInIntro": false,
+      "quotedInTitle": false,
+      "sex": "male"
+    },
+
+    {
+      "age": -1,
+      "alternativeNames": [],
+      "birthday": null,
+      "descriptiveTexts": [
+        {
+          "text": "Dass die Partei in der Versenkung verschwindet wie die französischen Sozialisten nach der Präsidentschaft von François Hollande."
+        }
+      ],
+      "directQuotes": [],
+      "indirectQuotes": [],
+      "inIntro": false,
+      "inTitle": false,
+      "isMain": false,
+      "name": "François Hollande",
+      "occupations": [
+        {
+          "text": "Präsident französischer Sozialisten"
+        }
+      ],
+      "occurences": {
+        "firstNameOnly": 0,
+        "fullName": 1,
+        "lastNameOnly": 0,
+        "total": 1
+      },
+      "quotedInIntro": false,
+      "quotedInTitle": false,
+      "sex": "male"
+    },
+
+    {
+      "age": -1,
+      "alternativeNames": [],
+      "birthday": null,
+      "descriptiveTexts": [
+        {
+          "text": "Nach der verlorenen Wahl 2017 stieg er zum Gesicht der No-GroKo-Bewegung auf, zum Gegenspieler der Parteispitze um Andrea Nahles und Olaf Scholz, die eine weitere Große Koalition wollten."
+        }
+      ],
+      "directQuotes": [],
+      "indirectQuotes": [],
+      "inIntro": false,
+      "inTitle": false,
+      "isMain": false,
+      "name": "Andrea Nahles",
+      "occupations": [],
+      "occurences": {
+        "firstNameOnly": 0,
+        "fullName": 1,
+        "lastNameOnly": 0,
+        "total": 1
+      },
+      "quotedInIntro": false,
+      "quotedInTitle": false,
+      "sex": "female"
+    },
+    
+    {
+      "age": -1,
+      "alternativeNames": [],
+      "birthday": null,
+      "descriptiveTexts": [
+        {
+          "text": "Beim Bundeskongress in Braunschweig kandidierte neben Türmer auch Sarah Mohamed, eine schwarze Frau aus Bonn."
+        },
+        {
+          "text": "Viele Jusos bedauern, dass sie sich nicht durchsetzen konnte."
+        }
+      ],
+      "directQuotes": [],
+      "indirectQuotes": [],
+      "inIntro": false,
+      "inTitle": false,
+      "isMain": false,
+      "name": "Sarah Mohamed",
+      "occupations": [
+        {
+          "text": "Kandidatin beim Beim Bundeskongress in Braunschweig"
+        }
+      ],
+      "occurences": {
+        "firstNameOnly": 0,
+        "fullName": 1,
+        "lastNameOnly": 0,
+        "total": 1
+      },
+      "quotedInIntro": false,
+      "quotedInTitle": false,
+      "sex": "female"
+    },
+
+    {
+      "age": -1,
+      "alternativeNames": [],
+      "birthday": null,
+      "descriptiveTexts": [
+        {
+          "text": "»Ich finde es erstaunlich, dass er sich neben Katarina Barley auf die Plakate für die Europawahl drucken lässt.«"
+        }
+      ],
+      "directQuotes": [],
+      "indirectQuotes": [],
+      "inIntro": false,
+      "inTitle": false,
+      "isMain": false,
+      "name": "Katarina Barley",
+      "occupations": [],
+      "occurences": {
+        "firstNameOnly": 0,
+        "fullName": 1,
+        "lastNameOnly": 0,
+        "total": 1
+      },
+      "quotedInIntro": false,
+      "quotedInTitle": false,
+      "sex": "female"
+    },
+
+    {
+      "age": -1,
+      "alternativeNames": [],
+      "birthday": null,
+      "descriptiveTexts": [
+        {
+          "text": "Scholz sei »Chef der Regierung, nicht Paartherapeut von Robert und Christian«."
+        }
+      ],
+      "directQuotes": [],
+      "indirectQuotes": [],
+      "inIntro": false,
+      "inTitle": false,
+      "isMain": false,
+      "name": "Robert",
+      "occupations": [],
+      "occurences": {
+        "firstNameOnly": 1,
+        "fullName": 0,
+        "lastNameOnly": 0,
+        "total": 1
+      },
+      "quotedInIntro": false,
+      "quotedInTitle": false,
+      "sex": "male"
+    },
+
+    {
+      "age": -1,
+      "alternativeNames": [],
+      "birthday": null,
+      "descriptiveTexts": [
+        {
+          "text": "Scholz sei »Chef der Regierung, nicht Paartherapeut von Robert und Christian«."
+        }
+      ],
+      "directQuotes": [],
+      "indirectQuotes": [],
+      "inIntro": false,
+      "inTitle": false,
+      "isMain": false,
+      "name": "Christian",
+      "occupations": [],
+      "occurences": {
+        "firstNameOnly": 1,
+        "fullName": 0,
+        "lastNameOnly": 0,
+        "total": 1
+      },
+      "quotedInIntro": false,
+      "quotedInTitle": false,
+      "sex": "male"
+    }
+
+    
+  ],
+  "subtopics": [
+    "Politik",
+    "Jungsozialisten"
+  ]
+}

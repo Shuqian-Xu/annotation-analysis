@@ -1,0 +1,77 @@
+{
+  "persons": [
+    {
+      "age": -1,
+      "alternativeNames": [],
+      "birthday": null,
+      "descriptiveTexts": [
+        {
+          "text": "Profi-Investoren, die manager-magazin-Redakteur Mark Böschen kürzlich in Los Angeles auf einem Gipfeltreffen der Branche traf, zeichnen dagegen ein ganz anderes Bild."
+        },
+        {
+          "text": "Darüber informiert in diesem Podcast Mark Böschen, Kapitalmarktexperte des manager magazins, im Gespräch mit Sven Clausen."
+        }
+      ],
+      "directQuotes": [],
+      "inIntro": false,
+      "inTitle": false,
+      "indirectQuotes": [],
+      "isMain": true,
+      "name": "Mark Böschen",
+      "occupations": [
+        {
+          "text": "manager-magazin-Redakteur"
+        },
+        {
+          "text": "Kapitalmarktexperte des manager magazins"
+        }
+      ],
+      "occurences": {
+        "firstNameOnly": 0,
+        "fullName": 2,
+        "lastNameOnly": 0,
+        "total": 2
+      },
+      "quotedInIntro": false,
+      "quotedInTitle": false,
+      "sex": "male"
+    },
+    {
+      "age": -1,
+      "alternativeNames": [],
+      "birthday": null,
+      "descriptiveTexts": [
+        {
+          "text": "Darüber informiert in diesem Podcast Mark Böschen, Kapitalmarktexperte des manager magazins, im Gespräch mit Sven Clausen."
+        },
+        {
+          "text": "Im Podcast »Das Thema« informiert Chefredakteur Sven Clausen jede Woche über den internen Recherchestand zu einem relevanten aktuellen und zugleich zukunftsträchtigen Thema der Wirtschaft."
+        }
+      ],
+      "directQuotes": [],
+      "inIntro": false,
+      "inTitle": false,
+      "indirectQuotes": [],
+      "isMain": false,
+      "name": "Sven Clausen",
+      "occupations": [
+        {
+          "text": "Chefredakteur"
+        }
+      ],
+      "occurences": {
+        "firstNameOnly": 0,
+        "fullName": 2,
+        "lastNameOnly": 0,
+        "total": 2
+      },
+      "quotedInIntro": false,
+      "quotedInTitle": false,
+      "sex": "male"
+    }
+  ],
+  "subtopics": [
+    "Kapitalmarkt",
+    "Wirtschaft Podcast"
+  ]
+}

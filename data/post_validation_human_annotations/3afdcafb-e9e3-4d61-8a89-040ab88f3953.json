@@ -1,0 +1,733 @@
+{
+  "persons": [
+    {
+      "age": -1,
+      "alternativeNames": [],
+      "birthday": null,
+      "descriptiveTexts": [
+        {
+          "text": "Meine Kollegen Lutz Reiche und Helmut Reich wirken dieser Sorge entgegen: Sie haben sich die Pläne zur größten Flugübung der Nato seit deren Bestehen genau angeschaut, haben mit Experten gesprochen, um zu erfahren, was da wirklich auf uns und auf mögliche Fluggäste zukommt."
+        },
+        {
+          "text": "Damit die gefahrlos stattfinden können, müssen «immer wieder mehrstündig große Luftraumblöcke für das Militär reserviert werden», wie die Kollegen Reiche und Reich im besten Fluglotsenjargon darlegen."
+        },
+        {
+          "text": "Allerdings, auch das haben die Kollegen recherchiert, steht schon jetzt recht genau fest, zu welcher Zeit und in welchen Lufträumen die Militärpiloten trainieren werden."
+        }
+      ],
+      "directQuotes": [],
+      "indirectQuotes": [],
+      "inIntro": false,
+      "inTitle": false,
+      "isMain": false,
+      "name": "Lutz Reiche",
+      "occupations": [
+        {
+          "text": "Kollege von Christoph Rottwilm"
+        }
+      ],
+      "occurences": {
+        "firstNameOnly": 0,
+        "fullName": 1,
+        "lastNameOnly": 1,
+        "total": 2
+      },
+      "quotedInIntro": false,
+      "quotedInTitle": false,
+      "sex": "male"
+    },
+
+    {
+      "age": -1,
+      "alternativeNames": [],
+      "birthday": null,
+      "descriptiveTexts": [
+        {
+          "text": "Meine Kollegen Lutz Reiche und Helmut Reich wirken dieser Sorge entgegen: Sie haben sich die Pläne zur größten Flugübung der Nato seit deren Bestehen genau angeschaut, haben mit Experten gesprochen, um zu erfahren, was da wirklich auf uns und auf mögliche Fluggäste zukommt."
+        },
+        {
+          "text": "Damit die gefahrlos stattfinden können, müssen «immer wieder mehrstündig große Luftraumblöcke für das Militär reserviert werden», wie die Kollegen Reiche und Reich im besten Fluglotsenjargon darlegen."
+        },
+        {
+          "text": "Allerdings, auch das haben die Kollegen recherchiert, steht schon jetzt recht genau fest, zu welcher Zeit und in welchen Lufträumen die Militärpiloten trainieren werden."
+        }
+      ],
+      "directQuotes": [],
+      "indirectQuotes": [],
+      "inIntro": false,
+      "inTitle": false,
+      "isMain": false,
+      "name": "Helmut Reich",
+      "occupations": [
+        {
+          "text": "Kollege von Christoph Rottwilm"
+        }
+      ],
+      "occurences": {
+        "firstNameOnly": 0,
+        "fullName": 1,
+        "lastNameOnly": 1,
+        "total": 2
+      },
+      "quotedInIntro": false,
+      "quotedInTitle": false,
+      "sex": "male"
+    },
+
+    {
+      "age": -1,
+      "alternativeNames": [],
+      "birthday": null,
+      "descriptiveTexts": [
+        {
+          "text": "Neue Notenbankchefin in der Türkei: Der wiedergewählte türkische Präsident Recep Tayyip Erdoğan versucht offenbar, mit seiner Personalpolitik neues Vertrauen an den Finanzmärkten zu gewinnen."
+        },
+        {
+          "text": "Zunächst hatte Erdoğan den angesehenen Ökonomen Mehmet Şimşek zum Finanzminister ernannt, jetzt folgt die nächste News: Die Bankerin Hafize Gaye Erkan soll die Leitung der türkischen Zentralbank übernehmen."
+        },
+        {
+          "text": "Damit holt der Präsident erneut eine Person von internationalem Format in sein «Team», in Erkans Lebenslauf stehen US-Adressen wie First Republic Bank oder Goldman Sachs."
+        }
+      ],
+      "directQuotes": [],
+      "indirectQuotes": [],
+      "inIntro": false,
+      "inTitle": false,
+      "isMain": false,
+      "name": "Recep Tayyip Erdoğan",
+      "occupations": [
+        {
+          "text": "Der wiedergewählte türkische Präsident"
+        }
+      ],
+      "occurences": {
+        "firstNameOnly": 0,
+        "fullName": 1,
+        "lastNameOnly": 1,
+        "total": 2
+      },
+      "quotedInIntro": false,
+      "quotedInTitle": false,
+      "sex": "male"
+    },
+
+    {
+      "age": -1,
+      "alternativeNames": [],
+      "birthday": null,
+      "descriptiveTexts": [
+        {
+          "text": "Zunächst hatte Erdoğan den angesehenen Ökonomen Mehmet Şimşek zum Finanzminister ernannt, jetzt folgt die nächste News: Die Bankerin Hafize Gaye Erkan soll die Leitung der türkischen Zentralbank übernehmen."
+        }
+      ],
+      "directQuotes": [],
+      "indirectQuotes": [],
+      "inIntro": false,
+      "inTitle": false,
+      "isMain": false,
+      "name": "Mehmet Şimşek",
+      "occupations": [
+        {
+          "text": "angesehener Ökonom"
+        },
+        {
+          "text": "Finanzminister"
+        }
+      ],
+      "occurences": {
+        "firstNameOnly": 0,
+        "fullName": 1,
+        "lastNameOnly": 0,
+        "total": 1
+      },
+      "quotedInIntro": false,
+      "quotedInTitle": false,
+      "sex": "male"
+    },
+
+    {
+      "age": -1,
+      "alternativeNames": [],
+      "birthday": null,
+      "descriptiveTexts": [
+        {
+          "text": "Zunächst hatte Erdoğan den angesehenen Ökonomen Mehmet Şimşek zum Finanzminister ernannt, jetzt folgt die nächste News: Die Bankerin Hafize Gaye Erkan soll die Leitung der türkischen Zentralbank übernehmen."
+        },
+        {
+          "text": "Damit holt der Präsident erneut eine Person von internationalem Format in sein «Team», in Erkans Lebenslauf stehen US-Adressen wie First Republic Bank oder Goldman Sachs."
+        },
+        {
+          "text": "Einen Umschwung am Finanzmarkt scheint auch diese Personalie allerdings nicht zu bewirken: Erkans Benennung zeichnet sich seit einigen Tagen ab – die Talfahrt der Lira konnte sie bislang nicht aufhalten."
+        },
+        {
+          "text": "Entspannte Notenbankpolitik in China: Zur chinesischen Notenbank kann die neue türkische Zentralbankchefin nur mit Neid hinüberblinzeln."
+        }
+      ],
+      "directQuotes": [],
+      "indirectQuotes": [],
+      "inIntro": false,
+      "inTitle": false,
+      "isMain": true,
+      "name": "Hafize Gaye Erkan",
+      "occupations": [
+        {
+          "text": "Bankerin"
+        },
+        {
+          "text": "Leitung der türkischen Zentralbank"
+        }
+      ],
+      "occurences": {
+        "firstNameOnly": 0,
+        "fullName": 1,
+        "lastNameOnly": 2,
+        "total": 3
+      },
+      "quotedInIntro": false,
+      "quotedInTitle": false,
+      "sex": "female"
+    },
+
+    {
+      "age": -1,
+      "alternativeNames": [],
+      "birthday": null,
+      "descriptiveTexts": [
+        {
+          "text": "Der Staatskonzern ist ein Paradoxon, sagt Kollege Michael Machatschke, der Bahn-Kenner in unserer Redaktion."
+        },
+        {
+          "text": "Wegen des Klimawandels und der Energiewende wird sein Produkt für die Bundesregierung immer wichtiger – doch die Leistung des Bahn-Managements um CEO Richard Lutz wird nachweislich immer schlechter, ohne dass der zuständige Verkehrsminister Volker Wissing (FDP) dagegen einschreiten würde."
+        },
+        {
+          "text": "Warum das so ist und welche Folgen Deutschland und Millionen Bahnfahrern drohen, erläutert Kollege Machatschke im Gespräch mit mm-Chefredakteur Sven Clausen."
+        }
+      ],
+      "directQuotes": [],
+      "indirectQuotes": [],
+      "inIntro": false,
+      "inTitle": false,
+      "isMain": false,
+      "name": "Michael Machatschke",
+      "occupations": [
+        {
+          "text": "Kollege von Christoph Rottwilm"
+        },
+        {
+          "text": "der Bahn-Kenner"
+        }
+      ],
+      "occurences": {
+        "firstNameOnly": 0,
+        "fullName": 1,
+        "lastNameOnly": 1,
+        "total": 2
+      },
+      "quotedInIntro": false,
+      "quotedInTitle": false,
+      "sex": "male"
+    },
+
+    {
+      "age": -1,
+      "alternativeNames": [],
+      "birthday": null,
+      "descriptiveTexts": [
+        {
+          "text": "Wegen des Klimawandels und der Energiewende wird sein Produkt für die Bundesregierung immer wichtiger – doch die Leistung des Bahn-Managements um CEO Richard Lutz wird nachweislich immer schlechter, ohne dass der zuständige Verkehrsminister Volker Wissing (FDP) dagegen einschreiten würde."
+        }
+      ],
+      "directQuotes": [],
+      "indirectQuotes": [],
+      "inIntro": false,
+      "inTitle": false,
+      "isMain": false,
+      "name": "Richard Lutz",
+      "occupations": [
+        {
+          "text": "CEO"
+        }
+      ],
+      "occurences": {
+        "firstNameOnly": 0,
+        "fullName": 1,
+        "lastNameOnly": 0,
+        "total": 1
+      },
+      "quotedInIntro": false,
+      "quotedInTitle": false,
+      "sex": "male"
+    },
+
+    {
+      "age": -1,
+      "alternativeNames": [],
+      "birthday": null,
+      "descriptiveTexts": [
+        {
+          "text": "Wegen des Klimawandels und der Energiewende wird sein Produkt für die Bundesregierung immer wichtiger – doch die Leistung des Bahn-Managements um CEO Richard Lutz wird nachweislich immer schlechter, ohne dass der zuständige Verkehrsminister Volker Wissing (FDP) dagegen einschreiten würde."
+        },
+        {
+          "text": "Warum das so ist und welche Folgen Deutschland und Millionen Bahnfahrern drohen, erläutert Kollege Machatschke im Gespräch mit mm-Chefredakteur Sven Clausen."
+        }
+      ],
+      "directQuotes": [],
+      "indirectQuotes": [],
+      "inIntro": false,
+      "inTitle": false,
+      "isMain": false,
+      "name": "Volker Wissing",
+      "occupations": [
+        {
+          "text": "Verkehrsminister"
+        }
+      ],
+      "occurences": {
+        "firstNameOnly": 0,
+        "fullName": 1,
+        "lastNameOnly": 0,
+        "total": 1
+      },
+      "quotedInIntro": false,
+      "quotedInTitle": false,
+      "sex": "male"
+    },
+
+    {
+      "age": -1,
+      "alternativeNames": [],
+      "birthday": null,
+      "descriptiveTexts": [
+        {
+          "text": "Warum das so ist und welche Folgen Deutschland und Millionen Bahnfahrern drohen, erläutert Kollege Machatschke im Gespräch mit mm-Chefredakteur Sven Clausen."
+        }
+      ],
+      "directQuotes": [],
+      "indirectQuotes": [],
+      "inIntro": false,
+      "inTitle": false,
+      "isMain": false,
+      "name": "Sven Clausen",
+      "occupations": [
+        {
+          "text": "mm-Chefredakteur"
+        }
+      ],
+      "occurences": {
+        "firstNameOnly": 0,
+        "fullName": 1,
+        "lastNameOnly": 0,
+        "total": 1
+      },
+      "quotedInIntro": false,
+      "quotedInTitle": false,
+      "sex": "male"
+    },
+
+    {
+      "age": -1,
+      "alternativeNames": [],
+      "birthday": null,
+      "descriptiveTexts": [
+        {
+          "text": "Wenn Tennisprofi Alexander Zverev heute Abend bei den French Open in Paris um den Finaleinzug kämpft, spielt auch künstliche Intelligenz eine Rolle."
+        },
+        {
+          "text": "Zverev setzt Hightech beim Training ein, mit einer Virtual-Reality-Brille auf dem Kopf arbeitet er regelmäßig daran, seine Körperkontrolle zu verbessern."
+        },
+        {
+          "text": "Damit ist der Spitzensportler nur einer von vielen: Kollegin Elisabeth Schönert berichtet vom Trend der Elite, die den jüngsten Schub in der Digitalisierung für ihre Hyperoptimierung nutzt."
+        }
+      ],
+      "directQuotes": [],
+      "indirectQuotes": [],
+      "inIntro": false,
+      "inTitle": false,
+      "isMain": true,
+      "name": "Alexander Zverev",
+      "occupations": [
+        {
+          "text": "Tennisprofi"
+        },
+        {
+          "text": "Spitzensportler"
+        }
+      ],
+      "occurences": {
+        "firstNameOnly": 0,
+        "fullName": 1,
+        "lastNameOnly": 1,
+        "total": 2
+      },
+      "quotedInIntro": false,
+      "quotedInTitle": false,
+      "sex": "male"
+    },
+
+    {
+      "age": -1,
+      "alternativeNames": [],
+      "birthday": null,
+      "descriptiveTexts": [
+        {
+          "text": "Damit ist der Spitzensportler nur einer von vielen: Kollegin Elisabeth Schönert berichtet vom Trend der Elite, die den jüngsten Schub in der Digitalisierung für ihre Hyperoptimierung nutzt."
+        }
+      ],
+      "directQuotes": [],
+      "indirectQuotes": [],
+      "inIntro": false,
+      "inTitle": false,
+      "isMain": false,
+      "name": "Elisabeth Schönert",
+      "occupations": [
+        {
+          "text": "Kollegin von Christoph Rottwilm"
+        }
+      ],
+      "occurences": {
+        "firstNameOnly": 0,
+        "fullName": 1,
+        "lastNameOnly": 0,
+        "total": 1
+      },
+      "quotedInIntro": false,
+      "quotedInTitle": false,
+      "sex": "female"
+    },
+
+    {
+      "age": -1,
+      "alternativeNames": [],
+      "birthday": null,
+      "descriptiveTexts": [
+        {
+          "text": "Hannovers letztem König Georg V. diente die Insel schon vor mehr als 100 Jahren als Sommersitz, Feingeister wie Heinrich Heine, Franz Kafka oder Theodor Fontane kamen ebenso regelmäßig wie später die Bundespräsidenten Horst Köhler und Christian Wulff."
+        }
+      ],
+      "directQuotes": [],
+      "indirectQuotes": [],
+      "inIntro": false,
+      "inTitle": false,
+      "isMain": false,
+      "name": "Georg V.",
+      "occupations": [
+        {
+          "text": "Hannovers letztem König"
+        }
+      ],
+      "occurences": {
+        "firstNameOnly": 0,
+        "fullName": 1,
+        "lastNameOnly": 0,
+        "total": 1
+      },
+      "quotedInIntro": false,
+      "quotedInTitle": false,
+      "sex": "male"
+    },
+    
+    {
+      "age": -1,
+      "alternativeNames": [],
+      "birthday": null,
+      "descriptiveTexts": [
+        {
+          "text": "Hannovers letztem König Georg V. diente die Insel schon vor mehr als 100 Jahren als Sommersitz, Feingeister wie Heinrich Heine, Franz Kafka oder Theodor Fontane kamen ebenso regelmäßig wie später die Bundespräsidenten Horst Köhler und Christian Wulff."
+        }
+      ],
+      "directQuotes": [],
+      "indirectQuotes": [],
+      "inIntro": false,
+      "inTitle": false,
+      "isMain": false,
+      "name": "Heinrich Heine",
+      "occupations": [
+        {
+          "text": "Feingeist"
+        }
+      ],
+      "occurences": {
+        "firstNameOnly": 0,
+        "fullName": 1,
+        "lastNameOnly": 0,
+        "total": 1
+      },
+      "quotedInIntro": false,
+      "quotedInTitle": false,
+      "sex": "male"
+    },
+    
+    {
+      "age": -1,
+      "alternativeNames": [],
+      "birthday": null,
+      "descriptiveTexts": [
+        {
+          "text": "Hannovers letztem König Georg V. diente die Insel schon vor mehr als 100 Jahren als Sommersitz, Feingeister wie Heinrich Heine, Franz Kafka oder Theodor Fontane kamen ebenso regelmäßig wie später die Bundespräsidenten Horst Köhler und Christian Wulff."
+        }
+      ],
+      "directQuotes": [],
+      "indirectQuotes": [],
+      "inIntro": false,
+      "inTitle": false,
+      "isMain": false,
+      "name": "Franz Kafka",
+      "occupations": [
+        {
+          "text": "Feingeist"
+        }
+      ],
+      "occurences": {
+        "firstNameOnly": 0,
+        "fullName": 1,
+        "lastNameOnly": 0,
+        "total": 1
+      },
+      "quotedInIntro": false,
+      "quotedInTitle": false,
+      "sex": "male"
+    },
+    
+    {
+      "age": -1,
+      "alternativeNames": [],
+      "birthday": null,
+      "descriptiveTexts": [
+        {
+          "text": "Hannovers letztem König Georg V. diente die Insel schon vor mehr als 100 Jahren als Sommersitz, Feingeister wie Heinrich Heine, Franz Kafka oder Theodor Fontane kamen ebenso regelmäßig wie später die Bundespräsidenten Horst Köhler und Christian Wulff."
+        }
+      ],
+      "directQuotes": [],
+      "indirectQuotes": [],
+      "inIntro": false,
+      "inTitle": false,
+      "isMain": false,
+      "name": "Theodor Fontane",
+      "occupations": [
+        {
+          "text": "Feingeist"
+        }
+      ],
+      "occurences": {
+        "firstNameOnly": 0,
+        "fullName": 1,
+        "lastNameOnly": 0,
+        "total": 1
+      },
+      "quotedInIntro": false,
+      "quotedInTitle": false,
+      "sex": "male"
+    },
+
+    {
+      "age": -1,
+      "alternativeNames": [],
+      "birthday": null,
+      "descriptiveTexts": [
+        {
+          "text": "Hannovers letztem König Georg V. diente die Insel schon vor mehr als 100 Jahren als Sommersitz, Feingeister wie Heinrich Heine, Franz Kafka oder Theodor Fontane kamen ebenso regelmäßig wie später die Bundespräsidenten Horst Köhler und Christian Wulff."
+        }
+      ],
+      "directQuotes": [],
+      "indirectQuotes": [],
+      "inIntro": false,
+      "inTitle": false,
+      "isMain": false,
+      "name": "Horst Köhler",
+      "occupations": [
+        {
+          "text": "Bundespräsident"
+        }
+      ],
+      "occurences": {
+        "firstNameOnly": 0,
+        "fullName": 1,
+        "lastNameOnly": 0,
+        "total": 1
+      },
+      "quotedInIntro": false,
+      "quotedInTitle": false,
+      "sex": "male"
+    },
+
+    {
+      "age": -1,
+      "alternativeNames": [],
+      "birthday": null,
+      "descriptiveTexts": [
+        {
+          "text": "Hannovers letztem König Georg V. diente die Insel schon vor mehr als 100 Jahren als Sommersitz, Feingeister wie Heinrich Heine, Franz Kafka oder Theodor Fontane kamen ebenso regelmäßig wie später die Bundespräsidenten Horst Köhler und Christian Wulff."
+        }
+      ],
+      "directQuotes": [],
+      "indirectQuotes": [],
+      "inIntro": false,
+      "inTitle": false,
+      "isMain": false,
+      "name": "Christian Wulff",
+      "occupations": [
+        {
+          "text": "Bundespräsident"
+        }
+      ],
+      "occurences": {
+        "firstNameOnly": 0,
+        "fullName": 1,
+        "lastNameOnly": 0,
+        "total": 1
+      },
+      "quotedInIntro": false,
+      "quotedInTitle": false,
+      "sex": "male"
+    },
+
+    {
+      "age": -1,
+      "alternativeNames": [],
+      "birthday": null,
+      "descriptiveTexts": [
+        {
+          "text": "In den 90er Jahren verlor Norderney jedoch viel von seinem Charme – bis vor einigen Jahren die Brüder Marc und Jens Brune auf die Insel aufmerksam wurden."
+        },
+        {
+          "text": "Der eine Architekt, der andere Hotelier, begannen die beiden Unternehmer aus Bremen, Norderney umzugestalten."
+        },
+        {
+          "text": "Mit Geld und Geschmack, wie meine Kollegin Viola Keeve schreibt, schufen sie eine Art neues Sylt – nur lässiger."
+        }
+      ],
+      "directQuotes": [],
+      "indirectQuotes": [],
+      "inIntro": false,
+      "inTitle": false,
+      "isMain": false,
+      "name": "Marc Brune",
+      "occupations": [
+        {
+          "text": "Architekt"
+        },
+        {
+          "text": "Unternehmer"
+        }
+      ],
+      "occurences": {
+        "firstNameOnly": 0,
+        "fullName": 0,
+        "lastNameOnly": 1,
+        "total": 1
+      },
+      "quotedInIntro": false,
+      "quotedInTitle": false,
+      "sex": "male"
+    },
+
+    {
+      "age": -1,
+      "alternativeNames": [],
+      "birthday": null,
+      "descriptiveTexts": [
+        {
+          "text": "In den 90er Jahren verlor Norderney jedoch viel von seinem Charme – bis vor einigen Jahren die Brüder Marc und Jens Brune auf die Insel aufmerksam wurden."
+        },
+        {
+          "text": "Der eine Architekt, der andere Hotelier, begannen die beiden Unternehmer aus Bremen, Norderney umzugestalten."
+        },
+        {
+          "text": "Mit Geld und Geschmack, wie meine Kollegin Viola Keeve schreibt, schufen sie eine Art neues Sylt – nur lässiger."
+        }
+      ],
+      "directQuotes": [],
+      "indirectQuotes": [],
+      "inIntro": false,
+      "inTitle": false,
+      "isMain": false,
+      "name": "Jens Brune",
+      "occupations": [
+        {
+          "text": "Hotelier"
+        },
+        {
+          "text": "Unternehmer"
+        }
+      ],
+      "occurences": {
+        "firstNameOnly": 0,
+        "fullName": 1,
+        "lastNameOnly": 0,
+        "total": 1
+      },
+      "quotedInIntro": false,
+      "quotedInTitle": false,
+      "sex": "male"
+    },
+
+    {
+      "age": -1,
+      "alternativeNames": [],
+      "birthday": null,
+      "descriptiveTexts": [
+        {
+          "text": "Mit Geld und Geschmack, wie meine Kollegin Viola Keeve schreibt, schufen sie eine Art neues Sylt – nur lässiger."
+        },
+        {
+          "text": "Jetzt steht die nächste Ausbaustufe bevor, und Kollegin Keeve verrät Ihnen in ihrem Inselporträt, wie die aussehen soll."
+        }
+      ],
+      "directQuotes": [],
+      "indirectQuotes": [],
+      "inIntro": false,
+      "inTitle": false,
+      "isMain": false,
+      "name": "Viola Keeve",
+      "occupations": [
+        {
+          "text": "Kollegin von Christoph Rottwilm"
+        }
+      ],
+      "occurences": {
+        "firstNameOnly": 0,
+        "fullName": 1,
+        "lastNameOnly": 1,
+        "total": 2
+      },
+      "quotedInIntro": false,
+      "quotedInTitle": false,
+      "sex": "female"
+    },
+
+    {
+      "age": -1,
+      "alternativeNames": [],
+      "birthday": null,
+      "descriptiveTexts": [
+        {
+          "text": "Beste Grüße, Ihr Christoph Rottwilm"
+        }
+        
+      ],
+      "directQuotes": [],
+      "indirectQuotes": [],
+      "inIntro": false,
+      "inTitle": false,
+      "isMain": false,
+      "name": "Christoph Rottwilm",
+      "occupations": [],
+      "occurences": {
+        "firstNameOnly": 0,
+        "fullName": 1,
+        "lastNameOnly": 0,
+        "total": 1
+      },
+      "quotedInIntro": false,
+      "quotedInTitle": false,
+      "sex": "male"
+    }
+    
+    
+  ],
+  "subtopics": [
+    "Wirtschaftsnews",
+    "Nato-Manöver",
+    "Künstliche Intelligenz"
+  ]
+}

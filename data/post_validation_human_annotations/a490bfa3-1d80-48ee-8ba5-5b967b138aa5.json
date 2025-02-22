@@ -1,0 +1,75 @@
+{
+  "persons": [
+    {
+      "age": -1,
+      "alternativeNames": [],
+      "birthday": null,
+      "descriptiveTexts": [
+        {
+          "text": "Die meistgehörten Podcasts des manager magazins bislang in diesem Jahr. Platz 2: Techreporter Jonas Rest über die neuen rauen Sitten in Start-up-Deutschland."
+        },
+        {
+          "text": "Tech-Reporter Jonas Rest informiert, wie Zinswende, Kapitalknappheit und die neue Skepsis gegenüber nur halb ausgereiften Geschäftsmodellen die Berliner Start-up-Szene durcheinander rütteln."
+        }
+      ],
+      "directQuotes": [],
+      "indirectQuotes": [],
+      "inIntro": true,
+      "inTitle": false,
+      "isMain": true,
+      "name": "Jonas Rest",
+      "occupations": [
+        {
+          "text": "Techreporter "
+        }
+      ],
+      "occurences": {
+        "firstNameOnly": 0,
+        "fullName": 2,
+        "lastNameOnly": 0,
+        "total": 2
+      },
+      "quotedInIntro": false,
+      "quotedInTitle": false,
+      "sex": "male"
+    },
+
+    {
+      "age": -1,
+      "alternativeNames": [],
+      "birthday": null,
+      "descriptiveTexts": [
+        {
+          "text": "Hören Sie hier nacheinander die drei erfolgreichsten Podcasts aus der Reihe »Das Thema« mit Chefredakteur Sven Clausen."
+        },
+        {
+          "text": "Im Podcast »Das Thema« informiert Chefredakteur Sven Clausen jede Woche über den internen Recherchestand zu einem relevanten aktuellen und zugleich zukunftsträchtigen Thema der Wirtschaft."
+        }
+      ],
+      "directQuotes": [],
+      "inIntro": false,
+      "inTitle": false,
+      "indirectQuotes": [],
+      "isMain": false,
+      "name": "Sven Clausen",
+      "occupations": [
+        {
+          "text": "Chefredakteur"
+        }
+      ],
+      "occurences": {
+        "firstNameOnly": 0,
+        "fullName": 2,
+        "lastNameOnly": 0,
+        "total": 2
+      },
+      "quotedInIntro": false,
+      "quotedInTitle": false,
+      "sex": "male"
+    }
+  ],
+  "subtopics": [
+    "meistgehörten Podcasts",
+    "Startup"
+  ]
+}

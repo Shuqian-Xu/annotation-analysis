@@ -1,0 +1,579 @@
+{
+  "persons": [
+    {
+      "age": 41,
+      "alternativeNames": [
+        {
+          "text": "Tobi"
+        }
+      ],
+      "birthday": null,
+      "descriptiveTexts": [
+        {
+          "text": "Die Softwarefirma des deutschen Gründers Tobi Lütke gilt als Stern am Techhimmel und war zeitweise mehr als 200 Milliarden Dollar wert."
+        },
+        {
+          "text": "Den wohl erfolgreichsten deutschen Techgründer der vergangenen Jahre nennen alle bloß Tobi."
+        },
+        {
+          "text": "In Kanada hat der Auswanderer Tobias Lütke (41) sein Unternehmen Shopify zwischenzeitlich zur wertvollsten Firma des Landes ausgebaut – was ihn auf dem Papier zu einem der reichsten Deutschen machte."
+        },
+        {
+          "text": "Lütke verkauft Software an Händler, mit der sie Onlineshops möglichst einfach aufsetzen können."
+        },
+        {
+          "text": "Lütkes Pläne waren umfassend: Ihm schwebte eine Megaplattform vor; ein eigenes Logistikgeschäft etwa plante er, komplett eigenständig aufzubauen."
+        },
+        {
+          "text": "Shopify steuert hart um: Das Logistikgeschäft hat Lütke an das US-Unternehmen Flexport verkauft und einen Anteil an dem Dienstleister übernommen, der 2022 rund fünf Milliarden Dollar umsetzte."
+        },
+        {
+          "text": "Wie das klappen soll, erklärt der Shopify-Vorstand Bobby Morrison (51), dem Lütke kürzlich die Hälfte seiner Organisation anvertraut hat."
+        },
+        {
+          "text": "Tobi und das Unternehmen sind bisher für die technischen Fähigkeiten bekannt – jetzt soll auch unsere Go-to-Market-Strategie exzellent werden."
+        },
+        {
+          "text": "Tobi Lütke beschrieb Shopify vor rund drei Jahren im Interview als einen One-Stop-Shop für kleinere und mittlere Unternehmen."
+        },
+        {
+          "text": "Ein Beispiel: Tobi hat über ein Wochenende Zeit mit unserem KI-Team verbracht und eine KI-Funktion für die Shop-App programmiert, den Einkauf per Gespräch."
+        },
+        {
+          "text": "Davon gibt es nur sehr wenige auf diesem Planeten – und Tobi hat sich dazu verpflichtet, das zu erreichen."
+        }
+      ],
+      "directQuotes": [],
+      "indirectQuotes": [],
+      "inIntro": true,
+      "inTitle": false,
+      "isMain": false,
+      "name": "Tobias Lütke",
+      "occupations": [
+        {
+          "text": "erfolgreichster deutsche Techgründer"
+        }
+      ],
+      "occurences": {
+        "firstNameOnly": 0,
+        "fullName": 1,
+        "lastNameOnly": 4,
+        "total": 1
+      },
+      "quotedInIntro": false,
+      "quotedInTitle": false,
+      "sex": "male"
+    },
+
+    {
+      "age": 51,
+      "alternativeNames": [],
+      "birthday": null,
+      "descriptiveTexts": [
+        {
+          "text": "«Wir sind über unsere Verhältnisse gewachsen»"
+        },
+        {
+          "text": "Die Pläne erklärt Vorstand Bobby Morrison."
+        },
+        {
+          "text": "Wie das klappen soll, erklärt der Shopify-Vorstand Bobby Morrison (51), dem Lütke kürzlich die Hälfte seiner Organisation anvertraut hat."
+        },
+        {
+          "text": "Herr Morrison, Sie sind seit 10 Monaten Chief Revenue Officer bei Shopify."
+        },
+        {
+          "text": "Bobby Morrison: Shopify soll kommerziell stärker und operativ reifer werden."
+        },
+        {
+          "text": "Mein Team umfasst alle Bereiche, mit denen ein Kunde in Berührung kommt: das Marketing, unsere Vertriebs- und Partnerkanäle, den Kundenservice und die Programmierer für den Livegang neuer Produkte."
+        },    
+        {
+          "text": "Wo haben Sie den größten Nachholbedarf gesehen?"
+        },
+        {
+          "text": "Erst einmal haben wir unsere Strategie für die Markteinführung unserer Software angepasst."
+        },
+        {
+          "text": "Bei den Konzernkunden hatten wir zum Beispiel keine optimalen Prozesse: Die Ressourcen haben an einzelnen großen Klienten geklebt, was nicht effizient war."
+        },
+        {
+          "text": "Das haben wir umgebaut."
+        },
+        {
+          "text": "Jetzt arbeiten die gleichen Mitarbeiter für einen gleichen Kundenstamm, was viel mehr Kontinuität bringt."
+        },
+        {
+          "text": "So können wir uns genauer auf die Roadmaps der Konzerne einstellen und neue Produkte besser verkaufen."
+        },
+        {
+          "text": "Sie sind kein Technewbie, sondern haben bereits einige schwierige Zeiten in der Wirtschaft mitgemacht."
+        },
+        {
+          "text": "Wir haben das in unserem Geschäft nicht erlebt."
+        },
+        {
+          "text": "Im vierten Quartal 2022, und im ersten dieses Jahres sind wir stark gewachsen und haben gerade für die Börse unsere Prognose erhöht."
+        },
+        {
+          "text": "Ich glaube, dass es in der Branche eine Verschiebung gibt: Kunden wollen nicht mehr ihre eigenen Handelslösungen von Grund auf aufbauen."
+        },
+        {
+          "text": "Ja, wir glauben, dass wir da in einer ziemlich guten Position sind."
+        },
+        {
+          "text": "Laut einer von uns beauftragten Studie verfügt sie über die leistungsstärkste Checkout-Lösung aller Handelsplattformen."
+        },
+        {
+          "text": "Also keine Krise bei Shopify, sagen Sie."
+        },
+        {
+          "text": "Trotzdem haben Sie das Logistikgeschäft abgestoßen, und es gab es zwei massive Entlassungsrunden: Eine im Juli 2022, kurz bevor Sie Ihren Job antraten, und eine Anfang Mai, als noch mal 20 Prozent der Jobs gestrichen wurden."
+        },
+        {
+          "text": "Wir brauchen Schnelligkeit und Agilität, um auf dem Markt zu bestehen."
+        },
+        {
+          "text": "Deswegen wollen wir uns auf unser Hauptanliegen, unseren 'Main Quest', konzentrieren: alle Dinge, die mit dem Handel zu tun haben."
+        },
+        {
+          "text": "Wir mussten eine Entscheidung treffen, was wir mit der 'Side Quest'-Logistik machen."
+        },
+        {
+          "text": "Daher sind wir selbst gestartet, um von null auf 100 zu kommen."
+        },
+        {
+          "text": "Flexport ist unserer Meinung nach der beste Logistikanbieter für unsere Merchants und der richtige Partner, um den Bereich Logistik zukunftsfähig aufzustellen."
+        },
+        {
+          "text": "Wir haben uns immer auf Partnerschaften verlassen, wenn es um Dinge ging, die eindeutig nicht zu unserer Fachkompetenz zählen."
+        },
+        {
+          "text": "Bei der Bezahlung setzen wir zum Beispiel auf den Anbieter Stripe, der sich jeden Tag nur um Payment kümmert."
+        },
+        {
+          "text": "Da betrachten wir Flexport ganz ähnlich."
+        },
+        {
+          "text": "Klar hätten wir unsere Logistikfähigkeiten ausbauen können."
+        },
+        {
+          "text": "Aber wir glauben, dass eine Partnerschaft der beste Hebel ist."
+        },
+        {
+          "text": "Außerdem sind wir eine Beteiligung bei Flexport eingegangen, mit signifikantem Kapital."
+        },
+        {
+          "text": "Wir hatten das Gefühl, dass der richtige Zeitpunkt gekommen war, um das, was wir aufgebaut hatten, in ein solches Unternehmen einzubringen."
+        },
+        {
+          "text": "Wenn Sie sich nun wieder auf das Wesentliche konzentrieren, war Shopify dann vorher abgelenkt?"
+        },
+        {
+          "text": "Wir sind über unsere Verhältnisse gewachsen und mussten uns wieder konzentrieren."
+        },
+        {
+          "text": "Übrigens habe ich das in jedem Unternehmen erlebt: bei Microsoft, bei Verizon."
+        },
+        {
+          "text": "Das Gute ist, dass wir die Nebenfelder rasch identifizieren und extrem schnell umkehren können – wie bei der Logistik."
+        },
+        {
+          "text": "Was bedeutet die Umstrukturierung konkret für Ihre Arbeit?"
+        },
+        {
+          "text": "Wir müssen auf die Kunden blicken."
+        },
+        {
+          "text": "Wir wissen ja, dass es auf dem Markt wirtschaftliche Turbulenzen gibt, dass Kosten gesenkt werden müssen und dass es notwendig ist, Dinge auf unorthodoxe Weise zu tun."
+        },
+        {
+          "text": "Das müssen unsere Lösungen leisten, und sie müssen auf dem neuesten Stand bleiben."
+        },
+        {
+          "text": "Sie senkt die Betriebskosten und verändert die Customer Journey, was mir wahrscheinlich am meisten Spaß macht."
+        },
+        {
+          "text": "Ein Beispiel: Tobi hat über ein Wochenende Zeit mit unserem KI-Team verbracht und eine KI-Funktion für die Shop-App programmiert, den Einkauf per Gespräch."
+        },
+        {
+          "text": "Und das ist nur ein kleiner Teil der Möglichkeiten, wie wir KI einsetzen können."
+        },
+        {
+          "text": "Wir stehen heute an einem Wendepunkt, an dem sich dramatisch verändern wird, wie Kunden mit Marken in Kontakt treten werden."
+        },
+        {
+          "text": "Wie wirkt sich das auf Ihren Kundenstamm aus, und wie geht Shopify damit um?"
+        },
+        {
+          "text": "Wir versuchen den Händlern zu helfen, erfolgreich da herauszukommen."
+        },
+        {
+          "text": "Zweitens müssen wir Kunden weiter mit dem Partnerökosystem verbinden."
+        },
+        {
+          "text": "Wir haben 99.000 Partner und die bringen Spezialisierungen mit, die auf dem App-Marktplatz gebucht werden können."
+        },
+        {
+          "text": "Und der dritte Punkt ist, dass wir ein sehr starkes Kapitalgeschäft haben."
+        },
+        {
+          "text": "Wir können ihre Ertragsströme sehen und daher auf Basis der Daten Zugang zu Kapital geben, was Banken in vielen Fällen nicht tun würden."
+        },
+        {
+          "text": "Was bekommen Sie da von den Anlegern zu hören?"
+        },
+        {
+          "text": "Wir gehören zu der ersten Gruppe und unser Update wurde an der Börse gut aufgenommen."
+        },
+        {
+          "text": "Unsere Schritte waren eine Botschaft an die Öffentlichkeit, dass wir es mit der Rentabilität ernst meinen und bis zum Ende des Jahres einen positiven Cashflow erzielen werden."
+        },
+        {
+          "text": "Und wir übertreffen die Wachstumserwartungen, die wir im vierten Quartal geäußert haben."
+        },
+        {
+          "text": "Wir gehen davon aus, dass diese Zahl weiter steigen wird."
+        },
+        {
+          "text": "Aber was sagen Sie den Investoren, die zu einem Preis von 150 Dollar in die Aktie investiert haben?"
+        },
+        {
+          "text": "Unsere Investoren steigen zu den unterschiedlichsten Zeitpunkten ein."
+        },
+        {
+          "text": "Ich glaube, was sie wirklich suchen, ist das Unternehmen, das 100 Jahre lang Bestand hat."
+        },
+        {
+          "text": "Große Marken wie Tim Hortons, Ted Baker oder Seiko sind alle im ersten Quartal 2023 zu uns gekommen."
+        },
+        {
+          "text": "Wir werden größer und vielfältiger."
+        },
+        {
+          "text": "Solange wir das tun, was wir am besten können, denke ich, dass wir in einer ziemlich guten Verfassung sein werden."
+        },
+        {
+          "text": "Und ich denke, unsere Investoren werden das ebenfalls sein."
+        }
+      ],
+      "directQuotes": [
+        {
+          "text": "«Wir sind über unsere Verhältnisse gewachsen»"
+        },
+        {
+          "text": "Bobby Morrison: Shopify soll kommerziell stärker und operativ reifer werden."
+        },
+        {
+          "text": "Tobi und das Unternehmen sind bisher für die technischen Fähigkeiten bekannt – jetzt soll auch unsere Go-to-Market-Strategie exzellent werden."
+        },
+        {
+          "text": "Mein Team umfasst alle Bereiche, mit denen ein Kunde in Berührung kommt: das Marketing, unsere Vertriebs- und Partnerkanäle, den Kundenservice und die Programmierer für den Livegang neuer Produkte."
+        },
+        {
+          "text": "Etwa die Hälfte des Unternehmens ist in diesen Feldern tätig."
+        },
+        {
+          "text": "Erst einmal haben wir unsere Strategie für die Markteinführung unserer Software angepasst."
+        },
+        {
+          "text": "Bei den Konzernkunden hatten wir zum Beispiel keine optimalen Prozesse: Die Ressourcen haben an einzelnen großen Klienten geklebt, was nicht effizient war."
+        },
+        {
+          "text": "Das haben wir umgebaut."
+        },
+        {
+          "text": "Jetzt arbeiten die gleichen Mitarbeiter für einen gleichen Kundenstamm, was viel mehr Kontinuität bringt."
+        },
+        {
+          "text": "So können wir uns genauer auf die Roadmaps der Konzerne einstellen und neue Produkte besser verkaufen."
+        },
+        {
+          "text": "Da hatte es eine Lücke gegeben."
+        },
+        {
+          "text": "In einigen Teilen der Techbranche gibt es einen Abschwung."
+        },
+        {
+          "text": "Wir haben das in unserem Geschäft nicht erlebt."
+        },
+        {
+          "text": "Im vierten Quartal 2022, und im ersten dieses Jahres sind wir stark gewachsen und haben gerade für die Börse unsere Prognose erhöht."
+        },
+        {
+          "text": "Ich glaube, dass es in der Branche eine Verschiebung gibt: Kunden wollen nicht mehr ihre eigenen Handelslösungen von Grund auf aufbauen."
+        },
+        {
+          "text": "Sie wollen etwas haben, das 95 Prozent ihrer Anforderungen erfüllt."
+        },
+        {
+          "text": "Das soll Betriebskosten einsparen und sie können ihre Ressourcen anderswo einsetzen."
+        },
+        {
+          "text": "Ja, wir glauben, dass wir da in einer ziemlich guten Position sind."
+        },
+        {
+          "text": "Zum Beispiel mit der Komplettlösung für Konzerne."
+        },
+        {
+          "text": "Einige der größten Marken der Welt nutzen sie, zum Beispiel Samsonite, Heinz und Decathlon."
+        },
+        {
+          "text": "Laut einer von uns beauftragten Studie verfügt sie über die leistungsstärkste Checkout-Lösung aller Handelsplattformen."
+        },
+        {
+          "text": "Die Konversionsrate der Warenkörbe ist bis zu 36 Prozent höher als bei Salesforce und Commerce Cloud und 15 Prozent höher als bei den anderen untersuchten Anbietern."
+        },
+        {
+          "text": "Bei den Entlassungen kürzlich ging es wirklich darum, das Unternehmen für die Zukunft aufzustellen."
+        },
+        {
+          "text": "Wir brauchen Schnelligkeit und Agilität, um auf dem Markt zu bestehen."
+        },
+        {
+          "text": "Deswegen wollen wir uns auf unser Hauptanliegen, unseren 'Main Quest', konzentrieren: alle Dinge, die mit dem Handel zu tun haben."
+        },
+        {
+          "text": "Wir mussten eine Entscheidung treffen, was wir mit der 'Side Quest'-Logistik machen."
+        },
+        {
+          "text": "Als Shopify ins Logistikgeschäft eingestiegen ist, gab es den richtigen Partner nicht."
+        },
+        {
+          "text": "Daher sind wir selbst gestartet, um von null auf 100 zu kommen."
+        },
+        {
+          "text": "Flexport ist unserer Meinung nach der beste Logistikanbieter für unsere Merchants und der richtige Partner, um den Bereich Logistik zukunftsfähig aufzustellen."
+        },
+        {
+          "text": "Wir haben uns immer auf Partnerschaften verlassen, wenn es um Dinge ging, die eindeutig nicht zu unserer Fachkompetenz zählen."
+        },
+        {
+          "text": "Bei der Bezahlung setzen wir zum Beispiel auf den Anbieter Stripe, der sich jeden Tag nur um Payment kümmert."
+        },
+        {
+          "text": "Da betrachten wir Flexport ganz ähnlich."
+        },
+        {
+          "text": "Klar hätten wir unsere Logistikfähigkeiten ausbauen können."
+        },
+        {
+          "text": "Aber wir glauben, dass eine Partnerschaft der beste Hebel ist."
+        },
+        {
+          "text": "Außerdem sind wir eine Beteiligung bei Flexport eingegangen, mit signifikantem Kapital."
+        },
+        {
+          "text": "Es ist also bedeutsamer als bloß eine Zusammenarbeit."
+        },
+        {
+          "text": "Es lag eher daran, dass wir bei Flexport gesehen haben, dass sie skalieren und investieren."
+        },
+        {
+          "text": "Wir hatten das Gefühl, dass der richtige Zeitpunkt gekommen war, um das, was wir aufgebaut hatten, in ein solches Unternehmen einzubringen."
+        },
+        {
+          "text": "Die «Side Quests» waren Belastungen für das Geschäft."
+        },
+        {
+          "text": "Wir sind über unsere Verhältnisse gewachsen und mussten uns wieder konzentrieren."
+        },
+        {
+          "text": "Übrigens habe ich das in jedem Unternehmen erlebt: bei Microsoft, bei Verizon."
+        },
+        {
+          "text": "Man trifft eben eine Entscheidung nur mit den Informationen, die man gerade hat, und marschiert weiter."
+        },
+        {
+          "text": "Und diese Entscheidung hat ihren Preis: Die Kosten sind das Humankapital, die Zeit und die Aufmerksamkeit."
+        },
+        {
+          "text": "Das Gute ist, dass wir die Nebenfelder rasch identifizieren und extrem schnell umkehren können – wie bei der Logistik."
+        },
+        {
+          "text": "Andere Firmen sind fünf Jahre mit solchen Entscheidungen beschäftigt."
+        },
+        {
+          "text": "Dabei kann man mit dem Aufwand anderswo eine viel höhere Rendite erreichen."
+        },
+        {
+          "text": "Wir müssen auf die Kunden blicken."
+        },
+        {
+          "text": "Wir wissen ja, dass es auf dem Markt wirtschaftliche Turbulenzen gibt, dass Kosten gesenkt werden müssen und dass es notwendig ist, Dinge auf unorthodoxe Weise zu tun."
+        },
+        {
+          "text": "Das müssen unsere Lösungen leisten, und sie müssen auf dem neuesten Stand bleiben."
+        },
+        {
+          "text": "Künstliche Intelligenz (KI) zum Beispiel verändert die Art des digitalen Handels."
+        },
+        {
+          "text": "Sie senkt die Betriebskosten und verändert die Customer Journey, was mir wahrscheinlich am meisten Spaß macht."
+        },
+        {
+          "text": "Ein Beispiel: Tobi hat über ein Wochenende Zeit mit unserem KI-Team verbracht und eine KI-Funktion für die Shop-App programmiert, den Einkauf per Gespräch."
+        },
+        {
+          "text": "Das funktioniert so: Sie können sagen, dass Sie zu einer Abendveranstaltung gehen."
+        },
+        {
+          "text": "Der Bot wird dann Fragen stellen: Ist es drinnen oder draußen, ist es formell?"
+        },
+        {
+          "text": "Was genau ist der Anlass?"
+        },
+        {
+          "text": "Und wird dann Outfits und Dinge zusammenstellen, die Sie vielleicht brauchen."
+        },
+        {
+          "text": "Man muss sich also nicht mehr durch mehrere Websites wühlen, sondern der KI-basierte Shopping Assistent sucht über viele Plattformen hinweg oder innerhalb eines Geschäfts und legt alles in einem Warenkorb ab."
+        },
+        {
+          "text": "Und das ist nur ein kleiner Teil der Möglichkeiten, wie wir KI einsetzen können."
+        },
+        {
+          "text": "Richtig."
+        },
+        {
+          "text": "Wir stehen heute an einem Wendepunkt, an dem sich dramatisch verändern wird, wie Kunden mit Marken in Kontakt treten werden."
+        },
+        {
+          "text": "Und das Kaufverhalten und das Kauferlebnis werden in Zukunft ganz anders aussehen."
+        },
+        {
+          "text": "Es sind 'Boom oder Bust'-Zeiten."
+        },
+        {
+          "text": "Wir versuchen den Händlern zu helfen, erfolgreich da herauszukommen."
+        },
+        {
+          "text": "Dazu drei Punkte: Mit einem Benchmarking prüfen wir die Website der Händler und helfen, sie zu optimieren, damit die Konversionsraten und der Umsatz steigen."
+        },
+        {
+          "text": "Jeder kann sich bei unserer Support-Gruppe melden."
+        },
+        {
+          "text": "Zweitens müssen wir Kunden weiter mit dem Partnerökosystem verbinden."
+        },
+        {
+          "text": "Wir haben 99.000 Partner und die bringen Spezialisierungen mit, die auf dem App-Marktplatz gebucht werden können."
+        },
+        {
+          "text": "Ob es nun darum geht, die Website mit verschiedenen CRM-Funktionen anzureichern oder ein Warenwirtschaftssystem am Backend zu entwickeln."
+        },
+        {
+          "text": "Und der dritte Punkt ist, dass wir ein sehr starkes Kapitalgeschäft haben."
+        },
+        {
+          "text": "Der Lebensnerv kleiner Unternehmen ist der Cashflow."
+        },
+        {
+          "text": "Wir können ihre Ertragsströme sehen und daher auf Basis der Daten Zugang zu Kapital geben, was Banken in vielen Fällen nicht tun würden."
+        },
+        {
+          "text": "Der globale Markt ist nach Covid durch einen Reset gegangen, das ist keine Shopify-Sache."
+        },
+        {
+          "text": "Der Unterschied ist, dass es einige gibt, die Wege finden, weiterzuwachsen."
+        },
+        {
+          "text": "Andere stagnieren oder fallen zurück."
+        },
+        {
+          "text": "Wir gehören zu der ersten Gruppe und unser Update wurde an der Börse gut aufgenommen."
+        },
+        {
+          "text": "Unsere Schritte waren eine Botschaft an die Öffentlichkeit, dass wir es mit der Rentabilität ernst meinen und bis zum Ende des Jahres einen positiven Cashflow erzielen werden."
+        },
+        {
+          "text": "Und wir übertreffen die Wachstumserwartungen, die wir im vierten Quartal geäußert haben."
+        },
+        {
+          "text": "10 Prozent des US-Handels laufen über Shopify."
+        },
+        {
+          "text": "Wir gehen davon aus, dass diese Zahl weiter steigen wird."
+        },
+        {
+          "text": "Unsere Investoren steigen zu den unterschiedlichsten Zeitpunkten ein."
+        },
+        {
+          "text": "Ich glaube, was sie wirklich suchen, ist das Unternehmen, das 100 Jahre lang Bestand hat."
+        },
+        {
+          "text": "Davon gibt es nur sehr wenige auf diesem Planeten – und Tobi hat sich dazu verpflichtet, das zu erreichen."
+        },
+        {
+          "text": "Große Marken wie Tim Hortons, Ted Baker oder Seiko sind alle im ersten Quartal 2023 zu uns gekommen."
+        },
+        {
+          "text": "Wir werden größer und vielfältiger."
+        },
+        {
+          "text": "Solange wir das tun, was wir am besten können, denke ich, dass wir in einer ziemlich guten Verfassung sein werden."
+        },
+        {
+          "text": "Und ich denke, unsere Investoren werden das ebenfalls sein."
+        }
+      ],
+      "indirectQuotes": [],
+      "inIntro": true,
+      "inTitle": false,
+      "isMain": true,
+      "name": "Bobby Morrison",
+      "occupations": [
+        {
+          "text": "Shopify-Vorstand"
+        },
+        {
+          "text": "Chief Revenue Officer bei Shopify"
+        }
+      ],
+      "occurences": {
+        "firstNameOnly": 0,
+        "fullName": 3,
+        "lastNameOnly": 1,
+        "total": 4
+      },
+      "quotedInIntro": false,
+      "quotedInTitle": true,
+      "sex": "male"
+    },
+
+    {
+      "age": 37,
+      "alternativeNames": [],
+      "birthday": null,
+      "descriptiveTexts": [
+        {
+          "text": "Zuletzt fielen Anfang Mai 20 Prozent der mehr als 11.000 Stellen weg, obwohl Shopify-Präsident Harley Finkelstein (37) erst im Februar versichert hatte, keine weiteren Kürzungen stünden ist Haus."
+        }
+      ],
+      "directQuotes": [],
+      "indirectQuotes": [],
+      "inIntro": false,
+      "inTitle": false,
+      "isMain": false,
+      "name": "Harley Finkelstein",
+      "occupations": [
+        {
+          "text": "Shopify-Präsident"
+        }
+      ],
+      "occurences": {
+        "firstNameOnly": 0,
+        "fullName": 1,
+        "lastNameOnly": 0,
+        "total": 1
+      },
+      "quotedInIntro": false,
+      "quotedInTitle": false,
+      "sex": "male"
+    }
+  ],
+  "subtopics": [
+    "Techunternehmen",
+    "Erfolgsstrategie"
+  ]
+}

@@ -1,0 +1,221 @@
+{
+  "persons": [
+    {
+      "age": 30,
+      "alternativeNames": [],
+      "birthday": null,
+      "descriptiveTexts": [
+        {
+          "text": "Tam Truongs Eltern kamen aus Vietnam in die DDR, sie fühlt sich als »Ossi durch und durch«."
+        },
+        {
+          "text": "Tam Truong war acht Jahre alt, als sie zum ersten Mal mit dem Hitlergruß begrüßt wurde."
+        },
+        {
+          "text": "Ein Mädchen, »blauer Rucksack, schwarze Haare«, so erinnert sich die 30-Jährige bis heute, habe sie beim Aussteigen aus der Straßenbahn gegrüßt."
+        },
+        {
+          "text": "Truong erzählt von aufgeschlitzten Autoreifen und Farbbeutelattacken, von Briefen mit Hakenkreuzen, von »Reisfresser«- und »Schlitzauge«-Rufen, die ihre Kindheit begleiteten."
+        },
+        {
+          "text": "Truong kennt diesen Alltagsrassismus."
+        },
+        {
+          "text": "Ein Bekannter fragte, ob sie und ihr deutscher Freund jetzt jeden Tag Reis essen würden und immer Stäbchen verwenden würden."
+        },
+        {
+          "text": "»Das fand ich nicht witzig«, sagt Truong heute."
+        },
+        {
+          "text": "Wenn Truong spricht, dann erinnert sie sich an kleinste Details solcher Erlebnisse, zugleich erzählt sie distanziert."
+        },
+        {
+          "text": "»Man weiß, wie unberechenbar solche Leute sein können«, sagt sie über Neonazis."
+        },
+        {
+          "text": "Ihre Eltern kamen 1988 aus Vietnam als Vertragsarbeitende in die DDR, lebten zunächst im Erzgebirge, dann in Chemnitz und Plauen."
+        },
+        {
+          "text": "Truong kam in Chemnitz zur Welt, seit gut 20 Jahren lebt sie mit ihrer Familie in Gera in Ostthüringen."
+        },
+        {
+          "text": "Truong und ich haben hier die gleiche Schule besucht, hatten die gleiche Mathematiklehrerin, gingen in die gleichen Klubs – nur einige Jahre versetzt."
+        },
+        {
+          "text": "Als ich mein Abitur machte, war Truong erst in der fünften Klasse."
+        },
+        {
+          "text": "Ich bin nach dem Abi rasch weggezogen, sie kehrte nach fünf Jahren Studium in Leipzig heim."
+        },
+        {
+          "text": "Nun will ich wissen: Was hält sie hier?"
+        },
+        {
+          "text": "»Ich bin wirklich gern hier«, sagt sie."
+        },
+        {
+          "text": "Sie liebe die Nähe zu ihren Freunden und Eltern, eine Großstadt wäre ihr zu trubelig."
+        },
+        {
+          "text": "Im Herzen von Gera hat sie ein Tattoostudio eröffnet, das »Nadelgold«."
+        },
+        {
+          "text": "An den Wänden hängen von Truong gemalte Bilder, in einem Körbchen schnarcht eine kleine Dogge."
+        },
+        {
+          "text": "Eine Straße weiter betreiben Truongs Eltern ein Obst- und Gemüsegeschäft."
+        },
+        {
+          "text": "Wer heute das Geschäft der Truongs besucht, findet einen aufgeräumten und reich gefüllten Laden."
+        },
+        {
+          "text": "Im Sommer spazierte Tam Truong mit ihrer Tochter zufällig an einer AfD-Kundgebung vorbei, sie fühlte sich an die Neonazi-Konzerte in unserer Jugendzeit erinnert."
+        },
+        {
+          "text": "»Es waren die gleichen Parolen, der gleiche Sound, ähnliche Plakate.«"
+        },
+        {
+          "text": "Dennoch gehe sie nicht in Angst durch ihre Stadt. »Im Osten sind die Menschen offenherziger«, man komme schneller zusammen, sagt sie."
+        },
+        {
+          "text": "Es gab die netten Nachbarn, die für ihre Eltern die Schulbesuche übernahmen und ihr bei Hausaufgaben halfen."
+        },
+        {
+          "text": "Truong führt ein Leben mit zwei Identitäten. Sie mag die Traditionen ihrer vietnamesischen Eltern, sagt sie."
+        },
+        {
+          "text": "Zugleich sei sie Ossi durch und durch."
+        },
+        {
+          "text": "»Ich könnte mir nie vorstellen, woanders zu leben«, sagt sie."
+        },
+        {
+          "text": "Es gibt Menschen wie Truong, die hier etwas aufbauen, Heimat finden."
+        },
+        {
+          "text": "Im Schaufenster ihres Tattoostudios hat Truong goldene Folie aufgehängt."
+        }
+      ],
+      "directQuotes": [
+        {
+          "text": "»Ossi durch und durch«"
+        },
+        {
+          "text": "»blauer Rucksack, schwarze Haare«"
+        },
+        {
+          "text": "»Ich habe glücklich zurückgewinkt, dann lachte sie mich aus.«"
+        },
+        {
+          "text": "»Das fand ich nicht witzig«"
+        },
+        {
+          "text": "»Man weiß, wie unberechenbar solche Leute sein können«"
+        },
+        {
+          "text": "»Man«, nicht »ich«"
+        },
+        {
+          "text": "»Ich bin wirklich gern hier«"
+        },
+        {
+          "text": "»Es waren die gleichen Parolen, der gleiche Sound, ähnliche Plakate.«"
+        },
+        {
+          "text": "»Im Osten sind die Menschen offenherziger«, man komme schneller zusammen."
+        },
+        {
+          "text": "»Es gibt hier viel Hilfsbereitschaft.«"
+        },
+        {
+          "text": "»Ich könnte mir nie vorstellen, woanders zu leben.«"
+        }
+      ],
+      "inIntro": true,
+      "inTitle": false,
+      "indirectQuotes": [],
+      "isMain": true,
+      "name": "Tam Truong",
+      "occupations": [
+        {
+          "text": "Tattoostudio Besitzer"
+        }
+      ],
+      "occurences": {
+        "firstNameOnly": 0,
+        "fullName": 3,
+        "lastNameOnly": 14,
+        "total": 17
+      },
+      "quotedInIntro": true,
+      "quotedInTitle": false,
+      "sex": "female"
+    },
+    {
+      "age": -1,
+      "alternativeNames": [],
+      "birthday": null,
+      "descriptiveTexts": [
+        {
+          "text": "Nahe Truongs Tattoostudio hat der direkt gewählte Geraer AfD-Abgeordnete und Höcke-Vertraute Stephan Brandner sein Wahlkreisbüro."
+        },
+        {
+          "text": "Er ist wie Höcke gebürtiger Westdeutscher, hat aber den Osten als Spielwiese für seine Ideologien auserkoren."
+        }
+      ],
+      "directQuotes": [],
+      "inIntro": false,
+      "inTitle": false,
+      "indirectQuotes": [],
+      "isMain": false,
+      "name": "Stephan Brandner",
+      "occupations": [
+        {
+          "text": "Höcke-Vertrauter"
+        }
+      ],
+      "occurences": {
+        "firstNameOnly": 0,
+        "fullName": 1,
+        "lastNameOnly": 0,
+        "total": 1
+      },
+      "quotedInIntro": false,
+      "quotedInTitle": false,
+      "sex": "male"
+    },
+    {
+      "age": -1,
+      "alternativeNames": [],
+      "birthday": null,
+      "descriptiveTexts": [
+        {
+          "text": "Nahe Truongs Tattoostudio hat der direkt gewählte Geraer AfD-Abgeordnete und Höcke-Vertraute Stephan Brandner sein Wahlkreisbüro."
+        },
+        {
+          "text": "Er ist wie Höcke gebürtiger Westdeutscher, hat aber den Osten als Spielwiese für seine Ideologien auserkoren."
+        }
+      ],
+      "directQuotes": [],
+      "inIntro": false,
+      "inTitle": false,
+      "indirectQuotes": [],
+      "isMain": false,
+      "name": "Höcke",
+      "occupations": [],
+      "occurences": {
+        "firstNameOnly": 0,
+        "fullName": 0,
+        "lastNameOnly": 2,
+        "total": 2
+      },
+      "quotedInIntro": false,
+      "quotedInTitle": false,
+      "sex": "male"
+    }
+  ],
+  "subtopics": [
+    "Rassismus",
+    "Kulturelleidentitaet"
+  ]
+}

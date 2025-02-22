@@ -1,0 +1,442 @@
+{
+  "persons": [
+    {
+      "age": -1,
+      "alternativeNames": [],
+      "birthday": null,
+      "descriptiveTexts": [
+        {
+          "text": "Heute mit zehn Milliarden Euro Subventionen für Intel, geldwerten Infos für deutsche Managerinnen und Manager in den USA und einem lukrativen Nebenjob für Marcus Diekmann."
+        },
+        {
+          "text": "Der Gründer, Berater und Investor Marcus Diekmann sucht bekanntlich einen Job als Topmanager, wobei ihn mein Kollege Lukas Heiny eng begleitet – dokumentiert in unserer Serie «Löwe sucht Höhle»."
+        },
+        {
+          "text": "Heute präsentiert Ihnen Kollege Heiny Teil drei – und darin nehmen die Ereignisse eine neue Wendung: Diekmann heuert bei Intumind an, einem Start-up aus Düsseldorf, das digitale Wohlfühl-Coachings anbietet."
+        },
+        {
+          "text": "Doch Diekmann ist offenbar angetan von Intumind und auch von dessen Mitgründerin und Star-Influencerin Mareike Awe – er unterschrieb einen Beratervertrag im Gesamtvolumen von 300.000 Euro."
+        },
+        {
+          "text": "Jetzt hat er zumindest schon mal einen lukrativen Nebenjob."
+        }
+      ],
+      "directQuotes": [],
+      "indirectQuotes": [],
+      "inIntro": false,
+      "inTitle": false,
+      "isMain": true,
+      "name": "Marcus Diekmann",
+      "occupations": [
+        {
+          "text": "Der Gründer, Berater und Investor"
+        }
+      ],
+      "occurences": {
+        "firstNameOnly": 0,
+        "fullName": 2,
+        "lastNameOnly": 2,
+        "total": 4
+      },
+      "quotedInIntro": false,
+      "quotedInTitle": false,
+      "sex": "male"
+    },
+
+    {
+      "age": -1,
+      "alternativeNames": [],
+      "birthday": null,
+      "descriptiveTexts": [
+        {
+          "text": "In Berlin besiegelten Bundeskanzler Olaf Scholz und Intel-Chef Pat Gelsinger heute die Pläne des US-Techriesen, zwei neue Chipfabriken in Magdeburg zu errichten."
+        },
+        {
+          "text": "Für den Mann, der 2021 zu Intel kam, um den endgültigen Absturz der einstigen IT-Ikone zu verhindern, ist der Handschlag mit Olaf Scholz ein wichtiger Erfolg."
+        }
+      ],
+      "directQuotes": [],
+      "indirectQuotes": [],
+      "inIntro": false,
+      "inTitle": false,
+      "isMain": false,
+      "name": "Olaf Scholz",
+      "occupations": [
+        {
+          "text": "besiegelten Bundeskanzler"
+        }
+      ],
+      "occurences": {
+        "firstNameOnly": 0,
+        "fullName": 2,
+        "lastNameOnly": 0,
+        "total": 2
+      },
+      "quotedInIntro": false,
+      "quotedInTitle": false,
+      "sex": "male"
+    },
+    
+    {
+      "age": -1,
+      "alternativeNames": [],
+      "birthday": null,
+      "descriptiveTexts": [
+        {
+          "text": "In Berlin besiegelten Bundeskanzler Olaf Scholz und Intel-Chef Pat Gelsinger heute die Pläne des US-Techriesen, zwei neue Chipfabriken in Magdeburg zu errichten."
+        },
+        {
+          "text": "Damit fließen noch einmal deutlich mehr als die ursprünglich vorgesehenen 6,8 Milliarden Euro an Subventionen, was Intel-Chef Gelsinger mit den im Zuge der Inflation gestiegenen Kosten rechtfertigt."
+        },
+        {
+          "text": "Einer zumindest kann sich über die fragwürdige Linie der Bundesregierung zunächst einmal freuen: Intel-Chef Pat Gelsinger."
+        },
+        {
+          "text": "Für den Mann, der 2021 zu Intel kam, um den endgültigen Absturz der einstigen IT-Ikone zu verhindern, ist der Handschlag mit Olaf Scholz ein wichtiger Erfolg."
+        },
+        {
+          "text": "Ebenfalls Kollegin Hecking stellt Ihnen den US-Manager persönlich vor."
+        }
+      ],
+      "directQuotes": [],
+      "indirectQuotes": [],
+      "inIntro": false,
+      "inTitle": false,
+      "isMain": true,
+      "name": "Pat Gelsinger",
+      "occupations": [
+        {
+          "text": "Intel-Chef"
+        }
+      ],
+      "occurences": {
+        "firstNameOnly": 0,
+        "fullName": 2,
+        "lastNameOnly": 1,
+        "total": 3
+      },
+      "quotedInIntro": false,
+      "quotedInTitle": false,
+      "sex": "male"
+    },
+
+    {
+      "age": -1,
+      "alternativeNames": [],
+      "birthday": null,
+      "descriptiveTexts": [
+        {
+          "text": "Ifo-Chef Clemens Fuest etwa hält die Milliardensubventionen für «fragwürdig»."
+        }
+      ],
+      "directQuotes": [
+        {
+          "text": "«fragwürdig»"
+        }
+      ],
+      "indirectQuotes": [],
+      "inIntro": false,
+      "inTitle": false,
+      "isMain": false,
+      "name": "Clemens Fuest",
+      "occupations": [
+        {
+          "text": "Ifo-Chef"
+        }
+      ],
+      "occurences": {
+        "firstNameOnly": 0,
+        "fullName": 1,
+        "lastNameOnly": 0,
+        "total": 1
+      },
+      "quotedInIntro": false,
+      "quotedInTitle": false,
+      "sex": "male"
+    },
+
+    {
+      "age": -1,
+      "alternativeNames": [],
+      "birthday": null,
+      "descriptiveTexts": [
+        {
+          "text": "Meine Kollegin Mirjam Hecking hat bereits vor einigen Wochen den Milliardenpoker analysiert."
+        },
+        {
+          "text": "Doch die Bundesregierung macht damit im internationalen Wettstreit eine schlechte Figur, so Kollegin Hecking: Es fehlt ein Langfristplan – und es droht ein Siliziumdebakel."
+        },
+        {
+          "text": "Ebenfalls Kollegin Hecking stellt Ihnen den US-Manager persönlich vor."
+        }
+      ],
+      "directQuotes": [
+        {
+          "text": "«Der Heilsbringer mit dem Klingelbeutel»."
+        }
+      ],
+      "indirectQuotes": [
+        {
+          "text": "Doch die Bundesregierung macht damit im internationalen Wettstreit eine schlechte Figur, so Kollegin Hecking: Es fehlt ein Langfristplan – und es droht ein Siliziumdebakel."
+        },
+        {
+          "text": "Lohnt es sich, so viel Geld in einem Magdeburger Acker zu versenken, lautete eine der Fragen?"
+        }
+      ],
+      "inIntro": false,
+      "inTitle": false,
+      "isMain": false,
+      "name": "Mirjam Hecking",
+      "occupations": [
+        {
+          "text": "Kollegin von Christoph Rottwilm"
+        }
+      ],
+      "occurences": {
+        "firstNameOnly": 0,
+        "fullName": 1,
+        "lastNameOnly": 2,
+        "total": 3
+      },
+      "quotedInIntro": false,
+      "quotedInTitle": false,
+      "sex": "female"
+    },
+
+    {
+      "age": -1,
+      "alternativeNames": [],
+      "birthday": null,
+      "descriptiveTexts": [
+        {
+          "text": "Abseits der Querelen um CEO Mathias Döpfner und Ex-«Bild»-Chefredakteur Julian Reichelt stehen offenbar erhebliche Sparmaßnahmen an."
+        }
+      ],
+      "directQuotes": [],
+      "indirectQuotes": [],
+      "inIntro": false,
+      "inTitle": false,
+      "isMain": false,
+      "name": "Mathias Döpfner",
+      "occupations": [
+        {
+          "text": "CEO"
+        }
+      ],
+      "occurences": {
+        "firstNameOnly": 0,
+        "fullName": 1,
+        "lastNameOnly": 0,
+        "total": 1
+      },
+      "quotedInIntro": false,
+      "quotedInTitle": false,
+      "sex": "male"
+    },
+
+    {
+      "age": -1,
+      "alternativeNames": [],
+      "birthday": null,
+      "descriptiveTexts": [
+        {
+          "text": "Abseits der Querelen um CEO Mathias Döpfner und Ex-«Bild»-Chefredakteur Julian Reichelt stehen offenbar erhebliche Sparmaßnahmen an."
+        }
+      ],
+      "directQuotes": [],
+      "indirectQuotes": [],
+      "inIntro": false,
+      "inTitle": false,
+      "isMain": false,
+      "name": "Julian Reichelt",
+      "occupations": [
+        {
+          "text": "Ex-«Bild»-Chefredakteur"
+        }
+      ],
+      "occurences": {
+        "firstNameOnly": 0,
+        "fullName": 1,
+        "lastNameOnly": 0,
+        "total": 1
+      },
+      "quotedInIntro": false,
+      "quotedInTitle": false,
+      "sex": "male"
+    },
+
+    {
+      "age": -1,
+      "alternativeNames": [],
+      "birthday": null,
+      "descriptiveTexts": [
+        {
+          "text": "Lesen Sie also den Exkurs meiner Kollegin Maren Jensen in diese exklusive Nische des modernen Kapitalismus: «Was Führungskräfte bei Bonuszahlungen beachten sollten»."
+        }
+      ],
+      "directQuotes": [
+        {
+          "text": "«Was Führungskräfte bei Bonuszahlungen beachten sollten»."
+        }
+      ],
+      "indirectQuotes": [],
+      "inIntro": false,
+      "inTitle": false,
+      "isMain": false,
+      "name": "Maren Jensen",
+      "occupations": [
+        {
+          "text": "Kollegin von Christoph Rottwilm"
+        }
+      ],
+      "occurences": {
+        "firstNameOnly": 0,
+        "fullName": 1,
+        "lastNameOnly": 0,
+        "total": 1
+      },
+      "quotedInIntro": false,
+      "quotedInTitle": false,
+      "sex": "female"
+    },
+
+    {
+      "age": -1,
+      "alternativeNames": [],
+      "birthday": null,
+      "descriptiveTexts": [
+        {
+          "text": "Nachdem das Jahr 2023 bald zur Hälfte rum ist, gibt uns heute Daniel Pfändler eine Antwort darauf."
+        },
+        {
+          "text": "Der Gründer der unabhängigen Research-Firma Research Ahead analysiert in einem Gastbeitrag, warum der Dax in den vergangenen Monaten besser gelaufen ist als von vielen gedacht."
+        },
+        {
+          "text": "Und er wagt einen optimistischen Blick nach vorn: «Warum der Dax noch immer Luft nach oben hat.»"
+        }
+      ],
+      "directQuotes": [
+        {
+          "text": "«Warum der Dax noch immer Luft nach oben hat.»"
+        }
+      ],
+      "indirectQuotes": [],
+      "inIntro": false,
+      "inTitle": false,
+      "isMain": false,
+      "name": "Daniel Pfändler",
+      "occupations": [
+        {
+          "text": "Der Gründer der unabhängigen Research-Firma Research Ahead"
+        }
+      ],
+      "occurences": {
+        "firstNameOnly": 0,
+        "fullName": 1,
+        "lastNameOnly": 0,
+        "total": 1
+      },
+      "quotedInIntro": false,
+      "quotedInTitle": false,
+      "sex": "male"
+    },
+
+    {
+      "age": -1,
+      "alternativeNames": [],
+      "birthday": null,
+      "descriptiveTexts": [
+        {
+          "text": "Der Gründer, Berater und Investor Marcus Diekmann sucht bekanntlich einen Job als Topmanager, wobei ihn mein Kollege Lukas Heiny eng begleitet – dokumentiert in unserer Serie «Löwe sucht Höhle»."
+        },
+        {
+          "text": "Heute präsentiert Ihnen Kollege Heiny Teil drei – und darin nehmen die Ereignisse eine neue Wendung: Diekmann heuert bei Intumind an, einem Start-up aus Düsseldorf, das digitale Wohlfühl-Coachings anbietet."
+        }
+      ],
+      "directQuotes": [],
+      "indirectQuotes": [],
+      "inIntro": false,
+      "inTitle": false,
+      "isMain": false,
+      "name": "Lukas Heiny",
+      "occupations": [
+        {
+          "text": "Kollege von Christoph Rottwilm"
+        }
+      ],
+      "occurences": {
+        "firstNameOnly": 0,
+        "fullName": 1,
+        "lastNameOnly": 1,
+        "total": 2
+      },
+      "quotedInIntro": false,
+      "quotedInTitle": false,
+      "sex": "male"
+    },
+
+    {
+      "age": -1,
+      "alternativeNames": [],
+      "birthday": null,
+      "descriptiveTexts": [
+        {
+          "text": "Doch Diekmann ist offenbar angetan von Intumind und auch von dessen Mitgründerin und Star-Influencerin Mareike Awe – er unterschrieb einen Beratervertrag im Gesamtvolumen von 300.000 Euro."
+        }
+      ],
+      "directQuotes": [],
+      "indirectQuotes": [],
+      "inIntro": false,
+      "inTitle": false,
+      "isMain": false,
+      "name": "Mareike Awe",
+      "occupations": [
+        {
+          "text": "Mitgründerin und Star-Influencerin"
+        }
+      ],
+      "occurences": {
+        "firstNameOnly": 0,
+        "fullName": 1,
+        "lastNameOnly": 0,
+        "total": 1
+      },
+      "quotedInIntro": false,
+      "quotedInTitle": false,
+      "sex": "female"
+    },
+
+    {
+      "age": -1,
+      "alternativeNames": [],
+      "birthday": null,
+      "descriptiveTexts": [
+        {
+          "text": "Beste Grüße, Ihr Christoph Rottwilm"
+        }
+        
+      ],
+      "directQuotes": [],
+      "indirectQuotes": [],
+      "inIntro": false,
+      "inTitle": false,
+      "isMain": false,
+      "name": "Christoph Rottwilm",
+      "occupations": [],
+      "occurences": {
+        "firstNameOnly": 0,
+        "fullName": 1,
+        "lastNameOnly": 0,
+        "total": 1
+      },
+      "quotedInIntro": false,
+      "quotedInTitle": false,
+      "sex": "male"
+    }
+
+  ],
+  "subtopics": [
+    "Wirtschaftsnews",
+    "Politik in Wirtschaft"
+  ]
+}

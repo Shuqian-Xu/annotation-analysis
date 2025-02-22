@@ -1,0 +1,489 @@
+{
+  "persons": [
+    {
+      "age": -1,
+      "alternativeNames": [],
+      "birthday": null,
+      "descriptiveTexts": [
+        {
+          "text": "Heute mit der zweiten Karriereplanung von İlkay Gündoğan, dem Geständnis von Ex-Audi-Chef Rupert Stadler und dem Stellenabbau bei Vodafone."
+        },
+        {
+          "text": "Fußballprofis wie İlkay Gündoğan werden verehrt und gehypt, dienen Millionen als Vorbild und verdienen im Jahr mehr als viele Dax-CEOs."
+        },
+        {
+          "text": "Dem Manchester-City-Spieler attestieren viele Sportkommentatoren Weltklasseniveau."
+        },
+        {
+          "text": "Gündoğan führt als Kapitän Manchester City gegen Real Madrid aufs Feld (Hinspiel-Ergebnis 1:1)."
+        },
+        {
+          "text": "Wie sieht er aus, der Plan B nach dem Profifußball?"
+        },
+        {
+          "text": "Gündoğan weiß, wie gefährlich es sein kann, diese Frage zu verdrängen."
+        },
+        {
+          "text": "Er setzt sich schon seit zwei Jahren mit dem Ende seiner Karriere auseinander."
+        },
+        {
+          "text": "Der Profi liebäugelt mit einem Führungsjob im Fußball – als Trainer oder Sportdirektor etwa – und arbeitet gezielt darauf hin."
+        },
+        {
+          "text": "Wie, das hat er meinem Kollegen Christoph Neßhöver erzählt, und er spricht auch über seine Angst vor dem Aufhören, über den Führungsstil seines Chefs Pep Guardiola und die motivierende Kraft des Rampenlichts."
+        }
+      ],
+      "directQuotes": [],
+      "indirectQuotes": [],
+      "inIntro": true,
+      "inTitle": false,
+      "isMain": false,
+      "name": "İlkay Gündoğan",
+      "occupations": [
+        {
+          "text": "Fußballprofi"
+        },
+        {
+          "text": "Manchester-City-Spieler"
+        },
+        {
+          "text": "Kapitän Manchester City"
+        },
+        {
+          "text": "Profi"
+        }
+      ],
+      "occurences": {
+        "firstNameOnly": 0,
+        "fullName": 2,
+        "lastNameOnly": 2,
+        "total": 4
+      },
+      "quotedInIntro": false,
+      "quotedInTitle": false,
+      "sex": "male"
+    },
+
+
+    {
+      "age": -1,
+      "alternativeNames": [],
+      "birthday": null,
+      "descriptiveTexts": [
+        {
+          "text": "Heute mit der zweiten Karriereplanung von İlkay Gündoğan, dem Geständnis von Ex-Audi-Chef Rupert Stadler und dem Stellenabbau bei Vodafone."
+        },
+        {
+          "text": "Die Wirtschaftsnews des Tages:Fehlverhalten eingeräumt: Wie angekündigt, hat der frühere Audi-Chef Rupert Stadler im Prozess um manipulierte Abgaswerte bei Dieselautos heute doch ein Geständnis abgelegt."
+        },
+        {
+          "text": "Er hätte die Möglichkeit gehabt einzugreifen, dies aber unterlassen."
+        },
+        {
+          "text": "Er sehe, »dass es ein Mehr an Sorgfalt« gebraucht hätte, ließ er seine Anwältin vor dem Landgericht München verlesen."
+        },
+        {
+          "text": "Nach zweieinhalb Jahren ist Stadler damit das erste Mitglied des VW-Konzernvorstands, das vor Gericht den Vorwurf des Betrugs durch Unterlassen einräumte – obwohl er zuvor jahrelang seine Unschuld beteuert hatte."
+        },
+        {
+          "text": "Die Erinnerung schien erst Ende März wiederzukommen: Das Gericht machte Stadler klar, dass ihm ohne Geständnis Gefängnis drohen würde."
+        }
+      ],
+      "directQuotes": [
+        {
+          "text": "»dass es ein Mehr an Sorgfalt«"
+        }
+      ],
+      "indirectQuotes": [
+        {
+          "text": "Er sehe, »dass es ein Mehr an Sorgfalt« gebraucht hätte, ließ er seine Anwältin vor dem Landgericht München verlesen."
+        }
+      ],
+      "inIntro": true,
+      "inTitle": false,
+      "isMain": false,
+      "name": "Rupert Stadler",
+      "occupations": [
+        {
+          "text": "Ex-Audi-Chef"
+        },
+        {
+          "text": "der frühere Audi-Chef"
+        },
+        {
+          "text": "das erste Mitglied des VW-Konzernvorstands"
+        }
+      ],
+      "occurences": {
+        "firstNameOnly": 0,
+        "fullName": 2,
+        "lastNameOnly": 2,
+        "total": 4
+      },
+      "quotedInIntro": false,
+      "quotedInTitle": false,
+      "sex": "male"
+    },
+
+    
+    {
+      "age": -1,
+      "alternativeNames": [],
+      "birthday": null,
+      "descriptiveTexts": [
+        {
+          "text": "Wie, das hat er meinem Kollegen Christoph Neßhöver erzählt, und er spricht auch über seine Angst vor dem Aufhören, über den Führungsstil seines Chefs Pep Guardiola und die motivierende Kraft des Rampenlichts."
+        }
+      ],
+      "directQuotes": [],
+      "indirectQuotes": [],
+      "inIntro": false,
+      "inTitle": false,
+      "isMain": false,
+      "name": "Christoph Neßhöver",
+      "occupations": [
+        {
+          "text": "Kollege von Hannah Steinharter"
+        }
+      ],
+      "occurences": {
+        "firstNameOnly": 0,
+        "fullName": 1,
+        "lastNameOnly": 0,
+        "total": 1
+      },
+      "quotedInIntro": false,
+      "quotedInTitle": false,
+      "sex": "male"
+    },
+
+    {
+      "age": -1,
+      "alternativeNames": [],
+      "birthday": null,
+      "descriptiveTexts": [
+        {
+          "text": "Wie, das hat er meinem Kollegen Christoph Neßhöver erzählt, und er spricht auch über seine Angst vor dem Aufhören, über den Führungsstil seines Chefs Pep Guardiola und die motivierende Kraft des Rampenlichts."
+        }
+      ],
+      "directQuotes": [],
+      "indirectQuotes": [],
+      "inIntro": false,
+      "inTitle": false,
+      "isMain": false,
+      "name": "Pep Guardiola",
+      "occupations": [
+        {
+        "text": "Chef von İlkay Gündoğan"
+        }
+      ],
+      "occurences": {
+        "firstNameOnly": 0,
+        "fullName": 1,
+        "lastNameOnly": 0,
+        "total": 1
+      },
+      "quotedInIntro": false,
+      "quotedInTitle": false,
+      "sex": "male"
+    },
+
+    {
+      "age": -1,
+      "alternativeNames": [],
+      "birthday": null,
+      "descriptiveTexts": [
+        {
+          "text": "Nächste Preisaktion: Tesla-Chef Elon Musk rühmt sich, nie einen Cent in das Marketing des Elektroautoherstellers investiert zu haben."
+        }
+      ],
+      "directQuotes": [],
+      "indirectQuotes": [],
+      "inIntro": false,
+      "inTitle": false,
+      "isMain": false,
+      "name": "Elon Musk",
+      "occupations": [
+        {
+          "text": "Tesla-Chef"
+        }
+      ],
+      "occurences": {
+        "firstNameOnly": 0,
+        "fullName": 1,
+        "lastNameOnly": 0,
+        "total": 1
+      },
+      "quotedInIntro": false,
+      "quotedInTitle": false,
+      "sex": "male"
+    },
+
+    {
+      "age": -1,
+      "alternativeNames": [],
+      "birthday": null,
+      "descriptiveTexts": [
+        {
+          "text": "Warum sich die Indizien, dass Tesla unter Überkapazitäten leidet, auch an anderer Stelle verdichten, beschreibt mein Kollege Christoph Seyerlein."
+        }
+      ],
+      "directQuotes": [],
+      "indirectQuotes": [],
+      "inIntro": false,
+      "inTitle": false,
+      "isMain": false,
+      "name": "Christoph Seyerlein",
+      "occupations": [
+        {
+          "text": "Kollege von Hannah Steinharter"
+        }
+      ],
+      "occurences": {
+        "firstNameOnly": 0,
+        "fullName": 1,
+        "lastNameOnly": 0,
+        "total": 1
+      },
+      "quotedInIntro": false,
+      "quotedInTitle": false,
+      "sex": "male"
+    },
+
+    {
+      "age": -1,
+      "alternativeNames": [],
+      "birthday": null,
+      "descriptiveTexts": [
+        {
+          "text": "Rekord-Kahlschlag: Vodafones neue Konzernchefin Margherita Della Valle will eine etwas andere Firmengeschichte schreiben: Die Managerin kündigte den bisher größten Jobabbau in der Firmenhistorie an."
+        },
+        {
+          "text": "Della Valle rechtfertigt ihren Kurs mit den sinkenden Einnahmen und Gewinnen: »Unsere Leistungen waren nicht gut genug«, sagte die Chefin."
+        }
+      ],
+      "directQuotes": [
+        {
+          "text": "»Unsere Leistungen waren nicht gut genug«"
+        }
+      ],
+      "indirectQuotes": [],
+      "inIntro": false,
+      "inTitle": false,
+      "isMain": false,
+      "name": "Margherita Della Valle",
+      "occupations": [
+        {
+          "text": "Vodafones neue Konzernchefin"
+        }
+      ],
+      "occurences": {
+        "firstNameOnly": 0,
+        "fullName": 1,
+        "lastNameOnly": 1,
+        "total": 2
+      },
+      "quotedInIntro": false,
+      "quotedInTitle": false,
+      "sex": "female"
+    },
+
+    {
+      "age": -1,
+      "alternativeNames": [],
+      "birthday": null,
+      "descriptiveTexts": [
+        {
+          "text": "Was uns sonst noch beschäftigt hat:Solare Rooftop-Revolution: Die drei Gründer Mario Kohle, Viktor Wingert und Jochen Ziervogel hatten 2017 die Idee, die Anschaffung einer Solaranlage so unkompliziert wie möglich zu machen, quasi ein Paypal für erneuerbare Energie zu schaffen."
+        },
+        {
+          "text": "Fünf Jahre später ist aus ihrer Idee ein rapide wachsendes Unternehmen geworden: Enpal."
+        },
+        {
+          "text": "Gründer Kohle will das Start-up jetzt noch größer ausrollen – auch wenn das Geschäftsmodell nicht ohne Risiken ist."
+        }
+      ],
+      "directQuotes": [],
+      "indirectQuotes": [],
+      "inIntro": false,
+      "inTitle": false,
+      "isMain": false,
+      "name": "Mario Kohle",
+      "occupations": [
+        {
+          "text": "Gründer von Enpal"
+        }
+      ],
+      "occurences": {
+        "firstNameOnly": 0,
+        "fullName": 1,
+        "lastNameOnly": 1,
+        "total": 2
+      },
+      "quotedInIntro": false,
+      "quotedInTitle": false,
+      "sex": "male"
+    },
+
+    {
+      "age": -1,
+      "alternativeNames": [],
+      "birthday": null,
+      "descriptiveTexts": [
+        {
+          "text": "Was uns sonst noch beschäftigt hat:Solare Rooftop-Revolution: Die drei Gründer Mario Kohle, Viktor Wingert und Jochen Ziervogel hatten 2017 die Idee, die Anschaffung einer Solaranlage so unkompliziert wie möglich zu machen, quasi ein Paypal für erneuerbare Energie zu schaffen."
+        },
+        {
+          "text": "Fünf Jahre später ist aus ihrer Idee ein rapide wachsendes Unternehmen geworden: Enpal."
+        }
+      ],
+      "directQuotes": [],
+      "indirectQuotes": [],
+      "inIntro": false,
+      "inTitle": false,
+      "isMain": false,
+      "name": "Viktor Wingert",
+      "occupations": [
+        {
+          "text": "Gründer von Enpal"
+        }
+      ],
+      "occurences": {
+        "firstNameOnly": 0,
+        "fullName": 1,
+        "lastNameOnly": 0,
+        "total": 1
+      },
+      "quotedInIntro": false,
+      "quotedInTitle": false,
+      "sex": "male"
+    },
+
+    {
+      "age": -1,
+      "alternativeNames": [],
+      "birthday": null,
+      "descriptiveTexts": [
+        {
+          "text": "Was uns sonst noch beschäftigt hat:Solare Rooftop-Revolution: Die drei Gründer Mario Kohle, Viktor Wingert und Jochen Ziervogel hatten 2017 die Idee, die Anschaffung einer Solaranlage so unkompliziert wie möglich zu machen, quasi ein Paypal für erneuerbare Energie zu schaffen."
+        },
+        {
+          "text": "Fünf Jahre später ist aus ihrer Idee ein rapide wachsendes Unternehmen geworden: Enpal."
+        }
+      ],
+      "directQuotes": [],
+      "indirectQuotes": [],
+      "inIntro": false,
+      "inTitle": false,
+      "isMain": false,
+      "name": "Jochen Ziervogel",
+      "occupations": [
+        {
+          "text": "Gründer von Enpal"
+        }
+      ],
+      "occurences": {
+        "firstNameOnly": 0,
+        "fullName": 1,
+        "lastNameOnly": 0,
+        "total": 1
+      },
+      "quotedInIntro": false,
+      "quotedInTitle": false,
+      "sex": "male"
+    },
+
+    {
+      "age": -1,
+      "alternativeNames": [],
+      "birthday": null,
+      "descriptiveTexts": [
+        {
+          "text": "WDR-Journalistin Georgine Kellermann gehört zu den wenigen, die den Weg gegangen sind: Sie beendete ihr Doppelleben nach Jahrzehnten des Versteckspiels und zeigte sich auch bei der Arbeit so, wie sie sich selbst empfand – als Georgine."
+        },
+        {
+          "text": "»Ich habe Sorge gehabt, dass, wenn ich werde, wie ich bin, ich nicht mehr tun kann, was ich liebe«, erinnert sie sich."
+        },
+        {
+          "text": "Dabei sei damals direkte Hilfe »von allen, die Verantwortung für mich getragen haben« gekommen."
+        },
+        {
+          "text": "Sie habe etwa sofort neue Visitenkarten, eine neue E-Mail-Adresse und viel Unterstützung bei allen organisatorischen und bürokratischen Aufgaben bekommen."
+        },
+        {
+          "text": "In der neuen Folge des Podcasts Team A erklärt die Journalistin, wie wir inklusive Arbeitsplätze frei von Stereotypen und Geschlechternormen aufbauen können."
+        }
+      ],
+      "directQuotes": [
+        {
+          "text": "»Ich habe Sorge gehabt, dass, wenn ich werde, wie ich bin, ich nicht mehr tun kann, was ich liebe«"
+        },
+        {
+          "text": "»von allen, die Verantwortung für mich getragen haben«"
+        }
+      ],
+      "indirectQuotes": [
+        {
+          "text": "Dabei sei damals direkte Hilfe »von allen, die Verantwortung für mich getragen haben« gekommen."
+        },
+        {
+          "text": "Sie habe etwa sofort neue Visitenkarten, eine neue E-Mail-Adresse und viel Unterstützung bei allen organisatorischen und bürokratischen Aufgaben bekommen."
+        }
+      ],
+      "inIntro": false,
+      "inTitle": false,
+      "isMain": false,
+      "name": "Georgine Kellermann",
+      "occupations": [
+        {
+          "text": "WDR-Journalistin"
+        }
+      ],
+      "occurences": {
+        "firstNameOnly": 1,
+        "fullName": 1,
+        "lastNameOnly": 0,
+        "total": 2
+      },
+      "quotedInIntro": false,
+      "quotedInTitle": false,
+      "sex": "female"
+    },
+    {
+      "age": -1,
+      "alternativeNames": [],
+      "birthday": null,
+      "descriptiveTexts": [
+        {
+          "text": "Ich wünsche Ihnen viel Spaß beim Podcasthören und einen schönen Abend, Ihre Hannah Steinharter."
+        },
+        {
+          "text": "Haben Sie Wünsche, Anregungen, Informationen, um die wir uns journalistisch kümmern sollten?"
+        }
+      
+      ],
+      "directQuotes": [],
+      "indirectQuotes": [],
+      "inIntro": false,
+      "inTitle": false,
+      "isMain": false,
+      "name": "Hannah Steinharter",
+      "occupations": [],
+      "occurences": {
+        "firstNameOnly": 0,
+        "fullName": 1,
+        "lastNameOnly": 0,
+        "total": 1
+      },
+      "quotedInIntro": true,
+      "quotedInTitle": true,
+      "sex": "female"
+    }
+
+  ],
+  "subtopics": [
+    "Wirtschaftsnews",
+    "Fussball",
+    "Unternehmen"
+  ]
+}

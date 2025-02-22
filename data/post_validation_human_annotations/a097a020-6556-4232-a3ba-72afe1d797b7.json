@@ -1,0 +1,686 @@
+{
+  "persons": [
+    {
+      "age": -1,
+      "alternativeNames": [],
+      "birthday": null,
+      "descriptiveTexts": [
+        {
+          "text": "Jeden Abend fassen wir die wichtigsten Wirtschaftsnews des Tages zusammen. Heute mit Anlagetipps von der Frau, die das meiste Geld der Welt verwaltet, Prognosen von dem Mann, der Deutschlands größten Rüstungskonzern leitet, und Erfolgschancen des Mannes, der den wertvollsten Konzern der Welt leitet."
+        },
+        {
+          "text": "Sonja Laud betrachtet diese Entwicklung mit Skepsis."
+        },
+        {
+          "text": "Und die Investmentchefin von Legal & General in London, einer der zwölf größten globalen Asset Manager, sollte wissen, wovon sie spricht."
+        },
+        {
+          "text": "Laud verwaltet immerhin 1,4 Billionen Euro und damit mehr als jede andere Frau auf der Welt."
+        },
+        {
+          "text": "Die CIO hat früh gelernt, mit Krisen umzugehen."
+        },
+        {
+          "text": "Sie startete ihre Karriere in der Dotcom-Blase, es folgten die Finanzkrise und die Euro-Krise."
+        },
+        {
+          "text": "Angesichts der aktuellen Gemengelage aus Pandemiefolgen, Ukraine-Krieg und Inflation investiert sie derzeit eher risikoscheu, etwa in Staatsanleihen."
+        },
+        {
+          "text": "«In den vergangenen 70 Jahren hat jeder Zinszyklus (…) entweder zu einer Rezession oder zu einer Finanzkrise geführt – oder zu beidem», erklärt Laud im Interview mit meiner Kollegin Maren Jensen."
+        },
+        {
+          "text": "Wie die Anlagestrategin derzeit ihre Investmententscheidungen trifft, ab welchem Zeitpunkt sie Einstiegschancen sieht und wie sie mit alternativen Investments umgeht, erfahren Sie hier."
+        }
+      ],
+      "directQuotes": [],
+      "indirectQuotes": [],
+      "inIntro": true,
+      "inTitle": false,
+      "isMain": false,
+      "name": "Sonja Laud",
+      "occupations": [
+        {
+          "text": "Investmentchefin von Legal & General in London"
+        },
+        {
+          "text": "einer der zwölf größten globalen Asset Manager"
+        },
+        {
+          "text": "Anlagestrategin"
+        }
+      ],
+      "occurences": {
+        "firstNameOnly": 0,
+        "fullName": 1,
+        "lastNameOnly": 2,
+        "total": 3
+      },
+      "quotedInIntro": false,
+      "quotedInTitle": false,
+      "sex": "female"
+    },
+
+    {
+      "age": -1,
+      "alternativeNames": [],
+      "birthday": null,
+      "descriptiveTexts": [
+        {
+          "text": "«In den vergangenen 70 Jahren hat jeder Zinszyklus (…) entweder zu einer Rezession oder zu einer Finanzkrise geführt – oder zu beidem», erklärt Laud im Interview mit meiner Kollegin Maren Jensen."
+        }
+      ],
+      "directQuotes": [],
+      "indirectQuotes": [],
+      "inIntro": false,
+      "inTitle": false,
+      "isMain": false,
+      "name": "Maren Jensen",
+      "occupations": [
+        {
+          "text": "Kollegin von Marleen Gründel"
+        }
+      ],
+      "occurences": {
+        "firstNameOnly": 0,
+        "fullName": 1,
+        "lastNameOnly": 0,
+        "total": 1
+      },
+      "quotedInIntro": false,
+      "quotedInTitle": false,
+      "sex": "female"
+    },
+
+    {
+      "age": -1,
+      "alternativeNames": [],
+      "birthday": null,
+      "descriptiveTexts": [
+        {
+          "text": "Jeden Abend fassen wir die wichtigsten Wirtschaftsnews des Tages zusammen. Heute mit Anlagetipps von der Frau, die das meiste Geld der Welt verwaltet, Prognosen von dem Mann, der Deutschlands größten Rüstungskonzern leitet, und Erfolgschancen des Mannes, der den wertvollsten Konzern der Welt leitet."
+        },
+        {
+          "text": "Die Papiere reagierten mit deutlichen Gewinnen auf Aussagen von Konzernchef Armin Papperger, demzufolge der Rüstungskonzern kurz vor einem Milliardenvertrag mit der Bundesregierung steht."
+        },
+        {
+          "text": "«Das wird das beste Jahr im Auftragseingang sein ever», frohlockte der CEO."
+        }
+      ],
+      "directQuotes": [
+        {
+          "text": "«Das wird das beste Jahr im Auftragseingang sein ever»"
+        }
+      ],
+      "indirectQuotes": [],
+      "inIntro": true,
+      "inTitle": false,
+      "isMain": false,
+      "name": "Armin Papperger",
+      "occupations": [
+        {
+          "text": "Konzernchef von Rheinmetall"
+        }
+      ],
+      "occurences": {
+        "firstNameOnly": 0,
+        "fullName": 1,
+        "lastNameOnly": 0,
+        "total": 1
+      },
+      "quotedInIntro": false,
+      "quotedInTitle": false,
+      "sex": "male"
+    },
+
+    {
+      "age": -1,
+      "alternativeNames": [],
+      "birthday": null,
+      "descriptiveTexts": [
+        {
+          "text": "Am Ende: Der Streamingriese Spotify beendet die Zusammenarbeit mit Prinz Harry und Herzogin Meghan nach nur einer Staffel ihres Podcasts."
+        },
+        {
+          "text": "Damit bricht für die beiden britischen Ex-Royals eine wichtige Einnahmequelle weg."
+        }
+      ],
+      "directQuotes": [],
+      "indirectQuotes": [],
+      "inIntro": false,
+      "inTitle": false,
+      "isMain": false,
+      "name": "Harry",
+      "occupations": [
+        {
+          "text": "britischer Ex-Royal"
+        }
+      ],
+      "occurences": {
+        "firstNameOnly": 1,
+        "fullName": 0,
+        "lastNameOnly": 0,
+        "total": 1
+      },
+      "quotedInIntro": false,
+      "quotedInTitle": false,
+      "sex": "male"
+    },
+
+    {
+      "age": -1,
+      "alternativeNames": [],
+      "birthday": null,
+      "descriptiveTexts": [
+        {
+          "text": "Am Ende: Der Streamingriese Spotify beendet die Zusammenarbeit mit Prinz Harry und Herzogin Meghan nach nur einer Staffel ihres Podcasts."
+        },
+        {
+          "text": "Damit bricht für die beiden britischen Ex-Royals eine wichtige Einnahmequelle weg."
+        }
+      ],
+      "directQuotes": [],
+      "indirectQuotes": [],
+      "inIntro": false,
+      "inTitle": false,
+      "isMain": false,
+      "name": "Meghan",
+      "occupations": [
+        {
+          "text": "britischer Ex-Royal"
+        }
+      ],
+      "occurences": {
+        "firstNameOnly": 1,
+        "fullName": 0,
+        "lastNameOnly": 0,
+        "total": 1
+      },
+      "quotedInIntro": false,
+      "quotedInTitle": false,
+      "sex": "female"
+    },
+
+    {
+      "age": -1,
+      "alternativeNames": [],
+      "birthday": null,
+      "descriptiveTexts": [
+        {
+          "text": "«Am Leben»: Immer wieder gibt es Spekulation über das Wohlbefinden von Alibaba-Gründer Jack Ma, der 2020 bei der chinesischen Regierung in Ungnade fiel."
+        },
+        {
+          "text": "Nun hat sich Alibaba-Präsident Michael Evans zu dem Fall geäußert und sagt: «Jack ist am Leben. Es geht ihm gut.»"
+        },
+        {
+          "text": "Demnach soll Ma sich in Japan aufhalten, aber auch immer mehr Zeit in China verbringen."
+        }
+      ],
+      "directQuotes": [],
+      "indirectQuotes": [],
+      "inIntro": false,
+      "inTitle": false,
+      "isMain": false,
+      "name": "Jack Ma",
+      "occupations": [
+        {
+          "text": "Alibaba-Gründer"
+        }
+      ],
+      "occurences": {
+        "firstNameOnly": 1,
+        "fullName": 1,
+        "lastNameOnly": 1,
+        "total": 3
+      },
+      "quotedInIntro": false,
+      "quotedInTitle": false,
+      "sex": "male"
+    },
+
+    {
+      "age": -1,
+      "alternativeNames": [],
+      "birthday": null,
+      "descriptiveTexts": [
+        {
+          "text": "Nun hat sich Alibaba-Präsident Michael Evans zu dem Fall geäußert und sagt: «Jack ist am Leben. Es geht ihm gut.»"
+        }
+      ],
+      "directQuotes": [
+        {
+          "text": "«Jack ist am Leben. Es geht ihm gut.»"
+        }
+      ],
+      "indirectQuotes": [],
+      "inIntro": false,
+      "inTitle": false,
+      "isMain": false,
+      "name": "Michael Evans",
+      "occupations": [
+        {
+          "text": "Alibaba-Präsident"
+        }
+      ],
+      "occurences": {
+        "firstNameOnly": 0,
+        "fullName": 1,
+        "lastNameOnly": 0,
+        "total": 1
+      },
+      "quotedInIntro": false,
+      "quotedInTitle": false,
+      "sex": "male"
+    },
+
+    {
+      "age": -1,
+      "alternativeNames": [],
+      "birthday": null,
+      "descriptiveTexts": [
+        {
+          "text": "Mein Kollege Helmut Reich hat sich angeschaut, welche Reeder von dem Boom in der Schifffahrt besonders profitiert haben und wofür sie das viele Geld ausgeben."
+        }
+      ],
+      "directQuotes": [],
+      "indirectQuotes": [],
+      "inIntro": false,
+      "inTitle": false,
+      "isMain": false,
+      "name": "Helmut Reich",
+      "occupations": [
+        {
+          "text": "Kollege von Marleen Gründel"
+        }
+      ],
+      "occurences": {
+        "firstNameOnly": 0,
+        "fullName": 1,
+        "lastNameOnly": 0,
+        "total": 1
+      },
+      "quotedInIntro": false,
+      "quotedInTitle": false,
+      "sex": "male"
+    },
+
+    {
+      "age": -1,
+      "alternativeNames": [],
+      "birthday": null,
+      "descriptiveTexts": [
+        {
+          "text": "Unser Mittelstands-Kolumnist Klaus Schweinsberg ist allerdings der Meinung, dass Martin Viessmann und sein Sohn Max richtig entschieden haben."
+        }
+      ],
+      "directQuotes": [],
+      "indirectQuotes": [],
+      "inIntro": false,
+      "inTitle": false,
+      "isMain": false,
+      "name": "Klaus Schweinsberg",
+      "occupations": [
+        {
+          "text": "Mittelstands-Kolumnist"
+        }
+      ],
+      "occurences": {
+        "firstNameOnly": 0,
+        "fullName": 1,
+        "lastNameOnly": 0,
+        "total": 1
+      },
+      "quotedInIntro": false,
+      "quotedInTitle": false,
+      "sex": "male"
+    },
+
+    {
+      "age": -1,
+      "alternativeNames": [],
+      "birthday": null,
+      "descriptiveTexts": [
+        {
+          "text": "Unser Mittelstands-Kolumnist Klaus Schweinsberg ist allerdings der Meinung, dass Martin Viessmann und sein Sohn Max richtig entschieden haben."
+        }
+      ],
+      "directQuotes": [],
+      "indirectQuotes": [],
+      "inIntro": false,
+      "inTitle": false,
+      "isMain": false,
+      "name": "Martin Viessmann",
+      "occupations": [],
+      "occurences": {
+        "firstNameOnly": 0,
+        "fullName": 1,
+        "lastNameOnly": 0,
+        "total": 1
+      },
+      "quotedInIntro": false,
+      "quotedInTitle": false,
+      "sex": "male"
+    },
+
+    {
+      "age": -1,
+      "alternativeNames": [],
+      "birthday": null,
+      "descriptiveTexts": [
+        {
+          "text": "Unser Mittelstands-Kolumnist Klaus Schweinsberg ist allerdings der Meinung, dass Martin Viessmann und sein Sohn Max richtig entschieden haben."
+        }
+      ],
+      "directQuotes": [],
+      "indirectQuotes": [],
+      "inIntro": false,
+      "inTitle": false,
+      "isMain": false,
+      "name": "Max Viessmann",
+      "occupations": [],
+      "occurences": {
+        "firstNameOnly": 0,
+        "fullName": 1,
+        "lastNameOnly": 0,
+        "total": 1
+      },
+      "quotedInIntro": false,
+      "quotedInTitle": false,
+      "sex": "male"
+    },
+
+    {
+      "age": -1,
+      "alternativeNames": [],
+      "birthday": null,
+      "descriptiveTexts": [
+        {
+          "text": "Der Karriere-Guide: Der Buchautor Nico Rose traf einst den Schwergewichtsweltmeister Wladimir Klitschko zufällig in einem Bostoner Fitnessstudio."
+        },
+        {
+          "text": "Er nutzte die Chance, später schrieb Klitschko das Vorwort für sein Buch."
+        }
+      ],
+      "directQuotes": [],
+      "indirectQuotes": [],
+      "inIntro": false,
+      "inTitle": false,
+      "isMain": false,
+      "name": "Nico Rose",
+      "occupations": [
+        {
+          "text": "Buchautor"
+        }
+      ],
+      "occurences": {
+        "firstNameOnly": 0,
+        "fullName": 1,
+        "lastNameOnly": 0,
+        "total": 1
+      },
+      "quotedInIntro": false,
+      "quotedInTitle": false,
+      "sex": "male"
+    },
+
+    {
+      "age": -1,
+      "alternativeNames": [],
+      "birthday": null,
+      "descriptiveTexts": [
+        {
+          "text": "Der Karriere-Guide: Der Buchautor Nico Rose traf einst den Schwergewichtsweltmeister Wladimir Klitschko zufällig in einem Bostoner Fitnessstudio."
+        },
+        {
+          "text": "Er nutzte die Chance, später schrieb Klitschko das Vorwort für sein Buch."
+        }
+      ],
+      "directQuotes": [],
+      "indirectQuotes": [],
+      "inIntro": false,
+      "inTitle": false,
+      "isMain": false,
+      "name": "Wladimir Klitschko",
+      "occupations": [
+        {
+          "text": "Schwergewichtsweltmeister"
+        }
+      ],
+      "occurences": {
+        "firstNameOnly": 0,
+        "fullName": 1,
+        "lastNameOnly": 1,
+        "total": 2
+      },
+      "quotedInIntro": false,
+      "quotedInTitle": false,
+      "sex": "male"
+    },
+
+    {
+      "age": -1,
+      "alternativeNames": [],
+      "birthday": null,
+      "descriptiveTexts": [
+        {
+          "text": "Diese Fähigkeit, genannt Serendipity, zählt in der Forschung zu den Kernkompetenzen für den eigenen Erfolg, wie Christian Busch, Direktor des Wirtschaftsstudiengangs an der New York University, im aktuellen Harvard Business manager erklärt. "
+        }
+      ],
+      "directQuotes": [],
+      "indirectQuotes": [],
+      "inIntro": false,
+      "inTitle": false,
+      "isMain": false,
+      "name": "Christian Busch",
+      "occupations": [
+        {
+          "text": "Direktor des Wirtschaftsstudiengangs an der New York University"
+        }
+      ],
+      "occurences": {
+        "firstNameOnly": 0,
+        "fullName": 1,
+        "lastNameOnly": 0,
+        "total": 1
+      },
+      "quotedInIntro": false,
+      "quotedInTitle": false,
+      "sex": "male"
+    },
+
+    {
+      "age": 78,
+      "alternativeNames": [],
+      "birthday": null,
+      "descriptiveTexts": [
+        {
+          "text": "Tech-Dino hebt ab: Im Alter von 78 Jahren ist Oracle-Gründer Larry Ellison noch einmal an Jeff Bezos vorbeigezogen – zumindest was den persönlichen Reichtum angeht."
+        }
+      ],
+      "directQuotes": [],
+      "indirectQuotes": [],
+      "inIntro": false,
+      "inTitle": false,
+      "isMain": false,
+      "name": "Larry Ellison",
+      "occupations": [
+        {
+          "text": "Oracle-Gründer"
+        }
+      ],
+      "occurences": {
+        "firstNameOnly": 0,
+        "fullName": 1,
+        "lastNameOnly": 0,
+        "total": 1
+      },
+      "quotedInIntro": false,
+      "quotedInTitle": false,
+      "sex": "male"
+    },
+
+    {
+      "age": -1,
+      "alternativeNames": [],
+      "birthday": null,
+      "descriptiveTexts": [
+        {
+          "text": "Tech-Dino hebt ab: Im Alter von 78 Jahren ist Oracle-Gründer Larry Ellison noch einmal an Jeff Bezos vorbeigezogen – zumindest was den persönlichen Reichtum angeht."
+        }
+      ],
+      "directQuotes": [],
+      "indirectQuotes": [],
+      "inIntro": false,
+      "inTitle": false,
+      "isMain": false,
+      "name": "Jeff Bezos",
+      "occupations": [],
+      "occurences": {
+        "firstNameOnly": 0,
+        "fullName": 1,
+        "lastNameOnly": 0,
+        "total": 1
+      },
+      "quotedInIntro": false,
+      "quotedInTitle": false,
+      "sex": "male"
+    },
+
+    {
+      "age": -1,
+      "alternativeNames": [],
+      "birthday": null,
+      "descriptiveTexts": [
+        {
+          "text": "Jeden Abend fassen wir die wichtigsten Wirtschaftsnews des Tages zusammen. Heute mit Anlagetipps von der Frau, die das meiste Geld der Welt verwaltet, Prognosen von dem Mann, der Deutschlands größten Rüstungskonzern leitet, und Erfolgschancen des Mannes, der den wertvollsten Konzern der Welt leitet."
+        },
+        {
+          "text": "Aber das, was Tim Cook der Welt vor Kurzem als «Vision Pro» präsentiert hat, sieht verdammt ähnlich aus."
+        },
+        {
+          "text": "Mit der Datenbrille will der Apple-Chef das KI-Zeitalter dominieren."
+        }
+      ],
+      "directQuotes": [],
+      "indirectQuotes": [],
+      "inIntro": true,
+      "inTitle": false,
+      "isMain": false,
+      "name": "Tim Cook",
+      "occupations": [
+        {
+          "text": "Apple-Chef"
+        }
+      ],
+      "occurences": {
+        "firstNameOnly": 0,
+        "fullName": 1,
+        "lastNameOnly": 0,
+        "total": 1
+      },
+      "quotedInIntro": false,
+      "quotedInTitle": false,
+      "sex": "male"
+    },
+    
+    {
+      "age": -1,
+      "alternativeNames": [],
+      "birthday": null,
+      "descriptiveTexts": [
+        {
+          "text": "Allerdings weist die 3500-Dollar-Brille noch einige Schwächen auf, wie unser Tech-Reporter Jonas Rest jüngst analysierte."
+        },
+        {
+          "text": "Trotz allem ist mein Kollege davon überzeugt, dass Apples Strategie höhere Erfolgschancen hat als das Konzept des Erzrivalen Meta."
+        },
+        {
+          "text": "Warum, das hat er unserem Chefredakteur Sven Clausen in einer neuen Folge unseres Podcasts «Das Thema» erzählt."
+        }
+      ],
+      "directQuotes": [],
+      "indirectQuotes": [],
+      "inIntro": false,
+      "inTitle": false,
+      "isMain": false,
+      "name": "Jonas Rest",
+      "occupations": [
+        {
+          "text": "Tech-Reporter"
+        }
+      ],
+      "occurences": {
+        "firstNameOnly": 0,
+        "fullName": 1,
+        "lastNameOnly": 0,
+        "total": 1
+      },
+      "quotedInIntro": false,
+      "quotedInTitle": false,
+      "sex": "male"
+    },
+    
+    {
+      "age": -1,
+      "alternativeNames": [],
+      "birthday": null,
+      "descriptiveTexts": [
+        {
+          "text": "Warum, das hat er unserem Chefredakteur Sven Clausen in einer neuen Folge unseres Podcasts «Das Thema» erzählt."
+        }
+      ],
+      "directQuotes": [],
+      "indirectQuotes": [],
+      "inIntro": false,
+      "inTitle": false,
+      "isMain": false,
+      "name": "Sven Clausen",
+      "occupations": [
+        {
+          "text": "Chefredakteur"
+        }
+      ],
+      "occurences": {
+        "firstNameOnly": 0,
+        "fullName": 1,
+        "lastNameOnly": 0,
+        "total": 1
+      },
+      "quotedInIntro": false,
+      "quotedInTitle": false,
+      "sex": "male"
+    },
+    {
+      "age": -1,
+      "alternativeNames": [],
+      "birthday": null,
+      "descriptiveTexts": [
+        {
+          "text": "Herzliche Grüße und ein erholsames Wochenende, Ihre Marleen Gründel"
+        }
+      ],
+      "directQuotes": [],
+      "indirectQuotes": [],
+      "inIntro": false,
+      "inTitle": false,
+      "isMain": false,
+      "name": "Marleen Gründel",
+      "occupations": [],
+      "occurences": {
+        "firstNameOnly": 0,
+        "fullName": 1,
+        "lastNameOnly": 0,
+        "total": 1
+      },
+      "quotedInIntro": false,
+      "quotedInTitle": false,
+      "sex": "female"
+    }
+
+    
+  ],
+  "subtopics": [
+    "Wirtschaftnews",
+    "Interviews"
+  ]
+}

@@ -1,0 +1,171 @@
+{
+  "persons": [
+    {
+      "age": 50,
+      "alternativeNames": [],
+      "birthday": null,
+      "descriptiveTexts": [
+        {
+          "text": "Geht der Fall Christian Horner in die nächste Runde?"
+        },
+        {
+          "text": "Der Automobil-Weltverband Fia wird sich wohl mit dem Fall Christian Horner beschäftigen müssen."
+        },
+        {
+          "text": "Eine ehemalige Mitarbeiterin hatte dem Teamchef vom Weltmeister-Rennstall Red Bull Racing vorgeworfen, sich »unangemessen« verhalten zu haben."
+        },
+        {
+          "text": "Laut der BBC tat dies die Ex-Mitarbeiterin, die Horner beschuldigte."
+        },
+        {
+          "text": "Für Horner, 50, blieben die Vorwürfe bislang ohne Folgen."
+        },
+        {
+          "text": "Horner war »unangemessenes Verhalten« vorgeworfen worden."
+        },
+        {
+          "text": "Horner hatte die Vorwürfe stets zurückgewiesen."
+        },
+        {
+          "text": "Im Verlauf der vergangenen Wochen wurde immer deutlicher, dass sich innerhalb des Teams, aber auch innerhalb des Konzerns in der Causa Horner zwei Lager gegenüberstehen."
+        }
+
+        
+      ],
+      "directQuotes": [],
+      "indirectQuotes": [
+        {
+          "text": "»Die beschwerende Partei« habe aber das Recht, Berufung einzulegen, hieß es in der knappen Mitteilung."
+        }
+      ],
+      "inIntro": true,
+      "inTitle": false,
+      "isMain": true,
+      "name": "Christian Horner",
+      "occupations": [
+        {
+          "text": "Formel-1-Teamchef"
+        },
+        {
+          "text": "Teamchef"
+        }
+      ],
+      "occurences": {
+        "firstNameOnly": 0,
+        "fullName": 2,
+        "lastNameOnly": 5,
+        "total": 7
+      },
+      "quotedInIntro": false,
+      "quotedInTitle": false,
+      "sex": "male"
+    },
+    {
+      "age": -1,
+      "alternativeNames": [],
+      "birthday": null,
+      "descriptiveTexts": [
+        {
+          "text": "Anfang März hatte sich Fia-Präsident Mohammed Ben Sulayem zu dem Chaos bei Red Bull geäußert."
+        },
+        {
+          "text": "»Es beschädigt den Sport«, hatte er der »Financial Times« gesagt."
+        }
+      ],
+      "directQuotes": [
+        {
+          "text": "»Es beschädigt den Sport«"
+        }
+      ],  
+      "indirectQuotes": [
+        {
+          "text": "Es sei wichtig, den Sport zu schützen."
+        }
+      ],
+      "inIntro": false,
+      "inTitle": false,
+      "isMain": false,
+      "name": "Mohammed Ben Sulayem",
+      "occupations": [
+        {
+          "text": "Fia-Präsident"
+        }
+      ],
+      "occurences": {
+        "firstNameOnly": 0,
+        "fullName": 1,
+        "lastNameOnly": 0,
+        "total": 1
+      },
+      "quotedInIntro": false,
+      "quotedInTitle": false,
+      "sex": "male"
+    },
+    {
+      "age": -1,
+      "alternativeNames": [],
+      "birthday": null,
+      "descriptiveTexts": [
+        {
+          "text": "Die Verwerfungen bei Red Bull sorgen gar für Spekulationen über einen vorzeitigen Abschied des dreimaligen Weltmeisters Max Verstappen, der eigentlich bis 2028 unter Vertrag steht."
+        },
+        {
+          "text": "Verstappen gewann die beiden bisherigen Saisonrennen jeweils vor seinem Teamkollegen Sergio Pérez."
+        }
+      ],
+      "directQuotes": [],
+      "indirectQuotes": [],
+      "inIntro": false,
+      "inTitle": false,
+      "isMain": false,
+      "name": "Max Verstappen",
+      "occupations": [
+        {
+          "text": "dreimaligen Weltmeisters"
+        }
+      ],
+      "occurences": {
+        "firstNameOnly": 0,
+        "fullName": 1,
+        "lastNameOnly": 1,
+        "total": 2
+      },
+      "quotedInIntro": false,
+      "quotedInTitle": false,
+      "sex": "male"
+    },
+    {
+      "age": -1,
+      "alternativeNames": [],
+      "birthday": null,
+      "descriptiveTexts": [
+        {
+          "text": "Verstappen gewann die beiden bisherigen Saisonrennen jeweils vor seinem Teamkollegen Sergio Pérez."
+        }
+      ],
+      "directQuotes": [],
+      "inIntro": false,
+      "inTitle": false,
+      "isMain": false,
+      "name": "Sergio Pérez",
+      "occupations": [
+        {
+          "text": "Teamkollege von Max Verstappen"
+        }
+      ],
+      "occurences": {
+        "firstNameOnly": 0,
+        "fullName": 1,
+        "lastNameOnly": 0,
+        "total": 1
+      },
+      "quotedInIntro": false,
+      "quotedInTitle": false,
+      "sex": "male"
+    }
+  ],
+  "subtopics": [
+    "Formel 1",
+    "Beschwerde"
+  ]
+}

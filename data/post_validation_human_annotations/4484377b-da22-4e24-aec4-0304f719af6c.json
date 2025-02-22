@@ -1,0 +1,240 @@
+{
+  "persons": [
+    {
+      "age": -1,
+      "alternativeNames": [],
+      "birthday": null,
+      "descriptiveTexts": [
+        {
+          "text": "Red Bull hatte 2023 das dominanteste Auto und hat dank Designgenie Adrian Newey noch mal nachgelegt."
+        },
+        {
+          "text": "Doch da wurde die Rechnung ohne Designgenie Adrian Newey gemacht."
+        },
+        {
+          "text": "Der Red-Bull-Technikchef dachte nämlich schon weiter: »Wir wussten, dass uns die anderen kopieren würden. Wenn wir einfach nur das Vorjahresauto weiterentwickelt hätten, wäre das nicht genug gewesen«, sagte er."
+        }
+      ],
+      "directQuotes": [
+        {
+          "text": "»Wir wussten, dass uns die anderen kopieren würden. Wenn wir einfach nur das Vorjahresauto weiterentwickelt hätten, wäre das nicht genug gewesen«"
+        },
+        {
+          "text": "»Deshalb mussten wir uns etwas Neues einfallen lassen.«"
+        }
+      ],
+      "indirectQuotes": [],
+      "inIntro": true,
+      "inTitle": false,
+      "isMain": true,
+      "name": "Adrian Newey",
+      "occupations": [
+        {
+          "text": "Designgenie"
+        },
+        {
+          "text": "Der Red-Bull-Technikchef"
+        }
+      ],
+      "occurences": {
+        "firstNameOnly": 0,
+        "fullName": 2,
+        "lastNameOnly": 0,
+        "total": 2
+      },
+      "quotedInIntro": false,
+      "quotedInTitle": false,
+      "sex": "male"
+    },
+
+    {
+      "age": -1,
+      "alternativeNames": [],
+      "birthday": null,
+      "descriptiveTexts": [
+        {
+          "text": "Schon am ersten Tag der Formel-1-Testfahrten in Bahrain war die Konkurrenz geschockt: Das Weltmeisterteam Red Bull mit Max Verstappen am Steuer fuhr der Konkurrenz davon, an den Kräfteverhältnissen der vergangenen Saison schien sich auch eine Woche vor Saisonbeginn nichts geändert zu haben."
+        },
+        {
+          "text": "Weltmeister Verstappen meint: »Das war ein guter Start für uns. Die Balance hat direkt gepasst.«"
+        }
+      ],
+      "directQuotes": [
+        {
+          "text": "»Das war ein guter Start für uns. Die Balance hat direkt gepasst.«"
+        }
+      ],
+      "indirectQuotes": [],
+      "inIntro": false,
+      "inTitle": false,
+      "isMain": false,
+      "name": "Max Verstappen",
+      "occupations": [
+        {
+          "text": "Weltmeister"
+        }
+      ],
+      "occurences": {
+        "firstNameOnly": 0,
+        "fullName": 1,
+        "lastNameOnly": 1,
+        "total": 2
+      },
+      "quotedInIntro": false,
+      "quotedInTitle": false,
+      "sex": "male"
+    },
+
+    {
+      "age": -1,
+      "alternativeNames": [],
+      "birthday": null,
+      "descriptiveTexts": [
+        {
+          "text": "Über eine Sekunde schneller sei der neue Red Bull RB20 gegenüber der Konkurrenz, schrieb etwa Damon Hill auf X: »Ihr Götter! Habt ihr kein Erbarmen?«, schrieb der britische Ex-Weltmeister dazu."
+        }
+      ],
+      "directQuotes": [
+        {
+          "text": "»Ihr Götter! Habt ihr kein Erbarmen?«"
+        }
+      ],
+      "indirectQuotes": [],
+      "inIntro": false,
+      "inTitle": false,
+      "isMain": false,
+      "name": "Damon Hill",
+      "occupations": [
+        {
+          "text": "der britische Ex-Weltmeister"
+        }
+      ],
+      "occurences": {
+        "firstNameOnly": 0,
+        "fullName": 1,
+        "lastNameOnly": 0,
+        "total": 1
+      },
+      "quotedInIntro": false,
+      "quotedInTitle": false,
+      "sex": "male"
+    },
+
+    {
+      "age": -1,
+      "alternativeNames": [],
+      "birthday": null,
+      "descriptiveTexts": [
+        {
+          "text": "Red-Bull-Motorsport-Koordinator Helmut Marko stapelte eher tief, sprach von 0,3 Sekunden Vorsprung des RB20, räumt aber ein, man habe »ein anständiges Auto«."
+        },
+        {
+          "text": "Das Handling passe, und der Wagen reagierte gut auf Änderungen bei der Abstimmung, so Marko."
+        }
+      ],
+      "directQuotes": [
+        {
+          "text": "»ein anständiges Auto«"
+        }
+      ],
+      "indirectQuotes": [
+        {
+          "text": "Red-Bull-Motorsport-Koordinator Helmut Marko stapelte eher tief, sprach von 0,3 Sekunden Vorsprung des RB20, räumt aber ein, man habe »ein anständiges Auto«."
+        },
+        {
+          "text": "Das Handling passe, und der Wagen reagierte gut auf Änderungen bei der Abstimmung, so Marko."
+        }
+      ],
+      "inIntro": false,
+      "inTitle": false,
+      "isMain": false,
+      "name": "Helmut Marko",
+      "occupations": [
+        {
+          "text": "Red-Bull-Motorsport-Koordinator"
+        }
+      ],
+      "occurences": {
+        "firstNameOnly": 0,
+        "fullName": 1,
+        "lastNameOnly": 1,
+        "total": 2
+      },
+      "quotedInIntro": false,
+      "quotedInTitle": false,
+      "sex": "male"
+    },
+
+    {
+      "age": -1,
+      "alternativeNames": [],
+      "birthday": null,
+      "descriptiveTexts": [
+        {
+          "text": "Interne Untersuchung gegen Teamchef Horner »Eine halbe Sekunde« schätzte man bei Williams den Vorsprung von Red Bull ein, »bis zu einer Sekunde« vermuteten Mercedes-Ingenieure."
+        },
+        {
+          "text": "Da kann es Red Bull wohl auch verkraften, dass der sprichwörtliche Elefant immer noch im Raum steht: Was passiert mit Teamchef Christian Horner, gegen den eine interne Untersuchung wegen »unangemessenen Verhaltens«, wie es öffentlich vage heißt, gegenüber einer Mitarbeiterin läuft."
+        },
+        {
+          "text": "Noch soll Horner die Rückendeckung der thailändischen Mehrheitseigner von Red Bull genießen."
+        },
+        {
+          "text": "Die Frage ist dennoch, ob er auf Dauer zu halten sein wird."
+        }
+      ],
+      "directQuotes": [],
+      "indirectQuotes": [],
+      "inIntro": false,
+      "inTitle": false,
+      "isMain": false,
+      "name": "Christian Horner",
+      "occupations": [
+        {
+          "text": "Teamchef"
+        }
+      ],
+      "occurences": {
+        "firstNameOnly": 0,
+        "fullName": 1,
+        "lastNameOnly": 2,
+        "total": 3
+      },
+      "quotedInIntro": false,
+      "quotedInTitle": false,
+      "sex": "male"
+    },
+
+    {
+      "age": -1,
+      "alternativeNames": [],
+      "birthday": null,
+      "descriptiveTexts": [
+        {
+          "text": "Interne Untersuchung gegen Teamchef Horner »Eine halbe Sekunde« schätzte man bei Williams den Vorsprung von Red Bull ein, »bis zu einer Sekunde« vermuteten Mercedes-Ingenieure."
+        }
+      ],
+      "directQuotes": [],
+      "indirectQuotes": [],
+      "inIntro": false,
+      "inTitle": false,
+      "isMain": false,
+      "name": "Williams",
+      "occupations": [],
+      "occurences": {
+        "firstNameOnly": 0,
+        "fullName": 0,
+        "lastNameOnly": 1,
+        "total": 1
+      },
+      "quotedInIntro": false,
+      "quotedInTitle": false,
+      "sex": "male"
+    }
+    
+  ],
+  "subtopics": [
+    "Formel-1 Innovationen",
+    "Mercedes"
+  ]
+}

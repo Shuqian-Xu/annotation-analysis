@@ -1,0 +1,308 @@
+{
+  "persons": [
+    {
+      "age": 41,
+      "alternativeNames": [],
+      "birthday": null,
+      "descriptiveTexts": [
+        {
+          "text": "In den Boomjahren von Bitcoin und Co. hat sich Ulli Spankowski (41) mit seiner Trading-App manchmal wie ein Eselskarren auf der Autobahn gefühlt."
+        },
+        {
+          "text": "Links und rechts sausten Wettbewerber vorbei, die sich vor allem um Kundenwachstum, Marktanteile und neue Technologien kümmerten – während sich der Chief Digital Officer der Börse Stuttgart brav darauf konzentrierte, mit der Handelsplattform Bison immer neuen Regulierungsvorgaben zu genügen."
+        },
+        {
+          "text": "«Es waren anstrengende Zeiten», sagt Spankowski am Rande der Hamburger Blockchain-Konferenz Blockchance."
+        },
+        {
+          "text": "Europa, wieder einmal totreguliert? «Ganz und gar nicht», sagt Bison-Gründer Spankowski."
+        },
+        {
+          "text": "Damit steht er nicht mehr allein."
+        },
+        {
+          "text": "Für Bison-Entwickler Spankowski hat sich die europäische Regulierungsfreude bewährt: Nach der Pleite des US-Kryptoriesen FTX verzeichnete die Kryptohandels-App deutlichen Zulauf."
+        },
+        {
+          "text": "«Wir sind als Kryptohändler in einem Marathon unterwegs, nicht in einem Kurzstreckenwettlauf», sagt der CDO der Börse Stuttgart."
+        }
+      ],
+      "directQuotes": [
+        {
+          "text": "«Es waren anstrengende Zeiten»"
+        },
+        {
+          "text": "«Aber wir wollten nicht die schnellsten, sondern vor allem vertrauenswürdig sein.»"
+        },
+        {
+          "text": "«Ganz und gar nicht»"
+        },
+        {
+          "text": "«Regulierung ist der wichtigste Faktor, um das Geschäft mit Kryptowährungen und anderen digitalen Assets zukunftsfähig zu machen.»"
+        },
+        {
+          "text": "«Wir sind als Kryptohändler in einem Marathon unterwegs, nicht in einem Kurzstreckenwettlauf»"
+        },
+        {
+          "text": "«Wir mögen langsamer sein, aber wir sind für Krisenzeiten besser aufgestellt.»"
+        }
+      ],
+      "indirectQuotes": [],
+      "inIntro": false,
+      "inTitle": false,
+      "isMain": true,
+      "name": "Ulli Spankowski",
+      "occupations": [
+        {
+          "text": "Chief Digital Officer der Börse Stuttgart"
+        },
+        {
+          "text": "Bison-Gründer"
+        }
+      ],
+      "occurences": {
+        "firstNameOnly": 0,
+        "fullName": 1,
+        "lastNameOnly": 3,
+        "total": 4
+      },
+      "quotedInIntro": false,
+      "quotedInTitle": false,
+      "sex": "male"
+    },
+
+    {
+      "age": 65,
+      "alternativeNames": [],
+      "birthday": null,
+      "descriptiveTexts": [
+        {
+          "text": "Nach diversen Skandalen, dem Kollaps des angeblichen Stablecoin TerraUSD sowie der spektakulären Pleite der Kryptohandelsplattform FTX will der Chef der US-Börsenaufsicht SEC, Gary Gensler (65), Kryptounternehmen nun an die kurze Leine nehmen."
+        },
+        {
+          "text": "Genslers Vorstoß löste am US-Kryptomarkt Panik aus: Nicht wenige Beobachter befürchten ein Ende des Kryptohandels in den USA und einen Exodus von Kryptounternehmen, sollte sich die SEC mit ihren Vorstellungen durchsetzen."
+        },
+        {
+          "text": "Gensler hatte im Juni die beiden Handelsplattformen Coinbase und Binance mit dem Argument verklagt, dass Kryptobörsen letztlich mit Wertpapieren handeln – und damit den Wertpapierhandelsgesetzen sowie der Kontrolle durch die SEC unterliegen."
+        },
+        {
+          "text": "«Ein Hund kann sich nicht als Goldfisch ausgeben, um dem Leinenzwang zu entgehen», kommentierte Gensler seinen Vorstoß: Damit geht er gegen den heimischen Multi-Milliarden-Markt vor, den er als «Wilden Westen und Truppe von Kasinobetreibern» beschreibt."
+        },
+        {
+          "text": "Die USA bieten sich nach der jüngsten Attacke von SEC-Chef Gensler eher nicht als Heimat an: «Bruder, wir betreiben hier ein verdammtes unlizenziertes Wertpapierhandelshaus», zitiert die SEC in ihrer Klageschrift die Mail eines US-Topmanagers von Binance."
+        },
+        {
+          "text": "Nun versuche SEC-Chef Gensler das in einem Gewaltritt nachzuholen – und der Ausgang ist völlig offen."
+        }
+      ],
+      "directQuotes": [
+        {
+          "text": "«Ein Hund kann sich nicht als Goldfisch ausgeben, um dem Leinenzwang zu entgehen»"
+        },
+        {
+          "text": "«Wilden Westen und Truppe von Kasinobetreibern»"
+        }
+      ],
+      "indirectQuotes": [
+        {
+          "text": "Gensler hatte im Juni die beiden Handelsplattformen Coinbase und Binance mit dem Argument verklagt, dass Kryptobörsen letztlich mit Wertpapieren handeln – und damit den Wertpapierhandelsgesetzen sowie der Kontrolle durch die SEC unterliegen."
+        }
+      ],
+      "inIntro": false,
+      "inTitle": false,
+      "isMain": false,
+      "name": "Gary Gensler",
+      "occupations": [
+        {
+          "text": "Chef der US-Börsenaufsicht SEC"
+        }
+      ],
+      "occurences": {
+        "firstNameOnly": 0,
+        "fullName": 1,
+        "lastNameOnly": 5,
+        "total": 6
+      },
+      "quotedInIntro": false,
+      "quotedInTitle": false,
+      "sex": "male"
+    },
+
+    {
+      "age": 45,
+      "alternativeNames": [],
+      "birthday": null,
+      "descriptiveTexts": [
+        {
+          "text": "Kein Zufall, dass Binance-Chef Changpeng Zhao (45) noch immer kein Binance-Hauptquartier ausweist – seine Wandertour auf der Suche nach geringstmöglicher Kontrolle ist noch nicht zu Ende."
+        }
+      ],
+      "directQuotes": [],
+      "indirectQuotes": [],
+      "inIntro": false,
+      "inTitle": false,
+      "isMain": false,
+      "name": "Changpeng Zhao",
+      "occupations": [
+        {
+          "text": "Binance-Chef"
+        }
+      ],
+      "occurences": {
+        "firstNameOnly": 0,
+        "fullName": 1,
+        "lastNameOnly": 0,
+        "total": 1
+      },
+      "quotedInIntro": false,
+      "quotedInTitle": false,
+      "sex": "male"
+    },
+
+    {
+      "age": 39,
+      "alternativeNames": [],
+      "birthday": null,
+      "descriptiveTexts": [
+        {
+          "text": "Zum Beispiel Europa: «Europa hat einen eigenen Rechtsrahmen für den Handel mit Kryptowährungen und anderen digitalen Assets geschaffen», sagt Conrad Ruppel (39), Partner bei der Kanzlei Ashurst LLP."
+        },
+        {
+          "text": "Ruppel sieht die EU als «globalen Vorreiter»: Die Mica-Verordnung («Markets in Crypto Assets»), die auch den Handel mit Kryptowährungen reguliert, ist bereits im Juni in Kraft getreten und findet gestaffelt ab Sommer 2024 europaweit und in allen Mitgliedsstaaten Anwendung."
+        },
+        {
+          "text": "«Europa schafft damit einen funktionierenden Binnenmarkt in einem verlässlichen und innovativen Rechtsrahmen», sagt Ruppel."
+        }
+        
+      ],
+      "directQuotes": [
+        {
+          "text": "Zum Beispiel Europa: «Europa hat einen eigenen Rechtsrahmen für den Handel mit Kryptowährungen und anderen digitalen Assets geschaffen», sagt Conrad Ruppel (39), Partner bei der Kanzlei Ashurst LLP."
+        },
+        {
+          "text": "«Dieser Rechtsrahmen ist keine Bremse, sondern ein Wettbewerbsvorteil. Er ermöglicht Unternehmen, ihr Business langfristig und rechtssicher zu gestalten.»"
+        },
+        {
+          "text": "«globalen Vorreiter»"
+        },
+        {
+          "text": "«Europa schafft damit einen funktionierenden Binnenmarkt in einem verlässlichen und innovativen Rechtsrahmen»"
+        },
+        {
+          "text": "«Das ist sowohl für Unternehmen wie auch für Investoren wichtig.»"
+        },
+        {
+          "text": "«Mica wird dafür sorgen, dass meine Konkurrenten bankrottgehen»"
+        }
+      ],
+      "indirectQuotes": [],
+      "inIntro": false,
+      "inTitle": false,
+      "isMain": false,
+      "name": "Conrad Ruppel",
+      "occupations": [
+        {
+          "text": "Partner bei der Kanzlei Ashurst LLP"
+        }
+      ],
+      "occurences": {
+        "firstNameOnly": 0,
+        "fullName": 1,
+        "lastNameOnly": 2,
+        "total": 3
+      },
+      "quotedInIntro": false,
+      "quotedInTitle": false,
+      "sex": "male"
+    },
+
+    {
+      "age": -1,
+      "alternativeNames": [],
+      "birthday": null,
+      "descriptiveTexts": [
+        {
+          "text": "Przemyslaw Kral, der in Estland die Kryptohandelsplattform Zondacrypto mit 1,5 Millionen Kunden betreibt, hält Mica noch immer für zu kompliziert: «Ich mag Mica. Mica wird dafür sorgen, dass meine Konkurrenten bankrottgehen», lästerte Kral am Rande der Blockchance-Konferenz."
+        }
+      ],
+      "directQuotes": [
+        {
+          "text": "«Ich mag Mica. Mica wird dafür sorgen, dass meine Konkurrenten bankrottgehen»"
+        },
+        {
+          "text": "«deutlich offener»"
+        }
+      ],
+      "indirectQuotes": [
+        {
+          "text": "Andere Länder außerhalb Europas seien «deutlich offener» für den Kryptomarkt."
+        }
+      ],
+      "inIntro": false,
+      "inTitle": false,
+      "isMain": false,
+      "name": "Przemyslaw Kral",
+      "occupations": [
+        {
+          "text": "betreibt Kryptohandelsplattform Zondacrypto mit 1,5 Millionen Kunden"
+        }
+      ],
+      "occurences": {
+        "firstNameOnly": 0,
+        "fullName": 1,
+        "lastNameOnly": 1,
+        "total": 2
+      },
+      "quotedInIntro": false,
+      "quotedInTitle": false,
+      "sex": "male"
+    },
+
+    {
+      "age": -1,
+      "alternativeNames": [],
+      "birthday": null,
+      "descriptiveTexts": [
+        {
+          "text": "Diese Kritik am europäischen Regelwerk will Konstantin Dagianis, Partner bei PWC, so nicht stehen lassen."
+        },
+        {
+          "text": "Mica möge die Geschäftsprozesse etwas verlangsamen, aber aus gutem Grund: «Wir brauchen Vertrauen, damit digitale Assets funktionieren. Das ist die wichtigste Voraussetzung für den Markt», sagt Dagianis."
+        }
+      ],
+      "directQuotes": [
+        {
+          "text": "«Wir brauchen Regeln, um unsere Kunden zu schützen»"
+        },
+        {
+          "text": "«Wir brauchen Vertrauen, damit digitale Assets funktionieren. Das ist die wichtigste Voraussetzung für den Markt»"
+        }
+      ],
+      "indirectQuotes": [],
+      "inIntro": false,
+      "inTitle": false,
+      "isMain": false,
+      "name": "Konstantin Dagianis",
+      "occupations": [
+        {
+          "text": "Partner bei PWC"
+        }
+      ],
+      "occurences": {
+        "firstNameOnly": 0,
+        "fullName": 1,
+        "lastNameOnly": 0,
+        "total": 1
+      },
+      "quotedInIntro": false,
+      "quotedInTitle": false,
+      "sex": "male"
+    }
+
+    
+  ],
+  "subtopics": [
+    "Kryptomarkt",
+    "Handeln"
+  ]
+}

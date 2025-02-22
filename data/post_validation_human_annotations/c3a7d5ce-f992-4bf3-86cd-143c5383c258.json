@@ -1,0 +1,118 @@
+{
+  "persons": [
+    {
+      "age": -1,
+      "alternativeNames": [],
+      "birthday": null,
+      "descriptiveTexts": [
+        {
+          "text": "In unserem aktuellen Podcast berichtet manager-magazin-Reporter Martin Mehringer über seine Recherchen."
+        },
+        {
+          "text": "Dass P&C Anfang März Insolvenz anmeldete, schien Martin Mehringer, Reporter des manager magazins und Experte unter anderem für den Einzelhandel, dennoch merkwürdig."
+        },
+        {
+          "text": "Also begann Mehringer mit seinen Recherchen - und stieß auf ein paar Merkwürdigkeiten:"
+        },
+        {
+          "text": "Die Ergebnisse seiner Recherchen hat Mehringer in seinem Beitrag »War die Pleite lange geplant?« zusammengefasst, in diesem Podcast berichtet er im Gespräch mit Chefredakteur Sven Clausen von seinen Recherchen."
+        }
+      ],
+      "directQuotes": [],
+      "inIntro": true,
+      "inTitle": false,
+      "indirectQuotes": [],
+      "isMain": false,
+      "name": "Martin Mehringer",
+      "occupations": [
+        {
+          "text": "manager-magazin-Reporter"
+        },
+        {
+          "text": "Experte unter anderem für den Einzelhandel"
+        }
+      ],
+      "occurences": {
+        "firstNameOnly": 0,
+        "fullName": 2,
+        "lastNameOnly": 2,
+        "total": 4
+      },
+      "quotedInIntro": false,
+      "quotedInTitle": false,
+      "sex": "male"
+    },
+    {
+      "age": 40,
+      "alternativeNames": [],
+      "birthday": null,
+      "descriptiveTexts": [
+        {
+          "text": "Also begann Mehringer mit seinen Recherchen - und stieß auf ein paar Merkwürdigkeiten: Warum verschob Firmenchef Patrick Cloppenburg (40) in den vergangenen Monaten Vermögenswerte in die Schweiz?"
+        },
+        {
+          "text": "Warum ließ er eine Schlüsselposition lange unbesetzt?"
+        },
+        {
+          "text": "Wieso platzten Gespräche mit den Banken ungewöhnlich früh und warum kaufte sich Cloppenburg zu Beginn des Jahres noch für einen zweistelligen Millionenbetrag eine Yacht?"
+        }
+      ],
+      "directQuotes": [],
+      "inIntro": false,
+      "inTitle": true,
+      "indirectQuotes": [],
+      "isMain": true,
+      "name": "Patrick Cloppenburg",
+      "occupations": [
+        {
+          "text": "Firmenchef"
+        }
+      ],
+      "occurences": {
+        "firstNameOnly": 0,
+        "fullName": 1,
+        "lastNameOnly": 1,
+        "total": 2
+      },
+      "quotedInIntro": false,
+      "quotedInTitle": false,
+      "sex": "male"
+    },
+    
+    {
+      "age": -1,
+      "alternativeNames": [],
+      "birthday": null,
+      "descriptiveTexts": [
+        {
+          "text": "Die Ergebnisse seiner Recherchen hat Mehringer in seinem Beitrag »War die Pleite lange geplant?« zusammengefasst, in diesem Podcast berichtet er im Gespräch mit Chefredakteur Sven Clausen von seinen Recherchen."
+        }
+      ],
+      "directQuotes": [],
+      "inIntro": false,
+      "inTitle": false,
+      "indirectQuotes": [],
+      "isMain": false,
+      "name": "Sven Clausen",
+      "occupations": [
+        {
+          "text": "Chefredakteur"
+        }
+      ],
+      "occurences": {
+        "firstNameOnly": 0,
+        "fullName": 1,
+        "lastNameOnly": 0,
+        "total": 1
+      },
+      "quotedInIntro": false,
+      "quotedInTitle": false,
+      "sex": "male"
+    }
+  ],
+  "subtopics": [
+    "Podcast",
+    "Insolvenz",
+    "Betrug"
+  ]
+}

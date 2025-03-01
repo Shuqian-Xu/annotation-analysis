@@ -32,47 +32,35 @@ if __name__ == "__main__":
     #     # At this point, human_data, gemma_data, and llama_data are all valid
     #     print(f"Ready to compare {filename}")
 
-    print("Testing Metrics for Descriptive Texts...")
+    """
+        Tests the comparator.py implementation using the given human and gemma 2-9b annotation files.
+        Prints the results for verification.
+        """
+    human_folder = "data/post_validation_human_annotations"
+    llm_folder = "data/gemma_2-9b_output"
+    filename = "6cb137ab-8585-4952-86e5-aeca9472708a.json"
 
-    # Human annotation descriptiveTexts
-    human_texts = [
-        "Antje Heinemann-Sanders lebt in einem kleinen, norddeutschen Idyll.",
-        "Die zwei Pferde und das Pony, »so ein freches«, hat Heinemann-Sanders längst anderswo untergebracht.",
-        "Noch kann sie in ihrem Haus bleiben.",
-        "Mit einem großen Anhänger fahren sie vors Haus, Heinemann-Sanders, die Tochter, die Schwester und Marco Kirchner, der Nachbar.",
-        "»Der Hänger trägt zwar ein ganzes Pferd, aber keine 30 Säcke«, sagt Heinemann-Sanders später.",
-        "Sie ärgert sich über die Organisation.",
-        "Im alten Dorf in Bümmerstede hätten sie alle eine Elementarschadenversicherung, sagt Antje Heinemann-Sanders.",
-        "Und sie wüsste nicht, was die Versicherung zahle.",
-        "Sie werde sichern, was möglich ist; Holzpflöcke und Pflastersteine unter die Möbel stellen."
-    ]
+    # Load JSON data
+    human_data = scripts.file_loader.load_json(human_folder, filename)
+    llm_data = scripts.file_loader.load_json(llm_folder, filename)
 
-    # Gemma 2-9b annotation descriptiveTexts
-    gemma_texts = [
-        "Antje Heinemann-Sanders lebt in einem kleinen, norddeutschen Idyll.",
-        "Die zwei Pferde und das Pony, »so ein freches«, hat Heinemann-Sanders längst anderswo untergebracht.",
-        "Noch kann sie in ihrem Haus bleiben.",
-        "Mit einem großen Anhänger fahren sie vors Haus, Heinemann-Sanders, die Tochter, die Schwester und Marco Kirchner, der Nachbar.",
-        "Sie wollten die rationierten 15 Sandsäcke abholen, die jedem Haushalt zustehen.",
-        "Bekommen haben sie nur 30 Säcke, mehr hätten die Helfer nicht aufladen wollen, wegen des Gewichts.",
-        "»Der Hänger trägt zwar ein ganzes Pferd, aber keine 30 Säcke«, sagt Heinemann-Sanders später.",
-        "Sie ärgert sich über die Organisation.",
-        "So sollen sie das Wasser aufhalten, falls es weiter über die Ufer tritt oder falls Deiche brechen.",
-        "Den größten Teil der Schäden könne man noch gar nicht beziffern, da sie derzeit noch unter Wasser lägen.",
-        "Im alten Dorf in Bümmerstede hätten sie alle eine Elementarschadenversicherung, sagt Antje Heinemann-Sanders.",
-        "Und sie wüsste nicht, was die Versicherung zahle.",
-        "»Hundert Quadratmeter Parkettboden – wissen Sie, wie viel das kostet?«",
-        "Sie werde sichern, was möglich ist; Holzpflöcke und Pflastersteine unter die Möbel stellen."
-    ]
+    # Ensure files are loaded properly
+    if human_data is None or llm_data is None:
+        print(f"Error: Could not load {filename} for testing.")
 
-    # Running all relevant metrics
-    print("Exact Match:", scripts.metrics.exact_match(human_texts, gemma_texts))
-    print("Normalized Exact Match:", scripts.metrics.normalized_exact_match(human_texts, gemma_texts))
-    print("90% Similarity Match:", scripts.metrics.similarity_90_match(human_texts, gemma_texts))
-    print("Precision:", scripts.metrics.precision(human_texts, gemma_texts))
-    print("BLEU-1:", scripts.metrics.bleu_1(human_texts, gemma_texts))
-    print("Recall:", scripts.metrics.recall(human_texts, gemma_texts))
-    print("ROUGE-1:", scripts.metrics.rouge_1(human_texts, gemma_texts))
-    print("F1 Score:", scripts.metrics.f1_score(human_texts, gemma_texts))
+    # Compare annotations
+    result = scripts.comparator.compare_annotations(human_data, llm_data, filename)
 
-    print("Descriptive Texts Test Completed!")
+    # Print formatted result
+    print("\n=== Test: Comparison Result ===")
+    print(f"Filename: {result['filename']}")
+
+    for var, scores in result["scores"].items():
+        if isinstance(scores, dict):  # Text-based metrics with multiple scores
+            print(f"{var}:")
+            for metric, value in scores.items():
+                print(f"  {metric}: {value}")
+        else:  # Single-score metrics
+            print(f"{var}: {scores}")
+
+    print("\n=== Test Completed ===")

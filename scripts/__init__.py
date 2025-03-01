@@ -1,1 +1,1 @@
-from . import file_loader, metrics
+from . import file_loader, metrics, comparator

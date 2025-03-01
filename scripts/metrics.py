@@ -6,10 +6,14 @@ def concatenate_texts(text_list):
     """
     Concatenates all "text" values into a single string, ensuring a consistent comparison format.
 
-    :param text_list: List of "text" values.
+    :param text_list: List of dictionaries containing "text" keys.
     :return: A concatenated string.
     """
-    return " ".join(text_list).strip()
+    if not isinstance(text_list, list):  # Ensure it's a list
+        return ""
+
+    extracted_texts = [entry["text"] for entry in text_list if isinstance(entry, dict) and "text" in entry]
+    return " ".join(extracted_texts).strip()
 
 def exact_match(human_value, llm_value, is_text_based=False):
     """
@@ -74,12 +78,12 @@ def jaccard_similarity(human_list, llm_list):
 
 def normalize_text(text):
     """
-    Normalizes text by converting to lowercase and removing punctuation.
+    Normalizes text by converting to lowercase and removing punctuation and special symbols.
 
     :param text: The input string.
     :return: Normalized string.
     """
-    return re.sub(r'[^\w\s]', '', text.lower()).strip()
+    return re.sub(r'[^a-zA-Z0-9äöüÄÖÜß\s]', '', text.lower()).strip()
 
 def normalized_exact_match(human_texts, llm_texts):
     """
@@ -122,10 +126,20 @@ def precision(human_texts, llm_texts):
     """
     Computes Precision for text-based variables.
 
-    :param human_texts: List of "text" values from human annotation.
-    :param llm_texts: List of "text" values from LLM annotation.
+    :param human_texts: List of "text" dictionaries from human annotation.
+    :param llm_texts: List of "text" dictionaries from LLM annotation.
     :return: Precision score between 0 and 1.
     """
+    # Ensure both inputs are lists; if None, set them to empty lists
+    human_texts = human_texts if isinstance(human_texts, list) else []
+    llm_texts = llm_texts if isinstance(llm_texts, list) else []
+
+    # Extract "text" values from dictionaries
+    if isinstance(human_texts, list):
+        human_texts = [entry["text"] for entry in human_texts if isinstance(entry, dict) and "text" in entry]
+    if isinstance(llm_texts, list):
+        llm_texts = [entry["text"] for entry in llm_texts if isinstance(entry, dict) and "text" in entry]
+
     # Convert to sets to compare unique values
     human_set = set(human_texts)
     llm_set = set(llm_texts)
@@ -170,10 +184,20 @@ def recall(human_texts, llm_texts):
     """
     Computes Recall for text-based variables.
 
-    :param human_texts: List of "text" values from human annotation.
-    :param llm_texts: List of "text" values from LLM annotation.
+    :param human_texts: List of "text" dictionaries from human annotation.
+    :param llm_texts: List of "text" dictionaries from LLM annotation.
     :return: Recall score between 0 and 1.
     """
+    # Ensure both inputs are lists; if None, set them to empty lists
+    human_texts = human_texts if isinstance(human_texts, list) else []
+    llm_texts = llm_texts if isinstance(llm_texts, list) else []
+
+    # Extract "text" values from dictionaries
+    if isinstance(human_texts, list):
+        human_texts = [entry["text"] for entry in human_texts if isinstance(entry, dict) and "text" in entry]
+    if isinstance(llm_texts, list):
+        llm_texts = [entry["text"] for entry in llm_texts if isinstance(entry, dict) and "text" in entry]
+
     # Convert to sets to compare unique values
     human_set = set(human_texts)
     llm_set = set(llm_texts)

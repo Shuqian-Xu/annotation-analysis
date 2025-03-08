@@ -1,0 +1,342 @@
+{
+    "persons": [
+        {
+            "name": "Martin",
+            "alternativeNames": [],
+            "age": 27,
+            "sex": "male",
+            "occurences": {
+                "total": 1,
+                "firstNameOnly": 0,
+                "lastNameOnly": 0,
+                "fullName": 1,
+                "nickname": 0
+            },
+            "inTitle": false,
+            "inIntro": false,
+            "_name": {
+                "firstname": "Martin",
+                "lastname": null,
+                "nickname": null,
+                "alternative_names": [],
+                "academic_title": null,
+                "nobility_title_or_rank": null
+            },
+            "descriptiveTexts": [
+                {
+                    "text": "Am Tag danach kommt wieder eine WhatsApp, diesmal von meinem Papa: \u00bbMartin rief gerade bei Mama an, Oma ist erl\u00f6st!\u00ab"
+                }
+            ],
+            "occupations": [],
+            "directQuotes": [
+                {
+                    "text": "Martin rief gerade bei Mama an, Oma ist erl\u00f6st!"
+                }
+            ],
+            "quotedInTitle": false,
+            "quotedInIntro": false
+        },
+        {
+            "name": "Oskar",
+            "alternativeNames": [],
+            "age": -1,
+            "sex": "male",
+            "occurences": {
+                "total": 1,
+                "firstNameOnly": 0,
+                "lastNameOnly": 0,
+                "fullName": 1,
+                "nickname": 0
+            },
+            "inTitle": false,
+            "inIntro": false,
+            "_name": {
+                "firstname": "Oskar",
+                "lastname": null,
+                "nickname": null,
+                "alternative_names": [],
+                "academic_title": null,
+                "nobility_title_or_rank": null
+            },
+            "descriptiveTexts": [
+                {
+                    "text": "Oskar sitzt ruhig daneben, hat seine Ohren angelegt und guckt uns mit gro\u00dfen Augen an."
+                }
+            ],
+            "occupations": [],
+            "directQuotes": [],
+            "quotedInTitle": false,
+            "quotedInIntro": false
+        },
+        {
+            "name": "Oma",
+            "alternativeNames": [],
+            "age": 98,
+            "sex": "female",
+            "occurences": {
+                "total": 31,
+                "firstNameOnly": 0,
+                "lastNameOnly": 0,
+                "fullName": 31,
+                "nickname": 0
+            },
+            "inTitle": false,
+            "inIntro": false,
+            "_name": {
+                "firstname": null,
+                "lastname": null,
+                "nickname": null,
+                "alternative_names": [],
+                "academic_title": null,
+                "nobility_title_or_rank": null
+            },
+            "descriptiveTexts": [
+                {
+                    "text": "Sie war eine scheinbar unsterbliche Frau"
+                },
+                {
+                    "text": "Sie kochte formvollendete Kartoffelkn\u00f6del, bezeichnete ihre Enkel als Geschenk des Himmels: Nach ihrem Tod erinnert sich unser Autor an eine pragmatische und unersch\u00fctterliche Gro\u00dfmutter, die ihn ein Leben lang pr\u00e4gen wird."
+                },
+                {
+                    "text": "Dass sie mich so gut und verl\u00e4sslich w\u00e4rmen, liegt auch daran, dass sie meine Oma gestrickt hat."
+                },
+                {
+                    "text": "Im Socken stricken war sie unerm\u00fcdlich."
+                },
+                {
+                    "text": "Vermutlich hat sie Hunderte Paar Socken gestrickt und dabei jedes erdenkliche Farbmuster ausprobiert."
+                },
+                {
+                    "text": "Sie hat die komplette Familie eingedeckt, meinen Freundeskreis versorgt und zuletzt auch Sockenbestellungen der Pflegerinnen im Heim entgegengenommen."
+                },
+                {
+                    "text": "Meine Oma ist im biblischen Alter von 98 Jahren gestorben."
+                },
+                {
+                    "text": "Sofort ahne ich, dass es um meine Oma geht."
+                },
+                {
+                    "text": "Am Telefon erkl\u00e4rt meine Mutter, dass das Heim, in dem meine Oma seit zweieinhalb Jahren lebt, meinen Onkel angerufen habe."
+                },
+                {
+                    "text": "Ich hatte ein sehr enges Verh\u00e4ltnis zu meiner Oma, was auch daran lag, dass meine Gro\u00dfeltern v\u00e4terlicherseits bereits vor meiner Geburt gestorben sind."
+                },
+                {
+                    "text": "Wenn ich sie in den vergangenen Jahren in Cuxhaven besucht habe, war ich mir trotz ihres hohen Alters sicher, dass es nicht das letzte Mal gewesen ist."
+                },
+                {
+                    "text": "Sie war eine scheinbar unsterbliche Frau, ein lebendes Geschichtsbuch, das in 35.826 Tagen auf dieser verr\u00fcckten Welt so manche Krise \u00fcberstanden hat: einen Weltkrieg, den Hungerwinter 1946/47, kleine und gro\u00dfe Wirtschaftskrisen, eine Krebserkrankung und zu guter Letzt die Coronapandemie."
+                },
+                {
+                    "text": "Bevor sie Anfang 2021 in ein Heim gezogen ist, hat sie ihren letzten gro\u00dfen Kampf mit den Rehen, die \u00fcber die Felder aus der Umgebung in ihren Garten spaziert sind, ausgefochten."
+                },
+                {
+                    "text": "Doch auch davon lie\u00df sie sich nicht unterkriegen."
+                },
+                {
+                    "text": "Die Rosen wurden durch Plastikblumen ersetzt und sobald im Fr\u00fchjahr die ersten Krokusse oder Narzissen aus der Erde dr\u00e4ngten, st\u00fclpte Oma ihnen einen umgedrehten Fahrradkorb \u00fcber."
+                },
+                {
+                    "text": "Pragmatismus hat sie immer ausgezeichnet."
+                },
+                {
+                    "text": "Doch meine Oma war nicht nur extrem widerstandsf\u00e4hig, sie war in unserer Familie, die durch Streitereien, Schicksalsschl\u00e4ge und Trennungen immer wieder auf die Probe gestellt wurde, eine wichtige Konstante."
+                },
+                {
+                    "text": "Egal wie turbulent die Zeiten auch waren, Oma war immer da und hatte f\u00fcr jeden ein offenes Ohr."
+                },
+                {
+                    "text": "Ihr Sessel steht heute wieder dort, wo sie immer sa\u00df und Kreuzwortr\u00e4tsel gel\u00f6st hat \u2013 ganz ohne Google."
+                },
+                {
+                    "text": "Wenn sie die Hauptstadt eines Landes nicht wusste, hat sie einen Atlas rausgeholt und nachgeschaut."
+                },
+                {
+                    "text": "Ich konnte ihr meist nur helfen, wenn es um Fu\u00dfballer ging, und war fasziniert davon, was meine Oma alles wusste."
+                },
+                {
+                    "text": "Meine Oma hat mir mit K\u00fcchenutensilien, die man sonst eher in Museen vermuten w\u00fcrde, beigebracht, wie ich die perfekten Kartoffelkn\u00f6del forme."
+                },
+                {
+                    "text": "Und sie hat mir gezeigt, dass ich beim Puzzeln die n\u00f6tige Ruhe finde, die mir manchmal fehlt."
+                },
+                {
+                    "text": "Einzig mein Interesse f\u00fcr Gedichte und \u00e4ltere deutsche Literatur hat sie Zeit ihres Lebens nicht wecken k\u00f6nnen."
+                },
+                {
+                    "text": "In dem Alter hat sie n\u00e4mlich begonnen, Gedichte auswendig zu lernen, um ihren Kopf fit zu halten."
+                },
+                {
+                    "text": "Die Gedichte hat sie auch im Heim noch mit Stolz vorgetragen."
+                },
+                {
+                    "text": "So gut sie sich die Verse auch merken konnte, manche Geschichten von fr\u00fcher hat sie immer und immer wieder erz\u00e4hlt \u2013 und jedes Mal mit einer Begeisterung und Freude, als h\u00f6rte ich sie gerade zum ersten Mal."
+                },
+                {
+                    "text": "Etwa wie ihre Mutter die nach einem Bad im Bach entflohenen G\u00e4nse mit einem Kn\u00fcppel wieder eingefangen hat oder wie ebenjene G\u00e4nse meinem Onkel an den Kragen gegangen sind, nachdem dieser sie vorher ge\u00e4rgert hat."
+                },
+                {
+                    "text": "Besonders h\u00e4ufig hat sie erz\u00e4hlt, wie sie meinen Opa auf einer Studienreise in den Schwarzwald kurz nach dem Krieg kennengelernt hat."
+                },
+                {
+                    "text": "Die beiden seien sich nach zehn Tagen einig gewesen, dass sie fortan ihr Leben miteinander teilen w\u00fcrden."
+                },
+                {
+                    "text": "Auch f\u00fcr diese Best\u00e4ndigkeit habe ich meinen Opa und meine Oma bewundert."
+                },
+                {
+                    "text": "Einen Tag nach der WhatsApp-Nachricht meiner Mutter stehe ich mit meiner Cousine und meiner Schwester im Zimmer meiner Oma."
+                },
+                {
+                    "text": "Sie liegt zusammengekr\u00fcmmt auf der Seite, ihre Haut ist blass und eingefallen, der Atem schwer."
+                },
+                {
+                    "text": "Ihre Augen sind weit ge\u00f6ffnet, aber ansprechbar ist sie trotzdem nicht."
+                },
+                {
+                    "text": "Nichts erinnert mehr an die fr\u00f6hliche und unersch\u00fctterliche Frau, die sie war."
+                },
+                {
+                    "text": "Ich greife ihre Hand und erschrecke: Sie ist kalt."
+                },
+                {
+                    "text": "Oma befindet sich in der finalen Phase des Sterbens."
+                },
+                {
+                    "text": "Jetzt sehe ich mit eigenen Augen, was der Satz \u00bbmeine Oma liegt im Sterben\u00ab, den ich engen Freunden geschrieben habe, wirklich bedeutet."
+                },
+                {
+                    "text": "Je l\u00e4nger wir bei meiner Oma sind, desto mehr kann ich diese Ausnahmesituation begreifen und einordnen."
+                },
+                {
+                    "text": "Als meine Oma wach und ansprechbar ist, befeuchtet meine Cousine behutsam ihre Lippen und versucht, ihr etwas Wasser zu geben."
+                },
+                {
+                    "text": "Meine Cousine arbeitet als Erzieherin und wirkt im Umgang mit meiner Oma sehr einf\u00fchlsam und fast schon routiniert."
+                },
+                {
+                    "text": "Wie etwa die kurzen Atempausen, die manchmal so lang sind, dass ich mir sicher bin, dass sie es jetzt geschafft hat."
+                },
+                {
+                    "text": "Ich bin einerseits entsetzt dar\u00fcber, meine Oma sterben zu sehen, andererseits auf eine merkw\u00fcrdige Art und Weise fasziniert davon, was mit ihrem K\u00f6rper passiert \u2013 und dass ich dabei sein kann."
+                },
+                {
+                    "text": "W\u00e4hrend wir bei meiner Oma im Zimmer sitzen, verschwimmen alle Probleme, Termine und Verpflichtungen, die mich bis gestern noch besch\u00e4ftigt haben."
+                },
+                {
+                    "text": "Ich denke, dass ich sie noch \u00f6fter h\u00e4tte besuchen k\u00f6nnen, ich h\u00e4tte ihr gerade im Winter mehr Ablenkung von diesem tristen Alltag im Heim schaffen k\u00f6nnen."
+                },
+                {
+                    "text": "Und auch wenn sie oft \u00fcber Banalit\u00e4ten gemeckert hat, glaube ich, dass sie die Zeit immer sehr genossen hat."
+                },
+                {
+                    "text": "Im Schreibblock meiner Oma finde ich eine Notiz, die mich in diesem Gef\u00fchl best\u00e4tigt: \u00bbDiese Enkel sind ein Geschenk des Himmels.\u00ab"
+                },
+                {
+                    "text": "Ein solches Geschenk war unsere Oma aber auch f\u00fcr uns."
+                },
+                {
+                    "text": "Sie hat jeden von uns auf ihre Weise gepr\u00e4gt und ihre Werte mitgegeben: Bescheidenheit, Dankbarkeit und F\u00fcrsorglichkeit."
+                },
+                {
+                    "text": "Als ich von meiner Oma zur\u00fcckkomme und die Kellertreppen ihres alten Hauses hochgehe, in dem wir alle schlafen, h\u00f6re ich schon den Hund meiner Eltern in ekstatischer Erwartung meiner Ankunft."
+                },
+                {
+                    "text": "In den folgenden Tagen besuche ich meine Oma noch zweimal."
+                },
+                {
+                    "text": "Bei meinem letzten Besuch schl\u00e4ft meine Oma die ganze Zeit."
+                },
+                {
+                    "text": "Ich sitze zusammen mit meiner Schwester an ihrem Bett, halte ihre kalte Hand und rede mit ihr, auch wenn sie mich vermutlich nicht h\u00f6rt."
+                },
+                {
+                    "text": "Als wir beschlie\u00dfen aufzubrechen, wissen wir beide, dass wir unsere Oma jetzt zum letzten Mal sehen werden."
+                },
+                {
+                    "text": "Die Entscheidung scheint uns zu erdr\u00fccken, ich w\u00fcnschte, sie w\u00fcrde es uns leicht machen und jetzt vor unseren Augen einschlafen."
+                },
+                {
+                    "text": "\u00bbMach\u2019s gut, Oma.\u00ab"
+                },
+                {
+                    "text": "Am Tag danach kommt wieder eine WhatsApp, diesmal von meinem Papa: \u00bbMartin rief gerade bei Mama an, Oma ist erl\u00f6st!\u00ab"
+                },
+                {
+                    "text": "Er schreibt, dass seine Oma vor wenigen Wochen gestorben sei, was ich nicht wusste und mich deswegen schlecht f\u00fchle."
+                },
+                {
+                    "text": "Sie hatte nach einem Sturz eine Weile im Koma gelegen und war gestorben."
+                },
+                {
+                    "text": "Als ich seine Nachricht lese, wird mir klar, wie viel Gl\u00fcck ich hatte, mich von meiner Oma zu verabschieden."
+                },
+                {
+                    "text": "Er konnte nicht tagelang an ihrem Bett sitzen, konnte nicht mehr mit ihr sprechen und konnte nicht selbst entscheiden, wann er sie das letzte Mal sehen wird."
+                },
+                {
+                    "text": "Ich hoffe, dass er genauso viele sch\u00f6ne Erinnerungen an seine Oma im Kopf hat wie ich."
+                },
+                {
+                    "text": "Und dass er ab und zu auch an meine Oma denkt."
+                },
+                {
+                    "text": "Im vergangenen Jahr hat sie ihm ein Paar Socken gestrickt."
+                }
+            ],
+            "occupations": [
+                {
+                    "text": "Gro\u00dfmutter"
+                },
+                {
+                    "text": "F\u00fcrsorglichkeit"
+                },
+                {
+                    "text": "Pragmatismus"
+                }
+            ],
+            "directQuotes": [
+                {
+                    "text": "meine Oma liegt im Sterben"
+                },
+                {
+                    "text": "Diese Enkel sind ein Geschenk des Himmels."
+                }
+            ],
+            "quotedInTitle": false,
+            "quotedInIntro": false
+        },
+        {
+            "name": "Pan",
+            "alternativeNames": [],
+            "age": -1,
+            "sex": "unknown",
+            "occurences": {
+                "total": 1,
+                "firstNameOnly": 0,
+                "lastNameOnly": 0,
+                "fullName": 1,
+                "nickname": 0
+            },
+            "inTitle": false,
+            "inIntro": false,
+            "_name": {
+                "firstname": "Pan",
+                "lastname": null,
+                "nickname": null,
+                "alternative_names": [],
+                "academic_title": null,
+                "nobility_title_or_rank": null
+            },
+            "descriptiveTexts": [
+                {
+                    "text": "Und manchmal ist sie nachts aufgewacht, weil ihr dann doch der Name des griechischen Hirtengottes mit drei Buchstaben eingefallen ist (Pan)."
+                }
+            ],
+            "occupations": [],
+            "directQuotes": [],
+            "quotedInTitle": false,
+            "quotedInIntro": false
+        }
+    ]
+}

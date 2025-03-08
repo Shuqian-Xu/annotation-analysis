@@ -1,0 +1,74 @@
+{
+    "persons": [
+        {
+            "name": "Christoph Rottwilm",
+            "alternativeNames": [],
+            "age": -1,
+            "sex": "male",
+            "occurences": {
+                "total": 1,
+                "firstNameOnly": 0,
+                "lastNameOnly": 0,
+                "fullName": 1,
+                "nickname": 0
+            },
+            "inTitle": false,
+            "inIntro": false,
+            "_name": {
+                "firstname": "Christoph",
+                "lastname": "Rottwilm",
+                "nickname": null,
+                "alternative_names": [],
+                "academic_title": null,
+                "nobility_title_or_rank": null
+            },
+            "descriptiveTexts": [
+                {
+                    "text": "Und wann gibt es auf dem Immobilienmarkt endlich wieder verl\u00e4ssliche Preise? manager-magazin-Redakteur Christoph Rottwilm, als passionierter Schachspieler schon von Haus aus ein Stratege, hat \u00fcber Versprechen und Wirklichkeit vermeintlich sicherer Geldanlagen recherchiert."
+                },
+                {
+                    "text": "In dieser Podcast-Folge von \"Das Thema\" informiert er im Gespr\u00e4ch mit Chefredakteur Sven Clausen \u00fcber seine Erkenntnisse."
+                }
+            ],
+            "occupations": [],
+            "directQuotes": [],
+            "quotedInTitle": false,
+            "quotedInIntro": false
+        },
+        {
+            "name": "Sven Clausen",
+            "alternativeNames": [],
+            "age": -1,
+            "sex": "male",
+            "occurences": {
+                "total": 1,
+                "firstNameOnly": 0,
+                "lastNameOnly": 0,
+                "fullName": 1,
+                "nickname": 0
+            },
+            "inTitle": false,
+            "inIntro": false,
+            "_name": {
+                "firstname": "Sven",
+                "lastname": "Clausen",
+                "nickname": null,
+                "alternative_names": [],
+                "academic_title": null,
+                "nobility_title_or_rank": null
+            },
+            "descriptiveTexts": [
+                {
+                    "text": "In dieser Podcast-Folge von \"Das Thema\" informiert er im Gespr\u00e4ch mit Chefredakteur Sven Clausen \u00fcber seine Erkenntnisse."
+                },
+                {
+                    "text": "Sie k\u00f6nnen den Podcast \u00fcber manager magazin sowie auf Spotify, Apple, Deezer und bei Google abonnieren."
+                }
+            ],
+            "occupations": [],
+            "directQuotes": [],
+            "quotedInTitle": false,
+            "quotedInIntro": false
+        }
+    ]
+}

@@ -1,0 +1,348 @@
+{
+    "persons": [
+        {
+            "name": "Elton John",
+            "alternativeNames": [],
+            "age": -1,
+            "sex": "male",
+            "occurences": {
+                "total": 1,
+                "firstNameOnly": 0,
+                "lastNameOnly": 0,
+                "fullName": 1,
+                "nickname": 0
+            },
+            "inTitle": false,
+            "inIntro": false,
+            "_name": {
+                "firstname": "Elton",
+                "lastname": "John",
+                "nickname": null,
+                "alternative_names": [],
+                "academic_title": null,
+                "nobility_title_or_rank": null
+            },
+            "descriptiveTexts": [
+                {
+                    "text": "Aber es w\u00fcrde den bisherigen Spitzenreiter Elton John weit in den Schatten stellen."
+                }
+            ],
+            "occupations": [],
+            "directQuotes": [],
+            "quotedInTitle": false,
+            "quotedInIntro": false
+        },
+        {
+            "name": "Gina Raimondo",
+            "alternativeNames": [],
+            "age": -1,
+            "sex": "female",
+            "occurences": {
+                "total": 1,
+                "firstNameOnly": 0,
+                "lastNameOnly": 0,
+                "fullName": 1,
+                "nickname": 0
+            },
+            "inTitle": false,
+            "inIntro": false,
+            "_name": {
+                "firstname": "Gina",
+                "lastname": "Raimondo",
+                "nickname": null,
+                "alternative_names": [],
+                "academic_title": null,
+                "nobility_title_or_rank": null
+            },
+            "descriptiveTexts": [
+                {
+                    "text": "Die fr\u00fchere Gouverneurin von Rhode Island und jetzige US-Handelsministerin Gina Raimondo hat einst versucht, den Bundesstaat an dem Wohlstand in der Gegend teilhaben zu lassen \u2013 mit einer Zweitwohnungsteuer auf Luxusanwesen, der sogenannten Taylor-Swift-Steuer."
+                },
+                {
+                    "text": "Sie zog den Plan zur\u00fcck."
+                }
+            ],
+            "occupations": [],
+            "directQuotes": [],
+            "quotedInTitle": false,
+            "quotedInIntro": false
+        },
+        {
+            "name": "Paul Krugman",
+            "alternativeNames": [],
+            "age": -1,
+            "sex": "male",
+            "occurences": {
+                "total": 1,
+                "firstNameOnly": 0,
+                "lastNameOnly": 0,
+                "fullName": 1,
+                "nickname": 0
+            },
+            "inTitle": false,
+            "inIntro": false,
+            "_name": {
+                "firstname": "Paul",
+                "lastname": "Krugman",
+                "nickname": null,
+                "alternative_names": [],
+                "academic_title": null,
+                "nobility_title_or_rank": null
+            },
+            "descriptiveTexts": [
+                {
+                    "text": "\u00bbIst Taylor Swift unterbezahlt?\", sorgte sich gar der Nobelpreistr\u00e4ger Paul Krugman."
+                }
+            ],
+            "occupations": [],
+            "directQuotes": [
+                {
+                    "text": ", sorgte sich gar der Nobelpreistr\u00e4ger Paul Krugman. Verglichen mit dem 19. Jahrhundert sei Livemusik heute \u00bbein Schn\u00e4ppchen\u00ab, argumentiert der \u00d6konom \u2013 dank technischen Fortschritts, und weil heute 80.000 Menschen in ein Stadion passen.\n\nTaylor Swift, die ihren Aufstieg mit 16 als Country-S\u00e4ngerin begann, ist begnadet \u2013 auch als Unternehmerin. In ihrer langen Karriere hat sie der Branche ihren Stempel aufgedr\u00fcckt. "
+                },
+                {
+                    "text": "Ist Taylor Swift unterbezahlt?\", sorgte sich gar der Nobelpreistr\u00e4ger Paul Krugman. Verglichen mit dem 19. Jahrhundert sei Livemusik heute \u00bbein Schn\u00e4ppchen"
+                }
+            ],
+            "quotedInTitle": false,
+            "quotedInIntro": false
+        },
+        {
+            "name": "Richard Blumenthal",
+            "alternativeNames": [],
+            "age": -1,
+            "sex": "male",
+            "occurences": {
+                "total": 1,
+                "firstNameOnly": 0,
+                "lastNameOnly": 0,
+                "fullName": 1,
+                "nickname": 0
+            },
+            "inTitle": false,
+            "inIntro": false,
+            "_name": {
+                "firstname": "Richard",
+                "lastname": "Blumenthal",
+                "nickname": null,
+                "alternative_names": [],
+                "academic_title": null,
+                "nobility_title_or_rank": null
+            },
+            "descriptiveTexts": [
+                {
+                    "text": "Klarer Sieger: der 77-j\u00e4hrige Richard Blumenthal."
+                }
+            ],
+            "occupations": [],
+            "directQuotes": [
+                {
+                    "text": "Ticketmaster sollte in den Spiegel schauen und sagen: ,I\u2019m the problem. It\u2019s me.'"
+                }
+            ],
+            "quotedInTitle": false,
+            "quotedInIntro": false
+        },
+        {
+            "name": "Beyonc\u00e9",
+            "alternativeNames": [],
+            "age": -1,
+            "sex": "female",
+            "occurences": {
+                "total": 1,
+                "firstNameOnly": 1,
+                "lastNameOnly": 0,
+                "fullName": 0,
+                "nickname": 0
+            },
+            "inTitle": false,
+            "inIntro": false,
+            "_name": {
+                "firstname": "Beyonc\u00e9",
+                "lastname": "Knowles-Carter",
+                "nickname": null,
+                "alternative_names": [],
+                "academic_title": null,
+                "nobility_title_or_rank": null
+            },
+            "descriptiveTexts": [
+                {
+                    "text": "Das w\u00e4re rekordverd\u00e4chtig, wenn auch nur der zweite Platz hinter dem erwarteten Ticketumsatz von mehr als zwei Milliarden Dollar auf Beyonc\u00e9s aktueller \u00bbRenaissance\u00ab-Reise."
+                }
+            ],
+            "occupations": [],
+            "directQuotes": [],
+            "quotedInTitle": false,
+            "quotedInIntro": false
+        },
+        {
+            "name": "Taylor Swift",
+            "alternativeNames": [],
+            "age": 33,
+            "sex": "female",
+            "occurences": {
+                "total": 18,
+                "firstNameOnly": 3,
+                "lastNameOnly": 6,
+                "fullName": 9,
+                "nickname": 0
+            },
+            "inTitle": true,
+            "inIntro": true,
+            "_name": {
+                "firstname": "Taylor",
+                "lastname": "Swift",
+                "nickname": null,
+                "alternative_names": [],
+                "academic_title": null,
+                "nobility_title_or_rank": null
+            },
+            "descriptiveTexts": [
+                {
+                    "text": "Swiftonomics \u2013 das gigantische Gesch\u00e4ft hinter Taylor Swift"
+                },
+                {
+                    "text": "Taylor Swift hat das Musikgesch\u00e4ft perfektioniert."
+                },
+                {
+                    "text": "Ihre aktuelle Tour k\u00f6nnte sie laut aktuellen Sch\u00e4tzungen bis zu eine halbe Milliarde Dollar reicher machen."
+                },
+                {
+                    "text": "Und dort, wo sie auftritt, erbl\u00fcht auch die \u00f6rtliche Wirtschaft."
+                },
+                {
+                    "text": "\"Ratet, wer Tickets f\u00fcr Taylor Swift hat?\", twitterte die Parteivorsitzende Ricarda Lang k\u00fcrzlich und postete dazu ein GIF des Stars."
+                },
+                {
+                    "text": "Das \"Swift-Virus\" hat Politik, Wirtschaft und Gesellschaft in weiten Teilen der Welt erfasst."
+                },
+                {
+                    "text": "Anschlie\u00dfend geht es ab Ende August zun\u00e4chst in Lateinamerika, dann in Asien und Australien weiter, ehe Swift ab Mai 2024 endlich in Europa erwartet wird."
+                },
+                {
+                    "text": "F\u00fcr den tempor\u00e4ren Kollaps der Seite, der sich j\u00fcngst in Frankreich wiederholte, sei die \"Taylor-Swift-Gleichung\" verantwortlich: \"Die Webseite sollte 1,5 Millionen verifizierten Taylor-Swift-Fans zur Verf\u00fcgung stehen. Es haben 14 Millionen Leute darauf zugegriffen, einschlie\u00dflich Bots.\""
+                },
+                {
+                    "text": "Im Vergleich zu ihrer letzten Tour 2018 verlangt Taylor Swift \u2013 wie auch andere Musiker \u2013 inzwischen deutlich mehr von ihren Fans."
+                },
+                {
+                    "text": "An der gesamten Tour 2023/24 k\u00f6nnte sie selbst nach Berechnungen des Wall Street Journal zwischen 300 und 500 Millionen Dollar verdienen \u2013 plus \u00fcberschl\u00e4gig weitere 140 Millionen Dollar aus dem Verkauf aus Fanartikeln."
+                },
+                {
+                    "text": "Die fr\u00fchere Gouverneurin von Rhode Island und jetzige US-Handelsministerin Gina Raimondo hat einst versucht, den Bundesstaat an dem Wohlstand in der Gegend teilhaben zu lassen \u2013 mit einer Zweitwohnungsteuer auf Luxusanwesen, der sogenannten Taylor-Swift-Steuer."
+                },
+                {
+                    "text": "Kritik ihrer Fans muss sie deswegen nicht bef\u00fcrchten."
+                },
+                {
+                    "text": "\u00bbIst Taylor Swift unterbezahlt?\", sorgte sich gar der Nobelpreistr\u00e4ger Paul Krugman."
+                },
+                {
+                    "text": "Taylor Swift, die ihren Aufstieg mit 16 als Country-S\u00e4ngerin begann, ist begnadet \u2013 auch als Unternehmerin."
+                },
+                {
+                    "text": "In ihrer langen Karriere hat sie der Branche ihren Stempel aufgedr\u00fcckt."
+                },
+                {
+                    "text": "\"Taylor Swift ist die Musikindustrie\", schrieb Bloomberg Businessweek schon vor Jahren \u00fcber sie."
+                },
+                {
+                    "text": "Sie hat sich erfolgreich mit Spotify und Apple angelegt, k\u00e4mpft f\u00fcr die Rechte von K\u00fcnstlern und hat ihre Adaptionsf\u00e4higkeit in sich ver\u00e4ndernden M\u00e4rkten unter Beweis gestellt."
+                },
+                {
+                    "text": "Mit ihren 33 Jahren z\u00e4hle der Popstar Swift zu den weltweit einflussreichsten Wirtschaftsf\u00fchrern, bescheinigt ihr das \u00bbWall Street Journal\u00ab."
+                },
+                {
+                    "text": "Man kann es Taylornomics nennen oder Swiftonomics, das volkswirtschaftliche Ph\u00e4nomen ist dasselbe: Wo Taylor Swift singt, erlebt die \u00f6rtliche Wirtschaft eine Bl\u00fcte."
+                },
+                {
+                    "text": "Egal, was der Konzertbesuch am Ende kostet: Aus Sicht ihrer Fans ist Taylor Swift das wert."
+                }
+            ],
+            "occupations": [
+                {
+                    "text": "Unternehmerin"
+                },
+                {
+                    "text": "Ist Taylor Swift unterbezahlt?"
+                },
+                {
+                    "text": "Taylor Swift hat das Musikgesch\u00e4ft perfektioniert."
+                }
+            ],
+            "directQuotes": [],
+            "quotedInTitle": true,
+            "quotedInIntro": true
+        },
+        {
+            "name": "Ricarda Lang",
+            "alternativeNames": [],
+            "age": -1,
+            "sex": "female",
+            "occurences": {
+                "total": 1,
+                "firstNameOnly": 0,
+                "lastNameOnly": 0,
+                "fullName": 1,
+                "nickname": 0
+            },
+            "inTitle": false,
+            "inIntro": false,
+            "_name": {
+                "firstname": "Ricarda",
+                "lastname": "Lang",
+                "nickname": null,
+                "alternative_names": [],
+                "academic_title": null,
+                "nobility_title_or_rank": null
+            },
+            "descriptiveTexts": [
+                {
+                    "text": "\"Ratet, wer Tickets f\u00fcr Taylor Swift hat?\", twitterte die Parteivorsitzende Ricarda Lang k\u00fcrzlich und postete dazu ein GIF des Stars."
+                }
+            ],
+            "occupations": [],
+            "directQuotes": [
+                {
+                    "text": "Ratet, wer Tickets f\u00fcr Taylor Swift hat?"
+                }
+            ],
+            "quotedInTitle": false,
+            "quotedInIntro": false
+        },
+        {
+            "name": "Forbes",
+            "alternativeNames": [],
+            "age": -1,
+            "sex": "unknown",
+            "occurences": {
+                "total": 2,
+                "firstNameOnly": 0,
+                "lastNameOnly": 0,
+                "fullName": 2,
+                "nickname": 0
+            },
+            "inTitle": false,
+            "inIntro": false,
+            "_name": {
+                "firstname": null,
+                "lastname": null,
+                "nickname": null,
+                "alternative_names": [],
+                "academic_title": null,
+                "nobility_title_or_rank": null
+            },
+            "descriptiveTexts": [
+                {
+                    "text": "Nach Sch\u00e4tzung von Forbes k\u00f6nnte die \"Eras\"-Tour insgesamt rund 1,6 Milliarden Dollar einspielen."
+                },
+                {
+                    "text": "Insgesamt bringt es die Ausnahmek\u00fcnstlerin laut \u00bbForbes\u00ab auf ein Nettoverm\u00f6gen von 740 Millionen Dollar."
+                }
+            ],
+            "occupations": [],
+            "directQuotes": [],
+            "quotedInTitle": false,
+            "quotedInIntro": false
+        }
+    ]
+}

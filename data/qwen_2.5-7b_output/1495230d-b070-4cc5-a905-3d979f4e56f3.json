@@ -1,0 +1,419 @@
+{
+    "persons": [
+        {
+            "name": "Ursula von der Leyen",
+            "alternativeNames": [],
+            "age": -1,
+            "sex": "female",
+            "occurences": {
+                "total": 1,
+                "firstNameOnly": 0,
+                "lastNameOnly": 0,
+                "fullName": 1,
+                "nickname": 0
+            },
+            "inTitle": false,
+            "inIntro": false,
+            "_name": {
+                "firstname": "Ursula",
+                "lastname": "von der Leyen",
+                "nickname": null,
+                "alternative_names": [],
+                "academic_title": null,
+                "nobility_title_or_rank": null
+            },
+            "descriptiveTexts": [
+                {
+                    "text": "Nicht nur f\u00fcr die Kommission unter F\u00fchrung von Ursula von der Leyen w\u00e4re es eine peinliche Niederlage, es w\u00e4re ein herber R\u00fcckschlag f\u00fcr die Ambitionen der EU."
+                }
+            ],
+            "occupations": [],
+            "directQuotes": [],
+            "quotedInTitle": false,
+            "quotedInIntro": false
+        },
+        {
+            "name": "Marco Buschmann",
+            "alternativeNames": [],
+            "age": -1,
+            "sex": "male",
+            "occurences": {
+                "total": 1,
+                "firstNameOnly": 0,
+                "lastNameOnly": 0,
+                "fullName": 1,
+                "nickname": 0
+            },
+            "inTitle": false,
+            "inIntro": false,
+            "_name": {
+                "firstname": "Marco",
+                "lastname": "Buschmann",
+                "nickname": null,
+                "alternative_names": [],
+                "academic_title": null,
+                "nobility_title_or_rank": null
+            },
+            "descriptiveTexts": [
+                {
+                    "text": "Federf\u00fchrend hatten das Wirtschaftsministerium von Robert Habeck (Gr\u00fcne) und das Justizministerium von Marco Buschmann (FDP) den langen Entstehungsprozess begleitet."
+                },
+                {
+                    "text": "Dem Bericht zufolge w\u00fcrden die anderen beteiligten deutschen Ministerien eine Enthaltung erw\u00e4gen, \u00bbum den Koalitionsfrieden zu wahren, aber auch weil sie Teile der Kritik unterst\u00fctzen\u00ab."
+                }
+            ],
+            "occupations": [
+                {
+                    "text": "Justizminister"
+                }
+            ],
+            "directQuotes": [],
+            "quotedInTitle": false,
+            "quotedInIntro": false
+        },
+        {
+            "name": "Sergey Lagodinsky",
+            "alternativeNames": [],
+            "age": -1,
+            "sex": "male",
+            "occurences": {
+                "total": 2,
+                "firstNameOnly": 0,
+                "lastNameOnly": 1,
+                "fullName": 1,
+                "nickname": 0
+            },
+            "inTitle": false,
+            "inIntro": false,
+            "_name": {
+                "firstname": "Sergey",
+                "lastname": "Lagodinsky",
+                "nickname": null,
+                "alternative_names": [],
+                "academic_title": null,
+                "nobility_title_or_rank": null
+            },
+            "descriptiveTexts": [
+                {
+                    "text": "\u00bbLangsam frage ich mich, was diese Last-Minute-Taktik der FDP soll\u00ab, sagt der Gr\u00fcnen-Europaabgeordnete Sergey Lagodinsky."
+                },
+                {
+                    "text": "Zeit f\u00fcr Bedenken und Mitgestaltung habe es \u00bbreichlich gegeben\u00ab, so Lagodinsky."
+                }
+            ],
+            "occupations": [],
+            "directQuotes": [
+                {
+                    "text": "Es kann nicht sein, dass wir wichtige europ\u00e4ische Fragen jahrelang erfolgreich verhandeln und dann eine deutsche Partei, die auf verschiedenen Ebenen immer dabei war, den Stecker f\u00fcr 500 Millionen Europ\u00e4er zieht."
+                }
+            ],
+            "quotedInTitle": false,
+            "quotedInIntro": false
+        },
+        {
+            "name": "Iris Pl\u00f6ger",
+            "alternativeNames": [],
+            "age": -1,
+            "sex": "female",
+            "occurences": {
+                "total": 2,
+                "firstNameOnly": 0,
+                "lastNameOnly": 1,
+                "fullName": 1,
+                "nickname": 0
+            },
+            "inTitle": false,
+            "inIntro": false,
+            "_name": {
+                "firstname": "Iris",
+                "lastname": "Pl\u00f6ger",
+                "nickname": null,
+                "alternative_names": [],
+                "academic_title": null,
+                "nobility_title_or_rank": null
+            },
+            "descriptiveTexts": [
+                {
+                    "text": "Iris Pl\u00f6ger, Mitglied der Gesch\u00e4ftsf\u00fchrung im Bundesverband der Deutschen Industrie (BDI), gesteht der Bundesregierung dazu, \u00bbeinige Verbesserungen am Gesetz\u00ab erzielt zu haben."
+                },
+                {
+                    "text": "Pl\u00f6ger sieht daher die Wettbewerbsf\u00e4higkeit europ\u00e4ischer KI-Entwickler gef\u00e4hrdet."
+                }
+            ],
+            "occupations": [
+                {
+                    "text": "Mitglied der Gesch\u00e4ftsf\u00fchrung im Bundesverband der Deutschen Industrie (BDI)"
+                }
+            ],
+            "directQuotes": [
+                {
+                    "text": "dem vorliegenden Text nicht voreilig zustimmen"
+                }
+            ],
+            "quotedInTitle": false,
+            "quotedInIntro": false
+        },
+        {
+            "name": "Emmanuel Macron",
+            "alternativeNames": [],
+            "age": -1,
+            "sex": "male",
+            "occurences": {
+                "total": 1,
+                "firstNameOnly": 0,
+                "lastNameOnly": 0,
+                "fullName": 1,
+                "nickname": 0
+            },
+            "inTitle": false,
+            "inIntro": false,
+            "_name": {
+                "firstname": "Emmanuel",
+                "lastname": "Macron",
+                "nickname": null,
+                "alternative_names": [],
+                "academic_title": null,
+                "nobility_title_or_rank": null
+            },
+            "descriptiveTexts": [
+                {
+                    "text": "Der franz\u00f6sische Pr\u00e4sident Emmanuel Macron hatte sich schon im Vorfeld unzufrieden \u00fcber den Stand der KI-Verordnung gezeigt."
+                }
+            ],
+            "occupations": [],
+            "directQuotes": [],
+            "quotedInTitle": false,
+            "quotedInIntro": false
+        },
+        {
+            "name": "Volker Wissing",
+            "alternativeNames": [],
+            "age": -1,
+            "sex": "male",
+            "occurences": {
+                "total": 3,
+                "firstNameOnly": 0,
+                "lastNameOnly": 2,
+                "fullName": 1,
+                "nickname": 0
+            },
+            "inTitle": false,
+            "inIntro": false,
+            "_name": {
+                "firstname": "Volker",
+                "lastname": "Wissing",
+                "nickname": null,
+                "alternative_names": [],
+                "academic_title": null,
+                "nobility_title_or_rank": null
+            },
+            "descriptiveTexts": [
+                {
+                    "text": "\u00d6ffentlich hatte sich zuletzt indes vor allem Digitalminister Volker Wissing (FDP) zu den Br\u00fcsseler Pl\u00e4nen ge\u00e4u\u00dfert \u2013 mahnend und kritisch."
+                },
+                {
+                    "text": "Die Zustimmung der Bundesregierung zum EU-Gesetz \u00fcber k\u00fcnstliche Intelligenz steht offenbar infrage, vor allem, aber nicht nur aufgrund der Sorgen aus Wissings Digitalministerium."
+                },
+                {
+                    "text": "Wissings Ministerium will sich zu Einzelheiten der aktuellen Auseinandersetzung nicht \u00e4u\u00dfern und teilt auf SPIEGEL-Anfrage mit: \u00bbBei der andauernden Bewertung des Texts stehen f\u00fcr das BMDV die Offenheit f\u00fcr Innovationen, ein geringer b\u00fcrokratischer Aufwand f\u00fcr kleine und mittlere Unternehmen bei einer m\u00f6glichen Umsetzung und die internationale Anschlussf\u00e4higkeit der Regeln im Mittelpunkt. Sobald die regierungsinternen Abstimmungen abgeschlossen sind, k\u00f6nnen wir mehr sagen.\u00ab"
+                },
+                {
+                    "text": "Anke Domscheit-Berg etwa, Digitalexpertin der Linken im Bundestag, sagte dem SPIEGEL: \u00bbDer nun vorliegenden Fassung der KI-Verordnung kann die Bundesregierung eigentlich gar nicht zustimmen, da sie statt unsere europ\u00e4ischen Werte zu sch\u00fctzen, einen Frontalangriff auf sie darstellt.\u00ab"
+                },
+                {
+                    "text": "Sie habe \u00bbden bereits schwer zustimmungsf\u00e4higen m\u00fcndlichen Kompromiss so weitgehend zum Schlechteren ver\u00e4ndert, dass er ein untragbarer Anschlag auf die Grundrechte geworden ist\u00ab."
+                }
+            ],
+            "occupations": [
+                {
+                    "text": "Digitalminister"
+                }
+            ],
+            "directQuotes": [
+                {
+                    "text": "Langsam frage ich mich, was diese Last-Minute-Taktik der FDP soll"
+                },
+                {
+                    "text": "Jetzt ist der falsche Zeitpunkt, um alles zu entgleisen. Das ist nicht innovationsfreundlich, nicht b\u00fcrgerrechtsfreundlich und nicht europafreundlich."
+                }
+            ],
+            "quotedInTitle": false,
+            "quotedInIntro": false
+        },
+        {
+            "name": "Axel Voss",
+            "alternativeNames": [],
+            "age": -1,
+            "sex": "male",
+            "occurences": {
+                "total": 1,
+                "firstNameOnly": 0,
+                "lastNameOnly": 0,
+                "fullName": 1,
+                "nickname": 0
+            },
+            "inTitle": false,
+            "inIntro": false,
+            "_name": {
+                "firstname": "Axel",
+                "lastname": "Voss",
+                "nickname": null,
+                "alternative_names": [],
+                "academic_title": null,
+                "nobility_title_or_rank": null
+            },
+            "descriptiveTexts": [
+                {
+                    "text": "\u00bbUnsere Bewertung ist aber noch nicht abgeschlossen\u00ab, sagte der CDU-Abgeordnete Axel Voss dem SPIEGEL."
+                }
+            ],
+            "occupations": [],
+            "directQuotes": [
+                {
+                    "text": "Der nun vorliegenden Fassung der KI-Verordnung kann die Bundesregierung eigentlich gar nicht zustimmen, da sie statt unsere europ\u00e4ischen Werte zu sch\u00fctzen, einen Frontalangriff auf sie darstellt."
+                }
+            ],
+            "quotedInTitle": false,
+            "quotedInIntro": false
+        },
+        {
+            "name": "Anke Domscheit",
+            "alternativeNames": [],
+            "age": -1,
+            "sex": "female",
+            "occurences": {
+                "total": 4,
+                "firstNameOnly": 0,
+                "lastNameOnly": 3,
+                "fullName": 1,
+                "nickname": 0
+            },
+            "inTitle": false,
+            "inIntro": false,
+            "_name": {
+                "firstname": "Anke",
+                "lastname": "Domscheit",
+                "nickname": null,
+                "alternative_names": [],
+                "academic_title": null,
+                "nobility_title_or_rank": null
+            },
+            "descriptiveTexts": [
+                {
+                    "text": "Es w\u00e4re nicht das erste Mal, dass die Bundesregierung und insbesondere die FDP in Br\u00fcssel f\u00fcr massive Irritationen sorgt, indem sie eine schon erfolgte Einigung zwischen Parlament, Kommission und dem Rat der Mitgliedsl\u00e4nder wieder aufzuschn\u00fcren versucht."
+                },
+                {
+                    "text": "Linke Domscheit-Berg ist f\u00fcr Ablehnung"
+                },
+                {
+                    "text": "Anke Domscheit-Berg etwa, Digitalexpertin der Linken im Bundestag, sagte dem SPIEGEL: \u00bbDer nun vorliegenden Fassung der KI-Verordnung kann die Bundesregierung eigentlich gar nicht zustimmen, da sie statt unsere europ\u00e4ischen Werte zu sch\u00fctzen, einen Frontalangriff auf sie darstellt.\u00ab"
+                },
+                {
+                    "text": "Gleichzeitig macht Domscheit-Berg auch der Ampelkoalition schwere Vorw\u00fcrfe."
+                },
+                {
+                    "text": "Sie habe ihr Versprechen gebrochen, \u00bbsich gegen die biometrische \u00dcberwachung im \u00f6ffentlichen Raum\u00ab einzusetzen: \u00bbFaktisch k\u00f6nnte k\u00fcnftig bei beliebigem Verdacht auf beliebige Straftaten oder Ordnungswidrigkeiten beliebige Personen im \u00f6ffentlichen Raum \u203anachtr\u00e4glich\u2039 biometrisch identifiziert werden, und nachtr\u00e4glich ist ja vielleicht schon eine Minute, nachdem die Demo an der Kamera vorbeigelaufen ist.\u00ab"
+                },
+                {
+                    "text": "Dennoch sagt Domscheit-Berg, es m\u00fcsse \u00bbbei jedem Gesetz, das mehr \u00dcberwachung erm\u00f6glicht, bedacht werden, was eine rechtsextreme Partei in Regierungsverantwortung damit anstellen k\u00f6nnte. Ich m\u00f6chte nicht, dass \u00fcberall Kameras im \u00f6ffentlichen Raum h\u00e4ngen, um einen Gefl\u00fcchteten beim Einkauf im Supermarkt im falschen Landkreis zu identifizieren, oder eine Oma gegen Rechts beim Abkratzen eines Hakenkreuz-Aufklebers oder eine Journalistin, die missliebige Texte schreibt, beim Spaziergang mit dem Hund oder beim Treffen mit einer gesch\u00fctzten Quelle.\u00ab"
+                }
+            ],
+            "occupations": [
+                {
+                    "text": "Digitalexpertin"
+                }
+            ],
+            "directQuotes": [
+                {
+                    "text": "den bereits schwer zustimmungsf\u00e4higen m\u00fcndlichen Kompromiss so weitgehend zum Schlechteren ver\u00e4ndert, dass er ein untragbarer Anschlag auf die Grundrechte geworden ist"
+                },
+                {
+                    "text": "Faktisch k\u00f6nnte k\u00fcnftig bei beliebigem Verdacht auf beliebige Straftaten oder Ordnungswidrigkeiten beliebige Personen im \u00f6ffentlichen Raum \u203anachtr\u00e4glich\u2039 biometrisch identifiziert werden, und nachtr\u00e4glich ist ja vielleicht schon eine Minute, nachdem die Demo an der Kamera vorbeigelaufen ist."
+                }
+            ],
+            "quotedInTitle": false,
+            "quotedInIntro": false
+        },
+        {
+            "name": "Ralf Wintergerst",
+            "alternativeNames": [],
+            "age": -1,
+            "sex": "male",
+            "occurences": {
+                "total": 2,
+                "firstNameOnly": 0,
+                "lastNameOnly": 1,
+                "fullName": 1,
+                "nickname": 0
+            },
+            "inTitle": false,
+            "inIntro": false,
+            "_name": {
+                "firstname": "Ralf",
+                "lastname": "Wintergerst",
+                "nickname": null,
+                "alternative_names": [],
+                "academic_title": null,
+                "nobility_title_or_rank": null
+            },
+            "descriptiveTexts": [
+                {
+                    "text": "Auch der Pr\u00e4sident des Digitalverbands Bitkom, Ralf Wintergerst, \u00e4u\u00dfert grunds\u00e4tzliche Kritik: \u00bbViele entscheidende Fragen sind weiterhin ungekl\u00e4rt und h\u00e4ngen ma\u00dfgeblich von der jeweiligen Umsetzung in den Mitgliedsl\u00e4ndern der EU ab. Und so ist zu erwarten, dass es innerhalb der EU h\u00f6chst unterschiedliche Regelungen geben wird und keinen digitalen Binnenmarkt f\u00fcr KI.\u00ab"
+                },
+                {
+                    "text": "Die Bundesregierung solle daher \u00bbdem vorliegenden Text nicht voreilig zustimmen\u00ab, so Wintergerst."
+                }
+            ],
+            "occupations": [
+                {
+                    "text": "Pr\u00e4sident des Digitalverbands Bitkom"
+                },
+                {
+                    "text": "Viele entscheidende Fragen sind weiterhin ungekl\u00e4rt und h\u00e4ngen ma\u00dfgeblich von der jeweiligen Umsetzung in den Mitgliedsl\u00e4ndern der EU ab. Und so ist zu erwarten, dass es innerhalb der EU h\u00f6chst unterschiedliche Regelungen geben wird und keinen digitalen Binnenmarkt f\u00fcr KI."
+                }
+            ],
+            "directQuotes": [
+                {
+                    "text": "bei jedem Gesetz, das mehr \u00dcberwachung erm\u00f6glicht, bedacht werden, was eine rechtsextreme Partei in Regierungsverantwortung damit anstellen k\u00f6nnte. Ich m\u00f6chte nicht, dass \u00fcberall Kameras im \u00f6ffentlichen Raum h\u00e4ngen, um einen Gefl\u00fcchteten beim Einkauf im Supermarkt im falschen Landkreis zu identifizieren, oder eine Oma gegen Rechts beim Abkratzen eines Hakenkreuz-Aufklebers oder eine Journalistin, die missliebige Texte schreibt, beim Spaziergang mit dem Hund oder beim Treffen mit einer gesch\u00fctzten Quelle."
+                }
+            ],
+            "quotedInTitle": false,
+            "quotedInIntro": false
+        },
+        {
+            "name": "Robert Habeck",
+            "alternativeNames": [],
+            "age": -1,
+            "sex": "male",
+            "occurences": {
+                "total": 1,
+                "firstNameOnly": 0,
+                "lastNameOnly": 0,
+                "fullName": 1,
+                "nickname": 0
+            },
+            "inTitle": false,
+            "inIntro": false,
+            "_name": {
+                "firstname": "Robert",
+                "lastname": "Habeck",
+                "nickname": null,
+                "alternative_names": [],
+                "academic_title": null,
+                "nobility_title_or_rank": null
+            },
+            "descriptiveTexts": [
+                {
+                    "text": "Federf\u00fchrend hatten das Wirtschaftsministerium von Robert Habeck (Gr\u00fcne) und das Justizministerium von Marco Buschmann (FDP) den langen Entstehungsprozess begleitet."
+                },
+                {
+                    "text": "Dem Bericht zufolge w\u00fcrden die anderen beteiligten deutschen Ministerien eine Enthaltung erw\u00e4gen, \u00bbum den Koalitionsfrieden zu wahren, aber auch weil sie Teile der Kritik unterst\u00fctzen\u00ab."
+                }
+            ],
+            "occupations": [],
+            "directQuotes": [],
+            "quotedInTitle": false,
+            "quotedInIntro": false
+        }
+    ]
+}

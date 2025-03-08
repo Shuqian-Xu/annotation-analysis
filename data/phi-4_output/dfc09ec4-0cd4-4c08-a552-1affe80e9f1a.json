@@ -1,0 +1,116 @@
+{
+    "persons": [
+        {
+            "name": "Babi\u010d",
+            "alternativeNames": [
+                "Luka Babi\u0107"
+            ],
+            "age": -1,
+            "sex": "male",
+            "occurences": {
+                "total": 2,
+                "firstNameOnly": 0,
+                "lastNameOnly": 0,
+                "fullName": 2,
+                "nickname": 0
+            },
+            "inTitle": false,
+            "inIntro": false,
+            "_name": {
+                "firstname": null,
+                "lastname": "Babi\u010d",
+                "nickname": null,
+                "alternative_names": [
+                    "Luka Babi\u0107"
+                ],
+                "academic_title": null,
+                "nobility_title_or_rank": null
+            },
+            "descriptiveTexts": [
+                {
+                    "text": "Sie kickten in der \u00bbJugoliga\u00ab Baden-W\u00fcrttembergs, die von 1971 bis 1992 bestand."
+                },
+                {
+                    "text": "Zugleich rechneten wohl viele der Einwanderer zu Beginn selbst nicht damit, dass sie ihr gesamtes Leben in der Bundesrepublik verbringen w\u00fcrden."
+                },
+                {
+                    "text": "Nach Feierabend hatten die Arbeiter kaum etwas zu tun, so trafen sie sich in Gastst\u00e4tten oder lungerten am Bahnhof herum."
+                },
+                {
+                    "text": "Schnell entdeckten sie das runde Leder f\u00fcr sich: \u00bbZwischen Arbeit, Familie und regelm\u00e4\u00dfigen Reisen nach Jugoslawien war der Fu\u00dfball f\u00fcr sie eine beliebte und simple Freizeitgestaltung\u00ab, res\u00fcmiert der T\u00fcbinger Historiker Luka Babi\u0107, der die \u00bbJugoliga\u00ab erforscht hat."
+                },
+                {
+                    "text": "Sie weigerten sich jahrelang konsequent, deren Teams in den deutschen Spielbetrieb einzugliedern."
+                },
+                {
+                    "text": "\u00bbEntlang ethnisch-nationaler Linien feindeten sich ehemalige Freunde und Mitspieler an, attackierten einander verbal und physisch\u00ab, konstatiert Historiker Babi\u010d."
+                },
+                {
+                    "text": "Schnell entdeckten sie das runde Leder f\u00fcr sich: \u00bbZwischen Arbeit, Familie und regelm\u00e4\u00dfigen Reisen nach Jugoslawien war der Fu\u00dfball f\u00fcr sie eine beliebte und simple Freizeitgestaltung\u00ab, res\u00fcmiert der T\u00fcbinger Historiker Luka Babi\u0107, der die \u00bbJugoliga\u00ab erforscht hat."
+                }
+            ],
+            "occupations": [
+                {
+                    "text": "Historiker"
+                },
+                {
+                    "text": "Historiker"
+                }
+            ],
+            "directQuotes": [
+                {
+                    "text": "Zwischen Arbeit, Familie und regelm\u00e4\u00dfigen Reisen nach Jugoslawien war der Fu\u00dfball f\u00fcr sie eine beliebte und simple Freizeitgestaltung"
+                },
+                {
+                    "text": "Eine Wiese, einen Ball und zwei \u00c4ste als Tor \u2013 mehr brauchte es nicht."
+                },
+                {
+                    "text": "Jugoliga"
+                },
+                {
+                    "text": "Entlang ethnisch-nationaler Linien feindeten sich ehemalige Freunde und Mitspieler an, attackierten einander verbal und physisch"
+                },
+                {
+                    "text": "Die Vereine wurden ein Spiegel ihrer zerfallenden Heimat."
+                }
+            ],
+            "quotedInTitle": false,
+            "quotedInIntro": false
+        },
+        {
+            "name": "Josip Broz Tito",
+            "alternativeNames": [],
+            "age": -1,
+            "sex": "male",
+            "occurences": {
+                "total": 2,
+                "firstNameOnly": 0,
+                "lastNameOnly": 1,
+                "fullName": 1,
+                "nickname": 0
+            },
+            "inTitle": false,
+            "inIntro": true,
+            "_name": {
+                "firstname": "Josip Broz",
+                "lastname": "Tito",
+                "nickname": null,
+                "alternative_names": [],
+                "academic_title": null,
+                "nobility_title_or_rank": "Junker"
+            },
+            "descriptiveTexts": [
+                {
+                    "text": "Von Staatspr\u00e4sident Tito gab es sogar Pokale \u2013 in fragw\u00fcrdiger Absicht."
+                },
+                {
+                    "text": "Im Kalten Krieg wollte Staatspr\u00e4sident Josip Broz Tito die Arbeitskr\u00e4fte nicht dauerhaft an die westdeutsche Wirtschaft verlieren."
+                }
+            ],
+            "occupations": [],
+            "directQuotes": [],
+            "quotedInTitle": false,
+            "quotedInIntro": true
+        }
+    ]
+}

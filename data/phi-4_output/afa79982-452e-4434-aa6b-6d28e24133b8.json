@@ -1,0 +1,859 @@
+{
+    "persons": [
+        {
+            "name": "Pablo Picasso",
+            "alternativeNames": [],
+            "age": -1,
+            "sex": "male",
+            "occurences": {
+                "total": 1,
+                "firstNameOnly": 0,
+                "lastNameOnly": 0,
+                "fullName": 1,
+                "nickname": 0
+            },
+            "inTitle": false,
+            "inIntro": false,
+            "_name": {
+                "firstname": "Pablo",
+                "lastname": "Picasso",
+                "nickname": null,
+                "alternative_names": [],
+                "academic_title": null,
+                "nobility_title_or_rank": null
+            },
+            "descriptiveTexts": [
+                {
+                    "text": "Der Maler Pablo Picasso bannte den Horror auf Leinwand und schuf mit \u00bbGuernica\u00ab ein ikonisches Antikriegsbild."
+                }
+            ],
+            "occupations": [],
+            "directQuotes": [],
+            "quotedInTitle": false,
+            "quotedInIntro": false
+        },
+        {
+            "name": "David Seymour",
+            "alternativeNames": [],
+            "age": -1,
+            "sex": "male",
+            "occurences": {
+                "total": 3,
+                "firstNameOnly": 0,
+                "lastNameOnly": 0,
+                "fullName": 2,
+                "nickname": 1
+            },
+            "inTitle": false,
+            "inIntro": false,
+            "_name": {
+                "firstname": "David",
+                "lastname": "Seymour",
+                "nickname": "Chim",
+                "alternative_names": [],
+                "academic_title": null,
+                "nobility_title_or_rank": null
+            },
+            "descriptiveTexts": [
+                {
+                    "text": "Die Boxen enthielten 4500 Negative dreier Fotografen, die den Spanischen B\u00fcrgerkrieg f\u00fcr die westlichen Medien dokumentiert hatten: Robert Capa, David Seymour \u2013 und Gerda Taro."
+                },
+                {
+                    "text": "Taro, Capa und ihr Kollege David Seymour, genannt Chim, kamen den Menschen und dem Geschehen im Krieg so nah wie nie zuvor."
+                },
+                {
+                    "text": "Sie profitierten von modernen Kameras, die leichter und wesentlich handlicher geworden waren."
+                }
+            ],
+            "occupations": [],
+            "directQuotes": [],
+            "quotedInTitle": false,
+            "quotedInIntro": false
+        },
+        {
+            "name": "Gerda Taro",
+            "alternativeNames": [
+                "Gerta Pohorylle"
+            ],
+            "age": -1,
+            "sex": "female",
+            "occurences": {
+                "total": 61,
+                "firstNameOnly": 5,
+                "lastNameOnly": 37,
+                "fullName": 19,
+                "nickname": 0
+            },
+            "inTitle": false,
+            "inIntro": true,
+            "_name": {
+                "firstname": "Gerda",
+                "lastname": "Taro",
+                "nickname": null,
+                "alternative_names": [
+                    "Gerta Pohorylle"
+                ],
+                "academic_title": null,
+                "nobility_title_or_rank": null
+            },
+            "descriptiveTexts": [
+                {
+                    "text": "Gerda Taro fotografierte als eine der ersten Frauen den Krieg direkt an der Front \u2013 und hatte wohl entscheidenden Anteil am Weltruhm des Starfotografen Robert Capa."
+                },
+                {
+                    "text": "Tausende s\u00e4umten die Pariser Stra\u00dfen am 1. August 1937, um Gerda Taro die letzte Ehre zu erweisen."
+                },
+                {
+                    "text": "Hinter dem Sarg lief, vom Schmerz \u00fcberw\u00e4ltigt, Taros Vater, gest\u00fctzt von ihrer besten Freundin Ruth Cerf."
+                },
+                {
+                    "text": "Unter den Trauerg\u00e4sten war auch Taros Partner, der Fotograf Robert Capa, nach dem Verlust seiner Lebensgef\u00e4hrtin ein Schatten seiner selbst."
+                },
+                {
+                    "text": "Monatelang hatte Gerda Taro den Spanischen B\u00fcrgerkrieg an der Front dokumentiert, nun war die h\u00fcbsche und lebensfrohe Deutsche bei ihrer Arbeit tragisch und viel zu jung ums Leben gekommen."
+                },
+                {
+                    "text": "Ihr Auftraggeber, die franz\u00f6sische Zeitschrift \u00bbCe soir\u00ab, hatte tagelang \u00fcber die tote Fotografin berichtet, Traueranzeigen geschaltet und die pomp\u00f6se Trauerfeier arrangiert: Obwohl sie kein Mitglied einer politischen Partei gewesen war, wurde Taro posthum von ihrem Auftraggeber zur M\u00e4rtyrerin f\u00fcr die kommunistische Idee und den Kampf gegen den Faschismus gemacht."
+                },
+                {
+                    "text": "Gerda Taro war tot."
+                },
+                {
+                    "text": "Bald erinnerte man sich nur noch an Taros Lebensgef\u00e4hrten Robert Capa, der Taro um beinahe zwei Jahrzehnte \u00fcberlebte und bis heute als Kriegsfotograf weltbekannt ist."
+                },
+                {
+                    "text": "Erst 2007 wurde Taro einem breiteren Publikum ein Begriff."
+                },
+                {
+                    "text": "Die Boxen enthielten 4500 Negative dreier Fotografen, die den Spanischen B\u00fcrgerkrieg f\u00fcr die westlichen Medien dokumentiert hatten: Robert Capa, David Seymour \u2013 und Gerda Taro."
+                },
+                {
+                    "text": "Ein Jahr nach der Entdeckung der Negative, 71 Jahre nach ihrem Tod, bekam Taro am New Yorker International Center of Photography ihre erste Soloausstellung."
+                },
+                {
+                    "text": "Sie war als Gerta Pohorylle am 1. August 1910 in Stuttgart zur Welt gekommen."
+                },
+                {
+                    "text": "Aus Gerta Pohorylle wird Gerda Taro"
+                },
+                {
+                    "text": "Aus Gerta Pohorylle wurde Gerda Taro."
+                },
+                {
+                    "text": "Auftr\u00e4ge und Termine waren \u00fcber seine Agentin Gerda Taro zu buchen."
+                },
+                {
+                    "text": "Mit Taros Gesch\u00e4ftst\u00fcchtigkeit, Capas fotografischen F\u00e4higkeiten und der Ausstrahlung, die beide verspr\u00fchten, ergatterten sie immer mehr Auftr\u00e4ge."
+                },
+                {
+                    "text": "Taro fotografierte selbst, vermarktete jedoch haupts\u00e4chlich Capa."
+                },
+                {
+                    "text": "Taro und Capa war schnell klar, dass sie diesen Kampf gegen den Faschismus dokumentieren wollten: Wie viele Europ\u00e4erinnen und Europ\u00e4er ahnten sie, dass es in Spanien um mehr ging als nur um die spanische Demokratie."
+                },
+                {
+                    "text": "Auch Taro und Capa geh\u00f6rten in gewissem Sinne dazu: Sie wollten mit ihren Fotos ihren Teil dazu beitragen, Europa aufzur\u00fctteln."
+                },
+                {
+                    "text": "Taros erste Bilder von republikanischen Milizinnen setzen die Frauen beinahe ikonisch in Szene."
+                },
+                {
+                    "text": "Sie scheinen Respekt und Anerkennung, vielleicht sogar Bewunderung auszustrahlen."
+                },
+                {
+                    "text": "\u00bbPhotos Capa et Taro\u00ab"
+                },
+                {
+                    "text": "Taro und Capa wollten nach diesen Ereignissen noch n\u00e4her ran, zeigen, was der Faschismus anrichtete."
+                },
+                {
+                    "text": "Taro fotografierte die geschockten Menschen auf der Flucht und in Notunterk\u00fcnften."
+                },
+                {
+                    "text": "Die Strecke \u00fcber das humanit\u00e4re Leid erschien im M\u00e4rz 1937 mit dem Hinweis \u00bbPhotos Capa et Taro\u00ab."
+                },
+                {
+                    "text": "Bis dahin waren die Bilder der beiden nur unter Capas Namen erschienen, weil Auftraggeber f\u00fcr seine Bilder mehr bezahlten als f\u00fcr jene der unbekannteren Taro."
+                },
+                {
+                    "text": "Nun machte auch sie sich einen Namen."
+                },
+                {
+                    "text": "Taro und Capa lieferten Bilder an Pariser Fotomagazine wie \u00bbVu\u00ab, \u00bbRegards\u00ab, und \u00bbCe soir\u00ab."
+                },
+                {
+                    "text": "Taros Bilder zeigen Kinder auf Barrikaden und das Leid der Fl\u00fcchtenden."
+                },
+                {
+                    "text": "Sie zeigen den Transport von Verwundeten an der Front und die Bombentoten in den Leichenhallen nach Luftangriffen auf Valencia."
+                },
+                {
+                    "text": "Taro, Capa und ihr Kollege David Seymour, genannt Chim, kamen den Menschen und dem Geschehen im Krieg so nah wie nie zuvor."
+                },
+                {
+                    "text": "Sie profitierten von modernen Kameras, die leichter und wesentlich handlicher geworden waren."
+                },
+                {
+                    "text": "Taros Rolleiflex war zwar eine gr\u00f6\u00dfere Mittelformatkamera, doch leicht genug, um sie ohne Stativ zu nutzen."
+                },
+                {
+                    "text": "Taro konnte sie sich vor den K\u00f6rper halten, von oben durch den Sucher blicken und abdr\u00fccken."
+                },
+                {
+                    "text": "Capa, der zun\u00e4chst mit der Leica fotografierte, bevor er sie an Taro abtrat, konnte sich den kleinformatigen Apparat einh\u00e4ndig ans Auge halten oder hinter Soldaten herlaufen und dabei die Kamera bedienen."
+                },
+                {
+                    "text": "Wie besessen fotografierte sie selbst bei Luftangriffen"
+                },
+                {
+                    "text": "Capa und Taro hatten ihr Wirkungsfeld entdeckt: Sie wollten als Kriegsreporter auf der ganzen Welt Unrecht dokumentieren."
+                },
+                {
+                    "text": "Doch vorher zog es Taro noch einmal nach Spanien."
+                },
+                {
+                    "text": "Nachdem sie in Valencia den Internationalen Schriftstellerkongress zur Verteidigung der Kultur fotografiert hatte, fuhr sie nach Brunete bei Madrid, wo eine erbitterte Schlacht zwischen Republikanern und Faschisten um die Hauptstadt tobte."
+                },
+                {
+                    "text": "Dem britischen Journalisten Claude Cockburn sagte sie in diesen Tagen: \u00bbWenn man an all die tollen Menschen denkt, die wir beide kennen und die nur w\u00e4hrend dieser einen Offensive get\u00f6tet wurden, hat man das absurde Gef\u00fchl, dass es irgendwie unfair ist, noch am Leben zu sein.\u00ab"
+                },
+                {
+                    "text": "Tagelang fing Taro mit ihrer Kamera die K\u00e4mpfe um Brunete ein."
+                },
+                {
+                    "text": "Wie besessen fotografierte sie selbst bei Luftangriffen weiter, hielt sich die Kamera \u00fcber den Kopf und dr\u00fcckte den Ausl\u00f6ser."
+                },
+                {
+                    "text": "Am Nachmittag des 26. Juli trat sie mit einem Begleiter den R\u00fcckweg an."
+                },
+                {
+                    "text": "Kaum waren sie auf dem Weg, begann ein neuer Luftangriff deutscher Flugzeuge."
+                },
+                {
+                    "text": "Taro verlor den Halt, fiel und wurde vom Panzer \u00fcberrollt."
+                },
+                {
+                    "text": "Mit schwersten Verletzungen wurde sie ins Krankenhaus eingeliefert."
+                },
+                {
+                    "text": "Gerda Taro erlag ihnen noch in der Nacht."
+                },
+                {
+                    "text": "Am Bahnhof in Paris warteten Capa und Taros Vater, der das j\u00fcdische Totengebet Kaddisch f\u00fcr seine Tochter rezitierte."
+                },
+                {
+                    "text": "Im Jahr nach Taros Tod ver\u00f6ffentlichte er das Buch \u00bbDeath In The Making\u00ab \u00fcber den Spanischen B\u00fcrgerkrieg."
+                },
+                {
+                    "text": "Die Widmung erinnerte an seine verstorbene Freundin: \u00bbF\u00fcr Gerda Taro, die ein Jahr an der Spanischen Front verbrachte \u2013 und dortblieb.\u00ab"
+                },
+                {
+                    "text": "Er starb 17 Jahre nach Gerda Taro."
+                },
+                {
+                    "text": "Gerda Taros Fotos und die Negative des Mexican Suitcase lagern im International Center of Photography (ICP) in New York, das Cornell Capa 1974 im Andenken an seinen Bruder Robert Capa gr\u00fcndete."
+                },
+                {
+                    "text": "Gr\u00fcndungsjubil\u00e4um zeigt das ICP vom 24. Januar bis 6. Mai 2024 Teile seiner Sammlung, darunter Fotos von Taro und Capa."
+                },
+                {
+                    "text": "Sie war als Gerta Pohorylle am 1. August 1910 in Stuttgart zur Welt gekommen."
+                },
+                {
+                    "text": "Gerta und ihre Br\u00fcder wuchsen wie viele j\u00fcdische Deutsche assimiliert auf."
+                },
+                {
+                    "text": "An einem Schweizer Internat lernte sie Franz\u00f6sisch, was noch sehr hilfreich werden sollte."
+                },
+                {
+                    "text": "\u00bbWenn man sie traf, bekam man sofort den Eindruck, dass sie vergn\u00fcgt und fr\u00f6hlich war, voller Freude am Leben. Und gescheit\u00ab, erinnerte sich ihre beste Freundin Ruth Cerf sp\u00e4ter."
+                },
+                {
+                    "text": "Doch Gerta Pohorylles Interesse beschr\u00e4nkte sich nicht auf die sch\u00f6nen Dinge; sie ging mit wachen Augen durch die Welt."
+                },
+                {
+                    "text": "Sie verteilte nazikritische Schriften"
+                },
+                {
+                    "text": "Gemeinsam mit ihren Br\u00fcdern Karl und Oskar engagierte sich Gerta Pohorylle gegen die rechtspolitischen Str\u00f6mungen, die in den Zwanzigerjahren immer bedrohlicher wurden."
+                },
+                {
+                    "text": "Bei einem Besuch in ihrer alten Heimat Stuttgart erkl\u00e4rte sie Freunden im Herbst 1932, der Erfolg der aufstrebenden Nationalsozialisten sei eine Gefahr f\u00fcr Deutschland."
+                },
+                {
+                    "text": "Ihre j\u00fcdische Herkunft und ihre politischen \u00dcberzeugungen entfremdeten sie vom alten Freundeskreis."
+                },
+                {
+                    "text": "In Leipzig wurde sie Teil eines j\u00fcdischen linkspolitischen Zirkels und begann eine Beziehung mit einem der Mitglieder, Georg Kuritzke."
+                },
+                {
+                    "text": "\u00bbSie war einfach bezaubernd\u00ab, sagte Kuritzke Jahre sp\u00e4ter in einem Interview."
+                },
+                {
+                    "text": "Die Beh\u00f6rden begannen zu ermitteln; schnell gerieten die Pohorylle-Br\u00fcder in Verdacht."
+                },
+                {
+                    "text": "Weil von den Br\u00fcdern jede Spur fehlte, verhafteten die Beamten die 22-j\u00e4hrige Gerta."
+                },
+                {
+                    "text": "Zwei Wochen verbrachte sie im SA-Gef\u00e4ngnis."
+                },
+                {
+                    "text": "Dort, so berichtete eine Inhaftierte sp\u00e4ter, soll sie den Mitgefangenen beigebracht haben, mittels Klopfzeichen mit ihren Zellennachbarinnen zu kommunizieren."
+                },
+                {
+                    "text": "Nach dem Ersten Weltkrieg war Galizien, die Heimat ihrer Eltern, an Polen gefallen, und die Pohorylles hatten polnische P\u00e4sse bekommen."
+                },
+                {
+                    "text": "Dort begann man, Druck auf die Deutschen auszu\u00fcben: Warum sie eine polnische Staatsb\u00fcrgerin einfach so festhielten?"
+                },
+                {
+                    "text": "Die Intervention wirkte, und Gerta kam am 4. April 1933 frei."
+                },
+                {
+                    "text": "Doch die Pohorylles wussten, dass Gerta nicht noch einmal so viel Gl\u00fcck haben w\u00fcrde."
+                },
+                {
+                    "text": "Als J\u00fcdin, noch dazu mit linkspolitischer Einstellung und einer offen zur Schau gestellten Ablehnung der Nazis, war sie in Deutschland zu gef\u00e4hrdet."
+                },
+                {
+                    "text": "Pohorylle beschloss, es ihr gleichzutun."
+                },
+                {
+                    "text": "Gerta Pohorylle und Ruth Cerf mieteten zusammen ein kleines Zimmer und suchten sich Gelegenheitsjobs."
+                },
+                {
+                    "text": "Um Heizkosten zu sparen, legten sie sich an Wintertagen gemeinsam ins Bett."
+                },
+                {
+                    "text": "Oder sie fl\u00fcchteten sich in eines der warmen Pariser Caf\u00e9s und hielten sich dort stundenlang an einer Tasse Kaffee fest."
+                },
+                {
+                    "text": "Kurzerhand \u00fcberredete sie ihre Freundin Gerta, sie zum Shooting zu begleiten."
+                },
+                {
+                    "text": "So begegneten sich Gerta Pohorylle und Endre Friedmann."
+                },
+                {
+                    "text": "Gemeinsam durchstreiften sie Paris und die Umgebung; Friedmann brachte ihr die Grundlagen der Fotografie bei."
+                },
+                {
+                    "text": "Aus Gerta Pohorylle wird Gerda Taro"
+                },
+                {
+                    "text": "Pohorylle bem\u00fchte sich, ihre Chefin von den fotojournalistischen Qualit\u00e4ten ihres Freundes zu \u00fcberzeugen."
+                },
+                {
+                    "text": "Auch sie selbst versuchte, erste Fotos zu verkaufen oder Auftr\u00e4ge zu bekommen."
+                },
+                {
+                    "text": "Doch immer wieder wurde klar, dass ihre Nachnamen Friedmann und Pohorylle die beiden sofort als osteurop\u00e4ische oder deutsche Fl\u00fcchtlinge auswiesen."
+                },
+                {
+                    "text": "Das Paar \u00fcberlegte, wie sie aus der Masse herausstechen konnten, um zu \u00fcberleben."
+                },
+                {
+                    "text": "Friedmann vertraute auf seinen Charme und lie\u00df den Dingen gern ihren Lauf; Pohorylle hatte K\u00f6pfchen und war ehrgeizig."
+                },
+                {
+                    "text": "Vermutlich war sie die treibende Kraft hinter der wegweisenden Entscheidung, sich K\u00fcnstlernamen zuzulegen und die Biografie zu frisieren."
+                },
+                {
+                    "text": "Aus Gerta Pohorylle wurde Gerda Taro."
+                }
+            ],
+            "occupations": [
+                {
+                    "text": "Fotografin"
+                },
+                {
+                    "text": "Fotografin"
+                },
+                {
+                    "text": "Sekret\u00e4rin in einer kleinen Fotoagentur"
+                }
+            ],
+            "directQuotes": [
+                {
+                    "text": "Wenn man an all die tollen Menschen denkt, die wir beide kennen und die nur w\u00e4hrend dieser einen Offensive get\u00f6tet wurden, hat man das absurde Gef\u00fchl, dass es irgendwie unfair ist, noch am Leben zu sein."
+                }
+            ],
+            "quotedInTitle": false,
+            "quotedInIntro": true
+        },
+        {
+            "name": "Ruth Cerf",
+            "alternativeNames": [],
+            "age": -1,
+            "sex": "female",
+            "occurences": {
+                "total": 6,
+                "firstNameOnly": 0,
+                "lastNameOnly": 1,
+                "fullName": 5,
+                "nickname": 0
+            },
+            "inTitle": false,
+            "inIntro": false,
+            "_name": {
+                "firstname": "Ruth",
+                "lastname": "Cerf",
+                "nickname": null,
+                "alternative_names": [],
+                "academic_title": null,
+                "nobility_title_or_rank": null
+            },
+            "descriptiveTexts": [
+                {
+                    "text": "Hinter dem Sarg lief, vom Schmerz \u00fcberw\u00e4ltigt, Taros Vater, gest\u00fctzt von ihrer besten Freundin Ruth Cerf."
+                },
+                {
+                    "text": "\u00bbWenn man sie traf, bekam man sofort den Eindruck, dass sie vergn\u00fcgt und fr\u00f6hlich war, voller Freude am Leben. Und gescheit\u00ab, erinnerte sich ihre beste Freundin Ruth Cerf sp\u00e4ter."
+                },
+                {
+                    "text": "Ihre beste Freundin Ruth Cerf ging nach Paris."
+                },
+                {
+                    "text": "Gerta Pohorylle und Ruth Cerf mieteten zusammen ein kleines Zimmer und suchten sich Gelegenheitsjobs."
+                },
+                {
+                    "text": "Um Heizkosten zu sparen, legten sie sich an Wintertagen gemeinsam ins Bett."
+                },
+                {
+                    "text": "Oder sie fl\u00fcchteten sich in eines der warmen Pariser Caf\u00e9s und hielten sich dort stundenlang an einer Tasse Kaffee fest."
+                },
+                {
+                    "text": "Als Ruth Cerf wieder einmal im Caf\u00e9 sa\u00df, wurde sie von einem jungen Mann angesprochen."
+                },
+                {
+                    "text": "Cerf freute sich \u00fcber die Aussicht, Geld zu verdienen, aber sie wollte auch kein Risiko eingehen."
+                },
+                {
+                    "text": "Kurzerhand \u00fcberredete sie ihre Freundin Gerta, sie zum Shooting zu begleiten."
+                }
+            ],
+            "occupations": [],
+            "directQuotes": [
+                {
+                    "text": "Wenn man sie traf, bekam man sofort den Eindruck, dass sie vergn\u00fcgt und fr\u00f6hlich war, voller Freude am Leben. Und gescheit"
+                }
+            ],
+            "quotedInTitle": false,
+            "quotedInIntro": false
+        },
+        {
+            "name": "Chim",
+            "alternativeNames": [],
+            "age": -1,
+            "sex": "male",
+            "occurences": {
+                "total": 3,
+                "firstNameOnly": 0,
+                "lastNameOnly": 0,
+                "fullName": 2,
+                "nickname": 1
+            },
+            "inTitle": false,
+            "inIntro": false,
+            "_name": {
+                "firstname": "David",
+                "lastname": "Seymour",
+                "nickname": "Chim",
+                "alternative_names": [],
+                "academic_title": null,
+                "nobility_title_or_rank": null
+            },
+            "descriptiveTexts": [
+                {
+                    "text": "Taro, Capa und ihr Kollege David Seymour, genannt Chim, kamen den Menschen und dem Geschehen im Krieg so nah wie nie zuvor."
+                }
+            ],
+            "occupations": [],
+            "directQuotes": [],
+            "quotedInTitle": false,
+            "quotedInIntro": false
+        },
+        {
+            "name": "Alberto Giacometti",
+            "alternativeNames": [],
+            "age": -1,
+            "sex": "male",
+            "occurences": {
+                "total": 1,
+                "firstNameOnly": 0,
+                "lastNameOnly": 0,
+                "fullName": 1,
+                "nickname": 0
+            },
+            "inTitle": false,
+            "inIntro": false,
+            "_name": {
+                "firstname": "Alberto",
+                "lastname": "Giacometti",
+                "nickname": null,
+                "alternative_names": [],
+                "academic_title": null,
+                "nobility_title_or_rank": null
+            },
+            "descriptiveTexts": [
+                {
+                    "text": "Dort wurde der Sarg in die Erde gelassen, ihren Grabstein schm\u00fcckte eine Skulptur des Bildhauers Alberto Giacometti."
+                }
+            ],
+            "occupations": [
+                {
+                    "text": "Bildhauer"
+                }
+            ],
+            "directQuotes": [],
+            "quotedInTitle": false,
+            "quotedInIntro": false
+        },
+        {
+            "name": "Claude Cockburn",
+            "alternativeNames": [],
+            "age": -1,
+            "sex": "male",
+            "occurences": {
+                "total": 1,
+                "firstNameOnly": 0,
+                "lastNameOnly": 0,
+                "fullName": 1,
+                "nickname": 0
+            },
+            "inTitle": false,
+            "inIntro": false,
+            "_name": {
+                "firstname": "Claude",
+                "lastname": "Cockburn",
+                "nickname": null,
+                "alternative_names": [],
+                "academic_title": null,
+                "nobility_title_or_rank": null
+            },
+            "descriptiveTexts": [
+                {
+                    "text": "Dem britischen Journalisten Claude Cockburn sagte sie in diesen Tagen: \u00bbWenn man an all die tollen Menschen denkt, die wir beide kennen und die nur w\u00e4hrend dieser einen Offensive get\u00f6tet wurden, hat man das absurde Gef\u00fchl, dass es irgendwie unfair ist, noch am Leben zu sein.\u00ab"
+                }
+            ],
+            "occupations": [],
+            "directQuotes": [],
+            "quotedInTitle": false,
+            "quotedInIntro": false
+        },
+        {
+            "name": "Oskar",
+            "alternativeNames": [],
+            "age": -1,
+            "sex": "male",
+            "occurences": {
+                "total": 2,
+                "firstNameOnly": 0,
+                "lastNameOnly": 0,
+                "fullName": 2,
+                "nickname": 0
+            },
+            "inTitle": false,
+            "inIntro": false,
+            "_name": {
+                "firstname": "Oskar",
+                "lastname": null,
+                "nickname": null,
+                "alternative_names": [],
+                "academic_title": null,
+                "nobility_title_or_rank": null
+            },
+            "descriptiveTexts": [
+                {
+                    "text": "Gemeinsam mit ihren Br\u00fcdern Karl und Oskar engagierte sich Gerta Pohorylle gegen die rechtspolitischen Str\u00f6mungen, die in den Zwanzigerjahren immer bedrohlicher wurden."
+                },
+                {
+                    "text": "Ihre Br\u00fcder Karl und Oskar warfen Flugbl\u00e4tter vom Dach des Warenhauses, in dem sie arbeiteten, und versetzten die Stadt damit in Aufruhr."
+                }
+            ],
+            "occupations": [],
+            "directQuotes": [],
+            "quotedInTitle": false,
+            "quotedInIntro": false
+        },
+        {
+            "name": "Francisco Franco",
+            "alternativeNames": [],
+            "age": -1,
+            "sex": "male",
+            "occurences": {
+                "total": 2,
+                "firstNameOnly": 0,
+                "lastNameOnly": 1,
+                "fullName": 1,
+                "nickname": 0
+            },
+            "inTitle": false,
+            "inIntro": false,
+            "_name": {
+                "firstname": "Francisco",
+                "lastname": "Franco",
+                "nickname": null,
+                "alternative_names": [],
+                "academic_title": null,
+                "nobility_title_or_rank": null
+            },
+            "descriptiveTexts": [
+                {
+                    "text": "Der faschistische General Francisco Franco versuchte, das Land unter seine Kontrolle zu bringen."
+                },
+                {
+                    "text": "Franco und seine Gefolgschaft standen den Republikanern gegen\u00fcber, die f\u00fcr die spanische Demokratie k\u00e4mpften."
+                }
+            ],
+            "occupations": [],
+            "directQuotes": [],
+            "quotedInTitle": false,
+            "quotedInIntro": false
+        },
+        {
+            "name": "Georg Kuritzke",
+            "alternativeNames": [],
+            "age": -1,
+            "sex": "male",
+            "occurences": {
+                "total": 2,
+                "firstNameOnly": 0,
+                "lastNameOnly": 1,
+                "fullName": 1,
+                "nickname": 0
+            },
+            "inTitle": false,
+            "inIntro": false,
+            "_name": {
+                "firstname": "Georg",
+                "lastname": "Kuritzke",
+                "nickname": null,
+                "alternative_names": [],
+                "academic_title": null,
+                "nobility_title_or_rank": null
+            },
+            "descriptiveTexts": [
+                {
+                    "text": "In Leipzig wurde sie Teil eines j\u00fcdischen linkspolitischen Zirkels und begann eine Beziehung mit einem der Mitglieder, Georg Kuritzke."
+                },
+                {
+                    "text": "\u00bbSie war einfach bezaubernd\u00ab, sagte Kuritzke Jahre sp\u00e4ter in einem Interview."
+                }
+            ],
+            "occupations": [],
+            "directQuotes": [
+                {
+                    "text": "Sie war einfach bezaubernd"
+                }
+            ],
+            "quotedInTitle": false,
+            "quotedInIntro": false
+        },
+        {
+            "name": "Karl",
+            "alternativeNames": [],
+            "age": -1,
+            "sex": "male",
+            "occurences": {
+                "total": 2,
+                "firstNameOnly": 0,
+                "lastNameOnly": 0,
+                "fullName": 2,
+                "nickname": 0
+            },
+            "inTitle": false,
+            "inIntro": false,
+            "_name": {
+                "firstname": "Karl",
+                "lastname": null,
+                "nickname": null,
+                "alternative_names": [],
+                "academic_title": null,
+                "nobility_title_or_rank": null
+            },
+            "descriptiveTexts": [
+                {
+                    "text": "Gemeinsam mit ihren Br\u00fcdern Karl und Oskar engagierte sich Gerta Pohorylle gegen die rechtspolitischen Str\u00f6mungen, die in den Zwanzigerjahren immer bedrohlicher wurden."
+                },
+                {
+                    "text": "Ihre Br\u00fcder Karl und Oskar warfen Flugbl\u00e4tter vom Dach des Warenhauses, in dem sie arbeiteten, und versetzten die Stadt damit in Aufruhr."
+                }
+            ],
+            "occupations": [],
+            "directQuotes": [],
+            "quotedInTitle": false,
+            "quotedInIntro": false
+        },
+        {
+            "name": "Robert Capa",
+            "alternativeNames": [
+                "Endre Friedmann"
+            ],
+            "age": -1,
+            "sex": "male",
+            "occurences": {
+                "total": 33,
+                "firstNameOnly": 0,
+                "lastNameOnly": 24,
+                "fullName": 9,
+                "nickname": 0
+            },
+            "inTitle": false,
+            "inIntro": true,
+            "_name": {
+                "firstname": "Robert",
+                "lastname": "Capa",
+                "nickname": null,
+                "alternative_names": [
+                    "Endre Friedmann"
+                ],
+                "academic_title": null,
+                "nobility_title_or_rank": null
+            },
+            "descriptiveTexts": [
+                {
+                    "text": "Gerda Taro fotografierte als eine der ersten Frauen den Krieg direkt an der Front \u2013 und hatte wohl entscheidenden Anteil am Weltruhm des Starfotografen Robert Capa."
+                },
+                {
+                    "text": "Unter den Trauerg\u00e4sten war auch Taros Partner, der Fotograf Robert Capa, nach dem Verlust seiner Lebensgef\u00e4hrtin ein Schatten seiner selbst."
+                },
+                {
+                    "text": "Bald erinnerte man sich nur noch an Taros Lebensgef\u00e4hrten Robert Capa, der Taro um beinahe zwei Jahrzehnte \u00fcberlebte und bis heute als Kriegsfotograf weltbekannt ist."
+                },
+                {
+                    "text": "Robert Capa wollte sie vor den Wirren des Zweiten Weltkriegs aus Europa retten."
+                },
+                {
+                    "text": "Die Boxen enthielten 4500 Negative dreier Fotografen, die den Spanischen B\u00fcrgerkrieg f\u00fcr die westlichen Medien dokumentiert hatten: Robert Capa, David Seymour \u2013 und Gerda Taro."
+                },
+                {
+                    "text": "Und Endre Friedmann hie\u00df nun Robert Capa \u2013 angeblich ein erfolgreicher amerikanischer Fotograf, gerade erst in Paris angekommen."
+                },
+                {
+                    "text": "Mit Taros Gesch\u00e4ftst\u00fcchtigkeit, Capas fotografischen F\u00e4higkeiten und der Ausstrahlung, die beide verspr\u00fchten, ergatterten sie immer mehr Auftr\u00e4ge."
+                },
+                {
+                    "text": "Taro fotografierte selbst, vermarktete jedoch haupts\u00e4chlich Capa."
+                },
+                {
+                    "text": "Im Fr\u00fchjahr 1935 schrieb Capa ihr von einem Reportagejob in Spanien, den er bekommen hatte, und beendete seinen Brief mit den Worten: \u00bbUnd manchmal bin ich trotzdem einfach nur total verliebt in dich.\u00ab"
+                },
+                {
+                    "text": "Taro und Capa war schnell klar, dass sie diesen Kampf gegen den Faschismus dokumentieren wollten: Wie viele Europ\u00e4erinnen und Europ\u00e4er ahnten sie, dass es in Spanien um mehr ging als nur um die spanische Demokratie."
+                },
+                {
+                    "text": "Auch Taro und Capa geh\u00f6rten in gewissem Sinne dazu: Sie wollten mit ihren Fotos ihren Teil dazu beitragen, Europa aufzur\u00fctteln."
+                },
+                {
+                    "text": "\u00bbPhotos Capa et Taro\u00ab"
+                },
+                {
+                    "text": "Taro und Capa wollten nach diesen Ereignissen noch n\u00e4her ran, zeigen, was der Faschismus anrichtete."
+                },
+                {
+                    "text": "Capa dokumentierte eine Woche lang den Kampf republikanischer Truppen vor den Toren von Madrid."
+                },
+                {
+                    "text": "Die Strecke \u00fcber das humanit\u00e4re Leid erschien im M\u00e4rz 1937 mit dem Hinweis \u00bbPhotos Capa et Taro\u00ab."
+                },
+                {
+                    "text": "Bis dahin waren die Bilder der beiden nur unter Capas Namen erschienen, weil Auftraggeber f\u00fcr seine Bilder mehr bezahlten als f\u00fcr jene der unbekannteren Taro."
+                },
+                {
+                    "text": "Taro und Capa lieferten Bilder an Pariser Fotomagazine wie \u00bbVu\u00ab, \u00bbRegards\u00ab, und \u00bbCe soir\u00ab."
+                },
+                {
+                    "text": "Taro, Capa und ihr Kollege David Seymour, genannt Chim, kamen den Menschen und dem Geschehen im Krieg so nah wie nie zuvor."
+                },
+                {
+                    "text": "Sie profitierten von modernen Kameras, die leichter und wesentlich handlicher geworden waren."
+                },
+                {
+                    "text": "Capa, der zun\u00e4chst mit der Leica fotografierte, bevor er sie an Taro abtrat, konnte sich den kleinformatigen Apparat einh\u00e4ndig ans Auge halten oder hinter Soldaten herlaufen und dabei die Kamera bedienen."
+                },
+                {
+                    "text": "Und er konnte sich bei Beschuss auf den Boden werfen und trotzdem weiterfotografieren."
+                },
+                {
+                    "text": "Im Juli 1937 reiste Capa nach Paris und handelte dort einen neuen Auftrag aus."
+                },
+                {
+                    "text": "Capa und Taro hatten ihr Wirkungsfeld entdeckt: Sie wollten als Kriegsreporter auf der ganzen Welt Unrecht dokumentieren."
+                },
+                {
+                    "text": "Am Bahnhof in Paris warteten Capa und Taros Vater, der das j\u00fcdische Totengebet Kaddisch f\u00fcr seine Tochter rezitierte."
+                },
+                {
+                    "text": "Capa fiel in eine tiefe Depression, bevor er seine Karriere als Kriegsfotograf allein fortsetzte."
+                },
+                {
+                    "text": "Im Jahr nach Taros Tod ver\u00f6ffentlichte er das Buch \u00bbDeath In The Making\u00ab \u00fcber den Spanischen B\u00fcrgerkrieg."
+                },
+                {
+                    "text": "Am 25. Mai 1954 trat Capa in Indochina auf eine Landmine."
+                },
+                {
+                    "text": "Er starb 17 Jahre nach Gerda Taro."
+                },
+                {
+                    "text": "Gerda Taros Fotos und die Negative des Mexican Suitcase lagern im International Center of Photography (ICP) in New York, das Cornell Capa 1974 im Andenken an seinen Bruder Robert Capa gr\u00fcndete."
+                },
+                {
+                    "text": "Gr\u00fcndungsjubil\u00e4um zeigt das ICP vom 24. Januar bis 6. Mai 2024 Teile seiner Sammlung, darunter Fotos von Taro und Capa."
+                },
+                {
+                    "text": "Der etwas zerzaust aussehende, aber freundliche Mann erkl\u00e4rte, er sei Fotograf und suche ein Modell f\u00fcr eine Werbeanzeige."
+                },
+                {
+                    "text": "So begegneten sich Gerta Pohorylle und Endre Friedmann."
+                },
+                {
+                    "text": "Zun\u00e4chst 1931 nach Berlin, wo er in einem Fotolabor gearbeitet hatte."
+                },
+                {
+                    "text": "Als auch in Berlin die Repressalien gegen j\u00fcdische Menschen zunahmen, war er nach Paris gezogen und schlug sich als Fotograf durch."
+                },
+                {
+                    "text": "Gemeinsam durchstreiften sie Paris und die Umgebung; Friedmann brachte ihr die Grundlagen der Fotografie bei."
+                },
+                {
+                    "text": "Friedmann zog durch Paris und dokumentierte Streiks und kommunistische Kundgebungen."
+                },
+                {
+                    "text": "Vereinzelt ergatterte er Auftr\u00e4ge."
+                },
+                {
+                    "text": "Doch immer wieder wurde klar, dass ihre Nachnamen Friedmann und Pohorylle die beiden sofort als osteurop\u00e4ische oder deutsche Fl\u00fcchtlinge auswiesen."
+                },
+                {
+                    "text": "Das Paar \u00fcberlegte, wie sie aus der Masse herausstechen konnten, um zu \u00fcberleben."
+                },
+                {
+                    "text": "Friedmann vertraute auf seinen Charme und lie\u00df den Dingen gern ihren Lauf; Pohorylle hatte K\u00f6pfchen und war ehrgeizig."
+                },
+                {
+                    "text": "Und Endre Friedmann hie\u00df nun Robert Capa \u2013 angeblich ein erfolgreicher amerikanischer Fotograf, gerade erst in Paris angekommen."
+                }
+            ],
+            "occupations": [
+                {
+                    "text": "Fotograf"
+                }
+            ],
+            "directQuotes": [
+                {
+                    "text": "Und manchmal bin ich trotzdem einfach nur total verliebt in dich."
+                },
+                {
+                    "text": "Death In The Making"
+                },
+                {
+                    "text": "F\u00fcr Gerda Taro, die ein Jahr an der Spanischen Front verbrachte \u2013 und dortblieb."
+                }
+            ],
+            "quotedInTitle": false,
+            "quotedInIntro": true
+        }
+    ]
+}

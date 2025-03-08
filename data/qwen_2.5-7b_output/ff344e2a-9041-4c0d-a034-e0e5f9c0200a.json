@@ -1,0 +1,77 @@
+{
+    "persons": [
+        {
+            "name": "Stephan Brandner",
+            "alternativeNames": [],
+            "age": -1,
+            "sex": "male",
+            "occurences": {
+                "total": 1,
+                "firstNameOnly": 0,
+                "lastNameOnly": 0,
+                "fullName": 1,
+                "nickname": 0
+            },
+            "inTitle": false,
+            "inIntro": false,
+            "_name": {
+                "firstname": "Stephan",
+                "lastname": "Brandner",
+                "nickname": null,
+                "alternative_names": [],
+                "academic_title": null,
+                "nobility_title_or_rank": null
+            },
+            "descriptiveTexts": [
+                {
+                    "text": "Nahe Truongs Tattoostudio hat der direkt gew\u00e4hlte Geraer AfD-Abgeordnete und H\u00f6cke-Vertraute Stephan Brandner sein Wahlkreisb\u00fcro."
+                },
+                {
+                    "text": "Er ist wie H\u00f6cke geb\u00fcrtiger Westdeutscher, hat aber den Osten als Spielwiese f\u00fcr seine Ideologien auserkoren."
+                },
+                {
+                    "text": "Die AfD kam im Wahlkreis bei der letzten Bundestagswahl auf 28,1 Prozent, im Geraer Stadtrat ist sie die st\u00e4rkste Kraft."
+                }
+            ],
+            "occupations": [],
+            "directQuotes": [],
+            "quotedInTitle": false,
+            "quotedInIntro": false
+        },
+        {
+            "name": "H\u00f6cke",
+            "alternativeNames": [],
+            "age": -1,
+            "sex": "male",
+            "occurences": {
+                "total": 2,
+                "firstNameOnly": 0,
+                "lastNameOnly": 0,
+                "fullName": 2,
+                "nickname": 0
+            },
+            "inTitle": false,
+            "inIntro": false,
+            "_name": {
+                "firstname": null,
+                "lastname": "H\u00f6cke",
+                "nickname": null,
+                "alternative_names": [],
+                "academic_title": null,
+                "nobility_title_or_rank": null
+            },
+            "descriptiveTexts": [
+                {
+                    "text": "Nahe Truongs Tattoostudio hat der direkt gew\u00e4hlte Geraer AfD-Abgeordnete und H\u00f6cke-Vertraute Stephan Brandner sein Wahlkreisb\u00fcro."
+                },
+                {
+                    "text": "Er ist wie H\u00f6cke geb\u00fcrtiger Westdeutscher, hat aber den Osten als Spielwiese f\u00fcr seine Ideologien auserkoren."
+                }
+            ],
+            "occupations": [],
+            "directQuotes": [],
+            "quotedInTitle": false,
+            "quotedInIntro": false
+        }
+    ]
+}

@@ -1,0 +1,115 @@
+{
+    "persons": [
+        {
+            "name": "Jokowi",
+            "alternativeNames": [
+                "Joko Widodo"
+            ],
+            "age": -1,
+            "sex": "male",
+            "occurences": {
+                "total": 13,
+                "firstNameOnly": 1,
+                "lastNameOnly": 4,
+                "fullName": 4,
+                "nickname": 4
+            },
+            "inTitle": false,
+            "inIntro": false,
+            "_name": {
+                "firstname": "Joko",
+                "lastname": "Widodo",
+                "nickname": "Jokowi",
+                "alternative_names": [
+                    "Joko Widodo"
+                ],
+                "academic_title": null,
+                "nobility_title_or_rank": null
+            },
+            "descriptiveTexts": [
+                {
+                    "text": "The man who set out to fulfill the dream of a new city and turned it into a real project is named Joko Widodo, known as Jokowi, the current president of Indonesia and former mayor of Jakarta."
+                },
+                {
+                    "text": "\"We want to build a new Indonesia,\" Jokowi said in his announcement many years ago."
+                },
+                {
+                    "text": "The Nusantara project is difficult to separate from Joko Widodo\u2019s final days in office."
+                },
+                {
+                    "text": "But Widodo continues to hold fast to his goal."
+                },
+                {
+                    "text": "Indeed, the plan calls for the first ministries to move to the city this year and for the government palace to be inaugurated \u2013 in precisely the same year that Widodo will be leaving the presidency behind."
+                },
+                {
+                    "text": "Indonesian voters went to the polls this week to elect a new president, with Widodo unable to run for a third stint in office due to term limitation laws."
+                },
+                {
+                    "text": "Just how important the Nusantara project is for Joko Widodo can be seen in a deal he made with a former political rival, Prabowo Subianto, who lost two previous elections against Jokowi."
+                },
+                {
+                    "text": "In the hopes of just that result, Jokowi placed his eldest son Gibran Rakabuming, at his side as the vice-presidential candidate."
+                },
+                {
+                    "text": "But for Joko Widobo, he is the one who has guaranteed the completion of his legacy."
+                },
+                {
+                    "text": "Critics of outgoing President Widodo are worried that the megaproject is simply too great of a financial burden for Indonesia."
+                },
+                {
+                    "text": "What is relatively certain, however, is that the palace will be sufficiently complete that Joko Widodo can move in."
+                }
+            ],
+            "occupations": [],
+            "directQuotes": [
+                {
+                    "text": "We want to build a new Indonesia,"
+                },
+                {
+                    "text": "Indonesia is more than just Jakarta."
+                }
+            ],
+            "quotedInTitle": false,
+            "quotedInIntro": false
+        },
+        {
+            "name": "Prabowo Subianto",
+            "alternativeNames": [],
+            "age": -1,
+            "sex": "male",
+            "occurences": {
+                "total": 3,
+                "firstNameOnly": 2,
+                "lastNameOnly": 0,
+                "fullName": 1,
+                "nickname": 0
+            },
+            "inTitle": false,
+            "inIntro": false,
+            "_name": {
+                "firstname": "Prabowo",
+                "lastname": "Subianto",
+                "nickname": null,
+                "alternative_names": [],
+                "academic_title": null,
+                "nobility_title_or_rank": null
+            },
+            "descriptiveTexts": [
+                {
+                    "text": "Just how important the Nusantara project is for Joko Widodo can be seen in a deal he made with a former political rival, Prabowo Subianto, who lost two previous elections against Jokowi."
+                },
+                {
+                    "text": "But also because Prabowo, a former military general, has been accused of serious human rights violations committed during the Suharto regime in East Timor and while putting down protests against the Indonesian government in May 1998."
+                },
+                {
+                    "text": "For critics, Prabowo is a criminal who must be brought to justice."
+                }
+            ],
+            "occupations": [],
+            "directQuotes": [],
+            "quotedInTitle": false,
+            "quotedInIntro": false
+        }
+    ]
+}

@@ -1,0 +1,497 @@
+{
+    "persons": [
+        {
+            "name": "Wang Weize",
+            "alternativeNames": [],
+            "age": 22,
+            "sex": "male",
+            "occurences": {
+                "total": 16,
+                "firstNameOnly": 3,
+                "lastNameOnly": 13,
+                "fullName": 0,
+                "nickname": 0
+            },
+            "inTitle": false,
+            "inIntro": false,
+            "_name": {
+                "firstname": "Weize",
+                "lastname": "Wang",
+                "nickname": null,
+                "alternative_names": [],
+                "academic_title": null,
+                "nobility_title_or_rank": null
+            },
+            "descriptiveTexts": [
+                {
+                    "text": "Es war eine Szene wie in einer Filmkom\u00f6die, nur leider wohl ohne Happy End: Wang Weize (22) war voller Hoffnung zum Bewerbungsgespr\u00e4ch bei einer gro\u00dfen chinesischen Bank gegangen."
+                },
+                {
+                    "text": "Doch als er dort ankam, erblickte er unter den Konkurrenten einen alten Bekannten: den \u00dcberflieger seiner Highschool, der unter den rund 400 Sch\u00fclern seines Schuljahrgangs die besten Noten gehabt und anschlie\u00dfend eine Spitzenuniversit\u00e4t besucht hatte."
+                },
+                {
+                    "text": "\"Mein Gef\u00fchl war, in das Vorstellungsgespr\u00e4ch muss ich eigentlich gar nicht erst reingehen\", sagt Wang."
+                },
+                {
+                    "text": "\"Wie soll ich da mithalten?\""
+                },
+                {
+                    "text": "Wang ist Uni-Absolvent und verzweifelt auf Jobsuche."
+                },
+                {
+                    "text": "Nach dem Gespr\u00e4ch in der Bank sitzt er an diesem Augusttag in einer Starbucks-Filiale in Pekings zentralem Gesch\u00e4ftsviertel."
+                },
+                {
+                    "text": "Wie gern w\u00fcrde Wang zu ihnen geh\u00f6ren \u2013 nicht zu den Boten, sondern den B\u00fcroangestellten."
+                },
+                {
+                    "text": "\u00c4u\u00dferlich hat er sich ihnen schon angepasst, er tr\u00e4gt Anzughose und ein geb\u00fcgeltes wei\u00dfes Hemd, sein letzter Friseurbesuch kann nicht lange her sein."
+                },
+                {
+                    "text": "Seine Lage ist ihm peinlich: Er f\u00fcrchtet, einer seiner Bekannten k\u00f6nnte mitbekommen, dass er noch immer keine Arbeit gefunden hat."
+                },
+                {
+                    "text": "Wang Weize dachte, er habe alles richtig gemacht."
+                },
+                {
+                    "text": "Er stammt aus einer bildungsorientierten Mittelschichtsfamilie in Peking."
+                },
+                {
+                    "text": "F\u00fcr seinen Bachelor studierte Wang an einer Technischen Universit\u00e4t in Peking im Hauptfach Wirtschaftsstatistik."
+                },
+                {
+                    "text": "Er sei sch\u00fcchtern und nicht auf einen Job erpicht, in dem er mit Menschen zu tun habe, sagt er, aber er m\u00f6ge Zahlen."
+                },
+                {
+                    "text": "\"Ich war sicher, damit kann ich gutes Geld verdienen.\""
+                },
+                {
+                    "text": "Wang erreichte einen Durchschnitt von 2,7 \u2013 nicht \u00fcberragend, aber solides Mittelfeld."
+                },
+                {
+                    "text": "Etwa hundert Bewerbungen hat er inzwischen geschrieben."
+                },
+                {
+                    "text": "F\u00fcnfmal wurde er zum Vorstellungsgespr\u00e4ch eingeladen."
+                },
+                {
+                    "text": "Weiter hat er es bisher nicht geschafft."
+                },
+                {
+                    "text": "Dieses Schicksal, erz\u00e4hlt Wang, teile er mit vielen der 47 Absolventinnen und Absolventen seines Fachs an seiner Universit\u00e4t."
+                },
+                {
+                    "text": "Wang glaubt das auch."
+                },
+                {
+                    "text": "Um Daten \u00fcber die Besch\u00e4ftigungssituation zu erheben, sei ein Mitarbeiter seiner Universit\u00e4t in das Wohnheimzimmer gekommen, in dem sie zu viert leben."
+                },
+                {
+                    "text": "\"Ich habe mich ergeben\", sagt Wang."
+                },
+                {
+                    "text": "\u00bbNur wenige haben ein Angebot bekommen\u00ab, sagt Wang."
+                },
+                {
+                    "text": "Der Wirtschaftsstatistik-Absolvent Wang Weize sagt, es bringe ja nichts, sich zu beschweren."
+                },
+                {
+                    "text": "\u00bbMei banfa\u00ab, sagt er, da kann man nichts machen."
+                },
+                {
+                    "text": "Nat\u00fcrlich k\u00f6nne er sich jetzt um einen Master-Studienplatz bem\u00fchen, aber angesichts der Arbeitsmarktlage sei ihm die Zuversicht abhandengekommen, dass ein h\u00f6herer Abschluss die L\u00f6sung sei."
+                },
+                {
+                    "text": "Doch Wang hat Zweifel: \u00bbWer wird denn einzahlen, wenn ich mal im Rentenalter ankomme? Chinas Bev\u00f6lkerung schrumpft\u00ab, sagt er."
+                },
+                {
+                    "text": "In seiner Suche nach einer guten Zukunft sieht er sich weitgehend auf sich allein gestellt: \u00bbMan muss selbst daf\u00fcr sorgen, dass jeder Tag z\u00e4hlt.\u00ab"
+                }
+            ],
+            "occupations": [
+                {
+                    "text": "Uni-Absolvent und verzweifelt auf Jobsuche"
+                }
+            ],
+            "directQuotes": [
+                {
+                    "text": "Mein Gef\u00fchl war, in das Vorstellungsgespr\u00e4ch muss ich eigentlich gar nicht erst reingehen"
+                },
+                {
+                    "text": "Wie soll ich da mithalten?"
+                },
+                {
+                    "text": "Ich war sicher, damit kann ich gutes Geld verdienen."
+                },
+                {
+                    "text": "Freelancer"
+                },
+                {
+                    "text": "Ich habe mich ergeben"
+                },
+                {
+                    "text": "Nur wenige haben ein Angebot bekommen"
+                },
+                {
+                    "text": "Mei banfa"
+                }
+            ],
+            "quotedInTitle": false,
+            "quotedInIntro": false
+        },
+        {
+            "name": "Xi Jinping",
+            "alternativeNames": [],
+            "age": -1,
+            "sex": "male",
+            "occurences": {
+                "total": 2,
+                "firstNameOnly": 1,
+                "lastNameOnly": 1,
+                "fullName": 0,
+                "nickname": 0
+            },
+            "inTitle": false,
+            "inIntro": false,
+            "_name": {
+                "firstname": "Jinping",
+                "lastname": "Xi",
+                "nickname": null,
+                "alternative_names": [],
+                "academic_title": null,
+                "nobility_title_or_rank": null
+            },
+            "descriptiveTexts": [
+                {
+                    "text": "Chinas Jugend m\u00fcsse lernen, \u00bbBitterkeit zu essen\u00ab, also H\u00e4rten zu ertragen, sagte Staats- und Parteichef Xi Jinping."
+                },
+                {
+                    "text": "Er selbst hat sich diese F\u00e4higkeit angeeignet, als er als Teenager aufs Land geschickt wurde, um die Kulturrevolution in einem Dorf ohne Strom und flie\u00dfend Wasser zu \u00fcberdauern."
+                },
+                {
+                    "text": "F\u00fcr die heutige Jugend scheint er \u00c4hnliches im Sinn zu haben."
+                },
+                {
+                    "text": "Ende 2022 wies er Kader an, College-Absolventen systematisch in l\u00e4ndliche Gegenden zu leiten, um die \u00bbl\u00e4ndliche Wirtschaft zu revitalisieren\u00ab."
+                }
+            ],
+            "occupations": [
+                {
+                    "text": "Staats- und Parteichef"
+                }
+            ],
+            "directQuotes": [
+                {
+                    "text": "Bitterkeit essen"
+                },
+                {
+                    "text": "Bitterkeit zu essen"
+                }
+            ],
+            "quotedInTitle": false,
+            "quotedInIntro": false
+        },
+        {
+            "name": "Zhang oder Zhangs",
+            "alternativeNames": [],
+            "age": -1,
+            "sex": "unknown",
+            "occurences": {
+                "total": 2,
+                "firstNameOnly": 0,
+                "lastNameOnly": 0,
+                "fullName": 2,
+                "nickname": 0
+            },
+            "inTitle": false,
+            "inIntro": false,
+            "_name": {
+                "firstname": null,
+                "lastname": "Zhang",
+                "nickname": null,
+                "alternative_names": [],
+                "academic_title": null,
+                "nobility_title_or_rank": null
+            },
+            "descriptiveTexts": [],
+            "occupations": [
+                {
+                    "text": "Wirtschaftsdozentin an der Peking-Universit\u00e4t"
+                }
+            ],
+            "directQuotes": [],
+            "quotedInTitle": false,
+            "quotedInIntro": false
+        },
+        {
+            "name": "Alicia Garc\u00eda-Herrero",
+            "alternativeNames": [],
+            "age": -1,
+            "sex": "female",
+            "occurences": {
+                "total": 1,
+                "firstNameOnly": 0,
+                "lastNameOnly": 0,
+                "fullName": 1,
+                "nickname": 0
+            },
+            "inTitle": false,
+            "inIntro": false,
+            "_name": {
+                "firstname": "Alicia",
+                "lastname": "Garc\u00eda-Herrero",
+                "nickname": null,
+                "alternative_names": [],
+                "academic_title": null,
+                "nobility_title_or_rank": null
+            },
+            "descriptiveTexts": [
+                {
+                    "text": "China sei nach der Pandemie \"in der neuen Realit\u00e4t einer Wirtschaft aufgewacht, die sich \u00fcber Jahre verlangsamen wird\", sagt Alicia Garc\u00eda-Herrero, Chef\u00f6konomin f\u00fcr die Asien-Pazifik-Region bei der Investmentbank Natixis."
+                }
+            ],
+            "occupations": [
+                {
+                    "text": "Chef\u00f6konomin f\u00fcr die Asien-Pazifik-Region bei der Investmentbank Natixis"
+                }
+            ],
+            "directQuotes": [
+                {
+                    "text": "in der neuen Realit\u00e4t einer Wirtschaft aufgewacht, die sich \u00fcber Jahre verlangsamen wird"
+                }
+            ],
+            "quotedInTitle": false,
+            "quotedInIntro": false
+        },
+        {
+            "name": "Max Zenglein",
+            "alternativeNames": [],
+            "age": -1,
+            "sex": "male",
+            "occurences": {
+                "total": 1,
+                "firstNameOnly": 0,
+                "lastNameOnly": 0,
+                "fullName": 1,
+                "nickname": 0
+            },
+            "inTitle": false,
+            "inIntro": false,
+            "_name": {
+                "firstname": "Max",
+                "lastname": "Zenglein",
+                "nickname": null,
+                "alternative_names": [],
+                "academic_title": null,
+                "nobility_title_or_rank": null
+            },
+            "descriptiveTexts": [
+                {
+                    "text": "\u00bbDie F\u00fchrung dachte, die Erholung wird ein Selbstl\u00e4ufer\u00ab, sagt Max Zenglein, Chef\u00f6konom bei der Berliner China-Denkfabrik Merics."
+                }
+            ],
+            "occupations": [
+                {
+                    "text": "Chef\u00f6konom bei der Berliner China-Denkfabrik Merics"
+                }
+            ],
+            "directQuotes": [
+                {
+                    "text": "Die F\u00fchrung dachte, die Erholung wird ein Selbstl\u00e4ufer"
+                }
+            ],
+            "quotedInTitle": false,
+            "quotedInIntro": false
+        },
+        {
+            "name": "Adam Posen",
+            "alternativeNames": [],
+            "age": -1,
+            "sex": "male",
+            "occurences": {
+                "total": 1,
+                "firstNameOnly": 0,
+                "lastNameOnly": 0,
+                "fullName": 1,
+                "nickname": 0
+            },
+            "inTitle": false,
+            "inIntro": false,
+            "_name": {
+                "firstname": "Adam",
+                "lastname": "Posen",
+                "nickname": null,
+                "alternative_names": [],
+                "academic_title": null,
+                "nobility_title_or_rank": null
+            },
+            "descriptiveTexts": [
+                {
+                    "text": "Ist das schon \"das Ende von Chinas Wirtschaftswunder\", wie die \u00dcberschrift eines aktuellen Aufsatzes von Adam Posen lautet, dem Pr\u00e4sidenten des renommierten Peterson Institute for International Economics?"
+                }
+            ],
+            "occupations": [],
+            "directQuotes": [
+                {
+                    "text": "das Ende von Chinas Wirtschaftswunder"
+                }
+            ],
+            "quotedInTitle": false,
+            "quotedInIntro": false
+        },
+        {
+            "name": "Corona",
+            "alternativeNames": [],
+            "age": -1,
+            "sex": "unknown",
+            "occurences": {
+                "total": 2,
+                "firstNameOnly": 0,
+                "lastNameOnly": 0,
+                "fullName": 2,
+                "nickname": 0
+            },
+            "inTitle": false,
+            "inIntro": false,
+            "_name": {
+                "firstname": null,
+                "lastname": null,
+                "nickname": null,
+                "alternative_names": [],
+                "academic_title": null,
+                "nobility_title_or_rank": null
+            },
+            "descriptiveTexts": [
+                {
+                    "text": "Corona brachte das Land ins Stocken, und seitdem kommt es nicht mehr richtig vom Fleck."
+                },
+                {
+                    "text": "So war es jedenfalls, bis Corona die Wirtschaft durchr\u00fcttelte."
+                }
+            ],
+            "occupations": [],
+            "directQuotes": [],
+            "quotedInTitle": false,
+            "quotedInIntro": false
+        },
+        {
+            "name": "Zhang Dandan",
+            "alternativeNames": [],
+            "age": -1,
+            "sex": "female",
+            "occurences": {
+                "total": 1,
+                "firstNameOnly": 1,
+                "lastNameOnly": 0,
+                "fullName": 0,
+                "nickname": 0
+            },
+            "inTitle": false,
+            "inIntro": false,
+            "_name": {
+                "firstname": "Dandan",
+                "lastname": "Zhang",
+                "nickname": null,
+                "alternative_names": [],
+                "academic_title": null,
+                "nobility_title_or_rank": null
+            },
+            "descriptiveTexts": [
+                {
+                    "text": "Zhang Dandan, Wirtschaftsdozentin an der Peking-Universit\u00e4t, schrieb im Juli im Magazin \u00bbCaixin\u00ab, die wahre Jugendarbeitslosigkeit liege wom\u00f6glich bei bis zu 46,5 Prozent."
+                },
+                {
+                    "text": "Diese Sch\u00e4tzung st\u00fctzte sie auf ihre Forschung \u00fcber die Industriezentren Suzhou und Kunshan in der ostchinesischen Provinz Jiangsu."
+                }
+            ],
+            "occupations": [
+                {
+                    "text": "Wirtschaftsdozentin an der Peking-Universit\u00e4t"
+                }
+            ],
+            "directQuotes": [
+                {
+                    "text": "Caixin"
+                }
+            ],
+            "quotedInTitle": false,
+            "quotedInIntro": false
+        },
+        {
+            "name": "Xiao Shai",
+            "alternativeNames": [],
+            "age": 24,
+            "sex": "female",
+            "occurences": {
+                "total": 4,
+                "firstNameOnly": 1,
+                "lastNameOnly": 3,
+                "fullName": 0,
+                "nickname": 0
+            },
+            "inTitle": false,
+            "inIntro": false,
+            "_name": {
+                "firstname": "Shai",
+                "lastname": "Xiao",
+                "nickname": null,
+                "alternative_names": [],
+                "academic_title": null,
+                "nobility_title_or_rank": null
+            },
+            "descriptiveTexts": [
+                {
+                    "text": "Die Absolventin Xiao Shai ist ebenfalls hoch qualifiziert."
+                },
+                {
+                    "text": "Mit 24 Jahren kann sie zwei Abschl\u00fcsse vorweisen: Ihren Bachelor in Mathematik und Wirtschaft hat sie in den USA gemacht, den Master in Data Science in Gro\u00dfbritannien."
+                },
+                {
+                    "text": "Um Jobeinsteigerinnen mit so einem internationalen Bildungsweg haben sich Konzerne in China fr\u00fcher gerissen \u2013 zumal, wenn ihre Kenntnisse \u00bbin jeder Branche zu gebrauchen\u00ab sind, wie Xiao es beschreibt."
+                },
+                {
+                    "text": "Doch nach 80 oder 90 Bewerbungen wartet sie immer noch auf eine Zusage."
+                },
+                {
+                    "text": "Xiao gibt sich auch selbst die Schuld: F\u00fcr Praktika sei neben dem intensiven Studium keine Zeit geblieben; mit dem Bewerben habe sie sp\u00e4t angefangen, weil sie sich zun\u00e4chst auf ihre Abschlussarbeit konzentrieren wollte."
+                },
+                {
+                    "text": "Ob sie Zukunftsangst sp\u00fcre?"
+                },
+                {
+                    "text": "Das lasse sich nicht vermeiden, sagt sie."
+                },
+                {
+                    "text": "Sie stehe unter Stress und sei \u00bbein wenig entt\u00e4uscht\u00ab."
+                },
+                {
+                    "text": "Die Phase der Arbeitslosigkeit will sie nutzen, um besser programmieren zu lernen \u2013 und sie erw\u00e4gt, ihr Heimatland wieder zu verlassen."
+                },
+                {
+                    "text": "\u00bbVielleicht bewerbe ich mich in Amerika auf eine Doktorandenstelle.\u00ab"
+                }
+            ],
+            "occupations": [
+                {
+                    "text": "Bachelor in Mathematik und Wirtschaft"
+                },
+                {
+                    "text": "Master in Data Science"
+                }
+            ],
+            "directQuotes": [
+                {
+                    "text": "in jeder Branche zu gebrauchen"
+                },
+                {
+                    "text": "ein wenig entt\u00e4uscht"
+                },
+                {
+                    "text": "Vielleicht bewerbe ich mich in Amerika auf eine Doktorandenstelle."
+                }
+            ],
+            "quotedInTitle": false,
+            "quotedInIntro": false
+        }
+    ]
+}

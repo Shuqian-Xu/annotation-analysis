@@ -1,0 +1,398 @@
+{
+    "persons": [
+        {
+            "name": "Alessandro Michele",
+            "alternativeNames": [],
+            "age": -1,
+            "sex": "male",
+            "occurences": {
+                "total": 1,
+                "firstNameOnly": 0,
+                "lastNameOnly": 0,
+                "fullName": 1,
+                "nickname": 0
+            },
+            "inTitle": false,
+            "inIntro": false,
+            "_name": {
+                "firstname": "Alessandro",
+                "lastname": "Michele",
+                "nickname": null,
+                "alternative_names": [],
+                "academic_title": null,
+                "nobility_title_or_rank": null
+            },
+            "descriptiveTexts": [
+                {
+                    "text": "\u00bbIch denke zum Beispiel an Alessandro Michele, den Ex-Chefdesigner von Gucci. Oder Hedi Slimane, der heute f\u00fcr C\u00e9line arbeitet. Das sind Kreative, zu deren Werk die Menschen eine emotionale Bindung aufgebaut haben. Und das kann sich darauf auswirken, wie viel ihre Entw\u00fcrfe irgendwann wert sind.\u00ab"
+                }
+            ],
+            "occupations": [
+                {
+                    "text": "Ex-Chefdesigner von Gucci"
+                },
+                {
+                    "text": "Kreative, zu deren Werk die Menschen eine emotionale Bindung aufgebaut haben."
+                }
+            ],
+            "directQuotes": [],
+            "quotedInTitle": false,
+            "quotedInIntro": false
+        },
+        {
+            "name": "Herm\u00e8s",
+            "alternativeNames": [],
+            "age": -1,
+            "sex": "unknown",
+            "occurences": {
+                "total": 6,
+                "firstNameOnly": 0,
+                "lastNameOnly": 0,
+                "fullName": 6,
+                "nickname": 0
+            },
+            "inTitle": false,
+            "inIntro": true,
+            "_name": {
+                "firstname": null,
+                "lastname": null,
+                "nickname": null,
+                "alternative_names": [],
+                "academic_title": null,
+                "nobility_title_or_rank": null
+            },
+            "descriptiveTexts": [
+                {
+                    "text": "Herm\u00e8s, Gucci, Chanel: Bei welchen Designerst\u00fccken lohnt sich ein Investment?"
+                },
+                {
+                    "text": "450.000 US-Dollar f\u00fcr eine Birkin Tasche von Herm\u00e8s"
+                },
+                {
+                    "text": "W\u00e4re ich nach meiner Louis Vuitton-Erfahrung theoretisch als N\u00e4chstes zu Chanel oder Herm\u00e8s gegangen \u2013 bei meinem Studentenbudget war das leider nicht m\u00f6glich \u2013 und h\u00e4tte \u00fcber die Jahre eine Sammlung aufgebaut, k\u00f6nnte ich jetzt ein ordentliches Portfolio aufweisen."
+                },
+                {
+                    "text": "\u00bbK\u00e4ufer, die Luxusprodukte mit Investmentpotenzial kaufen wollen, sollten den Fokus auf zeitlose Designs legen, auf limitierte Editionen und auf ikonische Produkte von bekannten Marken wie Chanel oder Herm\u00e8s\u00ab, sagt sie."
+                },
+                {
+                    "text": "Auch Sophie Hersan, Fashion Director und Mitbegr\u00fcnderin der Resale-Plattform Vestiaire Collective, best\u00e4tigt, dass die gro\u00dfen etablierten Marken auf dem Wiederverkaufsmarkt weltweit die begehrtesten sind: Chanel, Herm\u00e8s, Louis Vuitton, auch Gucci oder Dior."
+                },
+                {
+                    "text": "\u00bbManche Produkte von Herm\u00e8s sind deswegen so begehrt, weil man sie in der Boutique praktisch nicht bekommt. Die Nachfrage \u00fcbersteigt das Angebot. Deswegen schauen sich Kunden auf Resale-Plattformen um, wo der Preis dann sogar h\u00f6her liegen kann als im Gesch\u00e4ft.\u00ab"
+                }
+            ],
+            "occupations": [],
+            "directQuotes": [],
+            "quotedInTitle": false,
+            "quotedInIntro": true
+        },
+        {
+            "name": "Lucile Andreani",
+            "alternativeNames": [],
+            "age": -1,
+            "sex": "female",
+            "occurences": {
+                "total": 3,
+                "firstNameOnly": 0,
+                "lastNameOnly": 1,
+                "fullName": 2,
+                "nickname": 0
+            },
+            "inTitle": false,
+            "inIntro": false,
+            "_name": {
+                "firstname": "Lucile",
+                "lastname": "Andreani",
+                "nickname": null,
+                "alternative_names": [],
+                "academic_title": null,
+                "nobility_title_or_rank": null
+            },
+            "descriptiveTexts": [
+                {
+                    "text": "Lucile Andreani leitet beim Auktionshaus Christie\u2019s in Paris die Abteilung f\u00fcr Taschen und Accessoires und beobachtet seit Jahren, welche St\u00fccke an Wert gewinnen."
+                },
+                {
+                    "text": "\u00bbK\u00e4ufer, die Luxusprodukte mit Investmentpotenzial kaufen wollen, sollten den Fokus auf zeitlose Designs legen, auf limitierte Editionen und auf ikonische Produkte von bekannten Marken wie Chanel oder Herm\u00e8s\u00ab, sagt sie."
+                },
+                {
+                    "text": "\u00bbEs ist extrem wichtig, auf den Zustand eines St\u00fcckes zu achten, wenn man sein Investmentpotenzial maximieren will\u00ab, sagt Lucile Andreani."
+                },
+                {
+                    "text": "\u00bbTaschen sollten regelm\u00e4\u00dfig ges\u00e4ubert werden. Glatt- oder genarbtes Leder kann man mit einem feuchten Papiertuch abwischen, bei Wildleder sollte man nur trockene T\u00fccher verwenden\u00ab, sagt sie."
+                },
+                {
+                    "text": "\u00bbDie k\u00f6nnen sie aus der Form bringen und Spuren auf dem Material hinterlassen. Immer gepolsterte B\u00fcgel verwenden\u00ab, sagt Andreani."
+                }
+            ],
+            "occupations": [],
+            "directQuotes": [
+                {
+                    "text": "K\u00e4ufer, die Luxusprodukte mit Investmentpotenzial kaufen wollen, sollten den Fokus auf zeitlose Designs legen, auf limitierte Editionen und auf ikonische Produkte von bekannten Marken wie Chanel oder Herm\u00e8s"
+                },
+                {
+                    "text": "Deren Entw\u00fcrfe haben \u00fcber die Jahre hinweg bewiesen, dass sie extrem beliebt sind, weil die Menschen das Handwerk dahinter sch\u00e4tzen, die Exklusivit\u00e4t und das ikonische Image, das sie sich aufgebaut haben."
+                },
+                {
+                    "text": "Es ist extrem wichtig, auf den Zustand eines St\u00fcckes zu achten, wenn man sein Investmentpotenzial maximieren will"
+                },
+                {
+                    "text": "Taschen sollten regelm\u00e4\u00dfig ges\u00e4ubert werden. Glatt- oder genarbtes Leder kann man mit einem feuchten Papiertuch abwischen, bei Wildleder sollte man nur trockene T\u00fccher verwenden"
+                },
+                {
+                    "text": "Bei der Aufbewahrung sollte man darauf achten, dass eine Tasche mit Seidenpapier ausgestopft ist, und in ihrem Staubbeutel am besten liegend in ihrer originalen Schachtel verstaut wird."
+                },
+                {
+                    "text": "Die k\u00f6nnen sie aus der Form bringen und Spuren auf dem Material hinterlassen. Immer gepolsterte B\u00fcgel verwenden"
+                }
+            ],
+            "quotedInTitle": false,
+            "quotedInIntro": false
+        },
+        {
+            "name": "Pharrell Williams",
+            "alternativeNames": [],
+            "age": -1,
+            "sex": "male",
+            "occurences": {
+                "total": 2,
+                "firstNameOnly": 0,
+                "lastNameOnly": 0,
+                "fullName": 2,
+                "nickname": 0
+            },
+            "inTitle": false,
+            "inIntro": false,
+            "_name": {
+                "firstname": "Pharrell",
+                "lastname": "Williams",
+                "nickname": null,
+                "alternative_names": [],
+                "academic_title": null,
+                "nobility_title_or_rank": null
+            },
+            "descriptiveTexts": [
+                {
+                    "text": "Pharrell Williams\u2019 Kollektionen: \u00bbHohe popkulturelle Bedeutung\u00ab"
+                },
+                {
+                    "text": "Hersan glaubt, dass auch Pharrell Williams\u2019 Kollektionen f\u00fcr die Herrenlinie von Louis Vuitton das Potenzial haben, irgendwann einen hohen Wiederverkaufswert zu erreichen."
+                }
+            ],
+            "occupations": [],
+            "directQuotes": [],
+            "quotedInTitle": false,
+            "quotedInIntro": false
+        },
+        {
+            "name": "Max Mara",
+            "alternativeNames": [],
+            "age": -1,
+            "sex": "unknown",
+            "occurences": {
+                "total": 1,
+                "firstNameOnly": 0,
+                "lastNameOnly": 0,
+                "fullName": 1,
+                "nickname": 0
+            },
+            "inTitle": false,
+            "inIntro": false,
+            "_name": {
+                "firstname": "Max",
+                "lastname": "Mara",
+                "nickname": null,
+                "alternative_names": [],
+                "academic_title": null,
+                "nobility_title_or_rank": null
+            },
+            "descriptiveTexts": [
+                {
+                    "text": "Dazu geh\u00f6ren zum Beispiel Trench Coats von Burberry, die \u00bbSaddle Bag\u00ab von Dior, Korsagen von Vivienne Westwood oder der \u00bbTeddy Coat\u00ab von Max Mara."
+                }
+            ],
+            "occupations": [],
+            "directQuotes": [],
+            "quotedInTitle": false,
+            "quotedInIntro": false
+        },
+        {
+            "name": "Karl Lagerfeld",
+            "alternativeNames": [],
+            "age": -1,
+            "sex": "male",
+            "occurences": {
+                "total": 1,
+                "firstNameOnly": 0,
+                "lastNameOnly": 0,
+                "fullName": 1,
+                "nickname": 0
+            },
+            "inTitle": false,
+            "inIntro": false,
+            "_name": {
+                "firstname": "Karl",
+                "lastname": "Lagerfeld",
+                "nickname": null,
+                "alternative_names": [],
+                "academic_title": null,
+                "nobility_title_or_rank": null
+            },
+            "descriptiveTexts": [
+                {
+                    "text": "Vor einigen Wochen trennte sich eine wohlhabende Chanel-Kundin von 252 Kleidungsst\u00fccken und Accessoires aus Haute-Couture-Kollektionen, die Karl Lagerfeld zwischen 1990 und 2014 f\u00fcr Chanel entworfen hatte."
+                }
+            ],
+            "occupations": [],
+            "directQuotes": [],
+            "quotedInTitle": false,
+            "quotedInIntro": false
+        },
+        {
+            "name": "Vivienne Westwood",
+            "alternativeNames": [],
+            "age": -1,
+            "sex": "female",
+            "occurences": {
+                "total": 1,
+                "firstNameOnly": 0,
+                "lastNameOnly": 0,
+                "fullName": 1,
+                "nickname": 0
+            },
+            "inTitle": false,
+            "inIntro": false,
+            "_name": {
+                "firstname": "Vivienne",
+                "lastname": "Westwood",
+                "nickname": null,
+                "alternative_names": [],
+                "academic_title": null,
+                "nobility_title_or_rank": null
+            },
+            "descriptiveTexts": [
+                {
+                    "text": "Dazu geh\u00f6ren zum Beispiel Trench Coats von Burberry, die \u00bbSaddle Bag\u00ab von Dior, Korsagen von Vivienne Westwood oder der \u00bbTeddy Coat\u00ab von Max Mara."
+                }
+            ],
+            "occupations": [],
+            "directQuotes": [],
+            "quotedInTitle": false,
+            "quotedInIntro": false
+        },
+        {
+            "name": "Sophie Hersan",
+            "alternativeNames": [],
+            "age": -1,
+            "sex": "female",
+            "occurences": {
+                "total": 4,
+                "firstNameOnly": 0,
+                "lastNameOnly": 3,
+                "fullName": 1,
+                "nickname": 0
+            },
+            "inTitle": false,
+            "inIntro": false,
+            "_name": {
+                "firstname": "Sophie",
+                "lastname": "Hersan",
+                "nickname": null,
+                "alternative_names": [],
+                "academic_title": null,
+                "nobility_title_or_rank": null
+            },
+            "descriptiveTexts": [
+                {
+                    "text": "Auch Sophie Hersan, Fashion Director und Mitbegr\u00fcnderin der Resale-Plattform Vestiaire Collective, best\u00e4tigt, dass die gro\u00dfen etablierten Marken auf dem Wiederverkaufsmarkt weltweit die begehrtesten sind: Chanel, Herm\u00e8s, Louis Vuitton, auch Gucci oder Dior."
+                },
+                {
+                    "text": "\u00bbMeist treiben drei Dinge den Wert nach oben: Qualit\u00e4t, ein knappes Angebot und ein besonderes Erbe, das mit einer Marke assoziiert wird\u00ab, sagt sie."
+                },
+                {
+                    "text": "Wenn es um Kleidung geht, empfiehlt Hersan, sich an bedeutenden Designern zu orientieren, die einen gro\u00dfen Einfluss auf die Mode haben und denen eine kulturelle Relevanz zugesprochen wird."
+                },
+                {
+                    "text": "\u00bbPhoebe Philo ist daf\u00fcr ein gutes Beispiel\u00ab, sagt sie \u00fcber die britische Designerin und ehemalige Kreativdirektorin von C\u00e9line, die mit den sogenannten \u00bbPhilophiles\u00ab eine ganze Fangemeinde hinter sich vereint."
+                },
+                {
+                    "text": "Sie vermutet, dass noch andere gefeierte Designer in Zukunft eine \u00e4hnliche Nachfrage ausl\u00f6sen k\u00f6nnten."
+                },
+                {
+                    "text": "Hersan glaubt, dass auch Pharrell Williams\u2019 Kollektionen f\u00fcr die Herrenlinie von Louis Vuitton das Potenzial haben, irgendwann einen hohen Wiederverkaufswert zu erreichen."
+                },
+                {
+                    "text": "Hersan empfiehlt, den Trendzyklus im Auge zu behalten."
+                },
+                {
+                    "text": "\u00bbManche St\u00fccke, die zu den Klassikern eines Labels geh\u00f6ren, sind eine Weile besonders angesagt, dann nimmt das Interesse wieder ab\u00ab, sagt sie."
+                }
+            ],
+            "occupations": [],
+            "directQuotes": [
+                {
+                    "text": "Meist treiben drei Dinge den Wert nach oben: Qualit\u00e4t, ein knappes Angebot und ein besonderes Erbe, das mit einer Marke assoziiert wird"
+                },
+                {
+                    "text": "Manche Produkte von Herm\u00e8s sind deswegen so begehrt, weil man sie in der Boutique praktisch nicht bekommt. Die Nachfrage \u00fcbersteigt das Angebot. Deswegen schauen sich Kunden auf Resale-Plattformen um, wo der Preis dann sogar h\u00f6her liegen kann als im Gesch\u00e4ft."
+                },
+                {
+                    "text": "Phoebe Philo ist daf\u00fcr ein gutes Beispiel"
+                },
+                {
+                    "text": "Hohe popkulturelle Bedeutung"
+                },
+                {
+                    "text": "Ich denke zum Beispiel an Alessandro Michele, den Ex-Chefdesigner von Gucci. Oder Hedi Slimane, der heute f\u00fcr C\u00e9line arbeitet. Das sind Kreative, zu deren Werk die Menschen eine emotionale Bindung aufgebaut haben. Und das kann sich darauf auswirken, wie viel ihre Entw\u00fcrfe irgendwann wert sind."
+                },
+                {
+                    "text": "Manche St\u00fccke, die zu den Klassikern eines Labels geh\u00f6ren, sind eine Weile besonders angesagt, dann nimmt das Interesse wieder ab"
+                },
+                {
+                    "text": "Das ist der Moment, in dem es sich lohnt, sie auf dem Resale-Markt zu einem g\u00fcnstigeren Preis zu kaufen. Mit gro\u00dfer Wahrscheinlichkeit sind sie irgendwann wieder gefragt, und dann steigt der Preis."
+                }
+            ],
+            "quotedInTitle": false,
+            "quotedInIntro": false
+        },
+        {
+            "name": "Hedi Slimane",
+            "alternativeNames": [],
+            "age": -1,
+            "sex": "male",
+            "occurences": {
+                "total": 1,
+                "firstNameOnly": 0,
+                "lastNameOnly": 0,
+                "fullName": 1,
+                "nickname": 0
+            },
+            "inTitle": false,
+            "inIntro": false,
+            "_name": {
+                "firstname": "Hedi",
+                "lastname": "Slimane",
+                "nickname": null,
+                "alternative_names": [],
+                "academic_title": null,
+                "nobility_title_or_rank": null
+            },
+            "descriptiveTexts": [
+                {
+                    "text": "\u00bbIch denke zum Beispiel an Alessandro Michele, den Ex-Chefdesigner von Gucci. Oder Hedi Slimane, der heute f\u00fcr C\u00e9line arbeitet. Das sind Kreative, zu deren Werk die Menschen eine emotionale Bindung aufgebaut haben. Und das kann sich darauf auswirken, wie viel ihre Entw\u00fcrfe irgendwann wert sind.\u00ab"
+                }
+            ],
+            "occupations": [
+                {
+                    "text": "Ex-Chefdesigner von Gucci"
+                },
+                {
+                    "text": "Kreative, zu deren Werk die Menschen eine emotionale Bindung aufgebaut haben."
+                }
+            ],
+            "directQuotes": [],
+            "quotedInTitle": false,
+            "quotedInIntro": false
+        }
+    ]
+}

@@ -1,0 +1,628 @@
+{
+    "persons": [
+        {
+            "name": "Shir Zoar",
+            "alternativeNames": [],
+            "age": 21,
+            "sex": "female",
+            "occurences": {
+                "total": 6,
+                "firstNameOnly": 0,
+                "lastNameOnly": 3,
+                "fullName": 3,
+                "nickname": 0
+            },
+            "inTitle": false,
+            "inIntro": false,
+            "_name": {
+                "firstname": "Shir",
+                "lastname": "Zoar",
+                "nickname": null,
+                "alternative_names": [],
+                "academic_title": null,
+                "nobility_title_or_rank": null
+            },
+            "descriptiveTexts": [
+                {
+                    "text": "Shir Zoar, eine 21-j\u00e4hrige ehemalige Armeesoldatin aus der N\u00e4he von Tel Aviv, sieht Pal\u00e4stinenser als Feinde, jetzt mehr denn je."
+                },
+                {
+                    "text": "Sie sitzt am Pool, die schwarzen Haare unter einer Kappe zum Zopf gebunden."
+                },
+                {
+                    "text": "Um ihren Hals eine Kette mit dem Anh\u00e4nger \u00bbBring them back\u00ab, holt sie zur\u00fcck, aus Solidarit\u00e4t mit den entf\u00fchrten Geiseln."
+                },
+                {
+                    "text": "Ihre gr\u00f6\u00dfte Angst sei es immer gewesen, dass ein Araber mit einem Messer auf sie zust\u00fcrme, erz\u00e4hlt sie."
+                },
+                {
+                    "text": "\u00bbIch mag sie nicht. Sie sind Tiere.\u00ab"
+                },
+                {
+                    "text": "\u00bbGaza muss zerst\u00f6rt werden\u00ab, sagt Zoar."
+                },
+                {
+                    "text": "Zoar hat das Massaker \u00fcberlebt, weil sie sich im Wagen eines Fremden tot gestellt hat."
+                },
+                {
+                    "text": "Sie war mit ihrer Freundin im Auto, als die Gruppe unter Feuer geriet."
+                },
+                {
+                    "text": "Zoar und ihre Freundin harrten drei Stunden regungslos mit dem Toten aus."
+                },
+                {
+                    "text": "Nun lebt Shir Zoar wieder in Tel Aviv bei ihrer Mutter."
+                },
+                {
+                    "text": "Seit zwei Monaten arbeitet sie nicht mehr."
+                },
+                {
+                    "text": "Sie geht zur Therapie."
+                },
+                {
+                    "text": "Vor dem Angriff wollte sie Souschefin in einem Restaurant werden."
+                },
+                {
+                    "text": "Jetzt wei\u00df sie nicht mehr, was ihr gef\u00e4llt."
+                },
+                {
+                    "text": "Shir Zoar, die Ex-Soldatin, will herausfinden, was ihr wirklich gef\u00e4llt."
+                }
+            ],
+            "occupations": [],
+            "directQuotes": [
+                {
+                    "text": "Ich mag sie nicht. Sie sind Tiere."
+                },
+                {
+                    "text": "Gaza muss zerst\u00f6rt werden"
+                },
+                {
+                    "text": "Jeder muss sterben."
+                }
+            ],
+            "quotedInTitle": false,
+            "quotedInIntro": false
+        },
+        {
+            "name": "Tomer Bassi",
+            "alternativeNames": [],
+            "age": 25,
+            "sex": "male",
+            "occurences": {
+                "total": 17,
+                "firstNameOnly": 0,
+                "lastNameOnly": 10,
+                "fullName": 7,
+                "nickname": 0
+            },
+            "inTitle": false,
+            "inIntro": false,
+            "_name": {
+                "firstname": "Tomer",
+                "lastname": "Bassi",
+                "nickname": null,
+                "alternative_names": [],
+                "academic_title": null,
+                "nobility_title_or_rank": null
+            },
+            "descriptiveTexts": [
+                {
+                    "text": "Tomer Bassis hat trotzdem einen Flashback gehabt."
+                },
+                {
+                    "text": "Als er zu Beginn dieser Sitzung auf dem Boden lag, um seine Beine zu f\u00fchlen, kamen die Bilder zur\u00fcck."
+                },
+                {
+                    "text": "Er musste sich aufsetzen, erz\u00e4hlt er hinterher."
+                },
+                {
+                    "text": "Bassis blickte sich im Tanzraum um und benannte die Dinge, die er sah."
+                },
+                {
+                    "text": "Bassis lebt in Beer Scheva, im S\u00fcden von Israel, wo er die Luftschl\u00e4ge der Israelis im Gazastreifen h\u00f6rt."
+                },
+                {
+                    "text": "\u00bbVor dem 7. Oktober war ich ein ganz normaler Mathestudent\u00ab, sagt er."
+                },
+                {
+                    "text": "Bassis liebte Trance-Festivals, empfand sich danach jedes Mal wie neugeboren, so nennt er das."
+                },
+                {
+                    "text": "Die ersten vier Wochen nach dem Massaker konnte er keine Musik h\u00f6ren."
+                },
+                {
+                    "text": "Dann sei er auf einer Hochzeit gewesen und habe beim Tanzen einen Panikanfall bekommen."
+                },
+                {
+                    "text": "\u00bbAlles war gut\u00ab, sagt er."
+                },
+                {
+                    "text": "\u00bbDoch pl\u00f6tzlich dachte ich: Wann stoppt die Musik und die Terroristen kommen rein, um uns zu erschie\u00dfen?\u00ab"
+                },
+                {
+                    "text": "Wie viele Nova-Besucher war Bassis bei dem \u00dcberfall auf Drogen."
+                },
+                {
+                    "text": "\u00bbIch hatte jede Menge LSD und Ecstasy eingeworfen.\u00ab"
+                },
+                {
+                    "text": "Er wollte aufgeputscht in den Tag hineinfeiern."
+                },
+                {
+                    "text": "Als um 6.30 Uhr die Musik stoppte und viele Besucher noch an Raketenbeschuss aus dem Gazastreifen glaubten, sei Bassis sofort in Panik verfallen."
+                },
+                {
+                    "text": "\u00bbDie Kombination aus dem Sound des Iron Dome und den Drogen war nicht gut\u00ab, sagt er."
+                },
+                {
+                    "text": "Trotzdem h\u00e4tten er und seine Freunde noch ihre Sachen zusammengesucht."
+                },
+                {
+                    "text": "Tomer Bassis k\u00e4mpfte von da an sieben Stunden um sein Leben."
+                },
+                {
+                    "text": "Er erz\u00e4hlt, wie er aus dem Auto sprang und zwischen Kugeln zur\u00fcck zur Festivalb\u00fchne rannte."
+                },
+                {
+                    "text": "Dieses Drei-Sekunden-Video, sagt Bassis, laufe seitdem in Dauerschleife in seinem Kopf."
+                },
+                {
+                    "text": "Bassis schickte Abschiedsnachrichten an seine Familie und bat sie, gl\u00fccklich zu bleiben."
+                },
+                {
+                    "text": "Als die Terroristen sich der B\u00fchne n\u00e4herten, unter der er sich verbarrikadiert hatte, sei er in ein vorbeifahrendes Auto gesprungen."
+                },
+                {
+                    "text": "Auf der Stra\u00dfe 232, die von der Party-Location wegf\u00fchrte, sah Bassis brennende Wagen, Leichen."
+                },
+                {
+                    "text": "Noch einmal musste er das Auto verlassen und versteckte sich unter einem Panzer am Stra\u00dfenrand."
+                },
+                {
+                    "text": "Bassis sitzt inzwischen im Hof unter einem Olivenbaum."
+                },
+                {
+                    "text": "Kaum hat er seine Geschichte zu Ende erz\u00e4hlt, kommen Nova-G\u00e4ste mit einem Naturkundef\u00fchrer des Hauses vorbei."
+                },
+                {
+                    "text": "Bassis zieht mit der Gruppe durch die Berge."
+                },
+                {
+                    "text": "Tomer Bassis erf\u00e4hrt, dass eine verletzte Frau, die sich w\u00e4hrend des Massakers in einem Versteck kurz auf seinen Bauch gelegt hatte, \u00fcberlebt hat."
+                },
+                {
+                    "text": "Er bekommt ihre Nummer."
+                },
+                {
+                    "text": "Tomer Bassis, der Student aus dem S\u00fcden Israels, vor dessen Augen ein M\u00e4dchen erschossen wurde, sagt, dass der 7. Oktober zum ersten Mal ein St\u00fcck weiter weg r\u00fccke."
+                },
+                {
+                    "text": "Er hat sich vorgenommen, weniger Nachrichten zu gucken, er will sich nach Arbeit umschauen."
+                },
+                {
+                    "text": "\u00bbUnd ich will wieder schlafen lernen.\u00ab"
+                },
+                {
+                    "text": "Tomer Bassis, der bei der letzten Tanz\u00fcbung einen Flashback erlebte, hat seine Kappe tief \u00fcber die Augen gezogen."
+                },
+                {
+                    "text": "Mit vorn\u00fcbergebeugtem Oberk\u00f6rper sitzt er im Kreis, bewegt seine Handgelenke in Zeitlupe."
+                },
+                {
+                    "text": "Tomer Bassis steht auf."
+                },
+                {
+                    "text": "Die Beats gleichen nun jenen, die er h\u00f6rte, als am 7. Oktober 2023 um 6.30 Uhr die Musik abbrach."
+                },
+                {
+                    "text": "Und Tomer Bassis tanzt."
+                }
+            ],
+            "occupations": [],
+            "directQuotes": [
+                {
+                    "text": "Ich dachte nicht, dass Menschen einander so etwas antun k\u00f6nnen."
+                },
+                {
+                    "text": "Vor dem 7. Oktober war ich ein ganz normaler Mathestudent"
+                },
+                {
+                    "text": "Alles war gut"
+                },
+                {
+                    "text": "Doch pl\u00f6tzlich dachte ich: Wann stoppt die Musik und die Terroristen kommen rein, um uns zu erschie\u00dfen?"
+                },
+                {
+                    "text": "Ich hatte jede Menge LSD und Ecstasy eingeworfen."
+                },
+                {
+                    "text": "Die Kombination aus dem Sound des Iron Dome und den Drogen war nicht gut"
+                },
+                {
+                    "text": "Wie ein Baum."
+                },
+                {
+                    "text": "Und ich will wieder schlafen lernen."
+                }
+            ],
+            "quotedInTitle": false,
+            "quotedInIntro": false
+        },
+        {
+            "name": "Esti Avnon",
+            "alternativeNames": [],
+            "age": 69,
+            "sex": "female",
+            "occurences": {
+                "total": 8,
+                "firstNameOnly": 0,
+                "lastNameOnly": 5,
+                "fullName": 3,
+                "nickname": 0
+            },
+            "inTitle": false,
+            "inIntro": false,
+            "_name": {
+                "firstname": "Esti",
+                "lastname": "Avnon",
+                "nickname": null,
+                "alternative_names": [],
+                "academic_title": null,
+                "nobility_title_or_rank": null
+            },
+            "descriptiveTexts": [
+                {
+                    "text": "Bei der Vorstellungsrunde ist auch Esti Avnon dabei, die leitende Therapeutin, eine zierliche Frau, die ihrem Gegen\u00fcber stets aufmerksam zuh\u00f6rt."
+                },
+                {
+                    "text": "\u00bbDas Trauma, das diese jungen Menschen erlebt haben, ist sehr, sehr, sehr, sehr, sehr extrem\u00ab, sagt sie, als sie im Kaminzimmer einen Moment Zeit findet."
+                },
+                {
+                    "text": "Avnon ist 69, sie hat an der Universit\u00e4t Haifa gelehrt und arbeitet nun in ihrer Praxis bei Tel Aviv."
+                },
+                {
+                    "text": "Avnon kennt sich aus mit der Traumatisierung von Gesellschaften."
+                },
+                {
+                    "text": "Wenn es irgendwo auf der Welt eine Katastrophe gibt, f\u00e4hrt sie als Notfallpsychologin los."
+                },
+                {
+                    "text": "Nach dem Ungl\u00fcck von Fukushima 2011 war sie in Japan, 2015 nach dem Erdbeben in Nepal."
+                },
+                {
+                    "text": "Sie reiste 2017 nach dem Taifun auf die Philippinen, und sie war dreimal in der Ukraine."
+                },
+                {
+                    "text": "\u00bbNat\u00fcrlich helfe ich jetzt unseren \u00dcberlebenden.\u00ab"
+                },
+                {
+                    "text": "Die meisten Israelis, die das Festival \u00fcberlebt haben, litten unter den akuten Folgen eines Traumas, sagt Avnon."
+                },
+                {
+                    "text": "Im Secret Forest, sagt Avnon, sollen sich die Nova-G\u00e4ste mit dem Erlebten auseinandersetzen."
+                },
+                {
+                    "text": "Im Unterschied zu anderen Traumatisierungen nach Naturkatastrophen, die Avnon begleitet hat, sei diese \u00bbmenschengemacht\u00ab."
+                },
+                {
+                    "text": "Esti Avnon, die Traumaspezialistin, m\u00f6chte in den intimen Gruppentherapiestunden keine Reporter dabeihaben."
+                },
+                {
+                    "text": "Aber sie erz\u00e4hlt von den Treffen."
+                },
+                {
+                    "text": "Am dritten Tag des Retreats will die Psychologin Esti Avnon ihre Gruppe auf die Zukunft einstimmen."
+                },
+                {
+                    "text": "\u00bbEs ist sch\u00f6n hier\u00ab, sagt sie, \u00bbaber heilen bedeutet auch, zur\u00fcck in einen Alltag zu gehen.\u00ab"
+                }
+            ],
+            "occupations": [
+                {
+                    "text": "Notfallpsychologin"
+                }
+            ],
+            "directQuotes": [
+                {
+                    "text": "Das Trauma, das diese jungen Menschen erlebt haben, ist sehr, sehr, sehr, sehr, sehr extrem"
+                },
+                {
+                    "text": "Nat\u00fcrlich helfe ich jetzt unseren \u00dcberlebenden."
+                },
+                {
+                    "text": "Nicht in der Tiefe, daf\u00fcr ist das Ereignis zu frisch."
+                },
+                {
+                    "text": "Oft fehlen Worte f\u00fcr das Erlebte"
+                },
+                {
+                    "text": "Die Angst, die ein Mensch gef\u00fchlt hat, bleibt im K\u00f6rper stecken."
+                },
+                {
+                    "text": "Es ist sch\u00f6n hier"
+                },
+                {
+                    "text": "aber heilen bedeutet auch, zur\u00fcck in einen Alltag zu gehen."
+                }
+            ],
+            "quotedInTitle": false,
+            "quotedInIntro": false
+        },
+        {
+            "name": "Eyal Sirota",
+            "alternativeNames": [],
+            "age": -1,
+            "sex": "male",
+            "occurences": {
+                "total": 2,
+                "firstNameOnly": 0,
+                "lastNameOnly": 0,
+                "fullName": 2,
+                "nickname": 0
+            },
+            "inTitle": false,
+            "inIntro": false,
+            "_name": {
+                "firstname": "Eyal",
+                "lastname": "Sirota",
+                "nickname": null,
+                "alternative_names": [],
+                "academic_title": null,
+                "nobility_title_or_rank": null
+            },
+            "descriptiveTexts": [
+                {
+                    "text": "Ein rothaariger Mann, Eyal Sirota, erz\u00e4hlt, dass er sich schuldig f\u00fchle, weil er rechtzeitig mit dem Auto vom Festivalgel\u00e4nde entkommen konnte."
+                },
+                {
+                    "text": "Eyal Sirota, der Mann am Lagerfeuer, der mit dem Auto entkommen konnte, hat k\u00fcrzlich hei\u00df geduscht und dabei die Lieblingsmusik seines verstorbenen Freundes aufgelegt."
+                },
+                {
+                    "text": "Danach, sagt er, habe er sich besser gef\u00fchlt."
+                }
+            ],
+            "occupations": [],
+            "directQuotes": [],
+            "quotedInTitle": false,
+            "quotedInIntro": false
+        },
+        {
+            "name": "Yoni Kahana",
+            "alternativeNames": [],
+            "age": -1,
+            "sex": "male",
+            "occurences": {
+                "total": 2,
+                "firstNameOnly": 0,
+                "lastNameOnly": 1,
+                "fullName": 1,
+                "nickname": 0
+            },
+            "inTitle": false,
+            "inIntro": false,
+            "_name": {
+                "firstname": "Yoni",
+                "lastname": "Kahana",
+                "nickname": null,
+                "alternative_names": [],
+                "academic_title": null,
+                "nobility_title_or_rank": null
+            },
+            "descriptiveTexts": [
+                {
+                    "text": "Yoni Kahana, der Inhaber des Secret Forest, ist gl\u00e4ubiger Jude."
+                },
+                {
+                    "text": "Nach dem Angriff lud er via Facebook die ersten \u00dcberlebenden ein."
+                },
+                {
+                    "text": "F\u00fcr Flug und Transfer zum Hotel fallen etwa 350 Euro an; die Hilfsorganisation IsraAid, erz\u00e4hlt Kahana, helfe bei der Finanzierung."
+                }
+            ],
+            "occupations": [
+                {
+                    "text": "Inhaber des Secret Forest"
+                }
+            ],
+            "directQuotes": [],
+            "quotedInTitle": false,
+            "quotedInIntro": false
+        },
+        {
+            "name": "Dor Rahamim",
+            "alternativeNames": [],
+            "age": 28,
+            "sex": "male",
+            "occurences": {
+                "total": 7,
+                "firstNameOnly": 0,
+                "lastNameOnly": 3,
+                "fullName": 4,
+                "nickname": 0
+            },
+            "inTitle": false,
+            "inIntro": false,
+            "_name": {
+                "firstname": "Dor",
+                "lastname": "Rahamim",
+                "nickname": null,
+                "alternative_names": [],
+                "academic_title": null,
+                "nobility_title_or_rank": null
+            },
+            "descriptiveTexts": [
+                {
+                    "text": "Auf einer Lichtung im Wald sitzt Dor Rahamim auf einem Handtuch und singt, um den Horror des 7. Oktober zu vergessen."
+                },
+                {
+                    "text": "Rahamim ist 28 Jahre alt, er hat das Nova-Festival in Israel mitorganisiert."
+                },
+                {
+                    "text": "Rahamim folgt den Anleitungen, doch sein Blick schweift ins Leere."
+                },
+                {
+                    "text": "\u00bbIch war in den vergangenen Wochen auf 20 bis 30 Beerdigungen\u00ab, sagt Dor Rahamim, als er nach dem Singkreis im Kaminzimmer sitzt."
+                },
+                {
+                    "text": "\u00bbViele meiner Freunde sind gestorben. Meine Ex-Freundin. Menschen, mit denen ich gearbeitet habe.\u00ab"
+                },
+                {
+                    "text": "Er habe sich um ihre Angeh\u00f6rigen gek\u00fcmmert."
+                },
+                {
+                    "text": "\u00bbJetzt brauche ich Zeit f\u00fcr mich.\u00ab"
+                },
+                {
+                    "text": "Den \u00bbTribe of Nova\u00ab, eine Plattform f\u00fcr Trance-Fans, haben er und seine Partner vor mehr als zwei Jahren gegr\u00fcndet."
+                },
+                {
+                    "text": "Rahamim spricht von einer tiefen Verbindung zwischen den Feiernden."
+                },
+                {
+                    "text": "Dann geht er raus zu den anderen an den Pool, es ist Fr\u00fchst\u00fcckszeit."
+                },
+                {
+                    "text": "Dor Rahamim, der Partyorganisator, und die anderen lernen auf Zypern \u00dcbungen, die ihren K\u00f6rpern vermitteln sollen, dass die Gefahr vor\u00fcber ist."
+                },
+                {
+                    "text": "Dor Rahamim, von den Festivalorganisatoren, arbeitet an einem Memorial, das auf dem ehemaligen Nova-Gel\u00e4nde entstehen soll."
+                },
+                {
+                    "text": "Er tr\u00e4gt ein pinkfarbenes Armband, auf dem steht: \u00bbWe will dance again\u00ab \u2013 das neue Motto des Teams."
+                }
+            ],
+            "occupations": [],
+            "directQuotes": [
+                {
+                    "text": "Ich war in den vergangenen Wochen auf 20 bis 30 Beerdigungen"
+                },
+                {
+                    "text": "Viele meiner Freunde sind gestorben. Meine Ex-Freundin. Menschen, mit denen ich gearbeitet habe."
+                },
+                {
+                    "text": "Jetzt brauche ich Zeit f\u00fcr mich."
+                },
+                {
+                    "text": "Shit, Raketen aus Gaza. Wir haben ein halbes Jahr f\u00fcr diese Party gearbeitet. Und jetzt ist alles ruiniert."
+                }
+            ],
+            "quotedInTitle": false,
+            "quotedInIntro": false
+        },
+        {
+            "name": "Yoav Gallant",
+            "alternativeNames": [],
+            "age": -1,
+            "sex": "male",
+            "occurences": {
+                "total": 1,
+                "firstNameOnly": 0,
+                "lastNameOnly": 0,
+                "fullName": 1,
+                "nickname": 0
+            },
+            "inTitle": false,
+            "inIntro": false,
+            "_name": {
+                "firstname": "Yoav",
+                "lastname": "Gallant",
+                "nickname": null,
+                "alternative_names": [],
+                "academic_title": null,
+                "nobility_title_or_rank": null
+            },
+            "descriptiveTexts": [
+                {
+                    "text": "Es ist der Ausdruck, den Israels Verteidigungsminister Yoav Gallant f\u00fcr die Hamas-Terroristen gebrauchte, bevor die Operation in Gaza begann."
+                }
+            ],
+            "occupations": [],
+            "directQuotes": [],
+            "quotedInTitle": false,
+            "quotedInIntro": false
+        },
+        {
+            "name": "Noa Jan",
+            "alternativeNames": [],
+            "age": -1,
+            "sex": "female",
+            "occurences": {
+                "total": 2,
+                "firstNameOnly": 0,
+                "lastNameOnly": 0,
+                "fullName": 2,
+                "nickname": 0
+            },
+            "inTitle": false,
+            "inIntro": false,
+            "_name": {
+                "firstname": "Noa",
+                "lastname": "Jan",
+                "nickname": null,
+                "alternative_names": [],
+                "academic_title": null,
+                "nobility_title_or_rank": null
+            },
+            "descriptiveTexts": [
+                {
+                    "text": "Die K\u00f6rpertherapeutin Noa Jan \u00f6ffnet die T\u00fcr zu ihrem Behandlungsraum, wo unter einer Decke ihre Klientin liegt."
+                },
+                {
+                    "text": "Der Zustand zwischen Schlaf und Wachheit sei ideal, um Energie loszulassen, sagt Noa Jan."
+                },
+                {
+                    "text": "Nach der Massage rege sie die Menschen zu einem Dank an sich selbst an."
+                }
+            ],
+            "occupations": [
+                {
+                    "text": "K\u00f6rpertherapeutin"
+                }
+            ],
+            "directQuotes": [
+                {
+                    "text": "Einige bedanken sich daf\u00fcr, dass sie Beine haben und noch am Leben sind."
+                }
+            ],
+            "quotedInTitle": false,
+            "quotedInIntro": false
+        },
+        {
+            "name": "Anders Behring Breivik",
+            "alternativeNames": [],
+            "age": -1,
+            "sex": "male",
+            "occurences": {
+                "total": 3,
+                "firstNameOnly": 2,
+                "lastNameOnly": 1,
+                "fullName": 0,
+                "nickname": 0
+            },
+            "inTitle": false,
+            "inIntro": false,
+            "_name": {
+                "firstname": "Anders",
+                "lastname": "Breivik",
+                "nickname": null,
+                "alternative_names": [],
+                "academic_title": null,
+                "nobility_title_or_rank": null
+            },
+            "descriptiveTexts": [
+                {
+                    "text": "Der Rechtsextreme Anders Behring Breivik ermordete auf Ut\u00f8ya in Norwegen 69 Menschen, vorwiegend Jugendliche."
+                }
+            ],
+            "occupations": [
+                {
+                    "text": "Rechtsextreme"
+                }
+            ],
+            "directQuotes": [],
+            "quotedInTitle": false,
+            "quotedInIntro": false
+        }
+    ]
+}

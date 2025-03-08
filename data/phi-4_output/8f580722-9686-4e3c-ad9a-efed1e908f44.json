@@ -1,0 +1,106 @@
+{
+    "persons": [
+        {
+            "name": "Thomas Sieling",
+            "alternativeNames": [],
+            "age": 58,
+            "sex": "male",
+            "occurences": {
+                "total": 12,
+                "firstNameOnly": 0,
+                "lastNameOnly": 8,
+                "fullName": 4,
+                "nickname": 0
+            },
+            "inTitle": false,
+            "inIntro": true,
+            "_name": {
+                "firstname": "Thomas",
+                "lastname": "Sieling",
+                "nickname": null,
+                "alternative_names": [],
+                "academic_title": null,
+                "nobility_title_or_rank": null
+            },
+            "descriptiveTexts": [
+                {
+                    "text": "H\u00e4ndler wie Thomas Sieling reisen extra nach Japan, um vielversprechende Exemplare nach Deutschland zu holen \u2013 und sie teuer zu verkaufen."
+                },
+                {
+                    "text": "Und die ruhige Stimme von Thomas Sieling, der durch das Treibhaus f\u00fchrt \u2013 seine 40 mal 15 Meter gro\u00dfe Verkaufshalle."
+                },
+                {
+                    "text": "Er geht \u00fcber einen Betonweg und wirft eine Handvoll K\u00f6rner in ein Wasserbecken."
+                },
+                {
+                    "text": "Sieling handelt etwa 20 Kilometer s\u00fcdlich von Hamburg mit Koi-Karpfen; der Koi ist ein weltweit bewunderter Fisch."
+                },
+                {
+                    "text": "Thomas Sieling ist Zwischenh\u00e4ndler."
+                },
+                {
+                    "text": "Er reist mehrmals im Jahr nach Japan, um die Tiere direkt in Zuchtbetrieben einzukaufen."
+                },
+                {
+                    "text": "Woanders einzukaufen ist f\u00fcr Sieling keine Option."
+                },
+                {
+                    "text": "Gerade erst war er wieder in Japan."
+                },
+                {
+                    "text": "Er war dabei, als die Naturteiche abgefischt wurden."
+                },
+                {
+                    "text": "Die letzten rund 500 Kilometer ihrer Reise nach Nord-Niedersachsen f\u00e4hrt Sieling sie mit einem kleinen Lkw."
+                },
+                {
+                    "text": "Er verkauft sie sp\u00e4ter an Gartencenter, Zoohandlungen oder reine Koi-L\u00e4den."
+                },
+                {
+                    "text": "\u00bbEin Fisch braucht mindestens 1000 Liter Wasser, um sich ideal zu entwickeln\u00ab, sagt Sieling."
+                },
+                {
+                    "text": "Auf die Frage, warum die Tiere in Deutschland beliebt sind, nennt Sieling zwei Gr\u00fcnde."
+                },
+                {
+                    "text": "\u00bbSie k\u00f6nnen zahm werden wie ein Hund oder eine Katze und einem aus der Hand fressen\u00ab, erz\u00e4hlt er."
+                },
+                {
+                    "text": "Preise von etwa 1000 Euro sind bei Sieling nicht ungew\u00f6hnlich."
+                },
+                {
+                    "text": "Er hat sogar einmal einen Fisch f\u00fcr 30.000 Euro verkauft \u2013 sein Rekord bislang."
+                },
+                {
+                    "text": "\u00bbSie haben eine gr\u00f6\u00dfere Leinwand\u00ab, sagt Sieling."
+                },
+                {
+                    "text": "Bei dem schwarz-rot-wei\u00df gefleckten Koi in Sielings Verkaufshalle kann man das schon einsch\u00e4tzen."
+                },
+                {
+                    "text": "F\u00fcr sie bekommt Thomas Sieling rund 30 Euro pro Tier."
+                },
+                {
+                    "text": "Neun von zehn Tieren s\u00e4hen schon in einem Jahr nicht so sch\u00f6n aus, wie man es sich ertr\u00e4umt habe, sch\u00e4tzt er."
+                }
+            ],
+            "occupations": [],
+            "directQuotes": [
+                {
+                    "text": "Es gibt nirgendwo auf der Welt so viele verschiedene und hochwertige Kois wie dort"
+                },
+                {
+                    "text": "Ein Fisch braucht mindestens 1000 Liter Wasser, um sich ideal zu entwickeln"
+                },
+                {
+                    "text": "Sie k\u00f6nnen zahm werden wie ein Hund oder eine Katze und einem aus der Hand fressen"
+                },
+                {
+                    "text": "Sie haben eine gr\u00f6\u00dfere Leinwand"
+                }
+            ],
+            "quotedInTitle": false,
+            "quotedInIntro": true
+        }
+    ]
+}

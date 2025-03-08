@@ -1,0 +1,906 @@
+{
+    "persons": [
+        {
+            "name": "Auguste Renoir",
+            "alternativeNames": [],
+            "age": -1,
+            "sex": "unknown",
+            "occurences": {
+                "total": 1,
+                "firstNameOnly": 0,
+                "lastNameOnly": 0,
+                "fullName": 1,
+                "nickname": 0
+            },
+            "inTitle": false,
+            "inIntro": false,
+            "_name": {
+                "firstname": "Auguste",
+                "lastname": "Renoir",
+                "nickname": null,
+                "alternative_names": [],
+                "academic_title": null,
+                "nobility_title_or_rank": null
+            },
+            "descriptiveTexts": [
+                {
+                    "text": "Sie holte sich Rat beim erfolgreichen Maler Max Liebermann in Berlin, wandte sich schriftlich an Auguste Renoir, und traute sich 1912 f\u00fcr einige Wochen, wom\u00f6glich auch Monate, nach Paris, bildete sich dort vielleicht weiter, vielleicht beim Kubisten Fernand L\u00e9ger."
+                }
+            ],
+            "occupations": [],
+            "directQuotes": [],
+            "quotedInTitle": false,
+            "quotedInIntro": false
+        },
+        {
+            "name": "Max Liebermann",
+            "alternativeNames": [],
+            "age": -1,
+            "sex": "male",
+            "occurences": {
+                "total": 1,
+                "firstNameOnly": 0,
+                "lastNameOnly": 0,
+                "fullName": 1,
+                "nickname": 0
+            },
+            "inTitle": false,
+            "inIntro": false,
+            "_name": {
+                "firstname": "Max",
+                "lastname": "Liebermann",
+                "nickname": null,
+                "alternative_names": [],
+                "academic_title": null,
+                "nobility_title_or_rank": null
+            },
+            "descriptiveTexts": [
+                {
+                    "text": "Sie holte sich Rat beim erfolgreichen Maler Max Liebermann in Berlin, wandte sich schriftlich an Auguste Renoir, und traute sich 1912 f\u00fcr einige Wochen, wom\u00f6glich auch Monate, nach Paris, bildete sich dort vielleicht weiter, vielleicht beim Kubisten Fernand L\u00e9ger."
+                }
+            ],
+            "occupations": [],
+            "directQuotes": [],
+            "quotedInTitle": false,
+            "quotedInIntro": false
+        },
+        {
+            "name": "Emilie",
+            "alternativeNames": [],
+            "age": -1,
+            "sex": "female",
+            "occurences": {
+                "total": 1,
+                "firstNameOnly": 0,
+                "lastNameOnly": 0,
+                "fullName": 1,
+                "nickname": 0
+            },
+            "inTitle": false,
+            "inIntro": false,
+            "_name": {
+                "firstname": "Emilie",
+                "lastname": null,
+                "nickname": null,
+                "alternative_names": [],
+                "academic_title": null,
+                "nobility_title_or_rank": null
+            },
+            "descriptiveTexts": [
+                {
+                    "text": "Wie ihre \u00e4ltere Schwester Emilie wurde Anita protestantisch getauft."
+                }
+            ],
+            "occupations": [],
+            "directQuotes": [],
+            "quotedInTitle": false,
+            "quotedInIntro": false
+        },
+        {
+            "name": "Lotte Burk",
+            "alternativeNames": [],
+            "age": -1,
+            "sex": "female",
+            "occurences": {
+                "total": 2,
+                "firstNameOnly": 0,
+                "lastNameOnly": 1,
+                "fullName": 1,
+                "nickname": 0
+            },
+            "inTitle": false,
+            "inIntro": false,
+            "_name": {
+                "firstname": "Lotte",
+                "lastname": "Burk",
+                "nickname": null,
+                "alternative_names": [],
+                "academic_title": null,
+                "nobility_title_or_rank": null
+            },
+            "descriptiveTexts": [
+                {
+                    "text": "Einen geradezu irritierenden Kontrast dazu bilden die skizzenhaften kleinen Portr\u00e4ts, die sie von einer Freundin schuf, von der S\u00e4ngerin und T\u00e4nzerin Lotte Burk."
+                },
+                {
+                    "text": "F\u00fcr Burk brachte die neue Zeit offenbar keine Einschr\u00e4nkungen, sie kam auch w\u00e4hrend der Nazijahre an, tourte sp\u00e4ter auch im Auftrag der Wehrmacht durchs besetzte Norwegen."
+                }
+            ],
+            "occupations": [],
+            "directQuotes": [],
+            "quotedInTitle": false,
+            "quotedInIntro": false
+        },
+        {
+            "name": "Franz N\u00f6lten",
+            "alternativeNames": [],
+            "age": -1,
+            "sex": "male",
+            "occurences": {
+                "total": 1,
+                "firstNameOnly": 0,
+                "lastNameOnly": 0,
+                "fullName": 1,
+                "nickname": 0
+            },
+            "inTitle": false,
+            "inIntro": false,
+            "_name": {
+                "firstname": "Franz",
+                "lastname": "N\u00f6lten",
+                "nickname": null,
+                "alternative_names": [],
+                "academic_title": null,
+                "nobility_title_or_rank": null
+            },
+            "descriptiveTexts": [
+                {
+                    "text": "In einem zu ihren Lebzeiten erschienenen Artikel im Magazin \u00bbDer Kreis\u00ab hie\u00df es, der 1918 gefallene Maler Franz N\u00f6lten habe sie einst \u00bbwesentlich gef\u00f6rdert\u00ab."
+                }
+            ],
+            "occupations": [],
+            "directQuotes": [],
+            "quotedInTitle": false,
+            "quotedInIntro": false
+        },
+        {
+            "name": "Arthur Siebelist",
+            "alternativeNames": [],
+            "age": -1,
+            "sex": "male",
+            "occurences": {
+                "total": 1,
+                "firstNameOnly": 0,
+                "lastNameOnly": 0,
+                "fullName": 1,
+                "nickname": 0
+            },
+            "inTitle": false,
+            "inIntro": false,
+            "_name": {
+                "firstname": "Arthur",
+                "lastname": "Siebelist",
+                "nickname": null,
+                "alternative_names": [],
+                "academic_title": null,
+                "nobility_title_or_rank": null
+            },
+            "descriptiveTexts": [
+                {
+                    "text": "Von 1904 bis 1910 lie\u00df sich das junge \u00bbFr\u00e4ulein R\u00e9e\u00ab in der Malschule des Freiluftmalers Arthur Siebelist unterrichten."
+                }
+            ],
+            "occupations": [
+                {
+                    "text": "Freiluftmalers"
+                }
+            ],
+            "directQuotes": [],
+            "quotedInTitle": false,
+            "quotedInIntro": false
+        },
+        {
+            "name": "Picasso",
+            "alternativeNames": [],
+            "age": -1,
+            "sex": "male",
+            "occurences": {
+                "total": 1,
+                "firstNameOnly": 0,
+                "lastNameOnly": 0,
+                "fullName": 1,
+                "nickname": 0
+            },
+            "inTitle": false,
+            "inIntro": false,
+            "_name": {
+                "firstname": null,
+                "lastname": "Picasso",
+                "nickname": null,
+                "alternative_names": [],
+                "academic_title": null,
+                "nobility_title_or_rank": null
+            },
+            "descriptiveTexts": [
+                {
+                    "text": "In der pomp\u00f6sen Kunsthalle nahe der Alster war Malerei aus Privatbesitz zu sehen, darunter Gem\u00e4lde von van Gogh und Picasso."
+                }
+            ],
+            "occupations": [
+                {
+                    "text": "Maler"
+                }
+            ],
+            "directQuotes": [],
+            "quotedInTitle": false,
+            "quotedInIntro": false
+        },
+        {
+            "name": "Eduard Israel R\u00e9e",
+            "alternativeNames": [],
+            "age": -1,
+            "sex": "male",
+            "occurences": {
+                "total": 1,
+                "firstNameOnly": 0,
+                "lastNameOnly": 0,
+                "fullName": 1,
+                "nickname": 0
+            },
+            "inTitle": false,
+            "inIntro": false,
+            "_name": {
+                "firstname": "Eduard Israel",
+                "lastname": "R\u00e9e",
+                "nickname": null,
+                "alternative_names": [],
+                "academic_title": null,
+                "nobility_title_or_rank": null
+            },
+            "descriptiveTexts": [
+                {
+                    "text": "Ihre Mutter Anna Clara Hahn war in Venezuela geboren und gro\u00dfgezogen worden, laut Heiratsurkunde war sie katholisch, der Vater Eduard Israel R\u00e9e j\u00fcdisch."
+                }
+            ],
+            "occupations": [],
+            "directQuotes": [],
+            "quotedInTitle": false,
+            "quotedInIntro": false
+        },
+        {
+            "name": "Werner Haftmann",
+            "alternativeNames": [],
+            "age": -1,
+            "sex": "male",
+            "occurences": {
+                "total": 2,
+                "firstNameOnly": 0,
+                "lastNameOnly": 1,
+                "fullName": 1,
+                "nickname": 0
+            },
+            "inTitle": false,
+            "inIntro": false,
+            "_name": {
+                "firstname": "Werner",
+                "lastname": "Haftmann",
+                "nickname": null,
+                "alternative_names": [],
+                "academic_title": null,
+                "nobility_title_or_rank": null
+            },
+            "descriptiveTexts": [
+                {
+                    "text": "Auch der f\u00fcr die Auswahl der Werke f\u00fcr die Documenta zust\u00e4ndige Kunsthistoriker Werner Haftmann war ein ehemaliger SA-Mann, der in Italien wohl Kriegsverbrechen begangen hatte."
+                },
+                {
+                    "text": "In Deutschland galt er in den F\u00fcnfzigerjahren als der Wiederentdecker und Retter der fr\u00fchen Avantgarde."
+                },
+                {
+                    "text": "Seinen alten Einstellungen blieb er offenbar treu: In einem seiner B\u00fccher zur Malerei sortierte er kurzerhand alle j\u00fcdischen K\u00fcnstler aus der Moderne aus: \u00bbDie moderne Kunst wurde als ju\u0308dische Erfindung zur Zersetzung des \u203anordischen Geistes\u2039 erkl\u00e4rt, obwohl nicht ein einziger der deutschen modernen Maler Jude war.\u00ab"
+                },
+                {
+                    "text": "Er wusste es besser, warum also schrieb er das?"
+                },
+                {
+                    "text": "Warum lie\u00df er selbst die Werke jener beiden verfolgten K\u00fcnstler auf der Documenta von 1955 nicht vorkommen, \u00fcber die anfangs offenbar diskutiert wurde?"
+                },
+                {
+                    "text": "In Florenz, wo er seit 1940 lebte, k\u00f6nnte er sogar Documenta-Macher Haftmann begegnet sein."
+                }
+            ],
+            "occupations": [
+                {
+                    "text": "Kunsthistoriker"
+                },
+                {
+                    "text": "ehemaliger SA-Mann"
+                }
+            ],
+            "directQuotes": [
+                {
+                    "text": "Die moderne Kunst wurde als ju\u0308dische Erfindung zur Zersetzung des \u203anordischen Geistes\u2039 erkl\u00e4rt, obwohl nicht ein einziger der deutschen modernen Maler Jude war."
+                },
+                {
+                    "text": "verschollen"
+                }
+            ],
+            "quotedInTitle": false,
+            "quotedInIntro": false
+        },
+        {
+            "name": "Fernand L\u00e9ger",
+            "alternativeNames": [],
+            "age": -1,
+            "sex": "male",
+            "occurences": {
+                "total": 1,
+                "firstNameOnly": 0,
+                "lastNameOnly": 0,
+                "fullName": 1,
+                "nickname": 0
+            },
+            "inTitle": false,
+            "inIntro": false,
+            "_name": {
+                "firstname": "Fernand",
+                "lastname": "L\u00e9ger",
+                "nickname": null,
+                "alternative_names": [],
+                "academic_title": null,
+                "nobility_title_or_rank": null
+            },
+            "descriptiveTexts": [
+                {
+                    "text": "Sie holte sich Rat beim erfolgreichen Maler Max Liebermann in Berlin, wandte sich schriftlich an Auguste Renoir, und traute sich 1912 f\u00fcr einige Wochen, wom\u00f6glich auch Monate, nach Paris, bildete sich dort vielleicht weiter, vielleicht beim Kubisten Fernand L\u00e9ger."
+                }
+            ],
+            "occupations": [],
+            "directQuotes": [],
+            "quotedInTitle": false,
+            "quotedInIntro": false
+        },
+        {
+            "name": "Anita R\u00e9e",
+            "alternativeNames": [],
+            "age": 48,
+            "sex": "female",
+            "occurences": {
+                "total": 17,
+                "firstNameOnly": 1,
+                "lastNameOnly": 10,
+                "fullName": 6,
+                "nickname": 0
+            },
+            "inTitle": false,
+            "inIntro": true,
+            "_name": {
+                "firstname": "Anita",
+                "lastname": "R\u00e9e",
+                "nickname": null,
+                "alternative_names": [],
+                "academic_title": null,
+                "nobility_title_or_rank": null
+            },
+            "descriptiveTexts": [
+                {
+                    "text": "Anita R\u00e9e war ein Shootingstar der Malerei."
+                },
+                {
+                    "text": "Im Nationalsozialismus wurde ihre Kunst als \u00bbentartet\u00ab gebrandmarkt, sie als J\u00fcdin bis zum Suizid drangsaliert."
+                },
+                {
+                    "text": "In einem der S\u00e4le strahlte ein ortsans\u00e4ssiges Talent besonders hell: die Malerin Anita R\u00e9e."
+                },
+                {
+                    "text": "Damals war sie Anfang drei\u00dfig und f\u00fcr einen Rezensenten eine der \u00bbstarken Hoffnungen der jungen Hamburger Generation\u00ab."
+                },
+                {
+                    "text": "Es blieb nicht bei der Hoffnung: Anita R\u00e9e erf\u00fcllte jahrelang alle Erwartungen."
+                },
+                {
+                    "text": "Sie erfand in ihren Bildern ihre eigene Moderne, noch figurativ und ihrer Zeit doch voraus, oft n\u00fcchtern, manchmal fast surreal und immer ber\u00fchrend."
+                },
+                {
+                    "text": "Dann bekam sie, die Tochter eines j\u00fcdischen Vaters, den wachsenden Antisemitismus zu sp\u00fcren."
+                },
+                {
+                    "text": "In einem Brief Anfang Dezember 1933 beklagte sie ihre \u00bbEinsamkeit in dieser dem Wahnsinn verfallenen Welt\u00ab, fragte, warum man an deren Grausamkeiten zugrunde gehen solle."
+                },
+                {
+                    "text": "Am 12. Dezember 1933 brachte sie sich mit 48 Jahren in Kampen auf Sylt mit einer \u00dcberdosis Schlafmittel um."
+                },
+                {
+                    "text": "Nach ihrem Tod geriet sie weitgehend in Vergessenheit."
+                },
+                {
+                    "text": "Aber bis heute ist ihr Ruhm nicht ann\u00e4hernd so gro\u00df, wie sie es verdient h\u00e4tte."
+                },
+                {
+                    "text": "Wie so viele wurde sie zuerst von den Nazis und in der Folge auch von den Kunstexperten der Nachkriegszeit aus dem kulturellen Ged\u00e4chtnis gestrichen."
+                },
+                {
+                    "text": "Unter ihnen ist auch Anita R\u00e9e."
+                },
+                {
+                    "text": "Innerhalb der Avantgarde ging sie ihren eigenen faszinierenden Weg."
+                },
+                {
+                    "text": "Eines malte sie um 1911, sie war Mitte zwanzig."
+                },
+                {
+                    "text": "Der Bildausschnitt ist eng, sie zeigt dem Betrachter ihr Gesicht aus der N\u00e4he."
+                },
+                {
+                    "text": "Diese Bestandsaufnahme des Menschlichen ist zeitlos, sie k\u00f6nnte in die Antike so gut wie ins 21."
+                },
+                {
+                    "text": "Und wie war sie zu einer solchen Meisterin geworden, obwohl Frauen in Deutschland damals noch nicht einmal Akademien besuchen durften?"
+                },
+                {
+                    "text": "Wer also war Anita R\u00e9e?"
+                },
+                {
+                    "text": "Wer durfte sie dann nicht mehr sein?"
+                },
+                {
+                    "text": "Sie holte sich Rat beim erfolgreichen Maler Max Liebermann in Berlin, wandte sich schriftlich an Auguste Renoir, und traute sich 1912 f\u00fcr einige Wochen, wom\u00f6glich auch Monate, nach Paris, bildete sich dort vielleicht weiter, vielleicht beim Kubisten Fernand L\u00e9ger."
+                },
+                {
+                    "text": "Man wei\u00df wenig \u00fcber diesen Aufenthalt in Frankreich, aber der k\u00fcnstlerische Aufbruchsgeist dort d\u00fcrfte sie beeindruckt haben."
+                },
+                {
+                    "text": "In Hamburg geh\u00f6rte sie zu den ersten Mitgliedern der 1919 gegr\u00fcndeten Sezession, eine Gruppe von K\u00fcnstlerinnen und K\u00fcnstlern, die sich von der traditionellen Linie abspaltete und daf\u00fcr sorgen wollte, dass sich auch in der Kaufmannsmetropole eine fortschrittliche Kulturszene etablierte."
+                },
+                {
+                    "text": "Und nat\u00fcrlich lebte sie mit ihrer Karriere ein Leben, das f\u00fcr Frauen so nicht vorgesehen war, es gab f\u00fcr sie keine Schablone."
+                },
+                {
+                    "text": "Das Gl\u00fcck fand sie in S\u00fcditalien"
+                },
+                {
+                    "text": "In einem zu ihren Lebzeiten erschienenen Artikel im Magazin \u00bbDer Kreis\u00ab hie\u00df es, der 1918 gefallene Maler Franz N\u00f6lten habe sie einst \u00bbwesentlich gef\u00f6rdert\u00ab."
+                },
+                {
+                    "text": "An anderer Stelle ist die Rede davon, dass sie sich ebenfalls zu Frauen hingezogen f\u00fchlte und man das auch in ihren Bildern sehe."
+                },
+                {
+                    "text": "Gl\u00fccklich war sie zumindest eine ganze Zeit lang in S\u00fcditalien, drei Jahre lebte sie im kleinen Ort Positano an der Amalfik\u00fcste, der bei K\u00fcnstlern beliebt war."
+                },
+                {
+                    "text": "Im Sp\u00e4tsommer 1922 kam sie dort an, quartierte sich vergleichsweise bescheiden ein, hatte eine Beziehung mit ihrem Kollegen Christian Selle."
+                },
+                {
+                    "text": "Sie malte w\u00e4hrend dieser Jahre wichtige Bilder, auch eines ihrer Hauptwerke, \u00bbWei\u00dfe Nussb\u00e4ume\u00ab, das fast surreal anmutet."
+                },
+                {
+                    "text": "\u00bbIch m\u00f6chte nie nach Deutschland zur\u00fcck\u00ab, schrieb sie an eine Freundin."
+                },
+                {
+                    "text": "Schlie\u00dflich hielt sie doch nichts mehr in Positano, aber Italien hinterlie\u00df deutliche Spuren in ihrer Bilderwelt."
+                },
+                {
+                    "text": "Und als Malerin wurde sie ja durchaus ernst genommen, von einigen zumindest."
+                },
+                {
+                    "text": "F\u00fcr einen anderen war sie doch nur eine \u00bbechte frauliche Begabung\u00ab."
+                },
+                {
+                    "text": "Aber alles in allem hatte sie sich einen gewissen Platz erobert, was f\u00fcr K\u00fcnstlerinnen damals sehr viel schwerer war als f\u00fcr K\u00fcnstler."
+                },
+                {
+                    "text": "Dass nationalistische und antisemitische Tendenzen in Deutschland st\u00e4rker wurden, war f\u00fcr jeden zu erfassen, und R\u00e9e bekam fr\u00fch zu sp\u00fcren, dass sie auch pers\u00f6nlich gemeint war."
+                },
+                {
+                    "text": "In Briefen beklagte sie \u00bbtiefste verlassene Einsamkeit\u00ab"
+                },
+                {
+                    "text": "Sie reiste nochmals nach Positano, zog Mitte 1932 nach Sylt, wohnte in bescheidenen Unterk\u00fcnften."
+                },
+                {
+                    "text": "In Briefen an Freundinnen und Freunde schilderte sie ihre Verzweiflung und ihre \u00bbtiefste verlassene Einsamkeit\u00ab."
+                },
+                {
+                    "text": "Manchmal muss sie dar\u00fcber nachgedacht haben, aus Deutschland wegzugehen, sie plante, so schrieb sie es auch, die ganze Welt ihre Heimat zu nennen."
+                },
+                {
+                    "text": "Auf einer Reihe von gezeichneten Selbstportr\u00e4ts, die 1932 oder 1933 entstanden sind, wirkt sie ratlos, wie verschattet."
+                },
+                {
+                    "text": "Einen geradezu irritierenden Kontrast dazu bilden die skizzenhaften kleinen Portr\u00e4ts, die sie von einer Freundin schuf, von der S\u00e4ngerin und T\u00e4nzerin Lotte Burk."
+                },
+                {
+                    "text": "Ob er einst, Jahrzehnte fr\u00fcher, in Paris dieselben Museen und Caf\u00e9s besucht hatte wie Anita R\u00e9e?"
+                }
+            ],
+            "occupations": [
+                {
+                    "text": "Tochter eines j\u00fcdischen Vaters"
+                },
+                {
+                    "text": "Malerin"
+                }
+            ],
+            "directQuotes": [
+                {
+                    "text": "Einsamkeit in dieser dem Wahnsinn verfallenen Welt"
+                },
+                {
+                    "text": "Wei\u00dfe Nussb\u00e4ume"
+                },
+                {
+                    "text": "Ich m\u00f6chte nie nach Deutschland zur\u00fcck"
+                },
+                {
+                    "text": "tiefste verlassene Einsamkeit"
+                }
+            ],
+            "quotedInTitle": false,
+            "quotedInIntro": true
+        },
+        {
+            "name": "Henri Matisse",
+            "alternativeNames": [],
+            "age": -1,
+            "sex": "male",
+            "occurences": {
+                "total": 1,
+                "firstNameOnly": 0,
+                "lastNameOnly": 0,
+                "fullName": 1,
+                "nickname": 0
+            },
+            "inTitle": false,
+            "inIntro": false,
+            "_name": {
+                "firstname": "Henri",
+                "lastname": "Matisse",
+                "nickname": null,
+                "alternative_names": [],
+                "academic_title": null,
+                "nobility_title_or_rank": null
+            },
+            "descriptiveTexts": [
+                {
+                    "text": "Er hatte lange in der Stadt gelebt, hatte dort beim Fauvisten Henri Matisse studiert, kurzzeitig dessen private Akademie geleitet."
+                }
+            ],
+            "occupations": [],
+            "directQuotes": [],
+            "quotedInTitle": false,
+            "quotedInIntro": false
+        },
+        {
+            "name": "Christian Selle",
+            "alternativeNames": [],
+            "age": -1,
+            "sex": "male",
+            "occurences": {
+                "total": 1,
+                "firstNameOnly": 0,
+                "lastNameOnly": 0,
+                "fullName": 1,
+                "nickname": 0
+            },
+            "inTitle": false,
+            "inIntro": false,
+            "_name": {
+                "firstname": "Christian",
+                "lastname": "Selle",
+                "nickname": null,
+                "alternative_names": [],
+                "academic_title": null,
+                "nobility_title_or_rank": null
+            },
+            "descriptiveTexts": [
+                {
+                    "text": "Im Sp\u00e4tsommer 1922 kam sie dort an, quartierte sich vergleichsweise bescheiden ein, hatte eine Beziehung mit ihrem Kollegen Christian Selle."
+                }
+            ],
+            "occupations": [],
+            "directQuotes": [],
+            "quotedInTitle": false,
+            "quotedInIntro": false
+        },
+        {
+            "name": "Markus L\u00fcpertz",
+            "alternativeNames": [],
+            "age": -1,
+            "sex": "male",
+            "occurences": {
+                "total": 1,
+                "firstNameOnly": 0,
+                "lastNameOnly": 0,
+                "fullName": 1,
+                "nickname": 0
+            },
+            "inTitle": false,
+            "inIntro": false,
+            "_name": {
+                "firstname": "Markus",
+                "lastname": "L\u00fcpertz",
+                "nickname": null,
+                "alternative_names": [],
+                "academic_title": null,
+                "nobility_title_or_rank": null
+            },
+            "descriptiveTexts": [
+                {
+                    "text": "Viele j\u00fcngere Maler entdeckten die Abstraktion wieder, der Neoexpressionismus eines Georg Baselitz oder Markus L\u00fcpertz wurde zur wichtigen Str\u00f6mung in Deutschland."
+                }
+            ],
+            "occupations": [],
+            "directQuotes": [],
+            "quotedInTitle": false,
+            "quotedInIntro": false
+        },
+        {
+            "name": "Anna Clara Hahn",
+            "alternativeNames": [],
+            "age": -1,
+            "sex": "female",
+            "occurences": {
+                "total": 1,
+                "firstNameOnly": 0,
+                "lastNameOnly": 0,
+                "fullName": 1,
+                "nickname": 0
+            },
+            "inTitle": false,
+            "inIntro": false,
+            "_name": {
+                "firstname": "Anna Clara",
+                "lastname": "Hahn",
+                "nickname": null,
+                "alternative_names": [],
+                "academic_title": null,
+                "nobility_title_or_rank": null
+            },
+            "descriptiveTexts": [
+                {
+                    "text": "Ihre Mutter Anna Clara Hahn war in Venezuela geboren und gro\u00dfgezogen worden, laut Heiratsurkunde war sie katholisch, der Vater Eduard Israel R\u00e9e j\u00fcdisch."
+                }
+            ],
+            "occupations": [],
+            "directQuotes": [],
+            "quotedInTitle": false,
+            "quotedInIntro": false
+        },
+        {
+            "name": "Georg Baselitz",
+            "alternativeNames": [],
+            "age": -1,
+            "sex": "male",
+            "occurences": {
+                "total": 1,
+                "firstNameOnly": 0,
+                "lastNameOnly": 0,
+                "fullName": 1,
+                "nickname": 0
+            },
+            "inTitle": false,
+            "inIntro": false,
+            "_name": {
+                "firstname": "Georg",
+                "lastname": "Baselitz",
+                "nickname": null,
+                "alternative_names": [],
+                "academic_title": null,
+                "nobility_title_or_rank": null
+            },
+            "descriptiveTexts": [
+                {
+                    "text": "Viele j\u00fcngere Maler entdeckten die Abstraktion wieder, der Neoexpressionismus eines Georg Baselitz oder Markus L\u00fcpertz wurde zur wichtigen Str\u00f6mung in Deutschland."
+                }
+            ],
+            "occupations": [],
+            "directQuotes": [],
+            "quotedInTitle": false,
+            "quotedInIntro": false
+        },
+        {
+            "name": "Rudolf Levy",
+            "alternativeNames": [
+                "Levy oder Levys"
+            ],
+            "age": -1,
+            "sex": "male",
+            "occurences": {
+                "total": 9,
+                "firstNameOnly": 0,
+                "lastNameOnly": 6,
+                "fullName": 3,
+                "nickname": 0
+            },
+            "inTitle": false,
+            "inIntro": false,
+            "_name": {
+                "firstname": "Rudolf",
+                "lastname": "Levy",
+                "nickname": null,
+                "alternative_names": [
+                    "Levy oder Levys"
+                ],
+                "academic_title": null,
+                "nobility_title_or_rank": null
+            },
+            "descriptiveTexts": [
+                {
+                    "text": "Rudolf Levy hatte es nur in eine vorl\u00e4ufige Auswahl geschafft."
+                },
+                {
+                    "text": "Levy war schlie\u00dflich sogar Experten f\u00fcr die Kunst des 20."
+                },
+                {
+                    "text": "Ins Bewusstsein kehrte er erst durch die Ausstellung im Deutschen Historischen Museum 2021 zur\u00fcck."
+                },
+                {
+                    "text": "Doch sei er \u00bbim Kanon der Moderne so gut wie nicht mehr pr\u00e4sent\u00ab."
+                },
+                {
+                    "text": "Der Pfalzgalerie geh\u00f6rt jenes eindringliche Selbstportr\u00e4t, das Levy kurz vor seiner Verhaftung durch die Gestapo schuf."
+                },
+                {
+                    "text": "Das war im Dezember 1943 in Florenz, Levy wurde in Mailand interniert, dann deportierte man den 68-J\u00e4hrigen nach Auschwitz."
+                },
+                {
+                    "text": "Ob er einst, Jahrzehnte fr\u00fcher, in Paris dieselben Museen und Caf\u00e9s besucht hatte wie Anita R\u00e9e?"
+                },
+                {
+                    "text": "Er hatte lange in der Stadt gelebt, hatte dort beim Fauvisten Henri Matisse studiert, kurzzeitig dessen private Akademie geleitet."
+                },
+                {
+                    "text": "Sp\u00e4ter zog Levy, in Stettin geboren, nach Berlin."
+                },
+                {
+                    "text": "Deutschland verlie\u00df er wegen der sofort zunehmenden antisemitischen Angriffe und Ausgrenzungen bereits 1933 wieder, doch das Exil brachte keine Rettung."
+                },
+                {
+                    "text": "In Florenz, wo er seit 1940 lebte, k\u00f6nnte er sogar Documenta-Macher Haftmann begegnet sein."
+                },
+                {
+                    "text": "Der wusste von Levys Ermordung, nannte ihn aber sp\u00e4ter \u00bbverschollen\u00ab."
+                },
+                {
+                    "text": "Wer die sp\u00e4ten Portr\u00e4ts von Levy und R\u00e9e betrachtet, sein \u00d6lbild, ihre Zeichnungen, sieht auch Todesangst."
+                },
+                {
+                    "text": "Die hier gezeigten Bilder von Rudolf Levy sind Teil der Retrospektive \u00bbRudolf Levy (1875 \u2013 1944). Magier der Farbe\u00ab, die bis 11. Februar 2024 im Museum Pfalzgalerie Kaiserslautern zu sehen ist."
+                }
+            ],
+            "occupations": [],
+            "directQuotes": [],
+            "quotedInTitle": false,
+            "quotedInIntro": false
+        },
+        {
+            "name": "Marc Chagall",
+            "alternativeNames": [],
+            "age": -1,
+            "sex": "male",
+            "occurences": {
+                "total": 1,
+                "firstNameOnly": 0,
+                "lastNameOnly": 0,
+                "fullName": 1,
+                "nickname": 0
+            },
+            "inTitle": false,
+            "inIntro": false,
+            "_name": {
+                "firstname": "Marc",
+                "lastname": "Chagall",
+                "nickname": null,
+                "alternative_names": [],
+                "academic_title": null,
+                "nobility_title_or_rank": null
+            },
+            "descriptiveTexts": [
+                {
+                    "text": "Doch bis auf Marc Chagall waren keine j\u00fcdischen K\u00fcnstler vertreten."
+                }
+            ],
+            "occupations": [],
+            "directQuotes": [],
+            "quotedInTitle": false,
+            "quotedInIntro": false
+        },
+        {
+            "name": "Emil Nolde",
+            "alternativeNames": [],
+            "age": -1,
+            "sex": "male",
+            "occurences": {
+                "total": 3,
+                "firstNameOnly": 0,
+                "lastNameOnly": 1,
+                "fullName": 2,
+                "nickname": 0
+            },
+            "inTitle": false,
+            "inIntro": false,
+            "_name": {
+                "firstname": "Emil",
+                "lastname": "Nolde",
+                "nickname": null,
+                "alternative_names": [],
+                "academic_title": null,
+                "nobility_title_or_rank": null
+            },
+            "descriptiveTexts": [
+                {
+                    "text": "Maler Emil Nolde diente sich den Nazis an"
+                },
+                {
+                    "text": "Etwa der Maler Emil Nolde, der zwar modern gemalt hatte, aber gl\u00fchender Anh\u00e4nger der Nazis war und extrem antisemitisch, er verfasste 1933 einen \u00bbEntjudungsplan\u00ab, den er an Hitler adressieren wollte."
+                },
+                {
+                    "text": "Allerdings griff man dabei vor allem auf Leute wie Nolde zur\u00fcck und machte zugleich einen weiten Bogen um jene, die ausgesto\u00dfen, verfolgt und ermordet worden waren."
+                }
+            ],
+            "occupations": [
+                {
+                    "text": "Maler"
+                },
+                {
+                    "text": "gl\u00fchender Anh\u00e4nger der Nazis"
+                }
+            ],
+            "directQuotes": [
+                {
+                    "text": "Entjudungsplan"
+                }
+            ],
+            "quotedInTitle": false,
+            "quotedInIntro": false
+        },
+        {
+            "name": "Hitler",
+            "alternativeNames": [],
+            "age": -1,
+            "sex": "male",
+            "occurences": {
+                "total": 3,
+                "firstNameOnly": 0,
+                "lastNameOnly": 0,
+                "fullName": 3,
+                "nickname": 0
+            },
+            "inTitle": false,
+            "inIntro": false,
+            "_name": {
+                "firstname": null,
+                "lastname": "Hitler",
+                "nickname": null,
+                "alternative_names": [],
+                "academic_title": null,
+                "nobility_title_or_rank": null
+            },
+            "descriptiveTexts": [
+                {
+                    "text": "R\u00e9e musste von Sylt aus beobachten, wie sich die Lage nach Hitlers Macht\u00fcbernahme im Januar 1933 sofort zuspitzte, in der Gesellschaft und in der Kunst."
+                },
+                {
+                    "text": "Etwa der Maler Emil Nolde, der zwar modern gemalt hatte, aber gl\u00fchender Anh\u00e4nger der Nazis war und extrem antisemitisch, er verfasste 1933 einen \u00bbEntjudungsplan\u00ab, den er an Hitler adressieren wollte."
+                },
+                {
+                    "text": "Ebenfalls in M\u00fcnchen, in seinem neuen \u00bbHaus der Deutschen Kunst\u00ab, lie\u00df Hitler jedes Jahr solche Werke auffahren, die seinem Geschmack entsprachen."
+                }
+            ],
+            "occupations": [],
+            "directQuotes": [
+                {
+                    "text": "Als Nationalsozialisten k\u00f6nnten wir nicht verstehen, wie die Ausschm\u00fcckung einer evangelischen Kirche an eine J\u00fcdin vergeben werden kann."
+                },
+                {
+                    "text": "Haus der Deutschen Kunst"
+                },
+                {
+                    "text": "Gro\u00dfen Deutschen Kunstausstellungen"
+                }
+            ],
+            "quotedInTitle": false,
+            "quotedInIntro": false
+        }
+    ]
+}

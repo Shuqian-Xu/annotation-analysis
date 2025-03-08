@@ -1,0 +1,613 @@
+{
+    "persons": [
+        {
+            "name": "Putin",
+            "alternativeNames": [],
+            "age": -1,
+            "sex": "male",
+            "occurences": {
+                "total": 5,
+                "firstNameOnly": 0,
+                "lastNameOnly": 5,
+                "fullName": 0,
+                "nickname": 0
+            },
+            "inTitle": true,
+            "inIntro": false,
+            "_name": {
+                "firstname": "Wladimir",
+                "lastname": "Putin",
+                "nickname": null,
+                "alternative_names": [],
+                "academic_title": null,
+                "nobility_title_or_rank": null
+            },
+            "descriptiveTexts": [
+                {
+                    "text": "Eine schwule Liebe \u2013\u00a0vor der Putin erzittert"
+                },
+                {
+                    "text": "Putin unterschreibt ein Buchverbot"
+                },
+                {
+                    "text": "Anfang Dezember 2022 unterzeichnete der russische Machthaber Putin schlie\u00dflich ein Gesetz, das die Verbreitung von sogenannter LGBTQ-Propaganda auch bei Erwachsenen unter hohe Geldstrafen stellt, f\u00fcr Kinder und Jugendliche gab es ein solches Gesetz bereits."
+                },
+                {
+                    "text": "Gleichzeitig habe das Buchverbot all ihre Beziehungen zu Putins Russland endg\u00fcltig gekappt."
+                },
+                {
+                    "text": "Der \u00e4u\u00dfere Feind Putins sei die Ukraine."
+                }
+            ],
+            "occupations": [],
+            "directQuotes": [],
+            "quotedInTitle": true,
+            "quotedInIntro": false
+        },
+        {
+            "name": "Jura",
+            "alternativeNames": [],
+            "age": -1,
+            "sex": "male",
+            "occurences": {
+                "total": 6,
+                "firstNameOnly": 0,
+                "lastNameOnly": 0,
+                "fullName": 6,
+                "nickname": 0
+            },
+            "inTitle": false,
+            "inIntro": false,
+            "_name": {
+                "firstname": "Jura",
+                "lastname": null,
+                "nickname": null,
+                "alternative_names": [],
+                "academic_title": null,
+                "nobility_title_or_rank": null
+            },
+            "descriptiveTexts": [
+                {
+                    "text": "Es ist eine Romanze, aber eine f\u00fcr die russische Literatur ungew\u00f6hnliche: Sie erz\u00e4hlt die Liebe von Jura und Wolodja, zwei jungen M\u00e4nnern, die sich im Sommer 1986 ineinander verlieben."
+                },
+                {
+                    "text": "Hier trifft der junge Pionier Jura auf den Lagerbetreuer Wolodja, die beiden freunden sich an."
+                },
+                {
+                    "text": "Jura bemerkt, dass er immer st\u00e4rkere Gef\u00fchle f\u00fcr Wolodja entwickelt."
+                },
+                {
+                    "text": "Anfangs kann er sie nicht zuordnen."
+                },
+                {
+                    "text": "Mit der Zeit gesteht er sich die Liebe zu Wolodja ein."
+                },
+                {
+                    "text": "Der wiederum versucht, seine Gef\u00fchle zu unterdr\u00fccken und Jura von einer Beziehung abzuhalten."
+                },
+                {
+                    "text": "Besonders eindringlich wird im Roman die Episode geschildert, in der eine junge Pionierin versucht, Jura und Wolodja zu outen."
+                },
+                {
+                    "text": "2016 beginnen sie mit der Arbeit an der Geschichte \u00fcber Jura und Wolodja, die sie zun\u00e4chst online ver\u00f6ffentlichen."
+                }
+            ],
+            "occupations": [
+                {
+                    "text": "Pionier"
+                }
+            ],
+            "directQuotes": [],
+            "quotedInTitle": false,
+            "quotedInIntro": false
+        },
+        {
+            "name": "Elena Malisowa",
+            "alternativeNames": [],
+            "age": 36,
+            "sex": "female",
+            "occurences": {
+                "total": 13,
+                "firstNameOnly": 0,
+                "lastNameOnly": 11,
+                "fullName": 2,
+                "nickname": 0
+            },
+            "inTitle": false,
+            "inIntro": false,
+            "_name": {
+                "firstname": "Elena",
+                "lastname": "Malisowa",
+                "nickname": null,
+                "alternative_names": [],
+                "academic_title": null,
+                "nobility_title_or_rank": null
+            },
+            "descriptiveTexts": [
+                {
+                    "text": "Sie strahlt, man sieht ihr an: Sie fiebert mit."
+                },
+                {
+                    "text": "Als sie es zuschl\u00e4gt, wischt sie sich Tr\u00e4nen aus dem Gesicht."
+                },
+                {
+                    "text": "Es ist Februar 2024, Elena Malisowa und Katerina Silwanowa sitzen vor ihren Computern."
+                },
+                {
+                    "text": "Die rot gef\u00e4rbten Haare hat sich Malisowa zum Pferdeschwanz zusammengebunden, sie antwortet meistens als Erste, spricht sehr konzentriert."
+                },
+                {
+                    "text": "Mit dem Erfolg des Buches haben Malisowa und Silwanowa nicht gerechnet, erz\u00e4hlen sie."
+                },
+                {
+                    "text": "\u00bbAls die Hetze gegen uns losging\u00ab, sagt Malisowa."
+                },
+                {
+                    "text": "\u00bbDas war eine turbulente Zeit\u00ab, sagt Malisowa."
+                },
+                {
+                    "text": "Eigentlich m\u00fcsste sie sagen: Es war beschissen."
+                },
+                {
+                    "text": "Der Duma-Abgeordnete Witalij Milonow forderte in einer Fernsehsendung, man solle Malisowa und Silwanowa einen Stein um den Hals h\u00e4ngen und sie in den Fluss Moskwa werfen."
+                },
+                {
+                    "text": "Der bekannte Filmemacher Nikita Michalkow zeigte auf seinem YouTube-Kanal ein Foto der Autorinnen und nannte sie Verr\u00e4terinnen."
+                },
+                {
+                    "text": "\u00bbDa wurde uns klar, dass es so nicht weitergehen kann, weil man uns auf der Stra\u00dfe erkennen und verfolgen k\u00f6nnte\u00ab, sagt Malisowa."
+                },
+                {
+                    "text": "Dar\u00fcber ist sie als Ukrainerin froh."
+                },
+                {
+                    "text": "\u00bbIch kann nicht gleichg\u00fcltig bleiben\u00ab"
+                },
+                {
+                    "text": "\u00bbIch kann nicht gleichg\u00fcltig bleiben gegen\u00fcber der Situation von homosexuellen Menschen in einem Land, in dem der Hass auf queere Menschen immer st\u00e4rker wird\u00ab, sagt Malisowa."
+                },
+                {
+                    "text": "Deshalb habe sie dar\u00fcber schreiben m\u00fcssen."
+                },
+                {
+                    "text": "Sie sieht in dem repressiven Verhalten des Regimes einen direkten Bezug zum Angriffskrieg in der Ukraine."
+                },
+                {
+                    "text": "Jede Diktatur brauche Feinde, sagt sie."
+                },
+                {
+                    "text": "In einer solchen Community lernt sie Malisowa kennen."
+                },
+                {
+                    "text": "Elena Malisowa wird 1988 in der Stadt Kirow in Russland geboren."
+                },
+                {
+                    "text": "Sie arbeitet im IT-Support, schreibt nebenbei."
+                },
+                {
+                    "text": "Als \u00bbDu und ich und der Sommer\u00ab ver\u00f6ffentlicht wird, lebt sie mit ihrem Mann und ihren beiden Katzen in Moskau."
+                },
+                {
+                    "text": "Dort ist sie auch, als die Hetze gegen sie und ihre Kollegin immer drastischer wird."
+                },
+                {
+                    "text": "Der Gedanke, das Land zu verlassen und die Datscha, die sie mithilfe des Buchhonorars zu einem dauerhaften Domizil ausbauen wollten \u2013 er trifft sie nicht ganz unvermittelt."
+                },
+                {
+                    "text": "Schon seit dem russischen \u00dcberfall auf der Ukraine ahnt sie, dass sie eines Tages ausreisen wird."
+                },
+                {
+                    "text": "Sie kann nur schwer aushalten, in einem Staat zu leben, der einen verbrecherischen Krieg f\u00fchrt."
+                },
+                {
+                    "text": "Trotzdem sagt sie: \u00bbEs ist kaum zu ertragen, wenn du dich umsiehst, und auf einmal wird dir klar, dass du das alles hier vielleicht nie wiedersiehst.\u00ab"
+                },
+                {
+                    "text": "Innerhalb weniger Tage packt sie ihre Sachen und reist mit Silwanowa nach Armenien."
+                },
+                {
+                    "text": "Dann reist er nach."
+                },
+                {
+                    "text": "Dort wollte Malisowa schon immer hin, ihr Vater war gro\u00dfer Fan der deutschen Sprache."
+                },
+                {
+                    "text": "Als Teenager verliebte sie sich in die sozialkritischen Theaterst\u00fccke von Gerhart Hauptmann."
+                },
+                {
+                    "text": "Auch wenn der Start schwierig war, geht es ihr heute gut, sagt Malisowa."
+                },
+                {
+                    "text": "Im Februar 2023, als ihre B\u00fccher schon verboten sind, seien die Autorinnen vom russischen Justizministerium zu \u00bbausl\u00e4ndischen Agentinnen\u00ab, sogenannten Vaterlandsverr\u00e4tern, erkl\u00e4rt worden, sagt Malisowa."
+                },
+                {
+                    "text": "In Russland haben sie fortan nur noch eingeschr\u00e4nkte Rechte: Wann immer sie dort etwas publizieren, m\u00fcssen sie ihren Status als \u00bbausl\u00e4ndischer Agent\u00ab deutlich sichtbar angeben."
+                },
+                {
+                    "text": "Kommen sie diesen Informationspflichten nicht nach, drohen ihnen Geldstrafen."
+                },
+                {
+                    "text": "Wenn sie verabschiedet werden, k\u00f6nne ihr Eigentum beschlagnahmt und die Nutzung sozialer Medien verboten werden, sagt sie."
+                },
+                {
+                    "text": "Ein Leben in Russland, f\u00fcr sie ohnehin gef\u00e4hrlich, w\u00fcrde damit unm\u00f6glich."
+                },
+                {
+                    "text": "Manchmal telefonieren sie den ganzen Tag"
+                },
+                {
+                    "text": "Sie haben einen gemeinsamen Google-Docs-Ordner voller Texte und Notizen."
+                },
+                {
+                    "text": "Manchmal telefonieren sie den ganzen Tag."
+                },
+                {
+                    "text": "H\u00e4tten sie fr\u00fcher geahnt, welche Folgen \u00bbDu und ich und der Sommer\u00ab haben w\u00fcrde, auch f\u00fcr sie, h\u00e4tten sie das Buch trotzdem ver\u00f6ffentlicht?"
+                }
+            ],
+            "occupations": [
+                {
+                    "text": "IT-Support"
+                },
+                {
+                    "text": "Es ist kaum zu ertragen, wenn du dich umsiehst, und auf einmal wird dir klar, dass du das alles hier vielleicht nie wiedersiehst."
+                }
+            ],
+            "directQuotes": [
+                {
+                    "text": "Ich kann nicht gleichg\u00fcltig bleiben gegen\u00fcber der Situation von homosexuellen Menschen in einem Land, in dem der Hass auf queere Menschen immer st\u00e4rker wird"
+                },
+                {
+                    "text": "Es ist kaum zu ertragen, wenn du dich umsiehst, und auf einmal wird dir klar, dass du das alles hier vielleicht nie wiedersiehst."
+                },
+                {
+                    "text": "Mir war klar, dass es f\u00fcr mich als Ukrainerin in Russland fr\u00fcher oder sp\u00e4ter gef\u00e4hrlich wird"
+                }
+            ],
+            "quotedInTitle": false,
+            "quotedInIntro": false
+        },
+        {
+            "name": "Gerhart Hauptmann",
+            "alternativeNames": [],
+            "age": -1,
+            "sex": "male",
+            "occurences": {
+                "total": 1,
+                "firstNameOnly": 0,
+                "lastNameOnly": 0,
+                "fullName": 1,
+                "nickname": 0
+            },
+            "inTitle": false,
+            "inIntro": false,
+            "_name": {
+                "firstname": "Gerhart",
+                "lastname": "Hauptmann",
+                "nickname": null,
+                "alternative_names": [],
+                "academic_title": null,
+                "nobility_title_or_rank": null
+            },
+            "descriptiveTexts": [
+                {
+                    "text": "Als Teenager verliebte sie sich in die sozialkritischen Theaterst\u00fccke von Gerhart Hauptmann."
+                }
+            ],
+            "occupations": [],
+            "directQuotes": [],
+            "quotedInTitle": false,
+            "quotedInIntro": false
+        },
+        {
+            "name": "Katerina Silwanowa",
+            "alternativeNames": [],
+            "age": 19,
+            "sex": "female",
+            "occurences": {
+                "total": 10,
+                "firstNameOnly": 0,
+                "lastNameOnly": 8,
+                "fullName": 2,
+                "nickname": 0
+            },
+            "inTitle": false,
+            "inIntro": false,
+            "_name": {
+                "firstname": "Katerina",
+                "lastname": "Silwanowa",
+                "nickname": null,
+                "alternative_names": [],
+                "academic_title": null,
+                "nobility_title_or_rank": null
+            },
+            "descriptiveTexts": [
+                {
+                    "text": "Es ist Februar 2024, Elena Malisowa und Katerina Silwanowa sitzen vor ihren Computern."
+                },
+                {
+                    "text": "Ihre Co-Autorin Silwanowa tr\u00e4gt einen dunkelroten Rollkragenpullover und schulterlange, braune Haare."
+                },
+                {
+                    "text": "Beim Sprechen dreht sie sich auf ihrem B\u00fcrostuhl hin und her, sie wirkt fr\u00f6hlich und l\u00e4chelt viel."
+                },
+                {
+                    "text": "Mit dem Erfolg des Buches haben Malisowa und Silwanowa nicht gerechnet, erz\u00e4hlen sie."
+                },
+                {
+                    "text": "Eigentlich m\u00fcsste sie sagen: Es war beschissen."
+                },
+                {
+                    "text": "Der Duma-Abgeordnete Witalij Milonow forderte in einer Fernsehsendung, man solle Malisowa und Silwanowa einen Stein um den Hals h\u00e4ngen und sie in den Fluss Moskwa werfen."
+                },
+                {
+                    "text": "Der bekannte Filmemacher Nikita Michalkow zeigte auf seinem YouTube-Kanal ein Foto der Autorinnen und nannte sie Verr\u00e4terinnen."
+                },
+                {
+                    "text": "\u00bbDas war auf der einen Seite traurig f\u00fcr mich, weil wir in Russland viele Leser hatten, die unsere B\u00fccher wirklich liebten\u00ab, sagt Silwanowa."
+                },
+                {
+                    "text": "Dar\u00fcber ist sie als Ukrainerin froh."
+                },
+                {
+                    "text": "\u00bbIch kann nicht gleichg\u00fcltig bleiben\u00ab"
+                },
+                {
+                    "text": "\u00bbIch kann nicht gleichg\u00fcltig bleiben gegen\u00fcber der Situation von homosexuellen Menschen in einem Land, in dem der Hass auf queere Menschen immer st\u00e4rker wird\u00ab, sagt Malisowa."
+                },
+                {
+                    "text": "Deshalb habe sie dar\u00fcber schreiben m\u00fcssen."
+                },
+                {
+                    "text": "Sie sieht in dem repressiven Verhalten des Regimes einen direkten Bezug zum Angriffskrieg in der Ukraine."
+                },
+                {
+                    "text": "Jede Diktatur brauche Feinde, sagt sie."
+                },
+                {
+                    "text": "Katerina Silwanowa, Jahrgang 1992, kommt aus der Ukraine."
+                },
+                {
+                    "text": "Nach ihrem Studium zieht sie mit ihrem damaligen Freund nach Russland."
+                },
+                {
+                    "text": "Sie bemerkt schon fr\u00fch, dass sie sich sowohl f\u00fcr M\u00e4nner als auch f\u00fcr Frauen interessiert, findet in russischen Romanen aber keine queeren Vorbilder."
+                },
+                {
+                    "text": "Also beschlie\u00dft sie, eigene LGBTQ-Geschichten zu schreiben und auf russischsprachigen Self-Publishing-Plattformen zu ver\u00f6ffentlichen."
+                },
+                {
+                    "text": "In einer solchen Community lernt sie Malisowa kennen."
+                },
+                {
+                    "text": "Die beiden werden schnell Freundinnen und merken, dass sie einen verwandten Schreibstil haben."
+                },
+                {
+                    "text": "2016 beginnen sie mit der Arbeit an der Geschichte \u00fcber Jura und Wolodja, die sie zun\u00e4chst online ver\u00f6ffentlichen."
+                },
+                {
+                    "text": "Sp\u00e4ter nimmt ein kleiner alternativer Verlag sie unter Vertrag."
+                },
+                {
+                    "text": "Dort ist sie auch, als die Hetze gegen sie und ihre Kollegin immer drastischer wird."
+                },
+                {
+                    "text": "Innerhalb weniger Tage packt sie ihre Sachen und reist mit Silwanowa nach Armenien."
+                },
+                {
+                    "text": "Silwanowa hat sich f\u00fcr einen anderen Weg entschieden."
+                },
+                {
+                    "text": "Als Russland ihr Heimatland \u00fcberfiel, ist sie gerade erst f\u00fcr ihre Partnerin nach Moskau gezogen."
+                },
+                {
+                    "text": "Aber auch ihr ist klar, dass sie irgendwann das Land verlassen muss."
+                },
+                {
+                    "text": "\u00bbMir war klar, dass es f\u00fcr mich als Ukrainerin in Russland fr\u00fcher oder sp\u00e4ter gef\u00e4hrlich wird\u00ab, sagt sie."
+                },
+                {
+                    "text": "Von Armenien reist sie zur\u00fcck in die Ostukraine."
+                },
+                {
+                    "text": "\u00bbHier habe ich meine Familie und meine Freunde, die mich brauchen\u00ab, sagt sie."
+                },
+                {
+                    "text": "Von ihrer Partnerin hat sie sich inzwischen getrennt, mit Russland verbindet sie nun nichts mehr."
+                },
+                {
+                    "text": "Die Fenster zerbrechen, Silwanowa steht kurz unter Schock."
+                },
+                {
+                    "text": "Und doch bleibt sie."
+                },
+                {
+                    "text": "\u00bbDer Mensch gew\u00f6hnt sich eben an alles\u00ab, sagt sie und klingt fast heiter."
+                },
+                {
+                    "text": "Dann l\u00e4chelt sie."
+                },
+                {
+                    "text": "Dar\u00fcber solle man sich nicht wundern, sagt sie, ihr Lachen sei blo\u00df eine Abwehrreaktion."
+                },
+                {
+                    "text": "In Russland haben sie fortan nur noch eingeschr\u00e4nkte Rechte: Wann immer sie dort etwas publizieren, m\u00fcssen sie ihren Status als \u00bbausl\u00e4ndischer Agent\u00ab deutlich sichtbar angeben."
+                },
+                {
+                    "text": "Kommen sie diesen Informationspflichten nicht nach, drohen ihnen Geldstrafen."
+                },
+                {
+                    "text": "Wenn sie verabschiedet werden, k\u00f6nne ihr Eigentum beschlagnahmt und die Nutzung sozialer Medien verboten werden, sagt sie."
+                },
+                {
+                    "text": "Ein Leben in Russland, f\u00fcr sie ohnehin gef\u00e4hrlich, w\u00fcrde damit unm\u00f6glich."
+                },
+                {
+                    "text": "Manchmal telefonieren sie den ganzen Tag"
+                },
+                {
+                    "text": "Sie haben einen gemeinsamen Google-Docs-Ordner voller Texte und Notizen."
+                },
+                {
+                    "text": "Manchmal telefonieren sie den ganzen Tag."
+                },
+                {
+                    "text": "H\u00e4tten sie fr\u00fcher geahnt, welche Folgen \u00bbDu und ich und der Sommer\u00ab haben w\u00fcrde, auch f\u00fcr sie, h\u00e4tten sie das Buch trotzdem ver\u00f6ffentlicht?"
+                },
+                {
+                    "text": "Es habe viele furchtbare Dinge ans Tageslicht bef\u00f6rdert, sagt Silwanowa."
+                },
+                {
+                    "text": "Es habe ihr auch ein bisschen Spa\u00df gemacht, die russischen Abgeordneten in der Duma zu \u00e4rgern, sagt sie."
+                },
+                {
+                    "text": "Sie bereue nichts."
+                }
+            ],
+            "occupations": [
+                {
+                    "text": "Autorin"
+                }
+            ],
+            "directQuotes": [
+                {
+                    "text": "Hier habe ich meine Familie und meine Freunde, die mich brauchen"
+                }
+            ],
+            "quotedInTitle": false,
+            "quotedInIntro": false
+        },
+        {
+            "name": "Nikita Michalkow",
+            "alternativeNames": [],
+            "age": -1,
+            "sex": "male",
+            "occurences": {
+                "total": 1,
+                "firstNameOnly": 0,
+                "lastNameOnly": 0,
+                "fullName": 1,
+                "nickname": 0
+            },
+            "inTitle": false,
+            "inIntro": false,
+            "_name": {
+                "firstname": "Nikita",
+                "lastname": "Michalkow",
+                "nickname": null,
+                "alternative_names": [],
+                "academic_title": null,
+                "nobility_title_or_rank": null
+            },
+            "descriptiveTexts": [
+                {
+                    "text": "Der bekannte Filmemacher Nikita Michalkow zeigte auf seinem YouTube-Kanal ein Foto der Autorinnen und nannte sie Verr\u00e4terinnen."
+                }
+            ],
+            "occupations": [
+                {
+                    "text": "Filmemacher"
+                }
+            ],
+            "directQuotes": [],
+            "quotedInTitle": false,
+            "quotedInIntro": false
+        },
+        {
+            "name": "Wolodja",
+            "alternativeNames": [],
+            "age": -1,
+            "sex": "male",
+            "occurences": {
+                "total": 7,
+                "firstNameOnly": 0,
+                "lastNameOnly": 0,
+                "fullName": 7,
+                "nickname": 0
+            },
+            "inTitle": false,
+            "inIntro": false,
+            "_name": {
+                "firstname": "Wolodja",
+                "lastname": null,
+                "nickname": null,
+                "alternative_names": [],
+                "academic_title": null,
+                "nobility_title_or_rank": null
+            },
+            "descriptiveTexts": [
+                {
+                    "text": "Es ist eine Romanze, aber eine f\u00fcr die russische Literatur ungew\u00f6hnliche: Sie erz\u00e4hlt die Liebe von Jura und Wolodja, zwei jungen M\u00e4nnern, die sich im Sommer 1986 ineinander verlieben."
+                },
+                {
+                    "text": "Hier trifft der junge Pionier Jura auf den Lagerbetreuer Wolodja, die beiden freunden sich an."
+                },
+                {
+                    "text": "Jura bemerkt, dass er immer st\u00e4rkere Gef\u00fchle f\u00fcr Wolodja entwickelt."
+                },
+                {
+                    "text": "Warum l\u00f6st gerade der kluge Wolodja mit den sch\u00f6nen Gr\u00fcbchen solch intensive Zuneigung bei ihm aus?"
+                },
+                {
+                    "text": "Mit der Zeit gesteht er sich die Liebe zu Wolodja ein."
+                },
+                {
+                    "text": "Denn er bef\u00fcrchtet, sich und den j\u00fcngeren Pionier in Gefahr zu bringen."
+                },
+                {
+                    "text": "Er will ihm auch dem Zustand innerer Zerrissenheit ersparen, den er selbst gut kennt."
+                },
+                {
+                    "text": "Besonders eindringlich wird im Roman die Episode geschildert, in der eine junge Pionierin versucht, Jura und Wolodja zu outen."
+                },
+                {
+                    "text": "2016 beginnen sie mit der Arbeit an der Geschichte \u00fcber Jura und Wolodja, die sie zun\u00e4chst online ver\u00f6ffentlichen."
+                }
+            ],
+            "occupations": [
+                {
+                    "text": "Lagerbetreuer"
+                }
+            ],
+            "directQuotes": [
+                {
+                    "text": "Das war eine Art Lackmustest f\u00fcr die Homophobie der russischen Gesellschaft"
+                }
+            ],
+            "quotedInTitle": false,
+            "quotedInIntro": false
+        },
+        {
+            "name": "Witalij Milonow",
+            "alternativeNames": [],
+            "age": -1,
+            "sex": "male",
+            "occurences": {
+                "total": 1,
+                "firstNameOnly": 0,
+                "lastNameOnly": 0,
+                "fullName": 1,
+                "nickname": 0
+            },
+            "inTitle": false,
+            "inIntro": false,
+            "_name": {
+                "firstname": "Witalij",
+                "lastname": "Milonow",
+                "nickname": null,
+                "alternative_names": [],
+                "academic_title": null,
+                "nobility_title_or_rank": null
+            },
+            "descriptiveTexts": [
+                {
+                    "text": "Der Duma-Abgeordnete Witalij Milonow forderte in einer Fernsehsendung, man solle Malisowa und Silwanowa einen Stein um den Hals h\u00e4ngen und sie in den Fluss Moskwa werfen."
+                }
+            ],
+            "occupations": [],
+            "directQuotes": [],
+            "quotedInTitle": false,
+            "quotedInIntro": false
+        }
+    ]
+}

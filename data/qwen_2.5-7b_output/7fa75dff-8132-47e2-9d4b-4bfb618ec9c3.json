@@ -1,0 +1,385 @@
+{
+    "persons": [
+        {
+            "name": "Taco Carlier",
+            "alternativeNames": [],
+            "age": 45,
+            "sex": "male",
+            "occurences": {
+                "total": 21,
+                "firstNameOnly": 4,
+                "lastNameOnly": 7,
+                "fullName": 10,
+                "nickname": 0
+            },
+            "inTitle": false,
+            "inIntro": false,
+            "_name": {
+                "firstname": "Taco",
+                "lastname": "Carlier",
+                "nickname": null,
+                "alternative_names": [],
+                "academic_title": null,
+                "nobility_title_or_rank": null
+            },
+            "descriptiveTexts": [
+                {
+                    "text": "Sie sollten nach einem simplen Prinzip laufen: Debitkarte rein, Token f\u00fcr ein Bier raus."
+                },
+                {
+                    "text": "Doch als der gro\u00dfe Tag kam, an dem die Gr\u00fcnder das Produkt auf einem Festival pr\u00e4sentieren sollten, gab es ein Problem: Die f\u00fcnf Prototypen \"funktionierten nicht ganz so gut\", wie Taco Carlier vor \u00fcber zwei Jahren in einem Podcast erz\u00e4hlte."
+                },
+                {
+                    "text": "Sie versteckten sich vier Tage lang in den gro\u00dfen K\u00e4sten und hielten sie rund um die Uhr mit eigener H\u00e4nde Arbeit am Laufen."
+                },
+                {
+                    "text": "Keiner bemerkte den Trick, die Illusion einer Automatik \"hat perfekt funktioniert\", erinnerte sich Taco Carlier."
+                },
+                {
+                    "text": "Mit einem vision\u00e4ren Narrativ gelang es ihnen auch, bei Vanmoof die Investoren einzufangen: Sie wollten die Fahrradwelt revolutionieren, nicht mehr und nicht weniger."
+                },
+                {
+                    "text": "Inzwischen ist klar: Taco Carlier und sein Bruder Ties sind mit ihrem Ansatz, das Fahrrad von Grund auf neu zu denken, nach gut 14 Jahren gescheitert."
+                },
+                {
+                    "text": "Dass Taco Carlier wie sein Vater ein Unternehmen gr\u00fcnden wollte, wusste er schon mit Beginn seines Industriedesignstudiums an der Technischen Universit\u00e4t Delft."
+                },
+                {
+                    "text": "Danach setzten sie einen externen CEO ein und widmeten sich fortan ihrem im Mai 2009 gegr\u00fcndeten zweiten Unternehmen: Vanmoof."
+                },
+                {
+                    "text": "Taco Carlier gilt als der charismatische \u00e4ltere Bruder, der die Vision hatte, zusammen mit seinem j\u00fcngeren Bruder Ties das beste Citybike der Welt zu entwickeln."
+                },
+                {
+                    "text": "Sie wollten damit das Pendeln mit dem E-Bike aus ihrer Heimatstadt Amsterdam in die Welt tragen."
+                },
+                {
+                    "text": "Zusammen wollten sie den Markt aufmischen und der \"Tesla\" der E-Bike-Branche werden."
+                },
+                {
+                    "text": "\"Wir haben eine unbegrenzte Nachfrage gesehen\", sagte Taco Carlier einmal in einem Interview 2021."
+                },
+                {
+                    "text": "Investoren kauften den Br\u00fcdern die Geschichte des grenzenlosen Erfolgs ab: 2017 und 2019 sammelten die Carliers insgesamt f\u00fcnf Millionen Dollar \u00fcber Crowdfunding ein, nachdem sie Vanmoof anfangs aus den Ums\u00e4tzen ihrer ersten Unternehmensgr\u00fcndung finanziert hatten."
+                },
+                {
+                    "text": "2019 knackten sie sogar den niederl\u00e4ndischen Crowdfunding-Rekord mit 2,5 Millionen Dollar in zw\u00f6lf Stunden."
+                },
+                {
+                    "text": "Zeitgleich bereitete Vanmoof noch den Launch neuer Modelle vor, wie Taco Carlier sp\u00e4ter erz\u00e4hlte."
+                },
+                {
+                    "text": "\"Es war ein wirklich hartes Jahr\", sagte er \u00fcber 2020."
+                },
+                {
+                    "text": "\"Sie haben immer mit Elektronikunternehmen wie Darfon oder Sinbon zusammengearbeitet\", sagt eine Unternehmerin mit mehrj\u00e4hriger Erfahrung in f\u00fchrenden Positionen der Fahrradbranche."
+                },
+                {
+                    "text": "Vanmoof sahen die Br\u00fcder wohl als ein weiteres Projekt, bei dem sie Software, Hardware und Elektronik zusammenf\u00fchrten und in ein integriertes Produkt umsetzten."
+                },
+                {
+                    "text": "Mit der Fahrradtechnik betraten sie Neuland."
+                },
+                {
+                    "text": "Vanmoofs ehemaliger Entwicklungschef Job Stehmann hat sich im Nachhinein auf Linkedin seine eigenen Gedanken zum teuer erkauften Wachstum gemacht: \"Vielleicht war alles zu schnell zu viel, aber man braucht mutige Kreative, Designer und Ingenieure, die keine Angst haben, die immer wieder versuchen und scheitern und L\u00f6sungen f\u00fcr das Unm\u00f6gliche entwickeln. Auch wenn sie wissen, dass es vielleicht zu verr\u00fcckt ist, in f\u00fcnf Jahren f\u00fcnf v\u00f6llig neue Produkte auf den Markt zu bringen, damit sie reifen k\u00f6nnen.  Wir alle m\u00fcssen daraus lernen. ... Kleiner neu anfangen und zirkul\u00e4r neu anfangen\", schreibt Stehmann, der jahrelang zum Spitzenteam bei Vanmoof z\u00e4hlte, zuletzt als Chef f\u00fcr Produktdesign und Innovation."
+                },
+                {
+                    "text": "Die Nachfrage war da und Geld war g\u00fcnstig, antwortete Taco Carlier einmal."
+                },
+                {
+                    "text": "Mit dem Geld unternahmen die Carliers im Fr\u00fchjahr einen letzten Rettungsversuch: Sie erh\u00f6hten die Preise f\u00fcr die bestehenden R\u00e4der der Modelle S5 und A5, brachten mit dem S4 und X4 erschwinglichere R\u00e4der auf den Markt, schlossen weltweit Filialen und k\u00fcndigten wegen der Serviceprobleme an, mehr Partnerschaften mit Werkst\u00e4tten einzugehen."
+                },
+                {
+                    "text": "Bis zum bitteren Ende versuchte Taco Carlier, den Glauben an Vanmoofs Erfolgsgeschichte am Leben zu erhalten."
+                },
+                {
+                    "text": "Noch Anfang Juni \u2013 also rund vier Wochen vor der Insolvenz \u2013 beschwor Taco Carlier auf einem Branchentreffen in Amsterdam das Alleinstellungsmerkmal des Fahrradherstellers, die besagte Strategie der selbst entwickelten Teile: \"Wichtig ist, wo die Komponenten hergestellt werden. Nimmst du sie von der Stange oder designst und entwickelst inhouse? Das ist f\u00fcr mich die gro\u00dfe Frage: Was wird sich in den n\u00e4chsten f\u00fcnf bis zehn Jahren durchsetzen?\""
+                },
+                {
+                    "text": "Im Hintergrund muss sich bereits das Scheitern des Rettungsversuchs abgezeichnet haben, doch er hielt die Illusion aufrecht."
+                },
+                {
+                    "text": "Vergeblich h\u00e4tten sie versucht, die Zukunft des Unternehmens zu sichern."
+                }
+            ],
+            "occupations": [],
+            "directQuotes": [
+                {
+                    "text": "funktionierten nicht ganz so gut"
+                },
+                {
+                    "text": "aber vor allem sind wir sehr stolz auf das, was wir gemeinsam erreicht haben. F\u00fcr uns war es die Ehre unseres Lebens."
+                }
+            ],
+            "quotedInTitle": false,
+            "quotedInIntro": false
+        },
+        {
+            "name": "Vanmoofer",
+            "alternativeNames": [],
+            "age": -1,
+            "sex": "unknown",
+            "occurences": {
+                "total": 2,
+                "firstNameOnly": 0,
+                "lastNameOnly": 0,
+                "fullName": 2,
+                "nickname": 0
+            },
+            "inTitle": false,
+            "inIntro": false,
+            "_name": {
+                "firstname": null,
+                "lastname": null,
+                "nickname": null,
+                "alternative_names": [],
+                "academic_title": null,
+                "nobility_title_or_rank": null
+            },
+            "descriptiveTexts": [
+                {
+                    "text": "Die Fangemeinde, die \"Vanmoofer\", rufen derweil mit einem Augenzwinkern Elon Musk zur Rettung des Unternehmens auf."
+                },
+                {
+                    "text": "In einer Art Abschiedsmail wendeten sich die Gr\u00fcnder nach der Pleite an die Vanmoofer:"
+                }
+            ],
+            "occupations": [
+                {
+                    "text": "Vanmoofer"
+                }
+            ],
+            "directQuotes": [
+                {
+                    "text": "Vanmoofer"
+                }
+            ],
+            "quotedInTitle": false,
+            "quotedInIntro": false
+        },
+        {
+            "name": "Bosch",
+            "alternativeNames": [],
+            "age": -1,
+            "sex": "unknown",
+            "occurences": {
+                "total": 1,
+                "firstNameOnly": 0,
+                "lastNameOnly": 0,
+                "fullName": 1,
+                "nickname": 0
+            },
+            "inTitle": false,
+            "inIntro": false,
+            "_name": {
+                "firstname": null,
+                "lastname": "Bosch",
+                "nickname": null,
+                "alternative_names": [],
+                "academic_title": null,
+                "nobility_title_or_rank": null
+            },
+            "descriptiveTexts": [
+                {
+                    "text": "Die Expertin kritisiert, die Br\u00fcder seien \u2013 anders als etwa Bosch bei seinem Einstieg ins Fahrradgesch\u00e4ft \u2013 nicht bescheiden genug gewesen, sich Fahrradexperten ins Haus zu holen und von ihnen zu lernen."
+                }
+            ],
+            "occupations": [],
+            "directQuotes": [],
+            "quotedInTitle": false,
+            "quotedInIntro": false
+        },
+        {
+            "name": "Job Stehmann",
+            "alternativeNames": [],
+            "age": -1,
+            "sex": "male",
+            "occurences": {
+                "total": 3,
+                "firstNameOnly": 1,
+                "lastNameOnly": 1,
+                "fullName": 1,
+                "nickname": 0
+            },
+            "inTitle": false,
+            "inIntro": false,
+            "_name": {
+                "firstname": "Job",
+                "lastname": "Stehmann",
+                "nickname": null,
+                "alternative_names": [],
+                "academic_title": null,
+                "nobility_title_or_rank": null
+            },
+            "descriptiveTexts": [
+                {
+                    "text": "Vanmoofs ehemaliger Entwicklungschef Job Stehmann hat sich im Nachhinein auf Linkedin seine eigenen Gedanken zum teuer erkauften Wachstum gemacht: \"Vielleicht war alles zu schnell zu viel, aber man braucht mutige Kreative, Designer und Ingenieure, die keine Angst haben, die immer wieder versuchen und scheitern und L\u00f6sungen f\u00fcr das Unm\u00f6gliche entwickeln. Auch wenn sie wissen, dass es vielleicht zu verr\u00fcckt ist, in f\u00fcnf Jahren f\u00fcnf v\u00f6llig neue Produkte auf den Markt zu bringen, damit sie reifen k\u00f6nnen.  Wir alle m\u00fcssen daraus lernen. ... Kleiner neu anfangen und zirkul\u00e4r neu anfangen\", schreibt Stehmann, der jahrelang zum Spitzenteam bei Vanmoof z\u00e4hlte, zuletzt als Chef f\u00fcr Produktdesign und Innovation."
+                },
+                {
+                    "text": "Was allerdings fehlt, ist ein Wort der Selbstkritik und der Entschuldigung an die Investoren, die Kunden und die Mitarbeiter, die jetzt auf ihrem Geld sitzen bleiben oder ihren Job verlieren werden."
+                }
+            ],
+            "occupations": [],
+            "directQuotes": [],
+            "quotedInTitle": false,
+            "quotedInIntro": false
+        },
+        {
+            "name": "Bastian Dietz",
+            "alternativeNames": [],
+            "age": -1,
+            "sex": "male",
+            "occurences": {
+                "total": 1,
+                "firstNameOnly": 0,
+                "lastNameOnly": 0,
+                "fullName": 1,
+                "nickname": 0
+            },
+            "inTitle": false,
+            "inIntro": false,
+            "_name": {
+                "firstname": "Bastian",
+                "lastname": "Dietz",
+                "nickname": null,
+                "alternative_names": [],
+                "academic_title": null,
+                "nobility_title_or_rank": null
+            },
+            "descriptiveTexts": [
+                {
+                    "text": "Der Reihe nach: Die Ursache vieler \u00dcbel lag in der Strategie der Gr\u00fcnder, auf propriet\u00e4re Teile zu setzen, also im eigenen Unternehmen entwickelte Teile anstatt Standardkomponenten von Drittanbietern, wie die Experten Bastian Dietz und Dirk Zedler manager magazin bereits im Fr\u00fchjahr berichteten."
+                }
+            ],
+            "occupations": [],
+            "directQuotes": [],
+            "quotedInTitle": false,
+            "quotedInIntro": false
+        },
+        {
+            "name": "Ties Carlier",
+            "alternativeNames": [],
+            "age": 44,
+            "sex": "male",
+            "occurences": {
+                "total": 5,
+                "firstNameOnly": 3,
+                "lastNameOnly": 0,
+                "fullName": 2,
+                "nickname": 0
+            },
+            "inTitle": false,
+            "inIntro": false,
+            "_name": {
+                "firstname": "Ties",
+                "lastname": "Carlier",
+                "nickname": null,
+                "alternative_names": [],
+                "academic_title": null,
+                "nobility_title_or_rank": null
+            },
+            "descriptiveTexts": [
+                {
+                    "text": "Ein paar Jahre bevor Taco (45) und Ties Carlier (44) den Fahrradhersteller Vanmoof aus der Taufe hoben, hatten die Niederl\u00e4nder Dutchband gegr\u00fcndet, ein Start-up f\u00fcr Veranstaltungsbedarf."
+                },
+                {
+                    "text": "Sie sollten nach einem simplen Prinzip laufen: Debitkarte rein, Token f\u00fcr ein Bier raus."
+                },
+                {
+                    "text": "Sie versteckten sich vier Tage lang in den gro\u00dfen K\u00e4sten und hielten sie rund um die Uhr mit eigener H\u00e4nde Arbeit am Laufen."
+                },
+                {
+                    "text": "Mit einem vision\u00e4ren Narrativ gelang es ihnen auch, bei Vanmoof die Investoren einzufangen: Sie wollten die Fahrradwelt revolutionieren, nicht mehr und nicht weniger."
+                },
+                {
+                    "text": "Danach setzten sie einen externen CEO ein und widmeten sich fortan ihrem im Mai 2009 gegr\u00fcndeten zweiten Unternehmen: Vanmoof."
+                },
+                {
+                    "text": "Sie wollten damit das Pendeln mit dem E-Bike aus ihrer Heimatstadt Amsterdam in die Welt tragen."
+                },
+                {
+                    "text": "Zusammen wollten sie den Markt aufmischen und der \"Tesla\" der E-Bike-Branche werden."
+                },
+                {
+                    "text": "Investoren kauften den Br\u00fcdern die Geschichte des grenzenlosen Erfolgs ab: 2017 und 2019 sammelten die Carliers insgesamt f\u00fcnf Millionen Dollar \u00fcber Crowdfunding ein, nachdem sie Vanmoof anfangs aus den Ums\u00e4tzen ihrer ersten Unternehmensgr\u00fcndung finanziert hatten."
+                },
+                {
+                    "text": "2019 knackten sie sogar den niederl\u00e4ndischen Crowdfunding-Rekord mit 2,5 Millionen Dollar in zw\u00f6lf Stunden."
+                },
+                {
+                    "text": "\"Sie haben immer mit Elektronikunternehmen wie Darfon oder Sinbon zusammengearbeitet\", sagt eine Unternehmerin mit mehrj\u00e4hriger Erfahrung in f\u00fchrenden Positionen der Fahrradbranche."
+                },
+                {
+                    "text": "Als problematisch sieht die Expertin, dass es auch Taco und Ties Carlier, beide studierte Industriedesigner, selbst an Fahrrad-Knowhow fehlte."
+                },
+                {
+                    "text": "Vanmoof sahen die Br\u00fcder wohl als ein weiteres Projekt, bei dem sie Software, Hardware und Elektronik zusammenf\u00fchrten und in ein integriertes Produkt umsetzten."
+                },
+                {
+                    "text": "Mit der Fahrradtechnik betraten sie Neuland."
+                },
+                {
+                    "text": "Vanmoofs ehemaliger Entwicklungschef Job Stehmann hat sich im Nachhinein auf Linkedin seine eigenen Gedanken zum teuer erkauften Wachstum gemacht: \"Vielleicht war alles zu schnell zu viel, aber man braucht mutige Kreative, Designer und Ingenieure, die keine Angst haben, die immer wieder versuchen und scheitern und L\u00f6sungen f\u00fcr das Unm\u00f6gliche entwickeln. Auch wenn sie wissen, dass es vielleicht zu verr\u00fcckt ist, in f\u00fcnf Jahren f\u00fcnf v\u00f6llig neue Produkte auf den Markt zu bringen, damit sie reifen k\u00f6nnen.  Wir alle m\u00fcssen daraus lernen. ... Kleiner neu anfangen und zirkul\u00e4r neu anfangen\", schreibt Stehmann, der jahrelang zum Spitzenteam bei Vanmoof z\u00e4hlte, zuletzt als Chef f\u00fcr Produktdesign und Innovation."
+                },
+                {
+                    "text": "Mit dem Geld unternahmen die Carliers im Fr\u00fchjahr einen letzten Rettungsversuch: Sie erh\u00f6hten die Preise f\u00fcr die bestehenden R\u00e4der der Modelle S5 und A5, brachten mit dem S4 und X4 erschwinglichere R\u00e4der auf den Markt, schlossen weltweit Filialen und k\u00fcndigten wegen der Serviceprobleme an, mehr Partnerschaften mit Werkst\u00e4tten einzugehen."
+                },
+                {
+                    "text": "Noch Anfang Juni \u2013 also rund vier Wochen vor der Insolvenz \u2013 beschwor Taco Carlier auf einem Branchentreffen in Amsterdam das Alleinstellungsmerkmal des Fahrradherstellers, die besagte Strategie der selbst entwickelten Teile: \"Wichtig ist, wo die Komponenten hergestellt werden. Nimmst du sie von der Stange oder designst und entwickelst inhouse? Das ist f\u00fcr mich die gro\u00dfe Frage: Was wird sich in den n\u00e4chsten f\u00fcnf bis zehn Jahren durchsetzen?\""
+                },
+                {
+                    "text": "Vergeblich h\u00e4tten sie versucht, die Zukunft des Unternehmens zu sichern."
+                }
+            ],
+            "occupations": [],
+            "directQuotes": [
+                {
+                    "text": "Das haben wir zehn Jahre lang gemacht"
+                },
+                {
+                    "text": "Vielleicht war alles zu schnell zu viel, aber man braucht mutige Kreative, Designer und Ingenieure, die keine Angst haben, die immer wieder versuchen und scheitern und L\u00f6sungen f\u00fcr das Unm\u00f6gliche entwickeln. Auch wenn sie wissen, dass es vielleicht zu verr\u00fcckt ist, in f\u00fcnf Jahren f\u00fcnf v\u00f6llig neue Produkte auf den Markt zu bringen, damit sie reifen k\u00f6nnen. [...] Wir alle m\u00fcssen daraus lernen. ... Kleiner neu anfangen und zirkul\u00e4r neu anfangen"
+                },
+                {
+                    "text": "sehr leid"
+                },
+                {
+                    "text": "Wir haben Vanmoof vor 14 Jahren mit einer verr\u00fcckten Idee gegr\u00fcndet, um die Welt zu ver\u00e4ndern. Der einzige Grund, warum wir \u00fcberhaupt etwas bewirken konnten, seid ihr: Die Hunderte von engagierten und loyalen Menschen, die uns bei unserer Mission, St\u00e4dte zum Besseren zu ver\u00e4ndern, geholfen haben. Wir sind jedem Einzelnen von euch dankbar und bedauern, dass wir diese Mission nicht gemeinsam zu Ende f\u00fchren k\u00f6nnen."
+                }
+            ],
+            "quotedInTitle": false,
+            "quotedInIntro": false
+        },
+        {
+            "name": "Dirk Zedler",
+            "alternativeNames": [],
+            "age": -1,
+            "sex": "male",
+            "occurences": {
+                "total": 1,
+                "firstNameOnly": 0,
+                "lastNameOnly": 0,
+                "fullName": 1,
+                "nickname": 0
+            },
+            "inTitle": false,
+            "inIntro": false,
+            "_name": {
+                "firstname": "Dirk",
+                "lastname": "Zedler",
+                "nickname": null,
+                "alternative_names": [],
+                "academic_title": null,
+                "nobility_title_or_rank": null
+            },
+            "descriptiveTexts": [
+                {
+                    "text": "Der Reihe nach: Die Ursache vieler \u00dcbel lag in der Strategie der Gr\u00fcnder, auf propriet\u00e4re Teile zu setzen, also im eigenen Unternehmen entwickelte Teile anstatt Standardkomponenten von Drittanbietern, wie die Experten Bastian Dietz und Dirk Zedler manager magazin bereits im Fr\u00fchjahr berichteten."
+                }
+            ],
+            "occupations": [],
+            "directQuotes": [],
+            "quotedInTitle": false,
+            "quotedInIntro": false
+        }
+    ]
+}

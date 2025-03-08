@@ -1,0 +1,564 @@
+{
+    "persons": [
+        {
+            "name": "Isabel Turcios",
+            "alternativeNames": [],
+            "age": 65,
+            "sex": "female",
+            "occurences": {
+                "total": 2,
+                "firstNameOnly": 1,
+                "lastNameOnly": 0,
+                "fullName": 1,
+                "nickname": 0
+            },
+            "inTitle": false,
+            "inIntro": false,
+            "_name": {
+                "firstname": "Isabel",
+                "lastname": "Turcios",
+                "nickname": null,
+                "alternative_names": [],
+                "academic_title": null,
+                "nobility_title_or_rank": null
+            },
+            "descriptiveTexts": [
+                {
+                    "text": "\u00bbSie haben sechs Checkpoints auf der Stra\u00dfe nach Piedras Negras aufgebaut\u00ab, erz\u00e4hlt Schwester Isabel Turcios."
+                },
+                {
+                    "text": "Schwester Isabel, 65, eine winzige, nimmerm\u00fcde Frau mit Kreuz und Habit, betreibt zusammen mit zwei anderen Franziskaner-Nonnen eine Fl\u00fcchtlingsunterkunft am Rande von Piedras Negras, keine 100 Meter vom Fluss entfernt."
+                },
+                {
+                    "text": "Sie h\u00e4lt die neue H\u00e4rte gegen die Migranten f\u00fcr inhuman und falsch."
+                }
+            ],
+            "occupations": [],
+            "directQuotes": [
+                {
+                    "text": "Sie haben sechs Checkpoints auf der Stra\u00dfe nach Piedras Negras aufgebaut"
+                },
+                {
+                    "text": "\u00dcberall werden die Menschen festgenommen und zur\u00fccktransportiert, auch hier in der Stadt."
+                },
+                {
+                    "text": "Eine Schwester hat gesagt, wir d\u00fcrfen nur noch drei, vier Tage bleiben."
+                }
+            ],
+            "quotedInTitle": false,
+            "quotedInIntro": false
+        },
+        {
+            "name": "Donald Trump",
+            "alternativeNames": [],
+            "age": -1,
+            "sex": "male",
+            "occurences": {
+                "total": 2,
+                "firstNameOnly": 0,
+                "lastNameOnly": 0,
+                "fullName": 2,
+                "nickname": 0
+            },
+            "inTitle": false,
+            "inIntro": false,
+            "_name": {
+                "firstname": "Donald",
+                "lastname": "Trump",
+                "nickname": null,
+                "alternative_names": [],
+                "academic_title": null,
+                "nobility_title_or_rank": null
+            },
+            "descriptiveTexts": [
+                {
+                    "text": "Unter Bidens Vorg\u00e4nger Donald Trump waren es per annum nie mehr als 800.000."
+                },
+                {
+                    "text": "Doch Donald Trump machte Stimmung gegen den Deal, und seine Republikaner blockierten Bidens Vorschlag."
+                }
+            ],
+            "occupations": [
+                {
+                    "text": "Donald Trump machte Stimmung gegen den Deal"
+                }
+            ],
+            "directQuotes": [],
+            "quotedInTitle": false,
+            "quotedInIntro": false
+        },
+        {
+            "name": "Denia",
+            "alternativeNames": [],
+            "age": 21,
+            "sex": "female",
+            "occurences": {
+                "total": 4,
+                "firstNameOnly": 0,
+                "lastNameOnly": 0,
+                "fullName": 4,
+                "nickname": 0
+            },
+            "inTitle": false,
+            "inIntro": false,
+            "_name": {
+                "firstname": "Denia",
+                "lastname": null,
+                "nickname": null,
+                "alternative_names": [],
+                "academic_title": null,
+                "nobility_title_or_rank": null
+            },
+            "descriptiveTexts": [
+                {
+                    "text": "So auch Denia und Santos aus Honduras."
+                },
+                {
+                    "text": "Zusammen mit Denias Schwester Irma und ihrem zehn Monate alten Baby Ju\u00e1n David im Tragetuch seien sie weite Teile des Weges aus ihrer Heimat hierhergelaufen, erz\u00e4hlen die 21-j\u00e4hrige Frau und ihr Partner."
+                },
+                {
+                    "text": "Anfang August h\u00e4tten sie ihr Zuhause in Honduras verlassen m\u00fcssen, weil eine bewaffnete Bande sie zum Auszug gezwungen habe."
+                },
+                {
+                    "text": "Unterwegs seien sie \u00fcberfallen, ihres Geldes und ihrer Papiere beraubt worden."
+                },
+                {
+                    "text": "Ende Januar erreichten sie die Unterkunft."
+                },
+                {
+                    "text": "Doch bald m\u00fcssen sie raus aus ihrer Zufluchtsst\u00e4tte."
+                },
+                {
+                    "text": "\u00bbEs wird immer voller\u00ab, sagt Denia."
+                },
+                {
+                    "text": "Denia, Irma und Ju\u00e1n David k\u00f6nnen nicht schwimmen."
+                }
+            ],
+            "occupations": [],
+            "directQuotes": [
+                {
+                    "text": "Es wird immer voller"
+                }
+            ],
+            "quotedInTitle": false,
+            "quotedInIntro": false
+        },
+        {
+            "name": "Santos",
+            "alternativeNames": [],
+            "age": -1,
+            "sex": "male",
+            "occurences": {
+                "total": 1,
+                "firstNameOnly": 0,
+                "lastNameOnly": 0,
+                "fullName": 1,
+                "nickname": 0
+            },
+            "inTitle": false,
+            "inIntro": false,
+            "_name": {
+                "firstname": "Santos",
+                "lastname": null,
+                "nickname": null,
+                "alternative_names": [],
+                "academic_title": null,
+                "nobility_title_or_rank": null
+            },
+            "descriptiveTexts": [
+                {
+                    "text": "So auch Denia und Santos aus Honduras."
+                },
+                {
+                    "text": "Zusammen mit Denias Schwester Irma und ihrem zehn Monate alten Baby Ju\u00e1n David im Tragetuch seien sie weite Teile des Weges aus ihrer Heimat hierhergelaufen, erz\u00e4hlen die 21-j\u00e4hrige Frau und ihr Partner."
+                },
+                {
+                    "text": "Anfang August h\u00e4tten sie ihr Zuhause in Honduras verlassen m\u00fcssen, weil eine bewaffnete Bande sie zum Auszug gezwungen habe."
+                },
+                {
+                    "text": "Unterwegs seien sie \u00fcberfallen, ihres Geldes und ihrer Papiere beraubt worden."
+                },
+                {
+                    "text": "Ende Januar erreichten sie die Unterkunft."
+                },
+                {
+                    "text": "Doch bald m\u00fcssen sie raus aus ihrer Zufluchtsst\u00e4tte."
+                }
+            ],
+            "occupations": [],
+            "directQuotes": [],
+            "quotedInTitle": false,
+            "quotedInIntro": false
+        },
+        {
+            "name": "Antony Blinken",
+            "alternativeNames": [],
+            "age": -1,
+            "sex": "male",
+            "occurences": {
+                "total": 1,
+                "firstNameOnly": 0,
+                "lastNameOnly": 0,
+                "fullName": 1,
+                "nickname": 0
+            },
+            "inTitle": false,
+            "inIntro": false,
+            "_name": {
+                "firstname": "Antony",
+                "lastname": "Blinken",
+                "nickname": null,
+                "alternative_names": [],
+                "academic_title": null,
+                "nobility_title_or_rank": null
+            },
+            "descriptiveTexts": [
+                {
+                    "text": "Mittlerweile haben sie die Gangart versch\u00e4rft: erst recht, seit Biden seinen Au\u00dfenminister Antony Blinken kurz vor dem Jahreswechsel nach Mexiko City schickte."
+                }
+            ],
+            "occupations": [],
+            "directQuotes": [],
+            "quotedInTitle": false,
+            "quotedInIntro": false
+        },
+        {
+            "name": "Ju\u00e1n David",
+            "alternativeNames": [],
+            "age": 10,
+            "sex": "male",
+            "occurences": {
+                "total": 2,
+                "firstNameOnly": 0,
+                "lastNameOnly": 0,
+                "fullName": 2,
+                "nickname": 0
+            },
+            "inTitle": false,
+            "inIntro": false,
+            "_name": {
+                "firstname": "Ju\u00e1n David",
+                "lastname": null,
+                "nickname": null,
+                "alternative_names": [],
+                "academic_title": null,
+                "nobility_title_or_rank": null
+            },
+            "descriptiveTexts": [
+                {
+                    "text": "Zusammen mit Denias Schwester Irma und ihrem zehn Monate alten Baby Ju\u00e1n David im Tragetuch seien sie weite Teile des Weges aus ihrer Heimat hierhergelaufen, erz\u00e4hlen die 21-j\u00e4hrige Frau und ihr Partner."
+                },
+                {
+                    "text": "Anfang August h\u00e4tten sie ihr Zuhause in Honduras verlassen m\u00fcssen, weil eine bewaffnete Bande sie zum Auszug gezwungen habe."
+                },
+                {
+                    "text": "Unterwegs seien sie \u00fcberfallen, ihres Geldes und ihrer Papiere beraubt worden."
+                },
+                {
+                    "text": "Ende Januar erreichten sie die Unterkunft."
+                },
+                {
+                    "text": "Doch bald m\u00fcssen sie raus aus ihrer Zufluchtsst\u00e4tte."
+                },
+                {
+                    "text": "Denia, Irma und Ju\u00e1n David k\u00f6nnen nicht schwimmen."
+                }
+            ],
+            "occupations": [],
+            "directQuotes": [],
+            "quotedInTitle": false,
+            "quotedInIntro": false
+        },
+        {
+            "name": "Tom Schmerber",
+            "alternativeNames": [],
+            "age": -1,
+            "sex": "male",
+            "occurences": {
+                "total": 2,
+                "firstNameOnly": 0,
+                "lastNameOnly": 0,
+                "fullName": 2,
+                "nickname": 0
+            },
+            "inTitle": false,
+            "inIntro": false,
+            "_name": {
+                "firstname": "Tom",
+                "lastname": "Schmerber",
+                "nickname": null,
+                "alternative_names": [],
+                "academic_title": null,
+                "nobility_title_or_rank": null
+            },
+            "descriptiveTexts": [
+                {
+                    "text": "Tom Schmerber, der Sheriff von Eagle Pass, nennt den nicht endenden Streit \u00fcber die Einwanderung \u00bbein Theater, und wir sind das Epizentrum.\u00ab"
+                },
+                {
+                    "text": "Tom Schmerber sch\u00fcttelt mit dem Kopf, als er an die Chaoswochen zur\u00fcckdenkt."
+                },
+                {
+                    "text": "Seit elf Jahren ist der gedrungene Mann mit deutschen Vorfahren Sheriff von Eagle Pass; zuvor war er 26 Jahre beim Grenzschutz."
+                },
+                {
+                    "text": "So etwas habe er noch nie erlebt, sagt er."
+                }
+            ],
+            "occupations": [],
+            "directQuotes": [
+                {
+                    "text": "ein Theater, und wir sind das Epizentrum."
+                },
+                {
+                    "text": "Der Pr\u00e4sident hat die T\u00fcren der USA ge\u00f6ffnet, aber er wei\u00df nicht, wie er sie schlie\u00dfen soll."
+                },
+                {
+                    "text": "au\u00dfer Kontrolle"
+                }
+            ],
+            "quotedInTitle": false,
+            "quotedInIntro": false
+        },
+        {
+            "name": "Joe Biden",
+            "alternativeNames": [],
+            "age": -1,
+            "sex": "male",
+            "occurences": {
+                "total": 10,
+                "firstNameOnly": 0,
+                "lastNameOnly": 9,
+                "fullName": 1,
+                "nickname": 0
+            },
+            "inTitle": false,
+            "inIntro": false,
+            "_name": {
+                "firstname": "Joe",
+                "lastname": "Biden",
+                "nickname": null,
+                "alternative_names": [],
+                "academic_title": null,
+                "nobility_title_or_rank": null
+            },
+            "descriptiveTexts": [
+                {
+                    "text": "Zur fernsehtauglichen Kulisse im Dauerstreit zwischen republikanischen und demokratischen Spitzenpolitikern, zwischen der texanischen und der US-amerikanischen Regierung \u00fcber die Einwanderungspolitik von Pr\u00e4sident Joe Biden."
+                },
+                {
+                    "text": "Abbotts Regierung lie\u00df immer neuen Nato-Draht an neuralgischen Punkten auft\u00fcrmen; Bidens Regierung lie\u00df sich vom U.S. Supreme Court das Recht geben, den Nato-Draht wieder zu entfernen."
+                },
+                {
+                    "text": "Der Republikaner zielt auf einen neuralgischen Punkt: Bidens unpopul\u00e4re Migrationspolitik."
+                },
+                {
+                    "text": "Unter Bidens Vorg\u00e4nger Donald Trump waren es per annum nie mehr als 800.000."
+                },
+                {
+                    "text": "In einer repr\u00e4sentativen Umfrage f\u00fcr den TV-Sender ABC im Januar lehnten 63 Prozent der Teilnehmerinnen und Teilnehmer Bidens Grenzpolitik ab; nur 18 Prozent hie\u00dfen sie gut."
+                },
+                {
+                    "text": "Auch in Eagle Pass, traditionell demokratisch eingestellt, hat sich Bidens Regierung unbeliebt gemacht."
+                },
+                {
+                    "text": "\u00bbDer Pr\u00e4sident hat die T\u00fcren der USA ge\u00f6ffnet, aber er wei\u00df nicht, wie er sie schlie\u00dfen soll.\u00ab"
+                },
+                {
+                    "text": "Um Biden blo\u00dfzustellen \u2013 und sich selbst als Retter des Landes vor der angeblichen \u00bbInvasion\u00ab darzustellen."
+                },
+                {
+                    "text": "Dabei hat Biden den Republikanern im Kongress erst k\u00fcrzlich ein Ma\u00dfnahmenpaket zur Eind\u00e4mmung der illegalen Einwanderung vorgeschlagen: gekoppelt an ein Ja der Konservativen zu Finanzhilfen f\u00fcr die Ukraine und Israel."
+                },
+                {
+                    "text": "Doch Donald Trump machte Stimmung gegen den Deal, und seine Republikaner blockierten Bidens Vorschlag."
+                },
+                {
+                    "text": "Mittlerweile haben sie die Gangart versch\u00e4rft: erst recht, seit Biden seinen Au\u00dfenminister Antony Blinken kurz vor dem Jahreswechsel nach Mexiko City schickte."
+                }
+            ],
+            "occupations": [],
+            "directQuotes": [],
+            "quotedInTitle": false,
+            "quotedInIntro": false
+        },
+        {
+            "name": "Manuel Mello",
+            "alternativeNames": [],
+            "age": 60,
+            "sex": "male",
+            "occurences": {
+                "total": 4,
+                "firstNameOnly": 0,
+                "lastNameOnly": 1,
+                "fullName": 3,
+                "nickname": 0
+            },
+            "inTitle": false,
+            "inIntro": false,
+            "_name": {
+                "firstname": "Manuel",
+                "lastname": "Mello",
+                "nickname": null,
+                "alternative_names": [],
+                "academic_title": null,
+                "nobility_title_or_rank": null
+            },
+            "descriptiveTexts": [
+                {
+                    "text": "\u00bbSchauen Sie sich das an. Wer soll das aufr\u00e4umen?\u00ab, z\u00fcrnt Manuel Mello, 60."
+                },
+                {
+                    "text": "Der Feuerwehr- und Wasserrettungschef von Eagle Pass ist ein kr\u00e4ftiger Mann mit halblangem, nach hinten gegeltem grauen Haar, er spie\u00dft mit dem Taschenmesser eine angebrochene Packung Tabletten auf."
+                },
+                {
+                    "text": "Republikanische wie demokratische Politiker benutzten Eagle Pass als ihre \u00bbB\u00fchne\u00ab, sagt Mello."
+                },
+                {
+                    "text": "Manuel Mello in Eagle Pass ist frustriert."
+                },
+                {
+                    "text": "Politiker beider Seiten h\u00e4tten offensichtlich kein Interesse an einer konstruktiven L\u00f6sung, sagt er."
+                },
+                {
+                    "text": "Manuel Mellos Rettungskr\u00e4fte m\u00fcssen nicht mehr so oft ausr\u00fccken, um Menschen im Rio Grande vor dem Ertrinken zu retten."
+                }
+            ],
+            "occupations": [
+                {
+                    "text": "26 Jahre beim Grenzschutz"
+                },
+                {
+                    "text": "Feuerwehr- und Wasserrettungschef von Eagle Pass"
+                }
+            ],
+            "directQuotes": [
+                {
+                    "text": "Schauen Sie sich das an. Wer soll das aufr\u00e4umen?"
+                },
+                {
+                    "text": "Hier sind so viele Leute ertrunken, Erwachsene und Kinder ganz kurz vor dem Ziel. Es ist so traurig."
+                },
+                {
+                    "text": "Sie kommen, lassen Fotos machen, und dann sind sie wieder weg"
+                },
+                {
+                    "text": "Sie haben das Thema sehr politisch gemacht \u2013 und ihre Pflicht als Kongressabgeordnete vergessen, unsere Grenze zu sichern."
+                }
+            ],
+            "quotedInTitle": false,
+            "quotedInIntro": false
+        },
+        {
+            "name": "Irma",
+            "alternativeNames": [],
+            "age": -1,
+            "sex": "female",
+            "occurences": {
+                "total": 2,
+                "firstNameOnly": 0,
+                "lastNameOnly": 0,
+                "fullName": 2,
+                "nickname": 0
+            },
+            "inTitle": false,
+            "inIntro": false,
+            "_name": {
+                "firstname": "Irma",
+                "lastname": null,
+                "nickname": null,
+                "alternative_names": [],
+                "academic_title": null,
+                "nobility_title_or_rank": null
+            },
+            "descriptiveTexts": [
+                {
+                    "text": "Zusammen mit Denias Schwester Irma und ihrem zehn Monate alten Baby Ju\u00e1n David im Tragetuch seien sie weite Teile des Weges aus ihrer Heimat hierhergelaufen, erz\u00e4hlen die 21-j\u00e4hrige Frau und ihr Partner."
+                },
+                {
+                    "text": "Anfang August h\u00e4tten sie ihr Zuhause in Honduras verlassen m\u00fcssen, weil eine bewaffnete Bande sie zum Auszug gezwungen habe."
+                },
+                {
+                    "text": "Unterwegs seien sie \u00fcberfallen, ihres Geldes und ihrer Papiere beraubt worden."
+                },
+                {
+                    "text": "Ende Januar erreichten sie die Unterkunft."
+                },
+                {
+                    "text": "Doch bald m\u00fcssen sie raus aus ihrer Zufluchtsst\u00e4tte."
+                },
+                {
+                    "text": "Denia, Irma und Ju\u00e1n David k\u00f6nnen nicht schwimmen."
+                }
+            ],
+            "occupations": [],
+            "directQuotes": [],
+            "quotedInTitle": false,
+            "quotedInIntro": false
+        },
+        {
+            "name": "Greg Abbott",
+            "alternativeNames": [],
+            "age": -1,
+            "sex": "male",
+            "occurences": {
+                "total": 7,
+                "firstNameOnly": 0,
+                "lastNameOnly": 6,
+                "fullName": 1,
+                "nickname": 0
+            },
+            "inTitle": false,
+            "inIntro": false,
+            "_name": {
+                "firstname": "Greg",
+                "lastname": "Abbott",
+                "nickname": null,
+                "alternative_names": [],
+                "academic_title": null,
+                "nobility_title_or_rank": null
+            },
+            "descriptiveTexts": [
+                {
+                    "text": "Bald lieferten sich Texas\u2019 republikanischer Gouverneur Greg Abbott und das Wei\u00dfe Haus einen \u00f6ffentlichen Streit \u00fcber die Grenzsicherung in Eagle Pass."
+                },
+                {
+                    "text": "Abbotts Regierung lie\u00df immer neuen Nato-Draht an neuralgischen Punkten auft\u00fcrmen; Bidens Regierung lie\u00df sich vom U.S. Supreme Court das Recht geben, den Nato-Draht wieder zu entfernen."
+                },
+                {
+                    "text": "Sogar eine neue Milit\u00e4rbasis f\u00fcr bis zu 1800 Mitglieder seiner texanischen Nationalgarde will Abbott jetzt nahe Eagle Pass bauen."
+                },
+                {
+                    "text": "Gouverneur Abbott will die Gelegenheit nutzen, sich selbst als Retter des Landes zu pr\u00e4sentieren"
+                },
+                {
+                    "text": "Gouverneur Abbott will das politische Momentum nutzen."
+                },
+                {
+                    "text": "Dreimal ist er in diesem Februar schon die Hunderte Kilometer nach Eagle Pass gereist \u2013 oft in Begleitung hochrangiger Parteifreunde aus dem ganzen Land."
+                },
+                {
+                    "text": "\u00bbWir werden uns nicht auf diesen Park beschr\u00e4nken\u00ab, sprach Abbott in die Mikrofone, sondern \u00bbin andere Gebiete expandieren\u00ab, um Migranten abzuschrecken und ihre Einreise zu verhindern."
+                },
+                {
+                    "text": "Die Zahl der illegalen Grenz\u00fcbertritte ist deutlich zur\u00fcckgegangen: \u00bbwegen der Effektivit\u00e4t der Nato-Dr\u00e4hte\u00ab, behauptet Abbott."
+                }
+            ],
+            "occupations": [],
+            "directQuotes": [
+                {
+                    "text": "Invasion"
+                },
+                {
+                    "text": "Wir werden uns nicht auf diesen Park beschr\u00e4nken"
+                },
+                {
+                    "text": "in andere Gebiete expandieren"
+                }
+            ],
+            "quotedInTitle": false,
+            "quotedInIntro": false
+        }
+    ]
+}

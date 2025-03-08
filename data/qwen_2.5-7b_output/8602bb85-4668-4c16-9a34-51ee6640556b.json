@@ -1,0 +1,988 @@
+{
+    "persons": [
+        {
+            "name": "Karim Khan",
+            "alternativeNames": [],
+            "age": -1,
+            "sex": "male",
+            "occurences": {
+                "total": 1,
+                "firstNameOnly": 0,
+                "lastNameOnly": 0,
+                "fullName": 1,
+                "nickname": 0
+            },
+            "inTitle": false,
+            "inIntro": false,
+            "_name": {
+                "firstname": "Karim",
+                "lastname": "Khan",
+                "nickname": null,
+                "alternative_names": [],
+                "academic_title": null,
+                "nobility_title_or_rank": null
+            },
+            "descriptiveTexts": [
+                {
+                    "text": "\u00bbWir k\u00f6nnen nicht zulassen, dass Kinder wie Kriegsbeute behandelt werden\u00ab, sagt Karim Khan, der Chefankl\u00e4ger."
+                }
+            ],
+            "occupations": [
+                {
+                    "text": "Chefankl\u00e4ger"
+                }
+            ],
+            "directQuotes": [
+                {
+                    "text": "Wir k\u00f6nnen nicht zulassen, dass Kinder wie Kriegsbeute behandelt werden"
+                }
+            ],
+            "quotedInTitle": false,
+            "quotedInIntro": false
+        },
+        {
+            "name": "Nikolau oder Nikolaus",
+            "alternativeNames": [
+                "Nikolaus"
+            ],
+            "age": -1,
+            "sex": "male",
+            "occurences": {
+                "total": 2,
+                "firstNameOnly": 0,
+                "lastNameOnly": 0,
+                "fullName": 1,
+                "nickname": 1
+            },
+            "inTitle": false,
+            "inIntro": false,
+            "_name": {
+                "firstname": "Nikolau",
+                "lastname": null,
+                "nickname": "Nikolaus",
+                "alternative_names": [
+                    "Nikolaus"
+                ],
+                "academic_title": null,
+                "nobility_title_or_rank": null
+            },
+            "descriptiveTexts": [],
+            "occupations": [],
+            "directQuotes": [],
+            "quotedInTitle": false,
+            "quotedInIntro": false
+        },
+        {
+            "name": "Mykola Kuleba",
+            "alternativeNames": [],
+            "age": -1,
+            "sex": "male",
+            "occurences": {
+                "total": 4,
+                "firstNameOnly": 0,
+                "lastNameOnly": 3,
+                "fullName": 1,
+                "nickname": 0
+            },
+            "inTitle": false,
+            "inIntro": false,
+            "_name": {
+                "firstname": "Mykola",
+                "lastname": "Kuleba",
+                "nickname": null,
+                "alternative_names": [],
+                "academic_title": null,
+                "nobility_title_or_rank": null
+            },
+            "descriptiveTexts": [
+                {
+                    "text": "Elf Familien wohnen hier gerade, sagt Mykola Kuleba, der Leiter des Hotels."
+                },
+                {
+                    "text": "Aus Kulebas Sicht, sagt er, seien dem Land nicht knapp 20.000 Kinder abhandengekommen, sondern mehr als 1,5 Millionen."
+                },
+                {
+                    "text": "Und Gehirnw\u00e4sche sagt er, das gebe es doch auch anderswo."
+                },
+                {
+                    "text": "Was ist mit den Kindern, die jetzt nach Deutschland gegangen sind, fragt Kuleba."
+                },
+                {
+                    "text": "Die Zeit, sagt er, arbeite gegen die Kinder."
+                },
+                {
+                    "text": "Was ihr am meisten Sorgen macht, sagt sie, sei, dass sich dieser Zustand auch in den K\u00f6pfen zeige."
+                },
+                {
+                    "text": "Hotelleiter Kuleba hat einen Jungen mitgebracht, der seine Geschichte erz\u00e4hlen soll."
+                }
+            ],
+            "occupations": [],
+            "directQuotes": [],
+            "quotedInTitle": false,
+            "quotedInIntro": false
+        },
+        {
+            "name": "Deny oder Denys",
+            "alternativeNames": [
+                "Deny"
+            ],
+            "age": 17,
+            "sex": "male",
+            "occurences": {
+                "total": 6,
+                "firstNameOnly": 0,
+                "lastNameOnly": 0,
+                "fullName": 3,
+                "nickname": 3
+            },
+            "inTitle": false,
+            "inIntro": false,
+            "_name": {
+                "firstname": "Denys",
+                "lastname": null,
+                "nickname": "Deny",
+                "alternative_names": [
+                    "Deny"
+                ],
+                "academic_title": null,
+                "nobility_title_or_rank": null
+            },
+            "descriptiveTexts": [
+                {
+                    "text": "Was er gern mache?"
+                },
+                {
+                    "text": "Schlafen, sagt er."
+                },
+                {
+                    "text": "Eine Schale mit Keksen steht vor ihm, aber er nimmt keinen."
+                },
+                {
+                    "text": "Den Anfang des Krieges habe er in Cherson miterlebt, einer Stadt im S\u00fcden des Landes."
+                },
+                {
+                    "text": "Als die russischen Besatzer im M\u00e4rz 2022 in Cherson einfielen, sagt er, habe sich nicht viel ge\u00e4ndert."
+                },
+                {
+                    "text": "Von Oktober 2022 bis Februar 2023 habe er dort gelebt."
+                },
+                {
+                    "text": "Lustig sei es gewesen, sagt er."
+                },
+                {
+                    "text": "Viel geschlafen habe er."
+                },
+                {
+                    "text": "Er spielte Karten, auf Fotos sieht man ihn, wie er gl\u00fccklich in die Kamera blickt, seine F\u00e4uste zeigt und am Robinson Beach vor den Wellen posiert."
+                },
+                {
+                    "text": "Ist er entf\u00fchrt worden?"
+                },
+                {
+                    "text": "So wie er es beschreibt, klingt es anders."
+                },
+                {
+                    "text": "Sie h\u00e4tten sich, sagt er nach einigem Z\u00f6gern, die Zeit damit vertrieben, sich mit Handt\u00fcchern zu kloppen."
+                },
+                {
+                    "text": "Irgendwann sei er nach Hause gefahren."
+                }
+            ],
+            "occupations": [
+                {
+                    "text": "Sch\u00fcler"
+                }
+            ],
+            "directQuotes": [],
+            "quotedInTitle": false,
+            "quotedInIntro": false
+        },
+        {
+            "name": "Dascha",
+            "alternativeNames": [],
+            "age": -1,
+            "sex": "female",
+            "occurences": {
+                "total": 3,
+                "firstNameOnly": 0,
+                "lastNameOnly": 0,
+                "fullName": 3,
+                "nickname": 0
+            },
+            "inTitle": false,
+            "inIntro": false,
+            "_name": {
+                "firstname": "Dascha",
+                "lastname": null,
+                "nickname": null,
+                "alternative_names": [],
+                "academic_title": null,
+                "nobility_title_or_rank": null
+            },
+            "descriptiveTexts": [
+                {
+                    "text": "\u00bbEs w\u00e4re sch\u00f6n, wenn Dascha hierherkommen w\u00fcrde\u00ab, sagt Serhij."
+                },
+                {
+                    "text": "Dascha ist seine russische Freundin, er hat sie in Waluiki kennengelernt."
+                },
+                {
+                    "text": "Er vermisse Dascha, seine russische Freundin."
+                }
+            ],
+            "occupations": [],
+            "directQuotes": [],
+            "quotedInTitle": false,
+            "quotedInIntro": false
+        },
+        {
+            "name": "Filip",
+            "alternativeNames": [],
+            "age": 16,
+            "sex": "male",
+            "occurences": {
+                "total": 4,
+                "firstNameOnly": 0,
+                "lastNameOnly": 0,
+                "fullName": 4,
+                "nickname": 0
+            },
+            "inTitle": false,
+            "inIntro": false,
+            "_name": {
+                "firstname": "Filip",
+                "lastname": null,
+                "nickname": null,
+                "alternative_names": [],
+                "academic_title": null,
+                "nobility_title_or_rank": null
+            },
+            "descriptiveTexts": [
+                {
+                    "text": "Lwowa-Belowa hat selbst einen 16-j\u00e4hrigen Sohn aus der Ukraine adoptiert, er hei\u00dft Filip."
+                },
+                {
+                    "text": "W\u00e4hrend des Fernsehauftritts im russischen Staatsfernsehen sagte der Moderator zu Filip: \u00bbIch habe vor Kurzem deine Stadt besucht. Ich wollte dir ganz ehrlich sagen, dass sie traurig und be\u00e4ngstigend ist.\u00ab"
+                },
+                {
+                    "text": "Er meint die Stadt, die von den Russen fast v\u00f6llig zerst\u00f6rt wurde."
+                },
+                {
+                    "text": "Filip erz\u00e4hlte ihm, wie er sich dort in einem Keller bei einem Onkel versteckte, der jeden Tag mehr trank."
+                },
+                {
+                    "text": "Filip trug ein wei\u00dfes T-Shirt, auf dem \u00bbGet off\u00ab stand und sagte \u00fcber Lwowa-Belowa: \u00bbIch glaube, ich geh\u00f6re jetzt mehr oder weniger zur Familie.\u00ab"
+                }
+            ],
+            "occupations": [],
+            "directQuotes": [],
+            "quotedInTitle": false,
+            "quotedInIntro": false
+        },
+        {
+            "name": "Belowa",
+            "alternativeNames": [
+                "Marija Lwowa-Belowa"
+            ],
+            "age": -1,
+            "sex": "female",
+            "occurences": {
+                "total": 18,
+                "firstNameOnly": 4,
+                "lastNameOnly": 10,
+                "fullName": 4,
+                "nickname": 0
+            },
+            "inTitle": false,
+            "inIntro": false,
+            "_name": {
+                "firstname": "Marija",
+                "lastname": "Belowa",
+                "nickname": null,
+                "alternative_names": [
+                    "Marija Lwowa-Belowa"
+                ],
+                "academic_title": null,
+                "nobility_title_or_rank": null
+            },
+            "descriptiveTexts": [
+                {
+                    "text": "Und immer wieder kontaktieren Ukrainer das B\u00fcro der russischen Kinderrechtsbeauftragten Marija Lwowa-Belowa, um nachzuweisen, dass sie sorgeberechtigt sind und um ihre Kinder abzuholen."
+                },
+                {
+                    "text": "Marija Lwowa-Belowa, die Kinderrechtsbeauftragte, sagte in einem Interview, dass ihr Land die Jungen und M\u00e4dchen nicht f\u00fcr Politik benutze."
+                },
+                {
+                    "text": "Lwowa-Belowa hat selbst einen 16-j\u00e4hrigen Sohn aus der Ukraine adoptiert, er hei\u00dft Filip."
+                },
+                {
+                    "text": "\u00bbPutins Kinderdiebin\u00ab wird sie oft genannt."
+                },
+                {
+                    "text": "Der russische Pr\u00e4sident fragte sie vor laufender Kamera, ob sie ein Kind aus Mariupol adoptiert habe."
+                },
+                {
+                    "text": "\u00bbJa, Wladimir Wladimirowitsch, dank Ihnen\u00ab, antwortete Lwowa-Belowa l\u00e4chelnd."
+                },
+                {
+                    "text": "\u00bbJetzt wei\u00df ich, was es hei\u00dft, Mutter eines Kindes aus dem Donbass zu sein. Es ist kompliziert, aber wir lieben uns.\u00ab"
+                },
+                {
+                    "text": "Filip trug ein wei\u00dfes T-Shirt, auf dem \u00bbGet off\u00ab stand und sagte \u00fcber Lwowa-Belowa: \u00bbIch glaube, ich geh\u00f6re jetzt mehr oder weniger zur Familie.\u00ab"
+                },
+                {
+                    "text": "Auch gegen Marija Lwowa-Belowa hat der Internationale Strafgerichtshof einen Haftbefehl ausgestellt."
+                },
+                {
+                    "text": "Russland, sagt Putins Kinderrechtsbeauftragte Marija Lwowa-Belowa, sei durchaus bereit, Kinder mit ihren Eltern zusammenzuf\u00fchren, wenn diese sich meldeten."
+                },
+                {
+                    "text": "Und immer wieder kontaktieren Ukrainer das B\u00fcro der russischen Kinderrechtsbeauftragten Marija Lwowa-Belowa, um nachzuweisen, dass sie sorgeberechtigt sind und um ihre Kinder abzuholen."
+                },
+                {
+                    "text": "Marija Lwowa-Belowa, die Kinderrechtsbeauftragte, sagte in einem Interview, dass ihr Land die Jungen und M\u00e4dchen nicht f\u00fcr Politik benutze."
+                },
+                {
+                    "text": "Lwowa-Belowa hat selbst einen 16-j\u00e4hrigen Sohn aus der Ukraine adoptiert, er hei\u00dft Filip."
+                },
+                {
+                    "text": "\u00bbPutins Kinderdiebin\u00ab wird sie oft genannt."
+                },
+                {
+                    "text": "Der russische Pr\u00e4sident fragte sie vor laufender Kamera, ob sie ein Kind aus Mariupol adoptiert habe."
+                },
+                {
+                    "text": "\u00bbJa, Wladimir Wladimirowitsch, dank Ihnen\u00ab, antwortete Lwowa-Belowa l\u00e4chelnd."
+                },
+                {
+                    "text": "\u00bbJetzt wei\u00df ich, was es hei\u00dft, Mutter eines Kindes aus dem Donbass zu sein. Es ist kompliziert, aber wir lieben uns.\u00ab"
+                },
+                {
+                    "text": "Filip trug ein wei\u00dfes T-Shirt, auf dem \u00bbGet off\u00ab stand und sagte \u00fcber Lwowa-Belowa: \u00bbIch glaube, ich geh\u00f6re jetzt mehr oder weniger zur Familie.\u00ab"
+                },
+                {
+                    "text": "Auch gegen Marija Lwowa-Belowa hat der Internationale Strafgerichtshof einen Haftbefehl ausgestellt."
+                },
+                {
+                    "text": "Russland, sagt Putins Kinderrechtsbeauftragte Marija Lwowa-Belowa, sei durchaus bereit, Kinder mit ihren Eltern zusammenzuf\u00fchren, wenn diese sich meldeten."
+                }
+            ],
+            "occupations": [
+                {
+                    "text": "Kinderrechtsbeauftragte"
+                },
+                {
+                    "text": "Mutter eines Kindes aus dem Donbass"
+                },
+                {
+                    "text": "Kinderrechtsbeauftragte"
+                },
+                {
+                    "text": "Putins Kinderdiebin"
+                }
+            ],
+            "directQuotes": [
+                {
+                    "text": "Putins Kinderdiebin"
+                }
+            ],
+            "quotedInTitle": false,
+            "quotedInIntro": false
+        },
+        {
+            "name": "Darija Herasymchuk",
+            "alternativeNames": [],
+            "age": -1,
+            "sex": "female",
+            "occurences": {
+                "total": 1,
+                "firstNameOnly": 0,
+                "lastNameOnly": 0,
+                "fullName": 1,
+                "nickname": 0
+            },
+            "inTitle": false,
+            "inIntro": false,
+            "_name": {
+                "firstname": "Darija",
+                "lastname": "Herasymchuk",
+                "nickname": null,
+                "alternative_names": [],
+                "academic_title": null,
+                "nobility_title_or_rank": null
+            },
+            "descriptiveTexts": [
+                {
+                    "text": "Bei einem Treffen mit dem SPIEGEL sagt die ukrainische Kommissarin f\u00fcr Kinderrechte Darija Herasymchuk: \u00bbEs ist unm\u00f6glich zu wissen, wie viele Kinder genau deportiert wurden.\u00ab"
+                }
+            ],
+            "occupations": [
+                {
+                    "text": "Kommissarin f\u00fcr Kinderrechte"
+                }
+            ],
+            "directQuotes": [
+                {
+                    "text": "Danke, dass du meine Schwester und mich aus der Schei\u00dfe geholt hast. Ich entschuldige mich f\u00fcr alles."
+                }
+            ],
+            "quotedInTitle": false,
+            "quotedInIntro": false
+        },
+        {
+            "name": "Mike Pence",
+            "alternativeNames": [],
+            "age": -1,
+            "sex": "male",
+            "occurences": {
+                "total": 1,
+                "firstNameOnly": 0,
+                "lastNameOnly": 0,
+                "fullName": 1,
+                "nickname": 0
+            },
+            "inTitle": false,
+            "inIntro": false,
+            "_name": {
+                "firstname": "Mike",
+                "lastname": "Pence",
+                "nickname": null,
+                "alternative_names": [],
+                "academic_title": null,
+                "nobility_title_or_rank": null
+            },
+            "descriptiveTexts": [
+                {
+                    "text": "\u00bbSave Ukraine\u00ab hatte in Kiew bereits einen Pressetermin organisiert, die Familie traf Olena Selenska, die Frau des ukrainischen Pr\u00e4sidenten, und machte Fotos mit Mike Pence, dem ehemaligen Vizepr\u00e4sidenten der USA, der zuf\u00e4llig in der Stadt war."
+                }
+            ],
+            "occupations": [],
+            "directQuotes": [],
+            "quotedInTitle": false,
+            "quotedInIntro": false
+        },
+        {
+            "name": "Olena Selenska",
+            "alternativeNames": [],
+            "age": -1,
+            "sex": "female",
+            "occurences": {
+                "total": 1,
+                "firstNameOnly": 0,
+                "lastNameOnly": 0,
+                "fullName": 1,
+                "nickname": 0
+            },
+            "inTitle": false,
+            "inIntro": false,
+            "_name": {
+                "firstname": "Olena",
+                "lastname": "Selenska",
+                "nickname": null,
+                "alternative_names": [],
+                "academic_title": null,
+                "nobility_title_or_rank": null
+            },
+            "descriptiveTexts": [
+                {
+                    "text": "\u00bbSave Ukraine\u00ab hatte in Kiew bereits einen Pressetermin organisiert, die Familie traf Olena Selenska, die Frau des ukrainischen Pr\u00e4sidenten, und machte Fotos mit Mike Pence, dem ehemaligen Vizepr\u00e4sidenten der USA, der zuf\u00e4llig in der Stadt war."
+                }
+            ],
+            "occupations": [],
+            "directQuotes": [],
+            "quotedInTitle": false,
+            "quotedInIntro": false
+        },
+        {
+            "name": "Tiberiu oder Tiberius",
+            "alternativeNames": [
+                "Tiberius"
+            ],
+            "age": -1,
+            "sex": "male",
+            "occurences": {
+                "total": 2,
+                "firstNameOnly": 0,
+                "lastNameOnly": 0,
+                "fullName": 1,
+                "nickname": 1
+            },
+            "inTitle": false,
+            "inIntro": false,
+            "_name": {
+                "firstname": "Tiberiu",
+                "lastname": null,
+                "nickname": "Tiberius",
+                "alternative_names": [
+                    "Tiberius"
+                ],
+                "academic_title": null,
+                "nobility_title_or_rank": null
+            },
+            "descriptiveTexts": [],
+            "occupations": [
+                {
+                    "text": "Heerf\u00fchrer"
+                }
+            ],
+            "directQuotes": [],
+            "quotedInTitle": false,
+            "quotedInIntro": false
+        },
+        {
+            "name": "Wladimir Wladimirowitsch",
+            "alternativeNames": [
+                "Wladimir Putin"
+            ],
+            "age": -1,
+            "sex": "male",
+            "occurences": {
+                "total": 14,
+                "firstNameOnly": 2,
+                "lastNameOnly": 8,
+                "fullName": 4,
+                "nickname": 0
+            },
+            "inTitle": false,
+            "inIntro": false,
+            "_name": {
+                "firstname": "Wladimir",
+                "lastname": "Putin",
+                "nickname": null,
+                "alternative_names": [
+                    "Wladimir Putin"
+                ],
+                "academic_title": null,
+                "nobility_title_or_rank": null
+            },
+            "descriptiveTexts": [
+                {
+                    "text": "\u00bbJa, Wladimir Wladimirowitsch, dank Ihnen\u00ab, antwortete Lwowa-Belowa l\u00e4chelnd."
+                },
+                {
+                    "text": "Deshalb ist es auch so leicht, Russlands Machthaber Wladimir Putin f\u00fcr die gestohlenen Kinder anzuklagen."
+                },
+                {
+                    "text": "Sollte er jemals festgenommen werden, droht ihm lebenslange Haft."
+                },
+                {
+                    "text": "Im Mai 2022, drei Monate nach Beginn der Invasion, unterzeichnete Wladimir Putin ein Dekret, um ukrainische Kinder schneller in Russland einb\u00fcrgern zu k\u00f6nnen."
+                }
+            ],
+            "occupations": [],
+            "directQuotes": [
+                {
+                    "text": "Ja, Wladimir Wladimirowitsch, dank Ihnen"
+                }
+            ],
+            "quotedInTitle": false,
+            "quotedInIntro": false
+        },
+        {
+            "name": "Sergej",
+            "alternativeNames": [],
+            "age": -1,
+            "sex": "male",
+            "occurences": {
+                "total": 2,
+                "firstNameOnly": 0,
+                "lastNameOnly": 0,
+                "fullName": 2,
+                "nickname": 0
+            },
+            "inTitle": false,
+            "inIntro": false,
+            "_name": {
+                "firstname": "Sergej",
+                "lastname": null,
+                "nickname": null,
+                "alternative_names": [],
+                "academic_title": null,
+                "nobility_title_or_rank": null
+            },
+            "descriptiveTexts": [
+                {
+                    "text": "Es ist noch genug da, sagt Sergej und deutet auf den Kirschkuchen"
+                },
+                {
+                    "text": "\u00bbDu meinst, von dem wir den Wellensittich haben?\u00ab"
+                },
+                {
+                    "text": "\u00bbJa, zum Gl\u00fcck ist er in die Luft gesprengt worden.\u00ab"
+                },
+                {
+                    "text": "Es ist noch genug da, sagt Sergej und deutet auf den Kirschkuchen."
+                }
+            ],
+            "occupations": [],
+            "directQuotes": [],
+            "quotedInTitle": false,
+            "quotedInIntro": false
+        },
+        {
+            "name": "Butscha",
+            "alternativeNames": [],
+            "age": -1,
+            "sex": "unknown",
+            "occurences": {
+                "total": 1,
+                "firstNameOnly": 0,
+                "lastNameOnly": 0,
+                "fullName": 1,
+                "nickname": 0
+            },
+            "inTitle": false,
+            "inIntro": false,
+            "_name": {
+                "firstname": "Butscha",
+                "lastname": null,
+                "nickname": null,
+                "alternative_names": [],
+                "academic_title": null,
+                "nobility_title_or_rank": null
+            },
+            "descriptiveTexts": [
+                {
+                    "text": "W\u00e4hrend Russland etwa das Massaker von Butscha leugnet und als inszeniert darstellt, werden die gestohlenen Kinder sogar im russischen Staatsfernsehen gezeigt, zu Propagandazwecken."
+                }
+            ],
+            "occupations": [],
+            "directQuotes": [],
+            "quotedInTitle": false,
+            "quotedInIntro": false
+        },
+        {
+            "name": "Serhijs Idol",
+            "alternativeNames": [
+                "Artjom Dsjuba"
+            ],
+            "age": -1,
+            "sex": "male",
+            "occurences": {
+                "total": 3,
+                "firstNameOnly": 0,
+                "lastNameOnly": 1,
+                "fullName": 2,
+                "nickname": 0
+            },
+            "inTitle": false,
+            "inIntro": false,
+            "_name": {
+                "firstname": "Artjom",
+                "lastname": null,
+                "nickname": null,
+                "alternative_names": [
+                    "Artjom Dsjuba"
+                ],
+                "academic_title": null,
+                "nobility_title_or_rank": null
+            },
+            "descriptiveTexts": [
+                {
+                    "text": "Er war 16, als russische Soldaten in sein Dorf kamen und ihn gegen den Willen seiner Eltern mitnahmen."
+                },
+                {
+                    "text": "Und er will erz\u00e4hlen, wie es ist, wenn das Kind vom Feind nach Hause zur\u00fcckkehrt, wenn es dann anders spricht und anders denkt."
+                },
+                {
+                    "text": "Er fragt sich: Ist es noch dasselbe Kind?"
+                },
+                {
+                    "text": "Er kann aus beiden Welten erz\u00e4hlen, und von einer anderen Front in diesem Krieg."
+                },
+                {
+                    "text": "\u00bbEin Mann\u00ab, sagt der Vater, \u00bbin Russland ist er erwachsen geworden.\u00ab"
+                },
+                {
+                    "text": "Serhij runzelt die Stirn, dann nickt er."
+                },
+                {
+                    "text": "Die Soldaten, sagt Sansyn, h\u00e4tten seinem Sohn von Russland erz\u00e4hlt, dass er dort ber\u00fchmt werden k\u00f6nne, dass es dort gro\u00dfe Fu\u00dfballklubs g\u00e4be."
+                },
+                {
+                    "text": "Er sei doch schon gro\u00df, Talent auf dem Fu\u00dfballplatz habe er, einen Mann k\u00f6nnten sie aus ihm machen."
+                },
+                {
+                    "text": "Er w\u00fcrde Geld bekommen, ein Haus."
+                },
+                {
+                    "text": "Serhij, damals 16 Jahre alt, war fasziniert von den Versprechen und den Geschichten der Soldaten, so erz\u00e4hlt er es sp\u00e4ter, fasziniert auch von einem Nachbarland, das in seinen Tr\u00e4umen heller strahlte als die Gegenwart in Welykyj Burluk."
+                },
+                {
+                    "text": "Er wollte gehen."
+                },
+                {
+                    "text": "Oder wurde er verf\u00fchrt?"
+                },
+                {
+                    "text": "Der Tag, als Serhij nach Russland gebracht wurde, im August 2022, habe sich angef\u00fchlt wie ein Ferienausflug, sagt er."
+                },
+                {
+                    "text": "Er packte seine Sachen, M\u00e4nner in Uniform kamen auf ihn zu, setzten ihn in ein Auto und fuhren los."
+                },
+                {
+                    "text": "Zwei Stunden sp\u00e4ter war er in der Stadt Waluiki, keine 30 Kilometer hinter der Grenze, gegr\u00fcndet einst als Festung am s\u00fcdlichen Zipfel des russischen Reiches."
+                },
+                {
+                    "text": "Es seien noch zehn andere Jungen bei ihm gewesen, aber er habe keinen von ihnen gekannt."
+                },
+                {
+                    "text": "Immerhin konnte er Fu\u00dfball spielen."
+                },
+                {
+                    "text": "Ihr Sohn war keine hundert Kilometer von ihrem Haus entfernt, mit dem Auto h\u00e4tte man ihn in zwei Stunden erreicht, aber es f\u00fchlte sich an, als sei er in einer anderen Welt."
+                },
+                {
+                    "text": "Serhij wollte weg von zu Hause, er wollte Fu\u00dfballprofi werden, und er war sogar bereit, seine Vergangenheit, seine Familie daf\u00fcr aufzugeben."
+                },
+                {
+                    "text": "Seine letzte Nachricht an seinen Vater, auf Russisch, beschreibt, wie der ihn mit drei Jahren adoptiert hat: \u00bbDanke, dass du meine Schwester und mich aus der Schei\u00dfe geholt hast. Ich entschuldige mich f\u00fcr alles.\u00ab"
+                },
+                {
+                    "text": "Serhij, der Fu\u00dfballer, der Sohn Sansyns aus Welykyj Burluk, lebte in Russland in einem Wohnheim, so beschreibt er es."
+                },
+                {
+                    "text": "Von 8 bis 15 Uhr hatte er Unterricht, machte eine Ausbildung zum Kfz-Mechaniker, montierte Automotoren, lernte Geschichte, Mathematik, Physik."
+                },
+                {
+                    "text": "Nachmittags spielte er Fu\u00dfball in Waluiki, das Stadion fand er cool."
+                },
+                {
+                    "text": "\u00bbEs kam mir wie etwas Neues vor, etwas Ungew\u00f6hnliches\u00ab, sagt er."
+                },
+                {
+                    "text": "F\u00fcnf Stunden wurde er dort verh\u00f6rt, dann konnte er passieren, so erz\u00e4hlt er es."
+                },
+                {
+                    "text": "Zuerst rief er seine Eltern an, die ihn wenig sp\u00e4ter in Kiew in Empfang nahmen."
+                },
+                {
+                    "text": "Er ist ein Mann geworden, sagt der Vater."
+                },
+                {
+                    "text": "Die Ermittler des Internationalen Strafgerichtshofs, die in der Ukraine die Entf\u00fchrungen dokumentieren, haben Serhij tagelang interviewt, er hat ihnen von seiner Zeit in Russland berichtet und von den Schwierigkeiten seiner R\u00fcckkehr."
+                },
+                {
+                    "text": "Warum ist er zur\u00fcckgekommen?"
+                },
+                {
+                    "text": "\u00bbDie Familie\u00ab, sagt der Sohn, \u00bbam Ende habe ich eingesehen, dass die Familie wichtiger ist.\u00ab"
+                },
+                {
+                    "text": "Er ist wieder zur\u00fcck in Welykyj Burluk, dem gro\u00dfen Sumpf."
+                },
+                {
+                    "text": "Und man wei\u00df nicht, ob er es gut findet."
+                },
+                {
+                    "text": "Dascha ist seine russische Freundin, er hat sie in Waluiki kennengelernt."
+                },
+                {
+                    "text": "\u00bbVielleicht ja n\u00e4chstes Jahr\u00ab, sagt der Vater, \u00bbdann kann sie uns besuchen kommen.\u00ab"
+                },
+                {
+                    "text": "Wie er Artjom Dsjuba kennengelernt hat, den Fu\u00dfballspieler und St\u00fcrmer vom Klub Lokomotive Moskau."
+                },
+                {
+                    "text": "Dsjuba ist Serhijs Idol, ein Rekordtorsch\u00fctze, der sich f\u00fcr Stra\u00dfenhunde einsetzt und den Krieg gegen die Ukraine unterst\u00fctzt."
+                },
+                {
+                    "text": "Er zeigt Fotos von sich am Wasser, vor russischen Statuen, mit seiner Freundin, die ihn umarmt."
+                },
+                {
+                    "text": "Es ist unklar, wo er jetzt lieber w\u00e4re."
+                },
+                {
+                    "text": "Serhij sagt am Telefon, er spiele jetzt wieder Fu\u00dfball."
+                },
+                {
+                    "text": "Er vermisse Dascha, seine russische Freundin."
+                },
+                {
+                    "text": "Er schreibe ihr jeden Tag."
+                },
+                {
+                    "text": "Wenn er 18 sei und nicht mehr die Erlaubnis seiner Eltern braucht, um nach Russland zu gehen, will er sie treffen."
+                },
+                {
+                    "text": "Serhij tr\u00e4umt davon, dass der Krieg endet und er dann in der ukrainischen Fu\u00dfballliga spielt."
+                },
+                {
+                    "text": "Wie er Artjom Dsjuba kennengelernt hat, den Fu\u00dfballspieler und St\u00fcrmer vom Klub Lokomotive Moskau."
+                },
+                {
+                    "text": "Dsjuba ist Serhijs Idol, ein Rekordtorsch\u00fctze, der sich f\u00fcr Stra\u00dfenhunde einsetzt und den Krieg gegen die Ukraine unterst\u00fctzt."
+                }
+            ],
+            "occupations": [
+                {
+                    "text": "St\u00fcrmer"
+                },
+                {
+                    "text": "Idol"
+                }
+            ],
+            "directQuotes": [
+                {
+                    "text": "Wir waren gl\u00fccklich hier."
+                },
+                {
+                    "text": "Jetzt wei\u00df ich, was es hei\u00dft, Mutter eines Kindes aus dem Donbass zu sein. Es ist kompliziert, aber wir lieben uns."
+                }
+            ],
+            "quotedInTitle": false,
+            "quotedInIntro": false
+        },
+        {
+            "name": "Halyna",
+            "alternativeNames": [],
+            "age": -1,
+            "sex": "female",
+            "occurences": {
+                "total": 1,
+                "firstNameOnly": 0,
+                "lastNameOnly": 0,
+                "fullName": 1,
+                "nickname": 0
+            },
+            "inTitle": false,
+            "inIntro": false,
+            "_name": {
+                "firstname": "Halyna",
+                "lastname": null,
+                "nickname": null,
+                "alternative_names": [],
+                "academic_title": null,
+                "nobility_title_or_rank": null
+            },
+            "descriptiveTexts": [
+                {
+                    "text": "Wolodymyr Sansyns Blick im Wohnzimmer geht zur Wand, dort h\u00e4ngt ein Bild von ihm und seiner Frau Halyna, wie sie tanzen."
+                }
+            ],
+            "occupations": [],
+            "directQuotes": [
+                {
+                    "text": "Bleib hier"
+                }
+            ],
+            "quotedInTitle": false,
+            "quotedInIntro": false
+        },
+        {
+            "name": "Wolodymyr Selenskyj",
+            "alternativeNames": [],
+            "age": -1,
+            "sex": "male",
+            "occurences": {
+                "total": 11,
+                "firstNameOnly": 9,
+                "lastNameOnly": 1,
+                "fullName": 1,
+                "nickname": 0
+            },
+            "inTitle": false,
+            "inIntro": false,
+            "_name": {
+                "firstname": "Wolodymyr",
+                "lastname": "Selenskyj",
+                "nickname": null,
+                "alternative_names": [],
+                "academic_title": null,
+                "nobility_title_or_rank": null
+            },
+            "descriptiveTexts": [
+                {
+                    "text": "Unweit der russischen Grenze wartet Wolodymyr Sansyn und will erz\u00e4hlen, wie es ist, wenn man ein Kind an den Feind verliert."
+                },
+                {
+                    "text": "Die Ortschaft von Wolodymyr Sansyn und seiner Familie liegt an einem Nebenfluss des Donezk, ganz im Osten des Landes, sie hat 4000 Einwohner und hei\u00dft Welykyj Burluk, was auf Ukrainisch so viel bedeutet wie: gro\u00dfer Sumpf."
+                },
+                {
+                    "text": "Wer hier Gast ist, sagt Wolodymyr Sansyn, der wird willkommen gehei\u00dfen."
+                },
+                {
+                    "text": "Er f\u00fchrt in das kleine, wei\u00df get\u00fcnchte Haus unter einem Wellblechdach."
+                },
+                {
+                    "text": "\u00bbAuch wir haben einmal Deutschland besetzt\u00ab, sagt er."
+                },
+                {
+                    "text": "Als junger Mann war er zwei Jahre in einer Kaserne in Brandenburg stationiert, in den Achtzigerjahren."
+                },
+                {
+                    "text": "\u00bbEs tut mir leid\u00ab, sagt er."
+                },
+                {
+                    "text": "Er sagt, er habe zwei eigene Kinder, aber nach ihrer Geburt h\u00e4tten er und seine Frau beschlossen, noch mehr Kinder aufzuziehen."
+                },
+                {
+                    "text": "Im Sommer 2022 sprach Selenskyj von 200.000 \u00bbverlorenen\u00ab Kindern, man wisse nicht, ob sie noch am Leben seien, in den besetzten Gebieten wohnten oder nach Russland gebracht wurden."
+                },
+                {
+                    "text": "Wolodymyr Sansyns Blick im Wohnzimmer geht zur Wand, dort h\u00e4ngt ein Bild von ihm und seiner Frau Halyna, wie sie tanzen."
+                },
+                {
+                    "text": "Die schlimmste Geschichte, die Wolodymyr Sansyn aus der Besatzungszeit erz\u00e4hlen kann: Einmal seien sie von einem Russen angehalten worden, auf dem Weg zum Schwimmen."
+                },
+                {
+                    "text": "Gehirnw\u00e4sche, sagt er."
+                },
+                {
+                    "text": "Wolodymyr Sansyn und seine Frau h\u00f6rten in den folgenden Monaten wenig von Serhij."
+                },
+                {
+                    "text": "Wolodymyr Sansyn geht nach drau\u00dfen in seinen Garten, setzt sich auf die Bank unter den Apfelbaum und erz\u00e4hlt, wie er nach Monaten der Stille pl\u00f6tzlich Nachrichten von seinem Sohn per Telegram bekam."
+                },
+                {
+                    "text": "Dass er seine Geschwister vermisse, den Fluss, das Haus, den Garten."
+                },
+                {
+                    "text": "Dass er hin- und hergerissen sei zwischen dem einen Land und dem anderen."
+                },
+                {
+                    "text": "Dass er merke, wie er immer der Ukrainer in Russland bleiben w\u00fcrde."
+                },
+                {
+                    "text": "Er legt ihm die Hand auf die Schulter."
+                },
+                {
+                    "text": "Wolodymyr Sansyn l\u00e4dt die Sozialarbeiter und die Besucher zur Kaffeetafel mit der gro\u00dfen Familie."
+                },
+                {
+                    "text": "Der ukrainische Pr\u00e4sident Wolodymyr Selenskyj k\u00e4mpft immer verzweifelter um Aufmerksamkeit f\u00fcr sein Land."
+                },
+                {
+                    "text": "Er braucht Fortschritte, und wenn der Erfolg an der Front ausbleibt, dann werden die Geschichten der Opfer des Krieges wichtiger, die Geschichten der gestohlenen Kinder."
+                },
+                {
+                    "text": "Er schenkt zum Abschied Honig, lauscht noch einmal und sagt l\u00e4chelnd: \u00bbKeine Angst, das sind unsere.\u00ab"
+                },
+                {
+                    "text": "Er erz\u00e4hlt, dass seine Familie bis auf ihn den Ort verlassen habe, sie seien nach Poltawa gezogen, in die Zentralukraine."
+                },
+                {
+                    "text": "Er vermutet inzwischen, dass es gar nicht seine Familie war, die seinen Sohn zur\u00fcck in die Ukraine gebracht habe."
+                },
+                {
+                    "text": "\u00bbVielleicht\u00ab, sagt er, \u00bbhat er in Russland etwas ausgefressen.\u00ab"
+                },
+                {
+                    "text": "Sansyn hat den Verdacht, dass Serhij nicht zur\u00fcckkam, weil er wollte, sondern weil er musste."
+                },
+                {
+                    "text": "\u00bbHier sind die Gr\u00e4ber meiner Eltern\u00ab, sagt Wolodymyr Sansyn, \u00bbdas ist mein Land.\u00ab"
+                }
+            ],
+            "occupations": [],
+            "directQuotes": [
+                {
+                    "text": "Ich habe vor Kurzem deine Stadt besucht. Ich wollte dir ganz ehrlich sagen, dass sie traurig und be\u00e4ngstigend ist."
+                }
+            ],
+            "quotedInTitle": false,
+            "quotedInIntro": false
+        }
+    ]
+}

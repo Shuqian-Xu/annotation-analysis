@@ -1,0 +1,257 @@
+{
+    "persons": [
+        {
+            "name": "Martin Hikel",
+            "alternativeNames": [],
+            "age": -1,
+            "sex": "male",
+            "occurences": {
+                "total": 8,
+                "firstNameOnly": 0,
+                "lastNameOnly": 6,
+                "fullName": 2,
+                "nickname": 0
+            },
+            "inTitle": false,
+            "inIntro": false,
+            "_name": {
+                "firstname": "Martin",
+                "lastname": "Hikel",
+                "nickname": null,
+                "alternative_names": [],
+                "academic_title": null,
+                "nobility_title_or_rank": null
+            },
+            "descriptiveTexts": [
+                {
+                    "text": "\u00bbHier riecht es aber komisch\u00ab, sagt Martin Hikel, Bezirksb\u00fcrgermeister von Neuk\u00f6lln, als er in den Keller der Villa hinabsteigt."
+                },
+                {
+                    "text": "\u00bbDas hier ist ganz h\u00fcbsch gemacht\u00ab, sagt Hikel und zeigt auf eine Wand, in die viele bunte Steine eingelassen sind."
+                },
+                {
+                    "text": "An einem regnerischen Montag inspiziert er zum ersten Mal selbst das Innere der Villa."
+                },
+                {
+                    "text": "Er tr\u00e4gt zum Besichtigungstermin ein Sakko und seinen Stolz im Gesicht: \u00bbGenau wegen der Geschichte der Villa wollen wir hier jetzt was Soziales machen, vielleicht eine Kita oder einen Jugendtreff\u00ab, k\u00fcndigt er an."
+                },
+                {
+                    "text": "Das Haus hat 168 Quadratmeter Wohnfl\u00e4che, acht Zimmer, und Martin Hikel kann nun daf\u00fcr sorgen, dass hier eine neue Geschichte beginnt."
+                },
+                {
+                    "text": "Schlie\u00dflich wurde dem Bezirksamt Neuk\u00f6lln die Verwaltung der Immobilie \u00fcbertragen, also letztlich Hikel."
+                },
+                {
+                    "text": "\u00bbMeine Freude hielt sich in Grenzen\u00ab, sagt Hikel."
+                },
+                {
+                    "text": "Einem \u00bbwachen\u00ab Mitarbeiter im Bezirksamt sei das aufgefallen, erz\u00e4hlt Hikel."
+                },
+                {
+                    "text": "Das meiste sei wohl wertlos, sagt Hikel."
+                },
+                {
+                    "text": "Am Ende seines Rundgangs schlie\u00dft Hikel das Tor zur Villa und damit auch das Kapitel der Clanvilla."
+                }
+            ],
+            "occupations": [
+                {
+                    "text": "Bezirksb\u00fcrgermeister von Neuk\u00f6lln"
+                }
+            ],
+            "directQuotes": [
+                {
+                    "text": "Hier riecht es aber komisch"
+                },
+                {
+                    "text": "Das hier ist ganz h\u00fcbsch gemacht"
+                },
+                {
+                    "text": "Genau wegen der Geschichte der Villa wollen wir hier jetzt was Soziales machen, vielleicht eine Kita oder einen Jugendtreff"
+                },
+                {
+                    "text": "Meine Freude hielt sich in Grenzen"
+                }
+            ],
+            "quotedInTitle": false,
+            "quotedInIntro": false
+        },
+        {
+            "name": "Issa Rammo",
+            "alternativeNames": [],
+            "age": -1,
+            "sex": "male",
+            "occurences": {
+                "total": 21,
+                "firstNameOnly": 0,
+                "lastNameOnly": 17,
+                "fullName": 4,
+                "nickname": 0
+            },
+            "inTitle": false,
+            "inIntro": true,
+            "_name": {
+                "firstname": "Issa",
+                "lastname": "Rammo",
+                "nickname": null,
+                "alternative_names": [],
+                "academic_title": null,
+                "nobility_title_or_rank": null
+            },
+            "descriptiveTexts": [
+                {
+                    "text": "Die z\u00e4he Auseinandersetzung um das Haus ist beendet: 130 Polizisten r\u00e4umten das Haus im Berliner Stadtteil Neuk\u00f6lln, die Rammos sind weg."
+                },
+                {
+                    "text": "\u00bbDas ist das Eau de Rammo\u00ab, sagt sein Mitarbeiter."
+                },
+                {
+                    "text": "Die Rammos."
+                },
+                {
+                    "text": "Fest steht: Die Familie Rammo kam vor mehreren Jahrzehnten nach Deutschland."
+                },
+                {
+                    "text": "Nun sind die Rammos weg."
+                },
+                {
+                    "text": "Kann man in der ger\u00e4umten Villa etwas erfahren dar\u00fcber, wie m\u00e4chtig oder reich sie wirklich sind?"
+                },
+                {
+                    "text": "Die alte dreht sich auch um einen Schuldschein: \u00bbHier mit Best\u00e4tige ich ISSA Rammo \u2026 Das ich Ali O. 128.000 \u20ac zur\u00fcck zahlen muss.\u00ab"
+                },
+                {
+                    "text": "Ein Sohn von Issa Rammo kaufte im selben Jahr die Villa \u2013 und zwar von der landeseigenen Wohnungsbaugesellschaft Stadt und Land."
+                },
+                {
+                    "text": "Rammo und er sollen sich gestritten haben."
+                },
+                {
+                    "text": "2019 verhandelte das Landgericht Berlin gegen einen der S\u00f6hne von Issa Rammo."
+                },
+                {
+                    "text": "Aus Mangel an Beweisen wurde er freigesprochen."
+                },
+                {
+                    "text": "Das Land als Vermieter f\u00fcr die Familie Rammo"
+                },
+                {
+                    "text": "Im Jahr 2018 beschlagnahmte die Berliner Justiz 77 Immobilien der Familie Rammo, darunter die Villa im Bezirk Neuk\u00f6lln."
+                },
+                {
+                    "text": "Die Familie Rammo musste nun dokumentieren, mit welchem Geld sie die Immobilie gekauft hatte."
+                },
+                {
+                    "text": "Der Jubel war gro\u00df, dass man die Rammos getroffen hatte."
+                },
+                {
+                    "text": "Die Rammos blieben in der Villa wohnen."
+                },
+                {
+                    "text": "Laut Bezirksamt pr\u00e4sentierten sie einen Mietvertrag, der auf die Mutter von Issa Rammo ausgestellt war."
+                },
+                {
+                    "text": "Die Rammos sollen noch einen zweiten Mietvertrag geschickt haben, der auch den zweiten Teil der Immobilie umfasste."
+                },
+                {
+                    "text": "Allerdings schickten sie den Vertrag auf einem Vordruck, den es 2016 wohl noch nicht gab, sondern erst sp\u00e4ter."
+                },
+                {
+                    "text": "Das bot die Gelegenheit, die Rammos loszuwerden."
+                },
+                {
+                    "text": "Die Geschichte der Rammo-Villa endete vorerst mit einem Feuerwerk."
+                },
+                {
+                    "text": "Einen Tag vor der R\u00e4umung sollen die Rammos es in die Luft geschossen haben."
+                },
+                {
+                    "text": "Die Familie Rammo hinterl\u00e4sst Verw\u00fcstung"
+                },
+                {
+                    "text": "Eine frei stehende Badewanne im ersten Stock haben die Rammos mitgenommen."
+                },
+                {
+                    "text": "Die B\u00f6den im gro\u00dfen Wohnzimmer haben sie herausgerissen."
+                }
+            ],
+            "occupations": [],
+            "directQuotes": [],
+            "quotedInTitle": false,
+            "quotedInIntro": true
+        },
+        {
+            "name": "E.T.A Hoffmann",
+            "alternativeNames": [],
+            "age": -1,
+            "sex": "male",
+            "occurences": {
+                "total": 1,
+                "firstNameOnly": 0,
+                "lastNameOnly": 0,
+                "fullName": 1,
+                "nickname": 0
+            },
+            "inTitle": false,
+            "inIntro": false,
+            "_name": {
+                "firstname": "E.T.A",
+                "lastname": "Hoffmann",
+                "nickname": null,
+                "alternative_names": [],
+                "academic_title": null,
+                "nobility_title_or_rank": null
+            },
+            "descriptiveTexts": [
+                {
+                    "text": "\u00bbDas Fr\u00e4ulein von Scuderi\u00ab von E.T.A Hoffmann gilt als eine der ersten deutschen Kriminalnovellen."
+                }
+            ],
+            "occupations": [],
+            "directQuotes": [],
+            "quotedInTitle": false,
+            "quotedInIntro": false
+        },
+        {
+            "name": "Ali O.",
+            "alternativeNames": [],
+            "age": -1,
+            "sex": "male",
+            "occurences": {
+                "total": 3,
+                "firstNameOnly": 2,
+                "lastNameOnly": 1,
+                "fullName": 0,
+                "nickname": 0
+            },
+            "inTitle": false,
+            "inIntro": false,
+            "_name": {
+                "firstname": "Ali",
+                "lastname": "O.",
+                "nickname": null,
+                "alternative_names": [],
+                "academic_title": null,
+                "nobility_title_or_rank": null
+            },
+            "descriptiveTexts": [
+                {
+                    "text": "Kann man in der ger\u00e4umten Villa etwas erfahren dar\u00fcber, wie m\u00e4chtig oder reich sie wirklich sind?"
+                },
+                {
+                    "text": "Die alte dreht sich auch um einen Schuldschein: \u00bbHier mit Best\u00e4tige ich ISSA Rammo \u2026 Das ich Ali O. 128.000 \u20ac zur\u00fcck zahlen muss.\u00ab"
+                },
+                {
+                    "text": "Der Zettel wurde sp\u00e4ter bei Ali O. gefunden, als dieser tot auf dem Gehweg lag."
+                },
+                {
+                    "text": "Rammo und er sollen sich gestritten haben."
+                }
+            ],
+            "occupations": [],
+            "directQuotes": [],
+            "quotedInTitle": false,
+            "quotedInIntro": false
+        }
+    ]
+}

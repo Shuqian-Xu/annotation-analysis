@@ -1,0 +1,618 @@
+{
+    "persons": [
+        {
+            "name": "Arvind Krishna",
+            "alternativeNames": [],
+            "age": -1,
+            "sex": "male",
+            "occurences": {
+                "total": 1,
+                "firstNameOnly": 0,
+                "lastNameOnly": 0,
+                "fullName": 1,
+                "nickname": 0
+            },
+            "inTitle": false,
+            "inIntro": false,
+            "_name": {
+                "firstname": "Arvind",
+                "lastname": "Krishna",
+                "nickname": null,
+                "alternative_names": [],
+                "academic_title": null,
+                "nobility_title_or_rank": null
+            },
+            "descriptiveTexts": [
+                {
+                    "text": "IBM-Chef Arvind Krishna will in den n\u00e4chsten f\u00fcnf Jahren allein im Personalressort rund ein Drittel der Jobs durch KI ersetzen."
+                }
+            ],
+            "occupations": [],
+            "directQuotes": [],
+            "quotedInTitle": false,
+            "quotedInIntro": false
+        },
+        {
+            "name": "Hildegard Wortmann",
+            "alternativeNames": [],
+            "age": -1,
+            "sex": "female",
+            "occurences": {
+                "total": 1,
+                "firstNameOnly": 0,
+                "lastNameOnly": 0,
+                "fullName": 1,
+                "nickname": 0
+            },
+            "inTitle": false,
+            "inIntro": false,
+            "_name": {
+                "firstname": "Hildegard",
+                "lastname": "Wortmann",
+                "nickname": null,
+                "alternative_names": [],
+                "academic_title": null,
+                "nobility_title_or_rank": null
+            },
+            "descriptiveTexts": [
+                {
+                    "text": "Vertriebsvorst\u00e4ndin Hildegard Wortmann nimmt daf\u00fcr auch den massiven Unmut ihrer H\u00e4ndler in Kauf."
+                }
+            ],
+            "occupations": [],
+            "directQuotes": [
+                {
+                    "text": "Sorry, du gehst leer aus"
+                }
+            ],
+            "quotedInTitle": false,
+            "quotedInIntro": false
+        },
+        {
+            "name": "Dietmar Palan",
+            "alternativeNames": [],
+            "age": -1,
+            "sex": "male",
+            "occurences": {
+                "total": 1,
+                "firstNameOnly": 0,
+                "lastNameOnly": 0,
+                "fullName": 1,
+                "nickname": 0
+            },
+            "inTitle": false,
+            "inIntro": false,
+            "_name": {
+                "firstname": "Dietmar",
+                "lastname": "Palan",
+                "nickname": null,
+                "alternative_names": [],
+                "academic_title": null,
+                "nobility_title_or_rank": null
+            },
+            "descriptiveTexts": [
+                {
+                    "text": "Dabei sei der Gastgeber Becker eigentlich gar keiner, \"der f\u00fcr das Bad in der Menge geschaffen ist\", meint mein Kollege Dietmar Palan, der weitere Details zum Programm hat."
+                }
+            ],
+            "occupations": [],
+            "directQuotes": [
+                {
+                    "text": "der f\u00fcr das Bad in der Menge geschaffen ist"
+                }
+            ],
+            "quotedInTitle": false,
+            "quotedInIntro": false
+        },
+        {
+            "name": "Barack Obama",
+            "alternativeNames": [],
+            "age": -1,
+            "sex": "male",
+            "occurences": {
+                "total": 1,
+                "firstNameOnly": 0,
+                "lastNameOnly": 0,
+                "fullName": 1,
+                "nickname": 0
+            },
+            "inTitle": false,
+            "inIntro": false,
+            "_name": {
+                "firstname": "Barack",
+                "lastname": "Obama",
+                "nickname": null,
+                "alternative_names": [],
+                "academic_title": null,
+                "nobility_title_or_rank": null
+            },
+            "descriptiveTexts": [
+                {
+                    "text": "Wie weit das tragen kann, zeigt der Fall Barack Obama: Der \u00fcber viele Jahre umjubelte Ex-US-Pr\u00e4sident bezeichnet sich selbst als introvertiert."
+                },
+                {
+                    "text": "Die n\u00f6tigen Ruher\u00e4ume hat er sich immer konsequent geschaffen."
+                }
+            ],
+            "occupations": [
+                {
+                    "text": "\u00fcber viele Jahre umjubelte Ex-US-Pr\u00e4sident"
+                }
+            ],
+            "directQuotes": [],
+            "quotedInTitle": false,
+            "quotedInIntro": false
+        },
+        {
+            "name": "Robbie Williams",
+            "alternativeNames": [],
+            "age": -1,
+            "sex": "male",
+            "occurences": {
+                "total": 1,
+                "firstNameOnly": 0,
+                "lastNameOnly": 0,
+                "fullName": 1,
+                "nickname": 0
+            },
+            "inTitle": false,
+            "inIntro": false,
+            "_name": {
+                "firstname": "Robbie",
+                "lastname": "Williams",
+                "nickname": null,
+                "alternative_names": [],
+                "academic_title": null,
+                "nobility_title_or_rank": null
+            },
+            "descriptiveTexts": [
+                {
+                    "text": "Stargast: Robbie Williams."
+                }
+            ],
+            "occupations": [
+                {
+                    "text": "Stargast"
+                }
+            ],
+            "directQuotes": [],
+            "quotedInTitle": false,
+            "quotedInIntro": false
+        },
+        {
+            "name": "Christian Sch\u00fctte",
+            "alternativeNames": [],
+            "age": -1,
+            "sex": "male",
+            "occurences": {
+                "total": 1,
+                "firstNameOnly": 0,
+                "lastNameOnly": 0,
+                "fullName": 1,
+                "nickname": 0
+            },
+            "inTitle": false,
+            "inIntro": false,
+            "_name": {
+                "firstname": "Christian",
+                "lastname": "Sch\u00fctte",
+                "nickname": null,
+                "alternative_names": [],
+                "academic_title": null,
+                "nobility_title_or_rank": null
+            },
+            "descriptiveTexts": [
+                {
+                    "text": "Herzlich, Ihr Christian Sch\u00fctte"
+                }
+            ],
+            "occupations": [],
+            "directQuotes": [],
+            "quotedInTitle": false,
+            "quotedInIntro": false
+        },
+        {
+            "name": "Christine Lagarde",
+            "alternativeNames": [],
+            "age": -1,
+            "sex": "female",
+            "occurences": {
+                "total": 1,
+                "firstNameOnly": 0,
+                "lastNameOnly": 0,
+                "fullName": 1,
+                "nickname": 0
+            },
+            "inTitle": false,
+            "inIntro": false,
+            "_name": {
+                "firstname": "Christine",
+                "lastname": "Lagarde",
+                "nickname": null,
+                "alternative_names": [],
+                "academic_title": null,
+                "nobility_title_or_rank": null
+            },
+            "descriptiveTexts": [
+                {
+                    "text": "Der Minir\u00fcckgang der Euro-Kerninflation im April \u2013 an diesem Dienstag vermeldet \u2013 reicht jedenfalls nicht f\u00fcr ein \"Mission Accomplished\" von EZB-Chefin Christine Lagarde."
+                }
+            ],
+            "occupations": [],
+            "directQuotes": [],
+            "quotedInTitle": false,
+            "quotedInIntro": false
+        },
+        {
+            "name": "Patrizia",
+            "alternativeNames": [],
+            "age": -1,
+            "sex": "female",
+            "occurences": {
+                "total": 3,
+                "firstNameOnly": 0,
+                "lastNameOnly": 0,
+                "fullName": 3,
+                "nickname": 0
+            },
+            "inTitle": false,
+            "inIntro": false,
+            "_name": {
+                "firstname": "Patrizia",
+                "lastname": null,
+                "nickname": null,
+                "alternative_names": [],
+                "academic_title": null,
+                "nobility_title_or_rank": null
+            },
+            "descriptiveTexts": [
+                {
+                    "text": "Jetzt ist W\u00f6hrmann wieder da: Er wird CEO des Immobilienmanagers Patrizia, den die Zinswende brutal durchsch\u00fcttelt."
+                },
+                {
+                    "text": "Der Patrizia-Gr\u00fcnder und bisherige CEO Wolfgang Egger zieht sich in den Verwaltungsrat zur\u00fcck."
+                },
+                {
+                    "text": "Aufstieg und Fall von Patrizia und die Geschichte des \u00e4u\u00dferst \u00f6ffentlichkeitsscheuen Egger hat Christoph Rottwilm erst j\u00fcngst ausf\u00fchrlich vorgestellt."
+                }
+            ],
+            "occupations": [
+                {
+                    "text": "CEO des Immobilienmanagers Patrizia"
+                }
+            ],
+            "directQuotes": [],
+            "quotedInTitle": false,
+            "quotedInIntro": false
+        },
+        {
+            "name": "Asoka W\u00f6hrmann",
+            "alternativeNames": [],
+            "age": -1,
+            "sex": "female",
+            "occurences": {
+                "total": 2,
+                "firstNameOnly": 0,
+                "lastNameOnly": 1,
+                "fullName": 1,
+                "nickname": 0
+            },
+            "inTitle": false,
+            "inIntro": false,
+            "_name": {
+                "firstname": "Asoka",
+                "lastname": "W\u00f6hrmann",
+                "nickname": null,
+                "alternative_names": [],
+                "academic_title": null,
+                "nobility_title_or_rank": null
+            },
+            "descriptiveTexts": [
+                {
+                    "text": "Zur\u00fcck im Gesch\u00e4ft: Aufstieg und Fall von Asoka W\u00f6hrmann bei der DWS waren spektakul\u00e4r."
+                },
+                {
+                    "text": "Als CEO der Fondsgesellschaft der Deutschen Bank erzeugte er ab 2018 neue Aufbruchstimmung."
+                },
+                {
+                    "text": "Wegen des \"Greenwashing\"-Skandals samt Gro\u00dfrazzia in Frankfurt musste er vor elf Monaten abrupt zur\u00fccktreten."
+                },
+                {
+                    "text": "Jetzt ist W\u00f6hrmann wieder da: Er wird CEO des Immobilienmanagers Patrizia, den die Zinswende brutal durchsch\u00fcttelt."
+                }
+            ],
+            "occupations": [
+                {
+                    "text": "CEO des Immobilienmanagers Patrizia"
+                },
+                {
+                    "text": "CEO der Fondsgesellschaft der Deutschen Bank"
+                }
+            ],
+            "directQuotes": [],
+            "quotedInTitle": false,
+            "quotedInIntro": false
+        },
+        {
+            "name": "Jamie Dimon",
+            "alternativeNames": [],
+            "age": -1,
+            "sex": "male",
+            "occurences": {
+                "total": 2,
+                "firstNameOnly": 0,
+                "lastNameOnly": 1,
+                "fullName": 1,
+                "nickname": 0
+            },
+            "inTitle": false,
+            "inIntro": false,
+            "_name": {
+                "firstname": "Jamie",
+                "lastname": "Dimon",
+                "nickname": null,
+                "alternative_names": [],
+                "academic_title": null,
+                "nobility_title_or_rank": null
+            },
+            "descriptiveTexts": [
+                {
+                    "text": "J.P.-Morgan-Chef Jamie Dimon triumphiert, denn er \u00fcbernimmt eine Bank, die bis vor Kurzem selbst noch zu den Top 15 der Branche in den USA z\u00e4hlte."
+                },
+                {
+                    "text": "Mal wieder, denn Dimon hatte schon in der Finanzkrise 2008 als Retter triumphiert."
+                }
+            ],
+            "occupations": [],
+            "directQuotes": [],
+            "quotedInTitle": false,
+            "quotedInIntro": false
+        },
+        {
+            "name": "Wolfgang Egger",
+            "alternativeNames": [],
+            "age": -1,
+            "sex": "male",
+            "occurences": {
+                "total": 2,
+                "firstNameOnly": 0,
+                "lastNameOnly": 1,
+                "fullName": 1,
+                "nickname": 0
+            },
+            "inTitle": false,
+            "inIntro": false,
+            "_name": {
+                "firstname": "Wolfgang",
+                "lastname": "Egger",
+                "nickname": null,
+                "alternative_names": [],
+                "academic_title": null,
+                "nobility_title_or_rank": null
+            },
+            "descriptiveTexts": [
+                {
+                    "text": "Der Patrizia-Gr\u00fcnder und bisherige CEO Wolfgang Egger zieht sich in den Verwaltungsrat zur\u00fcck."
+                },
+                {
+                    "text": "Aufstieg und Fall von Patrizia und die Geschichte des \u00e4u\u00dferst \u00f6ffentlichkeitsscheuen Egger hat Christoph Rottwilm erst j\u00fcngst ausf\u00fchrlich vorgestellt."
+                }
+            ],
+            "occupations": [],
+            "directQuotes": [],
+            "quotedInTitle": false,
+            "quotedInIntro": false
+        },
+        {
+            "name": "Klaus Becker",
+            "alternativeNames": [],
+            "age": -1,
+            "sex": "male",
+            "occurences": {
+                "total": 2,
+                "firstNameOnly": 0,
+                "lastNameOnly": 1,
+                "fullName": 1,
+                "nickname": 0
+            },
+            "inTitle": false,
+            "inIntro": false,
+            "_name": {
+                "firstname": "Klaus",
+                "lastname": "Becker",
+                "nickname": null,
+                "alternative_names": [],
+                "academic_title": null,
+                "nobility_title_or_rank": null
+            },
+            "descriptiveTexts": [
+                {
+                    "text": "Bevor Sie gleich extrovertiert ausgehen oder introvertiert durchatmen, hier ein kurzer Einblick in einen ganz besonderen Partyplan: Klaus Becker, der langj\u00e4hrige Deutschland-Chef der Wirtschaftspr\u00fcfer und Berater von KPMG nimmt seinen Abschied und l\u00e4dt zu einer opulenten Farewell-Feier."
+                },
+                {
+                    "text": "Dabei sei der Gastgeber Becker eigentlich gar keiner, \"der f\u00fcr das Bad in der Menge geschaffen ist\", meint mein Kollege Dietmar Palan, der weitere Details zum Programm hat."
+                }
+            ],
+            "occupations": [],
+            "directQuotes": [],
+            "quotedInTitle": false,
+            "quotedInIntro": false
+        },
+        {
+            "name": "Jonas Rest",
+            "alternativeNames": [],
+            "age": -1,
+            "sex": "male",
+            "occurences": {
+                "total": 1,
+                "firstNameOnly": 0,
+                "lastNameOnly": 0,
+                "fullName": 1,
+                "nickname": 0
+            },
+            "inTitle": false,
+            "inIntro": false,
+            "_name": {
+                "firstname": "Jonas",
+                "lastname": "Rest",
+                "nickname": null,
+                "alternative_names": [],
+                "academic_title": null,
+                "nobility_title_or_rank": null
+            },
+            "descriptiveTexts": [
+                {
+                    "text": "Bei manchen Start-ups bleibt f\u00fcr die Topleute selbst bei einem Riesenerfolg nichts \u00fcbrig, haben Christina Kyriasoglou und Jonas Rest recherchiert."
+                }
+            ],
+            "occupations": [],
+            "directQuotes": [],
+            "quotedInTitle": false,
+            "quotedInIntro": false
+        },
+        {
+            "name": "Christoph Rottwilm",
+            "alternativeNames": [],
+            "age": -1,
+            "sex": "male",
+            "occurences": {
+                "total": 3,
+                "firstNameOnly": 1,
+                "lastNameOnly": 0,
+                "fullName": 2,
+                "nickname": 0
+            },
+            "inTitle": false,
+            "inIntro": false,
+            "_name": {
+                "firstname": "Christoph",
+                "lastname": "Rottwilm",
+                "nickname": null,
+                "alternative_names": [],
+                "academic_title": null,
+                "nobility_title_or_rank": null
+            },
+            "descriptiveTexts": [
+                {
+                    "text": "Mein Kollege Christoph Rottwilm hat sich umgeh\u00f6rt und den Krisencocktail analysiert."
+                },
+                {
+                    "text": "Nun k\u00fcndigt Ingolstadt intern eine Preiserh\u00f6hung an, hat mein Kollege Christoph Seyerlein erfahren."
+                },
+                {
+                    "text": "Aufstieg und Fall von Patrizia und die Geschichte des \u00e4u\u00dferst \u00f6ffentlichkeitsscheuen Egger hat Christoph Rottwilm erst j\u00fcngst ausf\u00fchrlich vorgestellt."
+                }
+            ],
+            "occupations": [],
+            "directQuotes": [],
+            "quotedInTitle": false,
+            "quotedInIntro": false
+        },
+        {
+            "name": "Christoph Seyerlein",
+            "alternativeNames": [],
+            "age": -1,
+            "sex": "male",
+            "occurences": {
+                "total": 3,
+                "firstNameOnly": 2,
+                "lastNameOnly": 0,
+                "fullName": 1,
+                "nickname": 0
+            },
+            "inTitle": false,
+            "inIntro": false,
+            "_name": {
+                "firstname": "Christoph",
+                "lastname": "Seyerlein",
+                "nickname": null,
+                "alternative_names": [],
+                "academic_title": null,
+                "nobility_title_or_rank": null
+            },
+            "descriptiveTexts": [
+                {
+                    "text": "Mein Kollege Christoph Rottwilm hat sich umgeh\u00f6rt und den Krisencocktail analysiert."
+                },
+                {
+                    "text": "Nun k\u00fcndigt Ingolstadt intern eine Preiserh\u00f6hung an, hat mein Kollege Christoph Seyerlein erfahren."
+                },
+                {
+                    "text": "Aufstieg und Fall von Patrizia und die Geschichte des \u00e4u\u00dferst \u00f6ffentlichkeitsscheuen Egger hat Christoph Rottwilm erst j\u00fcngst ausf\u00fchrlich vorgestellt."
+                }
+            ],
+            "occupations": [],
+            "directQuotes": [],
+            "quotedInTitle": false,
+            "quotedInIntro": false
+        },
+        {
+            "name": "Kanye West",
+            "alternativeNames": [],
+            "age": -1,
+            "sex": "male",
+            "occurences": {
+                "total": 2,
+                "firstNameOnly": 1,
+                "lastNameOnly": 0,
+                "fullName": 1,
+                "nickname": 0
+            },
+            "inTitle": false,
+            "inIntro": false,
+            "_name": {
+                "firstname": "Kanye",
+                "lastname": "West",
+                "nickname": null,
+                "alternative_names": [],
+                "academic_title": null,
+                "nobility_title_or_rank": null
+            },
+            "descriptiveTexts": [
+                {
+                    "text": "\u00c4rger wegen Kanye: Die finanziell jahrelang h\u00f6chst erfolgreiche, aber am Ende untragbare Partnerschaft mit US-Rapper Kanye West beschert Adidas neuen \u00c4rger."
+                }
+            ],
+            "occupations": [
+                {
+                    "text": "US-Rapper"
+                }
+            ],
+            "directQuotes": [],
+            "quotedInTitle": false,
+            "quotedInIntro": false
+        },
+        {
+            "name": "Christina Kyriasoglou",
+            "alternativeNames": [],
+            "age": -1,
+            "sex": "female",
+            "occurences": {
+                "total": 1,
+                "firstNameOnly": 0,
+                "lastNameOnly": 0,
+                "fullName": 1,
+                "nickname": 0
+            },
+            "inTitle": false,
+            "inIntro": false,
+            "_name": {
+                "firstname": "Christina",
+                "lastname": "Kyriasoglou",
+                "nickname": null,
+                "alternative_names": [],
+                "academic_title": null,
+                "nobility_title_or_rank": null
+            },
+            "descriptiveTexts": [
+                {
+                    "text": "Bei manchen Start-ups bleibt f\u00fcr die Topleute selbst bei einem Riesenerfolg nichts \u00fcbrig, haben Christina Kyriasoglou und Jonas Rest recherchiert."
+                }
+            ],
+            "occupations": [],
+            "directQuotes": [],
+            "quotedInTitle": false,
+            "quotedInIntro": false
+        }
+    ]
+}

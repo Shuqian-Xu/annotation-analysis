@@ -1,0 +1,919 @@
+{
+    "persons": [
+        {
+            "name": "Daniel Barenboim",
+            "alternativeNames": [],
+            "age": -1,
+            "sex": "male",
+            "occurences": {
+                "total": 1,
+                "firstNameOnly": 0,
+                "lastNameOnly": 0,
+                "fullName": 1,
+                "nickname": 0
+            },
+            "inTitle": false,
+            "inIntro": false,
+            "_name": {
+                "firstname": "Daniel",
+                "lastname": "Barenboim",
+                "nickname": null,
+                "alternative_names": [],
+                "academic_title": null,
+                "nobility_title_or_rank": null
+            },
+            "descriptiveTexts": [
+                {
+                    "text": "Stardirigent Daniel Barenboim gilt als musikalisches Genie."
+                },
+                {
+                    "text": "Seine Musiker soll er in Angst versetzt haben."
+                },
+                {
+                    "text": "Er werde ungeduldig, wenn jemand nicht sein Bestes liefere, und es passiere ihm ab und zu, dass er auch vor Publikum w\u00fctend werde."
+                }
+            ],
+            "occupations": [
+                {
+                    "text": "Stardirigent"
+                }
+            ],
+            "directQuotes": [
+                {
+                    "text": "ein bisschen lateinamerikanisches Blut"
+                }
+            ],
+            "quotedInTitle": false,
+            "quotedInIntro": false
+        },
+        {
+            "name": "Peter Modler",
+            "alternativeNames": [],
+            "age": -1,
+            "sex": "male",
+            "occurences": {
+                "total": 1,
+                "firstNameOnly": 0,
+                "lastNameOnly": 0,
+                "fullName": 1,
+                "nickname": 0
+            },
+            "inTitle": false,
+            "inIntro": false,
+            "_name": {
+                "firstname": "Peter",
+                "lastname": "Modler",
+                "nickname": null,
+                "alternative_names": [],
+                "academic_title": null,
+                "nobility_title_or_rank": null
+            },
+            "descriptiveTexts": [
+                {
+                    "text": "Coach und Bestsellerautor Peter Modler sagt, einige Konflikte seien schnell zu erfassen: \u00bbWarum verdient jemand anders mehr als ich? Wieso darf der oder die ins Homeoffice und ich nicht? Die indirekten Aggressionen sind schwerer zu begreifen, und sie belasten daher oft noch mehr. Vor allem, wenn sie dann noch mit politisch korrektem Vokabular manik\u00fcrt werden. Wenn von Wertsch\u00e4tzung gesprochen wird, wo es keine gibt. Das ist n\u00e4mlich zynisch.\u00ab"
+                }
+            ],
+            "occupations": [
+                {
+                    "text": "Coach"
+                },
+                {
+                    "text": "Coach und Bestsellerautor"
+                }
+            ],
+            "directQuotes": [],
+            "quotedInTitle": false,
+            "quotedInIntro": false
+        },
+        {
+            "name": "Marco Nink",
+            "alternativeNames": [],
+            "age": -1,
+            "sex": "male",
+            "occurences": {
+                "total": 3,
+                "firstNameOnly": 0,
+                "lastNameOnly": 2,
+                "fullName": 1,
+                "nickname": 0
+            },
+            "inTitle": false,
+            "inIntro": false,
+            "_name": {
+                "firstname": "Marco",
+                "lastname": "Nink",
+                "nickname": null,
+                "alternative_names": [],
+                "academic_title": null,
+                "nobility_title_or_rank": null
+            },
+            "descriptiveTexts": [
+                {
+                    "text": "Das Beratungs- und Meinungsforschungsunternehmen Gallup zeigte j\u00fcngst in einer Umfrage, dass \u00bbBesch\u00e4ftigte, deren emotionale Bed\u00fcrfnisse am Arbeitsplatz \u00fcbersehen oder ignoriert werden\u00ab, sich weniger gebunden f\u00fchlen, wie Gallup-Forschungsleiter Marco Nink sagt."
+                },
+                {
+                    "text": "Gleichzeitig ist die Anzahl der Arbeitnehmenden, die im Job innerlich gek\u00fcndigt haben, weltweit auf 18 Prozent gestiegen; Nink f\u00fchrt das auf den \u00bbDauerkrisenmodus\u00ab zur\u00fcck: \u00bbF\u00fchrungskr\u00e4fte k\u00fcmmern sich derzeit vor allem um das Managen von Krisen, die Besch\u00e4ftigten sind wieder etwas vom Aufmerksamkeitsradar verschwunden.\u00ab"
+                },
+                {
+                    "text": "\u00bbViele Besch\u00e4ftigte sagen uns, dass sie schon wegen ihres Chefs gek\u00fcndigt haben\u00ab, sagt Gallup-Forschungsleiter Nink."
+                }
+            ],
+            "occupations": [
+                {
+                    "text": "Forschungsleiter"
+                }
+            ],
+            "directQuotes": [
+                {
+                    "text": "hohe emotionale Bindung"
+                },
+                {
+                    "text": "Dauerkrisenmodus"
+                },
+                {
+                    "text": "F\u00fchrungskr\u00e4fte k\u00fcmmern sich derzeit vor allem um das Managen von Krisen, die Besch\u00e4ftigten sind wieder etwas vom Aufmerksamkeitsradar verschwunden."
+                },
+                {
+                    "text": "Unternehmen wissen oft, dass jemand toxisch ist. Bei manchen Personen wird das in Kauf genommen, weil sie so viel Performance bringen, dass man nicht darauf verzichten will. Aber langfristig kann sich kein Unternehmen toxische F\u00fchrungskr\u00e4fte leisten."
+                },
+                {
+                    "text": "F\u00fcr die ist es vollkommen normal, dass es einen Mitarbeiter des Jahres gibt. Also einen Gewinner \u2013 und die anderen sind alle Looser."
+                },
+                {
+                    "text": "Offenkundig ist doch, dass Unternehmen allenfalls kurzfristig von toxischer Arbeitskultur profitieren"
+                },
+                {
+                    "text": "Nicht nur weil wir uns dadurch selbst retten und den eigenen Burn-out vermeiden \u2013 sondern auch weil wir dadurch kollektiv bessere Arbeit schaffen."
+                }
+            ],
+            "quotedInTitle": false,
+            "quotedInIntro": false
+        },
+        {
+            "name": "Friedericke Hardering",
+            "alternativeNames": [],
+            "age": -1,
+            "sex": "female",
+            "occurences": {
+                "total": 1,
+                "firstNameOnly": 0,
+                "lastNameOnly": 0,
+                "fullName": 1,
+                "nickname": 0
+            },
+            "inTitle": false,
+            "inIntro": false,
+            "_name": {
+                "firstname": "Friedericke",
+                "lastname": "Hardering",
+                "nickname": null,
+                "alternative_names": [],
+                "academic_title": null,
+                "nobility_title_or_rank": null
+            },
+            "descriptiveTexts": [
+                {
+                    "text": "\u00bbOffenkundig ist doch, dass Unternehmen allenfalls kurzfristig von toxischer Arbeitskultur profitieren\u00ab, sagt die M\u00fcnsteraner Arbeitssoziologin Friedericke Hardering."
+                }
+            ],
+            "occupations": [
+                {
+                    "text": "Arbeitssoziologin"
+                }
+            ],
+            "directQuotes": [],
+            "quotedInTitle": false,
+            "quotedInIntro": false
+        },
+        {
+            "name": "John Clifton",
+            "alternativeNames": [],
+            "age": -1,
+            "sex": "male",
+            "occurences": {
+                "total": 2,
+                "firstNameOnly": 0,
+                "lastNameOnly": 1,
+                "fullName": 1,
+                "nickname": 0
+            },
+            "inTitle": false,
+            "inIntro": false,
+            "_name": {
+                "firstname": "John",
+                "lastname": "Clifton",
+                "nickname": null,
+                "alternative_names": [],
+                "academic_title": null,
+                "nobility_title_or_rank": null
+            },
+            "descriptiveTexts": [
+                {
+                    "text": "Schlechtes Management, so Gallup-CEO John Clifton, f\u00fchre \u00bbzum Verlust von Kunden und entgangenen Gewinnen, aber auch zu einem elenden Leben\u00ab."
+                },
+                {
+                    "text": "\u00bbWenn es Ihnen bei der Arbeit nicht gut geht, ist es unwahrscheinlich, dass es Ihnen im Leben gut geht\u00ab, sagt Clifton."
+                },
+                {
+                    "text": "Michael Fuhlrott, Fachanwalt f\u00fcr Arbeitsrecht, r\u00e4t Opfern offen, lieber zu gehen als Missst\u00e4nde gerichtlich kl\u00e4ren zu lassen: \u00bbIm derzeitigen Arbeitsmarkt l\u00e4sst sich f\u00fcr viele Besch\u00e4ftigte bequemer ein neuer Job finden, denke ich.\u00ab"
+                }
+            ],
+            "occupations": [],
+            "directQuotes": [
+                {
+                    "text": "Wenn es Ihnen bei der Arbeit nicht gut geht, ist es unwahrscheinlich, dass es Ihnen im Leben gut geht"
+                },
+                {
+                    "text": "Im derzeitigen Arbeitsmarkt l\u00e4sst sich f\u00fcr viele Besch\u00e4ftigte bequemer ein neuer Job finden, denke ich."
+                },
+                {
+                    "text": "Niemand hat mir gesagt: Du bist mir zu schnell, ich muss erst mal meinen Frust loswerden. Aber genau darum ging es. Meine Positivit\u00e4t ist und war nicht toxisch. Aber die Art, wie ich sie kommuniziert habe, war nicht optimal."
+                }
+            ],
+            "quotedInTitle": false,
+            "quotedInIntro": false
+        },
+        {
+            "name": "James Cannon",
+            "alternativeNames": [],
+            "age": -1,
+            "sex": "male",
+            "occurences": {
+                "total": 2,
+                "firstNameOnly": 0,
+                "lastNameOnly": 1,
+                "fullName": 1,
+                "nickname": 0
+            },
+            "inTitle": false,
+            "inIntro": false,
+            "_name": {
+                "firstname": "James",
+                "lastname": "Cannon",
+                "nickname": null,
+                "alternative_names": [],
+                "academic_title": null,
+                "nobility_title_or_rank": null
+            },
+            "descriptiveTexts": [
+                {
+                    "text": "\u00bbTyrannen gibt es in allen Formen, Gr\u00f6\u00dfen und Geschlechtern\u00ab, sagt James Cannon."
+                },
+                {
+                    "text": "Der Experte f\u00fcr Organisationsentwicklung hat j\u00fcngst ein Buch ver\u00f6ffentlicht, in dem er die Treiber ungesunder Unternehmenskulturen seziert."
+                },
+                {
+                    "text": "In solchen Systemen sei Angst der treibende Faktor, so Organisationsexperte Cannon."
+                }
+            ],
+            "occupations": [
+                {
+                    "text": "Experte f\u00fcr Organisationsentwicklung"
+                }
+            ],
+            "directQuotes": [
+                {
+                    "text": "M\u00e4nnlichkeit"
+                },
+                {
+                    "text": "Tyrannen gibt es in allen Formen, Gr\u00f6\u00dfen und Geschlechtern"
+                },
+                {
+                    "text": "dunklen Triade"
+                }
+            ],
+            "quotedInTitle": false,
+            "quotedInIntro": false
+        },
+        {
+            "name": "Elon Musk",
+            "alternativeNames": [],
+            "age": -1,
+            "sex": "male",
+            "occurences": {
+                "total": 1,
+                "firstNameOnly": 0,
+                "lastNameOnly": 0,
+                "fullName": 1,
+                "nickname": 0
+            },
+            "inTitle": false,
+            "inIntro": false,
+            "_name": {
+                "firstname": "Elon",
+                "lastname": "Musk",
+                "nickname": null,
+                "alternative_names": [],
+                "academic_title": null,
+                "nobility_title_or_rank": null
+            },
+            "descriptiveTexts": [
+                {
+                    "text": "Techmilliard\u00e4r Elon Musk setzt sie auch beim Umgang mit seinen Mitarbeitern ein."
+                },
+                {
+                    "text": "Er feuerte Twitter-Mitarbeiter, die sich kritisch zu Wort gemeldet hatten."
+                },
+                {
+                    "text": "F\u00fcr sein Tesla-Werk in Brandenburg lie\u00df er die verst\u00f6rende Stelle eines \u00bbSecurity Intelligence Investigators\u00ab ausschreiben, eines Chefermittlers also."
+                },
+                {
+                    "text": "Und nachdem er im vergangenen Oktober den Kurznachrichtendienst Twitter (heute X) \u00fcbernommen hatte, feuerte er die H\u00e4lfte der Belegschaft."
+                }
+            ],
+            "occupations": [
+                {
+                    "text": "Fiesling"
+                },
+                {
+                    "text": "Techmilliard\u00e4r"
+                },
+                {
+                    "text": "Hybris"
+                }
+            ],
+            "directQuotes": [
+                {
+                    "text": "extremely hardcore"
+                }
+            ],
+            "quotedInTitle": false,
+            "quotedInIntro": false
+        },
+        {
+            "name": "Anselm Gr\u00fcn",
+            "alternativeNames": [],
+            "age": -1,
+            "sex": "male",
+            "occurences": {
+                "total": 2,
+                "firstNameOnly": 0,
+                "lastNameOnly": 1,
+                "fullName": 1,
+                "nickname": 0
+            },
+            "inTitle": false,
+            "inIntro": false,
+            "_name": {
+                "firstname": "Anselm",
+                "lastname": "Gr\u00fcn",
+                "nickname": null,
+                "alternative_names": [],
+                "academic_title": null,
+                "nobility_title_or_rank": null
+            },
+            "descriptiveTexts": [
+                {
+                    "text": "Um das herauszufinden, meldete er sich f\u00fcr ein dreit\u00e4giges Seminar bei Pater Anselm Gr\u00fcn im Kloster M\u00fcnsterschwarzach an."
+                },
+                {
+                    "text": "Janssen verinnerlichte Gr\u00fcns Maxime: Lebe vor, was du von anderen erwartest."
+                }
+            ],
+            "occupations": [
+                {
+                    "text": "Seelsorger"
+                }
+            ],
+            "directQuotes": [
+                {
+                    "text": "Spirituell f\u00fchren"
+                }
+            ],
+            "quotedInTitle": false,
+            "quotedInIntro": false
+        },
+        {
+            "name": "Dorothea Assig",
+            "alternativeNames": [],
+            "age": -1,
+            "sex": "female",
+            "occurences": {
+                "total": 1,
+                "firstNameOnly": 0,
+                "lastNameOnly": 0,
+                "fullName": 1,
+                "nickname": 0
+            },
+            "inTitle": false,
+            "inIntro": false,
+            "_name": {
+                "firstname": "Dorothea",
+                "lastname": "Assig",
+                "nickname": null,
+                "alternative_names": [],
+                "academic_title": null,
+                "nobility_title_or_rank": null
+            },
+            "descriptiveTexts": [
+                {
+                    "text": "\u00bbSchwierige Personen wissen in der Regel nicht, dass sie schwierig sind\u00ab, sagt F\u00fchrungskr\u00e4fte-Coachin Dorothea Assig."
+                }
+            ],
+            "occupations": [
+                {
+                    "text": "F\u00fchrungskr\u00e4fte-Coachin"
+                }
+            ],
+            "directQuotes": [
+                {
+                    "text": "Schwierige Personen wissen in der Regel nicht, dass sie schwierig sind"
+                }
+            ],
+            "quotedInTitle": false,
+            "quotedInIntro": false
+        },
+        {
+            "name": "Burcu Arslan",
+            "alternativeNames": [],
+            "age": 28,
+            "sex": "female",
+            "occurences": {
+                "total": 3,
+                "firstNameOnly": 0,
+                "lastNameOnly": 1,
+                "fullName": 2,
+                "nickname": 0
+            },
+            "inTitle": false,
+            "inIntro": false,
+            "_name": {
+                "firstname": "Burcu",
+                "lastname": "Arslan",
+                "nickname": null,
+                "alternative_names": [],
+                "academic_title": null,
+                "nobility_title_or_rank": null
+            },
+            "descriptiveTexts": [
+                {
+                    "text": "Burcu Arslan, 28, arbeitet f\u00fcr Nushu Female Business, ein Sozialunternehmen und Karrierenetzwerk."
+                },
+                {
+                    "text": "Sie sagt von sich selbst, dass sie gegen Diskriminierung und f\u00fcr Bildungsgerechtigkeit k\u00e4mpft."
+                },
+                {
+                    "text": "Ausgerechnet sie musste sich den Vorwurf anh\u00f6ren: \u00bbDeine Positivit\u00e4t ist toxisch.\u00ab"
+                },
+                {
+                    "text": "Bei der Arbeit und im Freundeskreis versuchte sie stets, zwischen verschiedenen Menschen, deren unterschiedlichen Ansichten und Vorgehensweisen zu vermitteln."
+                },
+                {
+                    "text": "Sie habe konstruktiv sein und L\u00f6sungen finden wollen, sagt sie."
+                },
+                {
+                    "text": "\u00bbSo bin ich von Natur aus. Wenn es H\u00fcrden gibt, suche ich einen Weg.\u00ab"
+                },
+                {
+                    "text": "Warum das als \u00bbtoxisch\u00ab galt, machte sie zun\u00e4chst ratlos."
+                },
+                {
+                    "text": "\u00bbMein Optimismus war nie eine Fassade\u00ab, sagt sie."
+                },
+                {
+                    "text": "Aber Arslan machte nicht mit."
+                },
+                {
+                    "text": "So sei eine unsichtbare Mauer zwischen ihr und den anderen entstanden, sagt sie."
+                },
+                {
+                    "text": "\u00bbNiemand hat mir gesagt: Du bist mir zu schnell, ich muss erst mal meinen Frust loswerden. Aber genau darum ging es. Meine Positivit\u00e4t ist und war nicht toxisch. Aber die Art, wie ich sie kommuniziert habe, war nicht optimal.\u00ab"
+                },
+                {
+                    "text": "Burcu Arslans L\u00f6sung lautet heute: innehalten."
+                },
+                {
+                    "text": "Zuh\u00f6ren und empathisch sein \u2013 das ist f\u00fcr sie das Gegengift zur Toxizit\u00e4t."
+                }
+            ],
+            "occupations": [],
+            "directQuotes": [],
+            "quotedInTitle": false,
+            "quotedInIntro": false
+        },
+        {
+            "name": "Carsten Schermuly",
+            "alternativeNames": [],
+            "age": -1,
+            "sex": "male",
+            "occurences": {
+                "total": 2,
+                "firstNameOnly": 0,
+                "lastNameOnly": 1,
+                "fullName": 1,
+                "nickname": 0
+            },
+            "inTitle": false,
+            "inIntro": false,
+            "_name": {
+                "firstname": "Carsten",
+                "lastname": "Schermuly",
+                "nickname": null,
+                "alternative_names": [],
+                "academic_title": null,
+                "nobility_title_or_rank": null
+            },
+            "descriptiveTexts": [
+                {
+                    "text": "Vielen sei gar nicht bewusst, wie aggressiv die eigene Firmenkultur sei, sagt Wirtschaftspsychologe Carsten Schermuly: \u00bbF\u00fcr die ist es vollkommen normal, dass es einen Mitarbeiter des Jahres gibt. Also einen Gewinner \u2013 und die anderen sind alle Looser.\u00ab"
+                },
+                {
+                    "text": "Bei den aggressiven Stilen herrschten Werte wie Perfektionismus vor: \u00bbEs geht oft um Wettbewerb \u2013 und zwar mit den eigenen Kolleginnen und Kollegen. Wer vorankommen will, muss erst mal die eigenen Gegner innerhalb der Organisation ausstechen\u00ab, so Schermuly."
+                }
+            ],
+            "occupations": [
+                {
+                    "text": "Wirtschaftspsychologe"
+                }
+            ],
+            "directQuotes": [],
+            "quotedInTitle": false,
+            "quotedInIntro": false
+        },
+        {
+            "name": "Bodo Janssen",
+            "alternativeNames": [],
+            "age": -1,
+            "sex": "male",
+            "occurences": {
+                "total": 8,
+                "firstNameOnly": 0,
+                "lastNameOnly": 6,
+                "fullName": 2,
+                "nickname": 0
+            },
+            "inTitle": false,
+            "inIntro": false,
+            "_name": {
+                "firstname": "Bodo",
+                "lastname": "Janssen",
+                "nickname": null,
+                "alternative_names": [],
+                "academic_title": null,
+                "nobility_title_or_rank": null
+            },
+            "descriptiveTexts": [
+                {
+                    "text": "Auch Bodo Janssen war einer dieser Fieslinge an der Spitze einer Firma."
+                },
+                {
+                    "text": "Als CEO der Hotelkette Upstalsboom fiel er vor 13 Jahren aus allen Wolken, als eine Mitarbeiterumfrage offenlegte, dass nahezu die komplette Belegschaft der Ansicht war, er sei als Chef ungeeignet."
+                },
+                {
+                    "text": "\u00bbWir brauchen einen anderen Chef als Bodo Janssen\u00ab, hatte jemand geschrieben."
+                },
+                {
+                    "text": "F\u00fcr Janssen war das ein Schock."
+                },
+                {
+                    "text": "Er hatte bis dahin seinen F\u00fchrungsstil nicht infrage gestellt."
+                },
+                {
+                    "text": "Zahlen und Budgets hatte er f\u00fcr sich behalten, von seinen Mitarbeitenden hatte er eigentlich nur eines verlangt: Gefolgschaft."
+                },
+                {
+                    "text": "\u00bbIch hatte eine klare Vorstellung davon, wie die Ergebnisse in jedem Meeting auszusehen hatten. F\u00fcr mich ging es nur noch darum, diese Vorstellung durchzusetzen\u00ab, sagt er."
+                },
+                {
+                    "text": "Um das herauszufinden, meldete er sich f\u00fcr ein dreit\u00e4giges Seminar bei Pater Anselm Gr\u00fcn im Kloster M\u00fcnsterschwarzach an."
+                },
+                {
+                    "text": "Janssen verinnerlichte Gr\u00fcns Maxime: Lebe vor, was du von anderen erwartest."
+                },
+                {
+                    "text": "\u00bbWenn meine Mitarbeiter gestresst sind, muss ich erst bei mir selbst f\u00fcr Ruhe sorgen.\u00ab"
+                },
+                {
+                    "text": "Von dieser simplen Erkenntnis war Janssen geradezu befl\u00fcgelt."
+                },
+                {
+                    "text": "Euphorisch kam er aus dem Kloster zur\u00fcck und lud alle F\u00fchrungskr\u00e4fte ein, das gleiche Seminar zu besuchen."
+                },
+                {
+                    "text": "Janssen war entt\u00e4uscht."
+                },
+                {
+                    "text": "Es dauerte, bis ihm klar wurde, dass jeder Besch\u00e4ftigte selbst schauen m\u00fcsse, ob und was er aus so einer Klostererfahrung machen wolle."
+                },
+                {
+                    "text": "\u00bbUnd wenn er nichts daraus macht, ist das auch okay.\u00ab"
+                },
+                {
+                    "text": "\u00bbDas ist l\u00e4hmend\u00ab, sagt Janssen r\u00fcckblickend."
+                },
+                {
+                    "text": "Auf F\u00f6hr etwa seien die L\u00f6hne auf einem deutlich h\u00f6heren Niveau als in den anderen Upstalsboom-Hotels, erz\u00e4hlt Janssen."
+                },
+                {
+                    "text": "\u00bbJedes Hotel macht seine eigenen Regeln\u00ab, sagt er."
+                }
+            ],
+            "occupations": [
+                {
+                    "text": "CEO der Hotelkette Upstalsboom"
+                }
+            ],
+            "directQuotes": [
+                {
+                    "text": "Wir brauchen einen anderen Chef als Bodo Janssen"
+                },
+                {
+                    "text": "Ich hatte eine klare Vorstellung davon, wie die Ergebnisse in jedem Meeting auszusehen hatten. F\u00fcr mich ging es nur noch darum, diese Vorstellung durchzusetzen"
+                },
+                {
+                    "text": "Wenn meine Mitarbeiter gestresst sind, muss ich erst bei mir selbst f\u00fcr Ruhe sorgen."
+                },
+                {
+                    "text": "Und wenn er nichts daraus macht, ist das auch okay."
+                },
+                {
+                    "text": "Das ist l\u00e4hmend"
+                },
+                {
+                    "text": "Jedes Hotel macht seine eigenen Regeln"
+                },
+                {
+                    "text": "Damals sind mir die Menschen davongerannt, heute haben wir Wartelisten f\u00fcr freie Stellen."
+                },
+                {
+                    "text": "So bin ich von Natur aus. Wenn es H\u00fcrden gibt, suche ich einen Weg."
+                },
+                {
+                    "text": "Mein Optimismus war nie eine Fassade"
+                },
+                {
+                    "text": "Ein Arbeitsplatz wird nicht dadurch toxisch, dass alle meckern oder immer l\u00e4cheln, sondern dadurch, dass wir einander nicht den Raum f\u00fcr die eigene Realit\u00e4t geben."
+                }
+            ],
+            "quotedInTitle": false,
+            "quotedInIntro": false
+        },
+        {
+            "name": "Timo T.",
+            "alternativeNames": [],
+            "age": 49,
+            "sex": "male",
+            "occurences": {
+                "total": 2,
+                "firstNameOnly": 2,
+                "lastNameOnly": 0,
+                "fullName": 0,
+                "nickname": 0
+            },
+            "inTitle": false,
+            "inIntro": false,
+            "_name": {
+                "firstname": "Timo",
+                "lastname": "T.",
+                "nickname": null,
+                "alternative_names": [],
+                "academic_title": null,
+                "nobility_title_or_rank": null
+            },
+            "descriptiveTexts": [
+                {
+                    "text": "Sp\u00e4testens bei den Kaffeetassen merkte Timo T., dass etwas nicht stimmte."
+                },
+                {
+                    "text": "\u00bbEr schickte dann ein Video an den Verteiler, wie die Becher richtig eingeordnet werden m\u00fcssen: mit dem Unternehmenslabel nach vorn\u00ab, so erz\u00e4hlt es der 49-J\u00e4hrige."
+                },
+                {
+                    "text": "\u00bbWar in einem Satz ein Tippfehler, wurde mir vorgeworfen, ich sei nicht zu einhundert Prozent bei der Sache\u00ab, sagt T., der als Texter arbeitet."
+                },
+                {
+                    "text": "Er litt an Magenschmerzen, Schwei\u00dfausbr\u00fcchen, lie\u00df sich wegen depressiver Episoden krankschreiben."
+                },
+                {
+                    "text": "Die \u00c4rzte empfahlen ihm eine Therapie, danach ging er sechs Wochen in psychosomatische Reha."
+                },
+                {
+                    "text": "Er tr\u00e4gt einen dunklen Kapuzenpulli, eine Halbrahmenbrille, Glatze."
+                },
+                {
+                    "text": "W\u00e4hrend des Gespr\u00e4chs atmet er tief und raucht."
+                },
+                {
+                    "text": "Seinen Nachnamen will er nicht ausgeschrieben sehen, will nicht f\u00fcr immer mit einem cholerischen Ex-Chef in Verbindung gebracht werden."
+                },
+                {
+                    "text": "Er hat f\u00fcr sich eine Grenze gezogen."
+                },
+                {
+                    "text": "Timo T., der Autor und Texter, hat es erst einmal ganz ohne Vorgesetzte versucht."
+                },
+                {
+                    "text": "Nach seiner K\u00fcndigung machte er sich selbstst\u00e4ndig."
+                },
+                {
+                    "text": "Ein Schritt, der ihm mehr geholfen habe als jede Therapie, sagt er heute."
+                },
+                {
+                    "text": "Seit gut eineinhalb Jahren arbeitet er in Teilzeit in einer Werbeagentur."
+                },
+                {
+                    "text": "Was den Ausschlag f\u00fcr ihn gab: \u00bbIch habe Kolleginnen und Kollegen, die aufeinander aufpassen \u2013 und vor allem einen Chef, der Work-Life-Balance vorlebt.\u00ab"
+                }
+            ],
+            "occupations": [
+                {
+                    "text": "Er litt an Magenschmerzen, Schwei\u00dfausbr\u00fcchen, lie\u00df sich wegen depressiver Episoden krankschreiben."
+                },
+                {
+                    "text": "Er hat f\u00fcr sich eine Grenze gezogen. Blo\u00df weg aus diesem Laden."
+                },
+                {
+                    "text": "Autor und Texter"
+                },
+                {
+                    "text": "Werbeagentur"
+                }
+            ],
+            "directQuotes": [
+                {
+                    "text": "Er schickte dann ein Video an den Verteiler, wie die Becher richtig eingeordnet werden m\u00fcssen: mit dem Unternehmenslabel nach vorn"
+                }
+            ],
+            "quotedInTitle": false,
+            "quotedInIntro": false
+        },
+        {
+            "name": "Michael Fuhlrott",
+            "alternativeNames": [],
+            "age": -1,
+            "sex": "male",
+            "occurences": {
+                "total": 1,
+                "firstNameOnly": 0,
+                "lastNameOnly": 0,
+                "fullName": 1,
+                "nickname": 0
+            },
+            "inTitle": false,
+            "inIntro": false,
+            "_name": {
+                "firstname": "Michael",
+                "lastname": "Fuhlrott",
+                "nickname": null,
+                "alternative_names": [],
+                "academic_title": null,
+                "nobility_title_or_rank": null
+            },
+            "descriptiveTexts": [
+                {
+                    "text": "Michael Fuhlrott, Fachanwalt f\u00fcr Arbeitsrecht, r\u00e4t Opfern offen, lieber zu gehen als Missst\u00e4nde gerichtlich kl\u00e4ren zu lassen: \u00bbIm derzeitigen Arbeitsmarkt l\u00e4sst sich f\u00fcr viele Besch\u00e4ftigte bequemer ein neuer Job finden, denke ich.\u00ab"
+                }
+            ],
+            "occupations": [
+                {
+                    "text": "Fachanwalt f\u00fcr Arbeitsrecht"
+                }
+            ],
+            "directQuotes": [],
+            "quotedInTitle": false,
+            "quotedInIntro": false
+        },
+        {
+            "name": "Dorothee Echter",
+            "alternativeNames": [],
+            "age": -1,
+            "sex": "female",
+            "occurences": {
+                "total": 1,
+                "firstNameOnly": 0,
+                "lastNameOnly": 0,
+                "fullName": 1,
+                "nickname": 0
+            },
+            "inTitle": false,
+            "inIntro": false,
+            "_name": {
+                "firstname": "Dorothee",
+                "lastname": "Echter",
+                "nickname": null,
+                "alternative_names": [],
+                "academic_title": null,
+                "nobility_title_or_rank": null
+            },
+            "descriptiveTexts": [
+                {
+                    "text": "F\u00fchrungskr\u00e4fte-Coachin Dorothee Echter sagt: \u00bbUnternehmen wissen oft, dass jemand toxisch ist. Bei manchen Personen wird das in Kauf genommen, weil sie so viel Performance bringen, dass man nicht darauf verzichten will. Aber langfristig kann sich kein Unternehmen toxische F\u00fchrungskr\u00e4fte leisten.\u00ab"
+                }
+            ],
+            "occupations": [
+                {
+                    "text": "F\u00fchrungskr\u00e4fte-Coachin"
+                }
+            ],
+            "directQuotes": [],
+            "quotedInTitle": false,
+            "quotedInIntro": false
+        },
+        {
+            "name": "Susanne Pfeffer",
+            "alternativeNames": [],
+            "age": -1,
+            "sex": "female",
+            "occurences": {
+                "total": 3,
+                "firstNameOnly": 0,
+                "lastNameOnly": 2,
+                "fullName": 1,
+                "nickname": 0
+            },
+            "inTitle": false,
+            "inIntro": false,
+            "_name": {
+                "firstname": "Susanne",
+                "lastname": "Pfeffer",
+                "nickname": null,
+                "alternative_names": [],
+                "academic_title": null,
+                "nobility_title_or_rank": null
+            },
+            "descriptiveTexts": [
+                {
+                    "text": "Bei einer Pr\u00e4sentation soll Winterkorn einst derart unzufrieden mit der Qualit\u00e4t der Autositze gewesen sein, dass er sie kurzerhand aufschlitzte."
+                },
+                {
+                    "text": "Direktorin ist seit 2018 Susanne Pfeffer, die sich einen Namen gemacht hat mit aufsehenerregenden Ausstellungen."
+                },
+                {
+                    "text": "In anderen Zeitungen war nachzulesen, wie skurril die Gesten der Macht aussehen konnten: Die Direktorin zog angeblich im Ausstellungssaal ihre Schuhe aus, ihr Teamleiter habe sie ihr hinterhergetragen."
+                },
+                {
+                    "text": "Einige von Pfeffers Mitarbeitern gingen mit ihrem Kummer auch ins Radio und ins Fernsehen."
+                },
+                {
+                    "text": "Klingelte das Telefon, bekam er Panikattacken, nach drei Monaten k\u00fcndigte er, das alles schilderte er so vor der Kamera."
+                },
+                {
+                    "text": "Pfeffer selbst weist \u00bbdie Pauschalvorw\u00fcrfe entschieden zur\u00fcck\u00ab."
+                }
+            ],
+            "occupations": [],
+            "directQuotes": [],
+            "quotedInTitle": false,
+            "quotedInIntro": false
+        },
+        {
+            "name": "Martin Winterkorn",
+            "alternativeNames": [],
+            "age": -1,
+            "sex": "male",
+            "occurences": {
+                "total": 3,
+                "firstNameOnly": 0,
+                "lastNameOnly": 2,
+                "fullName": 1,
+                "nickname": 0
+            },
+            "inTitle": false,
+            "inIntro": false,
+            "_name": {
+                "firstname": "Martin",
+                "lastname": "Winterkorn",
+                "nickname": null,
+                "alternative_names": [],
+                "academic_title": null,
+                "nobility_title_or_rank": null
+            },
+            "descriptiveTexts": [
+                {
+                    "text": "Wie der ehemalige VW-Boss Martin Winterkorn: Er pr\u00e4gte in Wolfsburg eine Kultur der Angst."
+                },
+                {
+                    "text": "Winterkorn galt als Qualit\u00e4tsfanatiker und Mikromanager, kein Spaltma\u00df zu klein, um nicht von ihm nachgemessen zu werden."
+                },
+                {
+                    "text": "War er nicht zufrieden, schalt er gestandene Ingenieure wie dumme Schuljungen, gern vor Publikum."
+                },
+                {
+                    "text": "Bei einer Pr\u00e4sentation soll Winterkorn einst derart unzufrieden mit der Qualit\u00e4t der Autositze gewesen sein, dass er sie kurzerhand aufschlitzte."
+                },
+                {
+                    "text": "Heute ist er der prominenteste Angeklagte im VW-Abgasskandal."
+                }
+            ],
+            "occupations": [
+                {
+                    "text": "Kultur der Angst"
+                },
+                {
+                    "text": "Qualit\u00e4tsfanatiker"
+                },
+                {
+                    "text": "Qualit\u00e4tsfanatiker und Mikromanager"
+                },
+                {
+                    "text": "VW-Boss"
+                },
+                {
+                    "text": "Mikromanager"
+                }
+            ],
+            "directQuotes": [],
+            "quotedInTitle": false,
+            "quotedInIntro": false
+        }
+    ]
+}

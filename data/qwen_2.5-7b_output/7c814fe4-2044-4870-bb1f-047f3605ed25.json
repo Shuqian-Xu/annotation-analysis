@@ -1,0 +1,237 @@
+{
+    "persons": [
+        {
+            "name": "Evan Gershkovich",
+            "alternativeNames": [],
+            "age": -1,
+            "sex": "male",
+            "occurences": {
+                "total": 1,
+                "firstNameOnly": 0,
+                "lastNameOnly": 0,
+                "fullName": 1,
+                "nickname": 0
+            },
+            "inTitle": false,
+            "inIntro": false,
+            "_name": {
+                "firstname": "Evan",
+                "lastname": "Gershkovich",
+                "nickname": null,
+                "alternative_names": [],
+                "academic_title": null,
+                "nobility_title_or_rank": null
+            },
+            "descriptiveTexts": [
+                {
+                    "text": "Der russische Angriffskrieg gegen die Ukraine und die faktische Geiselnahme von US-Staatsb\u00fcrgern wie dem Journalisten Evan Gershkovich haben das Verh\u00e4ltnis nahezu ruiniert."
+                }
+            ],
+            "occupations": [
+                {
+                    "text": "Journalist"
+                }
+            ],
+            "directQuotes": [],
+            "quotedInTitle": false,
+            "quotedInIntro": false
+        },
+        {
+            "name": "Adrienne Watson",
+            "alternativeNames": [],
+            "age": -1,
+            "sex": "female",
+            "occurences": {
+                "total": 1,
+                "firstNameOnly": 0,
+                "lastNameOnly": 0,
+                "fullName": 1,
+                "nickname": 0
+            },
+            "inTitle": false,
+            "inIntro": false,
+            "_name": {
+                "firstname": "Adrienne",
+                "lastname": "Watson",
+                "nickname": null,
+                "alternative_names": [],
+                "academic_title": null,
+                "nobility_title_or_rank": null
+            },
+            "descriptiveTexts": [
+                {
+                    "text": "Aber die Sprecherin des Nationalen Sicherheitsrates im Wei\u00dfen Haus, Adrienne Watson, erkl\u00e4rte am Freitag, die USA h\u00e4tten ihre Informationen mit der russischen Regierung geteilt."
+                }
+            ],
+            "occupations": [],
+            "directQuotes": [],
+            "quotedInTitle": false,
+            "quotedInIntro": false
+        },
+        {
+            "name": "Wladimir Putin",
+            "alternativeNames": [],
+            "age": 71,
+            "sex": "male",
+            "occurences": {
+                "total": 8,
+                "firstNameOnly": 0,
+                "lastNameOnly": 6,
+                "fullName": 2,
+                "nickname": 0
+            },
+            "inTitle": false,
+            "inIntro": false,
+            "_name": {
+                "firstname": "Wladimir",
+                "lastname": "Putin",
+                "nickname": null,
+                "alternative_names": [],
+                "academic_title": null,
+                "nobility_title_or_rank": null
+            },
+            "descriptiveTexts": [
+                {
+                    "text": "Putin hatte die Warnung noch am Dienstag mit h\u00f6hnischer Verachtung diskreditiert"
+                },
+                {
+                    "text": "Pr\u00e4sident Wladimir Putin hatte die Warnung jedoch noch am Dienstag mit h\u00f6hnischer Verachtung diskreditiert."
+                },
+                {
+                    "text": "Nach den von al-Qaida ver\u00fcbten Terroranschl\u00e4gen vom 11. September 2001 war Wladimir Putin der erste ausl\u00e4ndische Staatschef, der den damaligen US-Pr\u00e4sidenten George W."
+                },
+                {
+                    "text": "Putin im Nebel der Desinformation"
+                },
+                {
+                    "text": "Im Dezember 2019 dankte Putin dem damaligen US-Pr\u00e4sidenten Donald Trump f\u00fcr die \u00dcbermittlung von Geheimdienstinformationen, mithilfe derer es gelungen sei, eine Attacke in Sankt Petersburg zu verhindern."
+                },
+                {
+                    "text": "Trump und Putin sprachen beide intuitiv die Sprache der autorit\u00e4ren St\u00e4rke, kamen miteinander zurecht."
+                },
+                {
+                    "text": "Auf Basis dieser Informationsdi\u00e4t gedachte Putin die Ukraine im Februar 2022 bekanntlich binnen weniger Tage zu erobern."
+                },
+                {
+                    "text": "Gut m\u00f6glich, dass Putin das nicht wahrhaben wollte."
+                }
+            ],
+            "occupations": [
+                {
+                    "text": "Diktator"
+                },
+                {
+                    "text": "Absicht, unsere Gesellschaft einzusch\u00fcchtern und zu destabilisieren"
+                },
+                {
+                    "text": "Pr\u00e4sident"
+                }
+            ],
+            "directQuotes": [],
+            "quotedInTitle": false,
+            "quotedInIntro": false
+        },
+        {
+            "name": "Donald Trump",
+            "alternativeNames": [],
+            "age": -1,
+            "sex": "male",
+            "occurences": {
+                "total": 2,
+                "firstNameOnly": 0,
+                "lastNameOnly": 1,
+                "fullName": 1,
+                "nickname": 0
+            },
+            "inTitle": false,
+            "inIntro": false,
+            "_name": {
+                "firstname": "Donald",
+                "lastname": "Trump",
+                "nickname": null,
+                "alternative_names": [],
+                "academic_title": null,
+                "nobility_title_or_rank": null
+            },
+            "descriptiveTexts": [
+                {
+                    "text": "Im Dezember 2019 dankte Putin dem damaligen US-Pr\u00e4sidenten Donald Trump f\u00fcr die \u00dcbermittlung von Geheimdienstinformationen, mithilfe derer es gelungen sei, eine Attacke in Sankt Petersburg zu verhindern."
+                },
+                {
+                    "text": "Trump und Putin sprachen beide intuitiv die Sprache der autorit\u00e4ren St\u00e4rke, kamen miteinander zurecht."
+                }
+            ],
+            "occupations": [],
+            "directQuotes": [],
+            "quotedInTitle": false,
+            "quotedInIntro": false
+        },
+        {
+            "name": "Qasem Soleimani",
+            "alternativeNames": [],
+            "age": -1,
+            "sex": "male",
+            "occurences": {
+                "total": 2,
+                "firstNameOnly": 0,
+                "lastNameOnly": 1,
+                "fullName": 1,
+                "nickname": 0
+            },
+            "inTitle": false,
+            "inIntro": false,
+            "_name": {
+                "firstname": "Qasem",
+                "lastname": "Soleimani",
+                "nickname": null,
+                "alternative_names": [],
+                "academic_title": null,
+                "nobility_title_or_rank": null
+            },
+            "descriptiveTexts": [
+                {
+                    "text": "Vor zwei t\u00f6dlichen Anschl\u00e4gen im Januar auf eine Gedenkveranstaltung zu Ehren des fr\u00fcheren iranischen Topgenerals Qasem Soleimani hatten die USA Teheran vergeblich alarmiert."
+                },
+                {
+                    "text": "Dabei hatten die Amerikaner Soleimani nicht nur vier Jahre zuvor selbst mit einem Drohnenschlag get\u00f6tet, sondern unterhalten seit 1979 keinerlei diplomatische Beziehungen zu dem westasiatischen Land."
+                }
+            ],
+            "occupations": [],
+            "directQuotes": [],
+            "quotedInTitle": false,
+            "quotedInIntro": false
+        },
+        {
+            "name": "George W. Bush",
+            "alternativeNames": [],
+            "age": -1,
+            "sex": "male",
+            "occurences": {
+                "total": 2,
+                "firstNameOnly": 0,
+                "lastNameOnly": 1,
+                "fullName": 1,
+                "nickname": 0
+            },
+            "inTitle": false,
+            "inIntro": false,
+            "_name": {
+                "firstname": "George W.",
+                "lastname": "Bush",
+                "nickname": null,
+                "alternative_names": [],
+                "academic_title": null,
+                "nobility_title_or_rank": null
+            },
+            "descriptiveTexts": [
+                {
+                    "text": "Bush anrief, um ihm Unterst\u00fctzung zuzusichern."
+                }
+            ],
+            "occupations": [],
+            "directQuotes": [],
+            "quotedInTitle": false,
+            "quotedInIntro": false
+        }
+    ]
+}

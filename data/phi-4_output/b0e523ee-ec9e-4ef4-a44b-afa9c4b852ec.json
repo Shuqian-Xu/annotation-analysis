@@ -1,0 +1,272 @@
+{
+    "persons": [
+        {
+            "name": "Dung",
+            "alternativeNames": [],
+            "age": 32,
+            "sex": "female",
+            "occurences": {
+                "total": 4,
+                "firstNameOnly": 0,
+                "lastNameOnly": 0,
+                "fullName": 4,
+                "nickname": 0
+            },
+            "inTitle": false,
+            "inIntro": false,
+            "_name": {
+                "firstname": "Dung",
+                "lastname": null,
+                "nickname": null,
+                "alternative_names": [],
+                "academic_title": null,
+                "nobility_title_or_rank": null
+            },
+            "descriptiveTexts": [
+                {
+                    "text": "\u00bbM\u00f6chten Sie sich aufsetzen?\u00ab, fragt Dung den Patienten."
+                },
+                {
+                    "text": "Blutdruck soll sie messen und die t\u00e4gliche Patientendosis verabreichen."
+                },
+                {
+                    "text": "Dung hat bereits eine vietnamesische Pflegeausbildung, ihr Deutsch erf\u00fcllt die Kriterien von Niveau B1."
+                },
+                {
+                    "text": "Im April soll sie in einer Klinik in Frankfurt am Main anfangen."
+                },
+                {
+                    "text": "\u00bbWie lange lernen Sie schon Deutsch?\u00ab, fragt der Bundespr\u00e4sident die Vietnamesin."
+                },
+                {
+                    "text": "Und ist schlie\u00dflich erstaunt \u00fcber Dungs Antwort: \u00bbEin Jahr, nicht mehr.\u00ab"
+                },
+                {
+                    "text": "Und schreckt das Erstarken der extrem rechten Partei nicht diejenigen ab, die wie Dung zum Arbeiten kommen wollen?"
+                }
+            ],
+            "occupations": [],
+            "directQuotes": [
+                {
+                    "text": "M\u00f6chten Sie sich aufsetzen?"
+                },
+                {
+                    "text": "Ein Jahr, nicht mehr."
+                }
+            ],
+            "quotedInTitle": false,
+            "quotedInIntro": false
+        },
+        {
+            "name": "Oliver Brandt",
+            "alternativeNames": [],
+            "age": -1,
+            "sex": "male",
+            "occurences": {
+                "total": 1,
+                "firstNameOnly": 0,
+                "lastNameOnly": 0,
+                "fullName": 1,
+                "nickname": 0
+            },
+            "inTitle": false,
+            "inIntro": false,
+            "_name": {
+                "firstname": "Oliver",
+                "lastname": "Brandt",
+                "nickname": null,
+                "alternative_names": [],
+                "academic_title": null,
+                "nobility_title_or_rank": null
+            },
+            "descriptiveTexts": [
+                {
+                    "text": "\u00bbEs ist schon ein Thema, das man hier mitbekommt\u00ab, sagt Oliver Brandt, Leiter des Goethe-Instituts in Hanoi."
+                }
+            ],
+            "occupations": [
+                {
+                    "text": "Leiter des Goethe-Instituts in Hanoi"
+                }
+            ],
+            "directQuotes": [
+                {
+                    "text": "Es ist schon ein Thema, das man hier mitbekommt"
+                },
+                {
+                    "text": "Viele Vietnamesen h\u00f6ren es von Angeh\u00f6rigen in Deutschland."
+                }
+            ],
+            "quotedInTitle": false,
+            "quotedInIntro": false
+        },
+        {
+            "name": "Hubertus Heil",
+            "alternativeNames": [],
+            "age": -1,
+            "sex": "male",
+            "occurences": {
+                "total": 2,
+                "firstNameOnly": 0,
+                "lastNameOnly": 1,
+                "fullName": 1,
+                "nickname": 0
+            },
+            "inTitle": false,
+            "inIntro": false,
+            "_name": {
+                "firstname": "Hubertus",
+                "lastname": "Heil",
+                "nickname": null,
+                "alternative_names": [],
+                "academic_title": null,
+                "nobility_title_or_rank": null
+            },
+            "descriptiveTexts": [
+                {
+                    "text": "Daf\u00fcr hat der Bundespr\u00e4sident Arbeitsminister Hubertus Heil mit nach Asien gebracht."
+                },
+                {
+                    "text": "\u00bbDie AfD ist nicht nur eine Partei, die unsere Demokratie angreift\u00ab, sagt Arbeitsminister Heil im Pr\u00e4sidentenpalast von Hanoi."
+                }
+            ],
+            "occupations": [
+                {
+                    "text": "Arbeitsminister"
+                },
+                {
+                    "text": "Die Wirtschaft solle sich st\u00e4rker zu einem weltoffenen Deutschland bekennen: \u00bbWir d\u00fcrfen nicht an dem Ast s\u00e4gen, auf dem wir sitzen.\u00ab"
+                }
+            ],
+            "directQuotes": [
+                {
+                    "text": "Die AfD ist nicht nur eine Partei, die unsere Demokratie angreift"
+                },
+                {
+                    "text": "Sie ist auch wirtschaftlich ein Standortrisiko."
+                },
+                {
+                    "text": "Wir d\u00fcrfen nicht an dem Ast s\u00e4gen, auf dem wir sitzen."
+                }
+            ],
+            "quotedInTitle": false,
+            "quotedInIntro": false
+        },
+        {
+            "name": "Frank-Walter Steinmeier",
+            "alternativeNames": [],
+            "age": -1,
+            "sex": "male",
+            "occurences": {
+                "total": 11,
+                "firstNameOnly": 0,
+                "lastNameOnly": 8,
+                "fullName": 3,
+                "nickname": 0
+            },
+            "inTitle": false,
+            "inIntro": true,
+            "_name": {
+                "firstname": "Frank-Walter",
+                "lastname": "Steinmeier",
+                "nickname": null,
+                "alternative_names": [],
+                "academic_title": null,
+                "nobility_title_or_rank": "Burggraf"
+            },
+            "descriptiveTexts": [
+                {
+                    "text": "Deutschland ist so aufgew\u00fchlt wie lange nicht, gleichzeitig tourt Frank-Walter Steinmeier f\u00fcr ein paar Tage durch S\u00fcdostasien."
+                },
+                {
+                    "text": "Im Goethe-Institut von Hanoi trifft die Pflegerin auf Frank-Walter Steinmeier, der gerade in S\u00fcdostasien unterwegs ist."
+                },
+                {
+                    "text": "Es ist ein Wohlf\u00fchltermin, doch die Reise Steinmeiers durch S\u00fcdostasien ist nicht ungetr\u00fcbt."
+                },
+                {
+                    "text": "Aus Sicht des Bundespr\u00e4sidenten mag das alles etwas widerspr\u00fcchlich sein: Hier in Vietnam trifft er Leute, die unbedingt nach Deutschland wollen, um dort zu arbeiten."
+                },
+                {
+                    "text": "Frank-Walter Steinmeier k\u00f6nnte angesichts dieser Lage die Sorgen nach au\u00dfen kehren, die er sich macht."
+                },
+                {
+                    "text": "Doch er ist in dieses Jahr mit dem Vorsatz gestartet, Optimist zu bleiben."
+                },
+                {
+                    "text": "Trotz allem wirkt Steinmeier also zuversichtlich, als er da neben seiner Frau im VIP-Raum des Luftwaffen-Airbus sitzt, auf der ersten Fernreise des Jahres."
+                },
+                {
+                    "text": "Steinmeiers Programm in Asien \u2013 ein Polit-Termin hier, milit\u00e4rische Ehren dort \u2013 kommt mitunter etwas sehr diplomatisch-routiniert daher."
+                },
+                {
+                    "text": "Viele Male hat er so etwas schon absolviert, fr\u00fcher als Au\u00dfenminister, jetzt als Pr\u00e4sident."
+                },
+                {
+                    "text": "Kurz vor Abreise hat Steinmeier angesichts der Anti-AfD-Demonstrationen noch eine Art Solidarit\u00e4tsvideo hinterlassen."
+                },
+                {
+                    "text": "Steinmeier \u2013 so viel kann man sagen \u2013 haben die Demonstrationen gegen rechts, zu denen Hunderttausende im Land str\u00f6mten, tief beeindruckt."
+                },
+                {
+                    "text": "Mag sein, dass er so etwas nicht f\u00fcr m\u00f6glich gehalten hat."
+                },
+                {
+                    "text": "Er sorgt sich um die Demokratie und deren Zukunft in Deutschland, er beklagt zunehmende Polarisierung und glaubt an das Gespr\u00e4ch."
+                },
+                {
+                    "text": "W\u00e4hrend seiner Reise in S\u00fcdostasien \u00fcberl\u00e4sst Steinmeier das Reden zum Thema zun\u00e4chst anderen."
+                },
+                {
+                    "text": "In der Sache d\u00fcrfte Steinmeier nicht v\u00f6llig anders argumentieren, wom\u00f6glich aber im Ton."
+                },
+                {
+                    "text": "Kommenden Montag will Steinmeier mit Betriebsr\u00e4ten, Unternehmensbossen, Verb\u00e4nden und Gewerkschaftern Ideen dazu beraten."
+                }
+            ],
+            "occupations": [],
+            "directQuotes": [
+                {
+                    "text": "Wie lange lernen Sie schon Deutsch?"
+                },
+                {
+                    "text": "ein B\u00fcndnis aller Demokratinnen und Demokraten"
+                }
+            ],
+            "quotedInTitle": false,
+            "quotedInIntro": true
+        },
+        {
+            "name": "Shimon Peres",
+            "alternativeNames": [],
+            "age": -1,
+            "sex": "male",
+            "occurences": {
+                "total": 1,
+                "firstNameOnly": 0,
+                "lastNameOnly": 0,
+                "fullName": 1,
+                "nickname": 0
+            },
+            "inTitle": false,
+            "inIntro": false,
+            "_name": {
+                "firstname": "Shimon",
+                "lastname": "Peres",
+                "nickname": null,
+                "alternative_names": [],
+                "academic_title": null,
+                "nobility_title_or_rank": null
+            },
+            "descriptiveTexts": [
+                {
+                    "text": "Weil Pessimismus als Zeitverschwendung zu sehen ist, wie der fr\u00fchere israelische Politiker Shimon Peres einmal gesagt hat."
+                }
+            ],
+            "occupations": [],
+            "directQuotes": [],
+            "quotedInTitle": false,
+            "quotedInIntro": false
+        }
+    ]
+}

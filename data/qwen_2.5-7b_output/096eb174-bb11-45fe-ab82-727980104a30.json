@@ -1,0 +1,549 @@
+{
+    "persons": [
+        {
+            "name": "Oliver Roll",
+            "alternativeNames": [],
+            "age": 44,
+            "sex": "male",
+            "occurences": {
+                "total": 1,
+                "firstNameOnly": 0,
+                "lastNameOnly": 0,
+                "fullName": 1,
+                "nickname": 0
+            },
+            "inTitle": false,
+            "inIntro": false,
+            "_name": {
+                "firstname": "Oliver",
+                "lastname": "Roll",
+                "nickname": null,
+                "alternative_names": [],
+                "academic_title": null,
+                "nobility_title_or_rank": null
+            },
+            "descriptiveTexts": [
+                {
+                    "text": "Oliver Roll, 44, Berlin, selbstst\u00e4ndiger Handwerker, Inhaber einer Firma f\u00fcr Heizungstechnik und Vater eines siebenj\u00e4hrigen Kindes und eines Zwillingspaares im Alter von neun Jahren"
+                },
+                {
+                    "text": "Als Inhaber einer Firma f\u00fcr Heizungsbau bin ich im Prinzip rund um die Uhr im Dienst."
+                },
+                {
+                    "text": "Mehr oder weniger jede wache Stunde verbringe ich mit Arbeit."
+                },
+                {
+                    "text": "Wenn ich k\u00f6nnte, w\u00fcrde ich meine Arbeitszeit reduzieren, aber daf\u00fcr fehlt mir Personal."
+                },
+                {
+                    "text": "Also mache ich viel selbst."
+                },
+                {
+                    "text": "Sie arbeitet Teilzeit im Einzelhandel."
+                },
+                {
+                    "text": "F\u00fcr uns war klar, dass sie zun\u00e4chst zu Hause bleibt und auf die Kinder aufpasst, bis sie \u00e4lter sind."
+                },
+                {
+                    "text": "Als Gesch\u00e4ftsf\u00fchrer meiner Firma konnte ich keine Elternzeit nehmen."
+                },
+                {
+                    "text": "Ich schaue, dass ich meine Kinder zwischen Auftr\u00e4gen zur Schule bringe oder vom Hort abhole und zu Freizeitaktivit\u00e4ten fahre."
+                },
+                {
+                    "text": "Da \u00fcbernehme ich den Notdienst in der Firma."
+                },
+                {
+                    "text": "Das bedeutet, dass ich zu Hause sein kann, solange nichts passiert."
+                },
+                {
+                    "text": "Sollte dann doch mal bei einem Kunden eine Heizung ausfallen, kann ich aber auch noch den Tag mit meiner Familie verbringen und erst nachmittags oder abends rausfahren und mich um den Notfall k\u00fcmmern."
+                },
+                {
+                    "text": "Die B\u00fcroarbeit erledige ich oft von zu Hause aus dem Homeoffice."
+                },
+                {
+                    "text": "Grunds\u00e4tzlich etwas \u00e4ndern m\u00f6chte ich aber nicht."
+                },
+                {
+                    "text": "Ich mache meinen Beruf sehr gern und bin insgesamt zufrieden mit der Aufteilung."
+                }
+            ],
+            "occupations": [
+                {
+                    "text": "Inhaber einer Firma f\u00fcr Heizungstechnik"
+                },
+                {
+                    "text": "Gesch\u00e4ftsf\u00fchrer"
+                }
+            ],
+            "directQuotes": [],
+            "quotedInTitle": false,
+            "quotedInIntro": false
+        },
+        {
+            "name": "Pascal Hermann",
+            "alternativeNames": [
+                "Pascal Hermann*"
+            ],
+            "age": 45,
+            "sex": "male",
+            "occurences": {
+                "total": 1,
+                "firstNameOnly": 0,
+                "lastNameOnly": 0,
+                "fullName": 1,
+                "nickname": 0
+            },
+            "inTitle": false,
+            "inIntro": false,
+            "_name": {
+                "firstname": "Pascal",
+                "lastname": "Hermann",
+                "nickname": null,
+                "alternative_names": [
+                    "Pascal Hermann*"
+                ],
+                "academic_title": null,
+                "nobility_title_or_rank": null
+            },
+            "descriptiveTexts": [
+                {
+                    "text": "Pascal Hermann*, 45, Jena, Kardiotechniker in einer Klinik und Vater von drei Kindern zwischen f\u00fcnf und 15 Jahren"
+                },
+                {
+                    "text": "Ich bediene die Maschinen, die bei Herzoperationen den Patienten am Leben erhalten."
+                },
+                {
+                    "text": "Manchmal bin ich bei Verlegungen von einem zum anderen Krankenhaus dabei und sorge daf\u00fcr, dass technisch alles reibungslos l\u00e4uft."
+                },
+                {
+                    "text": "Ich arbeite in Vollzeit, aber je nachdem, wie viel gerade zu tun ist, ist das mal mehr und mal weniger Arbeit."
+                },
+                {
+                    "text": "Am Wochenende und unter der Woche habe ich regelm\u00e4\u00dfig Rufbereitschaft."
+                },
+                {
+                    "text": "Das hei\u00dft, ich kann, wenn keine Notf\u00e4lle vorliegen, zu Hause bleiben, muss aber, wenn notwendig, in k\u00fcrzester Zeit in der Klinik sein."
+                },
+                {
+                    "text": "Insgesamt ist meine Arbeit mit meinem Privatleben gut vertr\u00e4glich, und ich mag meinen Job sehr gern."
+                },
+                {
+                    "text": "Ich k\u00f6nnte es mir nicht vorstellen, einfach nur acht Stunden am Tag in einem B\u00fcro zu sitzen."
+                },
+                {
+                    "text": "Sie ist auch im Schichtdienst t\u00e4tig \u2013 inklusive Nachtdiensten, Sp\u00e4tdiensten und Wochenenddiensten."
+                },
+                {
+                    "text": "Ich bin im Osten gro\u00df geworden."
+                },
+                {
+                    "text": "Meine Frau zeigt mir Anfang des Vormonats ihre Dienstpl\u00e4ne, und ich bespreche die dann mit meinem Vorgesetzten."
+                },
+                {
+                    "text": "In meinem Team war ich der erste Mann, der Elternzeit genommen hat."
+                },
+                {
+                    "text": "Was das Verst\u00e4ndnis f\u00fcr Familienfreundlichkeit angeht, ist er aber ein Mann alter Schule."
+                },
+                {
+                    "text": "Ich denke, er hat gehofft, dass keiner von uns auf die Idee kommt, Elternzeit zu nehmen."
+                },
+                {
+                    "text": "Ich muss mich immer noch oft rechtfertigen, wenn ich zu Hause bleibe, weil eines unserer Kinder krank ist."
+                },
+                {
+                    "text": "Oder mir wird gesagt, ich sollte meine Frau fragen, ob sie nicht zu Hause bleiben kann."
+                }
+            ],
+            "occupations": [
+                {
+                    "text": "Vater von drei Kindern zwischen f\u00fcnf und 15 Jahren"
+                },
+                {
+                    "text": "Kardiotechniker in einer Klinik"
+                },
+                {
+                    "text": "Rufbereitschaft"
+                }
+            ],
+            "directQuotes": [],
+            "quotedInTitle": false,
+            "quotedInIntro": false
+        },
+        {
+            "name": "Waldemar",
+            "alternativeNames": [],
+            "age": -1,
+            "sex": "male",
+            "occurences": {
+                "total": 1,
+                "firstNameOnly": 0,
+                "lastNameOnly": 0,
+                "fullName": 1,
+                "nickname": 0
+            },
+            "inTitle": false,
+            "inIntro": false,
+            "_name": {
+                "firstname": "Waldemar",
+                "lastname": null,
+                "nickname": null,
+                "alternative_names": [],
+                "academic_title": null,
+                "nobility_title_or_rank": null
+            },
+            "descriptiveTexts": [
+                {
+                    "text": "In unserem Unternehmen, das ich 2015 mit meinem Gesch\u00e4ftspartner Waldemar zusammen gr\u00fcndete, haben wir es uns auf die Fahnen geschrieben, familienfreundlich zu sein."
+                }
+            ],
+            "occupations": [],
+            "directQuotes": [],
+            "quotedInTitle": false,
+            "quotedInIntro": false
+        },
+        {
+            "name": "Jobsharing",
+            "alternativeNames": [],
+            "age": -1,
+            "sex": "unknown",
+            "occurences": {
+                "total": 1,
+                "firstNameOnly": 0,
+                "lastNameOnly": 0,
+                "fullName": 1,
+                "nickname": 0
+            },
+            "inTitle": false,
+            "inIntro": false,
+            "_name": {
+                "firstname": null,
+                "lastname": null,
+                "nickname": null,
+                "alternative_names": [],
+                "academic_title": null,
+                "nobility_title_or_rank": null
+            },
+            "descriptiveTexts": [
+                {
+                    "text": "Ein Konstrukt, das leider noch nicht so verbreitet ist, aber f\u00fcr mich spannend, ist Jobsharing."
+                }
+            ],
+            "occupations": [],
+            "directQuotes": [],
+            "quotedInTitle": false,
+            "quotedInIntro": false
+        },
+        {
+            "name": "T\u00fcrker Bozkurt",
+            "alternativeNames": [],
+            "age": 46,
+            "sex": "male",
+            "occurences": {
+                "total": 1,
+                "firstNameOnly": 0,
+                "lastNameOnly": 0,
+                "fullName": 1,
+                "nickname": 0
+            },
+            "inTitle": false,
+            "inIntro": false,
+            "_name": {
+                "firstname": "T\u00fcrker",
+                "lastname": "Bozkurt",
+                "nickname": null,
+                "alternative_names": [],
+                "academic_title": null,
+                "nobility_title_or_rank": null
+            },
+            "descriptiveTexts": [
+                {
+                    "text": "T\u00fcrker Bozkurt, 46, Stuttgart, arbeitet in der chemischen Verfahrensentwicklung bei einem Automobilzulieferer."
+                },
+                {
+                    "text": "Er ist Vater von f\u00fcnf Kindern im Alter zwischen 15 und Anfang 20"
+                },
+                {
+                    "text": "Ich bin als Junge in der T\u00fcrkei aufgewachsen und erst mit zehn Jahren nach Deutschland gekommen."
+                },
+                {
+                    "text": "In Deutschland habe ich die Grundschule besucht."
+                },
+                {
+                    "text": "Also besuchte ich die Hauptschule, machte eine Ausbildung und habe anschlie\u00dfend in der Automobilbranche gearbeitet."
+                },
+                {
+                    "text": "Nach der Ausbildung habe ich geheiratet und f\u00fcnf Kinder bekommen \u2013 darunter Zwillinge."
+                },
+                {
+                    "text": "Deshalb habe ich eine Abendschule besucht und einen Abschluss als technischer Fachwirt gemacht."
+                },
+                {
+                    "text": "Ich habe gro\u00dfes Gl\u00fcck gehabt und viele Chancen bekommen."
+                },
+                {
+                    "text": "Aktuell arbeite ich in der chemischen Verfahrensentwicklung."
+                },
+                {
+                    "text": "Im Homeoffice kann ich inzwischen deutlich mehr Zeit mit meinen Kindern verbringen und meine Frau unterst\u00fctzen."
+                },
+                {
+                    "text": "Ich esse mit der Familie zu Mittag und kann mich auch mal mit meinen Kindern \u00fcber ihren Tag unterhalten."
+                },
+                {
+                    "text": "Das kann ich mir nicht mehr anders vorstellen."
+                },
+                {
+                    "text": "Ich h\u00e4tte mir gew\u00fcnscht, mehr von ihrem Aufwachsen mitzuerleben."
+                },
+                {
+                    "text": "Ich finde es beeindruckend, wie sie sich in einem so m\u00e4nnerdominierten Studiengang durchgesetzt und diesen jetzt mit Bravour abgeschlossen hat."
+                }
+            ],
+            "occupations": [
+                {
+                    "text": "ist Vater von f\u00fcnf Kindern im Alter zwischen 15 und Anfang 20"
+                }
+            ],
+            "directQuotes": [],
+            "quotedInTitle": false,
+            "quotedInIntro": false
+        },
+        {
+            "name": "Kevin Tiedgen",
+            "alternativeNames": [],
+            "age": 34,
+            "sex": "male",
+            "occurences": {
+                "total": 1,
+                "firstNameOnly": 0,
+                "lastNameOnly": 0,
+                "fullName": 1,
+                "nickname": 0
+            },
+            "inTitle": false,
+            "inIntro": false,
+            "_name": {
+                "firstname": "Kevin",
+                "lastname": "Tiedgen",
+                "nickname": null,
+                "alternative_names": [],
+                "academic_title": null,
+                "nobility_title_or_rank": null
+            },
+            "descriptiveTexts": [
+                {
+                    "text": "V\u00e4ter erz\u00e4hlen, wie sie Kind und Karriere unter einen Hut bekommen (oder eben nicht)"
+                },
+                {
+                    "text": "F\u00fcnf V\u00e4ter berichten, wie sie die Arbeit aufteilen \u2013 und warum bei einigen weiterhin die M\u00fctter die Care-Arbeit verrichten."
+                },
+                {
+                    "text": "Hier erz\u00e4hlen f\u00fcnf V\u00e4ter, wie sie Job und Familie unter einen Hut bekommen und was sich in der Arbeitswelt noch tun muss, damit sie familienfreundlicher wird."
+                },
+                {
+                    "text": "Kevin Tiedgen, 34, Reutlingen, getrennt lebend, F\u00fchrungskraft in einer Werbeagentur und Vater eines sechsj\u00e4hrigen Sohnes"
+                },
+                {
+                    "text": "Ich war immer sehr ambitioniert in meinem Job, habe mich trotz abgebrochenen Studiums immer weiter nach oben gearbeitet und bin nach Stationen in der Politik inzwischen in einer F\u00fchrungsposition in einer bekannten Werbeagentur angekommen."
+                },
+                {
+                    "text": "Ich habe immer alles in meinem Leben mit 120 Prozent betrieben und nie halbherzig."
+                },
+                {
+                    "text": "Ich mag meinen Job."
+                },
+                {
+                    "text": "Als mir ein Chef in einem fr\u00fcheren Job erkl\u00e4rte, dass das vereinbarte Homeoffice nicht gehe, habe ich gek\u00fcndigt."
+                },
+                {
+                    "text": "Aber ich musste von Hamburg nach S\u00fcddeutschland pendeln, um meine Familie zu sehen."
+                },
+                {
+                    "text": "Vielleicht bin ich so familienorientiert, weil ich ohne Vater aufgewachsen bin."
+                },
+                {
+                    "text": "Mir war damals klar: Ich m\u00f6chte das anders machen als mein Vater."
+                },
+                {
+                    "text": "Leider sind die Mutter meines Sohnes und ich inzwischen auch getrennt."
+                },
+                {
+                    "text": "Ich \u00fcbernehme aber ungef\u00e4hr 30 bis 40 Prozent der Betreuung."
+                },
+                {
+                    "text": "Dabei helfen mir das Homeoffice, das im Grunde immer m\u00f6glich ist, und die sehr flexiblen Arbeitszeiten, die ich mir als F\u00fchrungskraft erlauben kann."
+                },
+                {
+                    "text": "Meine Kollegen und Mitarbeiter wissen, es gibt feste Tage, an denen ich fr\u00fcher weg bin, meinen Sohn abhole und anschlie\u00dfend von zu Hause arbeite."
+                },
+                {
+                    "text": "Wenn ich k\u00f6nnte, w\u00fcrde ich meinen Sohn gern noch mehr sehen."
+                },
+                {
+                    "text": "Ich h\u00e4tte aber auch kein Problem damit gehabt, mich ausschlie\u00dflich um meinen Sohn zu k\u00fcmmern und zumindest eine Zeit lang gar nicht berufst\u00e4tig zu sein."
+                },
+                {
+                    "text": "So wie nach der Geburt, als ich mich mehrere Monate hauptamtlich um unseren Sohn gek\u00fcmmert habe."
+                },
+                {
+                    "text": "An sich bin ich sehr zufrieden mit der Vereinbarkeit von Familie und Arbeit in meinem derzeitigen Beruf."
+                },
+                {
+                    "text": "Bisher gibt es das Modell in meiner Firma nicht, ich k\u00f6nnte mir aber vorstellen, dass es einmal m\u00f6glich sein wird."
+                }
+            ],
+            "occupations": [
+                {
+                    "text": "Familienfreundlich"
+                },
+                {
+                    "text": "F\u00fchrungskraft in einer Werbeagentur"
+                },
+                {
+                    "text": "Vater eines sechsj\u00e4hrigen Sohnes"
+                }
+            ],
+            "directQuotes": [],
+            "quotedInTitle": false,
+            "quotedInIntro": false
+        },
+        {
+            "name": "Corona",
+            "alternativeNames": [],
+            "age": -1,
+            "sex": "unknown",
+            "occurences": {
+                "total": 5,
+                "firstNameOnly": 0,
+                "lastNameOnly": 0,
+                "fullName": 5,
+                "nickname": 0
+            },
+            "inTitle": false,
+            "inIntro": false,
+            "_name": {
+                "firstname": null,
+                "lastname": null,
+                "nickname": null,
+                "alternative_names": [],
+                "academic_title": null,
+                "nobility_title_or_rank": null
+            },
+            "descriptiveTexts": [
+                {
+                    "text": "Das war vor Corona."
+                },
+                {
+                    "text": "Das ist definitiv eine positive Entwicklung seit Corona."
+                },
+                {
+                    "text": "Corona hat meinen Arbeitsalltag sehr stark ver\u00e4ndert."
+                },
+                {
+                    "text": "Corona hat bei vielen ein Umdenken bewirkt, weil auch V\u00e4tern klar wurde, was Betreuung bedeutet."
+                },
+                {
+                    "text": "Seit Corona sowieso."
+                }
+            ],
+            "occupations": [
+                {
+                    "text": "Vater von drei Kindern zwischen f\u00fcnf und 15 Jahren"
+                },
+                {
+                    "text": "Kardiotechniker in einer Klinik"
+                }
+            ],
+            "directQuotes": [],
+            "quotedInTitle": false,
+            "quotedInIntro": false
+        },
+        {
+            "name": "Philip Siefer",
+            "alternativeNames": [],
+            "age": 41,
+            "sex": "male",
+            "occurences": {
+                "total": 1,
+                "firstNameOnly": 0,
+                "lastNameOnly": 0,
+                "fullName": 1,
+                "nickname": 0
+            },
+            "inTitle": false,
+            "inIntro": false,
+            "_name": {
+                "firstname": "Philip",
+                "lastname": "Siefer",
+                "nickname": null,
+                "alternative_names": [],
+                "academic_title": null,
+                "nobility_title_or_rank": null
+            },
+            "descriptiveTexts": [
+                {
+                    "text": "Philip Siefer, 41, Berlin, Gesch\u00e4ftsf\u00fchrer und Gr\u00fcnder der Kondomfirma Einhorn."
+                },
+                {
+                    "text": "Er hat einen f\u00fcnfj\u00e4hrigen Sohn"
+                },
+                {
+                    "text": "Ich bin klassisch westdeutsch sozialisiert worden."
+                },
+                {
+                    "text": "Ich bin meinen Eltern sehr dankbar."
+                },
+                {
+                    "text": "Ich hatte eine sch\u00f6ne Kindheit, und sie haben uns eine Menge erm\u00f6glicht."
+                },
+                {
+                    "text": "Dabei habe ich lange gedacht, wenn man Chef:in ist, hat man eben keine Zeit f\u00fcr Familie."
+                },
+                {
+                    "text": "Damals wollte ich noch Million\u00e4r werden, und beruflicher Erfolg war mir total wichtig."
+                },
+                {
+                    "text": "Als meine jetzige Frau und ich uns entschieden haben, Eltern zu werden, war ich schon weiter."
+                },
+                {
+                    "text": "Da wusste ich mehr \u00fcber Gleichberechtigung und Feminismus und dass es auch anders geht."
+                },
+                {
+                    "text": "Meine Frau und ich versuchen, die Betreuung ausgeglichen zu verteilen."
+                },
+                {
+                    "text": "Ich glaube, dass das nie zu 100 Prozent funktioniert \u2013 manchmal \u00fcbernimmt sie mehr, manchmal ich \u2013, aber wir versuchen es zumindest."
+                },
+                {
+                    "text": "W\u00e4hrend ich hier gerade telefoniere, ist mein Sohn krank zu Hause, und ich muss trotzdem nebenher arbeiten."
+                },
+                {
+                    "text": "Sie soll nicht automatisch einspringen, auch wenn sie die Betreuung heute leichter \u00fcbernehmen k\u00f6nnte als ich."
+                },
+                {
+                    "text": "Sie ben\u00f6tigt auch ihre Erholungsm\u00f6glichkeiten und Zeit f\u00fcr sich."
+                },
+                {
+                    "text": "In unserem Unternehmen, das ich 2015 mit meinem Gesch\u00e4ftspartner Waldemar zusammen gr\u00fcndete, haben wir es uns auf die Fahnen geschrieben, familienfreundlich zu sein."
+                },
+                {
+                    "text": "Bevor unser Sohn auf die Welt gekommen ist, habe ich oftmals wenig Verst\u00e4ndnis daf\u00fcr gehabt, wenn Mitarbeiter:innen nicht zur Arbeit kommen konnten, weil ein Kind krank war."
+                },
+                {
+                    "text": "Heute wei\u00df ich, was es bedeutet, mit einem schreienden Baby auf dem Arm eine E-Mail zu schreiben."
+                }
+            ],
+            "occupations": [
+                {
+                    "text": "Gesch\u00e4ftsf\u00fchrer und Gr\u00fcnder der Kondomfirma Einhorn"
+                }
+            ],
+            "directQuotes": [],
+            "quotedInTitle": false,
+            "quotedInIntro": false
+        }
+    ]
+}

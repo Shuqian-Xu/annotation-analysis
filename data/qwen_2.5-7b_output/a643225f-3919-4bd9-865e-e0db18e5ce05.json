@@ -1,0 +1,843 @@
+{
+    "persons": [
+        {
+            "name": "Einat Wilf",
+            "alternativeNames": [
+                "Wilfs"
+            ],
+            "age": -1,
+            "sex": "female",
+            "occurences": {
+                "total": 3,
+                "firstNameOnly": 0,
+                "lastNameOnly": 1,
+                "fullName": 2,
+                "nickname": 0
+            },
+            "inTitle": false,
+            "inIntro": false,
+            "_name": {
+                "firstname": "Einat",
+                "lastname": "Wilf",
+                "nickname": null,
+                "alternative_names": [
+                    "Wilfs"
+                ],
+                "academic_title": null,
+                "nobility_title_or_rank": null
+            },
+            "descriptiveTexts": [
+                {
+                    "text": "Einat Wilf, ehemalige Knesset-Abgeordnete und Autorin des UNRWA-kritischen Buchs \u00bbThe War of Return\u00ab, \u00e4u\u00dfert grunds\u00e4tzliche Bedenken gegen\u00fcber dem UNRWA-Schulsystem: \u00bbDort ist der moderne pal\u00e4stinensische Nationalismus erwachsen\u00ab, sagt sie."
+                },
+                {
+                    "text": "F\u00fcr die israelische UNRWA-Kritikerin Einat Wilf ist das der einzig richtige Weg: \u00bbEs geht nicht darum, wer die UNRWA ersetzt, sondern darum, dass es passiert.\u00ab"
+                },
+                {
+                    "text": "Wilfs Einordnung scheint fraglich, schlie\u00dflich ist die Sehnsucht nach einer R\u00fcckkehr Teil der pal\u00e4stinensischen Identit\u00e4t \u2013 und h\u00e4ngt nicht an der Existenz der UNRWA."
+                }
+            ],
+            "occupations": [],
+            "directQuotes": [],
+            "quotedInTitle": false,
+            "quotedInIntro": false
+        },
+        {
+            "name": "St\u00e9phane Dujarric",
+            "alternativeNames": [],
+            "age": -1,
+            "sex": "male",
+            "occurences": {
+                "total": 1,
+                "firstNameOnly": 0,
+                "lastNameOnly": 0,
+                "fullName": 1,
+                "nickname": 0
+            },
+            "inTitle": false,
+            "inIntro": false,
+            "_name": {
+                "firstname": "St\u00e9phane",
+                "lastname": "Dujarric",
+                "nickname": null,
+                "alternative_names": [],
+                "academic_title": null,
+                "nobility_title_or_rank": null
+            },
+            "descriptiveTexts": [
+                {
+                    "text": "Laut Uno-Sprecher St\u00e9phane Dujarric sei daf\u00fcr die Kooperation israelischer Stellen von \u00bbkritischer Bedeutung\u00ab."
+                }
+            ],
+            "occupations": [],
+            "directQuotes": [],
+            "quotedInTitle": false,
+            "quotedInIntro": false
+        },
+        {
+            "name": "Matthias Schmale",
+            "alternativeNames": [],
+            "age": -1,
+            "sex": "male",
+            "occurences": {
+                "total": 3,
+                "firstNameOnly": 0,
+                "lastNameOnly": 2,
+                "fullName": 1,
+                "nickname": 0
+            },
+            "inTitle": false,
+            "inIntro": false,
+            "_name": {
+                "firstname": "Matthias",
+                "lastname": "Schmale",
+                "nickname": null,
+                "alternative_names": [],
+                "academic_title": null,
+                "nobility_title_or_rank": null
+            },
+            "descriptiveTexts": [
+                {
+                    "text": "Der Deutsche Matthias Schmale war zwischen 2017 und 2021 UNRWA-Chef dort."
+                },
+                {
+                    "text": "Und musste eines Morgens das Gebiet verlassen, weil er die Luftschl\u00e4ge der israelischen Armee im elft\u00e4gigen Krieg gegen die Hamas als pr\u00e4zise bezeichnet hatte."
+                },
+                {
+                    "text": "Mehrmals lag er mit der Hamas w\u00e4hrend seiner Amtszeit im Clinch."
+                },
+                {
+                    "text": "Der SPIEGEL erreicht Schmale \u00fcber WhatsApp in Addis Abeba."
+                },
+                {
+                    "text": "Von der \u00e4thiopischen Hauptstadt aus leitet er ein Uno-Regionalb\u00fcro f\u00fcr Entwicklungshilfe in Afrika."
+                },
+                {
+                    "text": "Die aktuellen Vorw\u00fcrfe, zw\u00f6lf Prozent der UNRWA-Mitarbeiter seien Mitglieder von Terrororganisationen, h\u00e4lt er f\u00fcr \u00bbma\u00dflos \u00fcbertrieben\u00ab."
+                },
+                {
+                    "text": "\u00bbWeil wir ohne ihr Einverst\u00e4ndnis dort nicht mal eine Schule h\u00e4tten bauen k\u00f6nnen\u00ab, sagt er, \u00bbaber es ist uns gelungen, Grenzen zu ziehen und unsere Unabh\u00e4ngigkeit zu bewahren.\u00ab"
+                },
+                {
+                    "text": "Nat\u00fcrlich h\u00e4tten sie damals in Gaza-Stadt dar\u00fcber spekuliert, ob unter ihnen Tunnel verliefen, sagt Schmale."
+                },
+                {
+                    "text": "Erst als er einen Hamas-F\u00fchrer pers\u00f6nlich konfrontiert habe, habe dieser die Existenz des Tunnels eingestanden."
+                },
+                {
+                    "text": "\u00bbNachdem wir auch mit den Israelis gesprochen hatten, konnten wir Beton importieren und das Loch verschlie\u00dfen\u00ab, sagt er."
+                }
+            ],
+            "occupations": [],
+            "directQuotes": [],
+            "quotedInTitle": false,
+            "quotedInIntro": false
+        },
+        {
+            "name": "Tasnim Abedelhadi",
+            "alternativeNames": [],
+            "age": 34,
+            "sex": "female",
+            "occurences": {
+                "total": 4,
+                "firstNameOnly": 0,
+                "lastNameOnly": 2,
+                "fullName": 2,
+                "nickname": 0
+            },
+            "inTitle": false,
+            "inIntro": false,
+            "_name": {
+                "firstname": "Tasnim",
+                "lastname": "Abedelhadi",
+                "nickname": null,
+                "alternative_names": [],
+                "academic_title": null,
+                "nobility_title_or_rank": null
+            },
+            "descriptiveTexts": [
+                {
+                    "text": "Tasnim Abedelhadi, 34, hat zwei UNRWA-Schulen in Chan Junis besucht und betont, dass es in ihrer Zeit nie um Politik gegangen sei."
+                },
+                {
+                    "text": "Sie habe gelernt, in einer von M\u00e4nnern dominierten Gesellschaft erfolgreich zu sein."
+                },
+                {
+                    "text": "Abedelhadi, ihr Mann und die drei kleinen T\u00f6chter sind seit Dezember dort."
+                },
+                {
+                    "text": "Sie habe auch psychologische Unterst\u00fctzung und Impfungen bekommen, sagt Abedelhadi."
+                },
+                {
+                    "text": "Und durch ein UNRWA-Stipendium habe sie eine Ausbildung zur Englischlehrerin und ein Studium absolvieren k\u00f6nnen."
+                },
+                {
+                    "text": "Bis zum 7. Oktober habe sie erfolgreich f\u00fcr verschiedene Kunden im Ausland als Marketingexpertin gearbeitet."
+                },
+                {
+                    "text": "Als ihre sechsj\u00e4hrige Tochter im September auf eine UNRWA-Schule gekommen sei, sei sie stolz gewesen."
+                },
+                {
+                    "text": "\u00bbJetzt fragt sie mich jeden Morgen, wann sie wieder dahin zur\u00fcckkann. Und warum die Hamas diesen Krieg begonnen hat.\u00ab"
+                },
+                {
+                    "text": "Tasnim Abedelhadi, die \u00dcbersetzerin aus Chan Junis, lebt mit ihrem Mann und den T\u00f6chtern nun in einem Zelt in Rafah."
+                }
+            ],
+            "occupations": [
+                {
+                    "text": "\u00dcbersetzerin"
+                },
+                {
+                    "text": "Marketingexpertin"
+                }
+            ],
+            "directQuotes": [],
+            "quotedInTitle": false,
+            "quotedInIntro": false
+        },
+        {
+            "name": "Ant\u00f3nio Guterres",
+            "alternativeNames": [],
+            "age": -1,
+            "sex": "male",
+            "occurences": {
+                "total": 3,
+                "firstNameOnly": 0,
+                "lastNameOnly": 2,
+                "fullName": 1,
+                "nickname": 0
+            },
+            "inTitle": false,
+            "inIntro": false,
+            "_name": {
+                "firstname": "Ant\u00f3nio",
+                "lastname": "Guterres",
+                "nickname": null,
+                "alternative_names": [],
+                "academic_title": null,
+                "nobility_title_or_rank": null
+            },
+            "descriptiveTexts": [
+                {
+                    "text": "Vier Tage sp\u00e4ter sei er nach New York geflogen, um mit Uno-Generalsekret\u00e4r Ant\u00f3nio Guterres zu sprechen."
+                },
+                {
+                    "text": "Die Uno hat nach dem Gespr\u00e4ch zwischen Lazzarini und Guterres in New York zwei Untersuchungen veranlasst."
+                },
+                {
+                    "text": "Wesentlich dazu beigetragen hatte die Aussage von Generalsekret\u00e4r Guterres, der Terrorangriff sei \u00bbnicht in einem Vakuum passiert\u00ab."
+                }
+            ],
+            "occupations": [],
+            "directQuotes": [],
+            "quotedInTitle": false,
+            "quotedInIntro": false
+        },
+        {
+            "name": "Christoph Safferling",
+            "alternativeNames": [],
+            "age": -1,
+            "sex": "male",
+            "occurences": {
+                "total": 2,
+                "firstNameOnly": 0,
+                "lastNameOnly": 1,
+                "fullName": 1,
+                "nickname": 0
+            },
+            "inTitle": false,
+            "inIntro": false,
+            "_name": {
+                "firstname": "Christoph",
+                "lastname": "Safferling",
+                "nickname": null,
+                "alternative_names": [],
+                "academic_title": null,
+                "nobility_title_or_rank": null
+            },
+            "descriptiveTexts": [
+                {
+                    "text": "Es sei komplex, die Mandate der einzelnen Organisationen zu erweitern, sagt der V\u00f6lkerrechtler Christoph Safferling von der Internationalen Akademie N\u00fcrnberger Prinzipien: \u00bbEs gilt das Prinzip der Freiwilligkeit. Israel kann sie nicht zwingen.\u00ab"
+                },
+                {
+                    "text": "V\u00f6lkerrechtler Safferling gibt zu bedenken: \u00bbDer Internationale Gerichtshof hat Israel dazu verpflichtet, die humanit\u00e4re Versorgung der Zivilbev\u00f6lkerung im Gazastreifen zu verbessern.\u00ab"
+                }
+            ],
+            "occupations": [
+                {
+                    "text": "V\u00f6lkerrechtler"
+                }
+            ],
+            "directQuotes": [],
+            "quotedInTitle": false,
+            "quotedInIntro": false
+        },
+        {
+            "name": "Antony Blinken",
+            "alternativeNames": [],
+            "age": -1,
+            "sex": "male",
+            "occurences": {
+                "total": 1,
+                "firstNameOnly": 0,
+                "lastNameOnly": 0,
+                "fullName": 1,
+                "nickname": 0
+            },
+            "inTitle": false,
+            "inIntro": false,
+            "_name": {
+                "firstname": "Antony",
+                "lastname": "Blinken",
+                "nickname": null,
+                "alternative_names": [],
+                "academic_title": null,
+                "nobility_title_or_rank": null
+            },
+            "descriptiveTexts": [
+                {
+                    "text": "US-Au\u00dfenminister Antony Blinken hatte die israelischen Vorw\u00fcrfe zun\u00e4chst als \u00bbsehr, sehr glaubw\u00fcrdig\u00ab bezeichnet und so wom\u00f6glich die vielen Beitragsblockaden ausgel\u00f6st."
+                }
+            ],
+            "occupations": [],
+            "directQuotes": [],
+            "quotedInTitle": false,
+            "quotedInIntro": false
+        },
+        {
+            "name": "Achim Rohde",
+            "alternativeNames": [],
+            "age": -1,
+            "sex": "male",
+            "occurences": {
+                "total": 2,
+                "firstNameOnly": 0,
+                "lastNameOnly": 1,
+                "fullName": 1,
+                "nickname": 0
+            },
+            "inTitle": false,
+            "inIntro": false,
+            "_name": {
+                "firstname": "Achim",
+                "lastname": "Rohde",
+                "nickname": null,
+                "alternative_names": [],
+                "academic_title": null,
+                "nobility_title_or_rank": null
+            },
+            "descriptiveTexts": [
+                {
+                    "text": "\u00bbDie Kritik an den Landkarten ist nachvollziehbar\u00ab, sagt der Hamburger Islamwissenschaftler Achim Rohde."
+                },
+                {
+                    "text": "In der Drastik, wie die Kritik seitens Israels oder proisraelischer Denkfabriken dargestellt werde, sei diese \u00bbvon solider Forschung ein ums andere Mal nicht best\u00e4tigt worden\u00ab, sagt Rohde."
+                }
+            ],
+            "occupations": [],
+            "directQuotes": [],
+            "quotedInTitle": false,
+            "quotedInIntro": false
+        },
+        {
+            "name": "Michal Marmary",
+            "alternativeNames": [],
+            "age": -1,
+            "sex": "male",
+            "occurences": {
+                "total": 1,
+                "firstNameOnly": 0,
+                "lastNameOnly": 0,
+                "fullName": 1,
+                "nickname": 0
+            },
+            "inTitle": false,
+            "inIntro": false,
+            "_name": {
+                "firstname": "Michal",
+                "lastname": "Marmary",
+                "nickname": null,
+                "alternative_names": [],
+                "academic_title": null,
+                "nobility_title_or_rank": null
+            },
+            "descriptiveTexts": [
+                {
+                    "text": "Mitarbeit: Michal Marmary Anmerkung der Redaktion: In einer fr\u00fcheren Fassung des Textes schrieben wir von 1200 von der Hamas ermordeten Menschen."
+                }
+            ],
+            "occupations": [
+                {
+                    "text": "Journalist"
+                }
+            ],
+            "directQuotes": [],
+            "quotedInTitle": false,
+            "quotedInIntro": false
+        },
+        {
+            "name": "Washington",
+            "alternativeNames": [],
+            "age": -1,
+            "sex": "unknown",
+            "occurences": {
+                "total": 3,
+                "firstNameOnly": 0,
+                "lastNameOnly": 0,
+                "fullName": 3,
+                "nickname": 0
+            },
+            "inTitle": false,
+            "inIntro": false,
+            "_name": {
+                "firstname": null,
+                "lastname": null,
+                "nickname": null,
+                "alternative_names": [],
+                "academic_title": null,
+                "nobility_title_or_rank": null
+            },
+            "descriptiveTexts": [
+                {
+                    "text": "Journalisten der \u00bbWashington Post\u00ab haben mit Gesichtserkennungssoftware nachgepr\u00fcft, dass es sich tats\u00e4chlich um Naami gehandelt haben soll."
+                },
+                {
+                    "text": "Am Montag sprachen sie in Washington vor, am Mittwoch im Berliner Kanzleramt und im Ausw\u00e4rtigen Amt."
+                },
+                {
+                    "text": "Washingtons Nachfragen wiederum l\u00f6sten \u00bbFassungslosigkeit\u00ab in Israel aus, berichtete die \u00bbNew York Times\u00ab."
+                }
+            ],
+            "occupations": [],
+            "directQuotes": [],
+            "quotedInTitle": false,
+            "quotedInIntro": false
+        },
+        {
+            "name": "Philippe Lazzarini",
+            "alternativeNames": [],
+            "age": -1,
+            "sex": "male",
+            "occurences": {
+                "total": 16,
+                "firstNameOnly": 0,
+                "lastNameOnly": 11,
+                "fullName": 5,
+                "nickname": 0
+            },
+            "inTitle": false,
+            "inIntro": false,
+            "_name": {
+                "firstname": "Philippe",
+                "lastname": "Lazzarini",
+                "nickname": null,
+                "alternative_names": [],
+                "academic_title": null,
+                "nobility_title_or_rank": null
+            },
+            "descriptiveTexts": [
+                {
+                    "text": "Es komme eigentlich nicht vor, dass die Israelis ihn, Philippe Lazzarini, Chef der Pal\u00e4stinenserhilfsorganisation UNRWA, kurzfristig um einen pers\u00f6nlichen Termin bitten."
+                },
+                {
+                    "text": "Aber Amir Weissbrod, stellvertretender Generaldirektor im Au\u00dfenministerium, habe offenbar etwas so Brisantes zu besprechen gehabt, dass er Lazzarini gefragt habe, ob er aus Jerusalem anreisen k\u00f6nne."
+                },
+                {
+                    "text": "Lazzarini sei ungeduldig geworden: \u00bbAmir, ich wei\u00df, dass du mich nicht deswegen herbestellt hast.\u00ab"
+                },
+                {
+                    "text": "Er habe in diesem Moment gewusst, so erinnert sich Generalkommissar Lazzarini bei einem Gespr\u00e4ch in seinem Jerusalemer B\u00fcro Ende Februar, dass das \u00dcberleben der UNRWA auf dem Spiel stehe: \u00bbDass es in der Folge darum geht, unsere Dienstleistungen aufrechtzuerhalten und lebenswichtige Hilfe zu leisten.\u00ab"
+                },
+                {
+                    "text": "Weissbrod habe Lazzarini die Namen der Beschuldigten auf Englisch aus dem auf Hebr\u00e4isch verfassten Dossier buchstabiert."
+                },
+                {
+                    "text": "Dann habe sich der Uno-Mann verabschiedet, er m\u00fcsse die Namen mit seinen Mitarbeitern abgleichen."
+                },
+                {
+                    "text": "Seit Wochen sei er durch Ger\u00fcchte \u00fcber die Mitt\u00e4terschaft einzelner UNRWA-Mitarbeiter alarmiert gewesen."
+                },
+                {
+                    "text": "Auf dem R\u00fcckweg nach Jerusalem habe er begonnen, eine Strategie zu entwerfen \u2013 f\u00fcr die schwerste Krise der Organisation seit ihrem Bestehen."
+                },
+                {
+                    "text": "Laut Lazzarini m\u00fcsste die UNRWA schon im April den Betrieb einstellen, wenn das Geld nicht ankommt."
+                },
+                {
+                    "text": "\u00bbDie UNRWA ist Teil des gesellschaftlichen Gef\u00fcges in Gaza\u00ab, sagt Philippe Lazzarini in seinem B\u00fcro in Ostjerusalem."
+                },
+                {
+                    "text": "Deswegen k\u00f6nne er nicht ausschlie\u00dfen, dass einzelne Mitarbeiter aktiv bei der Hamas oder dem Pal\u00e4stinensischen Dschihad gewesen seien: \u00bbAber nat\u00fcrlich w\u00e4re das ein furchtbarer Verrat \u2013 an unserer Organisation und an den Pal\u00e4stinensern.\u00ab"
+                },
+                {
+                    "text": "Nach dem Treffen mit Weissbrod habe er gewusst, dass er radikale Schritte gehen muss, sagt Lazzarini."
+                },
+                {
+                    "text": "Vier Tage sp\u00e4ter sei er nach New York geflogen, um mit Uno-Generalsekret\u00e4r Ant\u00f3nio Guterres zu sprechen."
+                },
+                {
+                    "text": "Im Anschluss entlie\u00df er vorsorglich zehn Beschuldigte."
+                },
+                {
+                    "text": "\u00bbDen Rechtsweg umzudrehen ist au\u00dferordentlich ungew\u00f6hnlich\u00ab, sagt Lazzarini."
+                },
+                {
+                    "text": "Aber er sei sich sicher gewesen, dass die Existenz seiner Organisation auf dem Spiel steht."
+                },
+                {
+                    "text": "Die Uno hat nach dem Gespr\u00e4ch zwischen Lazzarini und Guterres in New York zwei Untersuchungen veranlasst."
+                },
+                {
+                    "text": "Lazzarini mutma\u00dft, die Geberl\u00e4nder h\u00e4tten allein auf Grundlage des sechsseitigen Dossiers gehandelt: \u00bbAus Vorsicht und aus Angst vor der \u00f6ffentlichen Meinung.\u00ab"
+                },
+                {
+                    "text": "Wie von vielen anderen Vorw\u00fcrfen habe er von dem neu entdeckten Tunnel unter dem Hauptquartier nur aus der Presse erfahren, sagt Lazzarini beim Gespr\u00e4ch in Jerusalem."
+                },
+                {
+                    "text": "Er habe weder die milit\u00e4rische Expertise noch die Technologie, vor allem aber nicht das Mandat, um die Vorw\u00fcrfe zu \u00fcberpr\u00fcfen."
+                },
+                {
+                    "text": "Er k\u00f6nne so etwas nicht ausschlie\u00dfen, sagt Philippe Lazzarini beim Gespr\u00e4ch in seinem B\u00fcro."
+                },
+                {
+                    "text": "Ende Februar wandte sich UNRWA-Chef Philippe Lazzarini in einem Brief an die Uno-Generalversammlung: Israel habe bereits umfangreiche Ma\u00dfnahmen gegen die Organisation in die Wege geleitet."
+                },
+                {
+                    "text": "Lazzarini sieht in Israels Vorgehen den Versuch, \u00bbdie seit Langem bestehenden politischen Parameter f\u00fcr den Frieden in den besetzten pal\u00e4stinensischen Gebieten zu verschieben, die von der Generalversammlung und dem Sicherheitsrat festgelegt wurden\u00ab."
+                },
+                {
+                    "text": "Auch Philippe Lazzarini sieht das als idealen Ausgang."
+                },
+                {
+                    "text": "Er habe in seiner Antrittsrede vor vier Jahren gesagt, dass er gern der letzte UNRWA-Chef sein m\u00f6chte: \u00bbIndem der Konflikt gel\u00f6st wird.\u00ab"
+                },
+                {
+                    "text": "An ein Ende, wie es jetzt im Raum steht, habe er dabei nicht gedacht."
+                }
+            ],
+            "occupations": [
+                {
+                    "text": "Generalkommissar"
+                },
+                {
+                    "text": "Chef der Pal\u00e4stinenserhilfsorganisation UNRWA"
+                },
+                {
+                    "text": "Die UNRWA ist Teil des gesellschaftlichen Gef\u00fcges in Gaza"
+                }
+            ],
+            "directQuotes": [],
+            "quotedInTitle": false,
+            "quotedInIntro": false
+        },
+        {
+            "name": "Benjamin Netanyahu",
+            "alternativeNames": [],
+            "age": -1,
+            "sex": "male",
+            "occurences": {
+                "total": 3,
+                "firstNameOnly": 0,
+                "lastNameOnly": 2,
+                "fullName": 1,
+                "nickname": 0
+            },
+            "inTitle": false,
+            "inIntro": false,
+            "_name": {
+                "firstname": "Benjamin",
+                "lastname": "Netanyahu",
+                "nickname": null,
+                "alternative_names": [],
+                "academic_title": null,
+                "nobility_title_or_rank": null
+            },
+            "descriptiveTexts": [
+                {
+                    "text": "Israels Premier Benjamin Netanyahu forderte Ende Januar: \u00bbDie Mission der UNRWA muss enden.\u00ab"
+                },
+                {
+                    "text": "Das hat Premier Netanyahu im Fernsehen gesagt."
+                },
+                {
+                    "text": "Premier Netanyahu sagte: \u00bbViele der falschen und unbegr\u00fcndeten Anschuldigungen, die in Den Haag gegen uns erhoben wurden, wurden von UNRWA-Beamten vorgebracht.\u00ab"
+                }
+            ],
+            "occupations": [],
+            "directQuotes": [],
+            "quotedInTitle": false,
+            "quotedInIntro": false
+        },
+        {
+            "name": "Ayelet Samerano",
+            "alternativeNames": [],
+            "age": -1,
+            "sex": "female",
+            "occurences": {
+                "total": 2,
+                "firstNameOnly": 0,
+                "lastNameOnly": 1,
+                "fullName": 1,
+                "nickname": 0
+            },
+            "inTitle": false,
+            "inIntro": false,
+            "_name": {
+                "firstname": "Ayelet",
+                "lastname": "Samerano",
+                "nickname": null,
+                "alternative_names": [],
+                "academic_title": null,
+                "nobility_title_or_rank": null
+            },
+            "descriptiveTexts": [
+                {
+                    "text": "Der verschleppte Tote soll der 21-j\u00e4hrige Yonatan Samerano sein."
+                },
+                {
+                    "text": "Seine Mutter Ayelet Samerano klagte Mitte Februar bei einer Pressekonferenz in Tel Aviv: \u00bbWie kann ein Sozialarbeiter einer Organisation, die vorgibt, das Gute in der Welt zu f\u00f6rdern, etwas so Grausames und Unmenschliches tun?\u00ab"
+                }
+            ],
+            "occupations": [
+                {
+                    "text": "Mutter"
+                }
+            ],
+            "directQuotes": [],
+            "quotedInTitle": false,
+            "quotedInIntro": false
+        },
+        {
+            "name": "Faisal Ali Musalam Naami",
+            "alternativeNames": [],
+            "age": -1,
+            "sex": "male",
+            "occurences": {
+                "total": 3,
+                "firstNameOnly": 0,
+                "lastNameOnly": 1,
+                "fullName": 2,
+                "nickname": 0
+            },
+            "inTitle": false,
+            "inIntro": false,
+            "_name": {
+                "firstname": "Faisal Ali Musalam",
+                "lastname": "Naami",
+                "nickname": null,
+                "alternative_names": [],
+                "academic_title": null,
+                "nobility_title_or_rank": null
+            },
+            "descriptiveTexts": [
+                {
+                    "text": "Ben-Ami meint den Fall Faisal Ali Musalam Naami: Videoaufnahmen aus dem Kibbuz Beeri sollen zeigen, wie der 45-j\u00e4hrige UNRWA-Mitarbeiter am 7. Oktober mit einem anderen Mann die Leiche eines Israelis in seinen Gel\u00e4ndewagen zerrte."
+                },
+                {
+                    "text": "Journalisten der \u00bbWashington Post\u00ab haben mit Gesichtserkennungssoftware nachgepr\u00fcft, dass es sich tats\u00e4chlich um Naami gehandelt haben soll."
+                },
+                {
+                    "text": "Zwei weitere mutma\u00dfliche T\u00e4ter waren bereits bei Bombardements get\u00f6tet worden, darunter der mutma\u00dfliche \u00bbLeichendieb\u00ab Faisal Ali Musalam Naami."
+                }
+            ],
+            "occupations": [
+                {
+                    "text": "Sozialarbeiter"
+                }
+            ],
+            "directQuotes": [],
+            "quotedInTitle": false,
+            "quotedInIntro": false
+        },
+        {
+            "name": "Nina Ben-Ami",
+            "alternativeNames": [],
+            "age": -1,
+            "sex": "female",
+            "occurences": {
+                "total": 4,
+                "firstNameOnly": 0,
+                "lastNameOnly": 1,
+                "fullName": 3,
+                "nickname": 0
+            },
+            "inTitle": false,
+            "inIntro": false,
+            "_name": {
+                "firstname": "Nina",
+                "lastname": "Ben-Ami",
+                "nickname": null,
+                "alternative_names": [],
+                "academic_title": null,
+                "nobility_title_or_rank": null
+            },
+            "descriptiveTexts": [
+                {
+                    "text": "Nina Ben-Ami ist neben Amir Weissbrod f\u00fcr Israels Beziehungen zur Uno und zu anderen internationalen Organisationen zust\u00e4ndig."
+                },
+                {
+                    "text": "Sie tr\u00e4gt am Revers ihres Blazers eine gelbe Schleife, das Zeichen f\u00fcr Solidarit\u00e4t mit den israelischen Geiseln im Gazastreifen."
+                },
+                {
+                    "text": "Sie sagt: \u00bbDer 7. Oktober war ein Gamechanger.\u00ab"
+                },
+                {
+                    "text": "Ben-Ami meint den Fall Faisal Ali Musalam Naami: Videoaufnahmen aus dem Kibbuz Beeri sollen zeigen, wie der 45-j\u00e4hrige UNRWA-Mitarbeiter am 7. Oktober mit einem anderen Mann die Leiche eines Israelis in seinen Gel\u00e4ndewagen zerrte."
+                },
+                {
+                    "text": "Dass die Hamas bei der UNRWA \u00bbtief verwurzelt ist\u00ab, wie Nina Ben-Ami sagt, scheint nicht belegt."
+                },
+                {
+                    "text": "\u00bbIch kann mir zumindest nicht vorstellen, dass es die Mitarbeiter nicht mitbekommen haben, sie sind ja st\u00e4ndig vor Ort gewesen\u00ab, sagt die Diplomatin Nina Ben-Ami."
+                }
+            ],
+            "occupations": [
+                {
+                    "text": "Diplomatin"
+                }
+            ],
+            "directQuotes": [],
+            "quotedInTitle": false,
+            "quotedInIntro": false
+        },
+        {
+            "name": "Amir Weissbrod",
+            "alternativeNames": [],
+            "age": -1,
+            "sex": "male",
+            "occurences": {
+                "total": 6,
+                "firstNameOnly": 1,
+                "lastNameOnly": 3,
+                "fullName": 2,
+                "nickname": 0
+            },
+            "inTitle": false,
+            "inIntro": false,
+            "_name": {
+                "firstname": "Amir",
+                "lastname": "Weissbrod",
+                "nickname": null,
+                "alternative_names": [],
+                "academic_title": null,
+                "nobility_title_or_rank": null
+            },
+            "descriptiveTexts": [
+                {
+                    "text": "Er habe bereits ein mulmiges Gef\u00fchl gehabt, als er zum Treffen mit dem israelischen Diplomaten nach Tel Aviv gefahren sei."
+                },
+                {
+                    "text": "Aber Amir Weissbrod, stellvertretender Generaldirektor im Au\u00dfenministerium, habe offenbar etwas so Brisantes zu besprechen gehabt, dass er Lazzarini gefragt habe, ob er aus Jerusalem anreisen k\u00f6nne."
+                },
+                {
+                    "text": "Lazzarini sei ungeduldig geworden: \u00bbAmir, ich wei\u00df, dass du mich nicht deswegen herbestellt hast.\u00ab"
+                },
+                {
+                    "text": "Weissbrod habe einen dicken Ordner gegriffen, aufgeschlagen und gesagt: Israel habe Beweise, dass zw\u00f6lf UNRWA-Mitarbeiter aktiv am Terrorangriff der Hamas am 7. Oktober 2023 beteiligt gewesen seien."
+                },
+                {
+                    "text": "Weissbrod habe Lazzarini die Namen der Beschuldigten auf Englisch aus dem auf Hebr\u00e4isch verfassten Dossier buchstabiert."
+                },
+                {
+                    "text": "Nina Ben-Ami ist neben Amir Weissbrod f\u00fcr Israels Beziehungen zur Uno und zu anderen internationalen Organisationen zust\u00e4ndig."
+                },
+                {
+                    "text": "Nach dem Treffen mit Weissbrod habe er gewusst, dass er radikale Schritte gehen muss, sagt Lazzarini."
+                }
+            ],
+            "occupations": [
+                {
+                    "text": "stellvertretender Generaldirektor im Au\u00dfenministerium"
+                }
+            ],
+            "directQuotes": [
+                {
+                    "text": "Amir, ich wei\u00df, dass du mich nicht deswegen herbestellt hast."
+                }
+            ],
+            "quotedInTitle": false,
+            "quotedInIntro": false
+        },
+        {
+            "name": "David Satterfield",
+            "alternativeNames": [],
+            "age": -1,
+            "sex": "male",
+            "occurences": {
+                "total": 4,
+                "firstNameOnly": 0,
+                "lastNameOnly": 2,
+                "fullName": 2,
+                "nickname": 0
+            },
+            "inTitle": false,
+            "inIntro": false,
+            "_name": {
+                "firstname": "David",
+                "lastname": "Satterfield",
+                "nickname": null,
+                "alternative_names": [],
+                "academic_title": null,
+                "nobility_title_or_rank": null
+            },
+            "descriptiveTexts": [
+                {
+                    "text": "In einem Interview der Denkfabrik Carnegie bet\u00e4tigt David Satterfield, US-Sonderbeauftragter f\u00fcr humanit\u00e4re Angelegenheiten im Nahen Osten: Die Israelis h\u00e4tten der US-Regierung nicht einen konkreten Beweis daf\u00fcr vorgelegt, dass im Gazastreifen Uno-Hilfsg\u00fcter gestohlen werden."
+                },
+                {
+                    "text": "David Satterfield wei\u00df, dass die Leistungsf\u00e4higkeit der UNRWA im Gazastreifen einzigartig ist: Allein f\u00fcr die Nothilfe seien 3000 Mitarbeiter zust\u00e4ndig."
+                },
+                {
+                    "text": "Das Weltern\u00e4hrungsprogramm (WFP) etwa verf\u00fcge \u00fcber gerade einmal 70 Mitarbeiter in Gaza, sagt Satterfield."
+                },
+                {
+                    "text": "Im US-Kongress seien sich Republikaner und Demokraten einig, die UNRWA nicht mehr zu finanzieren, sagt Satterfield."
+                }
+            ],
+            "occupations": [
+                {
+                    "text": "US-Sonderbeauftragter f\u00fcr humanit\u00e4re Angelegenheiten im Nahen Osten"
+                },
+                {
+                    "text": "Die Israelis h\u00e4tten der US-Regierung nicht einen konkreten Beweis daf\u00fcr vorgelegt, dass im Gazastreifen Uno-Hilfsg\u00fcter gestohlen werden."
+                }
+            ],
+            "directQuotes": [],
+            "quotedInTitle": false,
+            "quotedInIntro": false
+        },
+        {
+            "name": "Catherine Colonna",
+            "alternativeNames": [],
+            "age": -1,
+            "sex": "female",
+            "occurences": {
+                "total": 1,
+                "firstNameOnly": 0,
+                "lastNameOnly": 0,
+                "fullName": 1,
+                "nickname": 0
+            },
+            "inTitle": false,
+            "inIntro": false,
+            "_name": {
+                "firstname": "Catherine",
+                "lastname": "Colonna",
+                "nickname": null,
+                "alternative_names": [],
+                "academic_title": null,
+                "nobility_title_or_rank": null
+            },
+            "descriptiveTexts": [
+                {
+                    "text": "Eine Kommission unabh\u00e4ngiger Forschungsinstitute unter Vorsitz der ehemaligen franz\u00f6sischen Au\u00dfenministerin Catherine Colonna soll das Risiko- und Fehlermanagement bei der UNRWA n\u00e4her anschauen."
+                }
+            ],
+            "occupations": [],
+            "directQuotes": [],
+            "quotedInTitle": false,
+            "quotedInIntro": false
+        }
+    ]
+}

@@ -1,0 +1,662 @@
+{
+    "persons": [
+        {
+            "name": "Springer",
+            "alternativeNames": [],
+            "age": -1,
+            "sex": "unknown",
+            "occurences": {
+                "total": 4,
+                "firstNameOnly": 0,
+                "lastNameOnly": 0,
+                "fullName": 4,
+                "nickname": 0
+            },
+            "inTitle": false,
+            "inIntro": true,
+            "_name": {
+                "firstname": null,
+                "lastname": null,
+                "nickname": null,
+                "alternative_names": [],
+                "academic_title": null,
+                "nobility_title_or_rank": null
+            },
+            "descriptiveTexts": [
+                {
+                    "text": "Heute mit dem gnadenlosen Kampf in der Start-up-Szene, der internen Rebellion bei Audi und einem etwas anderen Blick auf die Springer-Aff\u00e4re."
+                },
+                {
+                    "text": "Ein etwas anderer Blick auf die Springer-Aff\u00e4re: Seit Wochen beherrscht der Streit zwischen Axel-Springer-Chef Mathias D\u00f6pfner und dem ehemaligen \"Bild\"-Chefredakteur Julian Reichelt die Schlagzeilen."
+                },
+                {
+                    "text": "Stattdessen hatte er sogar Springer \u00fcber den Vorgang sowie die Quelle informiert."
+                }
+            ],
+            "occupations": [],
+            "directQuotes": [],
+            "quotedInTitle": false,
+            "quotedInIntro": true
+        },
+        {
+            "name": "Henning Hinze",
+            "alternativeNames": [],
+            "age": -1,
+            "sex": "male",
+            "occurences": {
+                "total": 1,
+                "firstNameOnly": 0,
+                "lastNameOnly": 0,
+                "fullName": 1,
+                "nickname": 0
+            },
+            "inTitle": false,
+            "inIntro": false,
+            "_name": {
+                "firstname": "Henning",
+                "lastname": "Hinze",
+                "nickname": null,
+                "alternative_names": [],
+                "academic_title": null,
+                "nobility_title_or_rank": null
+            },
+            "descriptiveTexts": [
+                {
+                    "text": "Aus seiner Sicht sind die M\u00fcnchener bereits ein \"Sanierungsfall\", sagte er meinem Kollegen Henning Hinze."
+                }
+            ],
+            "occupations": [],
+            "directQuotes": [],
+            "quotedInTitle": false,
+            "quotedInIntro": false
+        },
+        {
+            "name": "Marleen Gr\u00fcndel",
+            "alternativeNames": [],
+            "age": -1,
+            "sex": "female",
+            "occurences": {
+                "total": 1,
+                "firstNameOnly": 0,
+                "lastNameOnly": 0,
+                "fullName": 1,
+                "nickname": 0
+            },
+            "inTitle": false,
+            "inIntro": false,
+            "_name": {
+                "firstname": "Marleen",
+                "lastname": "Gr\u00fcndel",
+                "nickname": null,
+                "alternative_names": [],
+                "academic_title": null,
+                "nobility_title_or_rank": null
+            },
+            "descriptiveTexts": [
+                {
+                    "text": "Herzliche Gr\u00fc\u00dfe und einen sch\u00f6nen Feierabend, Ihre Marleen Gr\u00fcndel"
+                }
+            ],
+            "occupations": [],
+            "directQuotes": [],
+            "quotedInTitle": false,
+            "quotedInIntro": false
+        },
+        {
+            "name": "Markus Duesmann",
+            "alternativeNames": [],
+            "age": -1,
+            "sex": "male",
+            "occurences": {
+                "total": 1,
+                "firstNameOnly": 0,
+                "lastNameOnly": 0,
+                "fullName": 1,
+                "nickname": 0
+            },
+            "inTitle": false,
+            "inIntro": false,
+            "_name": {
+                "firstname": "Markus",
+                "lastname": "Duesmann",
+                "nickname": null,
+                "alternative_names": [],
+                "academic_title": null,
+                "nobility_title_or_rank": null
+            },
+            "descriptiveTexts": [
+                {
+                    "text": "Audi verpatzt Neuorganisation: Die \u00c4ra von Markus Duesmann bei Audi verl\u00e4uft bislang alles andere als rund."
+                },
+                {
+                    "text": "Nun verlor er auch noch in einem internen Machtkampf."
+                }
+            ],
+            "occupations": [
+                {
+                    "text": "Der CEO wollte die Organisation des Autokonzerns umbauen, Audi sollte schneller werden."
+                },
+                {
+                    "text": "Die \u00c4ra von Markus Duesmann bei Audi verl\u00e4uft bislang alles andere als rund."
+                },
+                {
+                    "text": "Nun verlor er auch noch in einem internen Machtkampf."
+                }
+            ],
+            "directQuotes": [],
+            "quotedInTitle": false,
+            "quotedInIntro": false
+        },
+        {
+            "name": "Julian Reichelt",
+            "alternativeNames": [],
+            "age": -1,
+            "sex": "male",
+            "occurences": {
+                "total": 2,
+                "firstNameOnly": 0,
+                "lastNameOnly": 1,
+                "fullName": 1,
+                "nickname": 0
+            },
+            "inTitle": false,
+            "inIntro": false,
+            "_name": {
+                "firstname": "Julian",
+                "lastname": "Reichelt",
+                "nickname": null,
+                "alternative_names": [],
+                "academic_title": null,
+                "nobility_title_or_rank": null
+            },
+            "descriptiveTexts": [
+                {
+                    "text": "Ein etwas anderer Blick auf die Springer-Aff\u00e4re: Seit Wochen beherrscht der Streit zwischen Axel-Springer-Chef Mathias D\u00f6pfner und dem ehemaligen \"Bild\"-Chefredakteur Julian Reichelt die Schlagzeilen."
+                },
+                {
+                    "text": "Dabei spielt auch Holger Friedrich eine Rolle: Der Verleger der \"Berliner Zeitung\" hatte von Reichelt vertrauliche Dokumente zugespielt bekommen, sich allerdings gegen eine Ver\u00f6ffentlichung und damit eine Ausweitung der Aff\u00e4re entschieden."
+                }
+            ],
+            "occupations": [],
+            "directQuotes": [],
+            "quotedInTitle": false,
+            "quotedInIntro": false
+        },
+        {
+            "name": "Jonas Rest",
+            "alternativeNames": [],
+            "age": -1,
+            "sex": "male",
+            "occurences": {
+                "total": 1,
+                "firstNameOnly": 0,
+                "lastNameOnly": 0,
+                "fullName": 1,
+                "nickname": 0
+            },
+            "inTitle": false,
+            "inIntro": false,
+            "_name": {
+                "firstname": "Jonas",
+                "lastname": "Rest",
+                "nickname": null,
+                "alternative_names": [],
+                "academic_title": null,
+                "nobility_title_or_rank": null
+            },
+            "descriptiveTexts": [
+                {
+                    "text": "Meine Kollegen Christina Kyriasoglou und Jonas Rest sind tief eingetaucht in die neue Start-up-Welt, haben mit Investoren, Gr\u00fcnderinnen, Anw\u00e4lten und Beratern gesprochen."
+                }
+            ],
+            "occupations": [],
+            "directQuotes": [],
+            "quotedInTitle": false,
+            "quotedInIntro": false
+        },
+        {
+            "name": "Martin No\u00e9",
+            "alternativeNames": [],
+            "age": -1,
+            "sex": "male",
+            "occurences": {
+                "total": 1,
+                "firstNameOnly": 0,
+                "lastNameOnly": 0,
+                "fullName": 1,
+                "nickname": 0
+            },
+            "inTitle": false,
+            "inIntro": false,
+            "_name": {
+                "firstname": "Martin",
+                "lastname": "No\u00e9",
+                "nickname": null,
+                "alternative_names": [],
+                "academic_title": null,
+                "nobility_title_or_rank": null
+            },
+            "descriptiveTexts": [
+                {
+                    "text": "Im Interview mit unseren Kollegen Martin No\u00e9 und Katharina Slodczyk erkl\u00e4rt er ausf\u00fchrlich sein ungew\u00f6hnliches Verhalten und die Missachtung des Quellenschutzes."
+                }
+            ],
+            "occupations": [],
+            "directQuotes": [],
+            "quotedInTitle": false,
+            "quotedInIntro": false
+        },
+        {
+            "name": "Robert Gentz",
+            "alternativeNames": [],
+            "age": -1,
+            "sex": "male",
+            "occurences": {
+                "total": 1,
+                "firstNameOnly": 0,
+                "lastNameOnly": 0,
+                "fullName": 1,
+                "nickname": 0
+            },
+            "inTitle": false,
+            "inIntro": false,
+            "_name": {
+                "firstname": "Robert",
+                "lastname": "Gentz",
+                "nickname": null,
+                "alternative_names": [],
+                "academic_title": null,
+                "nobility_title_or_rank": null
+            },
+            "descriptiveTexts": [
+                {
+                    "text": "Liebe Leserin, lieber Leser,\n\ndie Zalando-Gr\u00fcnder Robert Gentz und David Schneider galten lange als die Nice Guys der Start-up-Szene."
+                },
+                {
+                    "text": "Doch Ende Februar k\u00fcndigten sie an, mehrere Hundert Mitarbeiterinnen und Mitarbeiter zu entlassen."
+                },
+                {
+                    "text": "Gleichzeitig hoben sie die Geb\u00fchren f\u00fcr Modehersteller auf ihrer Plattform um bis zu 100 Prozent an."
+                }
+            ],
+            "occupations": [
+                {
+                    "text": "Robert Gentz und David Schneider galten lange als die Nice Guys der Start-up-Szene."
+                }
+            ],
+            "directQuotes": [],
+            "quotedInTitle": false,
+            "quotedInIntro": false
+        },
+        {
+            "name": "Michael Freitag",
+            "alternativeNames": [],
+            "age": -1,
+            "sex": "male",
+            "occurences": {
+                "total": 2,
+                "firstNameOnly": 0,
+                "lastNameOnly": 1,
+                "fullName": 1,
+                "nickname": 0
+            },
+            "inTitle": false,
+            "inIntro": false,
+            "_name": {
+                "firstname": "Michael",
+                "lastname": "Freitag",
+                "nickname": null,
+                "alternative_names": [],
+                "academic_title": null,
+                "nobility_title_or_rank": null
+            },
+            "descriptiveTexts": [
+                {
+                    "text": "Es gab eine offene Rebellion, wie mein Kollege Michael Freitag recherchiert hat."
+                },
+                {
+                    "text": "Die Vorstellung der verschobenen Bilanz am Freitag d\u00fcrfte spannend werden."
+                }
+            ],
+            "occupations": [],
+            "directQuotes": [],
+            "quotedInTitle": false,
+            "quotedInIntro": false
+        },
+        {
+            "name": "David Schneider",
+            "alternativeNames": [],
+            "age": -1,
+            "sex": "male",
+            "occurences": {
+                "total": 1,
+                "firstNameOnly": 0,
+                "lastNameOnly": 0,
+                "fullName": 1,
+                "nickname": 0
+            },
+            "inTitle": false,
+            "inIntro": false,
+            "_name": {
+                "firstname": "David",
+                "lastname": "Schneider",
+                "nickname": null,
+                "alternative_names": [],
+                "academic_title": null,
+                "nobility_title_or_rank": null
+            },
+            "descriptiveTexts": [
+                {
+                    "text": "Liebe Leserin, lieber Leser,\n\ndie Zalando-Gr\u00fcnder Robert Gentz und David Schneider galten lange als die Nice Guys der Start-up-Szene."
+                },
+                {
+                    "text": "Doch Ende Februar k\u00fcndigten sie an, mehrere Hundert Mitarbeiterinnen und Mitarbeiter zu entlassen."
+                },
+                {
+                    "text": "Gleichzeitig hoben sie die Geb\u00fchren f\u00fcr Modehersteller auf ihrer Plattform um bis zu 100 Prozent an."
+                }
+            ],
+            "occupations": [],
+            "directQuotes": [],
+            "quotedInTitle": false,
+            "quotedInIntro": false
+        },
+        {
+            "name": "Ren\u00e1ta Kellnerov\u00e1",
+            "alternativeNames": [],
+            "age": -1,
+            "sex": "female",
+            "occurences": {
+                "total": 1,
+                "firstNameOnly": 0,
+                "lastNameOnly": 0,
+                "fullName": 1,
+                "nickname": 0
+            },
+            "inTitle": false,
+            "inIntro": false,
+            "_name": {
+                "firstname": "Ren\u00e1ta",
+                "lastname": "Kellnerov\u00e1",
+                "nickname": null,
+                "alternative_names": [],
+                "academic_title": null,
+                "nobility_title_or_rank": null
+            },
+            "descriptiveTexts": [
+                {
+                    "text": "Didier Stoessel, eine Art Chefmedienmanager der neuen, tschechischen Gro\u00dfaktion\u00e4rin Ren\u00e1ta Kellnerov\u00e1, hat sich erstmals ausf\u00fchrlich zur Gesamtlage ge\u00e4u\u00dfert."
+                }
+            ],
+            "occupations": [],
+            "directQuotes": [],
+            "quotedInTitle": false,
+            "quotedInIntro": false
+        },
+        {
+            "name": "Didier Stoessel",
+            "alternativeNames": [],
+            "age": -1,
+            "sex": "male",
+            "occurences": {
+                "total": 1,
+                "firstNameOnly": 0,
+                "lastNameOnly": 0,
+                "fullName": 1,
+                "nickname": 0
+            },
+            "inTitle": false,
+            "inIntro": false,
+            "_name": {
+                "firstname": "Didier",
+                "lastname": "Stoessel",
+                "nickname": null,
+                "alternative_names": [],
+                "academic_title": null,
+                "nobility_title_or_rank": null
+            },
+            "descriptiveTexts": [
+                {
+                    "text": "Didier Stoessel, eine Art Chefmedienmanager der neuen, tschechischen Gro\u00dfaktion\u00e4rin Ren\u00e1ta Kellnerov\u00e1, hat sich erstmals ausf\u00fchrlich zur Gesamtlage ge\u00e4u\u00dfert."
+                },
+                {
+                    "text": "Aus seiner Sicht sind die M\u00fcnchener bereits ein \"Sanierungsfall\", sagte er meinem Kollegen Henning Hinze."
+                }
+            ],
+            "occupations": [
+                {
+                    "text": "Chefmedienmanager der neuen, tschechischen Gro\u00dfaktion\u00e4rin Ren\u00e1ta Kellnerov\u00e1"
+                }
+            ],
+            "directQuotes": [
+                {
+                    "text": "Sanierungsfall"
+                }
+            ],
+            "quotedInTitle": false,
+            "quotedInIntro": false
+        },
+        {
+            "name": "Christiana Riley",
+            "alternativeNames": [
+                "Rileys"
+            ],
+            "age": -1,
+            "sex": "female",
+            "occurences": {
+                "total": 2,
+                "firstNameOnly": 0,
+                "lastNameOnly": 1,
+                "fullName": 1,
+                "nickname": 0
+            },
+            "inTitle": false,
+            "inIntro": false,
+            "_name": {
+                "firstname": "Christiana",
+                "lastname": "Riley",
+                "nickname": null,
+                "alternative_names": [
+                    "Rileys"
+                ],
+                "academic_title": null,
+                "nobility_title_or_rank": null
+            },
+            "descriptiveTexts": [
+                {
+                    "text": "Christiana Riley verl\u00e4sst die Deutsche Bank: Die Amerika-Chefin wird Deutschlands gr\u00f6\u00dftes Geldhaus bereits zum 17. Mai verlassen und geht zur Gro\u00dfbank Santander."
+                },
+                {
+                    "text": "Das Frauenverh\u00e4ltnis im Vorstand \u00fcbrigens verschlechtert sich durch Rileys Abgang: von 2:10 auf 1:9."
+                }
+            ],
+            "occupations": [],
+            "directQuotes": [],
+            "quotedInTitle": false,
+            "quotedInIntro": false
+        },
+        {
+            "name": "Mathias D\u00f6pfner",
+            "alternativeNames": [],
+            "age": -1,
+            "sex": "male",
+            "occurences": {
+                "total": 1,
+                "firstNameOnly": 0,
+                "lastNameOnly": 0,
+                "fullName": 1,
+                "nickname": 0
+            },
+            "inTitle": false,
+            "inIntro": false,
+            "_name": {
+                "firstname": "Mathias",
+                "lastname": "D\u00f6pfner",
+                "nickname": null,
+                "alternative_names": [],
+                "academic_title": null,
+                "nobility_title_or_rank": null
+            },
+            "descriptiveTexts": [
+                {
+                    "text": "Ein etwas anderer Blick auf die Springer-Aff\u00e4re: Seit Wochen beherrscht der Streit zwischen Axel-Springer-Chef Mathias D\u00f6pfner und dem ehemaligen \"Bild\"-Chefredakteur Julian Reichelt die Schlagzeilen."
+                }
+            ],
+            "occupations": [
+                {
+                    "text": "Axel-Springer-Chef"
+                }
+            ],
+            "directQuotes": [],
+            "quotedInTitle": false,
+            "quotedInIntro": false
+        },
+        {
+            "name": "Katharina Slodczyk",
+            "alternativeNames": [],
+            "age": -1,
+            "sex": "female",
+            "occurences": {
+                "total": 1,
+                "firstNameOnly": 0,
+                "lastNameOnly": 0,
+                "fullName": 1,
+                "nickname": 0
+            },
+            "inTitle": false,
+            "inIntro": false,
+            "_name": {
+                "firstname": "Katharina",
+                "lastname": "Slodczyk",
+                "nickname": null,
+                "alternative_names": [],
+                "academic_title": null,
+                "nobility_title_or_rank": null
+            },
+            "descriptiveTexts": [
+                {
+                    "text": "Im Interview mit unseren Kollegen Martin No\u00e9 und Katharina Slodczyk erkl\u00e4rt er ausf\u00fchrlich sein ungew\u00f6hnliches Verhalten und die Missachtung des Quellenschutzes."
+                }
+            ],
+            "occupations": [],
+            "directQuotes": [],
+            "quotedInTitle": false,
+            "quotedInIntro": false
+        },
+        {
+            "name": "Christina Kyriasoglou",
+            "alternativeNames": [],
+            "age": -1,
+            "sex": "female",
+            "occurences": {
+                "total": 1,
+                "firstNameOnly": 0,
+                "lastNameOnly": 0,
+                "fullName": 1,
+                "nickname": 0
+            },
+            "inTitle": false,
+            "inIntro": false,
+            "_name": {
+                "firstname": "Christina",
+                "lastname": "Kyriasoglou",
+                "nickname": null,
+                "alternative_names": [],
+                "academic_title": null,
+                "nobility_title_or_rank": null
+            },
+            "descriptiveTexts": [
+                {
+                    "text": "Meine Kollegen Christina Kyriasoglou und Jonas Rest sind tief eingetaucht in die neue Start-up-Welt, haben mit Investoren, Gr\u00fcnderinnen, Anw\u00e4lten und Beratern gesprochen."
+                }
+            ],
+            "occupations": [],
+            "directQuotes": [],
+            "quotedInTitle": false,
+            "quotedInIntro": false
+        },
+        {
+            "name": "Holger Friedrich",
+            "alternativeNames": [],
+            "age": -1,
+            "sex": "male",
+            "occurences": {
+                "total": 2,
+                "firstNameOnly": 0,
+                "lastNameOnly": 1,
+                "fullName": 1,
+                "nickname": 0
+            },
+            "inTitle": false,
+            "inIntro": false,
+            "_name": {
+                "firstname": "Holger",
+                "lastname": "Friedrich",
+                "nickname": null,
+                "alternative_names": [],
+                "academic_title": null,
+                "nobility_title_or_rank": null
+            },
+            "descriptiveTexts": [
+                {
+                    "text": "Dabei spielt auch Holger Friedrich eine Rolle: Der Verleger der \"Berliner Zeitung\" hatte von Reichelt vertrauliche Dokumente zugespielt bekommen, sich allerdings gegen eine Ver\u00f6ffentlichung und damit eine Ausweitung der Aff\u00e4re entschieden."
+                },
+                {
+                    "text": "Stattdessen hatte er sogar Springer \u00fcber den Vorgang sowie die Quelle informiert."
+                },
+                {
+                    "text": "Im Interview mit unseren Kollegen Martin No\u00e9 und Katharina Slodczyk erkl\u00e4rt er ausf\u00fchrlich sein ungew\u00f6hnliches Verhalten und die Missachtung des Quellenschutzes."
+                },
+                {
+                    "text": "Friedrich fordert eine Debatte \u00fcber Medienethik: \"Wir m\u00fcssen \u00fcber den schmalen Grat zwischen Aufkl\u00e4rung und Denunziation sprechen.\""
+                }
+            ],
+            "occupations": [],
+            "directQuotes": [
+                {
+                    "text": "Berliner Zeitung"
+                },
+                {
+                    "text": "Wir m\u00fcssen \u00fcber den schmalen Grat zwischen Aufkl\u00e4rung und Denunziation sprechen."
+                }
+            ],
+            "quotedInTitle": false,
+            "quotedInIntro": false
+        },
+        {
+            "name": "Christian Sewing",
+            "alternativeNames": [],
+            "age": -1,
+            "sex": "male",
+            "occurences": {
+                "total": 1,
+                "firstNameOnly": 0,
+                "lastNameOnly": 0,
+                "fullName": 1,
+                "nickname": 0
+            },
+            "inTitle": false,
+            "inIntro": false,
+            "_name": {
+                "firstname": "Christian",
+                "lastname": "Sewing",
+                "nickname": null,
+                "alternative_names": [],
+                "academic_title": null,
+                "nobility_title_or_rank": null
+            },
+            "descriptiveTexts": [
+                {
+                    "text": "So wie das Unternehmen insgesamt, in dem Chef Christian Sewing weitere Stellen abbauen will."
+                },
+                {
+                    "text": "Und das, obwohl er mit den Quartalszahlen an diesem Donnerstag die Erwartungen der Analysten \u00fcbertraf."
+                }
+            ],
+            "occupations": [],
+            "directQuotes": [],
+            "quotedInTitle": false,
+            "quotedInIntro": false
+        }
+    ]
+}

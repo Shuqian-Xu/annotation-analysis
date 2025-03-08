@@ -1,0 +1,394 @@
+{
+    "persons": [
+        {
+            "name": "Bobby Morrison",
+            "alternativeNames": [],
+            "age": -1,
+            "sex": "male",
+            "occurences": {
+                "total": 1,
+                "firstNameOnly": 0,
+                "lastNameOnly": 0,
+                "fullName": 1,
+                "nickname": 0
+            },
+            "inTitle": false,
+            "inIntro": false,
+            "_name": {
+                "firstname": "Bobby",
+                "lastname": "Morrison",
+                "nickname": null,
+                "alternative_names": [],
+                "academic_title": null,
+                "nobility_title_or_rank": null
+            },
+            "descriptiveTexts": [
+                {
+                    "text": "Im Interview mit meiner Kollegin Christina Kyriasoglou erkl\u00e4rt Vorstand Bobby Morrison seine neue Strategie."
+                }
+            ],
+            "occupations": [],
+            "directQuotes": [],
+            "quotedInTitle": false,
+            "quotedInIntro": false
+        },
+        {
+            "name": "Hannah Steinharter",
+            "alternativeNames": [],
+            "age": -1,
+            "sex": "female",
+            "occurences": {
+                "total": 1,
+                "firstNameOnly": 0,
+                "lastNameOnly": 0,
+                "fullName": 1,
+                "nickname": 0
+            },
+            "inTitle": false,
+            "inIntro": false,
+            "_name": {
+                "firstname": "Hannah",
+                "lastname": "Steinharter",
+                "nickname": null,
+                "alternative_names": [],
+                "academic_title": null,
+                "nobility_title_or_rank": null
+            },
+            "descriptiveTexts": [
+                {
+                    "text": "Viele Gr\u00fc\u00dfe, Ihre Hannah Steinharter"
+                }
+            ],
+            "occupations": [],
+            "directQuotes": [],
+            "quotedInTitle": false,
+            "quotedInIntro": false
+        },
+        {
+            "name": "Christian Sewing",
+            "alternativeNames": [],
+            "age": -1,
+            "sex": "male",
+            "occurences": {
+                "total": 6,
+                "firstNameOnly": 0,
+                "lastNameOnly": 3,
+                "fullName": 3,
+                "nickname": 0
+            },
+            "inTitle": false,
+            "inIntro": true,
+            "_name": {
+                "firstname": "Christian",
+                "lastname": "Sewing",
+                "nickname": null,
+                "alternative_names": [],
+                "academic_title": null,
+                "nobility_title_or_rank": null
+            },
+            "descriptiveTexts": [
+                {
+                    "text": "Heute mit Deutsche-Bank-Chef Christian Sewing als Wachstumsmanager, dem Geldadel in Berlin und einem neuen Tor zum Internet."
+                },
+                {
+                    "text": "Deutsche-Bank-Chef Christian Sewing schaltete in den Notfallmodus, griff zum Telefon und versicherte wichtigen Kunden und Gro\u00dfaktion\u00e4ren, dass es keinen Grund zur Sorge gebe."
+                },
+                {
+                    "text": "Und f\u00fcr Sewing ist es der Beweis daf\u00fcr, dass \"wir die Bank gedreht haben und sie wieder resilient ist\"."
+                },
+                {
+                    "text": "Doch Sewing will nicht nur als Sanierer in die Geschichtsb\u00fccher der Bank eingehen."
+                },
+                {
+                    "text": "Er will auch Baumeister sein und einen eigenen Beitrag f\u00fcr die Zukunft des Geldhauses hinterlassen."
+                },
+                {
+                    "text": "Daf\u00fcr muss er sich nun als Wachstumsmanager beweisen."
+                },
+                {
+                    "text": "Meine Kollegin Katharina Slodczyk hat sich Sewings bisherige Performance angesehen und analysiert, ob der Bankenchef der Richtige f\u00fcr diese Aufgabe ist."
+                },
+                {
+                    "text": "Endg\u00fcltige Vereinigung zweier Banken: W\u00e4hrend Christian Sewing nach dem Bankenbeben am Wachstum der Deutschen Bank werkelt, steht die Schweizer Gro\u00dfbank UBS bei der geplanten \u00dcbernahme des angeschlagenen Rivalen Credit Suisse kurz vor dem Ziel: Die Not\u00fcbernahme ist kompliziert, soll nun aber in einer Woche abgeschlossen sein."
+                }
+            ],
+            "occupations": [],
+            "directQuotes": [
+                {
+                    "text": "wir die Bank gedreht haben und sie wieder resilient ist"
+                }
+            ],
+            "quotedInTitle": false,
+            "quotedInIntro": true
+        },
+        {
+            "name": "Maren Jensen",
+            "alternativeNames": [],
+            "age": -1,
+            "sex": "female",
+            "occurences": {
+                "total": 1,
+                "firstNameOnly": 0,
+                "lastNameOnly": 0,
+                "fullName": 1,
+                "nickname": 0
+            },
+            "inTitle": false,
+            "inIntro": false,
+            "_name": {
+                "firstname": "Maren",
+                "lastname": "Jensen",
+                "nickname": null,
+                "alternative_names": [],
+                "academic_title": null,
+                "nobility_title_or_rank": null
+            },
+            "descriptiveTexts": [
+                {
+                    "text": "Meine Kollegin Maren Jensen stellt Ihnen zehn der interessantesten Speaker vor."
+                }
+            ],
+            "occupations": [],
+            "directQuotes": [],
+            "quotedInTitle": false,
+            "quotedInIntro": false
+        },
+        {
+            "name": "Alexandra Knape",
+            "alternativeNames": [],
+            "age": -1,
+            "sex": "female",
+            "occurences": {
+                "total": 1,
+                "firstNameOnly": 0,
+                "lastNameOnly": 0,
+                "fullName": 1,
+                "nickname": 0
+            },
+            "inTitle": false,
+            "inIntro": false,
+            "_name": {
+                "firstname": "Alexandra",
+                "lastname": "Knape",
+                "nickname": null,
+                "alternative_names": [],
+                "academic_title": null,
+                "nobility_title_or_rank": null
+            },
+            "descriptiveTexts": [
+                {
+                    "text": "Die Analyse meiner Kollegin Alexandra Knape zeigt Unternehmen, Ums\u00e4tze \u2013 und das Verm\u00f6gen der Dynastien dahinter."
+                }
+            ],
+            "occupations": [],
+            "directQuotes": [],
+            "quotedInTitle": false,
+            "quotedInIntro": false
+        },
+        {
+            "name": "Katharina Slodczyk",
+            "alternativeNames": [],
+            "age": -1,
+            "sex": "female",
+            "occurences": {
+                "total": 1,
+                "firstNameOnly": 0,
+                "lastNameOnly": 0,
+                "fullName": 1,
+                "nickname": 0
+            },
+            "inTitle": false,
+            "inIntro": false,
+            "_name": {
+                "firstname": "Katharina",
+                "lastname": "Slodczyk",
+                "nickname": null,
+                "alternative_names": [],
+                "academic_title": null,
+                "nobility_title_or_rank": null
+            },
+            "descriptiveTexts": [
+                {
+                    "text": "Meine Kollegin Katharina Slodczyk hat sich Sewings bisherige Performance angesehen und analysiert, ob der Bankenchef der Richtige f\u00fcr diese Aufgabe ist."
+                }
+            ],
+            "occupations": [],
+            "directQuotes": [],
+            "quotedInTitle": false,
+            "quotedInIntro": false
+        },
+        {
+            "name": "Jonas Rest",
+            "alternativeNames": [],
+            "age": -1,
+            "sex": "male",
+            "occurences": {
+                "total": 1,
+                "firstNameOnly": 0,
+                "lastNameOnly": 0,
+                "fullName": 1,
+                "nickname": 0
+            },
+            "inTitle": false,
+            "inIntro": false,
+            "_name": {
+                "firstname": "Jonas",
+                "lastname": "Rest",
+                "nickname": null,
+                "alternative_names": [],
+                "academic_title": null,
+                "nobility_title_or_rank": null
+            },
+            "descriptiveTexts": [
+                {
+                    "text": "Warum der Apple-Boss f\u00fcr die Datenbrille seine Strategie \u00e4ndert und was davon zu halten ist, hat mein Kollege Jonas Rest bereits im Vorfeld f\u00fcr Sie aufgeschrieben."
+                }
+            ],
+            "occupations": [],
+            "directQuotes": [],
+            "quotedInTitle": false,
+            "quotedInIntro": false
+        },
+        {
+            "name": "Tobias L\u00fctke",
+            "alternativeNames": [],
+            "age": -1,
+            "sex": "male",
+            "occurences": {
+                "total": 1,
+                "firstNameOnly": 0,
+                "lastNameOnly": 0,
+                "fullName": 1,
+                "nickname": 0
+            },
+            "inTitle": false,
+            "inIntro": false,
+            "_name": {
+                "firstname": "Tobias",
+                "lastname": "L\u00fctke",
+                "nickname": null,
+                "alternative_names": [],
+                "academic_title": null,
+                "nobility_title_or_rank": null
+            },
+            "descriptiveTexts": [
+                {
+                    "text": "Neue Pl\u00e4ne bei Shopify: Die Softwarefirma des deutschen Gr\u00fcnders Tobias L\u00fctke gilt als Stern am Techhimmel und war zeitweise mehr als 200 Milliarden Dollar wert."
+                }
+            ],
+            "occupations": [],
+            "directQuotes": [],
+            "quotedInTitle": false,
+            "quotedInIntro": false
+        },
+        {
+            "name": "Tim Cook",
+            "alternativeNames": [],
+            "age": -1,
+            "sex": "male",
+            "occurences": {
+                "total": 2,
+                "firstNameOnly": 0,
+                "lastNameOnly": 1,
+                "fullName": 1,
+                "nickname": 0
+            },
+            "inTitle": false,
+            "inIntro": false,
+            "_name": {
+                "firstname": "Tim",
+                "lastname": "Cook",
+                "nickname": null,
+                "alternative_names": [],
+                "academic_title": null,
+                "nobility_title_or_rank": null
+            },
+            "descriptiveTexts": [
+                {
+                    "text": "Heute um 19 Uhr deutscher Zeit findet die wohl wichtigste Premiere von Apple-Chef Tim Cook statt: Bei Apples Entwicklerkonferenz WWDC am Firmensitz in Cupertino will der CEO erstmals eine Apple-Datenbrille vorstellen (hier der Stream)."
+                },
+                {
+                    "text": "Klar ist aber schon: Cook verl\u00e4sst mit dem Mixed-Reality-Headset das einge\u00fcbte Apple-Playbook zur Eroberung neuer Gesch\u00e4fte, denn f\u00fcr gew\u00f6hnlich dringt der Konzern einfach in M\u00e4rkte vor, die sich bereits herausgebildet haben."
+                }
+            ],
+            "occupations": [],
+            "directQuotes": [],
+            "quotedInTitle": false,
+            "quotedInIntro": false
+        },
+        {
+            "name": "Sandra Matz",
+            "alternativeNames": [],
+            "age": -1,
+            "sex": "female",
+            "occurences": {
+                "total": 1,
+                "firstNameOnly": 0,
+                "lastNameOnly": 0,
+                "fullName": 1,
+                "nickname": 0
+            },
+            "inTitle": false,
+            "inIntro": false,
+            "_name": {
+                "firstname": "Sandra",
+                "lastname": "Matz",
+                "nickname": null,
+                "alternative_names": [],
+                "academic_title": "Professorin",
+                "nobility_title_or_rank": null
+            },
+            "descriptiveTexts": [
+                {
+                    "text": "Und f\u00fcr Sewing ist es der Beweis daf\u00fcr, dass \"wir die Bank gedreht haben und sie wieder resilient ist\"."
+                },
+                {
+                    "text": "Professorin Sandra Matz erkl\u00e4rt hier, wie dieses Marketing funktioniert und was es leisten kann."
+                }
+            ],
+            "occupations": [
+                {
+                    "text": "Professorin"
+                },
+                {
+                    "text": "Sie ber\u00fchrt die Menschen und beeinflusst deren Verhalten."
+                }
+            ],
+            "directQuotes": [],
+            "quotedInTitle": false,
+            "quotedInIntro": false
+        },
+        {
+            "name": "Christina Kyriasoglou",
+            "alternativeNames": [],
+            "age": -1,
+            "sex": "female",
+            "occurences": {
+                "total": 1,
+                "firstNameOnly": 0,
+                "lastNameOnly": 0,
+                "fullName": 1,
+                "nickname": 0
+            },
+            "inTitle": false,
+            "inIntro": false,
+            "_name": {
+                "firstname": "Christina",
+                "lastname": "Kyriasoglou",
+                "nickname": null,
+                "alternative_names": [],
+                "academic_title": null,
+                "nobility_title_or_rank": null
+            },
+            "descriptiveTexts": [
+                {
+                    "text": "Im Interview mit meiner Kollegin Christina Kyriasoglou erkl\u00e4rt Vorstand Bobby Morrison seine neue Strategie."
+                }
+            ],
+            "occupations": [],
+            "directQuotes": [],
+            "quotedInTitle": false,
+            "quotedInIntro": false
+        }
+    ]
+}

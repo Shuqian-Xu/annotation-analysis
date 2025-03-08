@@ -1,0 +1,680 @@
+{
+    "persons": [
+        {
+            "name": "Joachim L\u00f6w",
+            "alternativeNames": [],
+            "age": -1,
+            "sex": "male",
+            "occurences": {
+                "total": 1,
+                "firstNameOnly": 0,
+                "lastNameOnly": 0,
+                "fullName": 1,
+                "nickname": 0
+            },
+            "inTitle": false,
+            "inIntro": false,
+            "_name": {
+                "firstname": "Joachim",
+                "lastname": "L\u00f6w",
+                "nickname": null,
+                "alternative_names": [],
+                "academic_title": null,
+                "nobility_title_or_rank": null
+            },
+            "descriptiveTexts": [
+                {
+                    "text": "Einst hatte \u00d6zdemir sogar ein Probetraining bei einem Proficlub in Adana absolviert, wo sp\u00e4ter Fu\u00dfball-Weltmeister Thomas Berthold spielte und Joachim L\u00f6w Trainer war."
+                }
+            ],
+            "occupations": [],
+            "directQuotes": [],
+            "quotedInTitle": false,
+            "quotedInIntro": false
+        },
+        {
+            "name": "Mehmet G\u00fcne",
+            "alternativeNames": [],
+            "age": -1,
+            "sex": "male",
+            "occurences": {
+                "total": 2,
+                "firstNameOnly": 1,
+                "lastNameOnly": 0,
+                "fullName": 1,
+                "nickname": 0
+            },
+            "inTitle": false,
+            "inIntro": false,
+            "_name": {
+                "firstname": "Mehmet",
+                "lastname": "G\u00fcne",
+                "nickname": null,
+                "alternative_names": [],
+                "academic_title": null,
+                "nobility_title_or_rank": null
+            },
+            "descriptiveTexts": [
+                {
+                    "text": "Und verliebte sich in den Hotelmanager Mehmet G\u00fcnes, Efecans Vater."
+                },
+                {
+                    "text": "Als er seine Frau traf, sprach er noch kaum Deutsch, heute spricht er es flie\u00dfend, wenn auch nicht wie ein Muttersprachler."
+                },
+                {
+                    "text": "Efecan erinnert sich, dass er in der Schulzeit zwei Versionen Deutsch sprach: ein elaboriertes f\u00fcrs Gymnasium und eins mit Infinitiven f\u00fcr Gro\u00dfvater und Vater."
+                },
+                {
+                    "text": "An Deutschland mag er: Verl\u00e4sslichkeit, P\u00fcnktlichkeit"
+                },
+                {
+                    "text": "Der Vater sagt, auch er habe Jurist werden wollen."
+                }
+            ],
+            "occupations": [],
+            "directQuotes": [],
+            "quotedInTitle": false,
+            "quotedInIntro": false
+        },
+        {
+            "name": "Erika \u00d6zdemir",
+            "alternativeNames": [
+                "Erika Adler"
+            ],
+            "age": -1,
+            "sex": "female",
+            "occurences": {
+                "total": 16,
+                "firstNameOnly": 12,
+                "lastNameOnly": 0,
+                "fullName": 4,
+                "nickname": 0
+            },
+            "inTitle": false,
+            "inIntro": false,
+            "_name": {
+                "firstname": "Erika",
+                "lastname": "\u00d6zdemir",
+                "nickname": null,
+                "alternative_names": [
+                    "Erika Adler"
+                ],
+                "academic_title": null,
+                "nobility_title_or_rank": null
+            },
+            "descriptiveTexts": [
+                {
+                    "text": "Er, seine Mutter und sein Gro\u00dfvater: drei Generationen einer deutschen Einwanderergeschichte."
+                },
+                {
+                    "text": "Erika \u00d6zdemirs Haus liegt am Hang mit Blick auf die Wiesen des Flusses Leine."
+                },
+                {
+                    "text": "Auf den Esstisch hat Erika \u00d6zdemir eine Etagere mit Schokokeksen, Baklava und Spekulatius angerichtet."
+                },
+                {
+                    "text": "Sie fuhren drei Tage und drei N\u00e4chte, am Steuer wechselten sie sich ab, wobei Bekir die meisten Kilometer machte."
+                },
+                {
+                    "text": "In abgelegenen D\u00f6rfern waren sie in ihrem VW eine Attraktion."
+                },
+                {
+                    "text": "Sie schliefen auf Parkpl\u00e4tzen, dort f\u00fchlten sie sich sicher, weil sie nicht allein waren."
+                },
+                {
+                    "text": "Wie w\u00fcrden sie miteinander kommunizieren?"
+                },
+                {
+                    "text": "Hei\u00df war es in Karaisal\u0131, sie verstand kein Wort T\u00fcrkisch, der Ruf des Muezzins riss sie immer wieder aus dem Schlaf."
+                },
+                {
+                    "text": "\u00bbArife\u00ab, so nannten sie die blau\u00e4ugige Erika, das klang z\u00e4rtlicher und auch ein wenig t\u00fcrkischer."
+                },
+                {
+                    "text": "Es fl\u00fcsterte der Braut an exakt der richtigen Stelle zu: \u00bbEvet!\u00ab, was so viel hei\u00dft wie \u00bbJa!\u00ab, und sie wiederholte es, und es galt."
+                },
+                {
+                    "text": "Auf einem kann man gut erkennen, warum sie sich damals verliebte."
+                },
+                {
+                    "text": "Erika \u00d6zdemir sagt: \u00bbDamals war alles viel offener, viel lockerer. Viele Deutsche waren neugierig auf die T\u00fcrken.\u00ab"
+                },
+                {
+                    "text": "Sie kauften das Mehrfamilienhaus in der Innenstadt, in dem sie lebten."
+                },
+                {
+                    "text": "Erika \u00d6zdemir kann mit dem Gedanken offenbar wenig anfangen."
+                },
+                {
+                    "text": "Sie erz\u00e4hlt lieber weiter \u2013 von Bekirs Leistung."
+                },
+                {
+                    "text": "Und wird ein wenig wortkarg, wenn man sie fragt, wie die Alfelder damals reagiert haben auf ihn, den Orientalen, der die sch\u00f6ne Erika weggeheiratet hatte."
+                }
+            ],
+            "occupations": [],
+            "directQuotes": [],
+            "quotedInTitle": false,
+            "quotedInIntro": false
+        },
+        {
+            "name": "Josef",
+            "alternativeNames": [],
+            "age": -1,
+            "sex": "male",
+            "occurences": {
+                "total": 1,
+                "firstNameOnly": 0,
+                "lastNameOnly": 0,
+                "fullName": 1,
+                "nickname": 0
+            },
+            "inTitle": false,
+            "inIntro": false,
+            "_name": {
+                "firstname": "Josef",
+                "lastname": null,
+                "nickname": null,
+                "alternative_names": [],
+                "academic_title": null,
+                "nobility_title_or_rank": null
+            },
+            "descriptiveTexts": [
+                {
+                    "text": "Am Rosenmontag des Jahres 1966 schlie\u00dflich begab sich eine blonde Frau in eine Alfelder Wirtschaft, wo sich ein Schlachter namens Josef ihr gegen\u00fcber verbal unpassend verhalten haben soll."
+                }
+            ],
+            "occupations": [
+                {
+                    "text": "Schlachter"
+                }
+            ],
+            "directQuotes": [],
+            "quotedInTitle": false,
+            "quotedInIntro": false
+        },
+        {
+            "name": "Alpay G\u00fcne",
+            "alternativeNames": [
+                "Alpay"
+            ],
+            "age": -1,
+            "sex": "male",
+            "occurences": {
+                "total": 1,
+                "firstNameOnly": 1,
+                "lastNameOnly": 0,
+                "fullName": 0,
+                "nickname": 0
+            },
+            "inTitle": false,
+            "inIntro": false,
+            "_name": {
+                "firstname": "Alpay",
+                "lastname": "G\u00fcne",
+                "nickname": null,
+                "alternative_names": [
+                    "Alpay"
+                ],
+                "academic_title": null,
+                "nobility_title_or_rank": null
+            },
+            "descriptiveTexts": [],
+            "occupations": [],
+            "directQuotes": [],
+            "quotedInTitle": false,
+            "quotedInIntro": false
+        },
+        {
+            "name": "Bekir \u00d6zdemir",
+            "alternativeNames": [
+                "\u00d6sdemir"
+            ],
+            "age": -1,
+            "sex": "male",
+            "occurences": {
+                "total": 32,
+                "firstNameOnly": 9,
+                "lastNameOnly": 15,
+                "fullName": 8,
+                "nickname": 0
+            },
+            "inTitle": false,
+            "inIntro": true,
+            "_name": {
+                "firstname": "Bekir",
+                "lastname": "\u00d6zdemir",
+                "nickname": null,
+                "alternative_names": [
+                    "\u00d6sdemir"
+                ],
+                "academic_title": null,
+                "nobility_title_or_rank": null
+            },
+            "descriptiveTexts": [
+                {
+                    "text": "Bekir \u00d6zdemir kam 1961 als Schwei\u00dfer nach Niedersachsen."
+                },
+                {
+                    "text": "Selbst im Tod war Bekir \u00d6zdemir noch einmal Pionier."
+                },
+                {
+                    "text": "\u00bbHier sind meine Leute, hier wird man sich an mich erinnern\u00ab, das habe er Tage vor seinem Tod entschieden, erz\u00e4hlt sein Enkel Efecan G\u00fcnes, 19 Jahre alt."
+                },
+                {
+                    "text": "Dann geht er in die Hocke, um vor dem Grab zu beten."
+                },
+                {
+                    "text": "2015 geh\u00f6rte er zu den Ersten, die sich in der muslimischen Sektion des Friedhofs beerdigen lie\u00dfen."
+                },
+                {
+                    "text": "Isst du Schweinefleisch?"
+                },
+                {
+                    "text": "Er studiert jetzt Jura in Heidelberg, gestern war er auf zwei Geburtstagspartys in seinem nieders\u00e4chsischen Herkunftsort, Freunde wiedersehen, Alteingesessene wie er, Alfelder in dritter Generation, so viel dazu."
+                },
+                {
+                    "text": "\u00bbKann ein Muslim Deutscher werden? Mein Gro\u00dfvater Bekir \u00d6zdemir als erster T\u00fcrke in Alfeld\u00ab, so hie\u00df der Aufsatz, den er als Siebtkl\u00e4ssler geschrieben hat und mit dem er Landessieger beim Geschichtswettbewerb des Bundespr\u00e4sidenten wurde, Thema damals \u00bbGott und die Welt. Religion macht Geschichte\u00ab."
+                },
+                {
+                    "text": "Er, seine Mutter und sein Gro\u00dfvater: drei Generationen einer deutschen Einwanderergeschichte."
+                },
+                {
+                    "text": "Bekir \u00d6zdemir kam 1935 in Karaisal\u0131 zur Welt, im Vorderen Orient n\u00f6rdlich von Adana, \u00fcber 3200 Kilometer von Alfeld entfernt."
+                },
+                {
+                    "text": "Er hatte acht Geschwister und Halbgeschwister, sein Vater war Vorbeter."
+                },
+                {
+                    "text": "Sie bauten Stra\u00dfen, schufteten in Bergwerken und in der Metallindustrie."
+                },
+                {
+                    "text": "Stattdessen wuchsen sie in eine neue Heimat hinein \u2013 in vielen F\u00e4lle zu ihrer eigenen Verwunderung."
+                },
+                {
+                    "text": "Unten am Bahnhof kam Bekir \u00d6zdemir damals an, zwei Tage sp\u00e4ter ging die Arbeit als Punktschwei\u00dfer im Alfelder Eisenwerk los."
+                },
+                {
+                    "text": "Sobald die Schicht zu Ende war, schwang sich \u00d6zdemir in den Kombi, den er sich bald leisten konnte, und fuhr 50 Kilometer in die hannoversche Gro\u00dfmarkthalle."
+                },
+                {
+                    "text": "Essen und Waren wie in der alten Heimat, das war eine Marktl\u00fccke, und \u00d6zdemir f\u00fcllte sie schon bald mit einem Laden gegen\u00fcber dem Bahnhof, wo es t\u00fcrkisches Brot gab, rote Linsen, Baklava und Tulumba."
+                },
+                {
+                    "text": "\u00d6zdemir zeigte ihm, wie man es richtig anstellt: Er wies den Delinquenten mit hinreichend scharfen Worten zurecht, bis der das Feld r\u00e4umte."
+                },
+                {
+                    "text": "Sie fuhren drei Tage und drei N\u00e4chte, am Steuer wechselten sie sich ab, wobei Bekir die meisten Kilometer machte."
+                },
+                {
+                    "text": "In abgelegenen D\u00f6rfern waren sie in ihrem VW eine Attraktion."
+                },
+                {
+                    "text": "Bekir \u00d6zdemir jedenfalls beschloss, seine sporadischen Gedanken an eine R\u00fcckkehr in die alte Heimat zu begraben."
+                },
+                {
+                    "text": "Leichter fiel ihm das, wenn er sich an eine T\u00fcrkei-Reise ein paar Jahre zuvor erinnerte, als ihn seine Eltern mit einer \u2013 ihrer Meinung nach geeigneten \u2013 t\u00fcrkischen Braut f\u00fcr ihn bekannt gemacht hatten."
+                },
+                {
+                    "text": "Nur mit M\u00fche konnte er sein \u00bbNein, danke\u00ab durchsetzen, ohne jemanden zu beleidigen."
+                },
+                {
+                    "text": "\u00bbIn Alfeld sagten manche, Bekir sei ein Sch\u00fcrzenj\u00e4ger. War er aber gar nicht. Nur die Frauen waren alle nach ihm verr\u00fcckt. Er selbst war zur\u00fcckhaltend\u00ab, sagt Erika, die es wissen muss: 47 Jahre lang waren die beiden verheiratet, bis 2015."
+                },
+                {
+                    "text": "\u00bbEr war Trainer in Delligsen, Duingen, Freden, Bantheln, Everode und Alfeld\u00ab, so hat sein Enkel recherchiert."
+                },
+                {
+                    "text": "Nun, er schaffte es in die legend\u00e4re Startelf des FC Alfeld, der in den fr\u00fcher Sechzigerjahren, noch vor Gr\u00fcndung der Bundesliga 1963, auf damals h\u00f6chstem Liganiveau in der Oberliga Nord spielte."
+                },
+                {
+                    "text": "\u00bbSeitdem war er in Alfeld kein T\u00fcrke mehr.\u00ab"
+                },
+                {
+                    "text": "Aber f\u00fcr jene, die nach ihm in Alfeld ankamen, war er der T\u00fcrke."
+                },
+                {
+                    "text": "Er half bei der Steuererkl\u00e4rung."
+                },
+                {
+                    "text": "Er machte ihnen plausibel, dass sie den Inhalt der w\u00f6chentlichen Lohnt\u00fcten nicht verstecken sollten, und lotste sie zur Sparkasse."
+                },
+                {
+                    "text": "Brachte Videos mit t\u00fcrkischen Kinofilmen aus Hannover mit, die sie abends in einem Hinterzimmer des Lebensmittelladens guckten."
+                },
+                {
+                    "text": "Efecan: \u00bbEr war der H\u00e4uptling.\u00ab"
+                },
+                {
+                    "text": "Aber auch einer, an dem man sich reiben konnte: Er hatte eine Christin geheiratet."
+                },
+                {
+                    "text": "Die Br\u00fccken, die er baute, sollten in beide Richtungen begehbar sein."
+                },
+                {
+                    "text": "\u00bbGebetet haben die schon, aber sie waren nicht so extrem, wie manche von heute.\u00ab"
+                },
+                {
+                    "text": "Der SV Alfeld soll ihm die besten Spieler abspenstig gemacht haben, bis er sich aufl\u00f6ste."
+                },
+                {
+                    "text": "Fr\u00fcher sei er fast jeden Freitag hingegangen, seinen Enkel an der Hand."
+                },
+                {
+                    "text": "Sp\u00e4ter kam er seltener."
+                },
+                {
+                    "text": "Vielleicht, so sein Enkel, war er nicht immer einverstanden mit dem, was die Imame predigten, die aus der T\u00fcrkei eingeflogen kamen."
+                },
+                {
+                    "text": "Wollte er sich Zugeh\u00f6rigkeit erarbeiten in einem Land, das Menschen streng zwischen Einheimischen und Fremden unterschied?"
+                },
+                {
+                    "text": "\u00bbNa, \u203aK\u00fcmmelt\u00fcrke\u2039, das bekam er schon zu h\u00f6ren. \u203aKanake\u2039 auch mal. Oder \u203aMongole\u2039. \u203aMohammedaner\u2039, das war ja normal damals.\u00ab"
+                },
+                {
+                    "text": "Er war eine Besonderheit, er stand unter Beobachtung, egal ob die wohlwollend oder argw\u00f6hnisch war."
+                },
+                {
+                    "text": "Dass Bekir \u00d6zdemir ungeheuer flei\u00dfig war, muss den Deutschen imponiert haben."
+                },
+                {
+                    "text": "Der Preis: \u00bbAls Kind habe ich nicht viel von ihm gehabt, er war ja immer unterwegs\u00ab, sagt Tochter Yasemin G\u00fcnes in ihrem Wohnzimmer, bei Nudelsalat, H\u00fchnchenbratwurst und Bulgur."
+                },
+                {
+                    "text": "Die meisten von Bekir \u00d6zdemirs Freunde waren Deutsche, Alteingesessene."
+                }
+            ],
+            "occupations": [
+                {
+                    "text": "Trainer"
+                },
+                {
+                    "text": "Pionier"
+                },
+                {
+                    "text": "H\u00e4uptling"
+                },
+                {
+                    "text": "Punktschwei\u00dfer"
+                }
+            ],
+            "directQuotes": [
+                {
+                    "text": "Kann ein Muslim Deutscher werden? Mein Gro\u00dfvater Bekir \u00d6zdemir als erster T\u00fcrke in Alfeld"
+                }
+            ],
+            "quotedInTitle": false,
+            "quotedInIntro": true
+        },
+        {
+            "name": "Efecan G\u00fcne",
+            "alternativeNames": [],
+            "age": 19,
+            "sex": "male",
+            "occurences": {
+                "total": 13,
+                "firstNameOnly": 7,
+                "lastNameOnly": 3,
+                "fullName": 3,
+                "nickname": 0
+            },
+            "inTitle": false,
+            "inIntro": false,
+            "_name": {
+                "firstname": "Efecan",
+                "lastname": "G\u00fcne",
+                "nickname": null,
+                "alternative_names": [],
+                "academic_title": null,
+                "nobility_title_or_rank": null
+            },
+            "descriptiveTexts": [
+                {
+                    "text": "\u00bbHier sind meine Leute, hier wird man sich an mich erinnern\u00ab, das habe er Tage vor seinem Tod entschieden, erz\u00e4hlt sein Enkel Efecan G\u00fcnes, 19 Jahre alt."
+                },
+                {
+                    "text": "Die Deutschen, sie lieben Bekenntnisfragen, Efecan G\u00fcnes wei\u00df das und bleibt gelassen, w\u00e4hrend er durch Alfeld f\u00fchrt."
+                },
+                {
+                    "text": "Er spaziert vorbei an der Alten Post, die schon immer leer stand, und der neuen Post, die auch schon wieder dichtgemacht hat, vorbei an der Lateinschule, an Klinkerbauten, Fachwerkh\u00e4usern, am Kino, das von Corona dahingerafft wurde, und man denkt: Ein bisschen Zuzug w\u00fcrde der Kleinstadt auch heute nicht schaden."
+                },
+                {
+                    "text": "\u00bbKann ein Muslim Deutscher werden? Mein Gro\u00dfvater Bekir \u00d6zdemir als erster T\u00fcrke in Alfeld\u00ab, so hie\u00df der Aufsatz, den er als Siebtkl\u00e4ssler geschrieben hat und mit dem er Landessieger beim Geschichtswettbewerb des Bundespr\u00e4sidenten wurde, Thema damals \u00bbGott und die Welt. Religion macht Geschichte\u00ab."
+                },
+                {
+                    "text": "Er, seine Mutter und sein Gro\u00dfvater: drei Generationen einer deutschen Einwanderergeschichte."
+                },
+                {
+                    "text": "Wobei Efecan bei einem Spaziergang durch Alfeld klarstellt: \u00bbIch habe nicht vor, nur der Enkel des ersten T\u00fcrken von Alfeld zu sein.\u00ab"
+                },
+                {
+                    "text": "\u00bb16 Jahre davor hatte man noch die Juden vertrieben und ermordet, und Deutschland war nicht unter den Reisezielen religi\u00f6ser Minderheiten\u00ab, schreibt Enkel Efecan G\u00fcnes als Sch\u00fcler."
+                },
+                {
+                    "text": "\u00bbSein Traum hat mich gest\u00e4rkt\u00ab, kommentiert Efecan, und: \u00bbIch will meine Eltern irgendwann in Rente schicken.\u00ab"
+                },
+                {
+                    "text": "Wohin genau sein Beruf ihn f\u00fchren soll, wisse er noch nicht, vielleicht ins Ausw\u00e4rtige Amt, vielleicht in eine Anwaltskanzlei, nur eins wolle er sicher nicht vertiefen: Einwanderungsrecht."
+                },
+                {
+                    "text": "\u00bbIch will nicht mein eigenes Klischee leben.\u00ab"
+                },
+                {
+                    "text": "Gerade war er in der T\u00fcrkei zum Sprachkurs."
+                },
+                {
+                    "text": "Er will die t\u00fcrkische Politik von beiden Seiten her verstehen lernen, er will auf T\u00fcrkisch auf dem Niveau von T\u00fcrken sprechen k\u00f6nnen."
+                },
+                {
+                    "text": "Als er dort war, habe er erst gemerkt, was ihm alles gefehlt habe, als er wegen Corona nicht hin konnte: Sonne, Sprachklang, Betriebsamkeit."
+                },
+                {
+                    "text": "Und was er an Deutschland mag."
+                },
+                {
+                    "text": "In Heidelberg an der juristischen Fakult\u00e4t aber, dort begegne er wieder \u00f6fter Leuten mit Migrationserfahrung, Bosniern, Griechen, T\u00fcrken."
+                }
+            ],
+            "occupations": [],
+            "directQuotes": [
+                {
+                    "text": "Hier sind meine Leute, hier wird man sich an mich erinnern"
+                },
+                {
+                    "text": "Ich habe nicht vor, nur der Enkel des ersten T\u00fcrken von Alfeld zu sein."
+                },
+                {
+                    "text": "In Alfeld sagten manche, Bekir sei ein Sch\u00fcrzenj\u00e4ger. War er aber gar nicht. Nur die Frauen waren alle nach ihm verr\u00fcckt. Er selbst war zur\u00fcckhaltend"
+                },
+                {
+                    "text": "Unvergessen das 7:0 gegen Tennis Borussia Berlin. Mit drei Vorlagen von Bekir"
+                },
+                {
+                    "text": "Migrantenehrgeiz"
+                },
+                {
+                    "text": "Sein Traum hat mich gest\u00e4rkt"
+                },
+                {
+                    "text": "Ich will meine Eltern irgendwann in Rente schicken."
+                },
+                {
+                    "text": "Ich will nicht mein eigenes Klischee leben."
+                }
+            ],
+            "quotedInTitle": false,
+            "quotedInIntro": false
+        },
+        {
+            "name": "Thomas Berthold",
+            "alternativeNames": [],
+            "age": -1,
+            "sex": "male",
+            "occurences": {
+                "total": 1,
+                "firstNameOnly": 0,
+                "lastNameOnly": 0,
+                "fullName": 1,
+                "nickname": 0
+            },
+            "inTitle": false,
+            "inIntro": false,
+            "_name": {
+                "firstname": "Thomas",
+                "lastname": "Berthold",
+                "nickname": null,
+                "alternative_names": [],
+                "academic_title": null,
+                "nobility_title_or_rank": null
+            },
+            "descriptiveTexts": [
+                {
+                    "text": "Einst hatte \u00d6zdemir sogar ein Probetraining bei einem Proficlub in Adana absolviert, wo sp\u00e4ter Fu\u00dfball-Weltmeister Thomas Berthold spielte und Joachim L\u00f6w Trainer war."
+                }
+            ],
+            "occupations": [],
+            "directQuotes": [],
+            "quotedInTitle": false,
+            "quotedInIntro": false
+        },
+        {
+            "name": "Corona",
+            "alternativeNames": [],
+            "age": -1,
+            "sex": "unknown",
+            "occurences": {
+                "total": 2,
+                "firstNameOnly": 0,
+                "lastNameOnly": 0,
+                "fullName": 2,
+                "nickname": 0
+            },
+            "inTitle": false,
+            "inIntro": false,
+            "_name": {
+                "firstname": "Corona",
+                "lastname": null,
+                "nickname": null,
+                "alternative_names": [],
+                "academic_title": null,
+                "nobility_title_or_rank": null
+            },
+            "descriptiveTexts": [
+                {
+                    "text": "Er spaziert vorbei an der Alten Post, die schon immer leer stand, und der neuen Post, die auch schon wieder dichtgemacht hat, vorbei an der Lateinschule, an Klinkerbauten, Fachwerkh\u00e4usern, am Kino, das von Corona dahingerafft wurde, und man denkt: Ein bisschen Zuzug w\u00fcrde der Kleinstadt auch heute nicht schaden."
+                },
+                {
+                    "text": "Als er dort war, habe er erst gemerkt, was ihm alles gefehlt habe, als er wegen Corona nicht hin konnte: Sonne, Sprachklang, Betriebsamkeit."
+                }
+            ],
+            "occupations": [],
+            "directQuotes": [],
+            "quotedInTitle": false,
+            "quotedInIntro": false
+        },
+        {
+            "name": "Christin",
+            "alternativeNames": [],
+            "age": -1,
+            "sex": "female",
+            "occurences": {
+                "total": 1,
+                "firstNameOnly": 0,
+                "lastNameOnly": 0,
+                "fullName": 1,
+                "nickname": 0
+            },
+            "inTitle": false,
+            "inIntro": false,
+            "_name": {
+                "firstname": "Christin",
+                "lastname": null,
+                "nickname": null,
+                "alternative_names": [],
+                "academic_title": null,
+                "nobility_title_or_rank": null
+            },
+            "descriptiveTexts": [
+                {
+                    "text": "Aber auch einer, an dem man sich reiben konnte: Er hatte eine Christin geheiratet."
+                }
+            ],
+            "occupations": [],
+            "directQuotes": [],
+            "quotedInTitle": false,
+            "quotedInIntro": false
+        },
+        {
+            "name": "Yasemin G\u00fcne",
+            "alternativeNames": [],
+            "age": -1,
+            "sex": "female",
+            "occurences": {
+                "total": 2,
+                "firstNameOnly": 1,
+                "lastNameOnly": 0,
+                "fullName": 1,
+                "nickname": 0
+            },
+            "inTitle": false,
+            "inIntro": false,
+            "_name": {
+                "firstname": "Yasemin",
+                "lastname": "G\u00fcne",
+                "nickname": null,
+                "alternative_names": [],
+                "academic_title": null,
+                "nobility_title_or_rank": null
+            },
+            "descriptiveTexts": [
+                {
+                    "text": "Der Preis: \u00bbAls Kind habe ich nicht viel von ihm gehabt, er war ja immer unterwegs\u00ab, sagt Tochter Yasemin G\u00fcnes in ihrem Wohnzimmer, bei Nudelsalat, H\u00fchnchenbratwurst und Bulgur."
+                },
+                {
+                    "text": "Anderthalb Jahre verbrachte sie deshalb in Izmir, arbeitete als \u00dcbersetzerin und B\u00fcrokauffrau."
+                }
+            ],
+            "occupations": [
+                {
+                    "text": "\u00dcbersetzerin und B\u00fcrokauffrau"
+                }
+            ],
+            "directQuotes": [],
+            "quotedInTitle": false,
+            "quotedInIntro": false
+        },
+        {
+            "name": "Rudi Wucherpfennig",
+            "alternativeNames": [],
+            "age": -1,
+            "sex": "male",
+            "occurences": {
+                "total": 1,
+                "firstNameOnly": 0,
+                "lastNameOnly": 0,
+                "fullName": 1,
+                "nickname": 0
+            },
+            "inTitle": false,
+            "inIntro": false,
+            "_name": {
+                "firstname": "Rudi",
+                "lastname": "Wucherpfennig",
+                "nickname": null,
+                "alternative_names": [],
+                "academic_title": null,
+                "nobility_title_or_rank": null
+            },
+            "descriptiveTexts": [
+                {
+                    "text": "\u00bbUnvergessen das 7:0 gegen Tennis Borussia Berlin. Mit drei Vorlagen von Bekir\u00ab, wie dessen alter Freund Rudi Wucherpfennig beteuert, der dabei war."
+                }
+            ],
+            "occupations": [],
+            "directQuotes": [],
+            "quotedInTitle": false,
+            "quotedInIntro": false
+        }
+    ]
+}

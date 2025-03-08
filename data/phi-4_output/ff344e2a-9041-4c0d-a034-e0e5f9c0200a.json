@@ -1,0 +1,242 @@
+{
+    "persons": [
+        {
+            "name": "Stephan Brandner",
+            "alternativeNames": [],
+            "age": -1,
+            "sex": "male",
+            "occurences": {
+                "total": 1,
+                "firstNameOnly": 0,
+                "lastNameOnly": 0,
+                "fullName": 1,
+                "nickname": 0
+            },
+            "inTitle": false,
+            "inIntro": false,
+            "_name": {
+                "firstname": "Stephan",
+                "lastname": "Brandner",
+                "nickname": null,
+                "alternative_names": [],
+                "academic_title": null,
+                "nobility_title_or_rank": null
+            },
+            "descriptiveTexts": [
+                {
+                    "text": "Nahe Truongs Tattoostudio hat der direkt gew\u00e4hlte Geraer AfD-Abgeordnete und H\u00f6cke-Vertraute Stephan Brandner sein Wahlkreisb\u00fcro."
+                },
+                {
+                    "text": "Er ist wie H\u00f6cke geb\u00fcrtiger Westdeutscher, hat aber den Osten als Spielwiese f\u00fcr seine Ideologien auserkoren."
+                }
+            ],
+            "occupations": [],
+            "directQuotes": [],
+            "quotedInTitle": false,
+            "quotedInIntro": false
+        },
+        {
+            "name": "H\u00f6cke",
+            "alternativeNames": [],
+            "age": -1,
+            "sex": "male",
+            "occurences": {
+                "total": 2,
+                "firstNameOnly": 0,
+                "lastNameOnly": 0,
+                "fullName": 2,
+                "nickname": 0
+            },
+            "inTitle": false,
+            "inIntro": false,
+            "_name": {
+                "firstname": null,
+                "lastname": "H\u00f6cke",
+                "nickname": null,
+                "alternative_names": [],
+                "academic_title": null,
+                "nobility_title_or_rank": null
+            },
+            "descriptiveTexts": [
+                {
+                    "text": "Sie hob den rechten Arm steil nach oben."
+                },
+                {
+                    "text": "\u00bbIch habe gl\u00fccklich zur\u00fcckgewinkt, dann lachte sie mich aus.\u00ab"
+                },
+                {
+                    "text": "Nahe Truongs Tattoostudio hat der direkt gew\u00e4hlte Geraer AfD-Abgeordnete und H\u00f6cke-Vertraute Stephan Brandner sein Wahlkreisb\u00fcro."
+                },
+                {
+                    "text": "Er ist wie H\u00f6cke geb\u00fcrtiger Westdeutscher, hat aber den Osten als Spielwiese f\u00fcr seine Ideologien auserkoren."
+                }
+            ],
+            "occupations": [],
+            "directQuotes": [],
+            "quotedInTitle": false,
+            "quotedInIntro": false
+        },
+        {
+            "name": "Tam Truong",
+            "alternativeNames": [],
+            "age": 30,
+            "sex": "female",
+            "occurences": {
+                "total": 17,
+                "firstNameOnly": 0,
+                "lastNameOnly": 14,
+                "fullName": 3,
+                "nickname": 0
+            },
+            "inTitle": false,
+            "inIntro": true,
+            "_name": {
+                "firstname": "Tam",
+                "lastname": "Truong",
+                "nickname": null,
+                "alternative_names": [],
+                "academic_title": null,
+                "nobility_title_or_rank": null
+            },
+            "descriptiveTexts": [
+                {
+                    "text": "Tam Truongs Eltern kamen aus Vietnam in die DDR, sie f\u00fchlt sich als \u00bbOssi durch und durch\u00ab."
+                },
+                {
+                    "text": "W\u00e4re da nicht der Rassismus, den sie in der AfD-Hochburg Gera wieder h\u00e4ufiger erlebt."
+                },
+                {
+                    "text": "Tam Truong war acht Jahre alt, als sie zum ersten Mal mit dem Hitlergru\u00df begr\u00fc\u00dft wurde."
+                },
+                {
+                    "text": "Ein M\u00e4dchen, \u00bbblauer Rucksack, schwarze Haare\u00ab, so erinnert sich die 30-J\u00e4hrige bis heute, habe sie beim Aussteigen aus der Stra\u00dfenbahn gegr\u00fc\u00dft."
+                },
+                {
+                    "text": "\u00bbIch habe gl\u00fccklich zur\u00fcckgewinkt, dann lachte sie mich aus.\u00ab"
+                },
+                {
+                    "text": "Sp\u00e4ter kl\u00e4rte sie ihr Bruder auf."
+                },
+                {
+                    "text": "Truong erz\u00e4hlt von aufgeschlitzten Autoreifen und Farbbeutelattacken, von Briefen mit Hakenkreuzen, von \u00bbReisfresser\u00ab- und \u00bbSchlitzauge\u00ab-Rufen, die ihre Kindheit begleiteten."
+                },
+                {
+                    "text": "Truong kennt diesen Alltagsrassismus."
+                },
+                {
+                    "text": "Ein Bekannter fragte, ob sie und ihr deutscher Freund jetzt jeden Tag Reis essen w\u00fcrden und immer St\u00e4bchen verwenden w\u00fcrden."
+                },
+                {
+                    "text": "\u00bbDas fand ich nicht witzig\u00ab, sagt Truong heute."
+                },
+                {
+                    "text": "Wenn Truong spricht, dann erinnert sie sich an kleinste Details solcher Erlebnisse, zugleich erz\u00e4hlt sie distanziert."
+                },
+                {
+                    "text": "\u00bbMan wei\u00df, wie unberechenbar solche Leute sein k\u00f6nnen\u00ab, sagt sie \u00fcber Neonazis."
+                },
+                {
+                    "text": "\u00bbMan\u00ab, nicht \u00bbich\u00ab."
+                },
+                {
+                    "text": "Truong kam in Chemnitz zur Welt, seit gut 20 Jahren lebt sie mit ihrer Familie in Gera in Ostth\u00fcringen."
+                },
+                {
+                    "text": "Truong und ich haben hier die gleiche Schule besucht, hatten die gleiche Mathematiklehrerin, gingen in die gleichen Klubs \u2013 nur einige Jahre versetzt."
+                },
+                {
+                    "text": "Als ich mein Abitur machte, war Truong erst in der f\u00fcnften Klasse."
+                },
+                {
+                    "text": "Ich bin nach dem Abi rasch weggezogen, sie kehrte nach f\u00fcnf Jahren Studium in Leipzig heim."
+                },
+                {
+                    "text": "Nun will ich wissen: Was h\u00e4lt sie hier?"
+                },
+                {
+                    "text": "\u00bbIch bin wirklich gern hier\u00ab, sagt sie."
+                },
+                {
+                    "text": "Sie liebe die N\u00e4he zu ihren Freunden und Eltern, eine Gro\u00dfstadt w\u00e4re ihr zu trubelig."
+                },
+                {
+                    "text": "Im Herzen von Gera hat sie ein Tattoostudio er\u00f6ffnet, das \u00bbNadelgold\u00ab."
+                },
+                {
+                    "text": "An den W\u00e4nden h\u00e4ngen von Truong gemalte Bilder, in einem K\u00f6rbchen schnarcht eine kleine Dogge."
+                },
+                {
+                    "text": "Eine Stra\u00dfe weiter betreiben Truongs Eltern ein Obst- und Gem\u00fcsegesch\u00e4ft."
+                },
+                {
+                    "text": "Wer heute das Gesch\u00e4ft der Truongs besucht, findet einen aufger\u00e4umten und reich gef\u00fcllten Laden."
+                },
+                {
+                    "text": "Sie m\u00f6chte kein schlechtes Wort \u00fcber Gera verlieren."
+                },
+                {
+                    "text": "Nahe Truongs Tattoostudio hat der direkt gew\u00e4hlte Geraer AfD-Abgeordnete und H\u00f6cke-Vertraute Stephan Brandner sein Wahlkreisb\u00fcro."
+                },
+                {
+                    "text": "Im Sommer spazierte Tam Truong mit ihrer Tochter zuf\u00e4llig an einer AfD-Kundgebung vorbei, sie f\u00fchlte sich an die Neonazi-Konzerte in unserer Jugendzeit erinnert."
+                },
+                {
+                    "text": "Dennoch gehe sie nicht in Angst durch ihre Stadt."
+                },
+                {
+                    "text": "\u00bbIm Osten sind die Menschen offenherziger\u00ab, man komme schneller zusammen, sagt sie."
+                },
+                {
+                    "text": "Truong f\u00fchrt ein Leben mit zwei Identit\u00e4ten."
+                },
+                {
+                    "text": "Sie mag die Traditionen ihrer vietnamesischen Eltern, sagt sie."
+                },
+                {
+                    "text": "Zugleich sei sie Ossi durch und durch."
+                },
+                {
+                    "text": "\u00bbIch k\u00f6nnte mir nie vorstellen, woanders zu leben\u00ab, sagt sie."
+                },
+                {
+                    "text": "Es gibt Menschen wie Truong, die hier etwas aufbauen, Heimat finden."
+                },
+                {
+                    "text": "Im Schaufenster ihres Tattoostudios hat Truong goldene Folie aufgeh\u00e4ngt."
+                }
+            ],
+            "occupations": [],
+            "directQuotes": [
+                {
+                    "text": "Ossi durch und durch"
+                },
+                {
+                    "text": "Ich habe gl\u00fccklich zur\u00fcckgewinkt, dann lachte sie mich aus."
+                },
+                {
+                    "text": "Das fand ich nicht witzig"
+                },
+                {
+                    "text": "Man wei\u00df, wie unberechenbar solche Leute sein k\u00f6nnen"
+                },
+                {
+                    "text": "Ich bin wirklich gern hier"
+                },
+                {
+                    "text": "Es waren die gleichen Parolen, der gleiche Sound, \u00e4hnliche Plakate."
+                },
+                {
+                    "text": "Im Osten sind die Menschen offenherziger"
+                },
+                {
+                    "text": "Es gibt hier viel Hilfsbereitschaft."
+                },
+                {
+                    "text": "Ich k\u00f6nnte mir nie vorstellen, woanders zu leben"
+                }
+            ],
+            "quotedInTitle": false,
+            "quotedInIntro": true
+        }
+    ]
+}

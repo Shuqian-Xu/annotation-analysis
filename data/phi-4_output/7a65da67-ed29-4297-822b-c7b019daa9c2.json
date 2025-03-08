@@ -1,0 +1,765 @@
+{
+    "persons": [
+        {
+            "name": "Harlekindogge",
+            "alternativeNames": [],
+            "age": -1,
+            "sex": "unknown",
+            "occurences": {
+                "total": 1,
+                "firstNameOnly": 0,
+                "lastNameOnly": 0,
+                "fullName": 1,
+                "nickname": 0
+            },
+            "inTitle": false,
+            "inIntro": false,
+            "_name": {
+                "firstname": null,
+                "lastname": null,
+                "nickname": null,
+                "alternative_names": [],
+                "academic_title": null,
+                "nobility_title_or_rank": null
+            },
+            "descriptiveTexts": [
+                {
+                    "text": "In \u00bbDer Freund\u00ab stirbt der Mentor und hinterl\u00e4sst der Erz\u00e4hlerin eine Harlekindogge; in \u00bbWas fehlt dir\u00ab schreibt sie eine traumhafte Szene mit einer Katze."
+                }
+            ],
+            "occupations": [],
+            "directQuotes": [],
+            "quotedInTitle": false,
+            "quotedInIntro": false
+        },
+        {
+            "name": "Sigrid Nunez",
+            "alternativeNames": [],
+            "age": 70,
+            "sex": "female",
+            "occurences": {
+                "total": 34,
+                "firstNameOnly": 0,
+                "lastNameOnly": 31,
+                "fullName": 3,
+                "nickname": 0
+            },
+            "inTitle": false,
+            "inIntro": true,
+            "_name": {
+                "firstname": "Sigrid",
+                "lastname": "Nunez",
+                "nickname": null,
+                "alternative_names": [],
+                "academic_title": null,
+                "nobility_title_or_rank": null
+            },
+            "descriptiveTexts": [
+                {
+                    "text": "Der Erfolg kam sp\u00e4t f\u00fcr die Schriftstellerin Sigrid Nunez, doch dann umso gewaltiger."
+                },
+                {
+                    "text": "Sigrid Nunez scheint sich perfekt in die Kulisse einzuf\u00fcgen, sie tr\u00e4gt eine blaue Jeans, markante rundliche Brille, graue Wollm\u00fctze, unter der sie einen Kurzhaarschnitt verbirgt, einen blau karierten Schal und einen Stoffbeutel mit dem Aufdruck eines Literaturmagazins."
+                },
+                {
+                    "text": "Unter dem 23 Meter hohen Bauwerk wirkt sie noch zierlicher."
+                },
+                {
+                    "text": "Den Ort hat Nunez allerdings nicht wegen seiner historischen oder popkulturellen Momente gew\u00e4hlt, sondern aus logistischen Gr\u00fcnden."
+                },
+                {
+                    "text": "Er liegt fu\u00dfl\u00e4ufig zwischen ihrer Wohnung und dem Co-Working-Space, in dem sie manchmal arbeitet und sich derzeit durch die Anmerkungen der Redaktion zu einer langen Rezension qu\u00e4lt."
+                },
+                {
+                    "text": "Nunez gilt als eine der beliebtesten Autorinnen der Gegenwartsliteratur."
+                },
+                {
+                    "text": "Als sie 2018 den National Book Award f\u00fcr \u00bbDer Freund\u00ab erhielt, verfielen ihr Publikum und Kritik weltweit."
+                },
+                {
+                    "text": "Nunez, eine Art Ausnahmeerscheinung in der US-amerikanischen Literaturszene, interessiert sich nicht f\u00fcr Eigenwerbung oder Marketing."
+                },
+                {
+                    "text": "Schreiben sieht sie als eine Berufung."
+                },
+                {
+                    "text": "Und vielleicht macht sie das umso attraktiver f\u00fcr andere Schriftstellerinnen und Schriftsteller, weil es eine gewisse Authentizit\u00e4t in sich birgt, die an eine vergangene Zeit erinnert, als das Leben von Schriftstellern sich nur um das Schreiben zu drehen schien."
+                },
+                {
+                    "text": "Sie geht sparsam mit ihrem einzigartigen Stil um, schreibt so intim, als ob sie ihrer besten Freundin etwas anvertrauen w\u00fcrde."
+                },
+                {
+                    "text": "Doch sie sagt: \u00bbLass uns doch \u00fcber wundersch\u00f6ne Tiere sprechen.\u00ab"
+                },
+                {
+                    "text": "\u00bbEs ist einfach so passiert\u00ab, sagt Nunez."
+                },
+                {
+                    "text": "In jedem Buch trifft sie auf ein unterschiedliches Tier."
+                },
+                {
+                    "text": "In \u00bbDer Freund\u00ab stirbt der Mentor und hinterl\u00e4sst der Erz\u00e4hlerin eine Harlekindogge; in \u00bbWas fehlt dir\u00ab schreibt sie eine traumhafte Szene mit einer Katze."
+                },
+                {
+                    "text": "Dort trifft sie auf einen jungen Mann, einen Freund der Familie."
+                },
+                {
+                    "text": "Nunez beschreibt die allt\u00e4glichen Details, all die \u00bbPandemie-Marotten\u00ab und Aggressionen w\u00e4hrend des Lockdowns."
+                },
+                {
+                    "text": "Die Erz\u00e4hlerin geht spazieren, sie denkt \u00fcber das Schreiben nach, \u00fcber die Beerdigung einer Freundin, sie will die Wohnung nicht mit dem jungen Mann teilen, er nervt sie, aber zum Gl\u00fcck erheitert sie der Vogel."
+                },
+                {
+                    "text": "Schon als Kind hatte Nunez den Ruf als \u00bbTierm\u00e4dchen\u00ab erworben, weil sie verletzte Tiere aufnahm, und noch heute h\u00e4lt diese Faszination an."
+                },
+                {
+                    "text": "Sie sei nicht besonders ungl\u00fccklich, wenn sie eine Ratte in New York sehe, sagt sie."
+                },
+                {
+                    "text": "Tiere begeistern sie auch wegen ihrer symbolischen Bedeutung, in Fabeln etwa oder Kindergeschichten."
+                },
+                {
+                    "text": "Sie sei zwar gegen die Anthropomorphisierung von Tieren in der Literatur, also dass man ihnen menschliche Z\u00fcge zuschreibt."
+                },
+                {
+                    "text": "\u00bbDoch ich bedaure, dass ich nicht fr\u00fcher angefangen habe, \u00fcber Tiere zu schreiben. Denn was einen zum Schreiben bringt, ist Leidenschaft. Das, was dich besessen macht.\u00ab"
+                },
+                {
+                    "text": "Nunez\u2019 Leben liest sich wie eine dieser Biografien, die in Romanen oft auftauchen."
+                },
+                {
+                    "text": "Tats\u00e4chlich hat sie selbst in ihrem Deb\u00fctroman \u00bbEine Feder auf dem Atem Gottes\u00ab die Grundz\u00fcge ihres eigenen Lebens fiktionalisiert."
+                },
+                {
+                    "text": "Geboren 1951 w\u00e4chst sie in Staten Island auf, als Kind einer deutschen Mutter und eines Vaters chinesisch-panamaischer Herkunft."
+                },
+                {
+                    "text": "Nach der R\u00fcckkehr zog die Familie nach New York, der Vater arbeitete von morgens bis abends in Kantinen und Restaurants, die Mutter wurde ungl\u00fccklich dar\u00fcber, wie sich das Leben f\u00fcr sie entwickelt hatte."
+                },
+                {
+                    "text": "In diesem Umfeld sehnt sich Nunez nach mehr, nicht unbedingt nur nach dem Schreiben \u2013 obwohl \u00bbdas kam zuerst\u00ab, wie sie sagt; sie will aber auch tanzen."
+                },
+                {
+                    "text": "Dass es nicht funktionierte mit der Karriere als Ballerina, dass sie \u00bbversagte\u00ab, wie sie es nennt, dar\u00fcber kam sie nie hinweg."
+                },
+                {
+                    "text": "Stattdessen geht Nunez in New York aufs College, studiert, arbeitet sp\u00e4ter als Redaktionsassistentin f\u00fcr \u00bbThe New York Review of Books\u00ab, eines der wichtigsten intellektuellen Magazine der USA."
+                },
+                {
+                    "text": "Durch ihre Arbeit findet sie Zugang zu der Intellektuellen der Stunde Susan Sontag, wird ihre Assistentin und wohnt gemeinsam mit ihr und ihrem Sohn in Sontags Wohnung auf der Upper West Side."
+                },
+                {
+                    "text": "W\u00e4hrenddessen hat Nunez immer geschrieben."
+                },
+                {
+                    "text": "Doch ihr erster Roman kam erst 1995 heraus, als Nunez schon in ihren Vierzigern war."
+                },
+                {
+                    "text": "Sie war lange vor allem ein \u00bbwriter\u2019s writer\u00ab, also unter anderen Schriftstellerinnen und Schriftstellern beliebt, die ihren tiefgr\u00fcndigen und komplexen Stil der Introspektion sowie ihre nachdenkliche, kontemplative Erz\u00e4hlstimme sch\u00e4tzten."
+                },
+                {
+                    "text": "Nunez\u2019 erstes Buch, eine Selbsterkundung, bindet lose vier Momente ihres Lebens zusammen."
+                },
+                {
+                    "text": "Sie widmet einen Teil ihrem Vater, einen ihrer Mutter, einen dem Ballett und den letzten einem Liebhaber."
+                },
+                {
+                    "text": "Hier schimmert schon all das durch, wof\u00fcr Nunez sp\u00e4ter gesch\u00e4tzt wird: das genaue Beobachten, das intelligente Hinterfragen, der Humor und die elegante Erz\u00e4hlweise."
+                },
+                {
+                    "text": "Aber der kommerzielle Erfolg blieb aus, der Durchbruch kommt erst mehr als zwanzig Jahre sp\u00e4ter, ern\u00fcchtert wirkt Nunez auch in der R\u00fcckschau nicht."
+                },
+                {
+                    "text": "\u00bbDas war ungeheuer hilfreich. Es hat mich nicht vom Hocker gehauen\u00ab, sagt sie."
+                },
+                {
+                    "text": "H\u00e4tte ihr erstes Buch den National Book Award gewonnen, h\u00e4tte ihr das vielleicht schaden k\u00f6nnen, weil Menschen dann Erwartungen an sie gekn\u00fcpft h\u00e4tten, glaubt sie."
+                },
+                {
+                    "text": "Ihr Leben lang hat Schreiben Freiheit bedeutet, etwas, das sie allein tun konnte."
+                },
+                {
+                    "text": "Sie habe immer daf\u00fcr gek\u00e4mpft, sagt sie, sie habe auch nie wirklich eine andere Arbeit angenommen oder einen Job, der sie daran h\u00e4tte hindern k\u00f6nnen."
+                },
+                {
+                    "text": "Lediglich an ein paar Colleges habe sie bis vor Kurzem unterrichtet."
+                },
+                {
+                    "text": "Nun mit Anfang Siebzig hat sie, so scheint es, sich diese Freiheit regelrecht erschrieben."
+                },
+                {
+                    "text": "Einen Abend vor dem Treffen am Washington Square Park schl\u00e4gt Nunez vor, sich im Pastis zu verabreden."
+                },
+                {
+                    "text": "Nunez lacht, als diese Referenzen im Gespr\u00e4ch auftauchen, und bestellt zwei Vorspeisen, Austern und Artischocken."
+                },
+                {
+                    "text": "Sie tr\u00e4gt ein Lederjackett, Lippenstift, der Kurzhaarschnitt perfekt frisiert, die Augen leicht zum Katzenlidstrich geschwungen."
+                },
+                {
+                    "text": "Das Restaurant f\u00fcllt sich st\u00fcndlich mehr, Nunez l\u00e4sst sich davon nicht beeindrucken, scheint sich nicht f\u00fcr die anderen Personen zu interessieren."
+                },
+                {
+                    "text": "Sie isst langsam, ihr Blick wandert nicht, sie bleibt fokussiert auf das Gespr\u00e4ch trotz der Lautst\u00e4rke."
+                },
+                {
+                    "text": "Sie habe nicht so viel Hunger, sie habe eben noch ein l\u00e4ngeres Mittagessen mit ihrem Verleger und ihrem Agenten gehabt, um die Ver\u00f6ffentlichung ihres Buches nachzufeiern."
+                },
+                {
+                    "text": "Dieses Mal l\u00e4sst sie ihre Geschichte w\u00e4hrend der Pandemie stattfinden."
+                },
+                {
+                    "text": "\u00bbIch wollte keinen sogenannten Pandemieroman schreiben, und ich habe auch nichts geplant, wie \u00fcblich\u00ab, sagt sie."
+                },
+                {
+                    "text": "Aber Nunez, die ihr ganzes Leben in New York verbracht hat, sah, wie die Stadt, gebeutelt von Covid-19, sich ver\u00e4nderte \u2013 aber auch, wie Menschen ihre Wohnungen dem medizinischen Personal \u00fcberlie\u00dfen, so wie die Icherz\u00e4hlerin in \u00bbDie Verletzlichen\u00ab."
+                },
+                {
+                    "text": "\u00dcberhaupt New York, Nunez lebt seit Jahrzehnten immer noch in ihrer kleinen Wohnung und kann stundenlang \u00fcber ihre Stadt sinnieren."
+                },
+                {
+                    "text": "Und wenn sie das tut, redet sie schnell, mit heller Stimme, die Gedanken scheinen nur so aus ihr herauszuflie\u00dfen."
+                },
+                {
+                    "text": "Sie h\u00e4lt kaum inne und spricht \u00fcber die Einkommensschere in der Stadt, wie Menschen sich keine Wohnungen mehr leisten k\u00f6nnen, \u00fcber die Tausenden und Abertausenden obdachlosen Menschen, um dann \u00fcber Literatur in all ihren Schattierungen zu reden."
+                },
+                {
+                    "text": "In gewisser Weise \u00e4hnelt sie in diesen Momenten ihren eigenen Erz\u00e4hlerinnen."
+                },
+                {
+                    "text": "Positiv gewandt k\u00f6nnte darin auch ein Hinweis liegen, wie stilistisch sicher und wahrhaftig Sigrid Nunez schreibt."
+                },
+                {
+                    "text": "\u00bbAlle scheinen zu glauben, dass alles in diesen B\u00fcchern wirklich passiert ist, was eigentlich keinen Sinn ergibt. Mir macht das nichts aus\u00ab, sagt sie."
+                },
+                {
+                    "text": "Allerdings st\u00f6re sie, wenn in Rezensionen zu lesen sei, auf dem Buch stehe zwar Roman, aber eigentlich seien es Memoiren."
+                },
+                {
+                    "text": "Einer Anekdote zufolge wurde Nunez einmal von einer entfernten Bekannten zu Hause abgeholt, und als sie sich drau\u00dfen trafen, fragte die Bekannte nach dem Hund."
+                },
+                {
+                    "text": "Nunez aber hat gar keine Haustiere, sie hat nur \u00fcber einen gro\u00dfen Hund in einer New Yorker Miniwohnung geschrieben."
+                },
+                {
+                    "text": "Sie hatte mal Katzen, das sei lang her."
+                },
+                {
+                    "text": "Als sie starben, habe sie es nicht \u00fcbers Herz bringen k\u00f6nnen, ein neues Haustier in ihre Wohnung zu lassen."
+                },
+                {
+                    "text": "\u00bbWenn meine Erz\u00e4hlerin nachdenklich ist und ihre Meinung zu etwas \u00e4u\u00dfert, wenn sie bestimmte Beobachtungen dazu macht, was es bedeutet, \u00e4lter zu werden oder allein zu leben, was immer es sein mag \u2013 das bin ich. Ich w\u00fcrde ihr niemals Ideen zuschreiben, die ich nicht auch selbst habe.\u00ab"
+                },
+                {
+                    "text": "Bei der Handlung aber h\u00f6re das auf, denn da interessiere sie nur die Frage: Was w\u00e4re, wenn?"
+                },
+                {
+                    "text": "Oder die Freundin sagt, ich werde mir das Leben nehmen, weil ich ohnehin sterben werde."
+                },
+                {
+                    "text": "\u00bbDas ist alles erfunden, und ich will es erfinden\u00ab, sagt sie."
+                },
+                {
+                    "text": "Um Nunez\u2019 Schreiben zu verstehen, muss man neben den Tieren und dem Nachdenken \u00fcber Literatur und Textproduktion einen dritten Faktor ber\u00fccksichtigen: die Schriftstellerin Virginia Woolf."
+                },
+                {
+                    "text": "Nunez w\u00fcrde sicherlich \u00c4hnliches denken."
+                },
+                {
+                    "text": "Dieser erste Satz steht genauso in Woolfs \u00bbDie Jahre\u00ab, aber Nunez spannt daraus die erste Reflexion ihrer Erz\u00e4hlerin \u00fcber die vermeintlich erste Regel des Schreibens: keinesfalls mit dem Wetter beginnen (an dieser Stelle w\u00fcrde sich ein Blick an den Beginn dieses Textes lohnen)."
+                },
+                {
+                    "text": "\u00bbIch glaube, ich habe Virginia Woolf erst auf dem College gelesen, und ich kann mich nicht einmal mehr erinnern, wie das erste Buch hie\u00df. Aber ich war v\u00f6llig begeistert, und meine Freunde und Kommilitonen auch. Sie war das Idol\u00ab, sagt Nunez."
+                },
+                {
+                    "text": "Nunez selbst wirft diese Frage auf und l\u00e4sst die Antwort verpuffen."
+                },
+                {
+                    "text": "\u00bbSie hat uns einfach in ihren Bann gezogen. Es war wie eine Sucht. Ich habe alles gelesen.\u00ab"
+                },
+                {
+                    "text": "Sie habe versucht, wie Woolf zu schreiben, was ihr aber nicht wirklich lag, sagt sie, um dann gleich danach in eine Abhandlung \u00fcber das von Woolf geliebte Semikolon zu verfallen \u2013 und warum es ein schwieriges Satzzeichen in der Literatur sei."
+                },
+                {
+                    "text": "Auch als sie aufh\u00f6rte, Woolfs Stil zu kopieren, lie\u00df die Schriftstellerin sie nicht los."
+                },
+                {
+                    "text": "Nunez hat sogar eine Art Scheinbiografie geschrieben, in der es um Virginia Woolf, ihren Ehemann sowie einen kleinen Affen namens Mitz geht."
+                },
+                {
+                    "text": "Nun also beginnt sie ihren Roman mit einem Satz aus dem Werk Woolfs."
+                },
+                {
+                    "text": "Ob sie die englische Autorin heute noch immer als relevant erachte?"
+                },
+                {
+                    "text": "\u00bbSie kann immer noch als ein gro\u00dfes Vorbild dienen. Erstens, weil ihre Texte so eindringlich sind. Zweitens, weil sie eine sehr ernsthafte Feministin war mit einem unglaublichen Gerechtigkeitssinn\u00ab, sagt sie."
+                },
+                {
+                    "text": "Nunez scheint diese Form f\u00fcr sich eingenommen, in all ihren Texten weitergesponnen zu haben."
+                },
+                {
+                    "text": "Sie habe seit Ewigkeiten keinen Text, fiktional oder essayistisch, von Virginia Woolf mehr gelesen, sagt sie."
+                },
+                {
+                    "text": "Offenbar beginnt das Schreiben von Nunez genauso: Mit einem Satz, einem Gedanken, einer Beobachtung, die sie nicht mehr losl\u00e4sst."
+                },
+                {
+                    "text": "Sie beginnt dann zu schreiben, meistens gleich in der Fr\u00fch, wenn der Kopf noch nicht so voll ist von der Welt da drau\u00dfen."
+                },
+                {
+                    "text": "Wie alle anderen verf\u00fcge sie nicht \u00fcber die Disziplin, nicht im Netz nach Dingen zu schauen, nicht doch schnell eine Mail zu lesen."
+                },
+                {
+                    "text": "Sie erz\u00e4hlt von einem Komponisten, den sie w\u00e4hrend einer Kunst-Residenz kennenlernte, der jeden Morgen seinen Laptop und seinen Rechner in ein anderes Geb\u00e4ude brachte, um in Ruhe in einem anderen arbeiten zu k\u00f6nnen."
+                },
+                {
+                    "text": "\u00bbAber das kann ich zu Hause nicht machen, obwohl: Ich k\u00f6nnte meinen Computer und mein Telefon in einem Koffer verstauen und dann den Koffer auf ein hohes Regal stellen. Und dann Sachen daraufstapeln\u00ab, sagt sie und schaut dabei so erfreut, wie Menschen es tun, wenn das Gesagte eine andere Person zum Lachen bringt."
+                },
+                {
+                    "text": "Nunez geht beim Schreiben diszipliniert und linear vor."
+                },
+                {
+                    "text": "Sie \u00fcberarbeitet immer wieder dieselbe Seite, bis sie diese als perfekt erachtet."
+                },
+                {
+                    "text": "Erst dann erlaubt sie sich, eine neue Seite zu beginnen."
+                },
+                {
+                    "text": "\u00c4ndern wird sie diese Routine nicht mehr, \u00bbdaf\u00fcr bin ich zu abergl\u00e4ubisch\u00ab."
+                },
+                {
+                    "text": "Sie hat sich f\u00fcr sie bew\u00e4hrt."
+                },
+                {
+                    "text": "\u00bbIch schreibe so, weil ich \u00fcberempfindlich darauf reagiere, wenn ein erster Entwurf schlecht ist\u00ab, sagte sie."
+                },
+                {
+                    "text": "Diszipliniert ist Nunez auch, weil sie weder Social Media noch Streamingdienste verwendet."
+                },
+                {
+                    "text": "Stattdessen antwortet sie ihren Leserinnen, die ihr E-Mails schreiben."
+                },
+                {
+                    "text": "Oder sie geht ins Kino, ins Film Forum, einer ihrer Lieblingsorte der Stadt."
+                },
+                {
+                    "text": "Ein Sitzplatz tr\u00e4gt sogar ihren Namen dort, nachdem sie eine Spende f\u00fcr das unabh\u00e4ngige Kino get\u00e4tigt hat, 2500 Dollar."
+                },
+                {
+                    "text": "\u00bbReihe 5, Platz E\u00ab, sagt sie stolz."
+                },
+                {
+                    "text": "Ob sie an einem neuen Buch arbeite und darin wieder \u00fcber Tiere schreibe?"
+                },
+                {
+                    "text": "\u00bbNein, ich glaube, dass nicht alles unendlich ist, okay? Vielleicht k\u00f6nnte ich ein Buch schreiben, aber vielleicht werde ich dieses Mal die Wahrheit sagen. Wir werden sehen, was passiert.\u00ab"
+                },
+                {
+                    "text": "Und dann verabschiedet sie sich, herzlich, mit einer Umarmung, aber nun w\u00fcrde die Rezension auf sie warten, und sie verschwindet auf der gro\u00dfen Stra\u00dfe in der Masse der Menschen."
+                }
+            ],
+            "occupations": [
+                {
+                    "text": "Schriftstellerin"
+                },
+                {
+                    "text": "Tochter von Migranten"
+                }
+            ],
+            "directQuotes": [
+                {
+                    "text": "Die Verletzlichen"
+                },
+                {
+                    "text": "Der Freund"
+                },
+                {
+                    "text": "Lass uns doch \u00fcber wundersch\u00f6ne Tiere sprechen."
+                },
+                {
+                    "text": "Was fehlt dir"
+                },
+                {
+                    "text": "Es ist einfach so passiert"
+                },
+                {
+                    "text": "Pandemie-Marotten"
+                },
+                {
+                    "text": "Tierm\u00e4dchen"
+                },
+                {
+                    "text": "Eine Feder auf dem Atem Gottes"
+                },
+                {
+                    "text": "das kam zuerst"
+                },
+                {
+                    "text": "versagte"
+                },
+                {
+                    "text": "Das war ungeheuer hilfreich. Es hat mich nicht vom Hocker gehauen"
+                },
+                {
+                    "text": "Ich wollte keinen sogenannten Pandemieroman schreiben, und ich habe auch nichts geplant, wie \u00fcblich"
+                },
+                {
+                    "text": "Alle scheinen zu glauben, dass alles in diesen B\u00fcchern wirklich passiert ist, was eigentlich keinen Sinn ergibt. Mir macht das nichts aus"
+                },
+                {
+                    "text": "Wenn meine Erz\u00e4hlerin nachdenklich ist und ihre Meinung zu etwas \u00e4u\u00dfert, wenn sie bestimmte Beobachtungen dazu macht, was es bedeutet, \u00e4lter zu werden oder allein zu leben, was immer es sein mag \u2013 das bin ich. Ich w\u00fcrde ihr niemals Ideen zuschreiben, die ich nicht auch selbst habe."
+                },
+                {
+                    "text": "Das ist alles erfunden, und ich will es erfinden"
+                },
+                {
+                    "text": "Ich glaube, ich habe Virginia Woolf erst auf dem College gelesen, und ich kann mich nicht einmal mehr erinnern, wie das erste Buch hie\u00df. Aber ich war v\u00f6llig begeistert, und meine Freunde und Kommilitonen auch. Sie war das Idol"
+                },
+                {
+                    "text": "Sie hat uns einfach in ihren Bann gezogen. Es war wie eine Sucht. Ich habe alles gelesen."
+                },
+                {
+                    "text": "Sie kann immer noch als ein gro\u00dfes Vorbild dienen. Erstens, weil ihre Texte so eindringlich sind. Zweitens, weil sie eine sehr ernsthafte Feministin war mit einem unglaublichen Gerechtigkeitssinn"
+                },
+                {
+                    "text": "Aber das kann ich zu Hause nicht machen, obwohl: Ich k\u00f6nnte meinen Computer und mein Telefon in einem Koffer verstauen und dann den Koffer auf ein hohes Regal stellen. Und dann Sachen daraufstapeln"
+                },
+                {
+                    "text": "daf\u00fcr bin ich zu abergl\u00e4ubisch"
+                },
+                {
+                    "text": "Ich schreibe so, weil ich \u00fcberempfindlich darauf reagiere, wenn ein erster Entwurf schlecht ist"
+                },
+                {
+                    "text": "Nein, ich glaube, dass nicht alles unendlich ist, okay? Vielleicht k\u00f6nnte ich ein Buch schreiben, aber vielleicht werde ich dieses Mal die Wahrheit sagen. Wir werden sehen, was passiert."
+                }
+            ],
+            "quotedInTitle": false,
+            "quotedInIntro": true
+        },
+        {
+            "name": "Mitz",
+            "alternativeNames": [],
+            "age": -1,
+            "sex": "unknown",
+            "occurences": {
+                "total": 1,
+                "firstNameOnly": 0,
+                "lastNameOnly": 0,
+                "fullName": 1,
+                "nickname": 0
+            },
+            "inTitle": false,
+            "inIntro": false,
+            "_name": {
+                "firstname": "Mitz",
+                "lastname": null,
+                "nickname": null,
+                "alternative_names": [],
+                "academic_title": null,
+                "nobility_title_or_rank": null
+            },
+            "descriptiveTexts": [
+                {
+                    "text": "Nunez hat sogar eine Art Scheinbiografie geschrieben, in der es um Virginia Woolf, ihren Ehemann sowie einen kleinen Affen namens Mitz geht."
+                }
+            ],
+            "occupations": [],
+            "directQuotes": [],
+            "quotedInTitle": false,
+            "quotedInIntro": false
+        },
+        {
+            "name": "Hanya Yanagihara",
+            "alternativeNames": [],
+            "age": -1,
+            "sex": "female",
+            "occurences": {
+                "total": 1,
+                "firstNameOnly": 0,
+                "lastNameOnly": 0,
+                "fullName": 1,
+                "nickname": 0
+            },
+            "inTitle": false,
+            "inIntro": false,
+            "_name": {
+                "firstname": "Hanya",
+                "lastname": "Yanagihara",
+                "nickname": null,
+                "alternative_names": [],
+                "academic_title": null,
+                "nobility_title_or_rank": null
+            },
+            "descriptiveTexts": [
+                {
+                    "text": "Hier setzte einst in der Liebeskom\u00f6die der Achtzigerjahre Sally nach einer langen Autofahrt Harry ab; viele Jahre sp\u00e4ter wird dieser Platz eine zentrale Rolle in dem Bestsellerroman \u00bbZum Paradies\u00ab der Schriftstellerin Hanya Yanagihara spielen."
+                }
+            ],
+            "occupations": [
+                {
+                    "text": "Schriftstellerin"
+                }
+            ],
+            "directQuotes": [],
+            "quotedInTitle": false,
+            "quotedInIntro": false
+        },
+        {
+            "name": "Susan Sontag",
+            "alternativeNames": [],
+            "age": -1,
+            "sex": "female",
+            "occurences": {
+                "total": 2,
+                "firstNameOnly": 0,
+                "lastNameOnly": 1,
+                "fullName": 1,
+                "nickname": 0
+            },
+            "inTitle": false,
+            "inIntro": false,
+            "_name": {
+                "firstname": "Susan",
+                "lastname": "Sontag",
+                "nickname": null,
+                "alternative_names": [],
+                "academic_title": null,
+                "nobility_title_or_rank": null
+            },
+            "descriptiveTexts": [
+                {
+                    "text": "Durch ihre Arbeit findet sie Zugang zu der Intellektuellen der Stunde Susan Sontag, wird ihre Assistentin und wohnt gemeinsam mit ihr und ihrem Sohn in Sontags Wohnung auf der Upper West Side."
+                }
+            ],
+            "occupations": [],
+            "directQuotes": [],
+            "quotedInTitle": false,
+            "quotedInIntro": false
+        },
+        {
+            "name": "Jonathan Franzen",
+            "alternativeNames": [],
+            "age": -1,
+            "sex": "male",
+            "occurences": {
+                "total": 1,
+                "firstNameOnly": 0,
+                "lastNameOnly": 0,
+                "fullName": 1,
+                "nickname": 0
+            },
+            "inTitle": false,
+            "inIntro": false,
+            "_name": {
+                "firstname": "Jonathan",
+                "lastname": "Franzen",
+                "nickname": null,
+                "alternative_names": [],
+                "academic_title": null,
+                "nobility_title_or_rank": null
+            },
+            "descriptiveTexts": [
+                {
+                    "text": "Der junge Jonathan Franzen schrieb damals f\u00fcr ihren Deb\u00fctroman folgenden Klappentext: \u00bbEin Genuss von der ersten bis zur letzten Seite.\u00ab"
+                }
+            ],
+            "occupations": [],
+            "directQuotes": [
+                {
+                    "text": "writer\u2019s writer"
+                }
+            ],
+            "quotedInTitle": false,
+            "quotedInIntro": false
+        },
+        {
+            "name": "Virginia Woolf",
+            "alternativeNames": [],
+            "age": -1,
+            "sex": "female",
+            "occurences": {
+                "total": 16,
+                "firstNameOnly": 1,
+                "lastNameOnly": 8,
+                "fullName": 7,
+                "nickname": 0
+            },
+            "inTitle": true,
+            "inIntro": false,
+            "_name": {
+                "firstname": "Virginia",
+                "lastname": "Woolf",
+                "nickname": null,
+                "alternative_names": [],
+                "academic_title": null,
+                "nobility_title_or_rank": null
+            },
+            "descriptiveTexts": [
+                {
+                    "text": "Die Tiere, das Schreiben und Virginia Woolf"
+                },
+                {
+                    "text": "Der Virginia-Woolf-Faktor"
+                },
+                {
+                    "text": "Um Nunez\u2019 Schreiben zu verstehen, muss man neben den Tieren und dem Nachdenken \u00fcber Literatur und Textproduktion einen dritten Faktor ber\u00fccksichtigen: die Schriftstellerin Virginia Woolf."
+                },
+                {
+                    "text": "Fakten, so interessant sie auch sein m\u00f6gen, seien \u00bbeine minderwertige Form der Fiktion, und allm\u00e4hlich werden wir ihrer Schw\u00e4che und Unbestimmtheit, ihrer Kompromisse und Ausfl\u00fcchte, der schlampigen S\u00e4tze, die sie f\u00fcr sich selbst bilden, \u00fcberdr\u00fcssig\u00ab, schrieb Woolf in ihrem Essay \u00bbWie sollte man ein Buch lesen?\u00ab von 1926."
+                },
+                {
+                    "text": "Dieser erste Satz steht genauso in Woolfs \u00bbDie Jahre\u00ab, aber Nunez spannt daraus die erste Reflexion ihrer Erz\u00e4hlerin \u00fcber die vermeintlich erste Regel des Schreibens: keinesfalls mit dem Wetter beginnen (an dieser Stelle w\u00fcrde sich ein Blick an den Beginn dieses Textes lohnen)."
+                },
+                {
+                    "text": "\u00bbIch glaube, ich habe Virginia Woolf erst auf dem College gelesen, und ich kann mich nicht einmal mehr erinnern, wie das erste Buch hie\u00df. Aber ich war v\u00f6llig begeistert, und meine Freunde und Kommilitonen auch. Sie war das Idol\u00ab, sagt Nunez."
+                },
+                {
+                    "text": "\u00bbSie hat uns einfach in ihren Bann gezogen. Es war wie eine Sucht. Ich habe alles gelesen.\u00ab"
+                },
+                {
+                    "text": "Sie habe versucht, wie Woolf zu schreiben, was ihr aber nicht wirklich lag, sagt sie, um dann gleich danach in eine Abhandlung \u00fcber das von Woolf geliebte Semikolon zu verfallen \u2013 und warum es ein schwieriges Satzzeichen in der Literatur sei."
+                },
+                {
+                    "text": "Auch als sie aufh\u00f6rte, Woolfs Stil zu kopieren, lie\u00df die Schriftstellerin sie nicht los."
+                },
+                {
+                    "text": "Nunez hat sogar eine Art Scheinbiografie geschrieben, in der es um Virginia Woolf, ihren Ehemann sowie einen kleinen Affen namens Mitz geht."
+                },
+                {
+                    "text": "\u00c4hnliches hatte schon Virginia Woolf selbst getan, als sie \u00fcber den Cockerspaniel der englischen Dichterin Elizabeth Barrett Browning schrieb."
+                },
+                {
+                    "text": "Nun also beginnt sie ihren Roman mit einem Satz aus dem Werk Woolfs."
+                },
+                {
+                    "text": "\u00bbSie kann immer noch als ein gro\u00dfes Vorbild dienen. Erstens, weil ihre Texte so eindringlich sind. Zweitens, weil sie eine sehr ernsthafte Feministin war mit einem unglaublichen Gerechtigkeitssinn\u00ab, sagt sie."
+                },
+                {
+                    "text": "Virginia Woolfs vorletzter Roman, ihr vielleicht konventionellster, folgt einer Familie aus der Mittelschicht von eben jenem \u00bblaunischen Fr\u00fchling\u00ab im Jahr 1880 bis zu einer Party im Sommer 1930."
+                },
+                {
+                    "text": "Woolf selbst strebte eigentlich eine neue Form an, den Essayroman mit \u00bbMillionen Ideen, aber keine Predigten\u00ab, schrieb sie, als sie den Roman plante."
+                },
+                {
+                    "text": "Sie habe seit Ewigkeiten keinen Text, fiktional oder essayistisch, von Virginia Woolf mehr gelesen, sagt sie."
+                }
+            ],
+            "occupations": [
+                {
+                    "text": "Schriftstellerin"
+                }
+            ],
+            "directQuotes": [
+                {
+                    "text": "Es war ein launischer Fr\u00fchling."
+                },
+                {
+                    "text": "Die Jahre"
+                },
+                {
+                    "text": "launischen Fr\u00fchling"
+                }
+            ],
+            "quotedInTitle": true,
+            "quotedInIntro": false
+        },
+        {
+            "name": "Harry",
+            "alternativeNames": [],
+            "age": -1,
+            "sex": "male",
+            "occurences": {
+                "total": 1,
+                "firstNameOnly": 0,
+                "lastNameOnly": 0,
+                "fullName": 1,
+                "nickname": 0
+            },
+            "inTitle": false,
+            "inIntro": false,
+            "_name": {
+                "firstname": "Harry",
+                "lastname": null,
+                "nickname": null,
+                "alternative_names": [],
+                "academic_title": null,
+                "nobility_title_or_rank": null
+            },
+            "descriptiveTexts": [
+                {
+                    "text": "Hier setzte einst in der Liebeskom\u00f6die der Achtzigerjahre Sally nach einer langen Autofahrt Harry ab; viele Jahre sp\u00e4ter wird dieser Platz eine zentrale Rolle in dem Bestsellerroman \u00bbZum Paradies\u00ab der Schriftstellerin Hanya Yanagihara spielen."
+                }
+            ],
+            "occupations": [],
+            "directQuotes": [],
+            "quotedInTitle": false,
+            "quotedInIntro": false
+        },
+        {
+            "name": "Sally",
+            "alternativeNames": [],
+            "age": -1,
+            "sex": "female",
+            "occurences": {
+                "total": 1,
+                "firstNameOnly": 0,
+                "lastNameOnly": 0,
+                "fullName": 1,
+                "nickname": 0
+            },
+            "inTitle": false,
+            "inIntro": false,
+            "_name": {
+                "firstname": "Sally",
+                "lastname": null,
+                "nickname": null,
+                "alternative_names": [],
+                "academic_title": null,
+                "nobility_title_or_rank": null
+            },
+            "descriptiveTexts": [
+                {
+                    "text": "Hier setzte einst in der Liebeskom\u00f6die der Achtzigerjahre Sally nach einer langen Autofahrt Harry ab; viele Jahre sp\u00e4ter wird dieser Platz eine zentrale Rolle in dem Bestsellerroman \u00bbZum Paradies\u00ab der Schriftstellerin Hanya Yanagihara spielen."
+                }
+            ],
+            "occupations": [],
+            "directQuotes": [],
+            "quotedInTitle": false,
+            "quotedInIntro": false
+        },
+        {
+            "name": "Elizabeth Barrett Browning",
+            "alternativeNames": [],
+            "age": -1,
+            "sex": "female",
+            "occurences": {
+                "total": 2,
+                "firstNameOnly": 1,
+                "lastNameOnly": 1,
+                "fullName": 0,
+                "nickname": 0
+            },
+            "inTitle": false,
+            "inIntro": false,
+            "_name": {
+                "firstname": "Elizabeth",
+                "lastname": "Browning",
+                "nickname": null,
+                "alternative_names": [],
+                "academic_title": null,
+                "nobility_title_or_rank": null
+            },
+            "descriptiveTexts": [
+                {
+                    "text": "\u00c4hnliches hatte schon Virginia Woolf selbst getan, als sie \u00fcber den Cockerspaniel der englischen Dichterin Elizabeth Barrett Browning schrieb."
+                }
+            ],
+            "occupations": [],
+            "directQuotes": [],
+            "quotedInTitle": false,
+            "quotedInIntro": false
+        }
+    ]
+}

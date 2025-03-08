@@ -1,0 +1,660 @@
+{
+    "persons": [
+        {
+            "name": "Matt Groening",
+            "alternativeNames": [],
+            "age": -1,
+            "sex": "male",
+            "occurences": {
+                "total": 1,
+                "firstNameOnly": 0,
+                "lastNameOnly": 0,
+                "fullName": 1,
+                "nickname": 0
+            },
+            "inTitle": false,
+            "inIntro": false,
+            "_name": {
+                "firstname": "Matt",
+                "lastname": "Groening",
+                "nickname": null,
+                "alternative_names": [],
+                "academic_title": null,
+                "nobility_title_or_rank": null
+            },
+            "descriptiveTexts": [
+                {
+                    "text": "Am Ziel, in Los Angeles, trifft er seine beiden Helden: Matt Groening, den Erfinder der Simpsons, seiner Lieblingsserie, und James Cameron, den Regisseur seines Lieblingsfilms \u00bbAvatar\u00ab."
+                }
+            ],
+            "occupations": [
+                {
+                    "text": "Erfinder der Simpsons"
+                }
+            ],
+            "directQuotes": [],
+            "quotedInTitle": false,
+            "quotedInIntro": false
+        },
+        {
+            "name": "Sam Berns",
+            "alternativeNames": [],
+            "age": 17,
+            "sex": "male",
+            "occurences": {
+                "total": 7,
+                "firstNameOnly": 5,
+                "lastNameOnly": 1,
+                "fullName": 1,
+                "nickname": 0
+            },
+            "inTitle": false,
+            "inIntro": false,
+            "_name": {
+                "firstname": "Sam",
+                "lastname": "Berns",
+                "nickname": null,
+                "alternative_names": [],
+                "academic_title": null,
+                "nobility_title_or_rank": null
+            },
+            "descriptiveTexts": [
+                {
+                    "text": "Sie stammt von seinem Freund Sam Berns."
+                }
+            ],
+            "occupations": [],
+            "directQuotes": [
+                {
+                    "text": "Wer, wenn nicht unser lieber Sammy, wollte das unbedingt ausprobieren?"
+                }
+            ],
+            "quotedInTitle": false,
+            "quotedInIntro": false
+        },
+        {
+            "name": "Laura Lucchin",
+            "alternativeNames": [],
+            "age": -1,
+            "sex": "female",
+            "occurences": {
+                "total": 1,
+                "firstNameOnly": 0,
+                "lastNameOnly": 0,
+                "fullName": 1,
+                "nickname": 0
+            },
+            "inTitle": false,
+            "inIntro": false,
+            "_name": {
+                "firstname": "Laura",
+                "lastname": "Lucchin",
+                "nickname": null,
+                "alternative_names": [],
+                "academic_title": null,
+                "nobility_title_or_rank": null
+            },
+            "descriptiveTexts": [
+                {
+                    "text": "Tezze sul Brenta in Venetien, ein zartrosafarbenes Haus vor den Feldern, Vater und Sohn sitzen am Wohnzimmertisch, Laura Lucchin, die Mutter, l\u00e4uft in der Wohnung umher."
+                },
+                {
+                    "text": "Und eines Tages, als er aus der Schule kam, erz\u00e4hlt die Mutter, habe sie zittrig auf dem Sofa gesessen."
+                },
+                {
+                    "text": "Sie k\u00fcmmerten sich um ihn, h\u00e4tten die Hoffnung auf Hilfe nie aufgegeben, h\u00e4tten ihn nie eingesperrt."
+                }
+            ],
+            "occupations": [],
+            "directQuotes": [
+                {
+                    "text": "Wir haben von ihm gelernt, wie man das Leben aussch\u00f6pft"
+                }
+            ],
+            "quotedInTitle": false,
+            "quotedInIntro": false
+        },
+        {
+            "name": "James Cameron",
+            "alternativeNames": [],
+            "age": -1,
+            "sex": "male",
+            "occurences": {
+                "total": 1,
+                "firstNameOnly": 0,
+                "lastNameOnly": 0,
+                "fullName": 1,
+                "nickname": 0
+            },
+            "inTitle": false,
+            "inIntro": false,
+            "_name": {
+                "firstname": "James",
+                "lastname": "Cameron",
+                "nickname": null,
+                "alternative_names": [],
+                "academic_title": null,
+                "nobility_title_or_rank": null
+            },
+            "descriptiveTexts": [
+                {
+                    "text": "Am Ziel, in Los Angeles, trifft er seine beiden Helden: Matt Groening, den Erfinder der Simpsons, seiner Lieblingsserie, und James Cameron, den Regisseur seines Lieblingsfilms \u00bbAvatar\u00ab."
+                }
+            ],
+            "occupations": [
+                {
+                    "text": "Regisseur"
+                }
+            ],
+            "directQuotes": [],
+            "quotedInTitle": false,
+            "quotedInIntro": false
+        },
+        {
+            "name": "Hastings Gilford",
+            "alternativeNames": [],
+            "age": -1,
+            "sex": "male",
+            "occurences": {
+                "total": 2,
+                "firstNameOnly": 0,
+                "lastNameOnly": 1,
+                "fullName": 1,
+                "nickname": 0
+            },
+            "inTitle": false,
+            "inIntro": false,
+            "_name": {
+                "firstname": "Hastings",
+                "lastname": "Gilford",
+                "nickname": null,
+                "alternative_names": [],
+                "academic_title": null,
+                "nobility_title_or_rank": null
+            },
+            "descriptiveTexts": [
+                {
+                    "text": "Jahrhunderts von den britischen \u00c4rzten Jonathan Hutchinson und Hastings Gilford beschrieben wurde und deshalb im Fachjargon auch \u00bbHutchinson-Gilford-Syndrom\u00ab genannt wird."
+                }
+            ],
+            "occupations": [
+                {
+                    "text": "Arzt"
+                }
+            ],
+            "directQuotes": [],
+            "quotedInTitle": false,
+            "quotedInIntro": false
+        },
+        {
+            "name": "Scott Berns",
+            "alternativeNames": [],
+            "age": -1,
+            "sex": "male",
+            "occurences": {
+                "total": 1,
+                "firstNameOnly": 0,
+                "lastNameOnly": 0,
+                "fullName": 1,
+                "nickname": 0
+            },
+            "inTitle": false,
+            "inIntro": false,
+            "_name": {
+                "firstname": "Scott",
+                "lastname": "Berns",
+                "nickname": null,
+                "alternative_names": [],
+                "academic_title": null,
+                "nobility_title_or_rank": null
+            },
+            "descriptiveTexts": [
+                {
+                    "text": "Dessen Eltern, Leslie Gordon und Scott Berns, zwei renommierte \u00c4rzte in den USA mit dem n\u00f6tigen Wissen und Kontakten gr\u00fcndeten 1999 einen Verein, die Progeria Research Foundation."
+                },
+                {
+                    "text": "Um herauszufinden, welche Krankheit ihr Sohn Sam hatte und was sie dagegen tun konnten, mussten sie andere betroffene Kinder finden."
+                },
+                {
+                    "text": "Das erste Mal flogen sie im Jahr 2000 in die Vereinigten Staaten."
+                },
+                {
+                    "text": "Das brachte sie auf das Medikament Lonafarnib, zuvor bei Kindern gegen Krebs eingesetzt."
+                },
+                {
+                    "text": "Doch das reichte Sammy und seinen Eltern nicht, sie wollten die Krankheit bekannter machen."
+                }
+            ],
+            "occupations": [
+                {
+                    "text": "Arzt"
+                }
+            ],
+            "directQuotes": [],
+            "quotedInTitle": false,
+            "quotedInIntro": false
+        },
+        {
+            "name": "Leslie Gordon",
+            "alternativeNames": [],
+            "age": -1,
+            "sex": "female",
+            "occurences": {
+                "total": 1,
+                "firstNameOnly": 0,
+                "lastNameOnly": 0,
+                "fullName": 1,
+                "nickname": 0
+            },
+            "inTitle": false,
+            "inIntro": false,
+            "_name": {
+                "firstname": "Leslie",
+                "lastname": "Gordon",
+                "nickname": null,
+                "alternative_names": [],
+                "academic_title": null,
+                "nobility_title_or_rank": null
+            },
+            "descriptiveTexts": [
+                {
+                    "text": "Dessen Eltern, Leslie Gordon und Scott Berns, zwei renommierte \u00c4rzte in den USA mit dem n\u00f6tigen Wissen und Kontakten gr\u00fcndeten 1999 einen Verein, die Progeria Research Foundation."
+                },
+                {
+                    "text": "Um herauszufinden, welche Krankheit ihr Sohn Sam hatte und was sie dagegen tun konnten, mussten sie andere betroffene Kinder finden."
+                },
+                {
+                    "text": "Das erste Mal flogen sie im Jahr 2000 in die Vereinigten Staaten."
+                },
+                {
+                    "text": "Das brachte sie auf das Medikament Lonafarnib, zuvor bei Kindern gegen Krebs eingesetzt."
+                },
+                {
+                    "text": "Doch das reichte Sammy und seinen Eltern nicht, sie wollten die Krankheit bekannter machen."
+                }
+            ],
+            "occupations": [],
+            "directQuotes": [],
+            "quotedInTitle": false,
+            "quotedInIntro": false
+        },
+        {
+            "name": "Harry Potter",
+            "alternativeNames": [],
+            "age": -1,
+            "sex": "male",
+            "occurences": {
+                "total": 1,
+                "firstNameOnly": 0,
+                "lastNameOnly": 0,
+                "fullName": 1,
+                "nickname": 0
+            },
+            "inTitle": false,
+            "inIntro": false,
+            "_name": {
+                "firstname": "Harry",
+                "lastname": null,
+                "nickname": null,
+                "alternative_names": [],
+                "academic_title": null,
+                "nobility_title_or_rank": null
+            },
+            "descriptiveTexts": [
+                {
+                    "text": "An Halloween verkleidete er sich mal als Dobby aus Harry Potter."
+                }
+            ],
+            "occupations": [],
+            "directQuotes": [],
+            "quotedInTitle": false,
+            "quotedInIntro": false
+        },
+        {
+            "name": "Sammy Basso",
+            "alternativeNames": [
+                "Sam",
+                "Sams"
+            ],
+            "age": 28,
+            "sex": "male",
+            "occurences": {
+                "total": 35,
+                "firstNameOnly": 10,
+                "lastNameOnly": 19,
+                "fullName": 6,
+                "nickname": 0
+            },
+            "inTitle": false,
+            "inIntro": true,
+            "_name": {
+                "firstname": "Sammy",
+                "lastname": "Basso",
+                "nickname": null,
+                "alternative_names": [
+                    "Sam",
+                    "Sams"
+                ],
+                "academic_title": null,
+                "nobility_title_or_rank": null
+            },
+            "descriptiveTexts": [
+                {
+                    "text": "Der italienische Biologe Sammy Basso, 28, ist an Progerie erkrankt."
+                },
+                {
+                    "text": "Eine B\u00fccherwand voller Enzyklop\u00e4dien, eine Kommode mit Bildern von Sammy."
+                },
+                {
+                    "text": "Mit etwa drei Monaten nahm er wenig Gewicht zu, bald wuchs er nicht mehr."
+                },
+                {
+                    "text": "Was war mit Sammy?"
+                },
+                {
+                    "text": "Da war Sammy zwei Jahre alt."
+                },
+                {
+                    "text": "Man geht von wenigen Hundert F\u00e4llen weltweit aus, mit seinen 28 Jahren ist Basso einer der \u00e4ltesten."
+                },
+                {
+                    "text": "Basso sagt, er habe fr\u00fch Antworten gesucht, gelesen \u00fcber die Antike, \u00fcber die Religionen, \u00fcber die Evolution."
+                },
+                {
+                    "text": "Er hat sein Biologiestudium abgeschlossen und wenn er Partys organisiert, kommen alle \u2013 weil es garantiert Spa\u00df mit ihm macht."
+                },
+                {
+                    "text": "Basso spricht im Radio, an Schulen und Unis, er hatte vor einigen Jahren einen Gastauftritt beim Sanremo-Festival, einem der bedeutendsten Musikwettbewerbe Italiens, arbeitete in den Coronajahren an Aufkl\u00e4rungskampagnen der Region mit."
+                },
+                {
+                    "text": "Vom Staatspr\u00e4sidenten bekam er den Verdienstorden der Italienischen Republik \u00fcberreicht."
+                },
+                {
+                    "text": "Und eines Tages, als er aus der Schule kam, erz\u00e4hlt die Mutter, habe sie zittrig auf dem Sofa gesessen."
+                },
+                {
+                    "text": "\u00bbDer Papst hat angerufen, er versucht es sp\u00e4ter noch mal.\u00ab"
+                },
+                {
+                    "text": "Basso hatte ihm zuvor per Brief zu seiner Wahl gratuliert."
+                },
+                {
+                    "text": "Sammy Basso hat sich Tr\u00e4ume erf\u00fcllt und Menschen um sich geschart, er hat dazu beigetragen, dass seine Krankheit besser verstanden wird."
+                },
+                {
+                    "text": "Nicht f\u00fcr sich, denn daf\u00fcr, das sagt er selbst, ist es zu sp\u00e4t, sondern f\u00fcr andere."
+                },
+                {
+                    "text": "Ein bisschen sieht er aus wie ein Kind in der Haut eines alten Mannes, er hat keine Haare auf dem Kopf, seine Stimme bricht manchmal, wenn er l\u00e4nger redet, beim Gehen zieht er einen Fu\u00df hinterher."
+                },
+                {
+                    "text": "Bimmelt sein Handywecker, muss er Tabletten nehmen, die das Altern verlangsamen."
+                },
+                {
+                    "text": "Er schlafe morgens gern ein bisschen l\u00e4nger, so bis neun Uhr, sagt er."
+                },
+                {
+                    "text": "An diesem Nachmittag f\u00e4hrt er mit seinen Eltern zur Grippeschutzimpfung."
+                },
+                {
+                    "text": "Doch in der Praxis gesteht Sammy, dass der Hals kratze."
+                },
+                {
+                    "text": "Er sei m\u00fcde, sagt Basso, m\u00fcder als sonst."
+                },
+                {
+                    "text": "Der Arzt versucht es mit einem Witz: Kein Wunder, er sei ja auch der \u00c4lteste auf der Welt."
+                },
+                {
+                    "text": "Wenn er sich an einem schlechten Tag nicht so schnell unterkriegen lasse, sagt Basso zur\u00fcck in der Wohnung, dann tue er das auch f\u00fcr seine Eltern."
+                },
+                {
+                    "text": "Er ging zur Schule, traf sich mit Freunden, studierte, erst Naturwissenschaften, dann Molekularbiologie in Padua."
+                },
+                {
+                    "text": "Ihm sei schon klar, dass er vieles nicht machen k\u00f6nne."
+                },
+                {
+                    "text": "Mach, was du machen kannst!"
+                },
+                {
+                    "text": "Sie stammt von seinem Freund Sam Berns."
+                },
+                {
+                    "text": "Irgendwann waren Sammys Eltern bei ihrer Suche nach Hilfe im noch langsam ladenden Internet auf das Bild von Sam gesto\u00dfen."
+                },
+                {
+                    "text": "Er war nur knapp ein Jahr j\u00fcnger als ihr Sohn und sah aus wie er."
+                },
+                {
+                    "text": "Als Sammy Basso zehn Jahre alt war, gab es also so etwas wie Hoffnung."
+                },
+                {
+                    "text": "Doch das reichte Sammy und seinen Eltern nicht, sie wollten die Krankheit bekannter machen."
+                },
+                {
+                    "text": "Also gr\u00fcndete die Familie Basso 2005 die Aiprosab (Associazione Italiana Progeria Sammy Basso)."
+                },
+                {
+                    "text": "Mit zw\u00f6lf Jahren bekam Basso die Nebenwirkungen der Medikamente zu sp\u00fcren: Erbrechen, Durchfall."
+                },
+                {
+                    "text": "Er schlief schlecht."
+                },
+                {
+                    "text": "Er besch\u00e4ftigte sich mit den Weltreligionen und fand zum christlichen Glauben."
+                },
+                {
+                    "text": "Auf der Tartanbahn von Bassano del Grappa treffen sich trotz Regens wie jeden Donnerstag die \u00bbSammy Runners\u00ab, 20 unterschiedlich alte und fitte Menschen in Sportschuhen und mit M\u00fctzen."
+                },
+                {
+                    "text": "Einer davon ist Riccardo Zanolli, Bassos engster Freund noch aus Schulzeiten."
+                },
+                {
+                    "text": "Nat\u00fcrlich machen seine Freunde sich auch \u00fcber ihn lustig: Er habe keinen Orientierungssinn und k\u00f6nne sich im Restaurant nie entscheiden, was er essen will, sagt Zanolli."
+                },
+                {
+                    "text": "Einmal \u00fcberlegten sie im Freundeskreis, was sie mit Sammy nicht machen k\u00f6nnen."
+                },
+                {
+                    "text": "Sie fragen sich, wie er das alles geschafft hat."
+                },
+                {
+                    "text": "Basso sagt, er sei ein paar Mal verliebt gewesen."
+                },
+                {
+                    "text": "Leider, so Basso, w\u00fcrden kranke Menschen wie er oft nur als sehr gute Freunde gesehen."
+                },
+                {
+                    "text": "Doch auch diesem Umstand gewinnt er etwas ab: \u00bbVerliebtsein ist sch\u00f6n, selbst wenn es wehtun kann.\u00ab"
+                },
+                {
+                    "text": "Obwohl er sich nicht so gut f\u00fchlt, setzt auch Basso sich im Regenmantel in sein Fahrgestell."
+                },
+                {
+                    "text": "Dann reicht es Basso f\u00fcr heute, es wird kalt."
+                },
+                {
+                    "text": "Er muss auch vorsichtig sein."
+                },
+                {
+                    "text": "In Bassos Jugendjahren vernetzten sich weltweit viele Wissenschaftler und Eltern, Betroffene treffen sich bis heute."
+                },
+                {
+                    "text": "\u00bbSie wissen sofort, was ich meine\u00ab, sagt Basso."
+                },
+                {
+                    "text": "Sams Eltern z\u00e4hlen f\u00fcr Sammy Basso praktisch zur Familie."
+                },
+                {
+                    "text": "Sammys Lieblingslektion aus Sams Vortrag lautet: \u00bbNever miss a party!\u00ab."
+                },
+                {
+                    "text": "Oder ganz allgemein: Ich darf keine Zeit verlieren."
+                },
+                {
+                    "text": "In Chicago singt Basso mit einem Gospelchor, in St. Louis wirft er den ersten Baseball des Spiels der Cardinals gegen die Milwaukee Brewers."
+                },
+                {
+                    "text": "Am Ziel, in Los Angeles, trifft er seine beiden Helden: Matt Groening, den Erfinder der Simpsons, seiner Lieblingsserie, und James Cameron, den Regisseur seines Lieblingsfilms \u00bbAvatar\u00ab."
+                },
+                {
+                    "text": "\u00bbWer, wenn nicht unser lieber Sammy, wollte das unbedingt ausprobieren?\u00ab"
+                },
+                {
+                    "text": "Basso habe seine Eltern angebettelt, dort hinzufahren: Er wollte im Ufo-Museum unbedingt Leute erschrecken, schlie\u00dflich sehe er ein bisschen aus wie ein Alien."
+                },
+                {
+                    "text": "\u00bbEine Krankheit zu haben, ist kein Grund, nicht lustig zu sein\u00ab, sagt Basso."
+                },
+                {
+                    "text": "An Halloween verkleidete er sich mal als Dobby aus Harry Potter."
+                },
+                {
+                    "text": "In Roswell kaufte er sich eine quietschgr\u00fcne Alien-Sonnenbrille, die noch heute sein Instagram-Profilbild ziert."
+                },
+                {
+                    "text": "Im Jahr 2019 unterzog sich Basso einer Operation: Die Aortenklappe wurde ersetzt."
+                },
+                {
+                    "text": "Er hatte sich vorbereitet auf das Danach."
+                },
+                {
+                    "text": "Er hatte vertraut."
+                },
+                {
+                    "text": "Als er erwachte, sei er sich nicht ganz sicher gewesen, wo er sich befand."
+                },
+                {
+                    "text": "\u00bbBist du ein Engel?\u00ab"
+                },
+                {
+                    "text": "\u00bbIch lebe noch!\u00ab"
+                },
+                {
+                    "text": "Menschen wie Sammy Basso geben ihnen Inspiration und Hoffnung."
+                }
+            ],
+            "occupations": [
+                {
+                    "text": "Biologe"
+                },
+                {
+                    "text": "Er ist ein K\u00e4mpfer"
+                },
+                {
+                    "text": "Freund"
+                }
+            ],
+            "directQuotes": [
+                {
+                    "text": "Sammy Runners"
+                },
+                {
+                    "text": "Ich lebe noch!"
+                }
+            ],
+            "quotedInTitle": false,
+            "quotedInIntro": true
+        },
+        {
+            "name": "Jonathan Hutchinson",
+            "alternativeNames": [],
+            "age": -1,
+            "sex": "male",
+            "occurences": {
+                "total": 2,
+                "firstNameOnly": 0,
+                "lastNameOnly": 1,
+                "fullName": 1,
+                "nickname": 0
+            },
+            "inTitle": false,
+            "inIntro": false,
+            "_name": {
+                "firstname": "Jonathan",
+                "lastname": "Hutchinson",
+                "nickname": null,
+                "alternative_names": [],
+                "academic_title": null,
+                "nobility_title_or_rank": null
+            },
+            "descriptiveTexts": [
+                {
+                    "text": "Jahrhunderts von den britischen \u00c4rzten Jonathan Hutchinson und Hastings Gilford beschrieben wurde und deshalb im Fachjargon auch \u00bbHutchinson-Gilford-Syndrom\u00ab genannt wird."
+                }
+            ],
+            "occupations": [
+                {
+                    "text": "Arzt"
+                }
+            ],
+            "directQuotes": [],
+            "quotedInTitle": false,
+            "quotedInIntro": false
+        },
+        {
+            "name": "Riccardo Zanolli",
+            "alternativeNames": [],
+            "age": -1,
+            "sex": "male",
+            "occurences": {
+                "total": 7,
+                "firstNameOnly": 2,
+                "lastNameOnly": 3,
+                "fullName": 2,
+                "nickname": 0
+            },
+            "inTitle": false,
+            "inIntro": false,
+            "_name": {
+                "firstname": "Riccardo",
+                "lastname": "Zanolli",
+                "nickname": null,
+                "alternative_names": [],
+                "academic_title": null,
+                "nobility_title_or_rank": null
+            },
+            "descriptiveTexts": [
+                {
+                    "text": "Einer davon ist Riccardo Zanolli, Bassos engster Freund noch aus Schulzeiten."
+                },
+                {
+                    "text": "\u00bbEr ist ein K\u00e4mpfer\u00ab, sagt Zanolli: \u00bbEr wollte nie von Lehrern bevorteilt werden, kam h\u00f6chstens mal zu sp\u00e4t.\u00ab"
+                },
+                {
+                    "text": "Nat\u00fcrlich machen seine Freunde sich auch \u00fcber ihn lustig: Er habe keinen Orientierungssinn und k\u00f6nne sich im Restaurant nie entscheiden, was er essen will, sagt Zanolli."
+                },
+                {
+                    "text": "Einmal \u00fcberlegten sie im Freundeskreis, was sie mit Sammy nicht machen k\u00f6nnen."
+                },
+                {
+                    "text": "\u00bbWir haben von ihm gelernt, wie man das Leben aussch\u00f6pft\u00ab, sagt Zanolli, \u00bber kann das besser, aber wir machen es nach.\u00ab"
+                },
+                {
+                    "text": "Sie fragen sich, wie er das alles geschafft hat."
+                },
+                {
+                    "text": "Riccardo Zanolli schiebt den Wagen, zwei andere Freunde ziehen ihn."
+                },
+                {
+                    "text": "Auf diese Weise liefen sie Marathons in Venedig, Mailand und in Rom und sammelten Spenden f\u00fcr den Verein."
+                },
+                {
+                    "text": "Ein Fernsehteam von \u00bbNational Geographic\u00ab begleitet die Familie, sein Schulfreund Riccardo darf mit."
+                },
+                {
+                    "text": "Fragt man Riccardo, welche Szene der Reise etwas \u00fcber seinen Freund aussagt, erz\u00e4hlt er vom Grand Canyon, dort gebe es Verr\u00fcckte, die ganz dicht an den Abgrund herantreten."
+                }
+            ],
+            "occupations": [
+                {
+                    "text": "K\u00e4mpfer"
+                }
+            ],
+            "directQuotes": [],
+            "quotedInTitle": false,
+            "quotedInIntro": false
+        }
+    ]
+}

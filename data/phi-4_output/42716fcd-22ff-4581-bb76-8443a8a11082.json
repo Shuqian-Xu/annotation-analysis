@@ -1,0 +1,226 @@
+{
+    "persons": [
+        {
+            "name": "Gabriel Attal",
+            "alternativeNames": [],
+            "age": 34,
+            "sex": "male",
+            "occurences": {
+                "total": 15,
+                "firstNameOnly": 0,
+                "lastNameOnly": 12,
+                "fullName": 3,
+                "nickname": 0
+            },
+            "inTitle": false,
+            "inIntro": true,
+            "_name": {
+                "firstname": "Gabriel",
+                "lastname": "Attal",
+                "nickname": null,
+                "alternative_names": [],
+                "academic_title": null,
+                "nobility_title_or_rank": null
+            },
+            "descriptiveTexts": [
+                {
+                    "text": "F\u00fcr den neuen Premierminister Gabriel Attal wird die Agrarkrise zur Feuertaufe."
+                },
+                {
+                    "text": "Und wie der von Pr\u00e4sident Emmanuel Macron gerade ernannte Premierminister Gabriel Attal, 34 Jahre, diesen H\u00e4rtetest \u00fcbersteht."
+                },
+                {
+                    "text": "Die Zugest\u00e4ndnisse, die Attal vergangene Woche gemacht hatte, entsch\u00e4rften die Lage nicht."
+                },
+                {
+                    "text": "Am Montag hat Macron eilig ein Krisenkabinett zusammengerufen, an diesem Dienstag nun soll eine mit Spannung erwartete Regierungserkl\u00e4rung Attals den Zorn der Landwirte bes\u00e4nftigen."
+                },
+                {
+                    "text": "Die Auflehnung des ausgezehrten Landes gegen die verhasste, vermeintlich verw\u00f6hnte Hauptstadtelite \u2013 die Attal geradezu klischeehaft verk\u00f6rpert."
+                },
+                {
+                    "text": "Attals Innenminister G\u00e9rald Darmanin schickt 15.000 Sicherheitskr\u00e4fte sowie Panzerfahrzeuge und Hubschrauber, um zu verhindern, dass Traktoren nach Paris und andere Gro\u00dfst\u00e4dte einr\u00fccken."
+                },
+                {
+                    "text": "Anders ausgedr\u00fcckt: Wenn die Botschaft nicht bei Attal ankommt, kommt sie eben zu ihm."
+                },
+                {
+                    "text": "Attal wurde seit seiner Berufung zum Premier Mitte Januar viel daf\u00fcr kritisiert, dass er zu pariserisch sei."
+                },
+                {
+                    "text": "Attal selbst bestreitet nicht, dass Landwirtschaft f\u00fcr ihn eine neue Welt ist."
+                },
+                {
+                    "text": "Doch er lernt schnell."
+                },
+                {
+                    "text": "Und er tut alles, damit die Agrarkrise, die jetzt seinen ersten wichtigen Auftritt im Parlament \u00fcberschattet, nicht auch noch den kompletten politischen Neustart verdirbt, den Attal und Macron gerade probieren."
+                },
+                {
+                    "text": "In der Hoffnung, den Zorn zu beschwichtigen, besuchte Attal am vergangenen Wochenende gleich zwei Bauernh\u00f6fe, einen im S\u00fcden, einen im Westen des Landes."
+                },
+                {
+                    "text": "Der junge Premier hat, anders als Bauernfunktion\u00e4r Rousseau suggeriert, die Botschaft l\u00e4ngst verstanden: Attal h\u00f6rte sich die vielen Klagen an \u00fcber angeblich zu strenge \u00d6koauflagen und \u00fcber vermeintlich unfairen Wettbewerb sogar aus EU-L\u00e4ndern."
+                },
+                {
+                    "text": "Wortgewandt und \u2013 wie immer \u2013 in edlem Zwirn gekleidet lobte er Frankreichs Bauern geradezu \u00fcber den gr\u00fcnen Klee."
+                },
+                {
+                    "text": "\u00bbIch habe Sie verstanden\u00ab, sagte er."
+                },
+                {
+                    "text": "Bauernboss Rousseau hat Attal einen Katalog mit mehr als 100 Einzelforderungen \u00fcbermittelt."
+                },
+                {
+                    "text": "Beim Gipfel der Staats- und Regierungschefs an diesem Donnerstag in Br\u00fcssel, so w\u00fcnschen es sich die Bauern, soll dann Attals Chef Macron am besten gleich den ungeliebten Green Deal der EU aushebeln."
+                },
+                {
+                    "text": "Im Herzen der Hauptstadt wird Premierminister Gabriel Attal am Dienstag seine Feuertaufe erleben."
+                }
+            ],
+            "occupations": [],
+            "directQuotes": [
+                {
+                    "text": "Ich habe Sie verstanden"
+                },
+                {
+                    "text": "Die Landwirtschaft steht \u00fcber allem anderen."
+                }
+            ],
+            "quotedInTitle": false,
+            "quotedInIntro": true
+        },
+        {
+            "name": "G\u00e9rald Darmanin",
+            "alternativeNames": [],
+            "age": -1,
+            "sex": "male",
+            "occurences": {
+                "total": 2,
+                "firstNameOnly": 0,
+                "lastNameOnly": 1,
+                "fullName": 1,
+                "nickname": 0
+            },
+            "inTitle": false,
+            "inIntro": false,
+            "_name": {
+                "firstname": "G\u00e9rald",
+                "lastname": "Darmanin",
+                "nickname": null,
+                "alternative_names": [],
+                "academic_title": null,
+                "nobility_title_or_rank": null
+            },
+            "descriptiveTexts": [
+                {
+                    "text": "Attals Innenminister G\u00e9rald Darmanin schickt 15.000 Sicherheitskr\u00e4fte sowie Panzerfahrzeuge und Hubschrauber, um zu verhindern, dass Traktoren nach Paris und andere Gro\u00dfst\u00e4dte einr\u00fccken."
+                },
+                {
+                    "text": "Darmanin nennt es ein \u00bbdefensives Aufgebot\u00ab und fordert \u00bbZur\u00fcckhaltung\u00ab von seinen Beamten, anders als bei den Rentenrandalen und den Banlieue-Krawallen."
+                }
+            ],
+            "occupations": [
+                {
+                    "text": "Innenminister"
+                }
+            ],
+            "directQuotes": [
+                {
+                    "text": "defensives Aufgebot"
+                },
+                {
+                    "text": "Zur\u00fcckhaltung"
+                }
+            ],
+            "quotedInTitle": false,
+            "quotedInIntro": false
+        },
+        {
+            "name": "Emmanuel Macron",
+            "alternativeNames": [],
+            "age": -1,
+            "sex": "male",
+            "occurences": {
+                "total": 5,
+                "firstNameOnly": 0,
+                "lastNameOnly": 4,
+                "fullName": 1,
+                "nickname": 0
+            },
+            "inTitle": false,
+            "inIntro": false,
+            "_name": {
+                "firstname": "Emmanuel",
+                "lastname": "Macron",
+                "nickname": null,
+                "alternative_names": [],
+                "academic_title": null,
+                "nobility_title_or_rank": null
+            },
+            "descriptiveTexts": [
+                {
+                    "text": "Und wie der von Pr\u00e4sident Emmanuel Macron gerade ernannte Premierminister Gabriel Attal, 34 Jahre, diesen H\u00e4rtetest \u00fcbersteht."
+                },
+                {
+                    "text": "Am Montag hat Macron eilig ein Krisenkabinett zusammengerufen, an diesem Dienstag nun soll eine mit Spannung erwartete Regierungserkl\u00e4rung Attals den Zorn der Landwirte bes\u00e4nftigen."
+                },
+                {
+                    "text": "Nach den Massendemonstrationen gegen Macrons Rentenreform im Fr\u00fchjahr 2023 und den Vorstadtkrawallen im vergangenen Sommer erlebt Frankreich mit den Wutbauern die dritte m\u00e4chtige Protestbewegung innerhalb eines Jahres."
+                },
+                {
+                    "text": "Und er tut alles, damit die Agrarkrise, die jetzt seinen ersten wichtigen Auftritt im Parlament \u00fcberschattet, nicht auch noch den kompletten politischen Neustart verdirbt, den Attal und Macron gerade probieren."
+                },
+                {
+                    "text": "Beim Gipfel der Staats- und Regierungschefs an diesem Donnerstag in Br\u00fcssel, so w\u00fcnschen es sich die Bauern, soll dann Attals Chef Macron am besten gleich den ungeliebten Green Deal der EU aushebeln."
+                }
+            ],
+            "occupations": [],
+            "directQuotes": [],
+            "quotedInTitle": false,
+            "quotedInIntro": false
+        },
+        {
+            "name": "Arnaud Rousseau",
+            "alternativeNames": [],
+            "age": -1,
+            "sex": "male",
+            "occurences": {
+                "total": 3,
+                "firstNameOnly": 0,
+                "lastNameOnly": 2,
+                "fullName": 1,
+                "nickname": 0
+            },
+            "inTitle": false,
+            "inIntro": false,
+            "_name": {
+                "firstname": "Arnaud",
+                "lastname": "Rousseau",
+                "nickname": null,
+                "alternative_names": [],
+                "academic_title": null,
+                "nobility_title_or_rank": null
+            },
+            "descriptiveTexts": [
+                {
+                    "text": "\u00bbAber wenn sich alles weit weg von Paris abspielt, kommt die Botschaft nicht an\u00ab, sagt FNSEA-Chef Arnaud Rousseau."
+                },
+                {
+                    "text": "Der junge Premier hat, anders als Bauernfunktion\u00e4r Rousseau suggeriert, die Botschaft l\u00e4ngst verstanden: Attal h\u00f6rte sich die vielen Klagen an \u00fcber angeblich zu strenge \u00d6koauflagen und \u00fcber vermeintlich unfairen Wettbewerb sogar aus EU-L\u00e4ndern."
+                },
+                {
+                    "text": "Bauernboss Rousseau hat Attal einen Katalog mit mehr als 100 Einzelforderungen \u00fcbermittelt."
+                }
+            ],
+            "occupations": [],
+            "directQuotes": [
+                {
+                    "text": "Aber wenn sich alles weit weg von Paris abspielt, kommt die Botschaft nicht an"
+                }
+            ],
+            "quotedInTitle": false,
+            "quotedInIntro": false
+        }
+    ]
+}

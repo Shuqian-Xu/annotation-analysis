@@ -1,0 +1,262 @@
+{
+    "persons": [
+        {
+            "name": "Adrian Zenz",
+            "alternativeNames": [],
+            "age": -1,
+            "sex": "male",
+            "occurences": {
+                "total": 4,
+                "firstNameOnly": 0,
+                "lastNameOnly": 3,
+                "fullName": 1,
+                "nickname": 0
+            },
+            "inTitle": false,
+            "inIntro": false,
+            "_name": {
+                "firstname": "Adrian",
+                "lastname": "Zenz",
+                "nickname": null,
+                "alternative_names": [],
+                "academic_title": null,
+                "nobility_title_or_rank": null
+            },
+            "descriptiveTexts": [
+                {
+                    "text": "\u00bbDas reicht nicht\u00ab, meint der deutsche Anthropologe Adrian Zenz, der seit Jahren zur Unterdr\u00fcckung der Uiguren forscht."
+                },
+                {
+                    "text": "Im Internet fand er 2017 Bauausschreibungen, die die Existenz der Umerziehungslager belegen."
+                },
+                {
+                    "text": "Und Zenz war es, der den SPIEGEL und das ZDF auf die Mitteilungen auf der Markor-Website aufmerksam machte."
+                },
+                {
+                    "text": "\u00bbBASF, aber auch Volkswagen haben eine besondere historische Verantwortung\u00ab, sagt Zenz."
+                },
+                {
+                    "text": "\u00bbUnd VW wurde in Drei\u00dfigerjahren mithilfe der Nazis aufgebaut\u00ab, sagt Zenz."
+                }
+            ],
+            "occupations": [],
+            "directQuotes": [
+                {
+                    "text": "Das reicht nicht"
+                },
+                {
+                    "text": "BASF, aber auch Volkswagen haben eine besondere historische Verantwortung"
+                },
+                {
+                    "text": "Und VW wurde in Drei\u00dfigerjahren mithilfe der Nazis aufgebaut"
+                },
+                {
+                    "text": "Die Markor-Produktion und das VW-Werk sollten umgehend geschlossen werden."
+                }
+            ],
+            "quotedInTitle": false,
+            "quotedInIntro": false
+        },
+        {
+            "name": "G\u00fclpiya Qazibek",
+            "alternativeNames": [],
+            "age": -1,
+            "sex": "female",
+            "occurences": {
+                "total": 7,
+                "firstNameOnly": 0,
+                "lastNameOnly": 0,
+                "fullName": 7,
+                "nickname": 0
+            },
+            "inTitle": false,
+            "inIntro": false,
+            "_name": {
+                "firstname": "G\u00fclpiya",
+                "lastname": "Qazibek",
+                "nickname": null,
+                "alternative_names": [],
+                "academic_title": null,
+                "nobility_title_or_rank": null
+            },
+            "descriptiveTexts": [
+                {
+                    "text": "G\u00fclpiya Qazibek wei\u00df nicht mehr genau, wann sie zum ersten Mal von der neuen, brutalen Kampagne mit dem ach so liebevollen Slogan h\u00f6rte."
+                },
+                {
+                    "text": "Den Namen aber hat sie nicht vergessen: \u00bbFanghuiju\u00ab."
+                },
+                {
+                    "text": "Eine dieser staatlichen Aufseherinnen war G\u00fclpiya Qazibek, chinesische Kasachin, Genossin in der Abteilung f\u00fcr Geburtenplanung der Stadt Ghulja."
+                },
+                {
+                    "text": "Fr\u00fcher trug sie in gro\u00dfen Taschen das Strafgeld all jener zur Bank, die gegen die Einkindpolitik versto\u00dfen hatten, erz\u00e4hlt sie."
+                },
+                {
+                    "text": "Sie nahm an Zwangsabtreibungen teil, hielt die Arme und Beine der schreienden und um sich schlagenden M\u00fctter fest, bis die \u00c4rzte die Spritzen setzten, die die Wehen ausl\u00f6sten."
+                },
+                {
+                    "text": "2019 hat sie China verlassen, ist ins benachbarte Kasachstan geflohen, sie ist eine der ganz wenigen T\u00e4terinnen, die \u00fcber das Unrecht sprechen, das Hunderttausenden Muslimen in Xinjiang in den vergangenen Jahren angetan worden ist."
+                },
+                {
+                    "text": "Was \u00bbgezielte Kontrolle\u00ab bedeutet, wei\u00df G\u00fclpiya Qazibek nur zu gut."
+                },
+                {
+                    "text": "Sie hat Tee gekocht, mit Milch und etwas Sahne."
+                },
+                {
+                    "text": "2016, erz\u00e4hlt sie, fing sie an, im Auftrag der Partei D\u00f6rfer zu besuchen."
+                },
+                {
+                    "text": "\u00bbWir sind von Haus zu Haus gegangen und haben gefragt: Wer wie viel betet, wie h\u00e4ufig in die Moschee geht, wer einen Koran hat, wer wie oft in Kasachstan oder in anderen L\u00e4ndern war\u00ab, sagt sie."
+                },
+                {
+                    "text": "Montags Flaggenhissen, donnerstags lehrte sie von 18 bis 20 Uhr politische Bildung \u2013 alles, um die Uiguren auf Linie zu bringen."
+                },
+                {
+                    "text": "\u00bbWir waren zu zweit f\u00fcr zw\u00f6lf Familien zust\u00e4ndig. Das \u00dcbernachten lief unter dem Slogan \u203aNationale Einheit als eine Familie\u2039. Eigentlich sollten ausschlie\u00dflich han-chinesische Beamte in uigurische oder kasachische H\u00e4user ziehen, aber in unserem Bezirk gab es nicht genug Han-Chinesen, deshalb wurden auch wir hingeschickt\u00ab, sagt G\u00fclpiya Qazibek."
+                },
+                {
+                    "text": "\u00bbDie schwierigen Haushalte mussten wir auf jeden Fall besuchen, h\u00e4ufig mehrmals\u00ab, erz\u00e4hlt G\u00fclpiya Qazibek."
+                },
+                {
+                    "text": "\u00bbDie schwierigen Familien sind die, die im Lager waren oder viel im Ausland gewesen sind. Da musst du alles wissen: Wann sie wo waren, wen sie kennen, was sie getan haben. Alles haben wir in unser Fanghuiju-Heft geschrieben.\u00ab"
+                },
+                {
+                    "text": "Von den 40.000 Einwohnern in dem von ihr betreuten Gebiet, sagt G\u00fclpiya Qazibek, seien etwa 10.000 eingesperrt worden."
+                },
+                {
+                    "text": "\u00bbWir hatten alle Angst: heute du, morgen ich; wir warteten alle darauf, selbst irgendwann mitgenommen zu werden. Wir sahen die Listen der Bauern, die festgenommen werden sollten\u00ab, sagt G\u00fclpiya Qazibek."
+                }
+            ],
+            "occupations": [],
+            "directQuotes": [
+                {
+                    "text": "Wir sind von Haus zu Haus gegangen und haben gefragt: Wer wie viel betet, wie h\u00e4ufig in die Moschee geht, wer einen Koran hat, wer wie oft in Kasachstan oder in anderen L\u00e4ndern war"
+                },
+                {
+                    "text": "Wir waren zu zweit f\u00fcr zw\u00f6lf Familien zust\u00e4ndig. Das \u00dcbernachten lief unter dem Slogan \u203aNationale Einheit als eine Familie\u2039. Eigentlich sollten ausschlie\u00dflich han-chinesische Beamte in uigurische oder kasachische H\u00e4user ziehen, aber in unserem Bezirk gab es nicht genug Han-Chinesen, deshalb wurden auch wir hingeschickt"
+                },
+                {
+                    "text": "Die schwierigen Haushalte mussten wir auf jeden Fall besuchen, h\u00e4ufig mehrmals"
+                },
+                {
+                    "text": "Die schwierigen Familien sind die, die im Lager waren oder viel im Ausland gewesen sind. Da musst du alles wissen: Wann sie wo waren, wen sie kennen, was sie getan haben. Alles haben wir in unser Fanghuiju-Heft geschrieben."
+                },
+                {
+                    "text": "Wir hatten alle Angst: heute du, morgen ich; wir warteten alle darauf, selbst irgendwann mitgenommen zu werden. Wir sahen die Listen der Bauern, die festgenommen werden sollten"
+                },
+                {
+                    "text": "Sie haben angefangen, in Klamotten zu schlafen, damit sie bereit sind, falls sie nachts abgeholt werden. Wir dann irgendwann auch."
+                }
+            ],
+            "quotedInTitle": false,
+            "quotedInIntro": false
+        },
+        {
+            "name": "Markus L\u00f6ning",
+            "alternativeNames": [],
+            "age": -1,
+            "sex": "male",
+            "occurences": {
+                "total": 8,
+                "firstNameOnly": 0,
+                "lastNameOnly": 6,
+                "fullName": 2,
+                "nickname": 0
+            },
+            "inTitle": false,
+            "inIntro": false,
+            "_name": {
+                "firstname": "Markus",
+                "lastname": "L\u00f6ning",
+                "nickname": null,
+                "alternative_names": [],
+                "academic_title": null,
+                "nobility_title_or_rank": null
+            },
+            "descriptiveTexts": [
+                {
+                    "text": "Sie wurde auf einer Hochzeit festgenommen und zu 15 Jahren Gef\u00e4ngnis verurteilt."
+                },
+                {
+                    "text": "Weil sie zu Hause betete."
+                },
+                {
+                    "text": "Nach sechs Jahren im Frauengef\u00e4ngnis von Ghulja kam sie im vergangenen Herbst frei und steht seitdem unter Hausarrest."
+                },
+                {
+                    "text": "Die knapp 200 Besch\u00e4ftigten vor Ort seien \u00bb\u00fcberdurchschnittlich bezahlt und haben nur wenig zu tun\u00ab, befand vor Weihnachten das Berliner Beratungsunternehmen L\u00f6ning, das den umstrittenen Standort vergangenes Jahr in Volkswagens Auftrag begutachtete."
+                },
+                {
+                    "text": "Der Audit-Bericht der Firma L\u00f6ning sollte offenbar Kritiker bes\u00e4nftigen, und tats\u00e4chlich lieferte er VW das erhoffte Ergebnis: Man habe \u00bbkeine Hinweise\u00ab auf Zwangsarbeit bei den Werksarbeitern finden k\u00f6nnen."
+                },
+                {
+                    "text": "Studienleiter Markus L\u00f6ning erkl\u00e4rte sp\u00e4ter laut \u00bbFinancial Times\u00ab, er habe in erster Linie schriftliche Arbeitsdokumente ausgewertet."
+                },
+                {
+                    "text": "Der L\u00f6ning-Bericht wirkte nun wie ein Persilschein: MSCI entfernte daraufhin die \u00bbrote Flagge\u00ab wieder."
+                },
+                {
+                    "text": "Auch Markus L\u00f6ning schrieb sp\u00e4ter auf LinkedIn, er stehe als Gesch\u00e4ftsf\u00fchrer und Gesellschafter \u00bbzur geleisteten Arbeit meines Unternehmens\u00ab."
+                },
+                {
+                    "text": "In der Berliner Beratungsfirma L\u00f6ning hingegen, die eine hohe Reputation f\u00fcr ihre Menschenrechtsexpertise genie\u00dft, herrschte Aufruhr."
+                },
+                {
+                    "text": "Mehrere Mitarbeiter distanzierten sich \u00f6ffentlich von der Auftragsarbeit f\u00fcr VW: Das Projekt sei lediglich von L\u00f6ning selbst und einem weiteren Kollegen durchgef\u00fchrt worden."
+                },
+                {
+                    "text": "Kein anderes Teammitglied von L\u00f6ning sei an dem Audit beteiligt gewesen oder habe es unterst\u00fctzt."
+                }
+            ],
+            "occupations": [],
+            "directQuotes": [
+                {
+                    "text": "Selbst wenn sie \u00fcber etwas Bescheid wissen, k\u00f6nnen sie das nicht in einem Interview sagen."
+                },
+                {
+                    "text": "zur geleisteten Arbeit meines Unternehmens"
+                }
+            ],
+            "quotedInTitle": false,
+            "quotedInIntro": false
+        },
+        {
+            "name": "Rune Steenberg",
+            "alternativeNames": [],
+            "age": -1,
+            "sex": "unknown",
+            "occurences": {
+                "total": 1,
+                "firstNameOnly": 0,
+                "lastNameOnly": 0,
+                "fullName": 1,
+                "nickname": 0
+            },
+            "inTitle": false,
+            "inIntro": false,
+            "_name": {
+                "firstname": "Rune",
+                "lastname": "Steenberg",
+                "nickname": null,
+                "alternative_names": [],
+                "academic_title": null,
+                "nobility_title_or_rank": null
+            },
+            "descriptiveTexts": [
+                {
+                    "text": "Mitarbeit: Rune Steenberg"
+                }
+            ],
+            "occupations": [
+                {
+                    "text": "Mitarbeit"
+                }
+            ],
+            "directQuotes": [],
+            "quotedInTitle": false,
+            "quotedInIntro": false
+        }
+    ]
+}

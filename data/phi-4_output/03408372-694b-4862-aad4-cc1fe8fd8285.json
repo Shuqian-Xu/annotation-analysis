@@ -1,0 +1,446 @@
+{
+    "persons": [
+        {
+            "name": "Martin Kind",
+            "alternativeNames": [],
+            "age": -1,
+            "sex": "male",
+            "occurences": {
+                "total": 2,
+                "firstNameOnly": 0,
+                "lastNameOnly": 1,
+                "fullName": 1,
+                "nickname": 0
+            },
+            "inTitle": false,
+            "inIntro": false,
+            "_name": {
+                "firstname": "Martin",
+                "lastname": "Kind",
+                "nickname": null,
+                "alternative_names": [],
+                "academic_title": null,
+                "nobility_title_or_rank": null
+            },
+            "descriptiveTexts": [
+                {
+                    "text": "Ein Kind braucht Bildung, aber vor allem liebevolle Eltern, generell ein Umfeld, das ihm zugewandt ist, um sich gut entwickeln zu k\u00f6nnen."
+                },
+                {
+                    "text": "Manche davon, wie zum Beispiel Martin Kind, sind auch verm\u00f6gend."
+                }
+            ],
+            "occupations": [],
+            "directQuotes": [],
+            "quotedInTitle": false,
+            "quotedInIntro": false
+        },
+        {
+            "name": "Goethe",
+            "alternativeNames": [],
+            "age": -1,
+            "sex": "male",
+            "occurences": {
+                "total": 1,
+                "firstNameOnly": 0,
+                "lastNameOnly": 0,
+                "fullName": 1,
+                "nickname": 0
+            },
+            "inTitle": false,
+            "inIntro": false,
+            "_name": {
+                "firstname": null,
+                "lastname": "Goethe",
+                "nickname": null,
+                "alternative_names": [],
+                "academic_title": null,
+                "nobility_title_or_rank": null
+            },
+            "descriptiveTexts": [
+                {
+                    "text": "\"Sie m\u00fcssen schon reich werden wollen\""
+                },
+                {
+                    "text": "Bei uns standen Goethe und Schopenhauer im Regal."
+                },
+                {
+                    "text": "Meine Gro\u00dfeltern m\u00fctterlicherseits waren wohlhabende Leute, sie f\u00fchrten Anfang des 20."
+                },
+                {
+                    "text": "Sie haben hier als Auszubildende angefangen und sich hochgearbeitet, heute haben sie eine leitende Position im Unternehmen, ein eigenes Haus gebaut, die Welt bereist."
+                },
+                {
+                    "text": "Ich kenne viele Menschen, die haben viel Geld, aber sie sind nicht gl\u00fccklich."
+                },
+                {
+                    "text": "Oder nehmen Sie meine Freunde, mit denen ich Skat und Tennis spiele."
+                }
+            ],
+            "occupations": [],
+            "directQuotes": [],
+            "quotedInTitle": false,
+            "quotedInIntro": false
+        },
+        {
+            "name": "Raoul",
+            "alternativeNames": [],
+            "age": -1,
+            "sex": "male",
+            "occurences": {
+                "total": 1,
+                "firstNameOnly": 0,
+                "lastNameOnly": 0,
+                "fullName": 1,
+                "nickname": 0
+            },
+            "inTitle": false,
+            "inIntro": false,
+            "_name": {
+                "firstname": "Raoul",
+                "lastname": null,
+                "nickname": null,
+                "alternative_names": [],
+                "academic_title": null,
+                "nobility_title_or_rank": null
+            },
+            "descriptiveTexts": [
+                {
+                    "text": "Mein Sohn Raoul hat 2021 die Gesch\u00e4ftsf\u00fchrung \u00fcbernommen, und der ist viel schlauer als ich."
+                }
+            ],
+            "occupations": [],
+            "directQuotes": [],
+            "quotedInTitle": false,
+            "quotedInIntro": false
+        },
+        {
+            "name": "Dirk Ro\u00dfmann",
+            "alternativeNames": [],
+            "age": -1,
+            "sex": "male",
+            "occurences": {
+                "total": 4,
+                "firstNameOnly": 0,
+                "lastNameOnly": 2,
+                "fullName": 2,
+                "nickname": 0
+            },
+            "inTitle": false,
+            "inIntro": true,
+            "_name": {
+                "firstname": "Dirk",
+                "lastname": "Ro\u00dfmann",
+                "nickname": null,
+                "alternative_names": [],
+                "academic_title": null,
+                "nobility_title_or_rank": null
+            },
+            "descriptiveTexts": [
+                {
+                    "text": "Drogerieunternehmer Dirk Ro\u00dfmann geh\u00f6rt zu den reichsten Deutschen."
+                },
+                {
+                    "text": "Arm aufgewachsen, arbeitete er sich ganz nach oben."
+                },
+                {
+                    "text": "Heute ist er einer der wenigen, die offen dar\u00fcber sprechen, wie es sich mit richtig viel Geld lebt."
+                },
+                {
+                    "text": "manager magazin: Herr Ro\u00dfmann, Sie sind Multimilliard\u00e4r."
+                },
+                {
+                    "text": "Dirk Ro\u00dfmann: Ja.\n\nVerraten Sie es uns?"
+                },
+                {
+                    "text": "Im Laufe eines Lebens entwickelt sich die eigene Pers\u00f6nlichkeit \u2013 und ich kann nur sagen: Sorgen Sie daf\u00fcr, dass sich auch Ihr Verm\u00f6gen entwickelt."
+                },
+                {
+                    "text": "Ich habe nicht gesagt, dass es einfach ist."
+                },
+                {
+                    "text": "Sie selbst wuchsen im Hannover der Nachkriegszeit auf."
+                },
+                {
+                    "text": "Nach dem fr\u00fchen Tod Ihres Vaters \u2013 der, wie Sie erst sp\u00e4ter erfuhren, gar nicht Ihr leiblicher war \u2013 musste ihre Mutter alles verkaufen, um die Drogerie zu retten und die Familie durchzubringen."
+                },
+                {
+                    "text": "Sie haben einmal gesagt: \"Wir waren bettelarm, lebten in allerkleinsten Verh\u00e4ltnissen\"."
+                },
+                {
+                    "text": "Denken Sie: Wenn ich es schaffen konnte, kann es jeder?"
+                },
+                {
+                    "text": "Aber ich hatte trotzdem eine gute Basis."
+                },
+                {
+                    "text": "W\u00e4hrend Ihr \u00e4lterer Bruder studierte, haben Sie den Hauptschulabschluss gemacht und begannen eine Drogerielehre."
+                },
+                {
+                    "text": "Ja, da war ich zw\u00f6lf Jahre alt."
+                },
+                {
+                    "text": "Und Sie k\u00f6nnen sicher sein, das war das letzte Mal, dass ich etwas nicht versteuert habe."
+                },
+                {
+                    "text": "Damals wusste ich es noch nicht besser."
+                },
+                {
+                    "text": "Ich habe Drogerieartikel verkauft und mit dem Rad ausgeliefert."
+                },
+                {
+                    "text": "Die Waren hatte ich von meiner Mutter, die mir alles zehn Prozent billiger verkauft hat als im Laden."
+                },
+                {
+                    "text": "Mit der Marge habe ich mehrere Tausend Mark verdient."
+                },
+                {
+                    "text": "Mit 16 habe ich mir davon eine Eigentumswohnung gekauft."
+                },
+                {
+                    "text": "Wie erkl\u00e4ren Sie sich die Tatsache, dass Armut oft \u00fcber Generationen vererbt wird?"
+                },
+                {
+                    "text": "Und ich habe in meinem Leben viele Menschen getroffen, die mit Nichts gestartet sind und viel erreicht haben."
+                },
+                {
+                    "text": "Allein in meiner Firma kann ich Ihnen zig Mitarbeiterinnen und Mitarbeiter nennen, auf die das zutrifft."
+                },
+                {
+                    "text": "Sie wollten anscheinend schon immer nach oben."
+                },
+                {
+                    "text": "Wenn ich w\u00fcsste, woher intrinsische Motivation kommt, dann w\u00e4re ich ein Hellseher."
+                },
+                {
+                    "text": "Ich hatte in meinem Leben ein paar richtig gute Ideen zur richtigen Zeit, und ich interessiere mich f\u00fcr Menschen."
+                },
+                {
+                    "text": "Ich bin halt nicht so schlau."
+                },
+                {
+                    "text": "Aber ich glaube, jeder muss das finden, worin er gut ist."
+                },
+                {
+                    "text": "Ich halte das, Entschuldigung, f\u00fcr ausgemachten Bl\u00f6dsinn."
+                },
+                {
+                    "text": "F\u00fcr welchen Luxus geben Sie viel Geld aus?"
+                },
+                {
+                    "text": "Ich kenne Leute, die ich pers\u00f6nlich eigentlich sehr sympathisch finde, die haben \u00fcberall auf der Welt H\u00e4user, ein Chalet in den Bergen oder eine Villa am Meer."
+                },
+                {
+                    "text": "Ich interessiere mich sehr f\u00fcr Menschen \u2013 und in meinem Herzen bin ich wahrscheinlich immer noch der kleine Junge, der in Bombentrichtern spielte und der \u00fcber sein heutiges Leben staunen kann."
+                },
+                {
+                    "text": "Ich wollte immer dazugeh\u00f6ren."
+                },
+                {
+                    "text": "Um auf Ihre Frage zur\u00fcckzukommen: Wenn ich heute irgendwo anrufe, kriege ich fast immer und mit fast jedem einen Termin."
+                },
+                {
+                    "text": "Das war nicht immer so, und das finde ich ziemlich klasse."
+                },
+                {
+                    "text": "Denn so lerne ich unglaublich spannende Menschen kennen."
+                },
+                {
+                    "text": "Meinen Sie damit: andere reiche Leute?"
+                },
+                {
+                    "text": "Ich erkl\u00e4re mir das so: Wenn Sie beispielsweise in der Politik was werden wollen, m\u00fcssen Sie clever auftreten, positiv in den Medien r\u00fcberkommen, Menschen f\u00fcr sich einnehmen k\u00f6nnen."
+                },
+                {
+                    "text": "Viele Milliard\u00e4re, die ich kenne, sind extrem sch\u00fcchtern, das sind zum Teil sehr introvertierte Menschen, die wollen nicht im Rampenlicht stehen."
+                },
+                {
+                    "text": "Wie meinen Sie das?"
+                },
+                {
+                    "text": "Ich kenne viele Menschen, die haben viel Geld, aber sie sind nicht gl\u00fccklich."
+                },
+                {
+                    "text": "Am Ende geht es nicht um die materiellen Dinge: Ich glaube, am gl\u00fccklichsten ist man, wenn man einen Haufen Freunde hat, einen tollen Partner und gesunde Kinder."
+                },
+                {
+                    "text": "Ich frage noch mal anders: In der Liste der reichsten Deutschen des manager magazins landeten Sie 2022 mit 3,7 Milliarden Euro auf Platz 56: Was bedeutet es Ihnen, so reich zu sein?"
+                },
+                {
+                    "text": "Die Summe kommentiere ich nicht, und der Platz ist mir egal."
+                },
+                {
+                    "text": "Verstehen Sie das nicht falsch, ich habe mich nie ge\u00e4rgert \u00fcber diese Liste."
+                },
+                {
+                    "text": "Ich wei\u00df, dass ich richtig reich bin, ich hatte so verdammt viel Gl\u00fcck in meinem Leben, mitunter auch mehr, als ich verdient habe."
+                },
+                {
+                    "text": "Dass ich stolz darauf bin, viele Steuern zu zahlen."
+                },
+                {
+                    "text": "Und dass ich es gro\u00dfartig finde, heute anderen Menschen in Not helfen zu k\u00f6nnen."
+                },
+                {
+                    "text": "Wie viel spenden Sie im Jahr?"
+                },
+                {
+                    "text": "Menschen, die wenig haben und trotzdem etwas abgeben, sind weit gro\u00dfz\u00fcgiger als ich."
+                },
+                {
+                    "text": "Ich habe viel, und selbst wenn ich viel abgebe, habe ich hinterher immer noch viel."
+                },
+                {
+                    "text": "Aber ich kann Ihnen versichern, ich verfolge auch da ehrgeizige Ziele."
+                },
+                {
+                    "text": "Mehr will ich aber momentan noch nicht verraten."
+                },
+                {
+                    "text": "Ich kann mich mit der Schneiderin genauso gro\u00dfartig unterhalten wie mit einem Unternehmer."
+                },
+                {
+                    "text": "Diese Menschen haben mit mir auch alle meine schlechten Zeiten durchlebt, als ich kurz davor stand, alles zu verlieren\u2026"
+                },
+                {
+                    "text": "...das war Mitte der Neunzigerjahre, als Sie und die Firma hoch verschuldet waren und Ihren eigenen Schilderungen zufolge kurz vor der Insolvenz standen."
+                },
+                {
+                    "text": "Ich wei\u00df, dass Sie gerne mit Aktien zocken."
+                },
+                {
+                    "text": "Haben Sie keine Sorge, dass Sie all das, was Sie sich aufgebaut haben, durch einen Fehler auch wieder verlieren k\u00f6nnten?"
+                },
+                {
+                    "text": "Nein, dazu bin ich viel zu vorsichtig, die Risiken sind \u00fcberschaubar."
+                },
+                {
+                    "text": "Selbst wenn es einen riesigen B\u00f6rsencrash g\u00e4be, w\u00fcrde ich vielleicht hundert Millionen verlieren, aber das w\u00fcrde mir privat nicht das Genick brechen."
+                },
+                {
+                    "text": "Sie sind Anfang des Jahres zum f\u00fcnften Mal Gro\u00dfvater geworden."
+                },
+                {
+                    "text": "Ich kann nur das vorleben, was ich f\u00fcr sinnvoll halte."
+                },
+                {
+                    "text": "Wenn ich sehe, dass manche ihren Kindern einen Porsche oder anderes dummes Zeug zum 18."
+                },
+                {
+                    "text": "Geburtstag schenken, kann ich nur den Kopf sch\u00fctteln."
+                },
+                {
+                    "text": "Und glauben Sie mir: Auch reiche Leute wollen geliebt werden."
+                }
+            ],
+            "occupations": [
+                {
+                    "text": "Gro\u00dfvater"
+                },
+                {
+                    "text": "Multimilliard\u00e4r"
+                },
+                {
+                    "text": "Drogerieunternehmer"
+                }
+            ],
+            "directQuotes": [
+                {
+                    "text": "Sie m\u00fcssen schon reich werden wollen"
+                },
+                {
+                    "text": "Wir waren bettelarm, lebten in allerkleinsten Verh\u00e4ltnissen"
+                }
+            ],
+            "quotedInTitle": false,
+            "quotedInIntro": true
+        },
+        {
+            "name": "Rudolf Ro\u00dfmann",
+            "alternativeNames": [],
+            "age": -1,
+            "sex": "male",
+            "occurences": {
+                "total": 1,
+                "firstNameOnly": 0,
+                "lastNameOnly": 0,
+                "fullName": 1,
+                "nickname": 0
+            },
+            "inTitle": false,
+            "inIntro": false,
+            "_name": {
+                "firstname": "Rudolf",
+                "lastname": "Ro\u00dfmann",
+                "nickname": null,
+                "alternative_names": [],
+                "academic_title": null,
+                "nobility_title_or_rank": null
+            },
+            "descriptiveTexts": [
+                {
+                    "text": "V\u00e4terlicherseits er\u00f6ffnete mein Gro\u00dfvater Rudolf Ro\u00dfmann 1909 eine Drogerie, die im Zweiten Weltkrieg jedoch bei einem Bombenangriff v\u00f6llig zerst\u00f6rt wurde."
+                }
+            ],
+            "occupations": [],
+            "directQuotes": [
+                {
+                    "text": "Ja."
+                }
+            ],
+            "quotedInTitle": false,
+            "quotedInIntro": false
+        },
+        {
+            "name": "Schopenhauer",
+            "alternativeNames": [],
+            "age": -1,
+            "sex": "male",
+            "occurences": {
+                "total": 1,
+                "firstNameOnly": 0,
+                "lastNameOnly": 0,
+                "fullName": 1,
+                "nickname": 0
+            },
+            "inTitle": false,
+            "inIntro": false,
+            "_name": {
+                "firstname": null,
+                "lastname": "Schopenhauer",
+                "nickname": null,
+                "alternative_names": [],
+                "academic_title": null,
+                "nobility_title_or_rank": null
+            },
+            "descriptiveTexts": [
+                {
+                    "text": "\"Sie m\u00fcssen schon reich werden wollen\""
+                },
+                {
+                    "text": "Bei uns standen Goethe und Schopenhauer im Regal."
+                },
+                {
+                    "text": "Meine Gro\u00dfeltern m\u00fctterlicherseits waren wohlhabende Leute, sie f\u00fchrten Anfang des 20."
+                },
+                {
+                    "text": "Sie haben hier als Auszubildende angefangen und sich hochgearbeitet, heute haben sie eine leitende Position im Unternehmen, ein eigenes Haus gebaut, die Welt bereist."
+                },
+                {
+                    "text": "Ich kenne viele Menschen, die haben viel Geld, aber sie sind nicht gl\u00fccklich."
+                },
+                {
+                    "text": "Oder nehmen Sie meine Freunde, mit denen ich Skat und Tennis spiele."
+                }
+            ],
+            "occupations": [
+                {
+                    "text": "Bei uns standen Goethe und Schopenhauer im Regal."
+                }
+            ],
+            "directQuotes": [],
+            "quotedInTitle": false,
+            "quotedInIntro": false
+        }
+    ]
+}

@@ -1,0 +1,469 @@
+{
+    "persons": [
+        {
+            "name": "Mario Kohle",
+            "alternativeNames": [],
+            "age": -1,
+            "sex": "male",
+            "occurences": {
+                "total": 2,
+                "firstNameOnly": 0,
+                "lastNameOnly": 1,
+                "fullName": 1,
+                "nickname": 0
+            },
+            "inTitle": false,
+            "inIntro": false,
+            "_name": {
+                "firstname": "Mario",
+                "lastname": "Kohle",
+                "nickname": null,
+                "alternative_names": [],
+                "academic_title": null,
+                "nobility_title_or_rank": null
+            },
+            "descriptiveTexts": [
+                {
+                    "text": "Solare Rooftop-Revolution: Die drei Gr\u00fcnder Mario Kohle, Viktor Wingert und Jochen Ziervogel hatten 2017 die Idee, die Anschaffung einer Solaranlage so unkompliziert wie m\u00f6glich zu machen, quasi ein Paypal f\u00fcr erneuerbare Energie zu schaffen."
+                },
+                {
+                    "text": "Gr\u00fcnder Kohle will das Start-up jetzt noch gr\u00f6\u00dfer ausrollen \u2013 auch wenn das Gesch\u00e4ftsmodell nicht ohne Risiken ist."
+                }
+            ],
+            "occupations": [],
+            "directQuotes": [],
+            "quotedInTitle": false,
+            "quotedInIntro": false
+        },
+        {
+            "name": "Jochen Ziervogel",
+            "alternativeNames": [],
+            "age": -1,
+            "sex": "male",
+            "occurences": {
+                "total": 1,
+                "firstNameOnly": 0,
+                "lastNameOnly": 0,
+                "fullName": 1,
+                "nickname": 0
+            },
+            "inTitle": false,
+            "inIntro": false,
+            "_name": {
+                "firstname": "Jochen",
+                "lastname": "Ziervogel",
+                "nickname": null,
+                "alternative_names": [],
+                "academic_title": null,
+                "nobility_title_or_rank": null
+            },
+            "descriptiveTexts": [
+                {
+                    "text": "Solare Rooftop-Revolution: Die drei Gr\u00fcnder Mario Kohle, Viktor Wingert und Jochen Ziervogel hatten 2017 die Idee, die Anschaffung einer Solaranlage so unkompliziert wie m\u00f6glich zu machen, quasi ein Paypal f\u00fcr erneuerbare Energie zu schaffen."
+                }
+            ],
+            "occupations": [],
+            "directQuotes": [],
+            "quotedInTitle": false,
+            "quotedInIntro": false
+        },
+        {
+            "name": "Rupert Stadler",
+            "alternativeNames": [],
+            "age": -1,
+            "sex": "male",
+            "occurences": {
+                "total": 4,
+                "firstNameOnly": 0,
+                "lastNameOnly": 2,
+                "fullName": 2,
+                "nickname": 0
+            },
+            "inTitle": false,
+            "inIntro": true,
+            "_name": {
+                "firstname": "Rupert",
+                "lastname": "Stadler",
+                "nickname": null,
+                "alternative_names": [],
+                "academic_title": null,
+                "nobility_title_or_rank": null
+            },
+            "descriptiveTexts": [
+                {
+                    "text": "Heute mit der zweiten Karriereplanung von \u0130lkay G\u00fcndo\u011fan, dem Gest\u00e4ndnis von Ex-Audi-Chef Rupert Stadler und dem Stellenabbau bei Vodafone."
+                },
+                {
+                    "text": "Fehlverhalten einger\u00e4umt: Wie angek\u00fcndigt, hat der fr\u00fchere Audi-Chef Rupert Stadler im Prozess um manipulierte Abgaswerte bei Dieselautos heute doch ein Gest\u00e4ndnis abgelegt."
+                },
+                {
+                    "text": "Er h\u00e4tte die M\u00f6glichkeit gehabt einzugreifen, dies aber unterlassen."
+                },
+                {
+                    "text": "Er sehe, \"dass es ein Mehr an Sorgfalt\" gebraucht h\u00e4tte, lie\u00df er seine Anw\u00e4ltin vor dem Landgericht M\u00fcnchen verlesen."
+                },
+                {
+                    "text": "Nach zweieinhalb Jahren ist Stadler damit das erste Mitglied des VW-Konzernvorstands, das vor Gericht den Vorwurf des Betrugs durch Unterlassen einr\u00e4umte \u2013 obwohl er zuvor jahrelang seine Unschuld beteuert hatte."
+                },
+                {
+                    "text": "Die Erinnerung schien erst Ende M\u00e4rz wiederzukommen: Das Gericht machte Stadler klar, dass ihm ohne Gest\u00e4ndnis Gef\u00e4ngnis drohen w\u00fcrde."
+                }
+            ],
+            "occupations": [
+                {
+                    "text": "Ex-Audi-Chef"
+                }
+            ],
+            "directQuotes": [
+                {
+                    "text": "dass es ein Mehr an Sorgfalt"
+                }
+            ],
+            "quotedInTitle": false,
+            "quotedInIntro": true
+        },
+        {
+            "name": "Georgine Kellermann",
+            "alternativeNames": [],
+            "age": -1,
+            "sex": "female",
+            "occurences": {
+                "total": 2,
+                "firstNameOnly": 1,
+                "lastNameOnly": 0,
+                "fullName": 1,
+                "nickname": 0
+            },
+            "inTitle": false,
+            "inIntro": false,
+            "_name": {
+                "firstname": "Georgine",
+                "lastname": "Kellermann",
+                "nickname": null,
+                "alternative_names": [],
+                "academic_title": null,
+                "nobility_title_or_rank": null
+            },
+            "descriptiveTexts": [
+                {
+                    "text": "WDR-Journalistin Georgine Kellermann geh\u00f6rt zu den wenigen, die den Weg gegangen sind: Sie beendete ihr Doppelleben nach Jahrzehnten des Versteckspiels und zeigte sich auch bei der Arbeit so, wie sie sich selbst empfand \u2013 als Georgine."
+                },
+                {
+                    "text": "\"Ich habe Sorge gehabt, dass, wenn ich werde, wie ich bin, ich nicht mehr tun kann, was ich liebe\", erinnert sie sich."
+                },
+                {
+                    "text": "Sie habe etwa sofort neue Visitenkarten, eine neue E-Mail-Adresse und viel Unterst\u00fctzung bei allen organisatorischen und b\u00fcrokratischen Aufgaben bekommen."
+                }
+            ],
+            "occupations": [
+                {
+                    "text": "WDR-Journalistin"
+                }
+            ],
+            "directQuotes": [
+                {
+                    "text": "Ich habe Sorge gehabt, dass, wenn ich werde, wie ich bin, ich nicht mehr tun kann, was ich liebe"
+                },
+                {
+                    "text": "von allen, die Verantwortung f\u00fcr mich getragen haben"
+                }
+            ],
+            "quotedInTitle": false,
+            "quotedInIntro": false
+        },
+        {
+            "name": "Christoph Ne\u00dfh\u00f6ver",
+            "alternativeNames": [],
+            "age": -1,
+            "sex": "male",
+            "occurences": {
+                "total": 2,
+                "firstNameOnly": 1,
+                "lastNameOnly": 0,
+                "fullName": 1,
+                "nickname": 0
+            },
+            "inTitle": false,
+            "inIntro": false,
+            "_name": {
+                "firstname": "Christoph",
+                "lastname": "Ne\u00dfh\u00f6ver",
+                "nickname": null,
+                "alternative_names": [],
+                "academic_title": null,
+                "nobility_title_or_rank": null
+            },
+            "descriptiveTexts": [
+                {
+                    "text": "Wie, das hat er meinem Kollegen Christoph Ne\u00dfh\u00f6ver erz\u00e4hlt, und er spricht auch \u00fcber seine Angst vor dem Aufh\u00f6ren, \u00fcber den F\u00fchrungsstil seines Chefs Pep Guardiola und die motivierende Kraft des Rampenlichts."
+                },
+                {
+                    "text": "Warum sich die Indizien, dass Tesla unter \u00dcberkapazit\u00e4ten leidet, auch an anderer Stelle verdichten, beschreibt mein Kollege Christoph Seyerlein."
+                }
+            ],
+            "occupations": [],
+            "directQuotes": [],
+            "quotedInTitle": false,
+            "quotedInIntro": false
+        },
+        {
+            "name": "Viktor Wingert",
+            "alternativeNames": [],
+            "age": -1,
+            "sex": "male",
+            "occurences": {
+                "total": 1,
+                "firstNameOnly": 0,
+                "lastNameOnly": 0,
+                "fullName": 1,
+                "nickname": 0
+            },
+            "inTitle": false,
+            "inIntro": false,
+            "_name": {
+                "firstname": "Viktor",
+                "lastname": "Wingert",
+                "nickname": null,
+                "alternative_names": [],
+                "academic_title": null,
+                "nobility_title_or_rank": null
+            },
+            "descriptiveTexts": [
+                {
+                    "text": "Solare Rooftop-Revolution: Die drei Gr\u00fcnder Mario Kohle, Viktor Wingert und Jochen Ziervogel hatten 2017 die Idee, die Anschaffung einer Solaranlage so unkompliziert wie m\u00f6glich zu machen, quasi ein Paypal f\u00fcr erneuerbare Energie zu schaffen."
+                }
+            ],
+            "occupations": [],
+            "directQuotes": [],
+            "quotedInTitle": false,
+            "quotedInIntro": false
+        },
+        {
+            "name": "Christoph Seyerlein",
+            "alternativeNames": [],
+            "age": -1,
+            "sex": "male",
+            "occurences": {
+                "total": 2,
+                "firstNameOnly": 1,
+                "lastNameOnly": 0,
+                "fullName": 1,
+                "nickname": 0
+            },
+            "inTitle": false,
+            "inIntro": false,
+            "_name": {
+                "firstname": "Christoph",
+                "lastname": "Seyerlein",
+                "nickname": null,
+                "alternative_names": [],
+                "academic_title": null,
+                "nobility_title_or_rank": null
+            },
+            "descriptiveTexts": [
+                {
+                    "text": "Wie, das hat er meinem Kollegen Christoph Ne\u00dfh\u00f6ver erz\u00e4hlt, und er spricht auch \u00fcber seine Angst vor dem Aufh\u00f6ren, \u00fcber den F\u00fchrungsstil seines Chefs Pep Guardiola und die motivierende Kraft des Rampenlichts."
+                },
+                {
+                    "text": "Warum sich die Indizien, dass Tesla unter \u00dcberkapazit\u00e4ten leidet, auch an anderer Stelle verdichten, beschreibt mein Kollege Christoph Seyerlein."
+                }
+            ],
+            "occupations": [],
+            "directQuotes": [],
+            "quotedInTitle": false,
+            "quotedInIntro": false
+        },
+        {
+            "name": "Margherita Della Valle",
+            "alternativeNames": [],
+            "age": -1,
+            "sex": "female",
+            "occurences": {
+                "total": 2,
+                "firstNameOnly": 0,
+                "lastNameOnly": 1,
+                "fullName": 1,
+                "nickname": 0
+            },
+            "inTitle": false,
+            "inIntro": false,
+            "_name": {
+                "firstname": "Margherita",
+                "lastname": "Della Valle",
+                "nickname": null,
+                "alternative_names": [],
+                "academic_title": null,
+                "nobility_title_or_rank": null
+            },
+            "descriptiveTexts": [
+                {
+                    "text": "Rekord-Kahlschlag: Vodafones neue Konzernchefin Margherita Della Valle will eine etwas andere Firmengeschichte schreiben: Die Managerin k\u00fcndigte den bisher gr\u00f6\u00dften Jobabbau in der Firmenhistorie an."
+                },
+                {
+                    "text": "Della Valle rechtfertigt ihren Kurs mit den sinkenden Einnahmen und Gewinnen: \"Unsere Leistungen waren nicht gut genug\", sagte die Chefin."
+                }
+            ],
+            "occupations": [],
+            "directQuotes": [
+                {
+                    "text": "Unsere Leistungen waren nicht gut genug"
+                }
+            ],
+            "quotedInTitle": false,
+            "quotedInIntro": false
+        },
+        {
+            "name": "Elon Musk",
+            "alternativeNames": [],
+            "age": -1,
+            "sex": "male",
+            "occurences": {
+                "total": 1,
+                "firstNameOnly": 0,
+                "lastNameOnly": 0,
+                "fullName": 1,
+                "nickname": 0
+            },
+            "inTitle": false,
+            "inIntro": false,
+            "_name": {
+                "firstname": "Elon",
+                "lastname": "Musk",
+                "nickname": null,
+                "alternative_names": [],
+                "academic_title": null,
+                "nobility_title_or_rank": null
+            },
+            "descriptiveTexts": [
+                {
+                    "text": "N\u00e4chste Preisaktion: Tesla-Chef Elon Musk r\u00fchmt sich, nie einen Cent in das Marketing des Elektroautoherstellers investiert zu haben."
+                }
+            ],
+            "occupations": [],
+            "directQuotes": [],
+            "quotedInTitle": false,
+            "quotedInIntro": false
+        },
+        {
+            "name": "Pep Guardiola",
+            "alternativeNames": [],
+            "age": -1,
+            "sex": "male",
+            "occurences": {
+                "total": 1,
+                "firstNameOnly": 0,
+                "lastNameOnly": 0,
+                "fullName": 1,
+                "nickname": 0
+            },
+            "inTitle": false,
+            "inIntro": false,
+            "_name": {
+                "firstname": "Pep",
+                "lastname": "Guardiola",
+                "nickname": null,
+                "alternative_names": [],
+                "academic_title": null,
+                "nobility_title_or_rank": null
+            },
+            "descriptiveTexts": [
+                {
+                    "text": "Wie, das hat er meinem Kollegen Christoph Ne\u00dfh\u00f6ver erz\u00e4hlt, und er spricht auch \u00fcber seine Angst vor dem Aufh\u00f6ren, \u00fcber den F\u00fchrungsstil seines Chefs Pep Guardiola und die motivierende Kraft des Rampenlichts."
+                }
+            ],
+            "occupations": [],
+            "directQuotes": [],
+            "quotedInTitle": false,
+            "quotedInIntro": false
+        },
+        {
+            "name": "Hannah Steinharter",
+            "alternativeNames": [],
+            "age": -1,
+            "sex": "female",
+            "occurences": {
+                "total": 1,
+                "firstNameOnly": 0,
+                "lastNameOnly": 0,
+                "fullName": 1,
+                "nickname": 0
+            },
+            "inTitle": false,
+            "inIntro": false,
+            "_name": {
+                "firstname": "Hannah",
+                "lastname": "Steinharter",
+                "nickname": null,
+                "alternative_names": [],
+                "academic_title": null,
+                "nobility_title_or_rank": null
+            },
+            "descriptiveTexts": [
+                {
+                    "text": "Ich w\u00fcnsche Ihnen viel Spa\u00df beim Podcasth\u00f6ren und einen sch\u00f6nen Abend, Ihre Hannah Steinharter"
+                }
+            ],
+            "occupations": [],
+            "directQuotes": [],
+            "quotedInTitle": false,
+            "quotedInIntro": false
+        },
+        {
+            "name": "\u0130lkay G\u00fcndo\u011fan",
+            "alternativeNames": [],
+            "age": -1,
+            "sex": "male",
+            "occurences": {
+                "total": 4,
+                "firstNameOnly": 0,
+                "lastNameOnly": 2,
+                "fullName": 2,
+                "nickname": 0
+            },
+            "inTitle": false,
+            "inIntro": true,
+            "_name": {
+                "firstname": "\u0130lkay",
+                "lastname": "G\u00fcndo\u011fan",
+                "nickname": null,
+                "alternative_names": [],
+                "academic_title": null,
+                "nobility_title_or_rank": null
+            },
+            "descriptiveTexts": [
+                {
+                    "text": "Heute mit der zweiten Karriereplanung von \u0130lkay G\u00fcndo\u011fan, dem Gest\u00e4ndnis von Ex-Audi-Chef Rupert Stadler und dem Stellenabbau bei Vodafone."
+                },
+                {
+                    "text": "Fu\u00dfballprofis wie \u0130lkay G\u00fcndo\u011fan werden verehrt und gehypt, dienen Millionen als Vorbild und verdienen im Jahr mehr als viele Dax-CEOs. Dem Manchester-City-Spieler attestieren viele Sportkommentatoren Weltklasseniveau."
+                },
+                {
+                    "text": "G\u00fcndo\u011fan f\u00fchrt als Kapit\u00e4n Manchester City gegen Real Madrid aufs Feld (Hinspiel-Ergebnis 1:1)."
+                },
+                {
+                    "text": "Wie sieht er aus, der Plan B nach dem Profifu\u00dfball?"
+                },
+                {
+                    "text": "G\u00fcndo\u011fan wei\u00df, wie gef\u00e4hrlich es sein kann, diese Frage zu verdr\u00e4ngen."
+                },
+                {
+                    "text": "Er setzt sich schon seit zwei Jahren mit dem Ende seiner Karriere auseinander."
+                },
+                {
+                    "text": "Wie, das hat er meinem Kollegen Christoph Ne\u00dfh\u00f6ver erz\u00e4hlt, und er spricht auch \u00fcber seine Angst vor dem Aufh\u00f6ren, \u00fcber den F\u00fchrungsstil seines Chefs Pep Guardiola und die motivierende Kraft des Rampenlichts."
+                }
+            ],
+            "occupations": [
+                {
+                    "text": "Angst vor dem Aufh\u00f6ren"
+                },
+                {
+                    "text": "Weltklasseniveau"
+                }
+            ],
+            "directQuotes": [],
+            "quotedInTitle": false,
+            "quotedInIntro": true
+        }
+    ]
+}

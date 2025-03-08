@@ -1,0 +1,724 @@
+{
+    "persons": [
+        {
+            "name": "Ralph Suikat",
+            "alternativeNames": [],
+            "age": 58,
+            "sex": "male",
+            "occurences": {
+                "total": 46,
+                "firstNameOnly": 1,
+                "lastNameOnly": 41,
+                "fullName": 4,
+                "nickname": 0
+            },
+            "inTitle": false,
+            "inIntro": true,
+            "_name": {
+                "firstname": "Ralph",
+                "lastname": "Suikat",
+                "nickname": null,
+                "alternative_names": [],
+                "academic_title": null,
+                "nobility_title_or_rank": null
+            },
+            "descriptiveTexts": [
+                {
+                    "text": "Im Unternehmer Ralph Suikat hat sie nun beides gefunden."
+                },
+                {
+                    "text": "Ralph Suikat hat ein Haus, einen Garten mit Pool und einen gro\u00dfen Fitnessraum im Keller."
+                },
+                {
+                    "text": "Er hat f\u00fcnf Katzen, ein rotes Chaiselongue und einen Original-Flipperautomaten aus den Achtzigerjahren."
+                },
+                {
+                    "text": "Ralph Suikat hat ziemlich viel."
+                },
+                {
+                    "text": "Er lebt nicht \u00fcbertrieben f\u00fcr einen Million\u00e4r, aber gut."
+                },
+                {
+                    "text": "An einem Dienstagnachmittag im Dezember sitzt er am Schreibtisch seines Arbeitszimmers in Ettlingen, einem h\u00fcbschen St\u00e4dtchen in der N\u00e4he von Karlsruhe."
+                },
+                {
+                    "text": "\u00bbSo einen gro\u00dfen Bildschirm braucht man, damit man die ganzen Spenden aus Russland \u00fcberblicken kann\u00ab, sagt er."
+                },
+                {
+                    "text": "Vor seinem Bildschirm bringt Suikat ein politisches Projekt voran, das zumindest auf den ersten Blick nicht so recht zu einem Million\u00e4r passen mag, der im herrschenden System offenkundig gut zurechtkommt."
+                },
+                {
+                    "text": "Als Schatzmeister des \u00bbB\u00fcndnis Sahra Wagenknecht\u00ab will er einer Antisystempartei zum Erfolg verhelfen."
+                },
+                {
+                    "text": "Suikat ist 58 Jahre alt, wurde reich, als er vor Jahren seinen Anteil an einem Unternehmen verkaufte."
+                },
+                {
+                    "text": "F\u00fcr Sahra Wagenknecht ist er das Puzzleteil, das sie lange gesucht hat."
+                },
+                {
+                    "text": "Wagenknecht fehlte: ein Mensch wie Ralph Suikat."
+                },
+                {
+                    "text": "Er wirkt, als h\u00e4tte man ihn soeben in ein anderes Universum katapultiert."
+                },
+                {
+                    "text": "Es ist Suikat, der Neuling in Berlin-Mitte."
+                },
+                {
+                    "text": "Mit auf dem Podium sitzt Suikat."
+                },
+                {
+                    "text": "Ein Treffen mit ihm ein paar Tage sp\u00e4ter im Ristorante Cinque, einem dieser typischen Mitte-Lokale f\u00fcr Politiker, zu denen Suikat nun geh\u00f6rt."
+                },
+                {
+                    "text": "Schon als er sich setzt, sprudelt es aus ihm heraus."
+                },
+                {
+                    "text": "Der Termin in der Bundespressekonferenz sei \u00bbsurreal\u00ab gewesen, findet er."
+                },
+                {
+                    "text": "Noch vor einem Jahr habe er nichts mit Politik zu tun gehabt, sei nie Mitglied einer Partei gewesen und wisse auch nicht mehr genau, was er in der Vergangenheit alles gew\u00e4hlt habe."
+                },
+                {
+                    "text": "Vor etwa einem Jahr bekam er mit, dass Wagenknecht eine Partei gr\u00fcnden will, ihr aber Unterst\u00fctzung bei der Organisation fehlt."
+                },
+                {
+                    "text": "Suikat, der bisher Start-up-Projekten als Investor und Berater zur Seite stand, war elektrisiert."
+                },
+                {
+                    "text": "Das Thema soziale Gerechtigkeit, sagt er, treibe ihn schon l\u00e4nger um."
+                },
+                {
+                    "text": "Ein Bekannter stellte einen Kontakt her, und Suikat fuhr zu einem Abendessen nach Saarbr\u00fccken."
+                },
+                {
+                    "text": "Er traf sich mit Wagenknecht und ihrem Ehemann Oskar Lafontaine."
+                },
+                {
+                    "text": "Der Plan, der an diesem Abend geschmiedet wurde, sah erst einmal nur vor, dass Suikat das Projekt bis zur Parteigr\u00fcndung begleitet und es finanziell und organisatorisch unterst\u00fctzt."
+                },
+                {
+                    "text": "Schon auf der R\u00fcckfahrt, so erz\u00e4hlt er es, habe er ein gutes Gef\u00fchl gehabt."
+                },
+                {
+                    "text": "\u00bbAlso von wegen Egotrip von Wagenknecht. Das ist \u00fcberhaupt nicht so\u00ab, sagt Suikat in seinem badischen Dialekt."
+                },
+                {
+                    "text": "Er erw\u00e4hnt das bei diesem Mittagessen und anderen Treffen mehrmals, auch wenn man ihn nicht danach fragt."
+                },
+                {
+                    "text": "\u00bbEs ist nicht so, dass sie alles allein bestimmt\u00ab, beteuert Suikat."
+                },
+                {
+                    "text": "Aber ohne Wagenknecht, das r\u00e4umt er ein, w\u00fcrde die Partei eben niemanden interessieren."
+                },
+                {
+                    "text": "Suikat hat Wagenknecht geholfen, ihren Verein \u00bbB\u00fcndnis Sahra Wagenknecht\u00ab zu gr\u00fcnden."
+                },
+                {
+                    "text": "Suikat trug die n\u00f6tigen Unterlagen zusammen, sprach mit Anw\u00e4lten, arbeitete an der Satzung."
+                },
+                {
+                    "text": "Jetzt \u00fcberblickt Suikat die Spenden, hilft Wagenknecht aber auch bei der Suche nach geeigneten Kandidaten f\u00fcr ihr Projekt."
+                },
+                {
+                    "text": "Suikat erinnert das an die Gr\u00fcndung eines Start-ups."
+                },
+                {
+                    "text": "Er suchte das Risiko"
+                },
+                {
+                    "text": "Suikat kommt etwas zu sp\u00e4t."
+                },
+                {
+                    "text": "Er hatte vorher noch ein Interview, muss gleich noch zu einem anderen Termin."
+                },
+                {
+                    "text": "Er wirkt gestresst und aufgew\u00fchlt."
+                },
+                {
+                    "text": "\u00bbDas kam wie Kasper aus der Kiste\u00ab, sagt Suikat und sch\u00fcttelt den Kopf."
+                },
+                {
+                    "text": "In den ersten Wochen des Starts stehen die Finanzen von Wagenknechts Parteiprojekt im Fokus, Suikats Zust\u00e4ndigkeit."
+                },
+                {
+                    "text": "Schon allein die Summe zeige, wie l\u00e4cherlich der Vorwurf sei, findet Suikat."
+                },
+                {
+                    "text": "\u00bbVielleicht wollte das jemand auch\u00ab, sagt Suikat."
+                },
+                {
+                    "text": "Er halte den Vorwurf f\u00fcr absurd, Wagenknecht oder die Partei k\u00f6nne durch den Kreml mitfinanziert werden."
+                },
+                {
+                    "text": "Dass Wagenknecht zu ihrem russlandnahen Image selbst einiges beigetragen hat, will er nicht gern h\u00f6ren."
+                },
+                {
+                    "text": "Wie viele Politikquereinsteiger wirkt Suikat \u00fcberrascht von der H\u00e4rte der Kritik, die einem hier in der Hauptstadt entgegenschlagen kann."
+                },
+                {
+                    "text": "Seit die Parteigr\u00fcndung verk\u00fcndet ist, klingele sein Telefon ununterbrochen, sagt Suikat."
+                },
+                {
+                    "text": "Suikats urspr\u00fcnglicher Plan, nur Starthilfe zu leisten und bei der Gr\u00fcndung auszusteigen, ist schon verworfen."
+                },
+                {
+                    "text": "Er soll Schatzmeister der neuen Partei werden."
+                },
+                {
+                    "text": "Warum macht er das?"
+                },
+                {
+                    "text": "Suikats Eltern waren beide im \u00f6ffentlichen Dienst, auch er arbeitete als Verwaltungswirt kurz bei einer Beh\u00f6rde."
+                },
+                {
+                    "text": "Doch das war nichts f\u00fcr ihn, schon nach einem Jahr stieg er aus und suchte das Risiko."
+                },
+                {
+                    "text": "In den Neunzigerjahren gr\u00fcndete er mit einem Gesch\u00e4ftsfreund eine IT-Firma, die eine Software f\u00fcr Insolvenzverwalter entwickelte."
+                },
+                {
+                    "text": "Suikat wurde wohlhabend und lebte ein gutes Leben."
+                },
+                {
+                    "text": "Dann starb seine Frau an einer Krankheit, und Suikat merkte, dass Geld nicht alles ist."
+                },
+                {
+                    "text": "2016 verkaufte er seine Anteile am Unternehmen, Suikat wurde zum Multimillion\u00e4r, so sagt er es."
+                },
+                {
+                    "text": "Doch er wolle nicht nur auf die Zahlen schauen."
+                },
+                {
+                    "text": "Jemand habe ihm ein Video gezeigt, in dem Tiere get\u00f6tet werden, seitdem sei er Vegetarier, erz\u00e4hlt er."
+                },
+                {
+                    "text": "Seine Investments und Unterst\u00fctzungen bei Start-ups w\u00e4hle er nicht nur nach Profittr\u00e4chtigkeit aus, sondern auch danach, ob sie nachhaltig etwas zum Besseren in der Gesellschaft wendeten."
+                },
+                {
+                    "text": "Er besch\u00e4ftigte sich mit Stephen R."
+                },
+                {
+                    "text": "Suikat versteht das so: Erst geht es darum, ein Auskommen zum Leben zu haben, dann um ein gesundes soziales Umfeld, danach darum, zu lernen und zu reflektieren \u2013 und schlie\u00dflich um die vierte Stufe: etwas zur\u00fcckzugeben, das die Gesellschaft verbessert, ein Verm\u00e4chtnis zu hinterlassen."
+                },
+                {
+                    "text": "Politisch sieht er die Sache so: Wagenknecht wolle all denen eine Heimat geben, die sich von den anderen Parteien nicht mehr geh\u00f6rt f\u00fchlen."
+                },
+                {
+                    "text": "Wenn man mit Suikat \u00fcber Politik spricht, tr\u00e4gt er im Kern Wagenknechts Thesen vor, wenngleich er sie deutlich weniger hart formuliert als das Original."
+                },
+                {
+                    "text": "Er glaube nicht an einen Sieg der Ukraine gegen Russland, sagt er."
+                },
+                {
+                    "text": "Er selbst hat vor einiger Zeit die Initiative \u00bbTax me now\u00ab mit ins Leben gerufen, bei der Million\u00e4re h\u00f6here Steuern f\u00fcr sich selbst forderten."
+                },
+                {
+                    "text": "Auch darum gehe es, sagt Suikat."
+                },
+                {
+                    "text": "\u00bbAch, hallo Ralph\u00ab, sagt Wagenknecht und umarmt Suikat herzlich, als begr\u00fc\u00dfe sie einen alten Freund."
+                },
+                {
+                    "text": "\u00bbIch h\u00e4tte es ohne Frau Wagenknecht auch nicht gemacht\u00ab, sagt Suikat und lacht."
+                },
+                {
+                    "text": "Suikat ist die Situation offenbar unangenehm."
+                },
+                {
+                    "text": "Sein Blick wandert kurz durch den Raum, dann starrt er wieder ins Gesicht von Wagenknecht."
+                },
+                {
+                    "text": "Er wird rot."
+                },
+                {
+                    "text": "\u00bbJetzt versuchen sie noch, die Haushaltsl\u00f6cher zu stopfen. Sie k\u00f6nnten ja auch mal schauen bei den Multimillion\u00e4ren\u00ab, sagt Wagenknecht und blickt zu Suikat."
+                },
+                {
+                    "text": "\u00bbSeit wir uns kennen, stehen wir ja sehr eng im Austausch\u00ab, sagt Wagenknecht \u00fcber Suikat."
+                },
+                {
+                    "text": "Suikat sei eine gro\u00dfe Unterst\u00fctzung, betont sie mehrfach bei dem Fototermin."
+                },
+                {
+                    "text": "Suikat, der Fan, kommt aus dem L\u00e4cheln nicht mehr heraus."
+                },
+                {
+                    "text": "Am Abend schickt er noch eine SMS und leitet die Nachricht einer Frau weiter, die der neuen Partei beitreten will: \u00bbHallo, ich habe gelesen, dass die neue Partei am 8. Januar gegr\u00fcndet wird. Das ist mein 87. Geburtstag. Es w\u00e4re sch\u00f6n, wenn ich aus diesem Anlass in die Partei aufgenommen w\u00fcrde.\u00ab"
+                },
+                {
+                    "text": "Suikat schreibt dazu: \u00bbDeswegen liebe ich die Aufgabe. Kam nach unserem Shooting rein \u2026\u00ab Er klingt nach Start-up-Gr\u00fcnder."
+                },
+                {
+                    "text": "Beim Treffen in Ettlingen bei Karlsruhe \u00f6ffnet Suikat in Str\u00fcmpfen und f\u00fchrt ins Arbeitszimmer vor."
+                },
+                {
+                    "text": "\u00bbKomm mal her, Freddy\u00ab, sagt er, nimmt einen seiner Kater auf den Arm und streichelt ihn."
+                },
+                {
+                    "text": "Ihn \u00bbber\u00fchre\u00ab das, sagt Suikat."
+                },
+                {
+                    "text": "Suikat selbst hat das Parteiprojekt mit einer f\u00fcnfstelligen Summe unterst\u00fctzt."
+                },
+                {
+                    "text": "Wie viel genau will er nicht sagen."
+                },
+                {
+                    "text": "Er sitzt da, die Haare etwas nach oben gegelt, Brille, unten ohne Rand, ein enges dunkles T-Shirt."
+                },
+                {
+                    "text": "Gr\u00fcndet er die Partei mit Wagenknecht, weil ihm langweilig war?"
+                },
+                {
+                    "text": "\u00bbIch hatte genug zu tun\u00ab, sagt er."
+                },
+                {
+                    "text": "Oder hat er wegen seines Verm\u00f6gens ein schlechtes Gewissen?"
+                },
+                {
+                    "text": "Er verweist auf den Buchautor Covey: Live, Love, Learn, and Leave a Legacy."
+                },
+                {
+                    "text": "Suikat glaubt an das Wagenknecht-Projekt."
+                },
+                {
+                    "text": "\u00bbWenn das nicht klappt\u00ab, sagt er zum Schluss, \u00bbdann wandere ich aus.\u00ab"
+                }
+            ],
+            "occupations": [],
+            "directQuotes": [
+                {
+                    "text": "So einen gro\u00dfen Bildschirm braucht man, damit man die ganzen Spenden aus Russland \u00fcberblicken kann"
+                },
+                {
+                    "text": "Also von wegen Egotrip von Wagenknecht. Das ist \u00fcberhaupt nicht so"
+                },
+                {
+                    "text": "Es ist nicht so, dass sie alles allein bestimmt"
+                },
+                {
+                    "text": "Ach, hallo Ralph"
+                },
+                {
+                    "text": "Ohne ihn wei\u00df ich nicht, ob ich das gemacht h\u00e4tte. Das sage ich ehrlich"
+                },
+                {
+                    "text": "Ich h\u00e4tte es ohne Frau Wagenknecht auch nicht gemacht"
+                },
+                {
+                    "text": "Also meine urspr\u00fcngliche Vorstellung: Ich mache die Au\u00dfendarstellung, und andere k\u00fcmmern sich um die anderen Fragen, so einfach ist das nicht."
+                },
+                {
+                    "text": "Komm mal her, Freddy"
+                },
+                {
+                    "text": "Ich hatte genug zu tun"
+                },
+                {
+                    "text": "Wenn das nicht klappt"
+                },
+                {
+                    "text": "dann wandere ich aus."
+                }
+            ],
+            "quotedInTitle": false,
+            "quotedInIntro": true
+        },
+        {
+            "name": "Oskar Lafontaine",
+            "alternativeNames": [],
+            "age": -1,
+            "sex": "male",
+            "occurences": {
+                "total": 1,
+                "firstNameOnly": 0,
+                "lastNameOnly": 0,
+                "fullName": 1,
+                "nickname": 0
+            },
+            "inTitle": false,
+            "inIntro": false,
+            "_name": {
+                "firstname": "Oskar",
+                "lastname": "Lafontaine",
+                "nickname": null,
+                "alternative_names": [],
+                "academic_title": null,
+                "nobility_title_or_rank": null
+            },
+            "descriptiveTexts": [
+                {
+                    "text": "Er traf sich mit Wagenknecht und ihrem Ehemann Oskar Lafontaine."
+                }
+            ],
+            "occupations": [],
+            "directQuotes": [],
+            "quotedInTitle": false,
+            "quotedInIntro": false
+        },
+        {
+            "name": "Stephen R. Covey",
+            "alternativeNames": [],
+            "age": -1,
+            "sex": "male",
+            "occurences": {
+                "total": 3,
+                "firstNameOnly": 0,
+                "lastNameOnly": 2,
+                "fullName": 1,
+                "nickname": 0
+            },
+            "inTitle": false,
+            "inIntro": false,
+            "_name": {
+                "firstname": "Stephen R.",
+                "lastname": "Covey",
+                "nickname": null,
+                "alternative_names": [],
+                "academic_title": null,
+                "nobility_title_or_rank": null
+            },
+            "descriptiveTexts": [
+                {
+                    "text": "Covey, einem verstorbenen US-Autor von Managerfibeln und religi\u00f6sen Traktaten."
+                },
+                {
+                    "text": "Er verweist auf den Buchautor Covey: Live, Love, Learn, and Leave a Legacy."
+                }
+            ],
+            "occupations": [
+                {
+                    "text": "Lebe, liebe, lerne und hinterlasse ein Verm\u00e4chtnis"
+                },
+                {
+                    "text": "Live, Love, Learn, and Leave a Legacy"
+                },
+                {
+                    "text": "Autor von Managerfibeln und religi\u00f6sen Traktaten"
+                }
+            ],
+            "directQuotes": [
+                {
+                    "text": "Live, Love, Learn, and Leave a Legacy"
+                }
+            ],
+            "quotedInTitle": false,
+            "quotedInIntro": false
+        },
+        {
+            "name": "Kasper",
+            "alternativeNames": [],
+            "age": -1,
+            "sex": "male",
+            "occurences": {
+                "total": 1,
+                "firstNameOnly": 0,
+                "lastNameOnly": 0,
+                "fullName": 1,
+                "nickname": 0
+            },
+            "inTitle": false,
+            "inIntro": false,
+            "_name": {
+                "firstname": "Kasper",
+                "lastname": null,
+                "nickname": null,
+                "alternative_names": [],
+                "academic_title": null,
+                "nobility_title_or_rank": null
+            },
+            "descriptiveTexts": [
+                {
+                    "text": "\u00bbDas kam wie Kasper aus der Kiste\u00ab, sagt Suikat und sch\u00fcttelt den Kopf."
+                }
+            ],
+            "occupations": [
+                {
+                    "text": "Schatzmeister"
+                }
+            ],
+            "directQuotes": [],
+            "quotedInTitle": false,
+            "quotedInIntro": false
+        },
+        {
+            "name": "Freddy",
+            "alternativeNames": [],
+            "age": -1,
+            "sex": "male",
+            "occurences": {
+                "total": 1,
+                "firstNameOnly": 0,
+                "lastNameOnly": 0,
+                "fullName": 1,
+                "nickname": 0
+            },
+            "inTitle": false,
+            "inIntro": false,
+            "_name": {
+                "firstname": "Freddy",
+                "lastname": null,
+                "nickname": null,
+                "alternative_names": [],
+                "academic_title": null,
+                "nobility_title_or_rank": null
+            },
+            "descriptiveTexts": [
+                {
+                    "text": "\u00bbKomm mal her, Freddy\u00ab, sagt er, nimmt einen seiner Kater auf den Arm und streichelt ihn."
+                }
+            ],
+            "occupations": [],
+            "directQuotes": [
+                {
+                    "text": "Jetzt schauen Sie sich einmal in die Augen"
+                },
+                {
+                    "text": "Deswegen liebe ich die Aufgabe. Kam nach unserem Shooting rein \u2026"
+                }
+            ],
+            "quotedInTitle": false,
+            "quotedInIntro": false
+        },
+        {
+            "name": "Sahra Wagenknecht",
+            "alternativeNames": [],
+            "age": -1,
+            "sex": "female",
+            "occurences": {
+                "total": 39,
+                "firstNameOnly": 0,
+                "lastNameOnly": 32,
+                "fullName": 7,
+                "nickname": 0
+            },
+            "inTitle": true,
+            "inIntro": true,
+            "_name": {
+                "firstname": "Sahra",
+                "lastname": "Wagenknecht",
+                "nickname": null,
+                "alternative_names": [],
+                "academic_title": null,
+                "nobility_title_or_rank": null
+            },
+            "descriptiveTexts": [
+                {
+                    "text": "Er war Sahra Wagenknechts fehlendes Puzzleteil"
+                },
+                {
+                    "text": "F\u00fcr ihre neue Partei suchte Sahra Wagenknecht lange einen Organisator und jemanden mit Geld."
+                },
+                {
+                    "text": "Als Schatzmeister des \u00bbB\u00fcndnis Sahra Wagenknecht\u00ab will er einer Antisystempartei zum Erfolg verhelfen."
+                },
+                {
+                    "text": "F\u00fcr Sahra Wagenknecht ist er das Puzzleteil, das sie lange gesucht hat."
+                },
+                {
+                    "text": "Was stets fehlte, so sagte sie es selbst in Interviews, war ein Organisator."
+                },
+                {
+                    "text": "Was sie ebenfalls brauchte, das sagte sie nicht \u00f6ffentlich, war jemand, der mit Geld umgehen kann \u2013 und Geld hat."
+                },
+                {
+                    "text": "Wagenknecht fehlte: ein Mensch wie Ralph Suikat."
+                },
+                {
+                    "text": "Wer ist der Unternehmer aus Ettlingen, der Wagenknecht dabei helfen will?"
+                },
+                {
+                    "text": "Und was will er in der Wagenknecht-Truppe?"
+                },
+                {
+                    "text": "Drei von ihnen sind bekannte Wagenknecht-Vertraute wie der Linkenabgeordnete Christian Leye, er sagt: \u00bbWir machen das jetzt.\u00ab"
+                },
+                {
+                    "text": "Kurz darauf wird Wagenknecht hier aus einer dunklen Limousine steigen."
+                },
+                {
+                    "text": "Nach mehr als 30 Jahren Mitgliedschaft bei den Linken wird sie vor der versammelten Hauptstadtpresse ihren Parteiaustritt erkl\u00e4ren und die Gr\u00fcndung einer neuen Partei verk\u00fcnden."
+                },
+                {
+                    "text": "Sahra Wagenknecht kannte er nur aus dem Fernsehen."
+                },
+                {
+                    "text": "Vor etwa einem Jahr bekam er mit, dass Wagenknecht eine Partei gr\u00fcnden will, ihr aber Unterst\u00fctzung bei der Organisation fehlt."
+                },
+                {
+                    "text": "Er traf sich mit Wagenknecht und ihrem Ehemann Oskar Lafontaine."
+                },
+                {
+                    "text": "Wagenknecht sei freundlich gewesen, zugewandt."
+                },
+                {
+                    "text": "\u00bbAlso von wegen Egotrip von Wagenknecht. Das ist \u00fcberhaupt nicht so\u00ab, sagt Suikat in seinem badischen Dialekt."
+                },
+                {
+                    "text": "\u00bbEs ist nicht so, dass sie alles allein bestimmt\u00ab, beteuert Suikat."
+                },
+                {
+                    "text": "Aber ohne Wagenknecht, das r\u00e4umt er ein, w\u00fcrde die Partei eben niemanden interessieren."
+                },
+                {
+                    "text": "Suikat hat Wagenknecht geholfen, ihren Verein \u00bbB\u00fcndnis Sahra Wagenknecht\u00ab zu gr\u00fcnden."
+                },
+                {
+                    "text": "Jetzt \u00fcberblickt Suikat die Spenden, hilft Wagenknecht aber auch bei der Suche nach geeigneten Kandidaten f\u00fcr ihr Projekt."
+                },
+                {
+                    "text": "In den ersten Wochen des Starts stehen die Finanzen von Wagenknechts Parteiprojekt im Fokus, Suikats Zust\u00e4ndigkeit."
+                },
+                {
+                    "text": "Inzwischen h\u00e4tten sie mehr als eine Million Euro eingesammelt."
+                },
+                {
+                    "text": "Er halte den Vorwurf f\u00fcr absurd, Wagenknecht oder die Partei k\u00f6nne durch den Kreml mitfinanziert werden."
+                },
+                {
+                    "text": "Dass Wagenknecht zu ihrem russlandnahen Image selbst einiges beigetragen hat, will er nicht gern h\u00f6ren."
+                },
+                {
+                    "text": "Ende Januar soll die Wagenknecht-Truppe ihren ersten Parteitag abhalten, etwa 400 Menschen sollen sich in einem Kino in der Hauptstadt treffen."
+                },
+                {
+                    "text": "Politisch sieht er die Sache so: Wagenknecht wolle all denen eine Heimat geben, die sich von den anderen Parteien nicht mehr geh\u00f6rt f\u00fchlen."
+                },
+                {
+                    "text": "Sie setze auf eine Mischung aus sozialdemokratisch-linker Wirtschaftspolitik, eher konservativer Gesellschaftspolitik und einem harten Anti-Establishmentkurs."
+                },
+                {
+                    "text": "Allerdings verpackt Wagenknecht ihre Thesen derart populistisch und zugespitzt, dass sie bisweilen an Verschw\u00f6rungserz\u00e4hlungen grenzen."
+                },
+                {
+                    "text": "Wenn man mit Suikat \u00fcber Politik spricht, tr\u00e4gt er im Kern Wagenknechts Thesen vor, wenngleich er sie deutlich weniger hart formuliert als das Original."
+                },
+                {
+                    "text": "\u00bbAch, hallo Ralph\u00ab, sagt Wagenknecht und umarmt Suikat herzlich, als begr\u00fc\u00dfe sie einen alten Freund."
+                },
+                {
+                    "text": "F\u00fcr sie ist das ungew\u00f6hnlich, weil sie selbst zu engen Weggef\u00e4hrten k\u00f6rperlich oft Distanz h\u00e4lt."
+                },
+                {
+                    "text": "Es ist ein Fototermin, Wagenknecht mit ihrem reichen Unterst\u00fctzer."
+                },
+                {
+                    "text": "\u00bbOhne ihn wei\u00df ich nicht, ob ich das gemacht h\u00e4tte. Das sage ich ehrlich\u00ab, sagt Wagenknecht."
+                },
+                {
+                    "text": "\u00bbIch h\u00e4tte es ohne Frau Wagenknecht auch nicht gemacht\u00ab, sagt Suikat und lacht."
+                },
+                {
+                    "text": "Klar: Ohne Wagenknecht w\u00fcrde es die Partei nicht geben."
+                },
+                {
+                    "text": "Doch sie macht ein verwundertes Gesicht, schaut um sich und l\u00e4chelt erst, als sie sieht, dass die anderen es auch tun."
+                },
+                {
+                    "text": "Wagenknecht ist bekannt daf\u00fcr, dass sie mit Ironie nicht gut umgehen kann, sie wom\u00f6glich oft nicht als solche erkennt."
+                },
+                {
+                    "text": "\u00bbJetzt schauen Sie sich einmal in die Augen\u00ab, sagt der Fotograf."
+                },
+                {
+                    "text": "Sein Blick wandert kurz durch den Raum, dann starrt er wieder ins Gesicht von Wagenknecht."
+                },
+                {
+                    "text": "Wagenknecht verzieht keine Miene."
+                },
+                {
+                    "text": "Sie lenkt das Gespr\u00e4ch auf die Bundespolitik, gerade musste sie rasch zu einer namentlichen Abstimmung ins Plenum."
+                },
+                {
+                    "text": "\u00bbJetzt versuchen sie noch, die Haushaltsl\u00f6cher zu stopfen. Sie k\u00f6nnten ja auch mal schauen bei den Multimillion\u00e4ren\u00ab, sagt Wagenknecht und blickt zu Suikat."
+                },
+                {
+                    "text": "\u00bbSeit wir uns kennen, stehen wir ja sehr eng im Austausch\u00ab, sagt Wagenknecht \u00fcber Suikat."
+                },
+                {
+                    "text": "Sie habe nicht untersch\u00e4tzt, wie viel Arbeit die Gr\u00fcndung einer Partei ausmache, es seien aber doch sehr viele Details, die sie nicht bedacht habe."
+                },
+                {
+                    "text": "\u00bbAlso meine urspr\u00fcngliche Vorstellung: Ich mache die Au\u00dfendarstellung, und andere k\u00fcmmern sich um die anderen Fragen, so einfach ist das nicht.\u00ab"
+                },
+                {
+                    "text": "Suikat sei eine gro\u00dfe Unterst\u00fctzung, betont sie mehrfach bei dem Fototermin."
+                },
+                {
+                    "text": "\u00bbDirekt an Frau Sahra Wagenknecht\u00ab, steht auf dem Umschlag."
+                },
+                {
+                    "text": "F\u00fcr den Europawahlkampf allein braucht Wagenknechts Projekt mehrere Millionen Euro."
+                },
+                {
+                    "text": "Gr\u00fcndet er die Partei mit Wagenknecht, weil ihm langweilig war?"
+                },
+                {
+                    "text": "Suikat glaubt an das Wagenknecht-Projekt."
+                }
+            ],
+            "occupations": [],
+            "directQuotes": [
+                {
+                    "text": "Tax me now"
+                },
+                {
+                    "text": "Jetzt versuchen sie noch, die Haushaltsl\u00f6cher zu stopfen. Sie k\u00f6nnten ja auch mal schauen bei den Multimillion\u00e4ren"
+                },
+                {
+                    "text": "Seit wir uns kennen, stehen wir ja sehr eng im Austausch"
+                },
+                {
+                    "text": "Hallo, ich habe gelesen, dass die neue Partei am 8. Januar gegr\u00fcndet wird. Das ist mein 87. Geburtstag. Es w\u00e4re sch\u00f6n, wenn ich aus diesem Anlass in die Partei aufgenommen w\u00fcrde."
+                },
+                {
+                    "text": "Direkt an Frau Sahra Wagenknecht"
+                }
+            ],
+            "quotedInTitle": true,
+            "quotedInIntro": true
+        },
+        {
+            "name": "Christian Leye",
+            "alternativeNames": [],
+            "age": -1,
+            "sex": "male",
+            "occurences": {
+                "total": 1,
+                "firstNameOnly": 0,
+                "lastNameOnly": 0,
+                "fullName": 1,
+                "nickname": 0
+            },
+            "inTitle": false,
+            "inIntro": false,
+            "_name": {
+                "firstname": "Christian",
+                "lastname": "Leye",
+                "nickname": null,
+                "alternative_names": [],
+                "academic_title": null,
+                "nobility_title_or_rank": null
+            },
+            "descriptiveTexts": [
+                {
+                    "text": "Drei von ihnen sind bekannte Wagenknecht-Vertraute wie der Linkenabgeordnete Christian Leye, er sagt: \u00bbWir machen das jetzt.\u00ab"
+                },
+                {
+                    "text": "Er kneift die Augen zusammen."
+                }
+            ],
+            "occupations": [
+                {
+                    "text": "Politiker"
+                }
+            ],
+            "directQuotes": [],
+            "quotedInTitle": false,
+            "quotedInIntro": false
+        }
+    ]
+}

@@ -1,0 +1,212 @@
+{
+    "persons": [
+        {
+            "name": "Ludger Appelhoff",
+            "alternativeNames": [],
+            "age": 65,
+            "sex": "male",
+            "occurences": {
+                "total": 3,
+                "firstNameOnly": 0,
+                "lastNameOnly": 2,
+                "fullName": 1,
+                "nickname": 0
+            },
+            "inTitle": false,
+            "inIntro": false,
+            "_name": {
+                "firstname": "Ludger",
+                "lastname": "Appelhoff",
+                "nickname": null,
+                "alternative_names": [],
+                "academic_title": null,
+                "nobility_title_or_rank": null
+            },
+            "descriptiveTexts": [
+                {
+                    "text": "Es ist, so steht es auf einem Pappschild, \u00bb5 vor 33\u00ab an diesem tristen Samstagmittag, als Ludger Appelhoff, 65 Jahre alt, 44 davon als Polizist, hinter einem schwarzen Block herl\u00e4uft."
+                },
+                {
+                    "text": "\u00bbAlle zusammen gegen den Faschismus\u00ab hallt es von vorne aus dem Zug und Appelhoff sagt: \u00bbIch h\u00e4tte vor ein paar Jahren nicht gedacht, dass ich mal bei einer solchen Demo mitlaufe.\u00ab"
+                },
+                {
+                    "text": "Dienstlich habe er solche Veranstaltungen h\u00e4ufiger begleitet."
+                },
+                {
+                    "text": "Aber jetzt, als frisch gebackener Rentner, hat sich Appelhoff eine gr\u00fcne Jacke angezogen, dar\u00fcber eine Weste der GdP, der Gewerkschaft der Polizei \u2013 und beschlossen, zu demonstrieren."
+                },
+                {
+                    "text": "\u00bbZu Hitlers Zeiten\u00ab, sagt er, \u00bbhat es vermutlich \u00e4hnlich angefangen\u00ab."
+                },
+                {
+                    "text": "Erst gegen 14.45 Uhr kommt der Demonstrationszug an der Halle an, \u00fcber eine Stunde war er zuvor durch den Duisburger Stadtteil gelaufen."
+                }
+            ],
+            "occupations": [
+                {
+                    "text": "Polizist"
+                },
+                {
+                    "text": "Rentner"
+                },
+                {
+                    "text": "Zu Hitlers Zeiten hat es vermutlich \u00e4hnlich angefangen"
+                }
+            ],
+            "directQuotes": [
+                {
+                    "text": "Ich h\u00e4tte vor ein paar Jahren nicht gedacht, dass ich mal bei einer solchen Demo mitlaufe."
+                }
+            ],
+            "quotedInTitle": false,
+            "quotedInIntro": false
+        },
+        {
+            "name": "Alice Weidel",
+            "alternativeNames": [],
+            "age": -1,
+            "sex": "female",
+            "occurences": {
+                "total": 4,
+                "firstNameOnly": 0,
+                "lastNameOnly": 2,
+                "fullName": 2,
+                "nickname": 0
+            },
+            "inTitle": false,
+            "inIntro": false,
+            "_name": {
+                "firstname": "Alice",
+                "lastname": "Weidel",
+                "nickname": null,
+                "alternative_names": [],
+                "academic_title": null,
+                "nobility_title_or_rank": null
+            },
+            "descriptiveTexts": [
+                {
+                    "text": "1100 Menschen werden erwartet, der NRW-Landesvorsitzende Martin Vincentz will sprechen, sp\u00e4ter die AfD-Bundessprecherin Alice Weidel."
+                },
+                {
+                    "text": "Als der AfD-Kreisverband am 16. Dezember auf seiner Homepage ver\u00f6ffentlichte, dass man \u00bbsehr stolz\u00ab sei, Alice Weidel als Ehrengast und Rednerin f\u00fcr den Neujahrsempfang begr\u00fc\u00dfen zu d\u00fcrfen, konnte er nicht ahnen, wie viel Aufmerksamkeit dieser Besuch auf sich ziehen w\u00fcrde."
+                },
+                {
+                    "text": "Der ehemalige Chef-Jurist des Leverkusener Bayer-Konzern gilt als Vertrauter und \u00bbrechte Hand\u00ab Weidels."
+                },
+                {
+                    "text": "Es w\u00e4re interessant zu h\u00f6ren gewesen, was Weidel oder andere Parteimitglieder zu den angedachten Pl\u00e4nen zu sagen gehabt h\u00e4tten."
+                }
+            ],
+            "occupations": [],
+            "directQuotes": [],
+            "quotedInTitle": false,
+            "quotedInIntro": false
+        },
+        {
+            "name": "Hitler oder Hitler",
+            "alternativeNames": [],
+            "age": -1,
+            "sex": "male",
+            "occurences": {
+                "total": 2,
+                "firstNameOnly": 0,
+                "lastNameOnly": 2,
+                "fullName": 0,
+                "nickname": 0
+            },
+            "inTitle": true,
+            "inIntro": false,
+            "_name": {
+                "firstname": "Adolf",
+                "lastname": "Hitler",
+                "nickname": null,
+                "alternative_names": [],
+                "academic_title": null,
+                "nobility_title_or_rank": null
+            },
+            "descriptiveTexts": [
+                {
+                    "text": "\u00bbZu Hitlers Zeiten hat es vermutlich \u00e4hnlich angefangen\u00ab"
+                },
+                {
+                    "text": "\u00bbZu Hitlers Zeiten\u00ab, sagt er, \u00bbhat es vermutlich \u00e4hnlich angefangen\u00ab."
+                }
+            ],
+            "occupations": [
+                {
+                    "text": "Zu Hitlers Zeiten hat es vermutlich \u00e4hnlich angefangen"
+                }
+            ],
+            "directQuotes": [],
+            "quotedInTitle": true,
+            "quotedInIntro": false
+        },
+        {
+            "name": "Martin Vincentz",
+            "alternativeNames": [],
+            "age": -1,
+            "sex": "male",
+            "occurences": {
+                "total": 1,
+                "firstNameOnly": 0,
+                "lastNameOnly": 0,
+                "fullName": 1,
+                "nickname": 0
+            },
+            "inTitle": false,
+            "inIntro": false,
+            "_name": {
+                "firstname": "Martin",
+                "lastname": "Vincentz",
+                "nickname": null,
+                "alternative_names": [],
+                "academic_title": null,
+                "nobility_title_or_rank": null
+            },
+            "descriptiveTexts": [
+                {
+                    "text": "1100 Menschen werden erwartet, der NRW-Landesvorsitzende Martin Vincentz will sprechen, sp\u00e4ter die AfD-Bundessprecherin Alice Weidel."
+                },
+                {
+                    "text": "Als der AfD-Kreisverband am 16. Dezember auf seiner Homepage ver\u00f6ffentlichte, dass man \u00bbsehr stolz\u00ab sei, Alice Weidel als Ehrengast und Rednerin f\u00fcr den Neujahrsempfang begr\u00fc\u00dfen zu d\u00fcrfen, konnte er nicht ahnen, wie viel Aufmerksamkeit dieser Besuch auf sich ziehen w\u00fcrde."
+                }
+            ],
+            "occupations": [],
+            "directQuotes": [],
+            "quotedInTitle": false,
+            "quotedInIntro": false
+        },
+        {
+            "name": "Roland Hartwig",
+            "alternativeNames": [],
+            "age": -1,
+            "sex": "male",
+            "occurences": {
+                "total": 1,
+                "firstNameOnly": 0,
+                "lastNameOnly": 0,
+                "fullName": 1,
+                "nickname": 0
+            },
+            "inTitle": false,
+            "inIntro": false,
+            "_name": {
+                "firstname": "Roland",
+                "lastname": "Hartwig",
+                "nickname": null,
+                "alternative_names": [],
+                "academic_title": null,
+                "nobility_title_or_rank": null
+            },
+            "descriptiveTexts": [
+                {
+                    "text": "Bei dem Potsdamer Treffen und dem Beratschlagen \u00fcber radikale Massenabschiebungen war, das hat die Partei mittlerweile best\u00e4tigt, auch Roland Hartwig dabei."
+                }
+            ],
+            "occupations": [],
+            "directQuotes": [],
+            "quotedInTitle": false,
+            "quotedInIntro": false
+        }
+    ]
+}

@@ -1,0 +1,252 @@
+{
+    "persons": [
+        {
+            "name": "Lange",
+            "alternativeNames": [
+                "Davide Grasso"
+            ],
+            "age": -1,
+            "sex": "male",
+            "occurences": {
+                "total": 8,
+                "firstNameOnly": 0,
+                "lastNameOnly": 3,
+                "fullName": 5,
+                "nickname": 0
+            },
+            "inTitle": false,
+            "inIntro": true,
+            "_name": {
+                "firstname": null,
+                "lastname": "Lange",
+                "nickname": null,
+                "alternative_names": [
+                    "Davide Grasso"
+                ],
+                "academic_title": null,
+                "nobility_title_or_rank": null
+            },
+            "descriptiveTexts": [
+                {
+                    "text": "Lange bei Nike, dann als CEO von Converse."
+                },
+                {
+                    "text": "Als Davide Grasso 2019 den Chefposten \u00fcbernahm, war Maserati ein Sanierungsfall."
+                },
+                {
+                    "text": "Hier schildert er, was er erlebt hat und wo er noch hinwill."
+                },
+                {
+                    "text": "Als Davide Grasso (59) im Juli 2019 als Chef bei Maserati anheuerte, stand es schlecht um die stolze italienische Luxusautomarke."
+                },
+                {
+                    "text": "Mit Grasso sollte ausgerechnet ein Manager ohne Erfahrung in der Automobilindustrie die Wende herbeif\u00fchren."
+                },
+                {
+                    "text": "Zuletzt f\u00fchrte er die Modemarke Converse, zuvor war der studierte Wirtschaftswissenschaftler lange Jahre bei Nike im Topmanagement."
+                },
+                {
+                    "text": "Anfang Mai sitzt Grasso gut gelaunt in seinem B\u00fcro in Modena."
+                },
+                {
+                    "text": "Im Videocall mit manager magazin beschreibt er seine Erfahrungen mit Maserati und seine Pl\u00e4ne f\u00fcr die Zukunft \u2013 \u00fcbrigens stereotyp italienisch: n\u00e4mlich wort- und gestenreich."
+                },
+                {
+                    "text": "\nmanager magazin: Herr Grasso, als Sie vor vier Jahren ins Unternehmen kamen, sagten Sie, Maserati st\u00fcnde an einem Scheideweg: Entweder gelingt jetzt die Wiedergeburt, oder die Marke verschwindet."
+                },
+                {
+                    "text": "Wo stehen Sie heute?"
+                },
+                {
+                    "text": "Davide Grasso: Maserati befindet sich auf einem nachhaltigen, langfristigen Wachstumskurs, den wir nat\u00fcrlich fortsetzen wollen."
+                },
+                {
+                    "text": "Und geben Sie uns noch ein bisschen Zeit: Ab 2027 wollen wir auf eine operative Umsatzrendite um die 20 Prozent kommen."
+                },
+                {
+                    "text": "Als ich zu Maserati kam, haben wir uns intensiv mit der DNA der Marke befasst."
+                },
+                {
+                    "text": "Wie wollen Sie da Ihre eigenen Anspr\u00fcche erf\u00fcllen?"
+                },
+                {
+                    "text": "Was werden Sie tun, um Ihre Margen zu sichern?"
+                },
+                {
+                    "text": "Ich sage Ihnen auch, warum."
+                },
+                {
+                    "text": "Ein Gl\u00fcck also, dass Sie so sp\u00e4t dran sind?"
+                },
+                {
+                    "text": "Sind Sie denn gar nicht an Selbstst\u00e4ndigkeit interessiert?"
+                },
+                {
+                    "text": "Was wollen Sie verbessern?"
+                },
+                {
+                    "text": "Ich gebe Ihnen drei Beispiele."
+                },
+                {
+                    "text": "Ich sehe dennoch keine Konkurrenten f\u00fcr uns."
+                },
+                {
+                    "text": "Sie waren vor Ihrer Zeit bei Maserati in der Modebranche t\u00e4tig."
+                },
+                {
+                    "text": "Mode- oder Luxusmarken sind sich bewusst, dass sie einen Lifestyle verkaufen."
+                },
+                {
+                    "text": "Im besten Fall denken unsere Kunden, wenn sie aufwachen, als Erstes an Maserati."
+                },
+                {
+                    "text": "Als ich vor vier Jahren hier angefangen habe, stellte ich mir auch die Frage, wie ich erfolgreich sein k\u00f6nnte."
+                },
+                {
+                    "text": "Glauben Sie mir: Es ist viel schwieriger, Autos zu verkaufen als Schuhe."
+                },
+                {
+                    "text": "Denn das kenne ich aus dem Sportbusiness."
+                },
+                {
+                    "text": "Und ich wei\u00df, was es bedeutet, den Kunden ins Zentrum zu stellen."
+                },
+                {
+                    "text": "Eingangs haben wir \u00fcber die Weggabelung gesprochen, an der Sie standen, als Sie zu Maserati gekommen sind."
+                },
+                {
+                    "text": "Vier Jahre sp\u00e4ter: Wo wollen Sie mit der Marke hin?"
+                }
+            ],
+            "occupations": [
+                {
+                    "text": "Gro\u00dfartig! Sparen ist eine gute Sache, weil man das Geld wieder in Wachstum investieren kann."
+                },
+                {
+                    "text": "Modemanager"
+                },
+                {
+                    "text": "Dort sind die Zyklen viel k\u00fcrzer. Darauf muss sich nun auch die Autobranche einstellen."
+                },
+                {
+                    "text": "Wir sind nicht das missverstandene Kind der Familie."
+                },
+                {
+                    "text": "Wir sind nicht das missverstandene Kind der Familie."
+                },
+                {
+                    "text": "Gro\u00dfartig! Sparen ist eine gute Sache, weil man das Geld wieder in Wachstum investieren kann."
+                },
+                {
+                    "text": "Sneakerk\u00f6nig"
+                },
+                {
+                    "text": "Modemanager"
+                },
+                {
+                    "text": "Wirtschaftswissenschaftler"
+                }
+            ],
+            "directQuotes": [
+                {
+                    "text": "Car Guys"
+                },
+                {
+                    "text": "Maserati befindet sich auf einem nachhaltigen, langfristigen Wachstumskurs, den wir nat\u00fcrlich fortsetzen wollen. Wir m\u00f6chten, dass Maserati die Marke ist, die weltweit f\u00fcr italienische Exzellenz steht und ein Synonym f\u00fcr Luxus ist. Unser Fokus ist die Marke, damit sind wir gro\u00df geworden; wir verlassen uns auf unsere Werte und stellen den Kunden in den Mittelpunkt."
+                }
+            ],
+            "quotedInTitle": false,
+            "quotedInIntro": true
+        },
+        {
+            "name": "Carlos Tavares",
+            "alternativeNames": [],
+            "age": -1,
+            "sex": "male",
+            "occurences": {
+                "total": 2,
+                "firstNameOnly": 1,
+                "lastNameOnly": 0,
+                "fullName": 1,
+                "nickname": 0
+            },
+            "inTitle": false,
+            "inIntro": false,
+            "_name": {
+                "firstname": "Carlos",
+                "lastname": "Tavares",
+                "nickname": null,
+                "alternative_names": [],
+                "academic_title": null,
+                "nobility_title_or_rank": null
+            },
+            "descriptiveTexts": [
+                {
+                    "text": "Wie f\u00fchlt es sich an, als Luxusmarke ausgerechnet von Stellantis-Chef Carlos Tavares regiert zu werden: dem K\u00f6nig der Kostenkontrolle."
+                },
+                {
+                    "text": "Und Carlos bem\u00fcht sich immer sehr, die Luxuspositionierung von Maserati zu verstehen und zu unterst\u00fctzen."
+                }
+            ],
+            "occupations": [
+                {
+                    "text": "Stellantis-Chef"
+                },
+                {
+                    "text": "Gro\u00dfartig! Sparen ist eine gute Sache, weil man das Geld wieder in Wachstum investieren kann."
+                },
+                {
+                    "text": "Wir sind nicht das missverstandene Kind der Familie."
+                }
+            ],
+            "directQuotes": [],
+            "quotedInTitle": false,
+            "quotedInIntro": false
+        },
+        {
+            "name": "Stellantis",
+            "alternativeNames": [],
+            "age": -1,
+            "sex": "unknown",
+            "occurences": {
+                "total": 4,
+                "firstNameOnly": 0,
+                "lastNameOnly": 0,
+                "fullName": 4,
+                "nickname": 0
+            },
+            "inTitle": false,
+            "inIntro": false,
+            "_name": {
+                "firstname": null,
+                "lastname": null,
+                "nickname": null,
+                "alternative_names": [],
+                "academic_title": null,
+                "nobility_title_or_rank": null
+            },
+            "descriptiveTexts": [
+                {
+                    "text": "W\u00e4hrend Lokalkonkurrent Ferrari Jahr f\u00fcr Jahr Margen um die 20 Prozent einfuhr, schrieb Maserati als Teil des Stellantis-Konzerns hohe Verluste."
+                },
+                {
+                    "text": "Maserati geh\u00f6rt zum Stellantis-Konzern."
+                },
+                {
+                    "text": "Wie f\u00fchlt es sich an, als Luxusmarke ausgerechnet von Stellantis-Chef Carlos Tavares regiert zu werden: dem K\u00f6nig der Kostenkontrolle."
+                },
+                {
+                    "text": "Die Ergebnisse von Stellantis sprechen f\u00fcr sich."
+                }
+            ],
+            "occupations": [
+                {
+                    "text": "Stellantis-Chef"
+                }
+            ],
+            "directQuotes": [],
+            "quotedInTitle": false,
+            "quotedInIntro": false
+        }
+    ]
+}

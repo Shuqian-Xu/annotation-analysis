@@ -1,0 +1,87 @@
+{
+    "persons": [
+        {
+            "name": "Centcom",
+            "alternativeNames": [],
+            "age": -1,
+            "sex": "unknown",
+            "occurences": {
+                "total": 1,
+                "firstNameOnly": 0,
+                "lastNameOnly": 0,
+                "fullName": 1,
+                "nickname": 0
+            },
+            "inTitle": false,
+            "inIntro": false,
+            "_name": {
+                "firstname": null,
+                "lastname": null,
+                "nickname": null,
+                "alternative_names": [],
+                "academic_title": null,
+                "nobility_title_or_rank": null
+            },
+            "descriptiveTexts": [
+                {
+                    "text": "Das zust\u00e4ndige Regionalkommando des US-Milit\u00e4rs, Centcom, sprach am Sonntag von 25 verletzten Soldaten, die Nachrichtenagentur Reuters berichtet von bis zu 34."
+                }
+            ],
+            "occupations": [],
+            "directQuotes": [],
+            "quotedInTitle": false,
+            "quotedInIntro": false
+        },
+        {
+            "name": "Joe Biden",
+            "alternativeNames": [],
+            "age": -1,
+            "sex": "male",
+            "occurences": {
+                "total": 5,
+                "firstNameOnly": 0,
+                "lastNameOnly": 3,
+                "fullName": 2,
+                "nickname": 0
+            },
+            "inTitle": false,
+            "inIntro": true,
+            "_name": {
+                "firstname": "Joe",
+                "lastname": "Biden",
+                "nickname": null,
+                "alternative_names": [],
+                "academic_title": null,
+                "nobility_title_or_rank": null
+            },
+            "descriptiveTexts": [
+                {
+                    "text": "\u00bbHeute ist das Herz der Amerikaner schwer\u00ab: Mit diesen Worten verurteilte US-Pr\u00e4sident Joe Biden einen t\u00f6dlichen Drohnenangriff auf US-Soldaten in Jordanien."
+                },
+                {
+                    "text": "Der Anschlag sei \u00bbvon radikalen, von Iran unterst\u00fctzten militanten Gruppen\u00ab ver\u00fcbt worden, die in Syrien und im Irak operierten, teilte US-Pr\u00e4sident Joe Biden am Sonntag mit."
+                },
+                {
+                    "text": "Biden drohte: \u00bbHaben Sie keinen Zweifel \u2013 wir werden alle Verantwortlichen zur Rechenschaft ziehen, zu einem Zeitpunkt und in einer Weise, die wir w\u00e4hlen.\u00ab"
+                },
+                {
+                    "text": "Biden betonte, dass die USA \u00bbim Kampf gegen den Terrorismus\u00ab zusammenst\u00fcnden."
+                },
+                {
+                    "text": "\u00bbHeute ist das Herz der Amerikaner schwer\u00ab, erkl\u00e4rte Biden."
+                }
+            ],
+            "occupations": [],
+            "directQuotes": [
+                {
+                    "text": "Heute ist das Herz der Amerikaner schwer"
+                },
+                {
+                    "text": "Es ist ein Kampf, den wir nicht aufgeben werden."
+                }
+            ],
+            "quotedInTitle": false,
+            "quotedInIntro": true
+        }
+    ]
+}

@@ -1,0 +1,401 @@
+{
+    "persons": [
+        {
+            "name": "Andr\u00e9",
+            "alternativeNames": [],
+            "age": -1,
+            "sex": "male",
+            "occurences": {
+                "total": 1,
+                "firstNameOnly": 0,
+                "lastNameOnly": 0,
+                "fullName": 1,
+                "nickname": 0
+            },
+            "inTitle": false,
+            "inIntro": false,
+            "_name": {
+                "firstname": "Andr\u00e9",
+                "lastname": null,
+                "nickname": null,
+                "alternative_names": [],
+                "academic_title": null,
+                "nobility_title_or_rank": null
+            },
+            "descriptiveTexts": [
+                {
+                    "text": "Andr\u00e9, ihr Lebensgef\u00e4hrte, hat COPD \u2013 nur noch 30 Prozent Lungenvolumen."
+                }
+            ],
+            "occupations": [
+                {
+                    "text": "COPD"
+                }
+            ],
+            "directQuotes": [],
+            "quotedInTitle": false,
+            "quotedInIntro": false
+        },
+        {
+            "name": "Ramona Linz",
+            "alternativeNames": [],
+            "age": 56,
+            "sex": "female",
+            "occurences": {
+                "total": 24,
+                "firstNameOnly": 3,
+                "lastNameOnly": 5,
+                "fullName": 12,
+                "nickname": 4
+            },
+            "inTitle": false,
+            "inIntro": true,
+            "_name": {
+                "firstname": "Ramona",
+                "lastname": "Linz",
+                "nickname": "Leckomio",
+                "alternative_names": [],
+                "academic_title": null,
+                "nobility_title_or_rank": null
+            },
+            "descriptiveTexts": [
+                {
+                    "text": "F\u00fcnf Jahre nach einem Zeckenbiss brach Ramona Linz zusammen und war von einem Tag auf den anderen behindert."
+                },
+                {
+                    "text": "Sie sagt: Die Krankheit war meine Rettung."
+                },
+                {
+                    "text": "Der Tag, an dem der K\u00f6rper von Ramona Linz den Geist aufgab, war ein Montag."
+                },
+                {
+                    "text": "Aber Ramona Linz, 56, wurde immer schw\u00e4cher."
+                },
+                {
+                    "text": "Vier Jahre sp\u00e4ter blickt Ramona Linz auf die schlimmste Zeit ihres Lebens zur\u00fcck: \u00bbIch bin zwei Jahre wie ein Zombie rumgelaufen, so heftig waren die Schmerzen.\u00ab"
+                },
+                {
+                    "text": "Linz ist sicher: \u00bbDie Grippe hat sie geweckt.\u00ab"
+                },
+                {
+                    "text": "Ramona Linz lebt heute mit einem Handicap, f\u00fchlt an schlechten Tagen ihre Finger nicht, leidet unter Schwindel und Gleichgewichtsst\u00f6rungen, die auch ihr altes Leben komplett aus dem Gleichgewicht gebracht haben."
+                },
+                {
+                    "text": "Umso \u00fcberraschender, dass sie ihrem Leid etwas Gutes abringen kann."
+                },
+                {
+                    "text": "Es klingt absurd, aber sie sagt: \u00bbDie Krankheit hat mir Gl\u00fcck gebracht.\u00ab"
+                },
+                {
+                    "text": "\u00bbLeckomio, Ramona!\u00ab"
+                },
+                {
+                    "text": "Ramona Linz ist keine Psychologin, aber sie ist eine Expertin im Fallen, Aufstehen, Weitergehen."
+                },
+                {
+                    "text": "Sie hat die Kehrtwende geschafft, macht heute etwas ganz anderes, etwas Au\u00dfergew\u00f6hnliches: Sie filzt Tiere und Figuren aus Wolle, alles Unikate."
+                },
+                {
+                    "text": "Sie dachte: \u00bbLeckomio, Ramona, wovon sollste jetzt leben?\u00ab"
+                },
+                {
+                    "text": "\u00bbNichts geht, das gibt es bei mir nicht. Es geht h\u00f6chstens schwer\u00ab, sagt sie und lacht."
+                },
+                {
+                    "text": "Sie hat sich gefragt: \u00bbLeckomio, Ramona, was nu?\u00ab"
+                },
+                {
+                    "text": "Ramona Linz hat die blonden Haare zu einem lockeren Zopf geflochten, weil sie so besser arbeiten kann: Der Weg zu ihrem neuen Leben f\u00fchrt durch ein braunes Garagentor."
+                },
+                {
+                    "text": "Den Job gibt es inzwischen nicht mehr, aber egal, das findet Ramona Linz sowieso schon fast normal."
+                },
+                {
+                    "text": "Ramona Linz hat sie vor zwei Jahren in den Nachbarraum geschleppt."
+                },
+                {
+                    "text": "\u00bbGlas f\u00fcr Glas, Gott, war ich fertig\u00ab, erinnert sie sich."
+                },
+                {
+                    "text": "\u00bbAn manchen Tagen konnte ich meine Kaffeetasse nicht halten, dann knickten meine Knie einfach weg\u00ab, sagt Linz."
+                },
+                {
+                    "text": "Sie hatte einen Plan."
+                },
+                {
+                    "text": "Sie wollte filzen."
+                },
+                {
+                    "text": "Das hatte sie zwar noch nie versucht, aber zuf\u00e4llig im Internet gelesen, dass man beim Filzen mit Wolle und warmer Seifenlauge arbeitet."
+                },
+                {
+                    "text": "Beim Wringen trainiere ich meine Finger."
+                },
+                {
+                    "text": "Au\u00dferdem schaffe ich was Sch\u00f6nes."
+                },
+                {
+                    "text": "Woher Ramona Linz ihre Zuversicht nimmt, kann sie nicht sagen."
+                },
+                {
+                    "text": "\u00bbAber ich habe mich schon immer \u00fcber jeden Schmetterling gefreut.\u00ab"
+                },
+                {
+                    "text": "Dann nimmt Linz die Bohrmaschine in die Hand, verlegt Fliesen oder schneidet Rigipsplatten."
+                },
+                {
+                    "text": "Sie sagt, positiv wie immer: \u00bbDas habe ich bei meiner Arbeit auf dem Bau gelernt. Jetzt zahlt es sich aus.\u00ab"
+                },
+                {
+                    "text": "Linz aber sagt: \u00bbSo ist es eben, das Leben.\u00ab"
+                },
+                {
+                    "text": "Hierhin zieht sich Ramona Linz zur\u00fcck, wenn sie Ruhe braucht."
+                },
+                {
+                    "text": "Sie arbeitet konzentriert, sticht mit einer langen, spitzen Nadel in ein wei\u00dfes Wollkn\u00e4uel vor ihr auf dem Tisch, zieht die Spitze mit den feinen Widerhaken wieder raus."
+                },
+                {
+                    "text": "Tiere und Figuren von Linz sind begehrt."
+                },
+                {
+                    "text": "Aus der Lebensk\u00fcnstlerin ist eine K\u00fcnstlerin geworden: Doch jede Figur, die im Keller entsteht, ist f\u00fcr sie immer noch ein Wunder: ein Happy End."
+                },
+                {
+                    "text": "Trotzdem hat es noch Monate gedauert, bis Ramona Linz \u00fcberhaupt eine Nadel halten konnte."
+                },
+                {
+                    "text": "\u00bbM\u00f6ge die Macht mit dir sein\u00ab, neckte sie ihren Enkel, dem sie das Werk zum neunten Geburtstag schenkte."
+                },
+                {
+                    "text": "Hat sie gemacht."
+                },
+                {
+                    "text": "\u00bbDie Macht ist in mir\u00ab, grinst sie."
+                }
+            ],
+            "occupations": [
+                {
+                    "text": "Wer auch weitergeht, wenn es mal R\u00fcckschl\u00e4ge gibt, der lernt mit der Zeit, wie man Widerst\u00e4nden trotzt."
+                },
+                {
+                    "text": "B\u00fcrokraft"
+                },
+                {
+                    "text": "Die Krankheit war meine Rettung."
+                },
+                {
+                    "text": "Leckomio, Ramona!"
+                }
+            ],
+            "directQuotes": [
+                {
+                    "text": "Ich habe mich schon immer \u00fcber jeden Schmetterling gefreut"
+                },
+                {
+                    "text": "Ich bin zwei Jahre wie ein Zombie rumgelaufen, so heftig waren die Schmerzen."
+                },
+                {
+                    "text": "Die Krankheit hat mir Gl\u00fcck gebracht."
+                },
+                {
+                    "text": "Nichts geht, das gibt es bei mir nicht. Es geht h\u00f6chstens schwer"
+                },
+                {
+                    "text": "Tief Luft holen, alle M\u00f6glichkeiten checken und sich fragen: \u203aWas kann ich rei\u00dfen, damit ich mich wieder auf die Beine kriege?\u2039"
+                },
+                {
+                    "text": "Willkommen in meinem Atelier!"
+                },
+                {
+                    "text": "Glas f\u00fcr Glas, Gott, war ich fertig"
+                },
+                {
+                    "text": "An manchen Tagen konnte ich meine Kaffeetasse nicht halten, dann knickten meine Knie einfach weg"
+                },
+                {
+                    "text": "Aber ich habe mich schon immer \u00fcber jeden Schmetterling gefreut."
+                },
+                {
+                    "text": "Mein K\u00f6rper funktioniert wieder."
+                }
+            ],
+            "quotedInTitle": false,
+            "quotedInIntro": true
+        },
+        {
+            "name": "Ruth Beckmann",
+            "alternativeNames": [],
+            "age": -1,
+            "sex": "female",
+            "occurences": {
+                "total": 1,
+                "firstNameOnly": 0,
+                "lastNameOnly": 0,
+                "fullName": 1,
+                "nickname": 0
+            },
+            "inTitle": false,
+            "inIntro": false,
+            "_name": {
+                "firstname": "Ruth",
+                "lastname": "Beckmann",
+                "nickname": null,
+                "alternative_names": [],
+                "academic_title": null,
+                "nobility_title_or_rank": null
+            },
+            "descriptiveTexts": [
+                {
+                    "text": "\u00bbUnt\u00e4tigkeit l\u00e4hmt, macht m\u00fcrbe. Wer optimistisch ist und handelt, st\u00e4rkt den K\u00f6rper und sch\u00fctzt den Geist\u00ab, sagt die K\u00f6lner Psychotherapeutin Ruth Beckmann."
+                },
+                {
+                    "text": "Sie ist \u00fcberzeugt: \u00bbWer auch weitergeht, wenn es mal R\u00fcckschl\u00e4ge gibt, der lernt mit der Zeit, wie man Widerst\u00e4nden trotzt.\u00ab"
+                }
+            ],
+            "occupations": [
+                {
+                    "text": "Wer optimistisch ist und handelt, st\u00e4rkt den K\u00f6rper und sch\u00fctzt den Geist"
+                },
+                {
+                    "text": "Psychotherapeutin"
+                },
+                {
+                    "text": "Wer auch weitergeht, wenn es mal R\u00fcckschl\u00e4ge gibt, der lernt mit der Zeit, wie man Widerst\u00e4nden trotzt"
+                }
+            ],
+            "directQuotes": [
+                {
+                    "text": "Unt\u00e4tigkeit l\u00e4hmt, macht m\u00fcrbe. Wer optimistisch ist und handelt, st\u00e4rkt den K\u00f6rper und sch\u00fctzt den Geist"
+                },
+                {
+                    "text": "Wer auch weitergeht, wenn es mal R\u00fcckschl\u00e4ge gibt, der lernt mit der Zeit, wie man Widerst\u00e4nden trotzt."
+                },
+                {
+                    "text": "positiven Lebenseinstellung"
+                },
+                {
+                    "text": "Wer sich st\u00e4ndig sorgenvoll fragt, welches Unheil kommt als n\u00e4chstes, reibt sich auf, verbraucht wertvolle Kraft"
+                },
+                {
+                    "text": "Mach weiter."
+                },
+                {
+                    "text": "Die Macht ist in mir"
+                }
+            ],
+            "quotedInTitle": false,
+            "quotedInIntro": false
+        },
+        {
+            "name": "Muriel B\u00f6ttger",
+            "alternativeNames": [],
+            "age": -1,
+            "sex": "female",
+            "occurences": {
+                "total": 1,
+                "firstNameOnly": 0,
+                "lastNameOnly": 0,
+                "fullName": 1,
+                "nickname": 0
+            },
+            "inTitle": false,
+            "inIntro": false,
+            "_name": {
+                "firstname": "Muriel",
+                "lastname": "B\u00f6ttger",
+                "nickname": null,
+                "alternative_names": [],
+                "academic_title": null,
+                "nobility_title_or_rank": null
+            },
+            "descriptiveTexts": [
+                {
+                    "text": "\u00bbWer sich st\u00e4ndig sorgenvoll fragt, welches Unheil kommt als n\u00e4chstes, reibt sich auf, verbraucht wertvolle Kraft\u00ab, erkl\u00e4rt die K\u00f6lner Psychologin Muriel B\u00f6ttger."
+                }
+            ],
+            "occupations": [
+                {
+                    "text": "Psychologin"
+                }
+            ],
+            "directQuotes": [],
+            "quotedInTitle": false,
+            "quotedInIntro": false
+        },
+        {
+            "name": "Mia",
+            "alternativeNames": [],
+            "age": -1,
+            "sex": "female",
+            "occurences": {
+                "total": 2,
+                "firstNameOnly": 0,
+                "lastNameOnly": 0,
+                "fullName": 2,
+                "nickname": 0
+            },
+            "inTitle": false,
+            "inIntro": false,
+            "_name": {
+                "firstname": "Mia",
+                "lastname": null,
+                "nickname": null,
+                "alternative_names": [],
+                "academic_title": null,
+                "nobility_title_or_rank": null
+            },
+            "descriptiveTexts": [
+                {
+                    "text": "Tausende Stiche braucht es, bis das Wollkn\u00e4uel schlie\u00dflich h\u00e4rter wird, zwischen zwei gr\u00fcnen Kulleraugen ein Stupsn\u00e4schen entsteht und dem K\u00e4tzchen immer \u00e4hnlicher wird, das auf einem Foto auf dem Arbeitstisch steht: Die echte Mia lebt in einem Altenheim."
+                },
+                {
+                    "text": "Alle Senioren lieben sie, doch sie ist schon sehr alt."
+                },
+                {
+                    "text": "Wenn sie mal tot ist, soll Filzk\u00e4tzchen Mia ihren Platz einnehmen \u2013 ein Therapiek\u00e4tzchen, zum Kuscheln und Liebhaben."
+                }
+            ],
+            "occupations": [],
+            "directQuotes": [],
+            "quotedInTitle": false,
+            "quotedInIntro": false
+        },
+        {
+            "name": "Yoda",
+            "alternativeNames": [],
+            "age": -1,
+            "sex": "unknown",
+            "occurences": {
+                "total": 1,
+                "firstNameOnly": 0,
+                "lastNameOnly": 0,
+                "fullName": 1,
+                "nickname": 0
+            },
+            "inTitle": false,
+            "inIntro": false,
+            "_name": {
+                "firstname": "Yoda",
+                "lastname": null,
+                "nickname": null,
+                "alternative_names": [],
+                "academic_title": null,
+                "nobility_title_or_rank": null
+            },
+            "descriptiveTexts": [
+                {
+                    "text": "Yoda, der Jedi-Meister aus dem Film \u00bbKrieg der Sterne\u00ab."
+                }
+            ],
+            "occupations": [
+                {
+                    "text": "Jedi-Meister"
+                }
+            ],
+            "directQuotes": [],
+            "quotedInTitle": false,
+            "quotedInIntro": false
+        }
+    ]
+}

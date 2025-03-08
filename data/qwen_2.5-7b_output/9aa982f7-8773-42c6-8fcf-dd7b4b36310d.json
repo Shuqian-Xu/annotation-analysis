@@ -1,0 +1,366 @@
+{
+    "persons": [
+        {
+            "name": "Christian Drosten",
+            "alternativeNames": [],
+            "age": -1,
+            "sex": "male",
+            "occurences": {
+                "total": 32,
+                "firstNameOnly": 0,
+                "lastNameOnly": 26,
+                "fullName": 6,
+                "nickname": 0
+            },
+            "inTitle": false,
+            "inIntro": true,
+            "_name": {
+                "firstname": "Christian",
+                "lastname": "Drosten",
+                "nickname": null,
+                "alternative_names": [],
+                "academic_title": "Professor",
+                "nobility_title_or_rank": null
+            },
+            "descriptiveTexts": [
+                {
+                    "text": "\u00bbIch bin ein richtiger Doktor\u00ab"
+                },
+                {
+                    "text": "Drei Dauercamper sollen Christian Drosten 2022 auf einem Zeltplatz beleidigt haben."
+                },
+                {
+                    "text": "Christian Drosten betritt das Amtsgericht durch einen Seiteneingang."
+                },
+                {
+                    "text": "Er ist Zeuge in diesem Verfahren."
+                },
+                {
+                    "text": "Doch bisweilen wirkt es, als sei er der Angeklagte."
+                },
+                {
+                    "text": "Und doch ist es Christian Drosten, der an diesem Tag in die Defensive ger\u00e4t."
+                },
+                {
+                    "text": "\u00bbScharfmacher\u00ab wird Drosten einmal genannt."
+                },
+                {
+                    "text": "Es beginnt harmlos, Christian Drosten hat im Gerichtssaal Platz genommen."
+                },
+                {
+                    "text": "Auf die Frage, was er beruflich mache, sagt er: \u00bbIch bin Arzt.\u00ab"
+                },
+                {
+                    "text": "Nach einer Pause erg\u00e4nzt er noch, dass er einen Lehrstuhl f\u00fcr Virologie in Berlin halte."
+                },
+                {
+                    "text": "In der Pandemie wurde Drosten zur Projektionsfl\u00e4che vieler Menschen, die sich \u00fcber die Kritik an den Coronama\u00dfnahmen radikalisierten."
+                },
+                {
+                    "text": "Auch das ist eine Anekdote, die Drosten mal preisgegeben hat."
+                },
+                {
+                    "text": "Doch das, was da auf dem Campingplatz an der Mecklenburgischen Seenplatte geschehen war, sagt Christian Drosten vor dem Amtsgericht, sei \u00bbeinzigartig\u00ab gewesen."
+                },
+                {
+                    "text": "\u00bbIch habe mich bedroht und beleidigt gef\u00fchlt.\u00ab"
+                },
+                {
+                    "text": "Drosten erz\u00e4hlt, er habe mit seiner Familie im Juni 2022 eine Nacht auf einem Naturcampingplatz verbracht."
+                },
+                {
+                    "text": "Am Samstagabend sei er mit seinem Sohn vom Z\u00e4hneputzen gekommen, als sich ihnen ein Mann mit Bierflasche in den Weg gestellt habe."
+                },
+                {
+                    "text": "\u00bbBist du Drosten?\u00ab habe der Mann gegr\u00f6lt."
+                },
+                {
+                    "text": "Drosten sagt, er habe sich in dem Moment mit seinem vier Jahre alten Sohn an der Hand \u00bbvulnerabel\u00ab gef\u00fchlt."
+                },
+                {
+                    "text": "\u00bbMan macht sich Sorgen und Gedanken, was das mit einem Kind macht\u00ab, sagt er."
+                },
+                {
+                    "text": "Als der Verteidiger ihm sp\u00e4ter vorh\u00e4lt, sein Sohn sei ja fast f\u00fcnf gewesen, antwortet Drosten mit Zorn in der Stimme: \u00bbUnd da meinen Sie, der ist robuster?\u00ab"
+                },
+                {
+                    "text": "Der Mann mit der Bierflasche, der vor Drostens Sohn gr\u00f6lte, ist Maik S., ein 49 Jahre alter Berliner, der mit seiner ebenfalls angeklagten Partnerin Katrin W. als Dauercamper einen Wohnwagen auf dem Zeltplatz gemietet hatte."
+                },
+                {
+                    "text": "Er ist offenbar \u00fcberzeugt davon, dass Drosten Anh\u00e4nger eines geheimen Bundes ist, wie Sprachnachrichten laut den Ermittlungen ergeben haben."
+                },
+                {
+                    "text": "Als er Drosten auf dem Campingplatz erblickte, muss es sich f\u00fcr ihn so angef\u00fchlt haben, als zeltete der Teufel selbst mit ihm auf der Wiese."
+                },
+                {
+                    "text": "\u00bbBoah ich zittere gerade vor Aufregung. Ich sitze hier auf einem Zeltplatz und hier l\u00e4uft scheinbar Drosten mit Familie rum\u00ab, tippte Maik S. in sein Handy und schickte die Nachricht in zwei einschl\u00e4gige Telegram-Gruppen."
+                },
+                {
+                    "text": "Danach soll er Drosten heimlich fotografiert haben, als der mit seiner Familie auf einem Spielplatz war."
+                },
+                {
+                    "text": "Dreimal begegnete Drosten den Angeklagten an dem Wochenende im Juni."
+                },
+                {
+                    "text": "Katrin W. soll dem Virologen vorgehalten haben, er sei ein Straft\u00e4ter, der f\u00fcr das Leiden ihres Kindes verantwortlich sei, da ihr Kind Masken habe tragen m\u00fcssen."
+                },
+                {
+                    "text": "Au\u00dferdem habe sie ihn mit einem \u00bbRedeschwall aus F\u00e4kalw\u00f6rtern\u00ab belegt, sagt Drosten."
+                },
+                {
+                    "text": "\u00bbWenn ich als Person in der \u00d6ffentlichkeit bedroht und beleidigt werde, da m\u00f6chte ich gesch\u00fctzt werden\u00ab, sagt er nun vor Gericht."
+                },
+                {
+                    "text": "Drosten geh\u00f6re ins Gef\u00e4ngnis und wolle sie alle umbringen, so in etwa sollen sie es vor den Polizisten gesagt haben. Maik S. verliest vor Gericht ein Gest\u00e4ndnis, in dem er zugibt, Drosten als \u00bbgr\u00f6\u00dften Verbrecher, der frei ruml\u00e4uft\u00ab bezeichnet zu haben."
+                },
+                {
+                    "text": "Doch r\u00fcckt das Geschehen auf dem Campingplatz immer wieder in den Hintergrund. Maik S. l\u00e4sst seinen Verteidiger zwar um Vergebung bitten \u2013 nur, um Drosten kurz darauf zu fragen, ob er seinen Doktortitel zu Recht f\u00fchre."
+                },
+                {
+                    "text": "Drosten stellt klar: \u00bbIch bin ein richtiger Doktor.\u00ab"
+                },
+                {
+                    "text": "Einer der Verteidiger h\u00e4lt Drosten den Anstieg \u00bbemotionaler St\u00f6rungen\u00ab 15- bis 17-J\u00e4hriger in der Pandemie vor oder den des \u00bbmultiplen Suchtmittelmissbrauchs\u00ab."
+                },
+                {
+                    "text": "Drosten reagiert w\u00fctend auf derlei Vorhaltungen."
+                },
+                {
+                    "text": "Er sch\u00fcttelt energisch den Kopf, rutscht auf seinem Stuhl vor und zur\u00fcck."
+                },
+                {
+                    "text": "\u00bb\u00dcberlegen Sie, was Sie hier verbreiten\u00ab, ruft er, als es um Suizidraten junger Menschen geht."
+                },
+                {
+                    "text": "\u00bbDarf ich Sie zur\u00fcckfragen, ob Sie das respektlos finden, wenn man sagt, Sie haben Kinder auf dem Gewissen\u00ab, gibt Drosten zur\u00fcck."
+                },
+                {
+                    "text": "\u00bbF\u00fchlen Sie sich bitte nicht so angesprochen, Herr Professor Drosten\u00ab"
+                },
+                {
+                    "text": "Mit ihrem Vorgehen versuchen die Anw\u00e4lte offenbar, den Hass der Angeklagten auf Drosten irgendwie rational erscheinen zu lassen."
+                },
+                {
+                    "text": "Und Drosten l\u00e4sst sich darauf ein, jede b\u00f6se Vorlage nimmt er auf."
+                },
+                {
+                    "text": "Einmal sagt der Richter zu ihm: \u00bbF\u00fchlen Sie sich bitte nicht so angesprochen, Herr Professor Drosten.\u00ab"
+                },
+                {
+                    "text": "Christian Drosten betont, die allermeisten Begegnungen in der \u00d6ffentlichkeit verliefen positiv."
+                },
+                {
+                    "text": "Mehr als drei Stunden dauert die Vernehmung des Zeugen Drosten."
+                }
+            ],
+            "occupations": [
+                {
+                    "text": "Doktor"
+                },
+                {
+                    "text": "Projektionsfl\u00e4che"
+                },
+                {
+                    "text": "Arzt"
+                }
+            ],
+            "directQuotes": [
+                {
+                    "text": "Ich bin Arzt."
+                },
+                {
+                    "text": "Man macht sich Sorgen und Gedanken, was das mit einem Kind macht"
+                },
+                {
+                    "text": "Wenn ich als Person in der \u00d6ffentlichkeit bedroht und beleidigt werde, da m\u00f6chte ich gesch\u00fctzt werden"
+                },
+                {
+                    "text": "Ich bin ein richtiger Doktor."
+                },
+                {
+                    "text": "F\u00fchlen Sie sich bitte nicht so angesprochen, Herr Professor Drosten."
+                }
+            ],
+            "quotedInTitle": false,
+            "quotedInIntro": true
+        },
+        {
+            "name": "Franziska K.",
+            "alternativeNames": [],
+            "age": 34,
+            "sex": "female",
+            "occurences": {
+                "total": 1,
+                "firstNameOnly": 1,
+                "lastNameOnly": 0,
+                "fullName": 0,
+                "nickname": 0
+            },
+            "inTitle": false,
+            "inIntro": false,
+            "_name": {
+                "firstname": "Franziska",
+                "lastname": "K.",
+                "nickname": null,
+                "alternative_names": [],
+                "academic_title": null,
+                "nobility_title_or_rank": null
+            },
+            "descriptiveTexts": [
+                {
+                    "text": "Sie schickten ihm Blut \u2013 \u00bbTrink das, dann wirst du immun\u00ab, so hatte es der Wissenschaftler erz\u00e4hlt."
+                },
+                {
+                    "text": "Inzwischen hat man sie rausgeworfen."
+                },
+                {
+                    "text": "Die ebenfalls angeklagte Franziska K., 34, nannte ihn einen Verbrecher, der Kinder auf dem Gewissen habe."
+                },
+                {
+                    "text": "F\u00fcr ihre Worte bittet sie vor Gericht um Entschuldigung."
+                },
+                {
+                    "text": "Drosten geh\u00f6re ins Gef\u00e4ngnis und wolle sie alle umbringen, so in etwa sollen sie es vor den Polizisten gesagt haben. Maik S. verliest vor Gericht ein Gest\u00e4ndnis, in dem er zugibt, Drosten als \u00bbgr\u00f6\u00dften Verbrecher, der frei ruml\u00e4uft\u00ab bezeichnet zu haben."
+                }
+            ],
+            "occupations": [],
+            "directQuotes": [],
+            "quotedInTitle": false,
+            "quotedInIntro": false
+        },
+        {
+            "name": "Maik S.",
+            "alternativeNames": [],
+            "age": 49,
+            "sex": "male",
+            "occurences": {
+                "total": 13,
+                "firstNameOnly": 5,
+                "lastNameOnly": 8,
+                "fullName": 0,
+                "nickname": 0
+            },
+            "inTitle": false,
+            "inIntro": true,
+            "_name": {
+                "firstname": "Maik",
+                "lastname": "S.",
+                "nickname": null,
+                "alternative_names": [],
+                "academic_title": null,
+                "nobility_title_or_rank": null
+            },
+            "descriptiveTexts": [
+                {
+                    "text": "Sie schickten ihm Blut \u2013 \u00bbTrink das, dann wirst du immun\u00ab, so hatte es der Wissenschaftler erz\u00e4hlt."
+                },
+                {
+                    "text": "Der Mann mit der Bierflasche, der vor Drostens Sohn gr\u00f6lte, ist Maik S., ein 49 Jahre alter Berliner, der mit seiner ebenfalls angeklagten Partnerin Katrin W. als Dauercamper einen Wohnwagen auf dem Zeltplatz gemietet hatte."
+                },
+                {
+                    "text": "Inzwischen hat man sie rausgeworfen."
+                },
+                {
+                    "text": "\nMaik S. hatte sich schon vor diesem Wochenende in allerlei Verschw\u00f6rungen verloren."
+                },
+                {
+                    "text": "Er war in \u00bbQuerdenker\u00ab-Chatgruppen bei Telegram aktiv."
+                },
+                {
+                    "text": "Er ist offenbar \u00fcberzeugt davon, dass Drosten Anh\u00e4nger eines geheimen Bundes ist, wie Sprachnachrichten laut den Ermittlungen ergeben haben."
+                },
+                {
+                    "text": "\u00bbBoah ich zittere gerade vor Aufregung\u00ab"
+                },
+                {
+                    "text": "Als er Drosten auf dem Campingplatz erblickte, muss es sich f\u00fcr ihn so angef\u00fchlt haben, als zeltete der Teufel selbst mit ihm auf der Wiese."
+                },
+                {
+                    "text": "\u00bbBoah ich zittere gerade vor Aufregung. Ich sitze hier auf einem Zeltplatz und hier l\u00e4uft scheinbar Drosten mit Familie rum\u00ab, tippte Maik S. in sein Handy und schickte die Nachricht in zwei einschl\u00e4gige Telegram-Gruppen."
+                },
+                {
+                    "text": "Er versuchte, Gleichgesinnte zum Campingplatz zu locken, was ihm nicht gelang."
+                },
+                {
+                    "text": "Danach soll er Drosten heimlich fotografiert haben, als der mit seiner Familie auf einem Spielplatz war."
+                },
+                {
+                    "text": "Drosten geh\u00f6re ins Gef\u00e4ngnis und wolle sie alle umbringen, so in etwa sollen sie es vor den Polizisten gesagt haben. Maik S. verliest vor Gericht ein Gest\u00e4ndnis, in dem er zugibt, Drosten als \u00bbgr\u00f6\u00dften Verbrecher, der frei ruml\u00e4uft\u00ab bezeichnet zu haben."
+                },
+                {
+                    "text": "Doch r\u00fcckt das Geschehen auf dem Campingplatz immer wieder in den Hintergrund. Maik S. l\u00e4sst seinen Verteidiger zwar um Vergebung bitten \u2013 nur, um Drosten kurz darauf zu fragen, ob er seinen Doktortitel zu Recht f\u00fchre."
+                }
+            ],
+            "occupations": [],
+            "directQuotes": [
+                {
+                    "text": "Ich habe mich bedroht und beleidigt gef\u00fchlt."
+                },
+                {
+                    "text": "Und da meinen Sie, der ist robuster?"
+                },
+                {
+                    "text": "Querdenker"
+                },
+                {
+                    "text": "Boah ich zittere gerade vor Aufregung. Ich sitze hier auf einem Zeltplatz und hier l\u00e4uft scheinbar Drosten mit Familie rum"
+                },
+                {
+                    "text": "Darf ich Sie zur\u00fcckfragen, ob Sie das respektlos finden, wenn man sagt, Sie haben Kinder auf dem Gewissen"
+                }
+            ],
+            "quotedInTitle": false,
+            "quotedInIntro": true
+        },
+        {
+            "name": "Katrin W.",
+            "alternativeNames": [],
+            "age": -1,
+            "sex": "female",
+            "occurences": {
+                "total": 7,
+                "firstNameOnly": 2,
+                "lastNameOnly": 5,
+                "fullName": 0,
+                "nickname": 0
+            },
+            "inTitle": false,
+            "inIntro": false,
+            "_name": {
+                "firstname": "Katrin",
+                "lastname": "W.",
+                "nickname": null,
+                "alternative_names": [],
+                "academic_title": null,
+                "nobility_title_or_rank": null
+            },
+            "descriptiveTexts": [
+                {
+                    "text": "Sie schickten ihm Blut \u2013 \u00bbTrink das, dann wirst du immun\u00ab, so hatte es der Wissenschaftler erz\u00e4hlt."
+                },
+                {
+                    "text": "Der Mann mit der Bierflasche, der vor Drostens Sohn gr\u00f6lte, ist Maik S., ein 49 Jahre alter Berliner, der mit seiner ebenfalls angeklagten Partnerin Katrin W. als Dauercamper einen Wohnwagen auf dem Zeltplatz gemietet hatte."
+                },
+                {
+                    "text": "Inzwischen hat man sie rausgeworfen."
+                },
+                {
+                    "text": "Katrin W. soll dem Virologen vorgehalten haben, er sei ein Straft\u00e4ter, der f\u00fcr das Leiden ihres Kindes verantwortlich sei, da ihr Kind Masken habe tragen m\u00fcssen."
+                },
+                {
+                    "text": "Au\u00dferdem habe sie ihn mit einem \u00bbRedeschwall aus F\u00e4kalw\u00f6rtern\u00ab belegt, sagt Drosten."
+                },
+                {
+                    "text": "Am Ende rief er die Polizei."
+                },
+                {
+                    "text": "Drosten geh\u00f6re ins Gef\u00e4ngnis und wolle sie alle umbringen, so in etwa sollen sie es vor den Polizisten gesagt haben. Maik S. verliest vor Gericht ein Gest\u00e4ndnis, in dem er zugibt, Drosten als \u00bbgr\u00f6\u00dften Verbrecher, der frei ruml\u00e4uft\u00ab bezeichnet zu haben."
+                }
+            ],
+            "occupations": [],
+            "directQuotes": [],
+            "quotedInTitle": false,
+            "quotedInIntro": false
+        }
+    ]
+}

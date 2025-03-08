@@ -1,0 +1,775 @@
+{
+    "persons": [
+        {
+            "name": "Theodor Herzl",
+            "alternativeNames": [],
+            "age": -1,
+            "sex": "male",
+            "occurences": {
+                "total": 2,
+                "firstNameOnly": 0,
+                "lastNameOnly": 1,
+                "fullName": 1,
+                "nickname": 0
+            },
+            "inTitle": false,
+            "inIntro": false,
+            "_name": {
+                "firstname": "Theodor",
+                "lastname": "Herzl",
+                "nickname": null,
+                "alternative_names": [],
+                "academic_title": null,
+                "nobility_title_or_rank": null
+            },
+            "descriptiveTexts": [
+                {
+                    "text": "\u00bbIch sehe nicht, dass gro\u00dfes Interesse besteht, die antisemitischen Inhalte zu entfernen\u00ab, sagt Wissenschaftler Gering."
+                },
+                {
+                    "text": "Ben-Canaan sagt, er halte es mit Theodor Herzl, dem Vordenker des Zionismus."
+                },
+                {
+                    "text": "\u00bbHerzl schreibt: Wo Juden sind, gibt es Antisemitismus. Wo auch immer sie hingehen, wird Antisemitismus folgen. Dem stimme ich zu.\u00ab"
+                }
+            ],
+            "occupations": [
+                {
+                    "text": "Vordenker des Zionismus"
+                }
+            ],
+            "directQuotes": [
+                {
+                    "text": "Herzl schreibt: Wo Juden sind, gibt es Antisemitismus. Wo auch immer sie hingehen, wird Antisemitismus folgen. Dem stimme ich zu."
+                }
+            ],
+            "quotedInTitle": false,
+            "quotedInIntro": false
+        },
+        {
+            "name": "Josef Olmert",
+            "alternativeNames": [],
+            "age": -1,
+            "sex": "male",
+            "occurences": {
+                "total": 1,
+                "firstNameOnly": 0,
+                "lastNameOnly": 0,
+                "fullName": 1,
+                "nickname": 0
+            },
+            "inTitle": false,
+            "inIntro": false,
+            "_name": {
+                "firstname": "Josef",
+                "lastname": "Olmert",
+                "nickname": null,
+                "alternative_names": [],
+                "academic_title": null,
+                "nobility_title_or_rank": null
+            },
+            "descriptiveTexts": [
+                {
+                    "text": "Das Grab des russischen Einwanderers Josef Olmert, der in Harbin gelebt hatte und 1941 hier starb."
+                }
+            ],
+            "occupations": [],
+            "directQuotes": [],
+            "quotedInTitle": false,
+            "quotedInIntro": false
+        },
+        {
+            "name": "Leo Trotzki",
+            "alternativeNames": [],
+            "age": -1,
+            "sex": "male",
+            "occurences": {
+                "total": 1,
+                "firstNameOnly": 0,
+                "lastNameOnly": 0,
+                "fullName": 1,
+                "nickname": 0
+            },
+            "inTitle": false,
+            "inIntro": false,
+            "_name": {
+                "firstname": "Leo",
+                "lastname": "Trotzki",
+                "nickname": null,
+                "alternative_names": [],
+                "academic_title": null,
+                "nobility_title_or_rank": null
+            },
+            "descriptiveTexts": [
+                {
+                    "text": "Und eine ganze Wand mit Bildern j\u00fcdischer Geistesgr\u00f6\u00dfen: Karl Marx, Franz Kafka, Leo Trotzki, Albert Einstein, Rosa Luxemburg."
+                }
+            ],
+            "occupations": [],
+            "directQuotes": [],
+            "quotedInTitle": false,
+            "quotedInIntro": false
+        },
+        {
+            "name": "Dan Ben-Canaan",
+            "alternativeNames": [],
+            "age": 78,
+            "sex": "male",
+            "occurences": {
+                "total": 9,
+                "firstNameOnly": 0,
+                "lastNameOnly": 7,
+                "fullName": 2,
+                "nickname": 0
+            },
+            "inTitle": false,
+            "inIntro": false,
+            "_name": {
+                "firstname": "Dan",
+                "lastname": "Ben-Canaan",
+                "nickname": null,
+                "alternative_names": [],
+                "academic_title": null,
+                "nobility_title_or_rank": null
+            },
+            "descriptiveTexts": [
+                {
+                    "text": "Als an einem Freitagabend der Schabbat beginnt, isst Dan Ben-Canaan chinesische Jiaozi, Teigtaschen, gef\u00fcllt mit Schweinefleisch."
+                },
+                {
+                    "text": "Schlie\u00dflich ist er der einzige Jude in dieser Siebenmillionenstadt in Heilongjiang, einer Provinz in Chinas eisigem Nordosten."
+                },
+                {
+                    "text": "\u00bbViele Leute denken, dass China sich dem j\u00fcdischen Volk nahe f\u00fchle und die beiden Kulturen einander \u00e4hnelten\u00ab, sagt Ben-Canaan."
+                },
+                {
+                    "text": "So sieht es auch der 78-j\u00e4hrige Historiker Dan Ben-Canaan, heute laut eigenen Aussagen der einzige Jude in Harbin."
+                },
+                {
+                    "text": "\u00bbWenn ich in China jemanden treffe und der erf\u00e4hrt, dass ich Jude bin, bekomme ich sofort zu h\u00f6ren: Oh, du bist so schlau, du bist so reich\u00ab, sagt er."
+                },
+                {
+                    "text": "\u00bbIch finde diese Stereotypen sehr beleidigend. Tats\u00e4chlich bin ich nicht sehr schlau, und ich bin furchtbar arm, wissen Sie?\u00ab"
+                },
+                {
+                    "text": "Nach China ist Ben-Canaan vor mehr als zwei Jahrzehnten gezogen, der Liebe wegen."
+                },
+                {
+                    "text": "In Harbin gr\u00fcndete er 2002 das Sino-Israel Research and Study Center \u2013 Konkurrenz f\u00fcr Zhangs Institut."
+                },
+                {
+                    "text": "Ben-Canaan kontaktierte Hunderte j\u00fcdische Familien in aller Welt, deren Vorfahren einst in Harbin lebten."
+                },
+                {
+                    "text": "Sie schickten ihm Fotos, Dokumente, Tageb\u00fccher, Filmaufnahmen, er f\u00fchrte Interviews mit ihnen."
+                },
+                {
+                    "text": "Aus dem Material destillierte er eine Erz\u00e4hlung \u00fcber das j\u00fcdische Harbin, die ganz anders klingt als das offizielle Narrativ, das Zhang mitgepr\u00e4gt hat."
+                },
+                {
+                    "text": "Sicher, sagt Ben-Canaan, manche der Einwanderer h\u00e4tten Erfolg gehabt, Fabriken gegr\u00fcndet und Handelskontore betrieben."
+                },
+                {
+                    "text": "\u00bbDie meisten hatten eine schwierige Zeit hier\u00ab, sagt er."
+                },
+                {
+                    "text": "Ben-Canaan findet das absurd."
+                },
+                {
+                    "text": "Die russischen Besatzer h\u00e4tten ihren Antisemitismus nach Heilongjiang mitgebracht, im Laufe der Jahre sei manches Vorurteil in das Denken der chinesischen Bev\u00f6lkerung eingesickert, sagt er."
+                },
+                {
+                    "text": "\u00bbAutorit\u00e4re Regime glauben, dass sie alles kontrollieren k\u00f6nnen, einschlie\u00dflich der Geschichte\u00ab, sagt Ben-Canaan."
+                },
+                {
+                    "text": "Ben-Canaan sagt, er halte es mit Theodor Herzl, dem Vordenker des Zionismus."
+                },
+                {
+                    "text": "\u00bbHerzl schreibt: Wo Juden sind, gibt es Antisemitismus. Wo auch immer sie hingehen, wird Antisemitismus folgen. Dem stimme ich zu.\u00ab"
+                },
+                {
+                    "text": "Trotzdem liebe er das Land."
+                },
+                {
+                    "text": "\u00bbChina ist mein Zuhause\u00ab, sagt er, \u00bbich habe kein anderes.\u00ab"
+                }
+            ],
+            "occupations": [
+                {
+                    "text": "Historiker"
+                }
+            ],
+            "directQuotes": [
+                {
+                    "text": "Ich begriff, dass viele derer, die einst die Elite der Stadt bildeten, Juden waren. So begann mein Interesse am j\u00fcdischen Volk."
+                },
+                {
+                    "text": "Ich finde diese Stereotypen sehr beleidigend. Tats\u00e4chlich bin ich nicht sehr schlau, und ich bin furchtbar arm, wissen Sie?"
+                },
+                {
+                    "text": "China ist mein Zuhause"
+                },
+                {
+                    "text": "ich habe kein anderes."
+                }
+            ],
+            "quotedInTitle": false,
+            "quotedInIntro": false
+        },
+        {
+            "name": "Ehud Olmert",
+            "alternativeNames": [],
+            "age": -1,
+            "sex": "male",
+            "occurences": {
+                "total": 6,
+                "firstNameOnly": 0,
+                "lastNameOnly": 3,
+                "fullName": 3,
+                "nickname": 0
+            },
+            "inTitle": false,
+            "inIntro": false,
+            "_name": {
+                "firstname": "Ehud",
+                "lastname": "Olmert",
+                "nickname": null,
+                "alternative_names": [],
+                "academic_title": null,
+                "nobility_title_or_rank": null
+            },
+            "descriptiveTexts": [
+                {
+                    "text": "Am Grab von Ehud Olmerts Opa"
+                },
+                {
+                    "text": "Sein Enkel, Israels Ex-Premier Ehud Olmert, hat die letzte Ruhest\u00e4tte seines Gro\u00dfvaters 2009 besucht."
+                },
+                {
+                    "text": "Hinter Glas ein Dankesbrief Ehud Olmerts."
+                }
+            ],
+            "occupations": [
+                {
+                    "text": "Ex-Premier"
+                }
+            ],
+            "directQuotes": [],
+            "quotedInTitle": false,
+            "quotedInIntro": false
+        },
+        {
+            "name": "Uncle Sam",
+            "alternativeNames": [],
+            "age": -1,
+            "sex": "unknown",
+            "occurences": {
+                "total": 1,
+                "firstNameOnly": 0,
+                "lastNameOnly": 0,
+                "fullName": 1,
+                "nickname": 0
+            },
+            "inTitle": false,
+            "inIntro": false,
+            "_name": {
+                "firstname": "Uncle Sam",
+                "lastname": null,
+                "nickname": null,
+                "alternative_names": [],
+                "academic_title": null,
+                "nobility_title_or_rank": null
+            },
+            "descriptiveTexts": [
+                {
+                    "text": "Ein Cartoon der Zeitung zeigte einen rotgesichtigen Teufel, der Uncle Sam auf der Schulter sitzt und fordert: \u00bbUnterst\u00fctze Israel!\u00ab"
+                }
+            ],
+            "occupations": [],
+            "directQuotes": [],
+            "quotedInTitle": false,
+            "quotedInIntro": false
+        },
+        {
+            "name": "Meme oder Memes",
+            "alternativeNames": [
+                "Memes"
+            ],
+            "age": -1,
+            "sex": "unknown",
+            "occurences": {
+                "total": 1,
+                "firstNameOnly": 0,
+                "lastNameOnly": 0,
+                "fullName": 1,
+                "nickname": 0
+            },
+            "inTitle": false,
+            "inIntro": false,
+            "_name": {
+                "firstname": "Meme",
+                "lastname": null,
+                "nickname": null,
+                "alternative_names": [
+                    "Memes"
+                ],
+                "academic_title": null,
+                "nobility_title_or_rank": null
+            },
+            "descriptiveTexts": [
+                {
+                    "text": "Meinungsf\u00fchrer in den sozialen Medien greifen diese Stimmung auf und verst\u00e4rken sie."
+                }
+            ],
+            "occupations": [],
+            "directQuotes": [],
+            "quotedInTitle": false,
+            "quotedInIntro": false
+        },
+        {
+            "name": "Steven Spielberg oder Steven Spielbergs",
+            "alternativeNames": [
+                "Steven Spielberg"
+            ],
+            "age": -1,
+            "sex": "male",
+            "occurences": {
+                "total": 1,
+                "firstNameOnly": 0,
+                "lastNameOnly": 0,
+                "fullName": 1,
+                "nickname": 0
+            },
+            "inTitle": false,
+            "inIntro": false,
+            "_name": {
+                "firstname": "Steven",
+                "lastname": "Spielbergs",
+                "nickname": null,
+                "alternative_names": [
+                    "Steven Spielberg"
+                ],
+                "academic_title": null,
+                "nobility_title_or_rank": null
+            },
+            "descriptiveTexts": [
+                {
+                    "text": "Viele chinesische Internetnutzer fluteten Steven Spielbergs Holocaust-Film \u00bbSchindlers Liste\u00ab mit Ein-Stern-Bewertungen, sein Rating auf der Videoplattform Bilibili st\u00fcrzte auf 4,5 von 10 Punkten ab."
+                }
+            ],
+            "occupations": [],
+            "directQuotes": [],
+            "quotedInTitle": false,
+            "quotedInIntro": false
+        },
+        {
+            "name": "Franz Kafka",
+            "alternativeNames": [],
+            "age": -1,
+            "sex": "male",
+            "occurences": {
+                "total": 1,
+                "firstNameOnly": 0,
+                "lastNameOnly": 0,
+                "fullName": 1,
+                "nickname": 0
+            },
+            "inTitle": false,
+            "inIntro": false,
+            "_name": {
+                "firstname": "Franz",
+                "lastname": "Kafka",
+                "nickname": null,
+                "alternative_names": [],
+                "academic_title": null,
+                "nobility_title_or_rank": null
+            },
+            "descriptiveTexts": [
+                {
+                    "text": "Und eine ganze Wand mit Bildern j\u00fcdischer Geistesgr\u00f6\u00dfen: Karl Marx, Franz Kafka, Leo Trotzki, Albert Einstein, Rosa Luxemburg."
+                }
+            ],
+            "occupations": [],
+            "directQuotes": [],
+            "quotedInTitle": false,
+            "quotedInIntro": false
+        },
+        {
+            "name": "Karl Marx",
+            "alternativeNames": [],
+            "age": -1,
+            "sex": "male",
+            "occurences": {
+                "total": 1,
+                "firstNameOnly": 0,
+                "lastNameOnly": 0,
+                "fullName": 1,
+                "nickname": 0
+            },
+            "inTitle": false,
+            "inIntro": false,
+            "_name": {
+                "firstname": "Karl",
+                "lastname": "Marx",
+                "nickname": null,
+                "alternative_names": [],
+                "academic_title": null,
+                "nobility_title_or_rank": null
+            },
+            "descriptiveTexts": [
+                {
+                    "text": "Und eine ganze Wand mit Bildern j\u00fcdischer Geistesgr\u00f6\u00dfen: Karl Marx, Franz Kafka, Leo Trotzki, Albert Einstein, Rosa Luxemburg."
+                }
+            ],
+            "occupations": [],
+            "directQuotes": [],
+            "quotedInTitle": false,
+            "quotedInIntro": false
+        },
+        {
+            "name": "Hitler",
+            "alternativeNames": [],
+            "age": -1,
+            "sex": "male",
+            "occurences": {
+                "total": 1,
+                "firstNameOnly": 0,
+                "lastNameOnly": 0,
+                "fullName": 1,
+                "nickname": 0
+            },
+            "inTitle": false,
+            "inIntro": false,
+            "_name": {
+                "firstname": null,
+                "lastname": "Hitler",
+                "nickname": null,
+                "alternative_names": [],
+                "academic_title": null,
+                "nobility_title_or_rank": null
+            },
+            "descriptiveTexts": [
+                {
+                    "text": "Ein Account mit mehr als zwei Millionen Followern postete Hitler-Memes."
+                }
+            ],
+            "occupations": [],
+            "directQuotes": [],
+            "quotedInTitle": false,
+            "quotedInIntro": false
+        },
+        {
+            "name": "Zhang Tiejiang",
+            "alternativeNames": [],
+            "age": 62,
+            "sex": "male",
+            "occurences": {
+                "total": 15,
+                "firstNameOnly": 1,
+                "lastNameOnly": 14,
+                "fullName": 0,
+                "nickname": 0
+            },
+            "inTitle": false,
+            "inIntro": false,
+            "_name": {
+                "firstname": "Tiejiang",
+                "lastname": "Zhang",
+                "nickname": null,
+                "alternative_names": [],
+                "academic_title": null,
+                "nobility_title_or_rank": null
+            },
+            "descriptiveTexts": [
+                {
+                    "text": "Auf dem j\u00fcdischen Friedhof von Harbin stapft der emeritierte Judaistikprofessor Zhang Tiejiang durch den Schnee."
+                },
+                {
+                    "text": "Bald findet Zhang, was er sucht, einen polierten schwarzen Grabstein."
+                },
+                {
+                    "text": "Nett sei Olmert gewesen, sagt Zhang, der ihn damals begleitete."
+                },
+                {
+                    "text": "Dass Harbin dennoch seine j\u00fcdische Vergangenheit konserviert hat, ist nicht zuletzt Zhangs Verdienst."
+                },
+                {
+                    "text": "Bis zu seiner Pensionierung war er Vizedirektor des j\u00fcdischen Forschungszentrums, das im Jahr 2000 auf seine Initiative hin an der Akademie f\u00fcr Sozialwissenschaften von Heilongjiang gegr\u00fcndet worden war."
+                },
+                {
+                    "text": "Schon als junger Bibliothekar hatte er historische Dokumente \u00fcber die Stadtgeschichte durchforstet und war dabei auf j\u00fcdische Namen gesto\u00dfen."
+                },
+                {
+                    "text": "\u00bbIch begriff, dass viele derer, die einst die Elite der Stadt bildeten, Juden waren. So begann mein Interesse am j\u00fcdischen Volk.\u00ab"
+                },
+                {
+                    "text": "Zhang steigt ins Auto, es geht ins fr\u00fchere j\u00fcdische Viertel im Stadtzentrum."
+                },
+                {
+                    "text": "Die F\u00f6rdermittel f\u00fcr dessen Restaurierung hat Zhang aufgetrieben."
+                },
+                {
+                    "text": "\u00bbDort war das j\u00fcdische Altenheim\u00ab, sagt er und deutet aus dem Autofenster."
+                },
+                {
+                    "text": "Zhang geht die Stufen hinauf und betritt den fr\u00fcheren Gebetssaal."
+                },
+                {
+                    "text": "Zhang hat sie mitkuratiert."
+                },
+                {
+                    "text": "Sie l\u00e4sst keine Fragen offen, wie Harbin sich verstanden wissen will: \u00bbEin fern\u00f6stliches Paradies zum Leben f\u00fcr die Juden\u00ab ist eine der Tafeln \u00fcberschrieben."
+                },
+                {
+                    "text": "In den Neunzigerjahren, als Zhang seine Forschung begann, hatten China und Israel zum ersten Mal Botschafter ausgetauscht."
+                },
+                {
+                    "text": "In seinen Aufs\u00e4tzen hat Zhang daf\u00fcr pl\u00e4diert, Harbin solle seine j\u00fcdische Vergangenheit herauskehren, um die wirtschaftlichen Beziehungen zu Israel zu st\u00e4rken."
+                },
+                {
+                    "text": "Die Akademie f\u00fcr Sozialwissenschaften von Heilongjiang, Zhangs Arbeitgeber, hat dreimal ein \u00bbInternationales Forum zur Wirtschaftszusammenarbeit mit den Juden der Welt\u00ab in Harbin ausgerichtet."
+                },
+                {
+                    "text": "\u00bbAls wirtschaftlich weniger entwickelte Region musste Heilongjiang sich anstrengen, Investitionen anzuziehen\u00ab, sagt Zhang."
+                },
+                {
+                    "text": "In Harbin gr\u00fcndete er 2002 das Sino-Israel Research and Study Center \u2013 Konkurrenz f\u00fcr Zhangs Institut."
+                },
+                {
+                    "text": "Aus dem Material destillierte er eine Erz\u00e4hlung \u00fcber das j\u00fcdische Harbin, die ganz anders klingt als das offizielle Narrativ, das Zhang mitgepr\u00e4gt hat."
+                }
+            ],
+            "occupations": [
+                {
+                    "text": "Bibliothekar"
+                },
+                {
+                    "text": "Nett"
+                },
+                {
+                    "text": "Vizedirektor des j\u00fcdischen Forschungszentrums"
+                }
+            ],
+            "directQuotes": [],
+            "quotedInTitle": false,
+            "quotedInIntro": false
+        },
+        {
+            "name": "Selenskyj",
+            "alternativeNames": [],
+            "age": -1,
+            "sex": "male",
+            "occurences": {
+                "total": 2,
+                "firstNameOnly": 0,
+                "lastNameOnly": 0,
+                "fullName": 2,
+                "nickname": 0
+            },
+            "inTitle": false,
+            "inIntro": false,
+            "_name": {
+                "firstname": null,
+                "lastname": "Selenskyj",
+                "nickname": null,
+                "alternative_names": [],
+                "academic_title": null,
+                "nobility_title_or_rank": null
+            },
+            "descriptiveTexts": [
+                {
+                    "text": "\u00bbSeit zwei Jahren bekommen chinesische Internetnutzer aus russischen Quellen zu h\u00f6ren, dass Selenskyj ein Nazi sei und im Donbass einen Genozid ver\u00fcbe\u00ab, sagt Gering."
+                },
+                {
+                    "text": "Tenor: \u00bbVom Juden Selenskyj ist es nicht weit zu den Juden in Israel, die nun vermeintlich das Gleiche in Gaza anrichten.\u00ab"
+                }
+            ],
+            "occupations": [],
+            "directQuotes": [],
+            "quotedInTitle": false,
+            "quotedInIntro": false
+        },
+        {
+            "name": "Albert Einstein",
+            "alternativeNames": [],
+            "age": -1,
+            "sex": "male",
+            "occurences": {
+                "total": 1,
+                "firstNameOnly": 0,
+                "lastNameOnly": 0,
+                "fullName": 1,
+                "nickname": 0
+            },
+            "inTitle": false,
+            "inIntro": false,
+            "_name": {
+                "firstname": "Albert",
+                "lastname": "Einstein",
+                "nickname": null,
+                "alternative_names": [],
+                "academic_title": null,
+                "nobility_title_or_rank": null
+            },
+            "descriptiveTexts": [
+                {
+                    "text": "Und eine ganze Wand mit Bildern j\u00fcdischer Geistesgr\u00f6\u00dfen: Karl Marx, Franz Kafka, Leo Trotzki, Albert Einstein, Rosa Luxemburg."
+                }
+            ],
+            "occupations": [],
+            "directQuotes": [],
+            "quotedInTitle": false,
+            "quotedInIntro": false
+        },
+        {
+            "name": "Rosa Luxemburg",
+            "alternativeNames": [],
+            "age": -1,
+            "sex": "female",
+            "occurences": {
+                "total": 1,
+                "firstNameOnly": 0,
+                "lastNameOnly": 0,
+                "fullName": 1,
+                "nickname": 0
+            },
+            "inTitle": false,
+            "inIntro": false,
+            "_name": {
+                "firstname": "Rosa",
+                "lastname": "Luxemburg",
+                "nickname": null,
+                "alternative_names": [],
+                "academic_title": null,
+                "nobility_title_or_rank": null
+            },
+            "descriptiveTexts": [
+                {
+                    "text": "Und eine ganze Wand mit Bildern j\u00fcdischer Geistesgr\u00f6\u00dfen: Karl Marx, Franz Kafka, Leo Trotzki, Albert Einstein, Rosa Luxemburg."
+                }
+            ],
+            "occupations": [],
+            "directQuotes": [],
+            "quotedInTitle": false,
+            "quotedInIntro": false
+        },
+        {
+            "name": "Tuvia Gering",
+            "alternativeNames": [],
+            "age": -1,
+            "sex": "male",
+            "occurences": {
+                "total": 6,
+                "firstNameOnly": 0,
+                "lastNameOnly": 4,
+                "fullName": 2,
+                "nickname": 0
+            },
+            "inTitle": false,
+            "inIntro": false,
+            "_name": {
+                "firstname": "Tuvia",
+                "lastname": "Gering",
+                "nickname": null,
+                "alternative_names": [],
+                "academic_title": null,
+                "nobility_title_or_rank": null
+            },
+            "descriptiveTexts": [
+                {
+                    "text": "Tuvia Gering hat einige Antworten auf diese Frage."
+                },
+                {
+                    "text": "Man erreicht den israelischen Chinaexperten telefonisch in Jerusalem, er hat gerade 24 Stunden Auszeit von seinem Reservistendienst bei der Armee."
+                },
+                {
+                    "text": "In Friedenszeiten forscht er am Tel Aviver Institut f\u00fcr Nationale Sicherheitsstudien (INSS) \u00fcber die Beziehungen seines Landes zur Volksrepublik, in letzter Zeit hat er sich viel mit chinesischem Antisemitismus besch\u00e4ftigt."
+                },
+                {
+                    "text": "\u00bbDer geopolitische Kontext ist von Bedeutung: Chinas Rivalit\u00e4t mit den USA\u00ab, sagt Gering."
+                },
+                {
+                    "text": "\u00bbSeit zwei Jahren bekommen chinesische Internetnutzer aus russischen Quellen zu h\u00f6ren, dass Selenskyj ein Nazi sei und im Donbass einen Genozid ver\u00fcbe\u00ab, sagt Gering."
+                },
+                {
+                    "text": "\u00bbIch sehe nicht, dass gro\u00dfes Interesse besteht, die antisemitischen Inhalte zu entfernen\u00ab, sagt Wissenschaftler Gering."
+                },
+                {
+                    "text": "Folgt man Gering, ist der offene Antisemitismus nicht unvermittelt oder in einem Vakuum entstanden: Auch schon vor dem Krieg fanden sich im chinesischen Diskurs daf\u00fcr Ankn\u00fcpfungspunkte."
+                },
+                {
+                    "text": "Der Wissenschaftler Tuvia Gering vom INSS in Tel Aviv findet solche Aussagen trotzdem problematisch."
+                },
+                {
+                    "text": "\u00bbIch habe schon immer gesagt, dass diese positiven Stereotypen uns eines Tages in den Arsch bei\u00dfen werden\u00ab, sagt er."
+                }
+            ],
+            "occupations": [],
+            "directQuotes": [
+                {
+                    "text": "Der geopolitische Kontext ist von Bedeutung: Chinas Rivalit\u00e4t mit den USA"
+                },
+                {
+                    "text": "Seit zwei Jahren bekommen chinesische Internetnutzer aus russischen Quellen zu h\u00f6ren, dass Selenskyj ein Nazi sei und im Donbass einen Genozid ver\u00fcbe"
+                },
+                {
+                    "text": "Vom Juden Selenskyj ist es nicht weit zu den Juden in Israel, die nun vermeintlich das Gleiche in Gaza anrichten."
+                },
+                {
+                    "text": "Ich habe schon immer gesagt, dass diese positiven Stereotypen uns eines Tages in den Arsch bei\u00dfen werden"
+                },
+                {
+                    "text": "Viele kamen als Fl\u00fcchtlinge, sie waren Pogromen in Russland entkommen, hatten alles verloren, und viele von ihnen mussten die Kosaken bestechen, damit die sie \u00fcber die Grenze lie\u00dfen. In Harbin hatten sie weder Arbeit noch ein Zuhause."
+                }
+            ],
+            "quotedInTitle": false,
+            "quotedInIntro": false
+        },
+        {
+            "name": "Irit Ben Abba",
+            "alternativeNames": [],
+            "age": -1,
+            "sex": "female",
+            "occurences": {
+                "total": 1,
+                "firstNameOnly": 0,
+                "lastNameOnly": 0,
+                "fullName": 1,
+                "nickname": 0
+            },
+            "inTitle": false,
+            "inIntro": false,
+            "_name": {
+                "firstname": "Irit",
+                "lastname": "Ben Abba",
+                "nickname": null,
+                "alternative_names": [],
+                "academic_title": null,
+                "nobility_title_or_rank": null
+            },
+            "descriptiveTexts": [
+                {
+                    "text": "So beurteilt es Israels Botschafterin in Peking, Irit Ben Abba."
+                },
+                {
+                    "text": "\u00bbEinen derart extremen antisemitischen Diskurs haben wir in China in diesem Ausma\u00df zuvor noch nicht gesehen\u00ab, sagt sie."
+                }
+            ],
+            "occupations": [
+                {
+                    "text": "Botschafterin in Peking"
+                }
+            ],
+            "directQuotes": [
+                {
+                    "text": "Sie denken, China sei frei von Antisemitismus. Das ist absolut falsch."
+                },
+                {
+                    "text": "Wenn ich in China jemanden treffe und der erf\u00e4hrt, dass ich Jude bin, bekomme ich sofort zu h\u00f6ren: Oh, du bist so schlau, du bist so reich"
+                }
+            ],
+            "quotedInTitle": false,
+            "quotedInIntro": false
+        }
+    ]
+}

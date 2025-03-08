@@ -1,0 +1,1530 @@
+{
+    "persons": [
+        {
+            "name": "Andrij Melnyk",
+            "alternativeNames": [],
+            "age": -1,
+            "sex": "male",
+            "occurences": {
+                "total": 1,
+                "firstNameOnly": 0,
+                "lastNameOnly": 0,
+                "fullName": 1,
+                "nickname": 0
+            },
+            "inTitle": false,
+            "inIntro": false,
+            "_name": {
+                "firstname": "Andrij",
+                "lastname": "Melnyk",
+                "nickname": null,
+                "alternative_names": [],
+                "academic_title": null,
+                "nobility_title_or_rank": null
+            },
+            "descriptiveTexts": [
+                {
+                    "text": "Da\u011fdelen stellte im Bundestag die Anfrage \u00fcber das Verh\u00e4ltnis des damaligen ukrainischen Botschafters Andrij Melnyk zum antisemitischen Nationalisten Stepan Bandera und schloss sich nicht den Ovationen nach der Rede des ehemaligen israelischen Pr\u00e4sidenten Shimon Peres im Bundestag zum Gedenken der Opfer des Nationalsozialismus an."
+                }
+            ],
+            "occupations": [],
+            "directQuotes": [],
+            "quotedInTitle": false,
+            "quotedInIntro": false
+        },
+        {
+            "name": "Sevim Da\u011fdelen",
+            "alternativeNames": [],
+            "age": 48,
+            "sex": "female",
+            "occurences": {
+                "total": 63,
+                "firstNameOnly": 10,
+                "lastNameOnly": 23,
+                "fullName": 30,
+                "nickname": 0
+            },
+            "inTitle": false,
+            "inIntro": true,
+            "_name": {
+                "firstname": "Sevim",
+                "lastname": "Da\u011fdelen",
+                "nickname": null,
+                "alternative_names": [],
+                "academic_title": null,
+                "nobility_title_or_rank": null
+            },
+            "descriptiveTexts": [
+                {
+                    "text": "Sevim Da\u011fdelen stand lange am linken Rand der Politik."
+                },
+                {
+                    "text": "Nun wechselt sie zum neuen B\u00fcndnis Sahra Wagenknecht \u2013 und bewegt sich mit manchen Ansichten erstaunlich nahe am Mainstream."
+                },
+                {
+                    "text": "An dem Tag, als sich in Berlin die Fraktion der Linken im Bundestag aufl\u00f6st, verl\u00e4sst Sevim Da\u011fdelen zusammen mit Fu Ziying die deutsche Hauptstadt."
+                },
+                {
+                    "text": "Herr Fu ist Mitglied des Nationalen Volkskongresses in China, Frau Da\u011fdelen war gerade noch Mitglied der Linkenfraktion."
+                },
+                {
+                    "text": "Sie fliegen zusammen Richtung Westen, um das Ende der Seidenstra\u00dfe zu besichtigen \u2013 beziehungsweise deren Anfang."
+                },
+                {
+                    "text": "Fu hat Gro\u00dfes vor, Sevim Da\u011fdelen ebenfalls."
+                },
+                {
+                    "text": "Da\u011fdelen hat Fu auf einer Chinareise im vergangenen Jahr kennengelernt."
+                },
+                {
+                    "text": "Seit 2009 sitzt sie f\u00fcr die Linke im Ausw\u00e4rtigen Ausschuss des Bundestags."
+                },
+                {
+                    "text": "China hatte sie dort lange kaum beachtet, weil sie, wie sie sagt, westdeutsch sozialisiert sei."
+                },
+                {
+                    "text": "Als sie 2018 zum ersten Mal dort war, merkte sie, was sie verpasst hatte."
+                },
+                {
+                    "text": "Sie redete mit dem Vizepr\u00e4sidenten Chinas \u00fcber Kant, Hegel und Marx."
+                },
+                {
+                    "text": "Sevim Da\u011fdelen informierte sich \u00fcber die unzureichend aufgearbeitete deutsche Kolonialgeschichte in China."
+                },
+                {
+                    "text": "Sie lernte, dass Deutschland der gr\u00f6\u00dfte Wirtschaftspartner Chinas in Europa ist, was im Widerspruch zu den moralischen Ausf\u00fchrungen der deutschen Au\u00dfenministerin zu stehen schien."
+                },
+                {
+                    "text": "Sevim Da\u011fdelen, die zu den neun Bundestagsabgeordneten z\u00e4hlt, die an der Seite Sahra Wagenknechts die Linke verlassen, wirkt oft wie ein Schatten der deutschen Au\u00dfenministerin und deren wertegeleiteter feministischer Au\u00dfenpolitik."
+                },
+                {
+                    "text": "Wenn ihre Partei, die es in diesem Moment noch nicht gibt und von der auch keiner so recht wei\u00df, wof\u00fcr sie eigentlich steht, die Wahlen gew\u00e4nne, w\u00fcrde sie dann ins Ausw\u00e4rtige Amt einziehen?"
+                },
+                {
+                    "text": "Sevim Da\u011fdelen nickt, ernsthaft."
+                },
+                {
+                    "text": "Sie ist 48 Jahre alt und seit fast 20 Jahren im Bundestag."
+                },
+                {
+                    "text": "Ein halbes Leben, aber so sehr in die Zeit wie jetzt hat sie eigentlich noch nie gepasst."
+                },
+                {
+                    "text": "Dass der Kapitalismus ein Problem hat, war Sevim Da\u011fdelen eigentlich schon immer klar."
+                },
+                {
+                    "text": "Bei einem Mittagessen mit Mister Fu in China lud sie ihn in ihre Heimatstadt Duisburg ein."
+                },
+                {
+                    "text": "\u00bbFrau Da\u011fdelen scheint China ohne Vorurteile zu begegnen\u00ab, sagt Herr Fu.\n\nEr wird nach der Landung in D\u00fcsseldorf vom chinesischen Generalkonsul zum Abendessen abgeholt."
+                },
+                {
+                    "text": "Sevim Da\u011fdelen f\u00e4hrt nach Duisburg-Bruckhausen weiter."
+                },
+                {
+                    "text": "Sie l\u00e4uft \u00fcber die Dieselstra\u00dfe, wo sie ihre Kindheit verbracht hat."
+                },
+                {
+                    "text": "Es war eines der ersten B\u00fccher, die das M\u00e4dchen Sevim las, dessen Vater ebenfalls bei Thyssen arbeitete."
+                },
+                {
+                    "text": "Sie h\u00e4tten keine B\u00fccher zu Hause gehabt, sagt sie."
+                },
+                {
+                    "text": "Sie hatten auch kein warmes Wasser."
+                },
+                {
+                    "text": "Sevim und ihre Schwestern liefen jeden Tag kilometerweit zur Schule, um das Busgeld zu sparen."
+                },
+                {
+                    "text": "Sie war die Einzige aus der Familie, die sp\u00e4ter aufs Gymnasium ging und zur Universit\u00e4t."
+                },
+                {
+                    "text": "Sevim Da\u011fdelen ist Politikerin geworden."
+                },
+                {
+                    "text": "Da\u011fdelen scheint sie zu haben."
+                },
+                {
+                    "text": "Es hat ihren Vater get\u00f6tet, glaubt Sevim Da\u011fdelen."
+                },
+                {
+                    "text": "Er starb an Lungenkrebs."
+                },
+                {
+                    "text": "Vielleicht kann man hier herausfinden, warum sie so hartn\u00e4ckig ist, wof\u00fcr sie k\u00e4mpft, wovon sie sich befreien will und uns."
+                },
+                {
+                    "text": "Vielleicht m\u00f6chte sie aber auch nur, dass man das denkt."
+                },
+                {
+                    "text": "Sie war seit mindestens acht Jahren nicht mehr hier in der Dieselstra\u00dfe."
+                },
+                {
+                    "text": "Als wir sp\u00e4ter ihre Grundschule besuchen, erz\u00e4hlt einer ihrer alten Lehrer, dass sie wie die anderen Schulanf\u00e4nger aus t\u00fcrkeist\u00e4mmigen Familien zun\u00e4chst ein paar Jahre lang in Vorbereitungsklassen Deutsch lernen musste."
+                },
+                {
+                    "text": "Sie kann sich das nicht vorstellen."
+                },
+                {
+                    "text": "Sie wolle keine Aufsteigergeschichte erz\u00e4hlen, sagt Sevim Da\u011fdelen, und man h\u00f6rt Sch\u00e4rfe in ihrer Stimme."
+                },
+                {
+                    "text": "Sie hat sich das jetzt lange genug angeguckt."
+                },
+                {
+                    "text": "Sie sagt, auf dem Gymnasium habe sich ihr die Klassenfrage zum ersten Mal gestellt."
+                },
+                {
+                    "text": "Auf dem Gymnasium aber war sie mit Mittelstandskindern zusammen."
+                },
+                {
+                    "text": "Wenn die anderen eislaufen gingen, zum Shoppen oder ins Kino, habe sie nicht mitgekonnt, sagt sie."
+                },
+                {
+                    "text": "Sie hatte kein Geld."
+                },
+                {
+                    "text": "\u00bbDas Problem war das Soziale, nicht mein Migrationshintergrund\u00ab, sagt sie."
+                },
+                {
+                    "text": "\u00bbEs geht um Ausbeutung, nichts anderes. In Duisburg kommt jedes dritte Kind aus einer Hartz-IV-Familie, in manchen Stadtbezirken jedes zweite. Die Armut wird vererbt. Armut und Elend sind keine Naturgesetze. Sie sind Teil dieses Systems.\u00ab"
+                },
+                {
+                    "text": "Sie sagt f\u00fcnfmal Elend, w\u00e4hrend wir durch die dunkle Stadt laufen."
+                },
+                {
+                    "text": "Mit 14 Jahren begann Sevim Da\u011fdelen, neben der Schule zu arbeiten."
+                },
+                {
+                    "text": "In der Obstfabrik stand sie am Band, mit 16 putzte sie die Jetkabinen und Toiletten auf dem Flughafen D\u00fcsseldorf."
+                },
+                {
+                    "text": "Sie wurde Sch\u00fclersprecherin ihres Landes."
+                },
+                {
+                    "text": "Sie organisierte den Arbeitskampf f\u00fcr die Putzfrauen, die meistens aus Afrika und der T\u00fcrkei kamen und kein Deutsch sprachen."
+                },
+                {
+                    "text": "Darunter ihre Mutter, die entlassen wurde, weil sie sich auf Wunsch der 17-j\u00e4hrigen Tochter in der Gewerkschaft organisierte."
+                },
+                {
+                    "text": "Sevim las weitere Klassiker von Marx und Engels."
+                },
+                {
+                    "text": "Seit 2016 gilt Da\u011fdelen als gef\u00e4hrdete Person, bedroht von rechten Deutschen und rechten T\u00fcrken."
+                },
+                {
+                    "text": "Sie \u00e4u\u00dferte im Fernsehen Verst\u00e4ndnis f\u00fcr die PKK und zeigte im Bundestag die Flagge der syrischen Kurdenmiliz YPG, die von der T\u00fcrkei als Terrororganisation eingestuft wurde."
+                },
+                {
+                    "text": "\u00bbIn Bruckhausen haben viele \u203aIdealisten\u2039-Vereine angedockt\u00ab, sagt Da\u011fdelen."
+                },
+                {
+                    "text": "In ein paar Tagen werde Erdo\u011fan nach Berlin kommen, sagt sie, der daran schuld ist, dass sie das Heimatland ihrer Eltern seit Jahren nicht mehr besucht."
+                },
+                {
+                    "text": "Schon 2010 hat sie eine Einladung des t\u00fcrkischen Pr\u00e4sidenten ausgeschlagen, der t\u00fcrkeist\u00e4mmige Politiker zu mehr Aktivit\u00e4t im Interesse seines Landes ermunterte."
+                },
+                {
+                    "text": "Sie nannte das \u00bbNebenau\u00dfenp\n\nolitik\u00ab, f\u00fcr die sie so wenig Verst\u00e4ndnis hat wie f\u00fcr die Werteau\u00dfenpolitik."
+                },
+                {
+                    "text": "\u00bbDie empfangen einen t\u00fcrkischen Pr\u00e4sidenten im Kanzleramt, der die Hamas sch\u00f6nredet\u00ab, sagt Sevim Da\u011fdelen."
+                },
+                {
+                    "text": "So, jetzt will sie aber zum besten Imbiss der Stadt, wo die Thyssen-Arbeiter sich in ihren Pausen Pommes holten und Currywurst."
+                },
+                {
+                    "text": "Da war sie schon als Teenager immer."
+                },
+                {
+                    "text": "Sie steht f\u00fcnf Minuten fassungslos davor, dann fahren wir in eine Weinbar in die Altstadt, wo Sevim Da\u011fdelen sich von der Chefin \u00fcber den Grauburgunder informieren l\u00e4sst."
+                },
+                {
+                    "text": "Beim Essen erz\u00e4hlt sie von ihren Reisen in der aktuellen Legislaturperiode."
+                },
+                {
+                    "text": "Jan B\u00f6hmermann hat sie in einer Sendung im Herbst \u00bbtravel queen\u00ab genannt."
+                },
+                {
+                    "text": "Sie hatte seiner Redaktion zuvor eine Liste der Gespr\u00e4che geschickt, die sie auf ihren Reisen gef\u00fchrt hatte."
+                },
+                {
+                    "text": "Sie wartet am n\u00e4chsten Morgen am Prellbock, der auf dem Duisburger Containerterminal das Ende der Seidenstra\u00dfe symbolisiert, auf ihren chinesischen Gast."
+                },
+                {
+                    "text": "Sevim Da\u011fdelen m\u00f6chte wissen, welche Auswirkungen vom Krieg in der Ukraine hier zu sp\u00fcren seien."
+                },
+                {
+                    "text": "Sie schauen raus in den grauen Morgen."
+                },
+                {
+                    "text": "\u00bbWof\u00fcr streiken sie?\u00ab, fragt Fu.\n\n\u00bbMoney\u00ab, sagt Sevim Da\u011fdelen."
+                },
+                {
+                    "text": "Als sie wieder zur Ruhe kommen, sagt Fu: \u00bbDas ist gut. Wer mehr Geld hat, kann mehr Produkte von uns kaufen. Wir brauchten ein Freihandelsabkommen zwischen China und Deutschland.\u00ab"
+                },
+                {
+                    "text": "Sevim Da\u011fdelen l\u00e4chelt."
+                },
+                {
+                    "text": "Fu fliegt weiter nach Helsinki, Da\u011fdelen besucht noch den Thyssen-Imbiss und ihre alte Grundschule, wo sie mit der Direktorin verabredet war."
+                },
+                {
+                    "text": "Da\u011fdelen vermutet politische Gr\u00fcnde."
+                },
+                {
+                    "text": "Sie steht mit ihrem Mathe- und ihrem Sportlehrer, beide inzwischen pensioniert, auf dem verlassenen Schulhof."
+                },
+                {
+                    "text": "Sevim Da\u011fdelen wirkt allein, einsam fast, bewacht wie eine verwunschene Prinzessin."
+                },
+                {
+                    "text": "Duisburg ist inzwischen wahrscheinlich ein exotischerer Ort f\u00fcr Da\u011fdelen als Washington."
+                },
+                {
+                    "text": "Dort nimmt sie in der Woche darauf an einem Parlamentariertreffen der Nato teil."
+                },
+                {
+                    "text": "Gemeinsam mit der Demokratin Ilhan Omar beschlie\u00dft Da\u011fdelen in einer Washingtoner Cafeteria, eine weltweite Initiative von Parlamentariern zu starten, die f\u00fcr einen Waffenstillstand in Gaza eintreten."
+                },
+                {
+                    "text": "Im Kongress trifft sich Sevim Da\u011fdelen dreieinhalb Stunden lang mit dem Republikaner Thomas Massie, der im Dezember 2021 nach einem t\u00f6dlichen Amoklauf an einer Schule in Michigan ein Foto postete, das ihn und seine Familie mit halb automatischen Gewehren unterm Weihnachtsbaum zeigt."
+                },
+                {
+                    "text": "Sie h\u00e4tten sich angeregt unterhalten, sagt Da\u011fdelen anschlie\u00dfend."
+                },
+                {
+                    "text": "\u00bbMan kann den Amerikanern auf Augenh\u00f6he begegnen. Man muss sich nicht verhalten wie ein Vasall, der nur Befehle entgegennimmt\u00ab, sagt sie."
+                },
+                {
+                    "text": "In ihrem Statement auf dem Belmarsh-Tribunal f\u00fcr Julian Assange im National Press Club wirft sie gleich am Anfang den USA deren Uno-Veto gegen den Waffenstillstand in Gaza vor."
+                },
+                {
+                    "text": "Sie sagt, dass diese Zeiten einen Mann wie Assange brauchten, von dem der Satz stamme: \u00bbWenn Kriege mit L\u00fcgen begonnen werden k\u00f6nnen, kann Frieden mit Wahrheit begonnen werden.\u00ab"
+                },
+                {
+                    "text": "Sie verl\u00e4sst das Tribunal bald nach ihrem Auftritt, um am n\u00e4chsten Vormittag p\u00fcnktlich zum \u00bbFriedensratschlag\u00ab in Kassel zu sein."
+                },
+                {
+                    "text": "Ihr Flug landet \u00fcberp\u00fcnktlich in Frankfurt, sie trifft dennoch fast eine Stunde zu sp\u00e4t auf dem Podium in Kassel ein, weil das Gep\u00e4ck und die Regionalbahn versp\u00e4tet sind."
+                },
+                {
+                    "text": "Sie nutzt das, um den bedauerlichen Zustand der deutschen Infrastruktur mit den Erkenntnissen zu verkn\u00fcpfen, die sie in Washington gesammelt hat."
+                },
+                {
+                    "text": "In den amerikanischen Thinktanks sch\u00fcttelten sie den Kopf \u00fcber die Deutschen, die ihr Land mit ihrer Kriegstreiberei in den Ruin f\u00fchrten, sagt sie."
+                },
+                {
+                    "text": "Am n\u00e4chsten Tag ist Sevim Da\u011fdelen dann endg\u00fcltig zur\u00fcck in Deutschland."
+                },
+                {
+                    "text": "Sie sitzt auf dem Podium einer Veranstaltung, die in einer Jugendherberge am Berliner Ostkreuz stattfindet."
+                },
+                {
+                    "text": "Sie hei\u00dft: \u00bbBrauchen wir eine Sahra-Wagenknecht-Partei?\u00ab"
+                },
+                {
+                    "text": "Im linken Kuckucksnest wirkt Sevim Da\u011fdelen wie eine Weise."
+                },
+                {
+                    "text": "Am n\u00e4chsten Morgen hetzt sie die Berliner Wilhelmstra\u00dfe entlang auf der Suche nach dem \u00bbModulbau\u00ab, in dem sich die Bundestagsgruppe der neuen Partei konstituieren soll."
+                },
+                {
+                    "text": "Sie hat eine flatternde Lageskizze in der Hand, aber das hier sieht alles aus wie Baustelle."
+                },
+                {
+                    "text": "\u00bbModulbau!\u00ab, ruft sie in den Winterwind."
+                },
+                {
+                    "text": "Sie \u00fcberquert die Marschallbr\u00fccke \u00fcber der Spree, umkreist Baracken und Z\u00e4une und sieht schlie\u00dflich Sahra Wagenknecht, die aufrecht, im Mantel mit aufgestelltem Pelzkragen, wie eine russische Adlige im Modulbau verschwindet."
+                },
+                {
+                    "text": "Da\u011fdelen, vergleichsweise klein, h\u00fcpft hinterher in die Zukunft."
+                },
+                {
+                    "text": "Sie ist die Vorsitzende, das Gesicht."
+                },
+                {
+                    "text": "Sie steht erstaunlich unbeeindruckt im Feuer der Journalisten."
+                },
+                {
+                    "text": "Ob Sevim Da\u011fdelen Stellvertreterin werden soll, haben sie beraten."
+                },
+                {
+                    "text": "Aber Da\u011fdelen will keine Funktion, sagt sie."
+                },
+                {
+                    "text": "Sie war l\u00e4nger als zwei Jahre lang stellvertretende Fraktionsvorsitzende der Linken, durchgesetzt von Wagenknecht."
+                },
+                {
+                    "text": "Als diese 2019 den Vorsitz aufgab, k\u00fcndigte auch Da\u011fdelen an, nicht mehr zu kandidieren."
+                },
+                {
+                    "text": "Sie wolle st\u00e4rker inhaltlich arbeiten, weniger administrativ."
+                },
+                {
+                    "text": "\u00bbDie Sevim macht das gut\u00ab, sagt Wagenknecht"
+                },
+                {
+                    "text": "\u00bbSevim ist sehr kompetent in der Au\u00dfenpolitik. Das Werben f\u00fcr Frieden und eine neue Entspannungspolitik ist ja eine der vier S\u00e4ulen, auf denen unser neues Programm steht\u00ab, sagt Sahra Wagenknecht."
+                },
+                {
+                    "text": "\u00bbSie ist da fit und international auch sehr gut vernetzt. Sie hat diese wichtigen Initiativen gestartet. Au\u00dferdem ist sie gut bei \u00f6ffentlichen Auftritten. Sie war ja auch in gro\u00dfen deutschen Talkshows zu Gast und war da immer gut vorbereitet.\u00ab"
+                },
+                {
+                    "text": "Es klingt, als l\u00e4se sie eine Zeugnisbeurteilung vor."
+                },
+                {
+                    "text": "Als die Partei im neuen Jahr schlie\u00dflich gegr\u00fcndet wird, wartet Da\u011fdelen mit den anderen Gr\u00fcndungsmitgliedern in der Bibliothek eines Ost-Berliner Hotels auf die Namenspatin des B\u00fcndnisses."
+                },
+                {
+                    "text": "Da\u011fdelen sitzt in der zweiten Reihe."
+                },
+                {
+                    "text": "Sie hat heute Morgen ein Interview f\u00fcr WDR 5 gegeben."
+                },
+                {
+                    "text": "\u00bbDer Moderator hat mich gefragt, ob wir uns mit dem B\u00fcndnis auf dem Boden der Verfassung bewegen\u00ab, sagt sie."
+                },
+                {
+                    "text": "Neun Tage sp\u00e4ter bittet Sahra Wagenknecht sie, eine Rede im Bundestag zu \u00fcbernehmen, die sie nicht halten kann, weil sie auf dem Weg nach Hamburg ist, zur Talkshow \u00bbLanz\u00ab."
+                },
+                {
+                    "text": "\u00bbIch wei\u00df, dass Sevim das gut macht\u00ab, sagt Sahra Wagenknecht."
+                },
+                {
+                    "text": "Da\u011fdelen sitzt in ihrem Abgeordnetenb\u00fcro und schreibt die Rede."
+                },
+                {
+                    "text": "Zwei Minuten kriegt sie als Mitglied der neuen Gruppe."
+                },
+                {
+                    "text": "\u00bbIch nenne Merz einen Gernegro\u00df\u00ab, sagt sie und lacht."
+                },
+                {
+                    "text": "\u00bbWie finden Sie das? Der Gernegro\u00df und seine deutsche Wunderwaffe.\u00ab"
+                },
+                {
+                    "text": "An der Wand zwischen den Fenstern h\u00e4ngt ein Portr\u00e4t der mexikanischen Malerin Frida Kahlo, die Sevim Da\u011fdelen bewundert."
+                },
+                {
+                    "text": "An einem Januarabend empf\u00e4ngt sie hier den pal\u00e4stinensischen Botschafter in Deutschland, der ihr eine Dreiviertelstunde lang sein Leid klagt."
+                },
+                {
+                    "text": "Er z\u00e4hlt die Toten und Verletzten von Gaza auf, er verurteilt die israelischen Soldaten, er droht der deutschen Politik, die dem Blutbad teilnahmslos zusehe."
+                },
+                {
+                    "text": "Sevim Da\u011fdelen l\u00e4chelt."
+                },
+                {
+                    "text": "Schwer zu sagen, welche Rolle sie in diesem Moment spielt."
+                },
+                {
+                    "text": "Man glaubt, die Parteidisziplin, der sie sich f\u00fcgt, in ihrem Gesicht sehen und in ihrer Stimme h\u00f6ren zu k\u00f6nnen."
+                },
+                {
+                    "text": "Deniz Y\u00fccel schrieb in sein Buch: \u00bbF\u00fcr Sevim, f\u00fcr die Freiheit!\u00ab"
+                },
+                {
+                    "text": "Sie hat sich sehr f\u00fcr ihn und seine Familie eingesetzt, als er in der T\u00fcrkei inhaftiert war."
+                },
+                {
+                    "text": "Auch deshalb will er nicht \u00fcber die Politikerin Da\u011fdelen reden, die offenbar nicht in der Lage ist, sich auch so in das Leid des ukrainischen Volkes hineinzuf\u00fchlen."
+                },
+                {
+                    "text": "In seiner Absage scheint Sevim Da\u011fdelen in zwei Teile zu zerfallen."
+                },
+                {
+                    "text": "Als sie ihre Geschwister Nevim und Ferhat in dem Friseursalon trifft, den die beiden in der K\u00f6lner Altstadt betreiben, scheint Da\u011fdelen f\u00fcr eine Stunde ganz zu sein."
+                },
+                {
+                    "text": "Die Geschwister sind stolz auf sie, beneiden sie aber nicht um ihr Leben."
+                },
+                {
+                    "text": "Sie machen Wahlkampf f\u00fcr die ber\u00fchmte Schwester, sie w\u00e4hlen ihre Partei, und als Sevim hier mal mit dem Vater von Julian Assange vorbeikam, haben sie dem die Haare geschnitten."
+                },
+                {
+                    "text": "Aber sie sind lieber Friseure als Politiker."
+                },
+                {
+                    "text": "Sie reden \u00fcber die vielen Kilometer, die sie zur Schule liefen, und die \u00bbMohrenkopf-Br\u00f6tchen\u00ab, die sie liebten."
+                },
+                {
+                    "text": "\u00bbMohrenkopf darf man ja auch nicht mehr sagen\u00ab, sagt Da\u011fdelen."
+                },
+                {
+                    "text": "Dann rennt sie weiter."
+                },
+                {
+                    "text": "Sie trifft den ehemaligen Chef des Max-Planck-Instituts f\u00fcr Gesellschaftsforschung Wolfgang Streeck in einem Restaurant am Dom."
+                },
+                {
+                    "text": "Sie klagen \u00fcber enge deutsche Meinungskorridore, die Waffengegner sofort zu Putin-Freunden beziehungsweise Antisemiten machten."
+                },
+                {
+                    "text": "Streeck versteht, dass Sevim Da\u011fdelen ihn gern bei der neuen Partei dabei h\u00e4tte, aber es sieht nicht so aus, als habe er die Energie."
+                },
+                {
+                    "text": "Er ist 77 Jahre alt."
+                },
+                {
+                    "text": "Er schreibt lieber noch ein bisschen."
+                },
+                {
+                    "text": "Sevim Da\u011fdelen bereist das Land, um Menschen f\u00fcr die neue Partei zu begeistern."
+                },
+                {
+                    "text": "Sie wollen bei der Europawahl und den drei ostdeutschen Landtagswahlen in diesem Jahr antreten."
+                },
+                {
+                    "text": "Selbst auf der gro\u00dfen Hochzeit ihrer Nichte in Duisburg wirbt sie f\u00fcr die Partei."
+                },
+                {
+                    "text": "Auf der R\u00fcckfahrt des ersten Gruppentreffens in Nordrhein-Westfalen strandet sie bei einem Zugausfall in Hannover."
+                },
+                {
+                    "text": "Im \u00bbAsiahung\u00ab auf dem Hauptbahnhof habe sie Harald Schmidt getroffen und mit ihm geredet, erz\u00e4hlt sie sp\u00e4ter."
+                },
+                {
+                    "text": "Sie habe ihn f\u00fcr den 27. Januar zum Gr\u00fcndungsparteitag ins ehemalige Berliner Kino Kosmos eingeladen."
+                },
+                {
+                    "text": "\u00bbEr hat sich bedankt, aber er gehe auf keine Parteitage\u00ab, sagt sie."
+                },
+                {
+                    "text": "Anfang Januar reist sie nach Eisenach, um mit der Oberb\u00fcrgermeisterin Katja Wolf zu reden, die gerade erkl\u00e4rt hat, dass sie f\u00fcr das B\u00fcndnis Sahra Wagenknecht in Th\u00fcringen kandidieren wird."
+                },
+                {
+                    "text": "In D\u00fcsseldorf trifft sie die Gewerkschafterin Susanne Hille, die f\u00fcr Ver.di NRW den Fachbereich Gesundheit, Soziale Dienste, Bildung und Wissenschaft leitet, aber eigentlich aus Potsdam stammt."
+                },
+                {
+                    "text": "Sie reden \u00fcber die katastrophale Situation an den Schulen, den Pflegeeinrichtungen, den Krankenh\u00e4usern und in der Welt."
+                },
+                {
+                    "text": "Da\u011fdelen h\u00f6rt sich das geduldig an, Hille tr\u00e4gt die Friedenstaube am Revers wie ein Parteiabzeichen."
+                },
+                {
+                    "text": "Als Sevim Da\u011fdelen an einem Morgen noch in der Dunkelheit zum K\u00f6lner Flughafen f\u00e4hrt, checkt sie die Meldung, die die dpa aus ihrer Waffenstillstandsinitiative mit der Kongressabgeordneten Ilhan Omar gemacht hat."
+                },
+                {
+                    "text": "Sie scheint zufrieden zu sein."
+                },
+                {
+                    "text": "Auf die dpa k\u00f6nne sie sich verlassen, sagt sie."
+                },
+                {
+                    "text": "Sie \u00fcberlegt, wen sie jetzt noch mit ins Boot holen k\u00f6nnte."
+                },
+                {
+                    "text": "Sie fragt aus dem Taxidunkel: \u00bbWie denkt eigentlich der \u203aStern\u2039 \u00fcber Gaza?\u00ab"
+                },
+                {
+                    "text": "Am Wochenende besucht sie den konservativen Publizisten Roger K\u00f6ppel in seiner riesigen Berliner Wohnung in der Clausewitzstra\u00dfe."
+                },
+                {
+                    "text": "Sie h\u00e4tten in einer Bibliothek geredet, die in \u00bbAdenauer-Schwarz\u00ab gestrichen sei, sagt sie und lacht."
+                },
+                {
+                    "text": "Am Tag darauf l\u00e4uft sie in der ersten Reihe des Berliner Demonstrationszugs, der wie in jedem Januar an die Ermordung von Karl Liebknecht und Rosa Luxemburg erinnern soll."
+                },
+                {
+                    "text": "Vieles von dem, was sie tut, wirkt widerspr\u00fcchlich."
+                },
+                {
+                    "text": "Als wollte sie beweisen, wie breit der Spielraum ist, den man in Deutschland haben, ohne sich untreu zu werden."
+                },
+                {
+                    "text": "Als schwimme sie im Mainstream."
+                },
+                {
+                    "text": "Sevim Da\u011fdelen trifft sich mit K\u00f6ppel, dem Politsatiriker Martin Sonneborn, dem Regisseur Andreas Goldstein und dem Schauspieler Rolf Becker."
+                },
+                {
+                    "text": "Sie hat die fanatische Republikanerin Marjorie Taylor Greene besucht und gebeten, den Solidarit\u00e4tsbrief f\u00fcr Julian Assange an Pr\u00e4sident Biden zu unterzeichnen."
+                },
+                {
+                    "text": "Da\u011fdelen stellte im Bundestag die Anfrage \u00fcber das Verh\u00e4ltnis des damaligen ukrainischen Botschafters Andrij Melnyk zum antisemitischen Nationalisten Stepan Bandera und schloss sich nicht den Ovationen nach der Rede des ehemaligen israelischen Pr\u00e4sidenten Shimon Peres im Bundestag zum Gedenken der Opfer des Nationalsozialismus an."
+                },
+                {
+                    "text": "Sie hat Abby Rockefeller und G\u00fcnter Wallraff zuhause besucht."
+                },
+                {
+                    "text": "Sie hat im vorigen Sommer ein Che Guevara-Schnellschach-Turnier bei der TSG Obersch\u00f6neweide organisiert, wo ihre beiden S\u00f6hne spielen."
+                },
+                {
+                    "text": "Sie fehlt h\u00e4ufig bei Abstimmungen im Bundestag."
+                },
+                {
+                    "text": "In Gregor Gysis Buch steht: \u00bbF\u00fcr die liebe Sevim vom lieben Gregor\u00ab."
+                },
+                {
+                    "text": "Gysi will inzwischen nicht mehr damit zitiert werden, was er \u00fcber die liebe Sevim denkt."
+                },
+                {
+                    "text": "Er sitzt in seinem kleinen Abgeordnetenb\u00fcro und spricht \u00fcber die Probleme der Linken, die Zirkel, die Kreise."
+                },
+                {
+                    "text": "Er redet \u00fcber Krieg und Frieden."
+                },
+                {
+                    "text": "Ab und zu kommt sein B\u00fcrochef ins Zimmer und erinnert Gysi daran, dass er dem Bayerischen Rundfunk ein Interview zum 100."
+                },
+                {
+                    "text": "Irgendwann erscheint Da\u011fdelen am Rednerpult auf dem Fernseher."
+                },
+                {
+                    "text": "Am Sonntag darauf, als in Berlin mehr als 100.000 Menschen in Volksfestatmosph\u00e4re gegen die Rechten demonstrieren, bricht Sevim Da\u011fdelen, die Linke, nach Stra\u00dfburg auf, um im Europarat daf\u00fcr zu k\u00e4mpfen, dass ein \u00f6sterreichischer Menschenrechtsanwalt zum neuen Kommissar gew\u00e4hlt wird."
+                },
+                {
+                    "text": "Auf die freundlichen Protestierer allein kann sie sich nicht verlassen."
+                }
+            ],
+            "occupations": [],
+            "directQuotes": [
+                {
+                    "text": "Das Problem war das Soziale, nicht mein Migrationshintergrund"
+                },
+                {
+                    "text": "Es geht um Ausbeutung, nichts anderes. In Duisburg kommt jedes dritte Kind aus einer Hartz-IV-Familie, in manchen Stadtbezirken jedes zweite. Die Armut wird vererbt. Armut und Elend sind keine Naturgesetze. Sie sind Teil dieses Systems."
+                },
+                {
+                    "text": "Die Grauen W\u00f6lfe sind die gr\u00f6\u00dfte rechtsradikale Organisation in Deutschland. Aber Innenministerin Faeser verschleppt deren Verfolgung und den Pr\u00fcfauftrag des Bundestags von 2020 f\u00fcr ein Verbot."
+                },
+                {
+                    "text": "Die empfangen einen t\u00fcrkischen Pr\u00e4sidenten im Kanzleramt, der die Hamas sch\u00f6nredet"
+                },
+                {
+                    "text": "Das ist die Doppelmoral unserer Au\u00dfenpolitik. In deutschen Schulen d\u00fcrfen Kinder keine Pal\u00e4stinensert\u00fccher mehr tragen, aber wir hofieren mit Katar den gr\u00f6\u00dften Sponsor der Hamas."
+                },
+                {
+                    "text": "Man kann den Amerikanern auf Augenh\u00f6he begegnen. Man muss sich nicht verhalten wie ein Vasall, der nur Befehle entgegennimmt"
+                },
+                {
+                    "text": "So wie das manche meiner deutschen Kollegen tun. Die nimmt doch in Washington keiner mehr ernst."
+                },
+                {
+                    "text": "Was ist denn das f\u00fcr eine bescheuerte Frage."
+                },
+                {
+                    "text": "Ich nenne Merz einen Gernegro\u00df"
+                },
+                {
+                    "text": "Wie finden Sie das? Der Gernegro\u00df und seine deutsche Wunderwaffe."
+                },
+                {
+                    "text": "Wie denkt eigentlich der \u203aStern\u2039 \u00fcber Gaza?"
+                },
+                {
+                    "text": "Ick wee\u00df schon. Lenin."
+                }
+            ],
+            "quotedInTitle": false,
+            "quotedInIntro": true
+        },
+        {
+            "name": "Martin Sonneborn",
+            "alternativeNames": [],
+            "age": -1,
+            "sex": "male",
+            "occurences": {
+                "total": 1,
+                "firstNameOnly": 0,
+                "lastNameOnly": 0,
+                "fullName": 1,
+                "nickname": 0
+            },
+            "inTitle": false,
+            "inIntro": false,
+            "_name": {
+                "firstname": "Martin",
+                "lastname": "Sonneborn",
+                "nickname": null,
+                "alternative_names": [],
+                "academic_title": null,
+                "nobility_title_or_rank": null
+            },
+            "descriptiveTexts": [
+                {
+                    "text": "Sevim Da\u011fdelen trifft sich mit K\u00f6ppel, dem Politsatiriker Martin Sonneborn, dem Regisseur Andreas Goldstein und dem Schauspieler Rolf Becker."
+                }
+            ],
+            "occupations": [
+                {
+                    "text": "Politsatiriker"
+                }
+            ],
+            "directQuotes": [],
+            "quotedInTitle": false,
+            "quotedInIntro": false
+        },
+        {
+            "name": "Annalena Baerbock",
+            "alternativeNames": [],
+            "age": -1,
+            "sex": "female",
+            "occurences": {
+                "total": 1,
+                "firstNameOnly": 0,
+                "lastNameOnly": 0,
+                "fullName": 1,
+                "nickname": 0
+            },
+            "inTitle": false,
+            "inIntro": false,
+            "_name": {
+                "firstname": "Annalena",
+                "lastname": "Baerbock",
+                "nickname": null,
+                "alternative_names": [],
+                "academic_title": null,
+                "nobility_title_or_rank": null
+            },
+            "descriptiveTexts": [
+                {
+                    "text": "Alles ihre Themen: deutsche Kolonialgeschichte, dialektischer Materialismus und nat\u00fcrlich Annalena Baerbock."
+                }
+            ],
+            "occupations": [],
+            "directQuotes": [],
+            "quotedInTitle": false,
+            "quotedInIntro": false
+        },
+        {
+            "name": "G\u00fcnter Wallraff",
+            "alternativeNames": [
+                "Ali"
+            ],
+            "age": -1,
+            "sex": "male",
+            "occurences": {
+                "total": 4,
+                "firstNameOnly": 0,
+                "lastNameOnly": 1,
+                "fullName": 2,
+                "nickname": 1
+            },
+            "inTitle": false,
+            "inIntro": false,
+            "_name": {
+                "firstname": "G\u00fcnter",
+                "lastname": "Wallraff",
+                "nickname": "Ali",
+                "alternative_names": [
+                    "Ali"
+                ],
+                "academic_title": null,
+                "nobility_title_or_rank": null
+            },
+            "descriptiveTexts": [
+                {
+                    "text": "Dort hat in jenen Jahren, Anfang der Achtziger, auch G\u00fcnter Wallraff als Ali gewohnt, ein falscher T\u00fcrke, der unter anderem bei Thyssen schuftete."
+                },
+                {
+                    "text": "Wallraff machte aus seinen Erfahrungen \u00bbGanz Unten\u00ab, einen Bestseller \u00fcber die verfehlte Gastarbeitergeschichte der Bundesrepublik."
+                },
+                {
+                    "text": "Sie hat Abby Rockefeller und G\u00fcnter Wallraff zuhause besucht."
+                }
+            ],
+            "occupations": [],
+            "directQuotes": [],
+            "quotedInTitle": false,
+            "quotedInIntro": false
+        },
+        {
+            "name": "Abby Rockefeller",
+            "alternativeNames": [],
+            "age": -1,
+            "sex": "unknown",
+            "occurences": {
+                "total": 1,
+                "firstNameOnly": 0,
+                "lastNameOnly": 0,
+                "fullName": 1,
+                "nickname": 0
+            },
+            "inTitle": false,
+            "inIntro": false,
+            "_name": {
+                "firstname": "Abby",
+                "lastname": "Rockefeller",
+                "nickname": null,
+                "alternative_names": [],
+                "academic_title": null,
+                "nobility_title_or_rank": null
+            },
+            "descriptiveTexts": [
+                {
+                    "text": "Sie hat Abby Rockefeller und G\u00fcnter Wallraff zuhause besucht."
+                }
+            ],
+            "occupations": [],
+            "directQuotes": [],
+            "quotedInTitle": false,
+            "quotedInIntro": false
+        },
+        {
+            "name": "Rosa Luxemburg",
+            "alternativeNames": [],
+            "age": -1,
+            "sex": "female",
+            "occurences": {
+                "total": 1,
+                "firstNameOnly": 0,
+                "lastNameOnly": 0,
+                "fullName": 1,
+                "nickname": 0
+            },
+            "inTitle": false,
+            "inIntro": false,
+            "_name": {
+                "firstname": "Rosa",
+                "lastname": "Luxemburg",
+                "nickname": null,
+                "alternative_names": [],
+                "academic_title": null,
+                "nobility_title_or_rank": null
+            },
+            "descriptiveTexts": [
+                {
+                    "text": "Am Tag darauf l\u00e4uft sie in der ersten Reihe des Berliner Demonstrationszugs, der wie in jedem Januar an die Ermordung von Karl Liebknecht und Rosa Luxemburg erinnern soll."
+                }
+            ],
+            "occupations": [
+                {
+                    "text": "Die wahren Schlachten finden nicht im Parlament statt."
+                }
+            ],
+            "directQuotes": [
+                {
+                    "text": "Kommunistischen Manifest"
+                }
+            ],
+            "quotedInTitle": false,
+            "quotedInIntro": false
+        },
+        {
+            "name": "Sahra Wagenknecht",
+            "alternativeNames": [],
+            "age": -1,
+            "sex": "female",
+            "occurences": {
+                "total": 14,
+                "firstNameOnly": 1,
+                "lastNameOnly": 5,
+                "fullName": 8,
+                "nickname": 0
+            },
+            "inTitle": true,
+            "inIntro": true,
+            "_name": {
+                "firstname": "Sahra",
+                "lastname": "Wagenknecht",
+                "nickname": null,
+                "alternative_names": [],
+                "academic_title": null,
+                "nobility_title_or_rank": null
+            },
+            "descriptiveTexts": [
+                {
+                    "text": "Wagenknechts Au\u00dfenministerin"
+                },
+                {
+                    "text": "Nun wechselt sie zum neuen B\u00fcndnis Sahra Wagenknecht \u2013 und bewegt sich mit manchen Ansichten erstaunlich nahe am Mainstream."
+                },
+                {
+                    "text": "Sevim Da\u011fdelen, die zu den neun Bundestagsabgeordneten z\u00e4hlt, die an der Seite Sahra Wagenknechts die Linke verlassen, wirkt oft wie ein Schatten der deutschen Au\u00dfenministerin und deren wertegeleiteter feministischer Au\u00dfenpolitik."
+                },
+                {
+                    "text": "Sie hei\u00dft: \u00bbBrauchen wir eine Sahra-Wagenknecht-Partei?\u00ab"
+                },
+                {
+                    "text": "Sie \u00fcberquert die Marschallbr\u00fccke \u00fcber der Spree, umkreist Baracken und Z\u00e4une und sieht schlie\u00dflich Sahra Wagenknecht, die aufrecht, im Mantel mit aufgestelltem Pelzkragen, wie eine russische Adlige im Modulbau verschwindet."
+                },
+                {
+                    "text": "Zwei Stunden sp\u00e4ter erscheint Sahra Wagenknecht im Foyer eines Bundestagsgeb\u00e4udes vor der Hauptstadtpresse wie vor Gericht."
+                },
+                {
+                    "text": "Sie war l\u00e4nger als zwei Jahre lang stellvertretende Fraktionsvorsitzende der Linken, durchgesetzt von Wagenknecht."
+                },
+                {
+                    "text": "\u00bbDie Sevim macht das gut\u00ab, sagt Wagenknecht"
+                },
+                {
+                    "text": "\u00bbSevim ist sehr kompetent in der Au\u00dfenpolitik. Das Werben f\u00fcr Frieden und eine neue Entspannungspolitik ist ja eine der vier S\u00e4ulen, auf denen unser neues Programm steht\u00ab, sagt Sahra Wagenknecht."
+                },
+                {
+                    "text": "Wagenknecht schwebt in letzter Sekunde in den Raum, begleitet von einem Kamerateam des ZDF."
+                },
+                {
+                    "text": "Neun Tage sp\u00e4ter bittet Sahra Wagenknecht sie, eine Rede im Bundestag zu \u00fcbernehmen, die sie nicht halten kann, weil sie auf dem Weg nach Hamburg ist, zur Talkshow \u00bbLanz\u00ab."
+                },
+                {
+                    "text": "\u00bbIch wei\u00df, dass Sevim das gut macht\u00ab, sagt Sahra Wagenknecht."
+                },
+                {
+                    "text": "Anfang Januar reist sie nach Eisenach, um mit der Oberb\u00fcrgermeisterin Katja Wolf zu reden, die gerade erkl\u00e4rt hat, dass sie f\u00fcr das B\u00fcndnis Sahra Wagenknecht in Th\u00fcringen kandidieren wird."
+                }
+            ],
+            "occupations": [],
+            "directQuotes": [
+                {
+                    "text": "Die Sevim macht das gut"
+                },
+                {
+                    "text": "Sevim ist sehr kompetent in der Au\u00dfenpolitik. Das Werben f\u00fcr Frieden und eine neue Entspannungspolitik ist ja eine der vier S\u00e4ulen, auf denen unser neues Programm steht"
+                },
+                {
+                    "text": "Sie ist da fit und international auch sehr gut vernetzt. Sie hat diese wichtigen Initiativen gestartet. Au\u00dferdem ist sie gut bei \u00f6ffentlichen Auftritten. Sie war ja auch in gro\u00dfen deutschen Talkshows zu Gast und war da immer gut vorbereitet."
+                },
+                {
+                    "text": "F\u00fcr die liebe Sevim vom lieben Gregor"
+                }
+            ],
+            "quotedInTitle": true,
+            "quotedInIntro": true
+        },
+        {
+            "name": "Stepan Bandera",
+            "alternativeNames": [],
+            "age": -1,
+            "sex": "male",
+            "occurences": {
+                "total": 1,
+                "firstNameOnly": 0,
+                "lastNameOnly": 0,
+                "fullName": 1,
+                "nickname": 0
+            },
+            "inTitle": false,
+            "inIntro": false,
+            "_name": {
+                "firstname": "Stepan",
+                "lastname": "Bandera",
+                "nickname": null,
+                "alternative_names": [],
+                "academic_title": null,
+                "nobility_title_or_rank": null
+            },
+            "descriptiveTexts": [
+                {
+                    "text": "Da\u011fdelen stellte im Bundestag die Anfrage \u00fcber das Verh\u00e4ltnis des damaligen ukrainischen Botschafters Andrij Melnyk zum antisemitischen Nationalisten Stepan Bandera und schloss sich nicht den Ovationen nach der Rede des ehemaligen israelischen Pr\u00e4sidenten Shimon Peres im Bundestag zum Gedenken der Opfer des Nationalsozialismus an."
+                }
+            ],
+            "occupations": [],
+            "directQuotes": [],
+            "quotedInTitle": false,
+            "quotedInIntro": false
+        },
+        {
+            "name": "Shimon Pere",
+            "alternativeNames": [],
+            "age": -1,
+            "sex": "male",
+            "occurences": {
+                "total": 1,
+                "firstNameOnly": 0,
+                "lastNameOnly": 0,
+                "fullName": 1,
+                "nickname": 0
+            },
+            "inTitle": false,
+            "inIntro": false,
+            "_name": {
+                "firstname": null,
+                "lastname": "Peres",
+                "nickname": null,
+                "alternative_names": [],
+                "academic_title": null,
+                "nobility_title_or_rank": null
+            },
+            "descriptiveTexts": [
+                {
+                    "text": "Wenn ihre Partei, die es in diesem Moment noch nicht gibt und von der auch keiner so recht wei\u00df, wof\u00fcr sie eigentlich steht, die Wahlen gew\u00e4nne, w\u00fcrde sie dann ins Ausw\u00e4rtige Amt einziehen?"
+                },
+                {
+                    "text": "Irgendwann gibt der Lehrer auf und sagt: \u00bbVielleicht irre ich mich.\u00ab"
+                },
+                {
+                    "text": "Er habe an Depression gelitten, hie\u00df es."
+                },
+                {
+                    "text": "Ein Vertreter des Containerhafens erz\u00e4hlt in seinem B\u00fcro, dass sie das Terminal vor 20 Jahren er\u00f6ffneten, als die Kohle zu Ende ging."
+                },
+                {
+                    "text": "90 Z\u00fcge fertigen sie hier w\u00f6chentlich ab."
+                },
+                {
+                    "text": "\u00bbWerden unsere Z\u00fcge vom deutschen Zoll so behandelt wie europ\u00e4ische?\u00ab, fragt Fu.\n\nDer Terminalchef holt zu einer komplizierten Antwort aus, irgendwann spricht er \u00fcber geopolitische Herausforderungen, die die Handelsbeziehungen beeintr\u00e4chtigen."
+                },
+                {
+                    "text": "\u00bbWof\u00fcr streiken sie?\u00ab, fragt Fu.\n\n\u00bbMoney\u00ab, sagt Sevim Da\u011fdelen."
+                },
+                {
+                    "text": "Da\u011fdelen stellte im Bundestag die Anfrage \u00fcber das Verh\u00e4ltnis des damaligen ukrainischen Botschafters Andrij Melnyk zum antisemitischen Nationalisten Stepan Bandera und schloss sich nicht den Ovationen nach der Rede des ehemaligen israelischen Pr\u00e4sidenten Shimon Peres im Bundestag zum Gedenken der Opfer des Nationalsozialismus an."
+                }
+            ],
+            "occupations": [],
+            "directQuotes": [],
+            "quotedInTitle": false,
+            "quotedInIntro": false
+        },
+        {
+            "name": "Andreas Goldstein",
+            "alternativeNames": [],
+            "age": -1,
+            "sex": "male",
+            "occurences": {
+                "total": 1,
+                "firstNameOnly": 0,
+                "lastNameOnly": 0,
+                "fullName": 1,
+                "nickname": 0
+            },
+            "inTitle": false,
+            "inIntro": false,
+            "_name": {
+                "firstname": "Andreas",
+                "lastname": "Goldstein",
+                "nickname": null,
+                "alternative_names": [],
+                "academic_title": null,
+                "nobility_title_or_rank": null
+            },
+            "descriptiveTexts": [
+                {
+                    "text": "Sevim Da\u011fdelen trifft sich mit K\u00f6ppel, dem Politsatiriker Martin Sonneborn, dem Regisseur Andreas Goldstein und dem Schauspieler Rolf Becker."
+                }
+            ],
+            "occupations": [
+                {
+                    "text": "Regisseur"
+                }
+            ],
+            "directQuotes": [],
+            "quotedInTitle": false,
+            "quotedInIntro": false
+        },
+        {
+            "name": "Harald Schmidt",
+            "alternativeNames": [],
+            "age": -1,
+            "sex": "male",
+            "occurences": {
+                "total": 2,
+                "firstNameOnly": 0,
+                "lastNameOnly": 0,
+                "fullName": 2,
+                "nickname": 0
+            },
+            "inTitle": false,
+            "inIntro": false,
+            "_name": {
+                "firstname": "Harald",
+                "lastname": "Schmidt",
+                "nickname": null,
+                "alternative_names": [],
+                "academic_title": null,
+                "nobility_title_or_rank": null
+            },
+            "descriptiveTexts": [
+                {
+                    "text": "\u00bbFrau Da\u011fdelen scheint China ohne Vorurteile zu begegnen\u00ab, sagt Herr Fu.\n\nEr wird nach der Landung in D\u00fcsseldorf vom chinesischen Generalkonsul zum Abendessen abgeholt."
+                },
+                {
+                    "text": "\u00bbIch f\u00fchle mich wie zu Hause\u00ab, sagt er, was ein etwas besorgniserregender Satz ist, wenn man auf seine politische Biografie schaut."
+                },
+                {
+                    "text": "Harald Schmidt kommt nicht ins Kosmos"
+                },
+                {
+                    "text": "Im \u00bbAsiahung\u00ab auf dem Hauptbahnhof habe sie Harald Schmidt getroffen und mit ihm geredet, erz\u00e4hlt sie sp\u00e4ter."
+                }
+            ],
+            "occupations": [],
+            "directQuotes": [],
+            "quotedInTitle": false,
+            "quotedInIntro": false
+        },
+        {
+            "name": "Gregor Gysi",
+            "alternativeNames": [],
+            "age": -1,
+            "sex": "male",
+            "occurences": {
+                "total": 7,
+                "firstNameOnly": 1,
+                "lastNameOnly": 4,
+                "fullName": 2,
+                "nickname": 0
+            },
+            "inTitle": false,
+            "inIntro": false,
+            "_name": {
+                "firstname": "Gregor",
+                "lastname": "Gysi",
+                "nickname": null,
+                "alternative_names": [],
+                "academic_title": null,
+                "nobility_title_or_rank": null
+            },
+            "descriptiveTexts": [
+                {
+                    "text": "Im obersten Fach des B\u00fccherregals steht Deniz Y\u00fccels Haftbericht \u00bbAgentterrorist\u00ab, ganz unten Gregor Gysis Autobiografie \u00bbEin Leben ist zu wenig\u00ab."
+                },
+                {
+                    "text": "In Gregor Gysis Buch steht: \u00bbF\u00fcr die liebe Sevim vom lieben Gregor\u00ab."
+                },
+                {
+                    "text": "Gysi will inzwischen nicht mehr damit zitiert werden, was er \u00fcber die liebe Sevim denkt."
+                },
+                {
+                    "text": "Ab und zu kommt sein B\u00fcrochef ins Zimmer und erinnert Gysi daran, dass er dem Bayerischen Rundfunk ein Interview zum 100."
+                },
+                {
+                    "text": "\u00bbIck wee\u00df schon\u00ab, sagt Gysi."
+                },
+                {
+                    "text": "Gysi stellt den Ton an."
+                }
+            ],
+            "occupations": [],
+            "directQuotes": [
+                {
+                    "text": "Ein Leben ist zu wenig"
+                }
+            ],
+            "quotedInTitle": false,
+            "quotedInIntro": false
+        },
+        {
+            "name": "Karl Liebknecht",
+            "alternativeNames": [],
+            "age": -1,
+            "sex": "male",
+            "occurences": {
+                "total": 2,
+                "firstNameOnly": 0,
+                "lastNameOnly": 1,
+                "fullName": 1,
+                "nickname": 0
+            },
+            "inTitle": false,
+            "inIntro": false,
+            "_name": {
+                "firstname": "Karl",
+                "lastname": "Liebknecht",
+                "nickname": null,
+                "alternative_names": [],
+                "academic_title": null,
+                "nobility_title_or_rank": null
+            },
+            "descriptiveTexts": [
+                {
+                    "text": "Zwischen Adenauer und Liebknecht"
+                },
+                {
+                    "text": "Am Tag darauf l\u00e4uft sie in der ersten Reihe des Berliner Demonstrationszugs, der wie in jedem Januar an die Ermordung von Karl Liebknecht und Rosa Luxemburg erinnern soll."
+                }
+            ],
+            "occupations": [],
+            "directQuotes": [
+                {
+                    "text": "Die Geschichte aller bisherigen Gesellschaften ist die Geschichte von Klassenk\u00e4mpfen."
+                },
+                {
+                    "text": "Kommunistisches Manifest"
+                },
+                {
+                    "text": "Lenin."
+                }
+            ],
+            "quotedInTitle": false,
+            "quotedInIntro": false
+        },
+        {
+            "name": "Marjorie Taylor Greene",
+            "alternativeNames": [],
+            "age": -1,
+            "sex": "female",
+            "occurences": {
+                "total": 2,
+                "firstNameOnly": 1,
+                "lastNameOnly": 1,
+                "fullName": 0,
+                "nickname": 0
+            },
+            "inTitle": false,
+            "inIntro": false,
+            "_name": {
+                "firstname": "Marjorie",
+                "lastname": "Greene",
+                "nickname": null,
+                "alternative_names": [],
+                "academic_title": null,
+                "nobility_title_or_rank": null
+            },
+            "descriptiveTexts": [
+                {
+                    "text": "Sie hat die fanatische Republikanerin Marjorie Taylor Greene besucht und gebeten, den Solidarit\u00e4tsbrief f\u00fcr Julian Assange an Pr\u00e4sident Biden zu unterzeichnen."
+                }
+            ],
+            "occupations": [],
+            "directQuotes": [],
+            "quotedInTitle": false,
+            "quotedInIntro": false
+        },
+        {
+            "name": "Frida Kahlo",
+            "alternativeNames": [],
+            "age": -1,
+            "sex": "female",
+            "occurences": {
+                "total": 1,
+                "firstNameOnly": 0,
+                "lastNameOnly": 0,
+                "fullName": 1,
+                "nickname": 0
+            },
+            "inTitle": false,
+            "inIntro": false,
+            "_name": {
+                "firstname": null,
+                "lastname": "Kahlo",
+                "nickname": null,
+                "alternative_names": [],
+                "academic_title": null,
+                "nobility_title_or_rank": null
+            },
+            "descriptiveTexts": [
+                {
+                    "text": "Wenn ihre Partei, die es in diesem Moment noch nicht gibt und von der auch keiner so recht wei\u00df, wof\u00fcr sie eigentlich steht, die Wahlen gew\u00e4nne, w\u00fcrde sie dann ins Ausw\u00e4rtige Amt einziehen?"
+                },
+                {
+                    "text": "Irgendwann gibt der Lehrer auf und sagt: \u00bbVielleicht irre ich mich.\u00ab"
+                },
+                {
+                    "text": "Er habe an Depression gelitten, hie\u00df es."
+                },
+                {
+                    "text": "Ein Vertreter des Containerhafens erz\u00e4hlt in seinem B\u00fcro, dass sie das Terminal vor 20 Jahren er\u00f6ffneten, als die Kohle zu Ende ging."
+                },
+                {
+                    "text": "90 Z\u00fcge fertigen sie hier w\u00f6chentlich ab."
+                },
+                {
+                    "text": "\u00bbWerden unsere Z\u00fcge vom deutschen Zoll so behandelt wie europ\u00e4ische?\u00ab, fragt Fu.\n\nDer Terminalchef holt zu einer komplizierten Antwort aus, irgendwann spricht er \u00fcber geopolitische Herausforderungen, die die Handelsbeziehungen beeintr\u00e4chtigen."
+                },
+                {
+                    "text": "\u00bbWof\u00fcr streiken sie?\u00ab, fragt Fu.\n\n\u00bbMoney\u00ab, sagt Sevim Da\u011fdelen."
+                },
+                {
+                    "text": "An der Wand zwischen den Fenstern h\u00e4ngt ein Portr\u00e4t der mexikanischen Malerin Frida Kahlo, die Sevim Da\u011fdelen bewundert."
+                }
+            ],
+            "occupations": [],
+            "directQuotes": [],
+            "quotedInTitle": false,
+            "quotedInIntro": false
+        },
+        {
+            "name": "Thomas Massie",
+            "alternativeNames": [],
+            "age": -1,
+            "sex": "male",
+            "occurences": {
+                "total": 1,
+                "firstNameOnly": 0,
+                "lastNameOnly": 0,
+                "fullName": 1,
+                "nickname": 0
+            },
+            "inTitle": false,
+            "inIntro": false,
+            "_name": {
+                "firstname": "Thomas",
+                "lastname": "Massie",
+                "nickname": null,
+                "alternative_names": [],
+                "academic_title": null,
+                "nobility_title_or_rank": null
+            },
+            "descriptiveTexts": [
+                {
+                    "text": "Im Kongress trifft sich Sevim Da\u011fdelen dreieinhalb Stunden lang mit dem Republikaner Thomas Massie, der im Dezember 2021 nach einem t\u00f6dlichen Amoklauf an einer Schule in Michigan ein Foto postete, das ihn und seine Familie mit halb automatischen Gewehren unterm Weihnachtsbaum zeigt."
+                },
+                {
+                    "text": "Andererseits brachte er eine Resolution im Kongress ein, nach der die Strafverfolgung von Julian Assange sofort h\u00e4tte beendet werden sollen."
+                }
+            ],
+            "occupations": [],
+            "directQuotes": [],
+            "quotedInTitle": false,
+            "quotedInIntro": false
+        },
+        {
+            "name": "Wolfgang Streeck",
+            "alternativeNames": [],
+            "age": -1,
+            "sex": "male",
+            "occurences": {
+                "total": 2,
+                "firstNameOnly": 0,
+                "lastNameOnly": 1,
+                "fullName": 1,
+                "nickname": 0
+            },
+            "inTitle": false,
+            "inIntro": false,
+            "_name": {
+                "firstname": "Wolfgang",
+                "lastname": "Streeck",
+                "nickname": null,
+                "alternative_names": [],
+                "academic_title": null,
+                "nobility_title_or_rank": null
+            },
+            "descriptiveTexts": [
+                {
+                    "text": "Sie trifft den ehemaligen Chef des Max-Planck-Instituts f\u00fcr Gesellschaftsforschung Wolfgang Streeck in einem Restaurant am Dom."
+                },
+                {
+                    "text": "Streeck versteht, dass Sevim Da\u011fdelen ihn gern bei der neuen Partei dabei h\u00e4tte, aber es sieht nicht so aus, als habe er die Energie."
+                }
+            ],
+            "occupations": [],
+            "directQuotes": [],
+            "quotedInTitle": false,
+            "quotedInIntro": false
+        },
+        {
+            "name": "Jan B\u00f6hmermann",
+            "alternativeNames": [],
+            "age": -1,
+            "sex": "male",
+            "occurences": {
+                "total": 1,
+                "firstNameOnly": 0,
+                "lastNameOnly": 0,
+                "fullName": 1,
+                "nickname": 0
+            },
+            "inTitle": false,
+            "inIntro": false,
+            "_name": {
+                "firstname": "Jan",
+                "lastname": "B\u00f6hmermann",
+                "nickname": null,
+                "alternative_names": [],
+                "academic_title": null,
+                "nobility_title_or_rank": null
+            },
+            "descriptiveTexts": [
+                {
+                    "text": "Jan B\u00f6hmermann hat sie in einer Sendung im Herbst \u00bbtravel queen\u00ab genannt."
+                }
+            ],
+            "occupations": [],
+            "directQuotes": [],
+            "quotedInTitle": false,
+            "quotedInIntro": false
+        },
+        {
+            "name": "Roger K\u00f6ppel",
+            "alternativeNames": [],
+            "age": -1,
+            "sex": "male",
+            "occurences": {
+                "total": 2,
+                "firstNameOnly": 0,
+                "lastNameOnly": 0,
+                "fullName": 2,
+                "nickname": 0
+            },
+            "inTitle": false,
+            "inIntro": false,
+            "_name": {
+                "firstname": null,
+                "lastname": "K\u00f6ppel",
+                "nickname": null,
+                "alternative_names": [],
+                "academic_title": null,
+                "nobility_title_or_rank": null
+            },
+            "descriptiveTexts": [
+                {
+                    "text": "Wenn ihre Partei, die es in diesem Moment noch nicht gibt und von der auch keiner so recht wei\u00df, wof\u00fcr sie eigentlich steht, die Wahlen gew\u00e4nne, w\u00fcrde sie dann ins Ausw\u00e4rtige Amt einziehen?"
+                },
+                {
+                    "text": "Irgendwann gibt der Lehrer auf und sagt: \u00bbVielleicht irre ich mich.\u00ab"
+                },
+                {
+                    "text": "Er habe an Depression gelitten, hie\u00df es."
+                },
+                {
+                    "text": "Ein Vertreter des Containerhafens erz\u00e4hlt in seinem B\u00fcro, dass sie das Terminal vor 20 Jahren er\u00f6ffneten, als die Kohle zu Ende ging."
+                },
+                {
+                    "text": "90 Z\u00fcge fertigen sie hier w\u00f6chentlich ab."
+                },
+                {
+                    "text": "\u00bbWerden unsere Z\u00fcge vom deutschen Zoll so behandelt wie europ\u00e4ische?\u00ab, fragt Fu.\n\nDer Terminalchef holt zu einer komplizierten Antwort aus, irgendwann spricht er \u00fcber geopolitische Herausforderungen, die die Handelsbeziehungen beeintr\u00e4chtigen."
+                },
+                {
+                    "text": "\u00bbWof\u00fcr streiken sie?\u00ab, fragt Fu.\n\n\u00bbMoney\u00ab, sagt Sevim Da\u011fdelen."
+                },
+                {
+                    "text": "Am Wochenende besucht sie den konservativen Publizisten Roger K\u00f6ppel in seiner riesigen Berliner Wohnung in der Clausewitzstra\u00dfe."
+                },
+                {
+                    "text": "Sevim Da\u011fdelen trifft sich mit K\u00f6ppel, dem Politsatiriker Martin Sonneborn, dem Regisseur Andreas Goldstein und dem Schauspieler Rolf Becker."
+                }
+            ],
+            "occupations": [],
+            "directQuotes": [],
+            "quotedInTitle": false,
+            "quotedInIntro": false
+        },
+        {
+            "name": "Julian Assange",
+            "alternativeNames": [],
+            "age": -1,
+            "sex": "male",
+            "occurences": {
+                "total": 5,
+                "firstNameOnly": 0,
+                "lastNameOnly": 1,
+                "fullName": 4,
+                "nickname": 0
+            },
+            "inTitle": false,
+            "inIntro": false,
+            "_name": {
+                "firstname": "Julian",
+                "lastname": "Assange",
+                "nickname": null,
+                "alternative_names": [],
+                "academic_title": null,
+                "nobility_title_or_rank": null
+            },
+            "descriptiveTexts": [
+                {
+                    "text": "Andererseits brachte er eine Resolution im Kongress ein, nach der die Strafverfolgung von Julian Assange sofort h\u00e4tte beendet werden sollen."
+                },
+                {
+                    "text": "In ihrem Statement auf dem Belmarsh-Tribunal f\u00fcr Julian Assange im National Press Club wirft sie gleich am Anfang den USA deren Uno-Veto gegen den Waffenstillstand in Gaza vor."
+                },
+                {
+                    "text": "Sie sagt, dass diese Zeiten einen Mann wie Assange brauchten, von dem der Satz stamme: \u00bbWenn Kriege mit L\u00fcgen begonnen werden k\u00f6nnen, kann Frieden mit Wahrheit begonnen werden.\u00ab"
+                },
+                {
+                    "text": "Sie machen Wahlkampf f\u00fcr die ber\u00fchmte Schwester, sie w\u00e4hlen ihre Partei, und als Sevim hier mal mit dem Vater von Julian Assange vorbeikam, haben sie dem die Haare geschnitten."
+                },
+                {
+                    "text": "Sie hat die fanatische Republikanerin Marjorie Taylor Greene besucht und gebeten, den Solidarit\u00e4tsbrief f\u00fcr Julian Assange an Pr\u00e4sident Biden zu unterzeichnen."
+                }
+            ],
+            "occupations": [],
+            "directQuotes": [
+                {
+                    "text": "Wenn Kriege mit L\u00fcgen begonnen werden k\u00f6nnen, kann Frieden mit Wahrheit begonnen werden."
+                }
+            ],
+            "quotedInTitle": false,
+            "quotedInIntro": false
+        },
+        {
+            "name": "Ilhan Omar",
+            "alternativeNames": [],
+            "age": -1,
+            "sex": "female",
+            "occurences": {
+                "total": 2,
+                "firstNameOnly": 0,
+                "lastNameOnly": 0,
+                "fullName": 2,
+                "nickname": 0
+            },
+            "inTitle": false,
+            "inIntro": false,
+            "_name": {
+                "firstname": null,
+                "lastname": "Omar",
+                "nickname": null,
+                "alternative_names": [],
+                "academic_title": null,
+                "nobility_title_or_rank": null
+            },
+            "descriptiveTexts": [
+                {
+                    "text": "Wenn ihre Partei, die es in diesem Moment noch nicht gibt und von der auch keiner so recht wei\u00df, wof\u00fcr sie eigentlich steht, die Wahlen gew\u00e4nne, w\u00fcrde sie dann ins Ausw\u00e4rtige Amt einziehen?"
+                },
+                {
+                    "text": "Irgendwann gibt der Lehrer auf und sagt: \u00bbVielleicht irre ich mich.\u00ab"
+                },
+                {
+                    "text": "Er habe an Depression gelitten, hie\u00df es."
+                },
+                {
+                    "text": "Ein Vertreter des Containerhafens erz\u00e4hlt in seinem B\u00fcro, dass sie das Terminal vor 20 Jahren er\u00f6ffneten, als die Kohle zu Ende ging."
+                },
+                {
+                    "text": "90 Z\u00fcge fertigen sie hier w\u00f6chentlich ab."
+                },
+                {
+                    "text": "\u00bbWerden unsere Z\u00fcge vom deutschen Zoll so behandelt wie europ\u00e4ische?\u00ab, fragt Fu.\n\nDer Terminalchef holt zu einer komplizierten Antwort aus, irgendwann spricht er \u00fcber geopolitische Herausforderungen, die die Handelsbeziehungen beeintr\u00e4chtigen."
+                },
+                {
+                    "text": "\u00bbWof\u00fcr streiken sie?\u00ab, fragt Fu.\n\n\u00bbMoney\u00ab, sagt Sevim Da\u011fdelen."
+                },
+                {
+                    "text": "Gemeinsam mit der Demokratin Ilhan Omar beschlie\u00dft Da\u011fdelen in einer Washingtoner Cafeteria, eine weltweite Initiative von Parlamentariern zu starten, die f\u00fcr einen Waffenstillstand in Gaza eintreten."
+                },
+                {
+                    "text": "Als Sevim Da\u011fdelen an einem Morgen noch in der Dunkelheit zum K\u00f6lner Flughafen f\u00e4hrt, checkt sie die Meldung, die die dpa aus ihrer Waffenstillstandsinitiative mit der Kongressabgeordneten Ilhan Omar gemacht hat."
+                }
+            ],
+            "occupations": [],
+            "directQuotes": [],
+            "quotedInTitle": false,
+            "quotedInIntro": false
+        },
+        {
+            "name": "Susanne Hille",
+            "alternativeNames": [],
+            "age": -1,
+            "sex": "female",
+            "occurences": {
+                "total": 2,
+                "firstNameOnly": 0,
+                "lastNameOnly": 1,
+                "fullName": 1,
+                "nickname": 0
+            },
+            "inTitle": false,
+            "inIntro": false,
+            "_name": {
+                "firstname": "Susanne",
+                "lastname": "Hille",
+                "nickname": null,
+                "alternative_names": [],
+                "academic_title": null,
+                "nobility_title_or_rank": null
+            },
+            "descriptiveTexts": [
+                {
+                    "text": "In D\u00fcsseldorf trifft sie die Gewerkschafterin Susanne Hille, die f\u00fcr Ver.di NRW den Fachbereich Gesundheit, Soziale Dienste, Bildung und Wissenschaft leitet, aber eigentlich aus Potsdam stammt."
+                },
+                {
+                    "text": "Da\u011fdelen h\u00f6rt sich das geduldig an, Hille tr\u00e4gt die Friedenstaube am Revers wie ein Parteiabzeichen."
+                }
+            ],
+            "occupations": [],
+            "directQuotes": [],
+            "quotedInTitle": false,
+            "quotedInIntro": false
+        }
+    ]
+}

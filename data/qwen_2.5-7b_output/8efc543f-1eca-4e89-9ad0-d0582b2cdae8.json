@@ -1,0 +1,379 @@
+{
+    "persons": [
+        {
+            "name": "Olaf Scholz",
+            "alternativeNames": [],
+            "age": -1,
+            "sex": "male",
+            "occurences": {
+                "total": 2,
+                "firstNameOnly": 0,
+                "lastNameOnly": 1,
+                "fullName": 1,
+                "nickname": 0
+            },
+            "inTitle": false,
+            "inIntro": false,
+            "_name": {
+                "firstname": "Olaf",
+                "lastname": "Scholz",
+                "nickname": null,
+                "alternative_names": [],
+                "academic_title": null,
+                "nobility_title_or_rank": "Burggraf"
+            },
+            "descriptiveTexts": [
+                {
+                    "text": "German Chancellor Olaf Scholz made a state visit to Nairobi last year and gushed about the opportunities on the German job market."
+                },
+                {
+                    "text": "At a press conference following his meeting with Scholz, Kenyan President William Ruto even spoke of 250,000 jobs available to his countrymen in Germany."
+                }
+            ],
+            "occupations": [],
+            "directQuotes": [],
+            "quotedInTitle": false,
+            "quotedInIntro": false
+        },
+        {
+            "name": "Christopher Mutembei",
+            "alternativeNames": [],
+            "age": -1,
+            "sex": "male",
+            "occurences": {
+                "total": 2,
+                "firstNameOnly": 0,
+                "lastNameOnly": 1,
+                "fullName": 1,
+                "nickname": 0
+            },
+            "inTitle": false,
+            "inIntro": false,
+            "_name": {
+                "firstname": "Christopher",
+                "lastname": "Mutembei",
+                "nickname": null,
+                "alternative_names": [],
+                "academic_title": "Professorin",
+                "nobility_title_or_rank": null
+            },
+            "descriptiveTexts": [
+                {
+                    "text": "Dr. Christopher Mutembei receives his guests from DER SPIEGEL on the rooftop terrace on the 13th floor."
+                },
+                {
+                    "text": "Mutembei is head of the Center for Professional Development, and he has ambitious plans."
+                }
+            ],
+            "occupations": [],
+            "directQuotes": [],
+            "quotedInTitle": false,
+            "quotedInIntro": false
+        },
+        {
+            "name": "Stephen Sunday",
+            "alternativeNames": [],
+            "age": 38,
+            "sex": "male",
+            "occurences": {
+                "total": 7,
+                "firstNameOnly": 0,
+                "lastNameOnly": 4,
+                "fullName": 3,
+                "nickname": 0
+            },
+            "inTitle": false,
+            "inIntro": false,
+            "_name": {
+                "firstname": "Stephen",
+                "lastname": "Sunday",
+                "nickname": null,
+                "alternative_names": [],
+                "academic_title": null,
+                "nobility_title_or_rank": null
+            },
+            "descriptiveTexts": [
+                {
+                    "text": "\"Bitte alle anschnallen,\" please fasten your seatbelts, Stephen Sunday says in German."
+                },
+                {
+                    "text": "But Sunday wants to do everything just right, because he is aiming for a future far away from the shores of Lake Victoria."
+                },
+                {
+                    "text": "Sunday chugs along patiently in his bus behind all the obstacles, a gentle smile on his lips and his hand ready for action on the gear shift."
+                },
+                {
+                    "text": "Sunday has been driving buses for 10 years."
+                },
+                {
+                    "text": "The agency in Berlin through which Sunday is hoping to come to Germany has identified more than 100 candidates from Kenya to bolster local public transportation."
+                },
+                {
+                    "text": "\"I am Stephen Sunday, and I am a bus driver,\" says the course participant, almost accent-free."
+                },
+                {
+                    "text": "Stephen Sunday covers one eye and starts reading a few letters from the wall."
+                }
+            ],
+            "occupations": [],
+            "directQuotes": [
+                {
+                    "text": "My father was a teacher, and I really wanted to work with children as well,"
+                },
+                {
+                    "text": "I\u2019m the explorer type,"
+                },
+                {
+                    "text": "I am Stephen Sunday, and I am a bus driver,"
+                },
+                {
+                    "text": "I will do my best, no matter what,"
+                }
+            ],
+            "quotedInTitle": false,
+            "quotedInIntro": false
+        },
+        {
+            "name": "B\u00e4rbel Boy",
+            "alternativeNames": [],
+            "age": -1,
+            "sex": "female",
+            "occurences": {
+                "total": 1,
+                "firstNameOnly": 0,
+                "lastNameOnly": 0,
+                "fullName": 1,
+                "nickname": 0
+            },
+            "inTitle": false,
+            "inIntro": false,
+            "_name": {
+                "firstname": "B\u00e4rbel",
+                "lastname": "Boy",
+                "nickname": null,
+                "alternative_names": [],
+                "academic_title": null,
+                "nobility_title_or_rank": null
+            },
+            "descriptiveTexts": [
+                {
+                    "text": "\"It is a pilot project, and the bureaucratic challenges are enormous,\" says Albig\u2019s partner, B\u00e4rbel Boy."
+                }
+            ],
+            "occupations": [],
+            "directQuotes": [],
+            "quotedInTitle": false,
+            "quotedInIntro": false
+        },
+        {
+            "name": "Caroline Mwangi",
+            "alternativeNames": [],
+            "age": -1,
+            "sex": "female",
+            "occurences": {
+                "total": 2,
+                "firstNameOnly": 0,
+                "lastNameOnly": 1,
+                "fullName": 1,
+                "nickname": 0
+            },
+            "inTitle": false,
+            "inIntro": false,
+            "_name": {
+                "firstname": "Caroline",
+                "lastname": "Mwangi",
+                "nickname": null,
+                "alternative_names": [],
+                "academic_title": null,
+                "nobility_title_or_rank": null
+            },
+            "descriptiveTexts": [
+                {
+                    "text": "Caroline Mwangi helped establish the program at Mount Kenya University and is currently living in Nuremberg, where she heads up a diaspora network for her compatriots in Germany."
+                },
+                {
+                    "text": "\"We have to steer the gold-rush mentality in an orderly direction,\" says Mwangi."
+                }
+            ],
+            "occupations": [],
+            "directQuotes": [],
+            "quotedInTitle": false,
+            "quotedInIntro": false
+        },
+        {
+            "name": "Claudia Schilling",
+            "alternativeNames": [],
+            "age": -1,
+            "sex": "female",
+            "occurences": {
+                "total": 2,
+                "firstNameOnly": 0,
+                "lastNameOnly": 1,
+                "fullName": 1,
+                "nickname": 0
+            },
+            "inTitle": false,
+            "inIntro": false,
+            "_name": {
+                "firstname": "Claudia",
+                "lastname": "Schilling",
+                "nickname": null,
+                "alternative_names": [],
+                "academic_title": null,
+                "nobility_title_or_rank": null
+            },
+            "descriptiveTexts": [
+                {
+                    "text": "\"Demand has increased significantly,\" says project manager Claudia Schilling."
+                },
+                {
+                    "text": "But Schilling also warns: \"More than anything, we have to manage expectations at the moment. Many of them are unrealistic, on both sides.\""
+                }
+            ],
+            "occupations": [],
+            "directQuotes": [],
+            "quotedInTitle": false,
+            "quotedInIntro": false
+        },
+        {
+            "name": "Jeremy Maina",
+            "alternativeNames": [],
+            "age": 37,
+            "sex": "male",
+            "occurences": {
+                "total": 4,
+                "firstNameOnly": 0,
+                "lastNameOnly": 2,
+                "fullName": 2,
+                "nickname": 0
+            },
+            "inTitle": false,
+            "inIntro": false,
+            "_name": {
+                "firstname": "Jeremy",
+                "lastname": "Maina",
+                "nickname": null,
+                "alternative_names": [],
+                "academic_title": null,
+                "nobility_title_or_rank": null
+            },
+            "descriptiveTexts": [
+                {
+                    "text": "In the lecture hall next door, students are practicing their German: Jeremy Maina, who has once again jumped in as a teacher, is conjugating the verb \"kochen,\" to cook."
+                },
+                {
+                    "text": "\nMaina speaks fluent German and lived in Germany for almost 10 years as a university student."
+                },
+                {
+                    "text": "Ultimately, Jeremy Maina was lucky."
+                },
+                {
+                    "text": "\"At first, I didn\u2019t want to believe it. I thought it was some shady agency. But then my sister saw the ad on television as well,\" Maina says."
+                }
+            ],
+            "occupations": [],
+            "directQuotes": [],
+            "quotedInTitle": false,
+            "quotedInIntro": false
+        },
+        {
+            "name": "Britta Oehlrich",
+            "alternativeNames": [],
+            "age": -1,
+            "sex": "female",
+            "occurences": {
+                "total": 1,
+                "firstNameOnly": 0,
+                "lastNameOnly": 0,
+                "fullName": 1,
+                "nickname": 0
+            },
+            "inTitle": false,
+            "inIntro": false,
+            "_name": {
+                "firstname": "Britta",
+                "lastname": "Oehlrich",
+                "nickname": null,
+                "alternative_names": [],
+                "academic_title": null,
+                "nobility_title_or_rank": null
+            },
+            "descriptiveTexts": [
+                {
+                    "text": "Given the acute need for new drivers, Britta Oehlrich, head of the transportation company Verkehrsbetriebe Hamburg-Holstein, isn\u2019t backing down in the face of such hurdles."
+                }
+            ],
+            "occupations": [],
+            "directQuotes": [],
+            "quotedInTitle": false,
+            "quotedInIntro": false
+        },
+        {
+            "name": "Connie Achieng",
+            "alternativeNames": [],
+            "age": -1,
+            "sex": "female",
+            "occurences": {
+                "total": 1,
+                "firstNameOnly": 0,
+                "lastNameOnly": 0,
+                "fullName": 1,
+                "nickname": 0
+            },
+            "inTitle": false,
+            "inIntro": false,
+            "_name": {
+                "firstname": "Connie",
+                "lastname": "Achieng",
+                "nickname": null,
+                "alternative_names": [],
+                "academic_title": null,
+                "nobility_title_or_rank": null
+            },
+            "descriptiveTexts": [
+                {
+                    "text": "\"This exam is standing between you and a trip to Germany. Don\u2019t forget,\" says the teacher, Connie Achieng, upping the pressure."
+                }
+            ],
+            "occupations": [],
+            "directQuotes": [],
+            "quotedInTitle": false,
+            "quotedInIntro": false
+        },
+        {
+            "name": "Torsten Albig",
+            "alternativeNames": [],
+            "age": -1,
+            "sex": "male",
+            "occurences": {
+                "total": 2,
+                "firstNameOnly": 0,
+                "lastNameOnly": 1,
+                "fullName": 1,
+                "nickname": 0
+            },
+            "inTitle": false,
+            "inIntro": false,
+            "_name": {
+                "firstname": "Torsten",
+                "lastname": "Albig",
+                "nickname": null,
+                "alternative_names": [],
+                "academic_title": null,
+                "nobility_title_or_rank": null
+            },
+            "descriptiveTexts": [
+                {
+                    "text": "Torsten Albig, the former governor of the German state of Schleswig-Holstein, is a co-founder of the company, which has just completed the first contract for five bus drivers with a northern Germany transportation company."
+                },
+                {
+                    "text": "\"It is a pilot project, and the bureaucratic challenges are enormous,\" says Albig\u2019s partner, B\u00e4rbel Boy."
+                }
+            ],
+            "occupations": [],
+            "directQuotes": [],
+            "quotedInTitle": false,
+            "quotedInIntro": false
+        }
+    ]
+}

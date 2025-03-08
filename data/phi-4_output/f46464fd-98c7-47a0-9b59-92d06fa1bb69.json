@@ -1,0 +1,40 @@
+{
+    "persons": [
+        {
+            "name": "Thierry Breton",
+            "alternativeNames": [],
+            "age": -1,
+            "sex": "male",
+            "occurences": {
+                "total": 1,
+                "firstNameOnly": 0,
+                "lastNameOnly": 0,
+                "fullName": 1,
+                "nickname": 0
+            },
+            "inTitle": false,
+            "inIntro": false,
+            "_name": {
+                "firstname": "Thierry",
+                "lastname": "Breton",
+                "nickname": null,
+                "alternative_names": [],
+                "academic_title": null,
+                "nobility_title_or_rank": null
+            },
+            "descriptiveTexts": [
+                {
+                    "text": "Der zust\u00e4ndige EU-Kommissar Thierry Breton hob am Donnerstag hervor: \u00bbDie Einhaltung des DSA ist keine Strafe \u2013 es ist eine M\u00f6glichkeit f\u00fcr Plattformen, ihre Vertrauensw\u00fcrdigkeit zu st\u00e4rken.\u00ab"
+                }
+            ],
+            "occupations": [],
+            "directQuotes": [
+                {
+                    "text": "Die Einhaltung des DSA ist keine Strafe \u2013 es ist eine M\u00f6glichkeit f\u00fcr Plattformen, ihre Vertrauensw\u00fcrdigkeit zu st\u00e4rken."
+                }
+            ],
+            "quotedInTitle": false,
+            "quotedInIntro": false
+        }
+    ]
+}

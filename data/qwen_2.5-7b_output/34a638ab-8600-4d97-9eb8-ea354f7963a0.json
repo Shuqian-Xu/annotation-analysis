@@ -1,0 +1,529 @@
+{
+    "persons": [
+        {
+            "name": "Juri Knorr",
+            "alternativeNames": [],
+            "age": -1,
+            "sex": "male",
+            "occurences": {
+                "total": 1,
+                "firstNameOnly": 0,
+                "lastNameOnly": 0,
+                "fullName": 1,
+                "nickname": 0
+            },
+            "inTitle": false,
+            "inIntro": false,
+            "_name": {
+                "firstname": "Juri",
+                "lastname": "Knorr",
+                "nickname": null,
+                "alternative_names": [],
+                "academic_title": null,
+                "nobility_title_or_rank": null
+            },
+            "descriptiveTexts": [
+                {
+                    "text": "Und doch war diese Europameisterschaft besonders, sie stellte neue Gesichter in den Mittelpunkt."
+                },
+                {
+                    "text": "Ob D\u00e4nemarks Torh\u00fcter Nielsen, D\u00e4nemarks Tormaschine und EM-Torsch\u00fctzenk\u00f6nig Mathias Gidsel, Deutschlands Youngster Juri Knorr und Julian K\u00f6ster, Frankreichs Passk\u00f6nig Nedim Remili, \u00d6sterreichs \u00dcberraschungstorwart Constantin M\u00f6stl \u2013 sie alle nutzten das Rampenlicht vor der Rekordkulisse in Deutschland."
+                },
+                {
+                    "text": "Jetzt m\u00fcssen sie im Ligaalltag zeigen, wie nachhaltig die Begeisterung war, die um sie herum entstanden ist."
+                }
+            ],
+            "occupations": [],
+            "directQuotes": [],
+            "quotedInTitle": false,
+            "quotedInIntro": false
+        },
+        {
+            "name": "Martin Hausleitner",
+            "alternativeNames": [],
+            "age": -1,
+            "sex": "male",
+            "occurences": {
+                "total": 1,
+                "firstNameOnly": 0,
+                "lastNameOnly": 0,
+                "fullName": 1,
+                "nickname": 0
+            },
+            "inTitle": false,
+            "inIntro": false,
+            "_name": {
+                "firstname": "Martin",
+                "lastname": "Hausleitner",
+                "nickname": null,
+                "alternative_names": [],
+                "academic_title": null,
+                "nobility_title_or_rank": null
+            },
+            "descriptiveTexts": [
+                {
+                    "text": "EHF-Generalsekret\u00e4r Martin Hausleitner sprach auch von einer gro\u00dfen internationalen Resonanz."
+                }
+            ],
+            "occupations": [
+                {
+                    "text": "EHF-Generalsekret\u00e4r"
+                }
+            ],
+            "directQuotes": [],
+            "quotedInTitle": false,
+            "quotedInIntro": false
+        },
+        {
+            "name": "Mikkel Hansen",
+            "alternativeNames": [],
+            "age": 36,
+            "sex": "male",
+            "occurences": {
+                "total": 4,
+                "firstNameOnly": 0,
+                "lastNameOnly": 2,
+                "fullName": 2,
+                "nickname": 0
+            },
+            "inTitle": false,
+            "inIntro": false,
+            "_name": {
+                "firstname": "Mikkel",
+                "lastname": "Hansen",
+                "nickname": null,
+                "alternative_names": [],
+                "academic_title": null,
+                "nobility_title_or_rank": null
+            },
+            "descriptiveTexts": [
+                {
+                    "text": "Sie haben die Klasse, sie kennen alle Tricks."
+                },
+                {
+                    "text": "Sie wissen, wie man die gro\u00dfen Spiele f\u00fcr sich entscheidet."
+                },
+                {
+                    "text": "F\u00fcr die D\u00e4nen, die nach 2008 und 2012 weiter auf ihren dritten Titel warten m\u00fcssen, traf Mikkel Hansen neunmal."
+                },
+                {
+                    "text": "Die Abschiedstournee: Der Franzose Nikola Karabati\u0107, 39, und der D\u00e4ne Mikkel Hansen, 36, haben alles gewonnen und geh\u00f6ren zu den ganz Gro\u00dfen ihres Sports."
+                },
+                {
+                    "text": "Vor allem Hansen lie\u00df im Finale seine Klasse aufblitzen, als er seine Siebenmeter mit unheimlicher Pr\u00e4zision versenkte."
+                },
+                {
+                    "text": "Am Ende kam Hansen sogar auf neun Treffer, damit hat er nun insgesamt 296 EM-Treffer in seiner Karriere erzielt und damit mehr als alle anderen."
+                }
+            ],
+            "occupations": [],
+            "directQuotes": [],
+            "quotedInTitle": false,
+            "quotedInIntro": false
+        },
+        {
+            "name": "Nikola Karabati\u0107",
+            "alternativeNames": [],
+            "age": 39,
+            "sex": "male",
+            "occurences": {
+                "total": 4,
+                "firstNameOnly": 0,
+                "lastNameOnly": 2,
+                "fullName": 2,
+                "nickname": 0
+            },
+            "inTitle": false,
+            "inIntro": true,
+            "_name": {
+                "firstname": "Nikola",
+                "lastname": "Karabati\u0107",
+                "nickname": null,
+                "alternative_names": [],
+                "academic_title": null,
+                "nobility_title_or_rank": null
+            },
+            "descriptiveTexts": [
+                {
+                    "text": "\u00dcber das Team von Nikola Karabati\u0107, das nie aufgibt, und den unwahrscheinlichen Aufstieg des d\u00e4nischen Torh\u00fcters Emil Nielsen."
+                },
+                {
+                    "text": "Jetzt konnten die D\u00e4nen den Spielzug besprechen, mit dem sie die Handball-Europameisterschaft gegen Frankreich gewinnen."
+                },
+                {
+                    "text": "Sie haben die Klasse, sie kennen alle Tricks."
+                },
+                {
+                    "text": "Sie wissen, wie man die gro\u00dfen Spiele f\u00fcr sich entscheidet."
+                },
+                {
+                    "text": "Die Abschiedstournee: Der Franzose Nikola Karabati\u0107, 39, und der D\u00e4ne Mikkel Hansen, 36, haben alles gewonnen und geh\u00f6ren zu den ganz Gro\u00dfen ihres Sports."
+                },
+                {
+                    "text": "Ein Tor weniger, n\u00e4mlich 295, hat Karabati\u0107, der im Finale kaum eine Rolle spielte und nach den Olympischen Sommerspielen in Paris seine Karriere beenden wird."
+                },
+                {
+                    "text": "Den Rekord f\u00fcr die meisten EM-Tore wird er sich nicht mehr zur\u00fcckholen, das kann er verschmerzen."
+                },
+                {
+                    "text": "Er geht als Europameister."
+                },
+                {
+                    "text": "Kaum ein anderer Spieler verk\u00f6rpert das franz\u00f6sische Team der Unsterblichen so gut wie Karabati\u0107."
+                }
+            ],
+            "occupations": [
+                {
+                    "text": "Europameister"
+                },
+                {
+                    "text": "Klasse"
+                }
+            ],
+            "directQuotes": [],
+            "quotedInTitle": false,
+            "quotedInIntro": true
+        },
+        {
+            "name": "Nikolaj Jacobsen",
+            "alternativeNames": [],
+            "age": -1,
+            "sex": "male",
+            "occurences": {
+                "total": 1,
+                "firstNameOnly": 0,
+                "lastNameOnly": 0,
+                "fullName": 1,
+                "nickname": 0
+            },
+            "inTitle": false,
+            "inIntro": false,
+            "_name": {
+                "firstname": "Nikolaj",
+                "lastname": "Jacobsen",
+                "nickname": null,
+                "alternative_names": [],
+                "academic_title": null,
+                "nobility_title_or_rank": null
+            },
+            "descriptiveTexts": [
+                {
+                    "text": "Der d\u00e4nische Trainer Nikolaj Jacobsen nahm eine Auszeit."
+                }
+            ],
+            "occupations": [
+                {
+                    "text": "Trainer"
+                }
+            ],
+            "directQuotes": [],
+            "quotedInTitle": false,
+            "quotedInIntro": false
+        },
+        {
+            "name": "Ludovic Fabregas",
+            "alternativeNames": [],
+            "age": -1,
+            "sex": "male",
+            "occurences": {
+                "total": 2,
+                "firstNameOnly": 0,
+                "lastNameOnly": 1,
+                "fullName": 1,
+                "nickname": 0
+            },
+            "inTitle": false,
+            "inIntro": false,
+            "_name": {
+                "firstname": "Ludovic",
+                "lastname": "Fabregas",
+                "nickname": null,
+                "alternative_names": [],
+                "academic_title": null,
+                "nobility_title_or_rank": null
+            },
+            "descriptiveTexts": [
+                {
+                    "text": "Frankreich verteidigte offensiv, provozierte einen Ballverlust und glich durch Ludovic Fabregas zum 27:27 aus."
+                },
+                {
+                    "text": "Fabregas war mit acht Toren bester Werfer des neuen Champions."
+                }
+            ],
+            "occupations": [],
+            "directQuotes": [],
+            "quotedInTitle": false,
+            "quotedInIntro": false
+        },
+        {
+            "name": "Nedim Remili",
+            "alternativeNames": [],
+            "age": -1,
+            "sex": "male",
+            "occurences": {
+                "total": 1,
+                "firstNameOnly": 0,
+                "lastNameOnly": 0,
+                "fullName": 1,
+                "nickname": 0
+            },
+            "inTitle": false,
+            "inIntro": false,
+            "_name": {
+                "firstname": "Nedim",
+                "lastname": "Remili",
+                "nickname": null,
+                "alternative_names": [],
+                "academic_title": null,
+                "nobility_title_or_rank": null
+            },
+            "descriptiveTexts": [
+                {
+                    "text": "Und doch war diese Europameisterschaft besonders, sie stellte neue Gesichter in den Mittelpunkt."
+                },
+                {
+                    "text": "Ob D\u00e4nemarks Torh\u00fcter Nielsen, D\u00e4nemarks Tormaschine und EM-Torsch\u00fctzenk\u00f6nig Mathias Gidsel, Deutschlands Youngster Juri Knorr und Julian K\u00f6ster, Frankreichs Passk\u00f6nig Nedim Remili, \u00d6sterreichs \u00dcberraschungstorwart Constantin M\u00f6stl \u2013 sie alle nutzten das Rampenlicht vor der Rekordkulisse in Deutschland."
+                },
+                {
+                    "text": "Jetzt m\u00fcssen sie im Ligaalltag zeigen, wie nachhaltig die Begeisterung war, die um sie herum entstanden ist."
+                }
+            ],
+            "occupations": [
+                {
+                    "text": "Passk\u00f6nig"
+                }
+            ],
+            "directQuotes": [],
+            "quotedInTitle": false,
+            "quotedInIntro": false
+        },
+        {
+            "name": "Mathias Gidsel",
+            "alternativeNames": [],
+            "age": -1,
+            "sex": "male",
+            "occurences": {
+                "total": 1,
+                "firstNameOnly": 0,
+                "lastNameOnly": 0,
+                "fullName": 1,
+                "nickname": 0
+            },
+            "inTitle": false,
+            "inIntro": false,
+            "_name": {
+                "firstname": "Mathias",
+                "lastname": "Gidsel",
+                "nickname": null,
+                "alternative_names": [],
+                "academic_title": null,
+                "nobility_title_or_rank": null
+            },
+            "descriptiveTexts": [
+                {
+                    "text": "Und doch war diese Europameisterschaft besonders, sie stellte neue Gesichter in den Mittelpunkt."
+                },
+                {
+                    "text": "Ob D\u00e4nemarks Torh\u00fcter Nielsen, D\u00e4nemarks Tormaschine und EM-Torsch\u00fctzenk\u00f6nig Mathias Gidsel, Deutschlands Youngster Juri Knorr und Julian K\u00f6ster, Frankreichs Passk\u00f6nig Nedim Remili, \u00d6sterreichs \u00dcberraschungstorwart Constantin M\u00f6stl \u2013 sie alle nutzten das Rampenlicht vor der Rekordkulisse in Deutschland."
+                },
+                {
+                    "text": "Jetzt m\u00fcssen sie im Ligaalltag zeigen, wie nachhaltig die Begeisterung war, die um sie herum entstanden ist."
+                }
+            ],
+            "occupations": [],
+            "directQuotes": [],
+            "quotedInTitle": false,
+            "quotedInIntro": false
+        },
+        {
+            "name": "Niklas Landin",
+            "alternativeNames": [],
+            "age": 35,
+            "sex": "male",
+            "occurences": {
+                "total": 4,
+                "firstNameOnly": 0,
+                "lastNameOnly": 3,
+                "fullName": 1,
+                "nickname": 0
+            },
+            "inTitle": false,
+            "inIntro": false,
+            "_name": {
+                "firstname": "Niklas",
+                "lastname": "Landin",
+                "nickname": null,
+                "alternative_names": [],
+                "academic_title": null,
+                "nobility_title_or_rank": null
+            },
+            "descriptiveTexts": [
+                {
+                    "text": "Der \u00fcberraschende Bankdr\u00fccker: Die erfolgreiche \u00c4ra des d\u00e4nischen Handballs ist eng mit Torwart Niklas Landin verbunden."
+                },
+                {
+                    "text": "Landin ist einer der erfolgreichsten Torh\u00fcter der Geschichte."
+                },
+                {
+                    "text": "Nat\u00fcrlich war zu erwarten, dass Landin mit all seiner Erfahrung an diesem Abend des Endspiels vor 20.000 Fans in K\u00f6ln zwischen den Pfosten stehen w\u00fcrde."
+                },
+                {
+                    "text": "Der unwahrscheinliche Finaltorh\u00fcter: Dieser Emil Nielsen, der Landin-Verdr\u00e4nger, der auch Deutschland im Halbfinale zur Verzweiflung brachte, ist wendig wie eine Katze, auch mit 1,95 Metern K\u00f6rpergr\u00f6\u00dfe und 125 Kilogramm."
+                }
+            ],
+            "occupations": [],
+            "directQuotes": [],
+            "quotedInTitle": false,
+            "quotedInIntro": false
+        },
+        {
+            "name": "Julian K\u00f6ster",
+            "alternativeNames": [],
+            "age": -1,
+            "sex": "male",
+            "occurences": {
+                "total": 1,
+                "firstNameOnly": 0,
+                "lastNameOnly": 0,
+                "fullName": 1,
+                "nickname": 0
+            },
+            "inTitle": false,
+            "inIntro": false,
+            "_name": {
+                "firstname": "Julian",
+                "lastname": "K\u00f6ster",
+                "nickname": null,
+                "alternative_names": [],
+                "academic_title": null,
+                "nobility_title_or_rank": null
+            },
+            "descriptiveTexts": [
+                {
+                    "text": "Und doch war diese Europameisterschaft besonders, sie stellte neue Gesichter in den Mittelpunkt."
+                },
+                {
+                    "text": "Ob D\u00e4nemarks Torh\u00fcter Nielsen, D\u00e4nemarks Tormaschine und EM-Torsch\u00fctzenk\u00f6nig Mathias Gidsel, Deutschlands Youngster Juri Knorr und Julian K\u00f6ster, Frankreichs Passk\u00f6nig Nedim Remili, \u00d6sterreichs \u00dcberraschungstorwart Constantin M\u00f6stl \u2013 sie alle nutzten das Rampenlicht vor der Rekordkulisse in Deutschland."
+                },
+                {
+                    "text": "Jetzt m\u00fcssen sie im Ligaalltag zeigen, wie nachhaltig die Begeisterung war, die um sie herum entstanden ist."
+                }
+            ],
+            "occupations": [],
+            "directQuotes": [],
+            "quotedInTitle": false,
+            "quotedInIntro": false
+        },
+        {
+            "name": "Emil Nielsen",
+            "alternativeNames": [],
+            "age": 26,
+            "sex": "male",
+            "occurences": {
+                "total": 7,
+                "firstNameOnly": 0,
+                "lastNameOnly": 4,
+                "fullName": 3,
+                "nickname": 0
+            },
+            "inTitle": false,
+            "inIntro": true,
+            "_name": {
+                "firstname": "Emil",
+                "lastname": "Nielsen",
+                "nickname": null,
+                "alternative_names": [],
+                "academic_title": null,
+                "nobility_title_or_rank": null
+            },
+            "descriptiveTexts": [
+                {
+                    "text": "\u00dcber das Team von Nikola Karabati\u0107, das nie aufgibt, und den unwahrscheinlichen Aufstieg des d\u00e4nischen Torh\u00fcters Emil Nielsen."
+                },
+                {
+                    "text": "Der Grund: Emil Nielsen, ein 26-J\u00e4hriger, den vor der EM noch nicht so viele auf dem Zettel hatten."
+                },
+                {
+                    "text": "Der unwahrscheinliche Finaltorh\u00fcter: Dieser Emil Nielsen, der Landin-Verdr\u00e4nger, der auch Deutschland im Halbfinale zur Verzweiflung brachte, ist wendig wie eine Katze, auch mit 1,95 Metern K\u00f6rpergr\u00f6\u00dfe und 125 Kilogramm."
+                },
+                {
+                    "text": "Die Klasse Nielsens sollte auch Frankreich im Finale zu sp\u00fcren bekommen, 15 Paraden standen am Ende auf dem Konto des Keepers, er wurde Spieler des Spiels."
+                },
+                {
+                    "text": "Nielsens Aufstieg ist \u00fcberraschend, vielleicht sogar unwahrscheinlich."
+                },
+                {
+                    "text": "In der Saison 2016/2017 erkrankte er an Meningitis, einer Krankheit, die lebensbedrohlich sein und eine Sportlerkarriere zerst\u00f6ren kann."
+                },
+                {
+                    "text": "Doch Nielsen, der damals gerade 18 Jahre alt war, k\u00e4mpfte sich zur\u00fcck, ging nach Frankreich, wechselte vor zwei Jahren zum FC Barcelona und ist nun D\u00e4nemarks neues Gesicht."
+                },
+                {
+                    "text": "Und doch war diese Europameisterschaft besonders, sie stellte neue Gesichter in den Mittelpunkt."
+                },
+                {
+                    "text": "Ob D\u00e4nemarks Torh\u00fcter Nielsen, D\u00e4nemarks Tormaschine und EM-Torsch\u00fctzenk\u00f6nig Mathias Gidsel, Deutschlands Youngster Juri Knorr und Julian K\u00f6ster, Frankreichs Passk\u00f6nig Nedim Remili, \u00d6sterreichs \u00dcberraschungstorwart Constantin M\u00f6stl \u2013 sie alle nutzten das Rampenlicht vor der Rekordkulisse in Deutschland."
+                },
+                {
+                    "text": "Jetzt m\u00fcssen sie im Ligaalltag zeigen, wie nachhaltig die Begeisterung war, die um sie herum entstanden ist."
+                }
+            ],
+            "occupations": [
+                {
+                    "text": "Sportler"
+                },
+                {
+                    "text": "Torh\u00fcter"
+                }
+            ],
+            "directQuotes": [],
+            "quotedInTitle": false,
+            "quotedInIntro": true
+        },
+        {
+            "name": "Constantin M\u00f6stl",
+            "alternativeNames": [],
+            "age": -1,
+            "sex": "male",
+            "occurences": {
+                "total": 1,
+                "firstNameOnly": 0,
+                "lastNameOnly": 0,
+                "fullName": 1,
+                "nickname": 0
+            },
+            "inTitle": false,
+            "inIntro": false,
+            "_name": {
+                "firstname": "Constantin",
+                "lastname": "M\u00f6stl",
+                "nickname": null,
+                "alternative_names": [],
+                "academic_title": null,
+                "nobility_title_or_rank": null
+            },
+            "descriptiveTexts": [
+                {
+                    "text": "Und doch war diese Europameisterschaft besonders, sie stellte neue Gesichter in den Mittelpunkt."
+                },
+                {
+                    "text": "Ob D\u00e4nemarks Torh\u00fcter Nielsen, D\u00e4nemarks Tormaschine und EM-Torsch\u00fctzenk\u00f6nig Mathias Gidsel, Deutschlands Youngster Juri Knorr und Julian K\u00f6ster, Frankreichs Passk\u00f6nig Nedim Remili, \u00d6sterreichs \u00dcberraschungstorwart Constantin M\u00f6stl \u2013 sie alle nutzten das Rampenlicht vor der Rekordkulisse in Deutschland."
+                },
+                {
+                    "text": "Jetzt m\u00fcssen sie im Ligaalltag zeigen, wie nachhaltig die Begeisterung war, die um sie herum entstanden ist."
+                }
+            ],
+            "occupations": [
+                {
+                    "text": "\u00dcberraschungstorwart"
+                },
+                {
+                    "text": "Torwart"
+                }
+            ],
+            "directQuotes": [],
+            "quotedInTitle": false,
+            "quotedInIntro": false
+        }
+    ]
+}

@@ -1,0 +1,71 @@
+{
+    "persons": [
+        {
+            "name": "Michael Fuhlrott",
+            "alternativeNames": [],
+            "age": -1,
+            "sex": "male",
+            "occurences": {
+                "total": 3,
+                "firstNameOnly": 0,
+                "lastNameOnly": 1,
+                "fullName": 2,
+                "nickname": 0
+            },
+            "inTitle": false,
+            "inIntro": true,
+            "_name": {
+                "firstname": "Michael",
+                "lastname": "Fuhlrott",
+                "nickname": null,
+                "alternative_names": [],
+                "academic_title": null,
+                "nobility_title_or_rank": null
+            },
+            "descriptiveTexts": [
+                {
+                    "text": "Der Arbeitsrechtler Michael Fuhlrott erkl\u00e4rt, was erlaubt ist \u2013 und wo die Grenzen liegen."
+                },
+                {
+                    "text": "manager magazin: Herr Fuhlrott, kann ich auf einen freundlichen Chef bestehen?"
+                },
+                {
+                    "text": "Michael Fuhlrott: Nein."
+                },
+                {
+                    "text": "Lassen Sie uns mal in die Praxis schauen: Gibt es Gerichtsentscheidungen, an denen sich die Grenze zwischen \"das ist okay\" und \"das ist jetzt aber toxisch oder beleidigend\" etwas klarer machen l\u00e4sst?"
+                },
+                {
+                    "text": "Ich selbst hatte auch schon mal den Fall einer homosexuellen F\u00fchrungskraft, die permanent mit Zetteln und Botschaften in ihrem B\u00fcro drangsaliert wurde."
+                },
+                {
+                    "text": "Im derzeitigen Arbeitsmarkt l\u00e4sst sich f\u00fcr viele Besch\u00e4ftigte bequemer ein neuer Job finden, denke ich."
+                },
+                {
+                    "text": "Pers\u00f6nlich muss ich mich fragen: Ist es mir das wert?"
+                },
+                {
+                    "text": "Dass in vielen Unternehmen und bei vielen Menschen die Sensibilit\u00e4t f\u00fcr derartige Verhaltensweisen vergangenen Jahren gestiegen ist, glaube ich aber schon."
+                },
+                {
+                    "text": "Ich w\u00fcrde Ihnen raten, das erst mal intern zu kl\u00e4ren."
+                },
+                {
+                    "text": "Dass man hier seine rechtlichen M\u00f6glichkeiten nutzen m\u00f6chte, kann ich in den meisten F\u00e4llen absolut verstehen und es ist absolut legitim."
+                }
+            ],
+            "occupations": [
+                {
+                    "text": "Arbeitsrechtler"
+                }
+            ],
+            "directQuotes": [
+                {
+                    "text": "Ein Recht auf einen freundlichen Chef haben Sie nicht"
+                }
+            ],
+            "quotedInTitle": false,
+            "quotedInIntro": true
+        }
+    ]
+}

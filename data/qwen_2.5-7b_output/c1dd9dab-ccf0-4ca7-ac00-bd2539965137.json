@@ -1,0 +1,692 @@
+{
+    "persons": [
+        {
+            "name": "Doron Libstein",
+            "alternativeNames": [],
+            "age": -1,
+            "sex": "male",
+            "occurences": {
+                "total": 5,
+                "firstNameOnly": 0,
+                "lastNameOnly": 4,
+                "fullName": 1,
+                "nickname": 0
+            },
+            "inTitle": false,
+            "inIntro": false,
+            "_name": {
+                "firstname": "Doron",
+                "lastname": "Libstein",
+                "nickname": null,
+                "alternative_names": [],
+                "academic_title": null,
+                "nobility_title_or_rank": null
+            },
+            "descriptiveTexts": [
+                {
+                    "text": "Heute wollen sie mit eigenen Augen sehen, was ihrem Volk angetan wurde."
+                },
+                {
+                    "text": "Zwei M\u00e4nner unterhalten sich dar\u00fcber, woher sie kommen: Johannesburg, New York."
+                },
+                {
+                    "text": "Weil sie ihre Familie besuchen, weil sie in Kriegszeiten helfen wollten."
+                },
+                {
+                    "text": "Weil sie jedes Jahr kommen."
+                },
+                {
+                    "text": "Von der Tour haben sie durch Zufall erfahren."
+                },
+                {
+                    "text": "Warum sie hier sind?"
+                },
+                {
+                    "text": "Vielleicht klingen ihre Worte auch deshalb pers\u00f6nlich, als sie das Mikrofon greift: \u00bbWenn das Milit\u00e4r nicht gewesen w\u00e4re, h\u00e4tten sie in euren H\u00e4usern stehen k\u00f6nnen\u00ab."
+                },
+                {
+                    "text": "\u00bbDer einzige Grund daf\u00fcr, dass wir alle \u00fcberlebt haben, ist, dass wir nicht dort waren. Und, dass sie nur einen Tag hatten.\u00ab"
+                },
+                {
+                    "text": "Akribisch notieren sie die Namen der Opfer."
+                },
+                {
+                    "text": "Durch den Kibbuz f\u00fchrt Doron Libstein, der mehrere Familienmitglieder beim Angriff verloren hat."
+                },
+                {
+                    "text": "Libstein f\u00fchrt zum Haus seines Bruders Ofir, um von dessen Tod zu erz\u00e4hlen."
+                },
+                {
+                    "text": "Anschlie\u00dfend bringt Libstein die Besucher zur Stra\u00dfe, in der die jungen Kibbuz-Bewohner gelebt haben."
+                },
+                {
+                    "text": "Libstein muss eigentlich schon wieder los, er wird heute noch eine weitere Gruppe durch den Kibbuz f\u00fchren."
+                },
+                {
+                    "text": "Libstein wartet bereits am Sammelplatz, als die letzten Mitreisenden eintrudeln."
+                },
+                {
+                    "text": "Sie umarmen ihn, einer nach dem anderen, w\u00e4hrend er eigentlich schon weg ist."
+                },
+                {
+                    "text": "Ein wenig wirkt es, als w\u00fcrden sie sich selbst tr\u00f6sten, wenn sie sich an ihn dr\u00fccken."
+                },
+                {
+                    "text": "Goldberg weist die Businsassen darauf hin, dass sie gerade an Beeri vorbeifahren."
+                },
+                {
+                    "text": "\u00bbSie wissen nicht, was sie wollen.\u00ab"
+                },
+                {
+                    "text": "Milit\u00e4r und Politiker f\u00fchren einflussreiche Personen und Multiplikatoren durch die zerst\u00f6rten H\u00e4user, damit sie diese Bilder in die Welt tragen."
+                },
+                {
+                    "text": "W\u00e4hrend \u00fcber Gaza schwarze Wolken aufsteigen, sollen sie daran erinnert werden, dass es einen Grund gibt, warum dieser Krieg gef\u00fchrt wird."
+                },
+                {
+                    "text": "Wenn von der Reisegesellschaft in Goldsteins Bus am Anfang des Tages jemand Zweifel gehabt haben sollte, hat er sie am Ende vermutlich nicht mehr."
+                },
+                {
+                    "text": "Familien haben Bilder ihrer Verstorbenen an die B\u00e4ume gebunden, wenige Meter weiter haben sie Eukalyptusb\u00e4ume f\u00fcr sie gepflanzt."
+                },
+                {
+                    "text": "Dieses Jahr kommen sie wieder, doch es bedeutet etwas anderes."
+                },
+                {
+                    "text": "Nur der Tod, den sie alle in ihren Familien tragen, in Form von Bildern von KZ-H\u00e4ftlingen und in den Geschichten der \u00dcberlebenden, der wird immer weniger greifbar."
+                },
+                {
+                    "text": "Doch am Ende des Tages, als der Bus sich wieder Richtung Jerusalem aufmacht, k\u00f6nnen die Mitfahrer sagen: Ich war hier."
+                }
+            ],
+            "occupations": [],
+            "directQuotes": [],
+            "quotedInTitle": false,
+            "quotedInIntro": false
+        },
+        {
+            "name": "Shani Louk",
+            "alternativeNames": [],
+            "age": -1,
+            "sex": "female",
+            "occurences": {
+                "total": 1,
+                "firstNameOnly": 0,
+                "lastNameOnly": 0,
+                "fullName": 1,
+                "nickname": 0
+            },
+            "inTitle": false,
+            "inIntro": false,
+            "_name": {
+                "firstname": "Shani",
+                "lastname": "Louk",
+                "nickname": null,
+                "alternative_names": [],
+                "academic_title": null,
+                "nobility_title_or_rank": null
+            },
+            "descriptiveTexts": [
+                {
+                    "text": "Eine junge Frau kniet sich vor das Bild von Shani Louk und weint."
+                }
+            ],
+            "occupations": [],
+            "directQuotes": [],
+            "quotedInTitle": false,
+            "quotedInIntro": false
+        },
+        {
+            "name": "Jerry Seinfeld",
+            "alternativeNames": [],
+            "age": -1,
+            "sex": "male",
+            "occurences": {
+                "total": 1,
+                "firstNameOnly": 0,
+                "lastNameOnly": 0,
+                "fullName": 1,
+                "nickname": 0
+            },
+            "inTitle": false,
+            "inIntro": false,
+            "_name": {
+                "firstname": "Jerry",
+                "lastname": "Seinfeld",
+                "nickname": null,
+                "alternative_names": [],
+                "academic_title": null,
+                "nobility_title_or_rank": null
+            },
+            "descriptiveTexts": [
+                {
+                    "text": "Zwei M\u00e4nner unterhalten sich dar\u00fcber, woher sie kommen: Johannesburg, New York."
+                },
+                {
+                    "text": "Elon Musk war da, Jerry Seinfeld, eine Armee an j\u00fcdischen C-Promis und Influencern."
+                }
+            ],
+            "occupations": [],
+            "directQuotes": [],
+            "quotedInTitle": false,
+            "quotedInIntro": false
+        },
+        {
+            "name": "Nir Oz",
+            "alternativeNames": [],
+            "age": -1,
+            "sex": "male",
+            "occurences": {
+                "total": 1,
+                "firstNameOnly": 0,
+                "lastNameOnly": 0,
+                "fullName": 1,
+                "nickname": 0
+            },
+            "inTitle": false,
+            "inIntro": false,
+            "_name": {
+                "firstname": "Nir",
+                "lastname": "Oz",
+                "nickname": null,
+                "alternative_names": [],
+                "academic_title": null,
+                "nobility_title_or_rank": null
+            },
+            "descriptiveTexts": [
+                {
+                    "text": "Beeri, Kfar Aza, Nir Oz \u2013 die Namen der besonders betroffenen Kibbuzim kennt jeder hier im Bus."
+                }
+            ],
+            "occupations": [],
+            "directQuotes": [],
+            "quotedInTitle": false,
+            "quotedInIntro": false
+        },
+        {
+            "name": "Re\u2019im",
+            "alternativeNames": [],
+            "age": -1,
+            "sex": "unknown",
+            "occurences": {
+                "total": 1,
+                "firstNameOnly": 0,
+                "lastNameOnly": 0,
+                "fullName": 1,
+                "nickname": 0
+            },
+            "inTitle": false,
+            "inIntro": false,
+            "_name": {
+                "firstname": null,
+                "lastname": "Re\u2019im",
+                "nickname": null,
+                "alternative_names": [],
+                "academic_title": null,
+                "nobility_title_or_rank": null
+            },
+            "descriptiveTexts": [
+                {
+                    "text": "Der Bus wird die Besucher nach Netiv Haasara bringen, ein Ort, in dem 20 Menschen starben; nach Kfar Aza, einen der am schlimmsten betroffenen Kibbuzim; nach Re\u2019im, wo auf dem Nova-Festival mehr als 300 junge Feiernde starben."
+                }
+            ],
+            "occupations": [],
+            "directQuotes": [],
+            "quotedInTitle": false,
+            "quotedInIntro": false
+        },
+        {
+            "name": "Elon Musk",
+            "alternativeNames": [],
+            "age": -1,
+            "sex": "male",
+            "occurences": {
+                "total": 1,
+                "firstNameOnly": 0,
+                "lastNameOnly": 0,
+                "fullName": 1,
+                "nickname": 0
+            },
+            "inTitle": false,
+            "inIntro": false,
+            "_name": {
+                "firstname": "Elon",
+                "lastname": "Musk",
+                "nickname": null,
+                "alternative_names": [],
+                "academic_title": null,
+                "nobility_title_or_rank": null
+            },
+            "descriptiveTexts": [
+                {
+                    "text": "Elon Musk war da, Jerry Seinfeld, eine Armee an j\u00fcdischen C-Promis und Influencern."
+                }
+            ],
+            "occupations": [],
+            "directQuotes": [],
+            "quotedInTitle": false,
+            "quotedInIntro": false
+        },
+        {
+            "name": "Benny",
+            "alternativeNames": [],
+            "age": -1,
+            "sex": "male",
+            "occurences": {
+                "total": 6,
+                "firstNameOnly": 0,
+                "lastNameOnly": 0,
+                "fullName": 6,
+                "nickname": 0
+            },
+            "inTitle": false,
+            "inIntro": false,
+            "_name": {
+                "firstname": null,
+                "lastname": "Benny",
+                "nickname": null,
+                "alternative_names": [],
+                "academic_title": null,
+                "nobility_title_or_rank": null
+            },
+            "descriptiveTexts": [
+                {
+                    "text": "Heute wollen sie mit eigenen Augen sehen, was ihrem Volk angetan wurde."
+                },
+                {
+                    "text": "Weil sie ihre Familie besuchen, weil sie in Kriegszeiten helfen wollten."
+                },
+                {
+                    "text": "Weil sie jedes Jahr kommen."
+                },
+                {
+                    "text": "Von der Tour haben sie durch Zufall erfahren."
+                },
+                {
+                    "text": "Warum sie hier sind?"
+                },
+                {
+                    "text": "Vielleicht klingen ihre Worte auch deshalb pers\u00f6nlich, als sie das Mikrofon greift: \u00bbWenn das Milit\u00e4r nicht gewesen w\u00e4re, h\u00e4tten sie in euren H\u00e4usern stehen k\u00f6nnen\u00ab."
+                },
+                {
+                    "text": "\u00bbDer einzige Grund daf\u00fcr, dass wir alle \u00fcberlebt haben, ist, dass wir nicht dort waren. Und, dass sie nur einen Tag hatten.\u00ab"
+                },
+                {
+                    "text": "Im Ortszentrum wartet ein Mann namens Benny."
+                },
+                {
+                    "text": "Benny geh\u00f6rt zur Sicherheitseinheit der Gemeinschaft, er \u00fcberlebte, w\u00e4hrend seine Freunde starben."
+                },
+                {
+                    "text": "Nun f\u00fchrt er die Gruppe durch leere Stra\u00dfen, vorbei an Soldaten-Rucks\u00e4cken, die in einem Hauseingang gestapelt sind."
+                },
+                {
+                    "text": "In Netiv Haasara, sagt Benny, seien die unsichtbaren Wunden gr\u00f6\u00dfer als die sichtbaren."
+                },
+                {
+                    "text": "Er f\u00fchrt die Besucher an die Stelle, wo ein Mann sich auf eine Granate warf, um seine Kinder zu sch\u00fctzen."
+                },
+                {
+                    "text": "Benny zeigt auf Kratzer an einer Schuppenwand \u2013 hier hat Zaka, eine religi\u00f6se Organisation, das Blut des Mannes abgekratzt, um es zu begraben."
+                },
+                {
+                    "text": "Er bringt die M\u00e4nner und Frauen zu einem der \u00f6ffentlichen Bunker, in denen die Terroristen eine alte Frau hinrichteten."
+                },
+                {
+                    "text": "Er deutet auf Einschussl\u00f6cher in einem Baum."
+                },
+                {
+                    "text": "Als Letztes bringt er die Gruppe zum abgebrannten Haus eines Ehepaars."
+                },
+                {
+                    "text": "Die Besucher fotografieren alles, worauf Benny zeigt."
+                },
+                {
+                    "text": "Akribisch notieren sie die Namen der Opfer."
+                },
+                {
+                    "text": "Etwa eine Stunde dauert die F\u00fchrung durch Netiv Haasara, am Ende bedanken sich die Besucher bei Guide Benny."
+                },
+                {
+                    "text": "Er wirkt ersch\u00f6pft."
+                },
+                {
+                    "text": "Zwei oder dreimal in der Woche f\u00fchrt er Menschen durch sein Zuhause."
+                },
+                {
+                    "text": "\u00bbDas erste Mal war unglaublich hart\u00ab, sagt er."
+                },
+                {
+                    "text": "Er versuche sich auf die Zahlen und Fakten zu konzentrieren."
+                },
+                {
+                    "text": "\u00bbAber das hier ist mein Zuhause. Und das waren meine Freunde\u00ab, sagt er."
+                },
+                {
+                    "text": "Es sei das Mindeste, was er, der \u00dcberlebende, tun k\u00f6nne: an sie zu erinnern."
+                },
+                {
+                    "text": "\u00bbEr starb hier, unter diesem Olivenbaum\u00ab, sagt er."
+                },
+                {
+                    "text": "Sie umarmen ihn, einer nach dem anderen, w\u00e4hrend er eigentlich schon weg ist."
+                },
+                {
+                    "text": "Ein wenig wirkt es, als w\u00fcrden sie sich selbst tr\u00f6sten, wenn sie sich an ihn dr\u00fccken."
+                },
+                {
+                    "text": "Goldberg weist die Businsassen darauf hin, dass sie gerade an Beeri vorbeifahren."
+                },
+                {
+                    "text": "\u00bbSie wissen nicht, was sie wollen.\u00ab"
+                },
+                {
+                    "text": "Milit\u00e4r und Politiker f\u00fchren einflussreiche Personen und Multiplikatoren durch die zerst\u00f6rten H\u00e4user, damit sie diese Bilder in die Welt tragen."
+                },
+                {
+                    "text": "W\u00e4hrend \u00fcber Gaza schwarze Wolken aufsteigen, sollen sie daran erinnert werden, dass es einen Grund gibt, warum dieser Krieg gef\u00fchrt wird."
+                },
+                {
+                    "text": "Wenn von der Reisegesellschaft in Goldsteins Bus am Anfang des Tages jemand Zweifel gehabt haben sollte, hat er sie am Ende vermutlich nicht mehr."
+                },
+                {
+                    "text": "Familien haben Bilder ihrer Verstorbenen an die B\u00e4ume gebunden, wenige Meter weiter haben sie Eukalyptusb\u00e4ume f\u00fcr sie gepflanzt."
+                },
+                {
+                    "text": "Dieses Jahr kommen sie wieder, doch es bedeutet etwas anderes."
+                },
+                {
+                    "text": "Nur der Tod, den sie alle in ihren Familien tragen, in Form von Bildern von KZ-H\u00e4ftlingen und in den Geschichten der \u00dcberlebenden, der wird immer weniger greifbar."
+                },
+                {
+                    "text": "Doch am Ende des Tages, als der Bus sich wieder Richtung Jerusalem aufmacht, k\u00f6nnen die Mitfahrer sagen: Ich war hier."
+                }
+            ],
+            "occupations": [],
+            "directQuotes": [
+                {
+                    "text": "Wenn ihr einen lauten Knall h\u00f6rt, schaut einfach auf unsere Gesichter"
+                },
+                {
+                    "text": "Wenn es ein guter Knall ist, werden wir lachen."
+                },
+                {
+                    "text": "Aber das hier ist mein Zuhause. Und das waren meine Freunde"
+                },
+                {
+                    "text": "Er starb hier, unter diesem Olivenbaum"
+                },
+                {
+                    "text": "Wir kennen die Videos von den rennenden Menschen"
+                },
+                {
+                    "text": "es war hier, auf diesen Feldern."
+                }
+            ],
+            "quotedInTitle": false,
+            "quotedInIntro": false
+        },
+        {
+            "name": "Ofir",
+            "alternativeNames": [],
+            "age": -1,
+            "sex": "male",
+            "occurences": {
+                "total": 1,
+                "firstNameOnly": 0,
+                "lastNameOnly": 0,
+                "fullName": 1,
+                "nickname": 0
+            },
+            "inTitle": false,
+            "inIntro": false,
+            "_name": {
+                "firstname": null,
+                "lastname": "Ofir",
+                "nickname": null,
+                "alternative_names": [],
+                "academic_title": null,
+                "nobility_title_or_rank": null
+            },
+            "descriptiveTexts": [
+                {
+                    "text": "Libstein f\u00fchrt zum Haus seines Bruders Ofir, um von dessen Tod zu erz\u00e4hlen."
+                },
+                {
+                    "text": "\u00bbEr starb hier, unter diesem Olivenbaum\u00ab, sagt er."
+                }
+            ],
+            "occupations": [],
+            "directQuotes": [],
+            "quotedInTitle": false,
+            "quotedInIntro": false
+        },
+        {
+            "name": "Goldstein",
+            "alternativeNames": [],
+            "age": -1,
+            "sex": "male",
+            "occurences": {
+                "total": 3,
+                "firstNameOnly": 0,
+                "lastNameOnly": 0,
+                "fullName": 3,
+                "nickname": 0
+            },
+            "inTitle": false,
+            "inIntro": false,
+            "_name": {
+                "firstname": null,
+                "lastname": "Goldstein",
+                "nickname": null,
+                "alternative_names": [],
+                "academic_title": null,
+                "nobility_title_or_rank": null
+            },
+            "descriptiveTexts": [
+                {
+                    "text": "Wenn von der Reisegesellschaft in Goldsteins Bus am Anfang des Tages jemand Zweifel gehabt haben sollte, hat er sie am Ende vermutlich nicht mehr."
+                },
+                {
+                    "text": "Goldstein sagt: \u00bbDas hier soll nicht Auschwitz sein, das hier soll kein Wald sein. Das ist Nova.\u00ab"
+                },
+                {
+                    "text": "Goldstein tanzt mit der Familie eines Get\u00f6teten um dessen Schild."
+                }
+            ],
+            "occupations": [],
+            "directQuotes": [
+                {
+                    "text": "Wenn das Milit\u00e4r nicht gewesen w\u00e4re, h\u00e4tten sie in euren H\u00e4usern stehen k\u00f6nnen"
+                },
+                {
+                    "text": "Der einzige Grund daf\u00fcr, dass wir alle \u00fcberlebt haben, ist, dass wir nicht dort waren. Und, dass sie nur einen Tag hatten."
+                },
+                {
+                    "text": "Es ist okay, das ist etwas Gutes"
+                },
+                {
+                    "text": "Hasbara-Anf\u00fchrer"
+                },
+                {
+                    "text": "Erkl\u00e4rung"
+                },
+                {
+                    "text": "erkl\u00e4ren"
+                },
+                {
+                    "text": "Das hier soll nicht Auschwitz sein, das hier soll kein Wald sein. Das ist Nova."
+                }
+            ],
+            "quotedInTitle": false,
+            "quotedInIntro": false
+        },
+        {
+            "name": "Zaka",
+            "alternativeNames": [],
+            "age": -1,
+            "sex": "unknown",
+            "occurences": {
+                "total": 1,
+                "firstNameOnly": 0,
+                "lastNameOnly": 0,
+                "fullName": 1,
+                "nickname": 0
+            },
+            "inTitle": false,
+            "inIntro": false,
+            "_name": {
+                "firstname": null,
+                "lastname": "Zaka",
+                "nickname": null,
+                "alternative_names": [],
+                "academic_title": null,
+                "nobility_title_or_rank": null
+            },
+            "descriptiveTexts": [
+                {
+                    "text": "Benny zeigt auf Kratzer an einer Schuppenwand \u2013 hier hat Zaka, eine religi\u00f6se Organisation, das Blut des Mannes abgekratzt, um es zu begraben."
+                }
+            ],
+            "occupations": [],
+            "directQuotes": [],
+            "quotedInTitle": false,
+            "quotedInIntro": false
+        },
+        {
+            "name": "Weis oder Weiss",
+            "alternativeNames": [
+                "Weiss"
+            ],
+            "age": -1,
+            "sex": "male",
+            "occurences": {
+                "total": 2,
+                "firstNameOnly": 1,
+                "lastNameOnly": 1,
+                "fullName": 0,
+                "nickname": 0
+            },
+            "inTitle": false,
+            "inIntro": false,
+            "_name": {
+                "firstname": "Weis",
+                "lastname": "Weiss",
+                "nickname": null,
+                "alternative_names": [
+                    "Weiss"
+                ],
+                "academic_title": null,
+                "nobility_title_or_rank": null
+            },
+            "descriptiveTexts": [
+                {
+                    "text": "Richter, Gottesmann, Weiss."
+                }
+            ],
+            "occupations": [],
+            "directQuotes": [],
+            "quotedInTitle": false,
+            "quotedInIntro": false
+        },
+        {
+            "name": "Hadassa Goldberg",
+            "alternativeNames": [],
+            "age": 27,
+            "sex": "female",
+            "occurences": {
+                "total": 11,
+                "firstNameOnly": 0,
+                "lastNameOnly": 10,
+                "fullName": 1,
+                "nickname": 0
+            },
+            "inTitle": false,
+            "inIntro": false,
+            "_name": {
+                "firstname": "Hadassa",
+                "lastname": "Goldberg",
+                "nickname": null,
+                "alternative_names": [],
+                "academic_title": null,
+                "nobility_title_or_rank": null
+            },
+            "descriptiveTexts": [
+                {
+                    "text": "Heute wollen sie mit eigenen Augen sehen, was ihrem Volk angetan wurde."
+                },
+                {
+                    "text": "Hadassa Goldberg steigt in Kirjat Gat ein, einer unscheinbaren Stadt im S\u00fcden Israels."
+                },
+                {
+                    "text": "Man k\u00f6nnte sie f\u00fcr eine S\u00fcdstaaten-Sch\u00f6nheitsk\u00f6nigin halten, wegen ihrer Fr\u00f6hlichkeit, ihrem Outfit aus Leggings und Truckercap und dem Zahnpasta-Strahlen."
+                },
+                {
+                    "text": "Aber Goldberg wurde in Gro\u00dfbritannien geboren."
+                },
+                {
+                    "text": "Als sie acht Jahre alt war, zog die Familie nach Israel."
+                },
+                {
+                    "text": "Goldberg ist 27 Jahre alt."
+                },
+                {
+                    "text": "Sie ist au\u00dferdem: Soldatenehefrau, Zionistin und Mutter von zwei Kindern, die die Namen von Opfern des israelisch-pal\u00e4stinensischen Konflikts tragen."
+                },
+                {
+                    "text": "Vor ein paar Jahren begann Goldberg zu filmen, wie sie bei Raketenalarm mit ihren Kindern in den Bunker rennt."
+                },
+                {
+                    "text": "Viele der Businsassen sind ihretwegen hier: \u00bbCome down South with me\u00ab, wirbt sie auf Instagram."
+                },
+                {
+                    "text": "\u00bbIch wollte es selbst sehen.\u00ab"
+                },
+                {
+                    "text": "Von Goldbergs Wohnort ist es nicht mehr weit zu den Orten, an denen die Terroristen w\u00fcteten."
+                },
+                {
+                    "text": "Vielleicht klingen ihre Worte auch deshalb pers\u00f6nlich, als sie das Mikrofon greift: \u00bbWenn das Milit\u00e4r nicht gewesen w\u00e4re, h\u00e4tten sie in euren H\u00e4usern stehen k\u00f6nnen\u00ab."
+                },
+                {
+                    "text": "Vom letzten Ort, wo die IDF gegen die Terroristen gek\u00e4mpft haben, waren es laut Goldberg nur 15 Minuten bis zu ihrem Haus."
+                },
+                {
+                    "text": "Goldberg gibt Anweisungen, wie die Besucher sich zu verhalten haben: sensibel, respektvoll."
+                },
+                {
+                    "text": "\u00bbWenn ihr einen lauten Knall h\u00f6rt, schaut einfach auf unsere Gesichter\u00ab, sagt sie."
+                },
+                {
+                    "text": "Es knallt und Goldberg strahlt."
+                },
+                {
+                    "text": "\u00bbEs ist okay, das ist etwas Gutes\u00ab, sagt sie."
+                },
+                {
+                    "text": "\u00bbWir kennen die Videos von den rennenden Menschen\u00ab, sagt Goldberg, \u00bbes war hier, auf diesen Feldern.\u00ab"
+                },
+                {
+                    "text": "Goldberg weist die Businsassen darauf hin, dass sie gerade an Beeri vorbeifahren."
+                },
+                {
+                    "text": "Und wenn man Goldberg an diesem Tag zugeh\u00f6rt hat, hat man schnell verstanden, dass sie als solche z\u00e4hlt."
+                }
+            ],
+            "occupations": [
+                {
+                    "text": "Mutter von zwei Kindern"
+                },
+                {
+                    "text": "Zionistin"
+                },
+                {
+                    "text": "Soldatenehefrau"
+                }
+            ],
+            "directQuotes": [],
+            "quotedInTitle": false,
+            "quotedInIntro": false
+        }
+    ]
+}

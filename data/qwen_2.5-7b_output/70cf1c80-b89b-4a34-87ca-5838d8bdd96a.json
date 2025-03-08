@@ -1,0 +1,131 @@
+{
+    "persons": [
+        {
+            "name": "Elon Musk",
+            "alternativeNames": [],
+            "age": -1,
+            "sex": "male",
+            "occurences": {
+                "total": 1,
+                "firstNameOnly": 0,
+                "lastNameOnly": 0,
+                "fullName": 1,
+                "nickname": 0
+            },
+            "inTitle": false,
+            "inIntro": false,
+            "_name": {
+                "firstname": "Elon",
+                "lastname": "Musk",
+                "nickname": null,
+                "alternative_names": [],
+                "academic_title": null,
+                "nobility_title_or_rank": null
+            },
+            "descriptiveTexts": [
+                {
+                    "text": "Begeisterung wie sie Firmengr\u00fcnder Elon Musk mit seinen PR-Shows regelm\u00e4\u00dfig ausl\u00f6st, ist hier nicht zu finden."
+                }
+            ],
+            "occupations": [],
+            "directQuotes": [],
+            "quotedInTitle": false,
+            "quotedInIntro": false
+        },
+        {
+            "name": "Eva Mohn",
+            "alternativeNames": [],
+            "age": -1,
+            "sex": "female",
+            "occurences": {
+                "total": 3,
+                "firstNameOnly": 0,
+                "lastNameOnly": 2,
+                "fullName": 1,
+                "nickname": 0
+            },
+            "inTitle": false,
+            "inIntro": false,
+            "_name": {
+                "firstname": "Eva",
+                "lastname": "Mohn",
+                "nickname": null,
+                "alternative_names": [],
+                "academic_title": null,
+                "nobility_title_or_rank": null
+            },
+            "descriptiveTexts": [
+                {
+                    "text": "Eine von ihnen ist Eva Mohn vom Regionalverband der Gr\u00fcnen in Gr\u00fcnheide/Spreenhagen \u2013 kurz SpreeGr\u00fcn."
+                },
+                {
+                    "text": "\u00bbFundamentalopposition l\u00f6st keine Probleme. Wir m\u00fcssen Kompromisse finden und dabei auch die Belange der Bewohner ber\u00fccksichtigen\u00ab, sagt Mohn."
+                },
+                {
+                    "text": "Dennoch sieht Mohn noch gen\u00fcgend M\u00f6glichkeiten an der Erweiterungsfl\u00e4che zu sparen und so die Zahl der gef\u00e4llten B\u00e4ume m\u00f6glichst klein zu halten."
+                }
+            ],
+            "occupations": [
+                {
+                    "text": "Wir m\u00fcssen Kompromisse finden und dabei auch die Belange der Bewohner ber\u00fccksichtigen"
+                },
+                {
+                    "text": "Es sei nicht zielf\u00fchrend, das Werk durch kleinteilige Einspr\u00fcche zu bremsen, wo es nur ginge."
+                },
+                {
+                    "text": "Aber wenn wir die Mobilit\u00e4tswende schaffen wollen, brauchen wir Elektroautos. Und irgendwo m\u00fcssen sie gebaut werden."
+                }
+            ],
+            "directQuotes": [],
+            "quotedInTitle": false,
+            "quotedInIntro": false
+        },
+        {
+            "name": "Mister X",
+            "alternativeNames": [],
+            "age": -1,
+            "sex": "unknown",
+            "occurences": {
+                "total": 1,
+                "firstNameOnly": 0,
+                "lastNameOnly": 0,
+                "fullName": 1,
+                "nickname": 0
+            },
+            "inTitle": false,
+            "inIntro": false,
+            "_name": {
+                "firstname": null,
+                "lastname": null,
+                "nickname": null,
+                "alternative_names": [],
+                "academic_title": null,
+                "nobility_title_or_rank": null
+            },
+            "descriptiveTexts": [
+                {
+                    "text": "Hin und wieder dr\u00e4ngelt sich ein Passant vorbei f\u00fcr einen kleinen Imbiss bei Mister X."
+                },
+                {
+                    "text": "Sie stehen vor einem Tesla, auf ihren wei\u00dfen M\u00fctzen prangt das Logo des amerikanischen E-Autoherstellers, der in der Nachbarschaft eine gro\u00dfe Fabrik betreibt, die bald noch gr\u00f6\u00dfer werden soll."
+                },
+                {
+                    "text": "Was den G\u00fcterbahnhof betrifft, weist sie der Bahn die Schuld zu."
+                },
+                {
+                    "text": "Den Einwand, dass die Anf\u00e4lligkeit der sogenannten Just-in-time-Produktion schon seit Langem bekannt ist und kaum ein Betrieb noch ohne Lagerhaltung arbeitet, kontert sie mit der Frage: \u00bbWollen Sie uns Hinterh\u00e4ltigkeit unterstellen?\u00ab"
+                },
+                {
+                    "text": "Der Verein f\u00fcr Natur und Landschaft in Brandenburg ist vor Ort, er lehnt die gesamte Fabrik pauschal ab."
+                },
+                {
+                    "text": "\u00bbAber wenn wir die Mobilit\u00e4tswende schaffen wollen, brauchen wir Elektroautos. Und irgendwo m\u00fcssen sie gebaut werden.\u00ab"
+                }
+            ],
+            "occupations": [],
+            "directQuotes": [],
+            "quotedInTitle": false,
+            "quotedInIntro": false
+        }
+    ]
+}

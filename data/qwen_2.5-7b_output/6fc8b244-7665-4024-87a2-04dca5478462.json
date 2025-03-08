@@ -1,0 +1,137 @@
+{
+    "persons": [
+        {
+            "name": "Florian K\u00f6bler",
+            "alternativeNames": [],
+            "age": -1,
+            "sex": "male",
+            "occurences": {
+                "total": 4,
+                "firstNameOnly": 0,
+                "lastNameOnly": 3,
+                "fullName": 1,
+                "nickname": 0
+            },
+            "inTitle": false,
+            "inIntro": false,
+            "_name": {
+                "firstname": "Florian",
+                "lastname": "K\u00f6bler",
+                "nickname": null,
+                "alternative_names": [],
+                "academic_title": null,
+                "nobility_title_or_rank": null
+            },
+            "descriptiveTexts": [
+                {
+                    "text": "Florian K\u00f6bler nimmt seinen Job auch privat mit ins Restaurant."
+                },
+                {
+                    "text": "Er ist Chef der Steuergewerkschaft DSTG und hat einen Blick entwickelt f\u00fcr Gastst\u00e4tten, \u00bbin denen Betrug f\u00f6rmlich in der Luft liegt\u00ab."
+                },
+                {
+                    "text": "Bei K\u00f6bler weckt das den Verdacht, dass hier wom\u00f6glich Geld an der Kasse vorbeigeschleust wird, um Steuern zu hinterziehen."
+                },
+                {
+                    "text": "Die Politik zeigt aus Sicht K\u00f6blers bislang zu wenig Interesse, an der aktuellen Praxis etwas zu \u00e4ndern."
+                },
+                {
+                    "text": "\u00bbWenn ich der einzige Imbiss bin, der ehrlich versteuert, ist meine Currywurst doppelt so teuer wie bei den anderen\u00ab, sagt K\u00f6bler."
+                }
+            ],
+            "occupations": [
+                {
+                    "text": "Die Politik zeigt aus Sicht K\u00f6blers bislang zu wenig Interesse, an der aktuellen Praxis etwas zu \u00e4ndern."
+                },
+                {
+                    "text": "Wenn ich der einzige Imbiss bin, der ehrlich versteuert, ist meine Currywurst doppelt so teuer wie bei den anderen"
+                },
+                {
+                    "text": "Chef der Steuergewerkschaft DSTG"
+                }
+            ],
+            "directQuotes": [
+                {
+                    "text": "Wenn ich der einzige Imbiss bin, der ehrlich versteuert, ist meine Currywurst doppelt so teuer wie bei den anderen"
+                }
+            ],
+            "quotedInTitle": false,
+            "quotedInIntro": false
+        },
+        {
+            "name": "Markus Dingendorf",
+            "alternativeNames": [],
+            "age": -1,
+            "sex": "male",
+            "occurences": {
+                "total": 2,
+                "firstNameOnly": 0,
+                "lastNameOnly": 1,
+                "fullName": 1,
+                "nickname": 0
+            },
+            "inTitle": false,
+            "inIntro": false,
+            "_name": {
+                "firstname": "Markus",
+                "lastname": "Dingendorf",
+                "nickname": null,
+                "alternative_names": [],
+                "academic_title": null,
+                "nobility_title_or_rank": null
+            },
+            "descriptiveTexts": [
+                {
+                    "text": "Doch der beharrt auf Nachfrage auf seiner Interpretation: \u00bbDie T\u00e4tigkeitsdauer von Unternehmen am Markt betr\u00e4gt durchschnittlich acht bis zehn Jahre. Von daher kann man infrage stellen, ob eine \u00dcberpr\u00fcfung alle 42 Jahre ausreichend ist\u00ab, sagt Markus Dingendorf, der f\u00fcr den Bundesrechnungshof die aktuelle Praxis gepr\u00fcft hat."
+                },
+                {
+                    "text": "Teilweise m\u00fcssten die Betriebe erst einen Servicetechniker des Kassenherstellers bestellen, um die Daten zu exportieren, erkl\u00e4rt Dingendorf."
+                }
+            ],
+            "occupations": [],
+            "directQuotes": [
+                {
+                    "text": "Die T\u00e4tigkeitsdauer von Unternehmen am Markt betr\u00e4gt durchschnittlich acht bis zehn Jahre. Von daher kann man infrage stellen, ob eine \u00dcberpr\u00fcfung alle 42 Jahre ausreichend ist"
+                }
+            ],
+            "quotedInTitle": false,
+            "quotedInIntro": false
+        },
+        {
+            "name": "Alfons Schuhbeck",
+            "alternativeNames": [],
+            "age": -1,
+            "sex": "male",
+            "occurences": {
+                "total": 1,
+                "firstNameOnly": 0,
+                "lastNameOnly": 0,
+                "fullName": 1,
+                "nickname": 0
+            },
+            "inTitle": false,
+            "inIntro": false,
+            "_name": {
+                "firstname": "Alfons",
+                "lastname": "Schuhbeck",
+                "nickname": null,
+                "alternative_names": [],
+                "academic_title": null,
+                "nobility_title_or_rank": null
+            },
+            "descriptiveTexts": [
+                {
+                    "text": "Seitdem ist es dank gesicherter Kassenspeicher nicht mehr so einfach \u2013 wie etwa im Fall des Promikochs Alfons Schuhbeck \u2013, die Ums\u00e4tze eines Restaurants nachtr\u00e4glich kleinzurechnen, um die vom Gast bezahlte Umsatzsteuer zu umgehen."
+                }
+            ],
+            "occupations": [
+                {
+                    "text": "Promikoch"
+                }
+            ],
+            "directQuotes": [],
+            "quotedInTitle": false,
+            "quotedInIntro": false
+        }
+    ]
+}

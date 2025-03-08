@@ -1,0 +1,169 @@
+{
+    "persons": [
+        {
+            "name": "Dr. Schwartz",
+            "alternativeNames": [],
+            "age": -1,
+            "sex": "unknown",
+            "occurences": {
+                "total": 1,
+                "firstNameOnly": 0,
+                "lastNameOnly": 0,
+                "fullName": 1,
+                "nickname": 0
+            },
+            "inTitle": false,
+            "inIntro": false,
+            "_name": {
+                "firstname": null,
+                "lastname": "Schwartz",
+                "nickname": null,
+                "alternative_names": [],
+                "academic_title": "Doktor",
+                "nobility_title_or_rank": null
+            },
+            "descriptiveTexts": [
+                {
+                    "text": "Im Februar 2013 waren meine Frau und ich auf dem Weg nach Frankreich, um ihren Geburtstag mit der Familie in der Bretagne zu feiern."
+                },
+                {
+                    "text": "Es gebe eine viel bessere M\u00f6glichkeit: \u00bbBefolgen Sie doch einfach die Anti-Krebs-Di\u00e4t von Dr. Schwartz.\u00ab"
+                }
+            ],
+            "occupations": [
+                {
+                    "text": "Professor f\u00fcr Komplement\u00e4rmedizin"
+                }
+            ],
+            "directQuotes": [
+                {
+                    "text": "Befolgen Sie doch einfach die Anti-Krebs-Di\u00e4t von Dr. Schwartz."
+                }
+            ],
+            "quotedInTitle": false,
+            "quotedInIntro": false
+        },
+        {
+            "name": "Klaus R.",
+            "alternativeNames": [],
+            "age": -1,
+            "sex": "male",
+            "occurences": {
+                "total": 2,
+                "firstNameOnly": 2,
+                "lastNameOnly": 0,
+                "fullName": 0,
+                "nickname": 0
+            },
+            "inTitle": false,
+            "inIntro": false,
+            "_name": {
+                "firstname": "Klaus",
+                "lastname": "R.",
+                "nickname": null,
+                "alternative_names": [],
+                "academic_title": null,
+                "nobility_title_or_rank": null
+            },
+            "descriptiveTexts": [
+                {
+                    "text": "Gro\u00dfe Aufmerksamkeit erregte etwa der Fall des Heilpraktikers Klaus R., nach dessen \u00bbBehandlung\u00ab mit einer experimentellen Chemikalie drei Menschen ums Leben kamen."
+                },
+                {
+                    "text": "Eine juristische Aufarbeitung, wie im Fall von Klaus R., ist dabei eine Seltenheit."
+                }
+            ],
+            "occupations": [
+                {
+                    "text": "Heilpraktiker"
+                }
+            ],
+            "directQuotes": [],
+            "quotedInTitle": false,
+            "quotedInIntro": false
+        },
+        {
+            "name": "Steve Jobs",
+            "alternativeNames": [],
+            "age": -1,
+            "sex": "male",
+            "occurences": {
+                "total": 1,
+                "firstNameOnly": 0,
+                "lastNameOnly": 0,
+                "fullName": 1,
+                "nickname": 0
+            },
+            "inTitle": false,
+            "inIntro": false,
+            "_name": {
+                "firstname": "Steve",
+                "lastname": "Jobs",
+                "nickname": null,
+                "alternative_names": [],
+                "academic_title": null,
+                "nobility_title_or_rank": null
+            },
+            "descriptiveTexts": [
+                {
+                    "text": "Wenn es pl\u00f6tzlich um Leben und Tod geht, greifen Betroffene nach dem letzten Strohhalm und sind besonders anf\u00e4llig f\u00fcr die Verlockungen von selbst ernannten Krebsheilern \u2013 sogar Apple-Gr\u00fcnder Steve Jobs fiel solchen Umtrieben wohl zum Opfer."
+                },
+                {
+                    "text": "Wie schnell man mit dubiosen Angeboten konfrontiert wird, habe ich vor mehr als zehn Jahren selbst erfahren m\u00fcssen."
+                },
+                {
+                    "text": "Im Februar 2013 waren meine Frau und ich auf dem Weg nach Frankreich, um ihren Geburtstag mit der Familie in der Bretagne zu feiern."
+                },
+                {
+                    "text": "Nachdem meine Frau mir von diesem Gespr\u00e4ch berichtet hatte, teilte ich der Krankenschwester umgehend mit, dass ich mich von nun an selbst um die postoperative Versorgung k\u00fcmmern werde."
+                },
+                {
+                    "text": "Ich komme nicht leichtfertig zu diesem Schluss, sondern habe diesen Bereich in meiner Zeit als Professor f\u00fcr Komplement\u00e4rmedizin lange und intensiv beforscht."
+                },
+                {
+                    "text": "Erst vor wenigen Jahren habe ich ein Buch \u00fcber alternative Ans\u00e4tze bei Krebs ver\u00f6ffentlicht."
+                }
+            ],
+            "occupations": [
+                {
+                    "text": "Apple-Gr\u00fcnder"
+                }
+            ],
+            "directQuotes": [],
+            "quotedInTitle": false,
+            "quotedInIntro": false
+        },
+        {
+            "name": "Ryke Geerd Hamer",
+            "alternativeNames": [],
+            "age": -1,
+            "sex": "male",
+            "occurences": {
+                "total": 1,
+                "firstNameOnly": 0,
+                "lastNameOnly": 0,
+                "fullName": 1,
+                "nickname": 0
+            },
+            "inTitle": false,
+            "inIntro": false,
+            "_name": {
+                "firstname": "Ryke Geerd",
+                "lastname": "Hamer",
+                "nickname": null,
+                "alternative_names": [],
+                "academic_title": null,
+                "nobility_title_or_rank": null
+            },
+            "descriptiveTexts": [
+                {
+                    "text": "Ihr Gr\u00fcnder Ryke Geerd Hamer behauptete, dass Krebs lediglich durch innere Konflikte entst\u00fcnde."
+                }
+            ],
+            "occupations": [],
+            "directQuotes": [],
+            "quotedInTitle": false,
+            "quotedInIntro": false
+        }
+    ]
+}

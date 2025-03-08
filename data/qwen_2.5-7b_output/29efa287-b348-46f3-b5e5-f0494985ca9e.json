@@ -1,0 +1,131 @@
+{
+    "persons": [
+        {
+            "name": "Harald Kr\u00f6ger",
+            "alternativeNames": [],
+            "age": 55,
+            "sex": "male",
+            "occurences": {
+                "total": 6,
+                "firstNameOnly": 0,
+                "lastNameOnly": 3,
+                "fullName": 3,
+                "nickname": 0
+            },
+            "inTitle": false,
+            "inIntro": true,
+            "_name": {
+                "firstname": "Harald",
+                "lastname": "Kr\u00f6ger",
+                "nickname": null,
+                "alternative_names": [],
+                "academic_title": null,
+                "nobility_title_or_rank": null
+            },
+            "descriptiveTexts": [
+                {
+                    "text": "Harald Kr\u00f6ger war Topmanager bei Daimler, Gesch\u00e4ftsf\u00fchrer von Bosch und sa\u00df im Board von Tesla."
+                },
+                {
+                    "text": "Nun will er mit dem US-Start-up Sima.ai die Autobranche aufmischen \u2013 und freut sich \u00fcber den Gewinn der Weltmeisterschaft f\u00fcr KI-Chips."
+                },
+                {
+                    "text": "Autos und Technik bestimmen die Karriere des Harald Kr\u00f6ger (55)."
+                },
+                {
+                    "text": "Er studierte Wirtschaftswissenschaften, Elektrotechnik und Elektronik in Hannover und an der Stanford University in den USA, im Herzen des Silicon Valley."
+                },
+                {
+                    "text": "Von dort ging der passionierte Fu\u00dfballfan (SC Preu\u00dfen M\u00fcnster) und Vater dreier Kinder bei der damaligen Daimler-Benz AG in den Bereich Radarsensorik, sp\u00e4ter leitete er die Entwicklung f\u00fcr Elektronik und E-Drive und sa\u00df f\u00fcr die Deutschen eine Zeit lang im Aufsichtsrat von Tesla."
+                },
+                {
+                    "text": "Es folgten F\u00fchrungsaufgaben bei Bosch, wo Kr\u00f6ger von 2019 bis Ende 2021 Teil der Gesch\u00e4ftsf\u00fchrung war."
+                },
+                {
+                    "text": "Kr\u00f6ger sollte helfen, einen erfahrenen Manager mit besten Kontakten zu finden \u2013 und stieg kurzerhand selbst ein."
+                },
+                {
+                    "text": "Seit Anfang 2023 ist er Aufsichtsrat und President Automotive bei Sima.ai."
+                },
+                {
+                    "text": "\nmanager magazin: Herr Kr\u00f6ger, herzlichen Gl\u00fcckwunsch!"
+                },
+                {
+                    "text": "Sie hatten in der vergangenen Woche Grund zum Feiern."
+                },
+                {
+                    "text": "Harald Kr\u00f6ger: Ja, wir haben mit Sima.ai, einem Start-up, bei dem ich im Aufsichtsrat und gleichzeitig operativ \"Mister Automotive\" bin, den Machine-Learning-Performance-Wettbewerb in den USA gewonnen, den MLPerf."
+                },
+                {
+                    "text": "Sie sind also das Marokko der Halbleiterwelt."
+                },
+                {
+                    "text": "Wie haben Sie es denn geschafft, all die Gro\u00dfen zu schlagen?"
+                },
+                {
+                    "text": "Jetzt haben Sie mit dem MLPerf die Weltmeisterschaft gewonnen."
+                },
+                {
+                    "text": "Was ich deutlich sp\u00fcre: Die Autoindustrie wei\u00df heute, dass man nur vorn mitspielen kann, wenn man viel schneller ist, wenn man viel mehr Risiken eingeht."
+                }
+            ],
+            "occupations": [
+                {
+                    "text": "Topmanager bei Daimler"
+                },
+                {
+                    "text": "Vater dreier Kinder"
+                },
+                {
+                    "text": "Gesch\u00e4ftsf\u00fchrer von Bosch"
+                },
+                {
+                    "text": "Aufsichtsrat und President Automotive bei Sima.ai"
+                }
+            ],
+            "directQuotes": [
+                {
+                    "text": "Unser Sieg hat f\u00fcr einen echten Knall gesorgt"
+                }
+            ],
+            "quotedInTitle": false,
+            "quotedInIntro": true
+        },
+        {
+            "name": "Krishna Rangasayee",
+            "alternativeNames": [],
+            "age": -1,
+            "sex": "male",
+            "occurences": {
+                "total": 1,
+                "firstNameOnly": 0,
+                "lastNameOnly": 0,
+                "fullName": 1,
+                "nickname": 0
+            },
+            "inTitle": false,
+            "inIntro": false,
+            "_name": {
+                "firstname": "Krishna",
+                "lastname": "Rangasayee",
+                "nickname": null,
+                "alternative_names": [],
+                "academic_title": null,
+                "nobility_title_or_rank": null
+            },
+            "descriptiveTexts": [
+                {
+                    "text": "Im Laufe des vergangenen Jahres meldete sich Krishna Rangasayee bei ihm, der Gr\u00fcnder und Chef von Sima.ai."
+                }
+            ],
+            "occupations": [
+                {
+                    "text": "Gr\u00fcnder und Chef von Sima.ai"
+                }
+            ],
+            "directQuotes": [],
+            "quotedInTitle": false,
+            "quotedInIntro": false
+        }
+    ]
+}

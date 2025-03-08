@@ -1,0 +1,347 @@
+{
+    "persons": [
+        {
+            "name": "Covid",
+            "alternativeNames": [],
+            "age": -1,
+            "sex": "unknown",
+            "occurences": {
+                "total": 1,
+                "firstNameOnly": 0,
+                "lastNameOnly": 0,
+                "fullName": 1,
+                "nickname": 0
+            },
+            "inTitle": false,
+            "inIntro": false,
+            "_name": {
+                "firstname": null,
+                "lastname": null,
+                "nickname": null,
+                "alternative_names": [],
+                "academic_title": null,
+                "nobility_title_or_rank": null
+            },
+            "descriptiveTexts": [
+                {
+                    "text": "Der globale Markt ist nach Covid durch einen Reset gegangen, das ist keine Shopify-Sache."
+                }
+            ],
+            "occupations": [],
+            "directQuotes": [],
+            "quotedInTitle": false,
+            "quotedInIntro": false
+        },
+        {
+            "name": "Tim Hortons",
+            "alternativeNames": [],
+            "age": -1,
+            "sex": "male",
+            "occurences": {
+                "total": 2,
+                "firstNameOnly": 0,
+                "lastNameOnly": 0,
+                "fullName": 1,
+                "nickname": 1
+            },
+            "inTitle": false,
+            "inIntro": false,
+            "_name": {
+                "firstname": "Tim",
+                "lastname": null,
+                "nickname": "Hortons",
+                "alternative_names": [],
+                "academic_title": null,
+                "nobility_title_or_rank": null
+            },
+            "descriptiveTexts": [
+                {
+                    "text": "Gro\u00dfe Marken wie Tim Hortons, Ted Baker oder Seiko sind alle im ersten Quartal 2023 zu uns gekommen."
+                }
+            ],
+            "occupations": [],
+            "directQuotes": [],
+            "quotedInTitle": false,
+            "quotedInIntro": false
+        },
+        {
+            "name": "Heinz",
+            "alternativeNames": [],
+            "age": -1,
+            "sex": "unknown",
+            "occurences": {
+                "total": 1,
+                "firstNameOnly": 0,
+                "lastNameOnly": 0,
+                "fullName": 1,
+                "nickname": 0
+            },
+            "inTitle": false,
+            "inIntro": false,
+            "_name": {
+                "firstname": null,
+                "lastname": null,
+                "nickname": null,
+                "alternative_names": [],
+                "academic_title": null,
+                "nobility_title_or_rank": null
+            },
+            "descriptiveTexts": [
+                {
+                    "text": "Einige der gr\u00f6\u00dften Marken der Welt nutzen sie, zum Beispiel Samsonite, Heinz und Decathlon."
+                }
+            ],
+            "occupations": [],
+            "directQuotes": [],
+            "quotedInTitle": false,
+            "quotedInIntro": false
+        },
+        {
+            "name": "Tobi L\u00fctke",
+            "alternativeNames": [],
+            "age": 41,
+            "sex": "male",
+            "occurences": {
+                "total": 11,
+                "firstNameOnly": 4,
+                "lastNameOnly": 5,
+                "fullName": 2,
+                "nickname": 0
+            },
+            "inTitle": false,
+            "inIntro": true,
+            "_name": {
+                "firstname": "Tobi",
+                "lastname": "L\u00fctke",
+                "nickname": null,
+                "alternative_names": [],
+                "academic_title": null,
+                "nobility_title_or_rank": null
+            },
+            "descriptiveTexts": [
+                {
+                    "text": "Die Softwarefirma des deutschen Gr\u00fcnders Tobi L\u00fctke gilt als Stern am Techhimmel und war zeitweise mehr als 200 Milliarden Dollar wert."
+                },
+                {
+                    "text": "Den wohl erfolgreichsten deutschen Techgr\u00fcnder der vergangenen Jahre nennen alle blo\u00df Tobi."
+                },
+                {
+                    "text": "In Kanada hat der Auswanderer Tobias L\u00fctke (41) sein Unternehmen Shopify zwischenzeitlich zur wertvollsten Firma des Landes ausgebaut \u2013 was ihn auf dem Papier zu einem der reichsten Deutschen machte."
+                },
+                {
+                    "text": "L\u00fctke verkauft Software an H\u00e4ndler, mit der sie Onlineshops m\u00f6glichst einfach aufsetzen k\u00f6nnen."
+                },
+                {
+                    "text": "L\u00fctkes Pl\u00e4ne waren umfassend: Ihm schwebte eine Megaplattform vor; ein eigenes Logistikgesch\u00e4ft etwa plante er, komplett eigenst\u00e4ndig aufzubauen."
+                },
+                {
+                    "text": "Shopify steuert hart um: Das Logistikgesch\u00e4ft hat L\u00fctke an das US-Unternehmen Flexport verkauft und einen Anteil an dem Dienstleister \u00fcbernommen, der 2022 rund f\u00fcnf Milliarden Dollar umsetzte."
+                },
+                {
+                    "text": "Wie das klappen soll, erkl\u00e4rt der Shopify-Vorstand Bobby Morrison (51), dem L\u00fctke k\u00fcrzlich die H\u00e4lfte seiner Organisation anvertraut hat."
+                },
+                {
+                    "text": "Tobi und das Unternehmen sind bisher f\u00fcr die technischen F\u00e4higkeiten bekannt \u2013 jetzt soll auch unsere Go-to-Market-Strategie exzellent werden."
+                },
+                {
+                    "text": "Einige der gr\u00f6\u00dften Marken der Welt nutzen sie, zum Beispiel Samsonite, Heinz und Decathlon."
+                },
+                {
+                    "text": "Laut einer von uns beauftragten Studie verf\u00fcgt sie \u00fcber die leistungsst\u00e4rkste Checkout-L\u00f6sung aller Handelsplattformen."
+                },
+                {
+                    "text": "Tobi L\u00fctke beschrieb Shopify vor rund drei Jahren im Interview als einen One-Stop-Shop f\u00fcr kleinere und mittlere Unternehmen."
+                },
+                {
+                    "text": "Ein Beispiel: Tobi hat \u00fcber ein Wochenende Zeit mit unserem KI-Team verbracht und eine KI-Funktion f\u00fcr die Shop-App programmiert, den Einkauf per Gespr\u00e4ch."
+                },
+                {
+                    "text": "Davon gibt es nur sehr wenige auf diesem Planeten \u2013 und Tobi hat sich dazu verpflichtet, das zu erreichen."
+                }
+            ],
+            "occupations": [],
+            "directQuotes": [],
+            "quotedInTitle": false,
+            "quotedInIntro": true
+        },
+        {
+            "name": "Harley Finkelstein",
+            "alternativeNames": [],
+            "age": 37,
+            "sex": "male",
+            "occurences": {
+                "total": 1,
+                "firstNameOnly": 0,
+                "lastNameOnly": 0,
+                "fullName": 1,
+                "nickname": 0
+            },
+            "inTitle": false,
+            "inIntro": false,
+            "_name": {
+                "firstname": "Harley",
+                "lastname": "Finkelstein",
+                "nickname": null,
+                "alternative_names": [],
+                "academic_title": null,
+                "nobility_title_or_rank": null
+            },
+            "descriptiveTexts": [
+                {
+                    "text": "Zuletzt fielen Anfang Mai 20 Prozent der mehr als 11.000 Stellen weg, obwohl Shopify-Pr\u00e4sident Harley Finkelstein (37) erst im Februar versichert hatte, keine weiteren K\u00fcrzungen st\u00fcnden ist Haus."
+                }
+            ],
+            "occupations": [],
+            "directQuotes": [],
+            "quotedInTitle": false,
+            "quotedInIntro": false
+        },
+        {
+            "name": "Ted Baker",
+            "alternativeNames": [],
+            "age": -1,
+            "sex": "male",
+            "occurences": {
+                "total": 1,
+                "firstNameOnly": 0,
+                "lastNameOnly": 0,
+                "fullName": 1,
+                "nickname": 0
+            },
+            "inTitle": false,
+            "inIntro": false,
+            "_name": {
+                "firstname": "Ted",
+                "lastname": "Baker",
+                "nickname": null,
+                "alternative_names": [],
+                "academic_title": null,
+                "nobility_title_or_rank": null
+            },
+            "descriptiveTexts": [
+                {
+                    "text": "Gro\u00dfe Marken wie Tim Hortons, Ted Baker oder Seiko sind alle im ersten Quartal 2023 zu uns gekommen."
+                }
+            ],
+            "occupations": [],
+            "directQuotes": [],
+            "quotedInTitle": false,
+            "quotedInIntro": false
+        },
+        {
+            "name": "Bobby Morrison",
+            "alternativeNames": [],
+            "age": 51,
+            "sex": "male",
+            "occurences": {
+                "total": 4,
+                "firstNameOnly": 0,
+                "lastNameOnly": 1,
+                "fullName": 3,
+                "nickname": 0
+            },
+            "inTitle": false,
+            "inIntro": true,
+            "_name": {
+                "firstname": "Bobby",
+                "lastname": "Morrison",
+                "nickname": null,
+                "alternative_names": [],
+                "academic_title": null,
+                "nobility_title_or_rank": null
+            },
+            "descriptiveTexts": [
+                {
+                    "text": "Die Pl\u00e4ne erkl\u00e4rt Vorstand Bobby Morrison."
+                },
+                {
+                    "text": "Wie das klappen soll, erkl\u00e4rt der Shopify-Vorstand Bobby Morrison (51), dem L\u00fctke k\u00fcrzlich die H\u00e4lfte seiner Organisation anvertraut hat."
+                },
+                {
+                    "text": "\nmanager magazin: Herr Morrison, Sie sind seit 10 Monaten Chief Revenue Officer bei Shopify."
+                },
+                {
+                    "text": "Bobby Morrison: Shopify soll kommerziell st\u00e4rker und operativ reifer werden."
+                },
+                {
+                    "text": "Wo haben Sie den gr\u00f6\u00dften Nachholbedarf gesehen?"
+                },
+                {
+                    "text": "Sie sind kein Technewbie, sondern haben bereits einige schwierige Zeiten in der Wirtschaft mitgemacht."
+                },
+                {
+                    "text": "Ich glaube, dass es in der Branche eine Verschiebung gibt: Kunden wollen nicht mehr ihre eigenen Handelsl\u00f6sungen von Grund auf aufbauen."
+                },
+                {
+                    "text": "Sie wollen etwas haben, das 95 Prozent ihrer Anforderungen erf\u00fcllt."
+                },
+                {
+                    "text": "Das soll Betriebskosten einsparen und sie k\u00f6nnen ihre Ressourcen anderswo einsetzen."
+                },
+                {
+                    "text": "Also keine Krise bei Shopify, sagen Sie."
+                },
+                {
+                    "text": "Trotzdem haben Sie das Logistikgesch\u00e4ft abgesto\u00dfen, und es gab es zwei massive Entlassungsrunden: Eine im Juli 2022, kurz bevor Sie Ihren Job antraten, und eine Anfang Mai, als noch mal 20 Prozent der Jobs gestrichen wurden."
+                },
+                {
+                    "text": "Es lag eher daran, dass wir bei Flexport gesehen haben, dass sie skalieren und investieren."
+                },
+                {
+                    "text": "Wenn Sie sich nun wieder auf das Wesentliche konzentrieren, war Shopify dann vorher abgelenkt?"
+                },
+                {
+                    "text": "\u00dcbrigens habe ich das in jedem Unternehmen erlebt: bei Microsoft, bei Verizon."
+                },
+                {
+                    "text": "Das m\u00fcssen unsere L\u00f6sungen leisten, und sie m\u00fcssen auf dem neuesten Stand bleiben."
+                },
+                {
+                    "text": "Sie senkt die Betriebskosten und ver\u00e4ndert die Customer Journey, was mir wahrscheinlich am meisten Spa\u00df macht."
+                },
+                {
+                    "text": "Das funktioniert so: Sie k\u00f6nnen sagen, dass Sie zu einer Abendveranstaltung gehen."
+                },
+                {
+                    "text": "Und wird dann Outfits und Dinge zusammenstellen, die Sie vielleicht brauchen."
+                },
+                {
+                    "text": "Dazu drei Punkte: Mit einem Benchmarking pr\u00fcfen wir die Website der H\u00e4ndler und helfen, sie zu optimieren, damit die Konversionsraten und der Umsatz steigen."
+                },
+                {
+                    "text": "Was bekommen Sie da von den Anlegern zu h\u00f6ren?"
+                },
+                {
+                    "text": "Aber was sagen Sie den Investoren, die zu einem Preis von 150 Dollar in die Aktie investiert haben?"
+                },
+                {
+                    "text": "Ich glaube, was sie wirklich suchen, ist das Unternehmen, das 100 Jahre lang Bestand hat."
+                },
+                {
+                    "text": "Solange wir das tun, was wir am besten k\u00f6nnen, denke ich, dass wir in einer ziemlich guten Verfassung sein werden."
+                },
+                {
+                    "text": "Und ich denke, unsere Investoren werden das ebenfalls sein."
+                }
+            ],
+            "occupations": [
+                {
+                    "text": "Unsere Investoren steigen zu den unterschiedlichsten Zeitpunkten ein. Ich glaube, was sie wirklich suchen, ist das Unternehmen, das 100 Jahre lang Bestand hat."
+                },
+                {
+                    "text": "Shopify soll kommerziell st\u00e4rker und operativ reifer werden."
+                },
+                {
+                    "text": "Chief Revenue Officer bei Shopify"
+                }
+            ],
+            "directQuotes": [
+                {
+                    "text": "Shopify soll kommerziell st\u00e4rker und operativ reifer werden. Tobi und das Unternehmen sind bisher f\u00fcr die technischen F\u00e4higkeiten bekannt \u2013 jetzt soll auch unsere Go-to-Market-Strategie exzellent werden. Mein Team umfasst alle Bereiche, mit denen ein Kunde in Ber\u00fchrung kommt: das Marketing, unsere Vertriebs- und Partnerkan\u00e4le, den Kundenservice und die Programmierer f\u00fcr den Livegang neuer Produkte. Etwa die H\u00e4lfte des Unternehmens ist in diesen Feldern t\u00e4tig."
+                }
+            ],
+            "quotedInTitle": false,
+            "quotedInIntro": true
+        }
+    ]
+}

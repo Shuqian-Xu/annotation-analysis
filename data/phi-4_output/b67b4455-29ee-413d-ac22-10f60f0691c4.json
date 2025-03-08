@@ -1,0 +1,157 @@
+{
+    "persons": [
+        {
+            "name": "Joseph",
+            "alternativeNames": [],
+            "age": -1,
+            "sex": "male",
+            "occurences": {
+                "total": 3,
+                "firstNameOnly": 0,
+                "lastNameOnly": 0,
+                "fullName": 3,
+                "nickname": 0
+            },
+            "inTitle": false,
+            "inIntro": false,
+            "_name": {
+                "firstname": "Joseph",
+                "lastname": null,
+                "nickname": null,
+                "alternative_names": [],
+                "academic_title": null,
+                "nobility_title_or_rank": null
+            },
+            "descriptiveTexts": [
+                {
+                    "text": "Unseren Guide Joseph haben wir auf Instagram gebucht."
+                },
+                {
+                    "text": "Er holt uns zusammen mit seinem Fahrer ab."
+                },
+                {
+                    "text": "Die gro\u00dfen Pyramiden in Gizeh bauen ihren Zauber langsam, aber vehement mit jeder weiteren Geschichte auf, die Joseph uns erz\u00e4hlt."
+                },
+                {
+                    "text": "Als wir die gro\u00dfen Touristengruppen im Eiltempo an uns vorbeilaufen sehen, verstehen wir, dass vor allen Dingen er dazu beitr\u00e4gt, diese Erfahrung so besonders zu machen."
+                },
+                {
+                    "text": "H\u00e4tten wir nur Joseph mitgenommen!"
+                }
+            ],
+            "occupations": [],
+            "directQuotes": [],
+            "quotedInTitle": false,
+            "quotedInIntro": false
+        },
+        {
+            "name": "Gad",
+            "alternativeNames": [],
+            "age": -1,
+            "sex": "unknown",
+            "occurences": {
+                "total": 1,
+                "firstNameOnly": 0,
+                "lastNameOnly": 0,
+                "fullName": 1,
+                "nickname": 0
+            },
+            "inTitle": false,
+            "inIntro": false,
+            "_name": {
+                "firstname": "Gad",
+                "lastname": null,
+                "nickname": null,
+                "alternative_names": [],
+                "academic_title": null,
+                "nobility_title_or_rank": null
+            },
+            "descriptiveTexts": [
+                {
+                    "text": "Als uns in den n\u00e4chsten Tagen nach gesetzteren Gerichten ist, essen wir die auf dieser Reise besten Falafeln bei Gad oder beim Herring King nicht f\u00fcr m\u00f6glich gehaltene Interpretationen von Hering, unerwartet und \u00fcberzeugend."
+                }
+            ],
+            "occupations": [],
+            "directQuotes": [],
+            "quotedInTitle": false,
+            "quotedInIntro": false
+        },
+        {
+            "name": "Ramses II",
+            "alternativeNames": [],
+            "age": -1,
+            "sex": "male",
+            "occurences": {
+                "total": 2,
+                "firstNameOnly": 0,
+                "lastNameOnly": 0,
+                "fullName": 2,
+                "nickname": 0
+            },
+            "inTitle": false,
+            "inIntro": false,
+            "_name": {
+                "firstname": "Ramses",
+                "lastname": "II",
+                "nickname": null,
+                "alternative_names": [],
+                "academic_title": null,
+                "nobility_title_or_rank": null
+            },
+            "descriptiveTexts": [
+                {
+                    "text": "Der ber\u00fchmteste im Saal der k\u00f6niglichen Mumien stellt allerdings wohl Ramses II. dar, Erbauer des Tempels von Abu Simbel und einst der m\u00e4chtigste Herrscher des Alten \u00c4gyptens."
+                },
+                {
+                    "text": "Nun liegt er in einer Vitrine."
+                },
+                {
+                    "text": "Anmerkung der Redaktion: Im Text haben wir Ramses II. als Erbauer von Pyramiden bezeichnet, dies ist nicht korrekt."
+                }
+            ],
+            "occupations": [
+                {
+                    "text": "Erbauer des Tempels von Abu Simbel"
+                }
+            ],
+            "directQuotes": [],
+            "quotedInTitle": false,
+            "quotedInIntro": false
+        },
+        {
+            "name": "Gayer Anderson",
+            "alternativeNames": [],
+            "age": -1,
+            "sex": "male",
+            "occurences": {
+                "total": 3,
+                "firstNameOnly": 1,
+                "lastNameOnly": 1,
+                "fullName": 1,
+                "nickname": 0
+            },
+            "inTitle": false,
+            "inIntro": false,
+            "_name": {
+                "firstname": "Gayer",
+                "lastname": "Anderson",
+                "nickname": null,
+                "alternative_names": [],
+                "academic_title": null,
+                "nobility_title_or_rank": null
+            },
+            "descriptiveTexts": [
+                {
+                    "text": "Etwas bodenst\u00e4ndiger geht es im Gayer-Anderson-Museum zu, dem Haus eines britischen Majors, der der Stadt hoffnungslos verfiel und bis an sein Lebensende seiner \u00e4gyptologischen Sammelwut fr\u00f6nte."
+                },
+                {
+                    "text": "Niemand ist uns in diesem Moment n\u00e4her als Gayer Anderson, der, genau wie wir, nicht mehr von dieser Stadt loswollte."
+                }
+            ],
+            "occupations": [],
+            "directQuotes": [],
+            "quotedInTitle": false,
+            "quotedInIntro": false
+        }
+    ]
+}

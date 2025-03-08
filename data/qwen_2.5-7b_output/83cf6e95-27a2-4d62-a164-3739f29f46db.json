@@ -1,0 +1,164 @@
+{
+    "persons": [
+        {
+            "name": "Katrin Scheibe",
+            "alternativeNames": [],
+            "age": -1,
+            "sex": "female",
+            "occurences": {
+                "total": 2,
+                "firstNameOnly": 0,
+                "lastNameOnly": 1,
+                "fullName": 1,
+                "nickname": 0
+            },
+            "inTitle": false,
+            "inIntro": false,
+            "_name": {
+                "firstname": "Katrin",
+                "lastname": "Scheibe",
+                "nickname": null,
+                "alternative_names": [],
+                "academic_title": null,
+                "nobility_title_or_rank": null
+            },
+            "descriptiveTexts": [
+                {
+                    "text": "Mit der Frage, warum sich Menschen \u00fcberhaupt Livestreams anschauen, besch\u00e4ftigt sich Katrin Scheibe von der Heinrich-Heine-Universit\u00e4t D\u00fcsseldorf."
+                },
+                {
+                    "text": "Sie sagt, der Reiz von Live-Inhalten bestehe vor allem darin, \u00fcber den Chat mit der streamenden Person und anderen Zuschauerinnen und Zuschauern in Kontakt zu treten: \u00bbMan pflegt dort seine cybersozialen Beziehungen.\u00ab"
+                },
+                {
+                    "text": "Virtuelle Geschenke, wie sie Niknando als eine Art gemeinschaftlich zu entrichtendes Eintrittsgeld f\u00fcr seine Shows sieht, seien dabei ein Weg, Streamerinnen und Streamer f\u00fcr gew\u00fcnschtes Verhalten zu belohnen und aus der Masse hervorzustechen."
+                },
+                {
+                    "text": "Ein weiterer Reiz von Livestreams sei die \u00bbUnvorhersehbarkeit und Spontaneit\u00e4t\u00ab, so Scheibe."
+                }
+            ],
+            "occupations": [],
+            "directQuotes": [],
+            "quotedInTitle": false,
+            "quotedInIntro": false
+        },
+        {
+            "name": "Lacher",
+            "alternativeNames": [
+                "Nando"
+            ],
+            "age": -1,
+            "sex": "unknown",
+            "occurences": {
+                "total": 2,
+                "firstNameOnly": 0,
+                "lastNameOnly": 0,
+                "fullName": 2,
+                "nickname": 0
+            },
+            "inTitle": false,
+            "inIntro": false,
+            "_name": {
+                "firstname": "Lacher",
+                "lastname": null,
+                "nickname": null,
+                "alternative_names": [
+                    "Nando"
+                ],
+                "academic_title": null,
+                "nobility_title_or_rank": null
+            },
+            "descriptiveTexts": [
+                {
+                    "text": "Was auch an den Fragen und Spr\u00fcchen des Moderators liegt, der gern Lacher vom Band einspielt."
+                },
+                {
+                    "text": "Mehrfach aber spielte er auch Lacher ein."
+                }
+            ],
+            "occupations": [],
+            "directQuotes": [],
+            "quotedInTitle": false,
+            "quotedInIntro": false
+        },
+        {
+            "name": "Tobias Kybart",
+            "alternativeNames": [],
+            "age": -1,
+            "sex": "male",
+            "occurences": {
+                "total": 3,
+                "firstNameOnly": 0,
+                "lastNameOnly": 2,
+                "fullName": 1,
+                "nickname": 0
+            },
+            "inTitle": false,
+            "inIntro": false,
+            "_name": {
+                "firstname": "Tobias",
+                "lastname": "Kybart",
+                "nickname": null,
+                "alternative_names": [],
+                "academic_title": null,
+                "nobility_title_or_rank": null
+            },
+            "descriptiveTexts": [
+                {
+                    "text": "Auf diesen Vorwurf angesprochen blickt Niknando zu seinem Manager Tobias Kybart, der beim Interview neben ihm sitzt."
+                },
+                {
+                    "text": "Kybart stellt klar, dass er derjenige sei, der etwa f\u00fcr \u00bbHouse of Challenge\u00ab die Bewerbungen sichte."
+                },
+                {
+                    "text": "Mit den Kandidaten f\u00fchre er vor Beginn jenes Drehs vier Gruppencalls durch, sagt er, trotzdem falle es ihm manchmal schwer, abzusch\u00e4tzen, wie gut jemand physisch und mental f\u00fcr das Format geeignet sei."
+                },
+                {
+                    "text": "Dass bei Niknando-Shows tats\u00e4chlich schon Menschen mit k\u00f6rperlichen und geistigen Behinderungen mitgemacht haben, best\u00e4tigt Kybart."
+                },
+                {
+                    "text": "Pauschal abgelehnt h\u00e4tten Niknando und er bisher lediglich Bewerber mit gesetzlichen Betreuern, sagt er."
+                }
+            ],
+            "occupations": [],
+            "directQuotes": [],
+            "quotedInTitle": false,
+            "quotedInIntro": false
+        },
+        {
+            "name": "Kevin Kelly",
+            "alternativeNames": [],
+            "age": -1,
+            "sex": "male",
+            "occurences": {
+                "total": 1,
+                "firstNameOnly": 0,
+                "lastNameOnly": 0,
+                "fullName": 1,
+                "nickname": 0
+            },
+            "inTitle": false,
+            "inIntro": false,
+            "_name": {
+                "firstname": "Kevin",
+                "lastname": "Kelly",
+                "nickname": null,
+                "alternative_names": [],
+                "academic_title": null,
+                "nobility_title_or_rank": null
+            },
+            "descriptiveTexts": [
+                {
+                    "text": "Niknando wirkt so wie der ultimative Beweis f\u00fcr die These des Techjournalisten Kevin Kelly, laut der mitunter 1000 zahlungswillige Hardcore-Fans ausreichen, damit Influencer von ihrem Content leben k\u00f6nnen."
+                }
+            ],
+            "occupations": [
+                {
+                    "text": "Techjournalist"
+                }
+            ],
+            "directQuotes": [],
+            "quotedInTitle": false,
+            "quotedInIntro": false
+        }
+    ]
+}

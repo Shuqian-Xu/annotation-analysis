@@ -1,0 +1,167 @@
+{
+    "persons": [
+        {
+            "name": "Sven Clausen",
+            "alternativeNames": [],
+            "age": -1,
+            "sex": "male",
+            "occurences": {
+                "total": 2,
+                "firstNameOnly": 0,
+                "lastNameOnly": 0,
+                "fullName": 2,
+                "nickname": 0
+            },
+            "inTitle": false,
+            "inIntro": false,
+            "_name": {
+                "firstname": "Sven",
+                "lastname": "Clausen",
+                "nickname": null,
+                "alternative_names": [],
+                "academic_title": null,
+                "nobility_title_or_rank": null
+            },
+            "descriptiveTexts": [
+                {
+                    "text": "Dar\u00fcber informiert in diesem Podcast Jonas Rest, Start-ups-Reporter des manager magazins, im Gespr\u00e4ch mit Chefredakteur Sven Clausen."
+                },
+                {
+                    "text": "Im Podcast \"Das Thema\" informiert Chefredakteur Sven Clausen jede Woche \u00fcber den internen Recherchestand zu einem relevanten aktuellen und zugleich zukunftstr\u00e4chtigen Thema der Wirtschaft."
+                }
+            ],
+            "occupations": [
+                {
+                    "text": "Chefredakteur"
+                }
+            ],
+            "directQuotes": [],
+            "quotedInTitle": false,
+            "quotedInIntro": false
+        },
+        {
+            "name": "Ralf D\u00fcmmel",
+            "alternativeNames": [],
+            "age": 56,
+            "sex": "male",
+            "occurences": {
+                "total": 5,
+                "firstNameOnly": 0,
+                "lastNameOnly": 3,
+                "fullName": 2,
+                "nickname": 0
+            },
+            "inTitle": true,
+            "inIntro": true,
+            "_name": {
+                "firstname": "Ralf",
+                "lastname": "D\u00fcmmel",
+                "nickname": null,
+                "alternative_names": [],
+                "academic_title": null,
+                "nobility_title_or_rank": null
+            },
+            "descriptiveTexts": [
+                {
+                    "text": "Kugelgrills und Firlefanz \u2013 wie die TV-Stars Georg Kofler und Ralf D\u00fcmmel Privatanleger blenden konnten"
+                },
+                {
+                    "text": "Der B\u00f6rsenabsturz der Unternehmer Kofler und D\u00fcmmel ist ein Lehrst\u00fcck, wie sich Blendwerk von echter unternehmerischer Substanz unterscheiden l\u00e4sst."
+                },
+                {
+                    "text": "Mit ihren wolkigen Versprechungen trieben Georg Kofler (66) und Ralf D\u00fcmmel (56) den B\u00f6rsenwert ihrer Social Chain AG zwischenzeitlich auf 800 Millionen Euro."
+                },
+                {
+                    "text": "Ihre Glaubw\u00fcrdigkeit bezogen Kofler und D\u00fcmmel aus ihrer Rolle als Juroren der TV-Show \"H\u00f6hle der L\u00f6wen\"."
+                },
+                {
+                    "text": "Wie sind Kofler und D\u00fcmmel dabei vorgegangen, wie l\u00e4sst sich derartiges Blendwerk enttarnen?"
+                }
+            ],
+            "occupations": [],
+            "directQuotes": [],
+            "quotedInTitle": true,
+            "quotedInIntro": true
+        },
+        {
+            "name": "Georg Kofler",
+            "alternativeNames": [],
+            "age": 66,
+            "sex": "male",
+            "occurences": {
+                "total": 5,
+                "firstNameOnly": 0,
+                "lastNameOnly": 3,
+                "fullName": 2,
+                "nickname": 0
+            },
+            "inTitle": true,
+            "inIntro": true,
+            "_name": {
+                "firstname": "Georg",
+                "lastname": "Kofler",
+                "nickname": null,
+                "alternative_names": [],
+                "academic_title": null,
+                "nobility_title_or_rank": null
+            },
+            "descriptiveTexts": [
+                {
+                    "text": "Kugelgrills und Firlefanz \u2013 wie die TV-Stars Georg Kofler und Ralf D\u00fcmmel Privatanleger blenden konnten"
+                },
+                {
+                    "text": "Der B\u00f6rsenabsturz der Unternehmer Kofler und D\u00fcmmel ist ein Lehrst\u00fcck, wie sich Blendwerk von echter unternehmerischer Substanz unterscheiden l\u00e4sst."
+                },
+                {
+                    "text": "Mit ihren wolkigen Versprechungen trieben Georg Kofler (66) und Ralf D\u00fcmmel (56) den B\u00f6rsenwert ihrer Social Chain AG zwischenzeitlich auf 800 Millionen Euro."
+                },
+                {
+                    "text": "Ihre Glaubw\u00fcrdigkeit bezogen Kofler und D\u00fcmmel aus ihrer Rolle als Juroren der TV-Show \"H\u00f6hle der L\u00f6wen\"."
+                },
+                {
+                    "text": "Wie sind Kofler und D\u00fcmmel dabei vorgegangen, wie l\u00e4sst sich derartiges Blendwerk enttarnen?"
+                }
+            ],
+            "occupations": [
+                {
+                    "text": "Blendwerk von echter unternehmerischer Substanz"
+                }
+            ],
+            "directQuotes": [],
+            "quotedInTitle": true,
+            "quotedInIntro": true
+        },
+        {
+            "name": "Jonas Rest",
+            "alternativeNames": [],
+            "age": -1,
+            "sex": "male",
+            "occurences": {
+                "total": 1,
+                "firstNameOnly": 0,
+                "lastNameOnly": 0,
+                "fullName": 1,
+                "nickname": 0
+            },
+            "inTitle": false,
+            "inIntro": false,
+            "_name": {
+                "firstname": "Jonas",
+                "lastname": "Rest",
+                "nickname": null,
+                "alternative_names": [],
+                "academic_title": null,
+                "nobility_title_or_rank": null
+            },
+            "descriptiveTexts": [
+                {
+                    "text": "Dar\u00fcber informiert in diesem Podcast Jonas Rest, Start-ups-Reporter des manager magazins, im Gespr\u00e4ch mit Chefredakteur Sven Clausen."
+                }
+            ],
+            "occupations": [],
+            "directQuotes": [],
+            "quotedInTitle": false,
+            "quotedInIntro": false
+        }
+    ]
+}

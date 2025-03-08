@@ -1,0 +1,1403 @@
+{
+    "persons": [
+        {
+            "name": "Mike Pompeo",
+            "alternativeNames": [],
+            "age": -1,
+            "sex": "male",
+            "occurences": {
+                "total": 1,
+                "firstNameOnly": 1,
+                "lastNameOnly": 0,
+                "fullName": 0,
+                "nickname": 0
+            },
+            "inTitle": false,
+            "inIntro": false,
+            "_name": {
+                "firstname": "Mike",
+                "lastname": "Pompe",
+                "nickname": null,
+                "alternative_names": [],
+                "academic_title": null,
+                "nobility_title_or_rank": null
+            },
+            "descriptiveTexts": [
+                {
+                    "text": "Die Behauptung, dass der ehemalige CIA-Chef und US-Au\u00dfenminister Mike Pompeo angeregt habe, Julian Assange zu t\u00f6ten, regte die amerikanische \u00d6ffentlichkeit erst richtig auf, als sie der Trump-Kumpel Tucker Carlson aussprach."
+                }
+            ],
+            "occupations": [],
+            "directQuotes": [],
+            "quotedInTitle": false,
+            "quotedInIntro": false
+        },
+        {
+            "name": "Gabriel Shipton",
+            "alternativeNames": [],
+            "age": -1,
+            "sex": "male",
+            "occurences": {
+                "total": 8,
+                "firstNameOnly": 6,
+                "lastNameOnly": 0,
+                "fullName": 2,
+                "nickname": 0
+            },
+            "inTitle": false,
+            "inIntro": false,
+            "_name": {
+                "firstname": "Gabriel",
+                "lastname": "Shipton",
+                "nickname": null,
+                "alternative_names": [],
+                "academic_title": null,
+                "nobility_title_or_rank": null
+            },
+            "descriptiveTexts": [
+                {
+                    "text": "Er spielt in New York, Barcelona, Berlin, London, Melbourne, Paris und Washington, in Hotelzimmern, vor Gef\u00e4ngnismauern, in Parlamenten, an K\u00fcchentischen und oft auf Pl\u00e4tzen, wo John Shipton spricht, zu Journalisten und J\u00fcngern, Politikern und Menschen, die aussehen wie Stadtstreicher."
+                },
+                {
+                    "text": "Als die B\u00fchnen in London abgebaut werden, reisen John und Gabriel Shipton weiter, um \u00bbKoalitionen der Freundschaft\u00ab aufzubauen, wie sie das nennen."
+                },
+                {
+                    "text": "\u00bbWir sind alle so viel \u00e4lter geworden\u00ab, sagt Gabriel Shipton am sp\u00e4ten Sonntagabend in einem Berliner Restaurant."
+                },
+                {
+                    "text": "\u00bbJulian nat\u00fcrlich, der sowieso. Aber auch das Anwaltsteam, mein Vater, Stella, die Aktivisten. Wir machen das ja jetzt schon \u00fcber zehn Jahre. Ich werde auch langsam grau.\u00ab"
+                }
+            ],
+            "occupations": [],
+            "directQuotes": [
+                {
+                    "text": "Julian nat\u00fcrlich, der sowieso. Aber auch das Anwaltsteam, mein Vater, Stella, die Aktivisten. Wir machen das ja jetzt schon \u00fcber zehn Jahre. Ich werde auch langsam grau."
+                }
+            ],
+            "quotedInTitle": false,
+            "quotedInIntro": false
+        },
+        {
+            "name": "Annalena Baerbock",
+            "alternativeNames": [
+                "Baerbock"
+            ],
+            "age": -1,
+            "sex": "female",
+            "occurences": {
+                "total": 2,
+                "firstNameOnly": 0,
+                "lastNameOnly": 1,
+                "fullName": 1,
+                "nickname": 0
+            },
+            "inTitle": false,
+            "inIntro": false,
+            "_name": {
+                "firstname": "Annalena",
+                "lastname": "Baerbock",
+                "nickname": null,
+                "alternative_names": [
+                    "Baerbock"
+                ],
+                "academic_title": null,
+                "nobility_title_or_rank": null
+            },
+            "descriptiveTexts": [
+                {
+                    "text": "Baerbocks Solidarit\u00e4tsbekenntnisse wurden w\u00e4ssrig"
+                },
+                {
+                    "text": "Vor anderthalb Jahren wollte er in Berlin die deutsche Au\u00dfenministerin Annalena Baerbock treffen, deren Solidarit\u00e4tsbekenntnisse zu Julian Assange w\u00e4ssriger wurden, je l\u00e4nger sie im Amt war."
+                },
+                {
+                    "text": "Sie habe dann nur einen Stellvertreter zum Treffen geschickt, der am Ende nicht mal auf ein gemeinsames Foto wollte."
+                }
+            ],
+            "occupations": [],
+            "directQuotes": [
+                {
+                    "text": "Da stehe ich jetzt."
+                }
+            ],
+            "quotedInTitle": false,
+            "quotedInIntro": false
+        },
+        {
+            "name": "Julian Assange",
+            "alternativeNames": [],
+            "age": -1,
+            "sex": "male",
+            "occurences": {
+                "total": 63,
+                "firstNameOnly": 15,
+                "lastNameOnly": 34,
+                "fullName": 14,
+                "nickname": 0
+            },
+            "inTitle": false,
+            "inIntro": true,
+            "_name": {
+                "firstname": "Julian",
+                "lastname": "Assange",
+                "nickname": null,
+                "alternative_names": [],
+                "academic_title": null,
+                "nobility_title_or_rank": null
+            },
+            "descriptiveTexts": [
+                {
+                    "text": "Seit \u00fcber zehn Jahren k\u00e4mpft John Shipton f\u00fcr die Freiheit seines Sohnes Julian Assange."
+                },
+                {
+                    "text": "An einem Februarabend steht John Shipton im Toilettengang eines italienischen Restaurants und gibt auf seiner Handykamera ein Live-Interview zum Schicksal seines Sohnes Julian Assange f\u00fcr die Show des amerikanischen Verschw\u00f6rungstheoretikers Alex Jones."
+                },
+                {
+                    "text": "\u00bbJulian Assange hat die letzte Chance, der Auslieferung in die USA zu entgehen, wo er wom\u00f6glich sterben wird. Sein Leben ist in Gefahr, die Freiheit der Presse ist in Gefahr.\u00ab"
+                },
+                {
+                    "text": "Einmal sieht man ihn, noch blond, an der Seite Pamela Andersons, dann auf dem Balkon der ecuadorianischen Botschaft in London, wo er zu den Massen spricht wie Lenin vom Balkon des Kschessinskaja-Palasts."
+                },
+                {
+                    "text": "Am Ende gr\u00fc\u00dft er wie ein wei\u00dfb\u00e4rtiger Greis aus dem Gefangenentransporter, der ihn nach Belmarsh bringt."
+                },
+                {
+                    "text": "Der mutigste Journalist der Welt oder ein narzisstischer Aktivist\n\nJulian Assange war Freiheitsheld und Staatsfeind, seit er 2010 auf seiner Enth\u00fcllungsplattform WikiLeaks ein Video ver\u00f6ffentlicht hatte, auf dem zu sehen ist, wie aus einem US-Hubschrauber Zivilisten beschossen und get\u00f6tet werden."
+                },
+                {
+                    "text": "Seit fast f\u00fcnf Jahren ist Julian Assange im Londoner Hochsicherheitsgef\u00e4ngnis Belmarsh eingesperrt."
+                },
+                {
+                    "text": "Mindestens 22 Stunden des Tages verbringt er dort."
+                },
+                {
+                    "text": "Vor anderthalb Jahren wollte er in Berlin die deutsche Au\u00dfenministerin Annalena Baerbock treffen, deren Solidarit\u00e4tsbekenntnisse zu Julian Assange w\u00e4ssriger wurden, je l\u00e4nger sie im Amt war."
+                },
+                {
+                    "text": "Nur die Ersten, die durch das eiserne Tor treten, bekommen Pl\u00e4tze im Gerichtssaal Nummer 5, wo dar\u00fcber entschieden werden soll, ob Julian Assange ausgeliefert wird oder nicht."
+                },
+                {
+                    "text": "Seine Schwiegertochter Stella Assange aber sagt, die \u00c4hnlichkeit der beiden M\u00e4nner, ihre Art zu reden, zu denken, ihr Humor habe sie umgeworfen. Julian Assange hat seinem Vater damals, als sie sich in Sydney wiederbegegneten, erz\u00e4hlt, dass er eine Enth\u00fcllungsplattform gr\u00fcnden wolle."
+                },
+                {
+                    "text": "Man glaubt, Julian Assange sprechen zu h\u00f6ren, wenn man mit dem Vater redet."
+                },
+                {
+                    "text": "Es hei\u00dft, Julian Assange habe sich gesundheitlich nicht in der Lage gef\u00fchlt, an dem Prozess teilzunehmen."
+                },
+                {
+                    "text": "Schon vor Jahren hie\u00df es, er habe stark abgenommen, ein bestellter Psychiater vom King\u2019s College hat ein sehr hohes Suizidrisiko diagnostiziert."
+                },
+                {
+                    "text": "Shipton kennt die psychologischen Gutachten \u00fcber Julian Assange."
+                },
+                {
+                    "text": "Jeder k\u00e4mpft seinen eigenen Kampf, jeder glaubt Julian Assanges Schmerz zu sp\u00fcren, sie h\u00e4ngen an den Rocksch\u00f6\u00dfen des gro\u00dfen Enth\u00fcllers."
+                },
+                {
+                    "text": "Die Behauptung, dass der ehemalige CIA-Chef und US-Au\u00dfenminister Mike Pompeo angeregt habe, Julian Assange zu t\u00f6ten, regte die amerikanische \u00d6ffentlichkeit erst richtig auf, als sie der Trump-Kumpel Tucker Carlson aussprach."
+                },
+                {
+                    "text": "Gabriel fliegt nach Deutschland, wo die Wau Holland Stiftung sitzt, die auch Spenden f\u00fcr die Unterst\u00fctzung von Julian Assange sammelt."
+                }
+            ],
+            "occupations": [
+                {
+                    "text": "Freiheitsheld und Staatsfeind"
+                },
+                {
+                    "text": "Systemfeind"
+                },
+                {
+                    "text": "Der mutigste Journalist der Welt"
+                },
+                {
+                    "text": "Ein Produkt der Liebe zweier Friedensaktivisten"
+                },
+                {
+                    "text": "Fl\u00fcchtling"
+                }
+            ],
+            "directQuotes": [],
+            "quotedInTitle": false,
+            "quotedInIntro": true
+        },
+        {
+            "name": "Olaf Scholz",
+            "alternativeNames": [],
+            "age": -1,
+            "sex": "male",
+            "occurences": {
+                "total": 1,
+                "firstNameOnly": 0,
+                "lastNameOnly": 0,
+                "fullName": 1,
+                "nickname": 0
+            },
+            "inTitle": false,
+            "inIntro": false,
+            "_name": {
+                "firstname": "Olaf",
+                "lastname": "Scholz",
+                "nickname": null,
+                "alternative_names": [],
+                "academic_title": null,
+                "nobility_title_or_rank": null
+            },
+            "descriptiveTexts": [
+                {
+                    "text": "Mit einer \u00fcberraschenden Verachtung kommentiert er die Politik von Olaf Scholz und Ursula von der Leyen, das Verm\u00e4chtnis Angela Merkels, deren Coronama\u00dfnahmen sowie die deutsche Energiepolitik."
+                }
+            ],
+            "occupations": [
+                {
+                    "text": "Politiker"
+                }
+            ],
+            "directQuotes": [],
+            "quotedInTitle": false,
+            "quotedInIntro": false
+        },
+        {
+            "name": "Nils Melzer",
+            "alternativeNames": [],
+            "age": -1,
+            "sex": "male",
+            "occurences": {
+                "total": 4,
+                "firstNameOnly": 0,
+                "lastNameOnly": 2,
+                "fullName": 2,
+                "nickname": 0
+            },
+            "inTitle": false,
+            "inIntro": false,
+            "_name": {
+                "firstname": "Nils",
+                "lastname": "Melzer",
+                "nickname": null,
+                "alternative_names": [],
+                "academic_title": null,
+                "nobility_title_or_rank": null
+            },
+            "descriptiveTexts": [
+                {
+                    "text": "Er sei sich sicher, dass Assange sich umbringen werde, wenn man ihn ausliefere."
+                },
+                {
+                    "text": "Nils Melzer, der sich als Sonderberichterstatter der Vereinten Nationen f\u00fcr Folter des Falls Assange annahm, sagt: \u00bbFolter ist ein Werkzeug, das eine Warnung an andere senden soll. Es ist am effektivsten, wenn es \u00f6ffentlich angewendet wird.\u00ab"
+                },
+                {
+                    "text": "Nils Melzer hat einmal erkl\u00e4rt, dass er den Fall Assange als Uno-Sonderberichterstatter eigentlich nicht \u00fcbernehmen wollte, weil er den Eindruck hatte, der sei \u00bbirgendwie schuldig\u00ab."
+                },
+                {
+                    "text": "Aber dann las er die Unterlagen der schwedischen Ermittlungsbeh\u00f6rden zu zwei angeblichen Vergewaltigungen und hatte sein Erweckungserlebnis."
+                },
+                {
+                    "text": "Melzer spricht Schwedisch."
+                },
+                {
+                    "text": "Er habe festgestellt, erkl\u00e4rte er in einem Interview, dass Polizei und Staatsanwaltschaft die Aussagen der Frauen manipuliert und umgeschrieben h\u00e4tten."
+                },
+                {
+                    "text": "Die USA, so sagte es Melzer, \u00bbforderten ihre Alliierten umgehend dazu auf, Assange mit Strafverfahren zu \u00fcberziehen\u00ab."
+                }
+            ],
+            "occupations": [],
+            "directQuotes": [
+                {
+                    "text": "Folter ist ein Werkzeug, das eine Warnung an andere senden soll. Es ist am effektivsten, wenn es \u00f6ffentlich angewendet wird."
+                },
+                {
+                    "text": "forderten ihre Alliierten umgehend dazu auf, Assange mit Strafverfahren zu \u00fcberziehen"
+                }
+            ],
+            "quotedInTitle": false,
+            "quotedInIntro": false
+        },
+        {
+            "name": "Chelsea Manning",
+            "alternativeNames": [],
+            "age": -1,
+            "sex": "female",
+            "occurences": {
+                "total": 1,
+                "firstNameOnly": 0,
+                "lastNameOnly": 0,
+                "fullName": 1,
+                "nickname": 0
+            },
+            "inTitle": false,
+            "inIntro": false,
+            "_name": {
+                "firstname": "Chelsea",
+                "lastname": "Manning",
+                "nickname": null,
+                "alternative_names": [],
+                "academic_title": null,
+                "nobility_title_or_rank": null
+            },
+            "descriptiveTexts": [
+                {
+                    "text": "Obama tat das vor sieben Jahren mit der fr\u00fcheren Soldatin Chelsea Manning, deren geheime Informationen \u00fcber die Kriege der Amerikaner Assange ver\u00f6ffentlicht hatte."
+                }
+            ],
+            "occupations": [],
+            "directQuotes": [],
+            "quotedInTitle": false,
+            "quotedInIntro": false
+        },
+        {
+            "name": "Ursula von der Leyen",
+            "alternativeNames": [],
+            "age": -1,
+            "sex": "female",
+            "occurences": {
+                "total": 1,
+                "firstNameOnly": 0,
+                "lastNameOnly": 0,
+                "fullName": 1,
+                "nickname": 0
+            },
+            "inTitle": false,
+            "inIntro": false,
+            "_name": {
+                "firstname": "Ursula",
+                "lastname": "von der Leyen",
+                "nickname": null,
+                "alternative_names": [],
+                "academic_title": null,
+                "nobility_title_or_rank": null
+            },
+            "descriptiveTexts": [
+                {
+                    "text": "Mit einer \u00fcberraschenden Verachtung kommentiert er die Politik von Olaf Scholz und Ursula von der Leyen, das Verm\u00e4chtnis Angela Merkels, deren Coronama\u00dfnahmen sowie die deutsche Energiepolitik."
+                }
+            ],
+            "occupations": [],
+            "directQuotes": [],
+            "quotedInTitle": false,
+            "quotedInIntro": false
+        },
+        {
+            "name": "Pak",
+            "alternativeNames": [],
+            "age": -1,
+            "sex": "unknown",
+            "occurences": {
+                "total": 1,
+                "firstNameOnly": 0,
+                "lastNameOnly": 0,
+                "fullName": 1,
+                "nickname": 0
+            },
+            "inTitle": false,
+            "inIntro": false,
+            "_name": {
+                "firstname": null,
+                "lastname": "Pak",
+                "nickname": null,
+                "alternative_names": [],
+                "academic_title": null,
+                "nobility_title_or_rank": null
+            },
+            "descriptiveTexts": [
+                {
+                    "text": "\u00bbSie wollen einen Anfang und ein Ende. Wie in einem Hollywoodfilm. Ich ziehe die Schwierigkeit eines Schicksals der Bequemlichkeit einer Erz\u00e4hlung vor.\u00ab"
+                },
+                {
+                    "text": "Sie sehen aus wie Obdachlose, aber es sind Platzhalter f\u00fcr internationale Prozessbeobachter."
+                },
+                {
+                    "text": "Sie stehen seit f\u00fcnf Uhr hier im Regen, die Tore \u00f6ffnen sich kurz nach neun."
+                },
+                {
+                    "text": "Dann gehen sie."
+                },
+                {
+                    "text": "Die beiden wei\u00dfhaarigen M\u00e4nner beratschlagen, ob sie zusammen nach Berlin aufbrechen sollten, um Geld f\u00fcr die Assange-Kampagne zu sammeln."
+                },
+                {
+                    "text": "Jeder k\u00e4mpft seinen eigenen Kampf, jeder glaubt Julian Assanges Schmerz zu sp\u00fcren, sie h\u00e4ngen an den Rocksch\u00f6\u00dfen des gro\u00dfen Enth\u00fcllers."
+                },
+                {
+                    "text": "Eine gro\u00dfe Summe stammt aus dem Verkauf eines Kunstwerks des K\u00fcnstlers Pak, das 2022 an 10.000 Bieter im Netz versteigert wurde."
+                }
+            ],
+            "occupations": [
+                {
+                    "text": "K\u00fcnstler"
+                }
+            ],
+            "directQuotes": [],
+            "quotedInTitle": false,
+            "quotedInIntro": false
+        },
+        {
+            "name": "Voltaire",
+            "alternativeNames": [],
+            "age": -1,
+            "sex": "male",
+            "occurences": {
+                "total": 2,
+                "firstNameOnly": 1,
+                "lastNameOnly": 1,
+                "fullName": 0,
+                "nickname": 0
+            },
+            "inTitle": false,
+            "inIntro": false,
+            "_name": {
+                "firstname": "Voltaire",
+                "lastname": "Voltaire",
+                "nickname": null,
+                "alternative_names": [],
+                "academic_title": null,
+                "nobility_title_or_rank": null
+            },
+            "descriptiveTexts": [
+                {
+                    "text": "In seinem Internat habe er antiklerikale Zitate von Voltaire an die Tafel geschrieben, w\u00e4hrend seine Mitsch\u00fcler den Gottesdienst besuchten, sagt er."
+                }
+            ],
+            "occupations": [],
+            "directQuotes": [
+                {
+                    "text": "Tractatus"
+                }
+            ],
+            "quotedInTitle": false,
+            "quotedInIntro": false
+        },
+        {
+            "name": "Angela Merkel",
+            "alternativeNames": [],
+            "age": -1,
+            "sex": "female",
+            "occurences": {
+                "total": 1,
+                "firstNameOnly": 0,
+                "lastNameOnly": 0,
+                "fullName": 1,
+                "nickname": 0
+            },
+            "inTitle": false,
+            "inIntro": false,
+            "_name": {
+                "firstname": "Angela",
+                "lastname": "Merkel",
+                "nickname": null,
+                "alternative_names": [],
+                "academic_title": null,
+                "nobility_title_or_rank": null
+            },
+            "descriptiveTexts": [
+                {
+                    "text": "Mit einer \u00fcberraschenden Verachtung kommentiert er die Politik von Olaf Scholz und Ursula von der Leyen, das Verm\u00e4chtnis Angela Merkels, deren Coronama\u00dfnahmen sowie die deutsche Energiepolitik."
+                }
+            ],
+            "occupations": [
+                {
+                    "text": "Verm\u00e4chtnis Angela Merkels"
+                }
+            ],
+            "directQuotes": [],
+            "quotedInTitle": false,
+            "quotedInIntro": false
+        },
+        {
+            "name": "Sahra Wagenknecht",
+            "alternativeNames": [],
+            "age": -1,
+            "sex": "female",
+            "occurences": {
+                "total": 1,
+                "firstNameOnly": 0,
+                "lastNameOnly": 0,
+                "fullName": 1,
+                "nickname": 0
+            },
+            "inTitle": false,
+            "inIntro": false,
+            "_name": {
+                "firstname": "Sahra",
+                "lastname": "Wagenknecht",
+                "nickname": null,
+                "alternative_names": [],
+                "academic_title": null,
+                "nobility_title_or_rank": null
+            },
+            "descriptiveTexts": [
+                {
+                    "text": "Shipton k\u00f6nnte sich vorstellen, dass das B\u00fcndnis Sahra Wagenknecht ihn versteht."
+                }
+            ],
+            "occupations": [],
+            "directQuotes": [],
+            "quotedInTitle": false,
+            "quotedInIntro": false
+        },
+        {
+            "name": "Donald Trump",
+            "alternativeNames": [],
+            "age": -1,
+            "sex": "male",
+            "occurences": {
+                "total": 5,
+                "firstNameOnly": 0,
+                "lastNameOnly": 4,
+                "fullName": 1,
+                "nickname": 0
+            },
+            "inTitle": false,
+            "inIntro": false,
+            "_name": {
+                "firstname": "Donald",
+                "lastname": "Trump",
+                "nickname": null,
+                "alternative_names": [],
+                "academic_title": null,
+                "nobility_title_or_rank": null
+            },
+            "descriptiveTexts": [
+                {
+                    "text": "F\u00fcr die einen war Assange der mutigste Journalist der Welt, der Kriegsverbrechen der USA im Irak und in Afghanistan aufgedeckt und die dunkle Seite der Macht beleuchtet hat, f\u00fcr andere ein r\u00fccksichtsloser, narzisstischer Aktivist, der unkontrolliert Datenstr\u00f6me ins Netz kippte, Chaos schuf, Menschen gef\u00e4hrdete, Populisten wie Trump zur Macht verhalf."
+                },
+                {
+                    "text": "Die Behauptung, dass der ehemalige CIA-Chef und US-Au\u00dfenminister Mike Pompeo angeregt habe, Julian Assange zu t\u00f6ten, regte die amerikanische \u00d6ffentlichkeit erst richtig auf, als sie der Trump-Kumpel Tucker Carlson aussprach."
+                },
+                {
+                    "text": "Die Hoffnung auf Donald Trump"
+                },
+                {
+                    "text": "Vier Jahre sp\u00e4ter versuchten John Shipton und sein Sohn Gabriel, das Umfeld von Trump davon zu \u00fcberzeugen, dass Trump Julian begnadigen solle."
+                }
+            ],
+            "occupations": [],
+            "directQuotes": [],
+            "quotedInTitle": false,
+            "quotedInIntro": false
+        },
+        {
+            "name": "John Shipton",
+            "alternativeNames": [],
+            "age": 79,
+            "sex": "male",
+            "occurences": {
+                "total": 48,
+                "firstNameOnly": 5,
+                "lastNameOnly": 22,
+                "fullName": 21,
+                "nickname": 0
+            },
+            "inTitle": false,
+            "inIntro": true,
+            "_name": {
+                "firstname": "John",
+                "lastname": "Shipton",
+                "nickname": null,
+                "alternative_names": [],
+                "academic_title": null,
+                "nobility_title_or_rank": null
+            },
+            "descriptiveTexts": [
+                {
+                    "text": "Seit \u00fcber zehn Jahren k\u00e4mpft John Shipton f\u00fcr die Freiheit seines Sohnes Julian Assange."
+                },
+                {
+                    "text": "Er demonstriert mit rechten und linken Aktivisten, verhandelt mit Politikern und hofft, dass endlich jemand seinem Sohn hilft."
+                },
+                {
+                    "text": "An einem Februarabend steht John Shipton im Toilettengang eines italienischen Restaurants und gibt auf seiner Handykamera ein Live-Interview zum Schicksal seines Sohnes Julian Assange f\u00fcr die Show des amerikanischen Verschw\u00f6rungstheoretikers Alex Jones."
+                },
+                {
+                    "text": "Er muss etwas essen, aber der Kampf geht weiter."
+                },
+                {
+                    "text": "Dazu sieht man auf InfoWars gerade nur die gro\u00dfen, traurigen Augen von John Shipton."
+                },
+                {
+                    "text": "Man sieht die hohe Stirn von John Shipton."
+                },
+                {
+                    "text": "Er erl\u00e4utert die Strategie der Anw\u00e4lte seines Sohnes, die sich darauf konzentriert, dass politische Gefangene nicht von Gro\u00dfbritannien an die USA ausgeliefert werden d\u00fcrfen."
+                },
+                {
+                    "text": "Bevor John Shipton aus London zugeschaltet wurde, hat Alex Jones mit aufgeblasenen Backen \u00fcber das kranke Blut der Coronageimpften geredet."
+                },
+                {
+                    "text": "Dann erscheint wieder John Shiptons Gesicht, die Augen hinter der randlosen Brille geschlossen, als w\u00fcrde er meditieren."
+                },
+                {
+                    "text": "\u00bbSie wollen einen Anfang und ein Ende. Wie in einem Hollywoodfilm. Ich ziehe die Schwierigkeit eines Schicksals der Bequemlichkeit einer Erz\u00e4hlung vor.\u00ab"
+                },
+                {
+                    "text": "\u00bbTheoretisch ist es m\u00f6glich, dass Julian bald ausgeliefert wird. Aber ich glaube nicht, dass die Richter so schnell ein Urteil f\u00e4llen\u00ab, sagt John Shipton."
+                },
+                {
+                    "text": "Er l\u00e4chelt."
+                },
+                {
+                    "text": "Er pfl\u00fcckt ein paar Bratkartoffeln vom Teller, bestellt dann ein kleines Glas Rotwein und ein St\u00fcck Apfelkuchen mit Vanilleeis."
+                },
+                {
+                    "text": "Er hat sowieso keinen richtigen Hunger, nur Appetit."
+                },
+                {
+                    "text": "Vielleicht kommt er auch nach Deutschland, wahrscheinlich ist es nicht."
+                },
+                {
+                    "text": "Er verbinde keine Hoffnung mehr mit der deutschen Politik, mit der er erstaunlich gut vertraut zu sein scheint."
+                },
+                {
+                    "text": "Vor anderthalb Jahren wollte er in Berlin die deutsche Au\u00dfenministerin Annalena Baerbock treffen, deren Solidarit\u00e4tsbekenntnisse zu Julian Assange w\u00e4ssriger wurden, je l\u00e4nger sie im Amt war."
+                },
+                {
+                    "text": "Er hat auch das Programm der AfD gelesen."
+                },
+                {
+                    "text": "\u00bbEs ist ja nicht lang\u00ab, sagt er und lacht."
+                },
+                {
+                    "text": "Er lacht oft, man wei\u00df nicht immer, wor\u00fcber."
+                },
+                {
+                    "text": "Aber wo steht er?"
+                },
+                {
+                    "text": "\u00bbIch w\u00fcrde mich selbst als sozial konservativen Sozialisten beschreiben\u00ab, sagt er."
+                },
+                {
+                    "text": "Er ist vorbildlich gekleidet."
+                },
+                {
+                    "text": "Schwarzer Anzug, wei\u00dfes Hemd, schwarze Doc Martens, ein rotes Einstecktuch der Firma Auerbach, das er in der Krawattenabteilung der Galeries Lafayette in Berlin gekauft hat."
+                },
+                {
+                    "text": "Er erinnert manchmal an den amerikanischen Schauspieler Bill Murray und sein st\u00e4ndiges L\u00e4cheln an das L\u00e4cheln, mit dem Murray in \u00bbLost in Translation\u00ab der fremden Welt Tokios begegnet."
+                },
+                {
+                    "text": "Er hasse diesen bullenk\u00f6pfigen, amerikanischen Radio-Host Alex Jones, in dessen Programm er eben auftrat, sagt er."
+                },
+                {
+                    "text": "Er gehe dorthin, sagt er, weil die zivilisierte, westliche Welt seinen Sohn offensichtlich nicht retten kann."
+                },
+                {
+                    "text": "Mit einer \u00fcberraschenden Verachtung kommentiert er die Politik von Olaf Scholz und Ursula von der Leyen, das Verm\u00e4chtnis Angela Merkels, deren Coronama\u00dfnahmen sowie die deutsche Energiepolitik."
+                },
+                {
+                    "text": "Dann zitiert er die Schlusspassage des \u00bbTractatus\u00ab des Philosophen Ludwig Wittgenstein: \u00bbWor\u00fcber man nicht sprechen kann, dar\u00fcber muss man schweigen.\u00ab"
+                },
+                {
+                    "text": "Er trinkt seinen Wein aus und l\u00e4uft zur U-Bahn, die ihn nach Fulham bringt, wo seine Schwiegertochter Stella wohnt, seine beiden Enkel und wo auch er \u00fcbernachtet, wenn er in London ist."
+                },
+                {
+                    "text": "Er liebe es, sagt er, H\u00e4user zu bauen."
+                },
+                {
+                    "text": "Das letzte Haus, in dem er mit seiner letzten Frau wohnte, habe er verkauft."
+                },
+                {
+                    "text": "Es klingt, als h\u00e4tte er sowohl die Frau als auch das Haus dem Kampf geopfert."
+                },
+                {
+                    "text": "\u00bbIch mache das, was ein Vater macht, dessen Sohn in Schwierigkeiten ist\u00ab, sagt er."
+                },
+                {
+                    "text": "Er ist 79 Jahre alt."
+                },
+                {
+                    "text": "John Shipton verteidigt nicht nur das Leben seines Sohnes, sondern auch sein eigenes."
+                },
+                {
+                    "text": "Er war schon Friedensaktivist, lange bevor sein Sohn Julian geboren war."
+                },
+                {
+                    "text": "Als Junge besuchte er ein kirchliches Internat in Bathurst, einer Stadt im S\u00fcdosten von Australien."
+                },
+                {
+                    "text": "Bei einer Debatte \u00fcber Kriegshelden nahm er als Teenager die Position des Pazifisten ein, der sagte, dass man das T\u00f6ten nicht mit Orden belohnen sollte."
+                },
+                {
+                    "text": "Er verlor gegen den Heldenverehrer."
+                },
+                {
+                    "text": "Wenn es eine Initialz\u00fcndung f\u00fcr seine Aktivistenkarriere gab, dann das, sagt er."
+                },
+                {
+                    "text": "1970, auf dem Weg zu einer Demonstration gegen den Vietnamkrieg, lernte er Assanges Mutter Christine kennen."
+                },
+                {
+                    "text": "\u00bbJulian war gewisserma\u00dfen ein Ergebnis unseres Protests\u00ab, hat er mal gesagt."
+                },
+                {
+                    "text": "Es habe ihn nicht gewundert, dass der Junge auch ein Aktivist wurde, sagt er heute."
+                },
+                {
+                    "text": "\u00bbEine der st\u00e4rksten Rechtfertigungen f\u00fcr ein Leben ist doch, wenn man sagt: Ich w\u00fcrde alles wieder so machen. Genauso\u00ab, sagt John Shipton."
+                },
+                {
+                    "text": "\u00bbDa stehe ich jetzt.\u00ab"
+                },
+                {
+                    "text": "Er spielt in New York, Barcelona, Berlin, London, Melbourne, Paris und Washington, in Hotelzimmern, vor Gef\u00e4ngnismauern, in Parlamenten, an K\u00fcchentischen und oft auf Pl\u00e4tzen, wo John Shipton spricht, zu Journalisten und J\u00fcngern, Politikern und Menschen, die aussehen wie Stadtstreicher."
+                },
+                {
+                    "text": "Er ist der Doyen des Widerstands."
+                },
+                {
+                    "text": "Der Mann, der direkt vor der Pforte steht, hei\u00dft Jamie und hat eine Namensliste von prominenten Assange-Unterst\u00fctzern, die er heute in den Gerichtssaal bringen muss: der ehemalige Konsul der ecuadorianischen Botschaft, eine italienische Enth\u00fcllungsjournalistin, zwei irische Politiker, ein amerikanischer Pulitzerpreistr\u00e4ger, der fr\u00fchere britische Botschafter in Usbekistan, eine deutsche Bundestagsabgeordnete und der ehemalige britische Offizier und Krisenberichterstatter Vaughan Smith, der in London den Frontline Club betreibt, den er vor zwanzig Jahren gr\u00fcndete, um unabh\u00e4ngigen Journalismus zu f\u00f6rdern."
+                },
+                {
+                    "text": "Das von John Shipton war wohl die Wiederentdeckung seines Sohnes."
+                },
+                {
+                    "text": "Er sagt, er wisse nicht, wie er fr\u00fcher aussah."
+                },
+                {
+                    "text": "Er sei sofort von der Idee begeistert gewesen."
+                },
+                {
+                    "text": "\u00bbIch wusste nicht, was ein Wiki ist\u00ab, sagt Shipton."
+                },
+                {
+                    "text": "Als er begann, sich f\u00fcr seinen Sohn Julian auch \u00f6ffentlich einzusetzen, war er fast 70 Jahre alt."
+                },
+                {
+                    "text": "In seinem ersten Fernsehauftritt fragte ihn ein australischer Moderator: \u00bbBisher kannten wir Sie gar nicht. Wieso haben Sie jetzt entschieden, an die \u00d6ffentlichkeit zu gehen?\u00ab"
+                },
+                {
+                    "text": "Dann sagte er: \u00bbJulian kann nicht mehr f\u00fcr sich selbst sprechen. Das m\u00fcssen jetzt seine Familie und seine Freunde tun.\u00ab"
+                },
+                {
+                    "text": "Er hat die Wikileaks-Partei mitbegr\u00fcndet, mit der Assange die M\u00f6glichkeit haben sollte, ins australische Parlament einzuziehen."
+                },
+                {
+                    "text": "Er reiste f\u00fcr die Partei auf dem H\u00f6hepunkt des syrischen B\u00fcrgerkriegs zu Baschar al-Assad, beendete seine Funktion\u00e4rst\u00e4tigkeit aber wenig sp\u00e4ter."
+                },
+                {
+                    "text": "\u00bbIch habe noch jede Menge T-Shirts\u00ab, sagt er."
+                },
+                {
+                    "text": "John Shipton ist in diesem Gerichtssaal nicht nur der Vater des Angeklagten, er ist sein Stellvertreter."
+                },
+                {
+                    "text": "In den Medien wird er manchmal als Assanges Botschafter bezeichnet, aber er ist mehr."
+                },
+                {
+                    "text": "Shipton verfolgt die Anh\u00f6rungen regungslos, er zieht nicht mal seinen Mantel aus."
+                },
+                {
+                    "text": "Er wirkt nicht so, als rechne er hier mit Erkenntnissen."
+                },
+                {
+                    "text": "Auf einer kleinen B\u00fchne reden Aktivisten, am Rand steht John Shipton zusammen mit dem ehemaligen britischen Botschafter in Usbekistan, der ein Whiskyglas in der Hand h\u00e4lt."
+                },
+                {
+                    "text": "Dann bekommt John Shipton einen Anruf von seinem Sohn Julian und tritt ein paar Schritte zur Seite."
+                },
+                {
+                    "text": "Was hat er erz\u00e4hlt?"
+                },
+                {
+                    "text": "\u00bbOh\u00ab, sagt John Shipton."
+                },
+                {
+                    "text": "\u00bbAlles M\u00f6gliche. KI, Dinge, \u00fcber die er so nachdenkt, Pl\u00e4ne. Gott und die Welt. Aber wenigstens klang er nicht depressiv.\u00ab"
+                },
+                {
+                    "text": "Er hat eine Ahnung, wie es seinem Sohn geht."
+                },
+                {
+                    "text": "In seinem Internat habe er antiklerikale Zitate von Voltaire an die Tafel geschrieben, w\u00e4hrend seine Mitsch\u00fcler den Gottesdienst besuchten, sagt er."
+                },
+                {
+                    "text": "Als er sp\u00e4ter h\u00f6rte, was die Symptome der Asperger-Erkrankung sind, glaubte er zu erkennen, dass es das ist, woran auch er litt."
+                },
+                {
+                    "text": "\u00bbIch finde Menschen sehr interessant, aber auch extrem schwierig zu verstehen\u00ab, sagt John Shipton."
+                },
+                {
+                    "text": "\u00bbIch musste erst Techniken kennenlernen, wie ich in Kontakt zu anderen treten konnte.\u00ab"
+                },
+                {
+                    "text": "Wom\u00f6glich erkl\u00e4rt das die freundliche Gelassenheit, mit der er in den Kampf zieht."
+                },
+                {
+                    "text": "Er schreit nicht, er klagt nicht."
+                },
+                {
+                    "text": "Er schl\u00e4gt nicht um sich."
+                },
+                {
+                    "text": "Er kann einfach nicht anders."
+                },
+                {
+                    "text": "Als die B\u00fchnen in London abgebaut werden, reisen John und Gabriel Shipton weiter, um \u00bbKoalitionen der Freundschaft\u00ab aufzubauen, wie sie das nennen."
+                },
+                {
+                    "text": "Sie brauchen das Geld f\u00fcr ihre Anw\u00e4lte und die weltweite Kampagne zur Befreiung von Assange."
+                },
+                {
+                    "text": "Er lacht, er presst die H\u00e4nde an die Schl\u00e4fen."
+                },
+                {
+                    "text": "Vier Jahre sp\u00e4ter versuchten John Shipton und sein Sohn Gabriel, das Umfeld von Trump davon zu \u00fcberzeugen, dass Trump Julian begnadigen solle."
+                },
+                {
+                    "text": "Diesmal wollen sie es besser vorbereiten."
+                },
+                {
+                    "text": "Sie m\u00fcssen den Druck hochhalten."
+                },
+                {
+                    "text": "Eine Woche nach den Anh\u00f6rungen sitzt John Shipton fr\u00fchmorgens im Londoner Berufsverkehr in der U-Bahn, die ihn zum Gef\u00e4ngnis seines Sohnes bringt."
+                },
+                {
+                    "text": "Kurz bevor er das Gef\u00e4ngnistor erreicht, tritt John Shipton mit dem Fu\u00df gegen einen der gewaltigen Betonpoller, die verhindern sollen, dass man mit einem Fahrzeug gegen die unzerst\u00f6rbaren Kerkermauern f\u00e4hrt."
+                },
+                {
+                    "text": "Er selbst sei in seinem Leben nur einmal f\u00fcr drei Wochen eingesperrt gewesen."
+                },
+                {
+                    "text": "In den Siebzigerjahren in Neuseeland, weil er ein Brecheisen zu einer Antikriegsdemonstration mitgebracht habe."
+                },
+                {
+                    "text": "Er muss mittags einen Zug nach Paris bekommen, um an einer Plenarsitzung des Europ\u00e4ischen Parlaments in Stra\u00dfburg teilnehmen zu k\u00f6nnen."
+                },
+                {
+                    "text": "Er bestellt ein Uber zum Londoner Bahnhof St Pancras."
+                },
+                {
+                    "text": "Auf der einst\u00fcndigen Fahrt quer durch die Stadt spricht er von der Welt, der Zeit und von seinem Sohn Julian."
+                },
+                {
+                    "text": "Er verfolge die Nachrichten \u00fcber sich sehr aufmerksam und habe ihm klare Instruktionen gegeben, worauf er in Stra\u00dfburg achten solle."
+                },
+                {
+                    "text": "John Shipton rezitiert das vollst\u00e4ndige Gedicht \u00bbIthaka\u00ab des griechischen Dichters Konstantinos Kav\u00e1fis, das eine gef\u00e4hrliche, aber dennoch befriedigende Reise beschreibt."
+                },
+                {
+                    "text": "\u00bbBrichst du auf gen Ithaka, so w\u00fcnsch dir eine lange Fahrt, voller Abenteuer und Erkenntnisse.\u00ab"
+                },
+                {
+                    "text": "John Shipton wirkt auf dieser Irrfahrt durch den diesigen Londoner Vormittag beinahe wie ein klassischer Trag\u00f6dienheld."
+                }
+            ],
+            "occupations": [
+                {
+                    "text": "Doyen des Widerstands"
+                },
+                {
+                    "text": "Friedensaktivist"
+                }
+            ],
+            "directQuotes": [
+                {
+                    "text": "K\u00f6nnen Sie die Kamera ein bisschen zur\u00fcckbewegen und uns ein Update geben?"
+                },
+                {
+                    "text": "Wichtig ist, dass es ein politischer Prozess ist"
+                },
+                {
+                    "text": "Das Recht spielt da kaum eine Rolle. Es geht um Politik."
+                },
+                {
+                    "text": "Die Leute sind an einer Erz\u00e4hlung interessiert, nicht an dem Menschen"
+                },
+                {
+                    "text": "Sie wollen einen Anfang und ein Ende. Wie in einem Hollywoodfilm. Ich ziehe die Schwierigkeit eines Schicksals der Bequemlichkeit einer Erz\u00e4hlung vor."
+                },
+                {
+                    "text": "Theoretisch ist es m\u00f6glich, dass Julian bald ausgeliefert wird. Aber ich glaube nicht, dass die Richter so schnell ein Urteil f\u00e4llen"
+                },
+                {
+                    "text": "Ich w\u00fcrde mich selbst als sozial konservativen Sozialisten beschreiben"
+                },
+                {
+                    "text": "Wenn es denn so etwas gibt."
+                },
+                {
+                    "text": "Ich mache das, was ein Vater macht, dessen Sohn in Schwierigkeiten ist"
+                },
+                {
+                    "text": "Julian war gewisserma\u00dfen ein Ergebnis unseres Protests"
+                },
+                {
+                    "text": "Ich wusste nicht, was ein Wiki ist"
+                },
+                {
+                    "text": "Aber es war mir klar, dass die Qualit\u00e4t und Best\u00e4ndigkeit einer Gesellschaft auf der Transparenz der Regeln beruhen, nach denen sie gef\u00fchrt wird."
+                },
+                {
+                    "text": "Julian kann nicht mehr f\u00fcr sich selbst sprechen. Das m\u00fcssen jetzt seine Familie und seine Freunde tun."
+                },
+                {
+                    "text": "Ich habe noch jede Menge T-Shirts"
+                },
+                {
+                    "text": "Oh"
+                },
+                {
+                    "text": "Alles M\u00f6gliche. KI, Dinge, \u00fcber die er so nachdenkt, Pl\u00e4ne. Gott und die Welt. Aber wenigstens klang er nicht depressiv."
+                },
+                {
+                    "text": "Ich finde Menschen sehr interessant, aber auch extrem schwierig zu verstehen"
+                },
+                {
+                    "text": "Ich musste erst Techniken kennenlernen, wie ich in Kontakt zu anderen treten konnte."
+                },
+                {
+                    "text": "Was f\u00fcr ein Bl\u00f6dsinn"
+                }
+            ],
+            "quotedInTitle": false,
+            "quotedInIntro": true
+        },
+        {
+            "name": "Pamela Anderson",
+            "alternativeNames": [],
+            "age": -1,
+            "sex": "female",
+            "occurences": {
+                "total": 1,
+                "firstNameOnly": 0,
+                "lastNameOnly": 0,
+                "fullName": 1,
+                "nickname": 0
+            },
+            "inTitle": false,
+            "inIntro": false,
+            "_name": {
+                "firstname": "Pamela",
+                "lastname": "Anderson",
+                "nickname": null,
+                "alternative_names": [],
+                "academic_title": null,
+                "nobility_title_or_rank": null
+            },
+            "descriptiveTexts": [
+                {
+                    "text": "Einmal sieht man ihn, noch blond, an der Seite Pamela Andersons, dann auf dem Balkon der ecuadorianischen Botschaft in London, wo er zu den Massen spricht wie Lenin vom Balkon des Kschessinskaja-Palasts."
+                }
+            ],
+            "occupations": [],
+            "directQuotes": [],
+            "quotedInTitle": false,
+            "quotedInIntro": false
+        },
+        {
+            "name": "Doc Martens",
+            "alternativeNames": [],
+            "age": -1,
+            "sex": "unknown",
+            "occurences": {
+                "total": 1,
+                "firstNameOnly": 0,
+                "lastNameOnly": 0,
+                "fullName": 1,
+                "nickname": 0
+            },
+            "inTitle": false,
+            "inIntro": false,
+            "_name": {
+                "firstname": null,
+                "lastname": "Martens",
+                "nickname": null,
+                "alternative_names": [],
+                "academic_title": null,
+                "nobility_title_or_rank": null
+            },
+            "descriptiveTexts": [
+                {
+                    "text": "\u00bbSie wollen einen Anfang und ein Ende. Wie in einem Hollywoodfilm. Ich ziehe die Schwierigkeit eines Schicksals der Bequemlichkeit einer Erz\u00e4hlung vor.\u00ab"
+                },
+                {
+                    "text": "Schwarzer Anzug, wei\u00dfes Hemd, schwarze Doc Martens, ein rotes Einstecktuch der Firma Auerbach, das er in der Krawattenabteilung der Galeries Lafayette in Berlin gekauft hat."
+                },
+                {
+                    "text": "Sie sehen aus wie Obdachlose, aber es sind Platzhalter f\u00fcr internationale Prozessbeobachter."
+                },
+                {
+                    "text": "Sie stehen seit f\u00fcnf Uhr hier im Regen, die Tore \u00f6ffnen sich kurz nach neun."
+                },
+                {
+                    "text": "Dann gehen sie."
+                },
+                {
+                    "text": "Die beiden wei\u00dfhaarigen M\u00e4nner beratschlagen, ob sie zusammen nach Berlin aufbrechen sollten, um Geld f\u00fcr die Assange-Kampagne zu sammeln."
+                },
+                {
+                    "text": "Jeder k\u00e4mpft seinen eigenen Kampf, jeder glaubt Julian Assanges Schmerz zu sp\u00fcren, sie h\u00e4ngen an den Rocksch\u00f6\u00dfen des gro\u00dfen Enth\u00fcllers."
+                }
+            ],
+            "occupations": [],
+            "directQuotes": [],
+            "quotedInTitle": false,
+            "quotedInIntro": false
+        },
+        {
+            "name": "Konstantinos Kav\u00e1fis",
+            "alternativeNames": [],
+            "age": -1,
+            "sex": "male",
+            "occurences": {
+                "total": 1,
+                "firstNameOnly": 0,
+                "lastNameOnly": 0,
+                "fullName": 1,
+                "nickname": 0
+            },
+            "inTitle": false,
+            "inIntro": false,
+            "_name": {
+                "firstname": "Konstantinos",
+                "lastname": "Kav\u00e1fis",
+                "nickname": null,
+                "alternative_names": [],
+                "academic_title": null,
+                "nobility_title_or_rank": null
+            },
+            "descriptiveTexts": [
+                {
+                    "text": "John Shipton rezitiert das vollst\u00e4ndige Gedicht \u00bbIthaka\u00ab des griechischen Dichters Konstantinos Kav\u00e1fis, das eine gef\u00e4hrliche, aber dennoch befriedigende Reise beschreibt."
+                }
+            ],
+            "occupations": [],
+            "directQuotes": [
+                {
+                    "text": "Brichst du auf gen Ithaka, so w\u00fcnsch dir eine lange Fahrt, voller Abenteuer und Erkenntnisse."
+                }
+            ],
+            "quotedInTitle": false,
+            "quotedInIntro": false
+        },
+        {
+            "name": "Stella Assange",
+            "alternativeNames": [],
+            "age": -1,
+            "sex": "female",
+            "occurences": {
+                "total": 10,
+                "firstNameOnly": 6,
+                "lastNameOnly": 0,
+                "fullName": 4,
+                "nickname": 0
+            },
+            "inTitle": false,
+            "inIntro": false,
+            "_name": {
+                "firstname": "Stella",
+                "lastname": "Assange",
+                "nickname": null,
+                "alternative_names": [],
+                "academic_title": null,
+                "nobility_title_or_rank": null
+            },
+            "descriptiveTexts": [
+                {
+                    "text": "Es sei nicht sch\u00f6n dort, sagt Shipton, aber Stella scheine es egal zu sein, wie sie wohne."
+                },
+                {
+                    "text": "Wie seine Schwiegertochter scheint er zurzeit allerdings eher in einem Zustand zu leben als in einem Haus."
+                },
+                {
+                    "text": "Seine Schwiegertochter Stella Assange aber sagt, die \u00c4hnlichkeit der beiden M\u00e4nner, ihre Art zu reden, zu denken, ihr Humor habe sie umgeworfen. Julian Assange hat seinem Vater damals, als sie sich in Sydney wiederbegegneten, erz\u00e4hlt, dass er eine Enth\u00fcllungsplattform gr\u00fcnden wolle."
+                },
+                {
+                    "text": "Als vor gut zwei Jahren eine Statue von Assange in Genf aufgestellt wurde, sagte seine sp\u00e4tere Frau Stella: \u00bbIch bin hier, um daran zu erinnern, dass Julian kein Beispiel ist, kein Symbol, sondern ein Mann, ein menschliches Wesen. Und er leidet. Er hat Kinder. Er hat eine Familie.\u00ab"
+                },
+                {
+                    "text": "Sie redete zur Welt wie zu Kidnappern, die dar\u00fcber nachdenken, ihr Entf\u00fchrungsopfer zu t\u00f6ten."
+                },
+                {
+                    "text": "Sie sitzt in ihrem Londoner Haus auf dem Sofa."
+                },
+                {
+                    "text": "Er sagt, er habe sich in den Untergang zur\u00fcckgezogen."
+                },
+                {
+                    "text": "Stella Assange sitzt jetzt in der Bank hinter dem Verteidigungsteam, neben ihr Assanges Bruder Gabriel und sein Vater John."
+                },
+                {
+                    "text": "Wenn sich Stella Assange aber in den \u00dcbertragungswagen von Tucker Carlson setzt, dann wei\u00df sie, dass ihre Botschaften Millionen Menschen erreichen."
+                },
+                {
+                    "text": "Die Behauptung, dass der ehemalige CIA-Chef und US-Au\u00dfenminister Mike Pompeo angeregt habe, Julian Assange zu t\u00f6ten, regte die amerikanische \u00d6ffentlichkeit erst richtig auf, als sie der Trump-Kumpel Tucker Carlson aussprach."
+                },
+                {
+                    "text": "Das mache es einfacher, nach Belmarsh zu kommen, sagt Stella Assange, die Shipton begleitet."
+                },
+                {
+                    "text": "25 Pfund pro Woche hat er zur Verf\u00fcgung, um zu telefonieren, Post zu verschicken oder sich etwas zu Essen kaufen, zus\u00e4tzlich zur H\u00e4ftlingskost."
+                }
+            ],
+            "occupations": [],
+            "directQuotes": [
+                {
+                    "text": "Ich bin hier, um daran zu erinnern, dass Julian kein Beispiel ist, kein Symbol, sondern ein Mann, ein menschliches Wesen. Und er leidet. Er hat Kinder. Er hat eine Familie."
+                }
+            ],
+            "quotedInTitle": false,
+            "quotedInIntro": false
+        },
+        {
+            "name": "Christine",
+            "alternativeNames": [],
+            "age": -1,
+            "sex": "unknown",
+            "occurences": {
+                "total": 2,
+                "firstNameOnly": 1,
+                "lastNameOnly": 1,
+                "fullName": 0,
+                "nickname": 0
+            },
+            "inTitle": false,
+            "inIntro": false,
+            "_name": {
+                "firstname": "Christine",
+                "lastname": "Christine",
+                "nickname": null,
+                "alternative_names": [],
+                "academic_title": null,
+                "nobility_title_or_rank": null
+            },
+            "descriptiveTexts": [
+                {
+                    "text": "1970, auf dem Weg zu einer Demonstration gegen den Vietnamkrieg, lernte er Assanges Mutter Christine kennen."
+                },
+                {
+                    "text": "Sie trennten sich allerdings, noch bevor Assange geboren wurde."
+                }
+            ],
+            "occupations": [],
+            "directQuotes": [],
+            "quotedInTitle": false,
+            "quotedInIntro": false
+        },
+        {
+            "name": "Vaughan Smith",
+            "alternativeNames": [],
+            "age": -1,
+            "sex": "male",
+            "occurences": {
+                "total": 3,
+                "firstNameOnly": 0,
+                "lastNameOnly": 1,
+                "fullName": 2,
+                "nickname": 0
+            },
+            "inTitle": false,
+            "inIntro": false,
+            "_name": {
+                "firstname": "Vaughan",
+                "lastname": "Smith",
+                "nickname": null,
+                "alternative_names": [],
+                "academic_title": null,
+                "nobility_title_or_rank": null
+            },
+            "descriptiveTexts": [
+                {
+                    "text": "Der Mann, der direkt vor der Pforte steht, hei\u00dft Jamie und hat eine Namensliste von prominenten Assange-Unterst\u00fctzern, die er heute in den Gerichtssaal bringen muss: der ehemalige Konsul der ecuadorianischen Botschaft, eine italienische Enth\u00fcllungsjournalistin, zwei irische Politiker, ein amerikanischer Pulitzerpreistr\u00e4ger, der fr\u00fchere britische Botschafter in Usbekistan, eine deutsche Bundestagsabgeordnete und der ehemalige britische Offizier und Krisenberichterstatter Vaughan Smith, der in London den Frontline Club betreibt, den er vor zwanzig Jahren gr\u00fcndete, um unabh\u00e4ngigen Journalismus zu f\u00f6rdern."
+                },
+                {
+                    "text": "Vaughan Smith war Kameramann im Irak, in Afghanistan, Bosnien, Tschetschenien\u202fund dem\u202fKosovo und stellte dabei fest, wie freie Krisenberichterstatter von ihren Redaktionen benutzt und sp\u00e4ter fallen gelassen wurden."
+                },
+                {
+                    "text": "Er sah Parallelen zu Assanges Schicksal, dessen Enth\u00fcllungen \u00fcber die Kriegsverbrechen der USA vom \u00bbGuardian\u00ab, der \u00bbNew York Times\u00ab, dem SPIEGEL und anderen ver\u00f6ffentlicht wurden."
+                },
+                {
+                    "text": "Smith hat einst 20.000 Pfund Kaution f\u00fcr Assange gezahlt und ihn ein gutes Jahr lang auf seinem Landsitz Ellingham Hall an der Ostk\u00fcste von England wohnen lassen, bevor er in die ecuadorianische Botschaft floh."
+                },
+                {
+                    "text": "Vorgestern Abend hat er in seinem Frontline Club einen Unterst\u00fctzerabend unter dem Titel \u00bbDay X: Justice for Assange\u00ab ausgerichtet, in dem auch dar\u00fcber diskutiert wurde, welche Rolle die Mainstream-Medien beim Verteufeln seines Freundes gespielt h\u00e4tten."
+                }
+            ],
+            "occupations": [
+                {
+                    "text": "Er sah Parallelen zu Assanges Schicksal"
+                }
+            ],
+            "directQuotes": [],
+            "quotedInTitle": false,
+            "quotedInIntro": false
+        },
+        {
+            "name": "Ludwig Wittgenstein",
+            "alternativeNames": [],
+            "age": -1,
+            "sex": "male",
+            "occurences": {
+                "total": 1,
+                "firstNameOnly": 0,
+                "lastNameOnly": 0,
+                "fullName": 1,
+                "nickname": 0
+            },
+            "inTitle": false,
+            "inIntro": false,
+            "_name": {
+                "firstname": "Ludwig",
+                "lastname": "Wittgenstein",
+                "nickname": null,
+                "alternative_names": [],
+                "academic_title": null,
+                "nobility_title_or_rank": null
+            },
+            "descriptiveTexts": [
+                {
+                    "text": "Dann zitiert er die Schlusspassage des \u00bbTractatus\u00ab des Philosophen Ludwig Wittgenstein: \u00bbWor\u00fcber man nicht sprechen kann, dar\u00fcber muss man schweigen.\u00ab"
+                }
+            ],
+            "occupations": [
+                {
+                    "text": "Philosoph"
+                }
+            ],
+            "directQuotes": [
+                {
+                    "text": "Wor\u00fcber man nicht sprechen kann, dar\u00fcber muss man schweigen."
+                }
+            ],
+            "quotedInTitle": false,
+            "quotedInIntro": false
+        },
+        {
+            "name": "Tucker Carlson",
+            "alternativeNames": [],
+            "age": -1,
+            "sex": "male",
+            "occurences": {
+                "total": 2,
+                "firstNameOnly": 0,
+                "lastNameOnly": 0,
+                "fullName": 2,
+                "nickname": 0
+            },
+            "inTitle": false,
+            "inIntro": false,
+            "_name": {
+                "firstname": "Tucker",
+                "lastname": "Carlson",
+                "nickname": null,
+                "alternative_names": [],
+                "academic_title": null,
+                "nobility_title_or_rank": null
+            },
+            "descriptiveTexts": [
+                {
+                    "text": "Wenn sich Stella Assange aber in den \u00dcbertragungswagen von Tucker Carlson setzt, dann wei\u00df sie, dass ihre Botschaften Millionen Menschen erreichen."
+                },
+                {
+                    "text": "Die Behauptung, dass der ehemalige CIA-Chef und US-Au\u00dfenminister Mike Pompeo angeregt habe, Julian Assange zu t\u00f6ten, regte die amerikanische \u00d6ffentlichkeit erst richtig auf, als sie der Trump-Kumpel Tucker Carlson aussprach."
+                }
+            ],
+            "occupations": [
+                {
+                    "text": "Die Behauptung, dass der ehemalige CIA-Chef und US-Au\u00dfenminister Mike Pompeo angeregt habe, Julian Assange zu t\u00f6ten, regte die amerikanische \u00d6ffentlichkeit erst richtig auf, als sie der Trump-Kumpel Tucker Carlson aussprach."
+                }
+            ],
+            "directQuotes": [],
+            "quotedInTitle": false,
+            "quotedInIntro": false
+        },
+        {
+            "name": "Bill Murray",
+            "alternativeNames": [],
+            "age": -1,
+            "sex": "male",
+            "occurences": {
+                "total": 2,
+                "firstNameOnly": 0,
+                "lastNameOnly": 1,
+                "fullName": 1,
+                "nickname": 0
+            },
+            "inTitle": false,
+            "inIntro": false,
+            "_name": {
+                "firstname": "Bill",
+                "lastname": "Murray",
+                "nickname": null,
+                "alternative_names": [],
+                "academic_title": null,
+                "nobility_title_or_rank": null
+            },
+            "descriptiveTexts": [
+                {
+                    "text": "Er erinnert manchmal an den amerikanischen Schauspieler Bill Murray und sein st\u00e4ndiges L\u00e4cheln an das L\u00e4cheln, mit dem Murray in \u00bbLost in Translation\u00ab der fremden Welt Tokios begegnet."
+                }
+            ],
+            "occupations": [],
+            "directQuotes": [],
+            "quotedInTitle": false,
+            "quotedInIntro": false
+        },
+        {
+            "name": "Baschar al-Assad",
+            "alternativeNames": [],
+            "age": -1,
+            "sex": "male",
+            "occurences": {
+                "total": 1,
+                "firstNameOnly": 0,
+                "lastNameOnly": 0,
+                "fullName": 1,
+                "nickname": 0
+            },
+            "inTitle": false,
+            "inIntro": false,
+            "_name": {
+                "firstname": "Baschar",
+                "lastname": "al-Assad",
+                "nickname": null,
+                "alternative_names": [],
+                "academic_title": null,
+                "nobility_title_or_rank": null
+            },
+            "descriptiveTexts": [
+                {
+                    "text": "Er reiste f\u00fcr die Partei auf dem H\u00f6hepunkt des syrischen B\u00fcrgerkriegs zu Baschar al-Assad, beendete seine Funktion\u00e4rst\u00e4tigkeit aber wenig sp\u00e4ter."
+                }
+            ],
+            "occupations": [],
+            "directQuotes": [],
+            "quotedInTitle": false,
+            "quotedInIntro": false
+        },
+        {
+            "name": "Robert Habeck",
+            "alternativeNames": [],
+            "age": -1,
+            "sex": "male",
+            "occurences": {
+                "total": 1,
+                "firstNameOnly": 0,
+                "lastNameOnly": 0,
+                "fullName": 1,
+                "nickname": 0
+            },
+            "inTitle": false,
+            "inIntro": false,
+            "_name": {
+                "firstname": "Robert",
+                "lastname": "Habeck",
+                "nickname": null,
+                "alternative_names": [],
+                "academic_title": null,
+                "nobility_title_or_rank": null
+            },
+            "descriptiveTexts": [
+                {
+                    "text": "Man sieht s\u00e4chsische Fahnen und jemanden, der ein selbst gebasteltes Plakat von Robert Habeck in Str\u00e4flingsuniform tr\u00e4gt."
+                }
+            ],
+            "occupations": [],
+            "directQuotes": [],
+            "quotedInTitle": false,
+            "quotedInIntro": false
+        }
+    ]
+}

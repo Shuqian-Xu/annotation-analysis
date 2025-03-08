@@ -1,0 +1,272 @@
+{
+    "persons": [
+        {
+            "name": "Uwe",
+            "alternativeNames": [],
+            "age": -1,
+            "sex": "male",
+            "occurences": {
+                "total": 1,
+                "firstNameOnly": 0,
+                "lastNameOnly": 0,
+                "fullName": 1,
+                "nickname": 0
+            },
+            "inTitle": false,
+            "inIntro": false,
+            "_name": {
+                "firstname": "Uwe",
+                "lastname": null,
+                "nickname": null,
+                "alternative_names": [],
+                "academic_title": null,
+                "nobility_title_or_rank": null
+            },
+            "descriptiveTexts": [
+                {
+                    "text": "\u00bbInsgesamt betr\u00e4gt der Schaden rund 200.000 Euro, f\u00fcr den bei einer Sturmflut die Versicherung leider nicht aufkommt\u00ab, sagt Albrecht, w\u00e4hrend im Hintergrund Platzwart Uwe die umgest\u00fcrzte Eiche auf dem Safarizelt mit der Motors\u00e4ge zerlegt."
+                }
+            ],
+            "occupations": [
+                {
+                    "text": "Platzwart"
+                }
+            ],
+            "directQuotes": [],
+            "quotedInTitle": false,
+            "quotedInIntro": false
+        },
+        {
+            "name": "Geesche J\u00fcrgens",
+            "alternativeNames": [],
+            "age": 47,
+            "sex": "female",
+            "occurences": {
+                "total": 4,
+                "firstNameOnly": 0,
+                "lastNameOnly": 2,
+                "fullName": 2,
+                "nickname": 0
+            },
+            "inTitle": false,
+            "inIntro": false,
+            "_name": {
+                "firstname": "Geesche",
+                "lastname": "J\u00fcrgens",
+                "nickname": null,
+                "alternative_names": [],
+                "academic_title": null,
+                "nobility_title_or_rank": null
+            },
+            "descriptiveTexts": [
+                {
+                    "text": "Seine alte Schulfreundin und Dauercamperin Geesche J\u00fcrgens, 47, zieht ihre Arbeitshandschuhe aus und nimmt ihn in den Arm: \u00bbDas hier ist der sch\u00f6nste Ort der Erde\u00ab, sagt sie."
+                },
+                {
+                    "text": "\u00bbEin Ort, an dem nichts von der Gartenzwerg-Mentalit\u00e4t anderer Campingpl\u00e4tze zu sp\u00fcren ist\u00ab, sagt J\u00fcrgens."
+                },
+                {
+                    "text": "Umso schockierender wirken die Videos der Sturmflut, die J\u00fcrgens im n\u00e4chsten Moment auf ihrem Handy abspielt: Darauf treiben Wohnwagen in den Fluten, umgekippte Zirkuswagen liegen quer verstreut auf dem Gel\u00e4nde und Helfer waten knietief durch die tosende Ostsee."
+                },
+                {
+                    "text": "\u00bbW\u00fcrde es diesen Platz nicht geben, h\u00e4tte ich mir nie einen Wohnwagen zugelegt\u00ab, sagt Geesche J\u00fcrgens, als sie mit einer Tasse Yogitee in der Hand eine kurze Pause einlegt."
+                }
+            ],
+            "occupations": [],
+            "directQuotes": [
+                {
+                    "text": "Das hier ist der sch\u00f6nste Ort der Erde"
+                },
+                {
+                    "text": "Deshalb haben alle, die den Platz lieben, noch in der Nacht der Sturmflut eine Spendenaktion f\u00fcr das Camp gestartet \u2013 und sind am Tag danach mit Schaufeln anger\u00fcckt, um Gr\u00e4ben auszuheben, damit das Wasser besser abflie\u00dft."
+                },
+                {
+                    "text": "Ein Ort, an dem nichts von der Gartenzwerg-Mentalit\u00e4t anderer Campingpl\u00e4tze zu sp\u00fcren ist"
+                },
+                {
+                    "text": "Stattdessen sp\u00fcrt man hier echte Freiheit und einen ganz besonderen Gemeinschaftsgeist."
+                },
+                {
+                    "text": "W\u00fcrde es diesen Platz nicht geben, h\u00e4tte ich mir nie einen Wohnwagen zugelegt"
+                },
+                {
+                    "text": "Wir sind eine Art gallisches Dorf an der Ostsee, weil hier vieles anders abl\u00e4uft als auf anderen Campingpl\u00e4tzen. Derartige Hilfsaktionen hat es auf anderen Pl\u00e4tzen nicht gegeben."
+                },
+                {
+                    "text": "Das alles hier hat sich nur halb so schlimm angef\u00fchlt, weil wir es gemeinsam gestemmt haben."
+                }
+            ],
+            "quotedInTitle": false,
+            "quotedInIntro": false
+        },
+        {
+            "name": "Tobias Ploen-Peltzer",
+            "alternativeNames": [],
+            "age": -1,
+            "sex": "male",
+            "occurences": {
+                "total": 1,
+                "firstNameOnly": 0,
+                "lastNameOnly": 0,
+                "fullName": 1,
+                "nickname": 0
+            },
+            "inTitle": false,
+            "inIntro": false,
+            "_name": {
+                "firstname": "Tobias",
+                "lastname": "Ploen-Peltzer",
+                "nickname": null,
+                "alternative_names": [],
+                "academic_title": null,
+                "nobility_title_or_rank": null
+            },
+            "descriptiveTexts": [
+                {
+                    "text": "Tobias Ploen-Peltzer, Tischler aus Kiel, der gerade ein Wasserrohr \u00fcber den Platz tr\u00e4gt, sagt: \u00bbWir alle helfen Christof gern, weil er ein Idealist mit unkonventionellen Ideen ist. Er hat einen Wohlf\u00fchlort mit einer echten Community geschaffen, wo es keine Rolle spielt, wer man ist. Niemand hockt hier allein in seiner Parzelle. Stattdessen finden hier im Sommer Jazz- und Punkkonzerte statt, man sitzt abends zusammen um die Feuertonne herum oder bringt sich gegenseitig das Angeln bei. Ein Platz against the mainstream.\u00ab"
+                }
+            ],
+            "occupations": [],
+            "directQuotes": [
+                {
+                    "text": "Wir alle helfen Christof gern, weil er ein Idealist mit unkonventionellen Ideen ist. Er hat einen Wohlf\u00fchlort mit einer echten Community geschaffen, wo es keine Rolle spielt, wer man ist. Niemand hockt hier allein in seiner Parzelle. Stattdessen finden hier im Sommer Jazz- und Punkkonzerte statt, man sitzt abends zusammen um die Feuertonne herum oder bringt sich gegenseitig das Angeln bei. Ein Platz against the mainstream."
+                }
+            ],
+            "quotedInTitle": false,
+            "quotedInIntro": false
+        },
+        {
+            "name": "Christof Albrecht",
+            "alternativeNames": [],
+            "age": 50,
+            "sex": "male",
+            "occurences": {
+                "total": 13,
+                "firstNameOnly": 1,
+                "lastNameOnly": 7,
+                "fullName": 5,
+                "nickname": 0
+            },
+            "inTitle": false,
+            "inIntro": false,
+            "_name": {
+                "firstname": "Christof",
+                "lastname": "Albrecht",
+                "nickname": null,
+                "alternative_names": [],
+                "academic_title": null,
+                "nobility_title_or_rank": null
+            },
+            "descriptiveTexts": [
+                {
+                    "text": "Christof Albrecht, 50, heute Campingplatz-Inhaber, fr\u00fcher Veranstaltungstechniker und Eventmanager, kniet in einem Graben zwischen bunten Zirkuswagen und verlegt mit einer Gruppe freiwilliger Helferinnen und Helfer neue Wasserrohre."
+                },
+                {
+                    "text": "\u00bbEs ist so cool, dass alle gleich von Anfang an mit angepackt haben\u00ab, erz\u00e4hlt Albrecht."
+                },
+                {
+                    "text": "Er machte mit Frau und Tochter gerade Urlaub auf Bali, als die Sturmflut auf die schleswig-holsteinische K\u00fcste traf."
+                },
+                {
+                    "text": "\u00bb\u00dcber WhatsApp musste ich mitverfolgen, wie das Camp weggesp\u00fclt wurde, w\u00e4hrend ich bei Grillengezirpe und 38 Grad Hitze Tausende Kilometer entfernt festsa\u00df und nichts tun konnte\u00ab, erinnert er sich."
+                },
+                {
+                    "text": "Albrechts Gro\u00dfvater hatte den Campingplatz 1955 auf einer Schafwiese gegr\u00fcndet, sp\u00e4ter hatten seine Eltern ihn weitergef\u00fchrt."
+                },
+                {
+                    "text": "\u00bbIch konnte mir diese Aufnahmen auf Bali kaum anschauen\u00ab, sagt Christof Albrecht."
+                },
+                {
+                    "text": "Knapp eine Woche nach der Flut flog er zur\u00fcck nach Deutschland."
+                },
+                {
+                    "text": "Dort fand er den Campingplatz v\u00f6llig ver\u00e4ndert wieder: An der \u00f6stlichen Spitze des Gel\u00e4ndes fehlten f\u00fcnf bis zehn Meter Land, der Deich war zerst\u00f6rt, B\u00e4nke aus ihrem Fundament gerissen und der Platz mit angeschwemmtem M\u00fcll bedeckt."
+                },
+                {
+                    "text": "\u00bbInsgesamt betr\u00e4gt der Schaden rund 200.000 Euro, f\u00fcr den bei einer Sturmflut die Versicherung leider nicht aufkommt\u00ab, sagt Albrecht, w\u00e4hrend im Hintergrund Platzwart Uwe die umgest\u00fcrzte Eiche auf dem Safarizelt mit der Motors\u00e4ge zerlegt."
+                },
+                {
+                    "text": "\u00bbOft kamen so viele Leute, dass wir nicht genug Werkzeug f\u00fcr alle hatten\u00ab, sagt Albrecht."
+                },
+                {
+                    "text": "\u00bbWenn ich jetzt Bilder von der Flut sehe, merke ich, was wir schon alles geschafft haben\u00ab, erz\u00e4hlt Albrecht beim Gang entlang des schmal gewordenen Strands."
+                },
+                {
+                    "text": "\u00bbAm Gr\u00fcndonnerstag empfangen wir die ersten G\u00e4ste. Das Osterwochenende ist fast ausgebucht\u00ab, sagt Albrecht."
+                },
+                {
+                    "text": "Tobias Ploen-Peltzer, Tischler aus Kiel, der gerade ein Wasserrohr \u00fcber den Platz tr\u00e4gt, sagt: \u00bbWir alle helfen Christof gern, weil er ein Idealist mit unkonventionellen Ideen ist. Er hat einen Wohlf\u00fchlort mit einer echten Community geschaffen, wo es keine Rolle spielt, wer man ist. Niemand hockt hier allein in seiner Parzelle. Stattdessen finden hier im Sommer Jazz- und Punkkonzerte statt, man sitzt abends zusammen um die Feuertonne herum oder bringt sich gegenseitig das Angeln bei. Ein Platz against the mainstream.\u00ab"
+                },
+                {
+                    "text": "Das war nicht immer so: Als Christof Albrecht den Platz seiner Eltern \u00fcbernahm, der zu dem Zeitpunkt von einem P\u00e4chter bewirtschaftet wurde, sei Camp Langholz laut Albrecht ein \u00bbruntergewirtschafteter Platz irgendwo zwischen prollig und spie\u00dfig\u00ab gewesen."
+                },
+                {
+                    "text": "Das \u00e4nderte sich erst, als er 2014 eine neue Philosophie einf\u00fchrte: \u00bbein Camp ohne \u00fcbertriebenes Regelwerk, Friedhofshecken, Ballermann-Kultur und schlechte deutsche Schlagermucke\u00ab."
+                },
+                {
+                    "text": "Seit er das neue Konzept eingef\u00fchrt hat, sind die besonderen Unterk\u00fcnfte, die man auf dem Platz mieten kann, in den Sommermonaten fast immer ausgebucht."
+                },
+                {
+                    "text": "Damit das Camp in Zukunft besser gesch\u00fctzt ist, hat Christof Albrecht viele Ma\u00dfnahmen getroffen: Direkt am Meer d\u00fcrfen nur noch Campingbusse und kleine Wohnmobile stehen, die im Notfall schnell wegfahren k\u00f6nnen."
+                },
+                {
+                    "text": "\u00bbWir alle haben in den vergangenen Monaten so viel Zeit und Energie in den Platz investiert. Trotzdem wei\u00df kein Mensch, wann das wieder passiert\u00ab, sagt Christof Albrecht."
+                }
+            ],
+            "occupations": [
+                {
+                    "text": "Veranstaltungstechniker"
+                },
+                {
+                    "text": "Ein Platz against the mainstream"
+                },
+                {
+                    "text": "Campingplatz-Inhaber"
+                },
+                {
+                    "text": "Idealist mit unkonventionellen Ideen"
+                }
+            ],
+            "directQuotes": [
+                {
+                    "text": "Wir sind eine Art gallisches Dorf an der Ostsee"
+                },
+                {
+                    "text": "\u00dcber WhatsApp musste ich mitverfolgen, wie das Camp weggesp\u00fclt wurde, w\u00e4hrend ich bei Grillengezirpe und 38 Grad Hitze Tausende Kilometer entfernt festsa\u00df und nichts tun konnte"
+                },
+                {
+                    "text": "Wir hatten einfach nicht erwartet, dass es jemals so schlimm kommen k\u00f6nnte. Und als wir es dann realisierten, war es schon zu sp\u00e4t."
+                },
+                {
+                    "text": "Ich konnte mir diese Aufnahmen auf Bali kaum anschauen"
+                },
+                {
+                    "text": "Insgesamt betr\u00e4gt der Schaden rund 200.000 Euro, f\u00fcr den bei einer Sturmflut die Versicherung leider nicht aufkommt"
+                },
+                {
+                    "text": "Wenn ich jetzt Bilder von der Flut sehe, merke ich, was wir schon alles geschafft haben"
+                },
+                {
+                    "text": "Am Gr\u00fcndonnerstag empfangen wir die ersten G\u00e4ste. Das Osterwochenende ist fast ausgebucht"
+                },
+                {
+                    "text": "Dass wir den Platz dann tats\u00e4chlich wieder \u00f6ffnen k\u00f6nnen, haben wir nur der Hilfe all der Freiwilligen zu verdanken."
+                },
+                {
+                    "text": "runtergewirtschafteter Platz irgendwo zwischen prollig und spie\u00dfig"
+                },
+                {
+                    "text": "ein Camp ohne \u00fcbertriebenes Regelwerk, Friedhofshecken, Ballermann-Kultur und schlechte deutsche Schlagermucke"
+                },
+                {
+                    "text": "Wir alle haben in den vergangenen Monaten so viel Zeit und Energie in den Platz investiert. Trotzdem wei\u00df kein Mensch, wann das wieder passiert"
+                },
+                {
+                    "text": "In Zeiten des Klimawandels muss man wohl mit allem rechnen."
+                }
+            ],
+            "quotedInTitle": false,
+            "quotedInIntro": false
+        }
+    ]
+}

@@ -1,0 +1,136 @@
+{
+    "persons": [
+        {
+            "name": "Sundar Pichai",
+            "alternativeNames": [],
+            "age": 51,
+            "sex": "male",
+            "occurences": {
+                "total": 1,
+                "firstNameOnly": 0,
+                "lastNameOnly": 0,
+                "fullName": 1,
+                "nickname": 0
+            },
+            "inTitle": false,
+            "inIntro": false,
+            "_name": {
+                "firstname": "Sundar",
+                "lastname": "Pichai",
+                "nickname": null,
+                "alternative_names": [],
+                "academic_title": null,
+                "nobility_title_or_rank": null
+            },
+            "descriptiveTexts": [
+                {
+                    "text": "Und Konzern-CEO Sundar Pichai (51) baut Google Maps derzeit zu einer Super-App aus, \u00fcber die man nicht nur navigieren, sondern auch direkt Restaurants oder Friseurtermine buchen und Essen bestellen kann."
+                }
+            ],
+            "occupations": [],
+            "directQuotes": [],
+            "quotedInTitle": false,
+            "quotedInIntro": false
+        },
+        {
+            "name": "Natalia le Gal",
+            "alternativeNames": [],
+            "age": -1,
+            "sex": "female",
+            "occurences": {
+                "total": 1,
+                "firstNameOnly": 0,
+                "lastNameOnly": 0,
+                "fullName": 1,
+                "nickname": 0
+            },
+            "inTitle": false,
+            "inIntro": false,
+            "_name": {
+                "firstname": "Natalia",
+                "lastname": "le Gal",
+                "nickname": null,
+                "alternative_names": [],
+                "academic_title": null,
+                "nobility_title_or_rank": null
+            },
+            "descriptiveTexts": [
+                {
+                    "text": "Zwar habe es in den letzten Jahren gro\u00dfen Fortschritt in technischer und industrieller Hinsicht gegeben und mehr Integration, mehr Standardisierung, mehr Zusammenarbeit, sagt Natalia le Gal, Gr\u00fcnderin des spezialisierten Beratungsunternehmens Behava."
+                }
+            ],
+            "occupations": [
+                {
+                    "text": "Gr\u00fcnderin des spezialisierten Beratungsunternehmens Behava"
+                }
+            ],
+            "directQuotes": [],
+            "quotedInTitle": false,
+            "quotedInIntro": false
+        },
+        {
+            "name": "Britta Duerscheid",
+            "alternativeNames": [],
+            "age": -1,
+            "sex": "female",
+            "occurences": {
+                "total": 7,
+                "firstNameOnly": 0,
+                "lastNameOnly": 6,
+                "fullName": 1,
+                "nickname": 0
+            },
+            "inTitle": false,
+            "inIntro": false,
+            "_name": {
+                "firstname": "Britta",
+                "lastname": "Duerscheid",
+                "nickname": null,
+                "alternative_names": [],
+                "academic_title": null,
+                "nobility_title_or_rank": null
+            },
+            "descriptiveTexts": [
+                {
+                    "text": "\"Vor f\u00fcnf Jahren sind wir gestartet, inzwischen haben wir 500 St\u00e4dte live mit zuletzt 72 Betreibern\", sagte Britta Duerscheid k\u00fcrzlich bei der Micromobility Europe, einer Mikromobilit\u00e4ts-Messe in Amsterdam."
+                },
+                {
+                    "text": "Die App \"zeigt Echtzeit-Informationen f\u00fcr Hunderte von Zugfahrten t\u00e4glich an und enth\u00e4lt einen Ticket-Link-Button enth\u00e4lt, der Sie direkt zur DB-Plattform f\u00fchrt, um das Ticket zu buchen\", erkl\u00e4rt Duerscheid gegen\u00fcber manager magazin."
+                },
+                {
+                    "text": "Laut Duerscheid sucht Google nun nach weiteren \"Win-win-Partnerschaften\", von denen Google und die privaten Mikromobilit\u00e4tsanbieter gleicherma\u00dfen profitieren sollen."
+                },
+                {
+                    "text": "Damit Reisende solche Angebote nutzen, sei der Mehrwert entscheidend, sagt auch Duerscheid."
+                },
+                {
+                    "text": "Auch durch den Einsatz von k\u00fcnstlicher Intelligenz sollen viele verschiedene Faktoren wie Stra\u00dfenqualit\u00e4t, Verkehrsprognosen, Fahrradwege oder \u00f6ffentliche Verkehrsmittel analysiert werden, so Duerscheid."
+                },
+                {
+                    "text": "\"Wir sind von einer 2D-Visualisierung zu einer mehrdimensionalen Ansicht der Welt \u00fcbergegangen\", sagt Duerscheid."
+                },
+                {
+                    "text": "Wie aus einer Vogelperspektive bekomme man etwa angezeigt, wie die Fahrradspur aussieht, wie viele Ampeln es gibt, wie viel Verkehr zu erwarten ist, wie die Luftqualit\u00e4t ist und wie das Wetter sein wird, erkl\u00e4rt Duerscheid."
+                }
+            ],
+            "occupations": [
+                {
+                    "text": "Google Maps-Managerin"
+                },
+                {
+                    "text": "Google-Managerin"
+                }
+            ],
+            "directQuotes": [
+                {
+                    "text": "Vor f\u00fcnf Jahren sind wir gestartet, inzwischen haben wir 500 St\u00e4dte live mit zuletzt 72 Betreibern"
+                },
+                {
+                    "text": "Wir sind von einer 2D-Visualisierung zu einer mehrdimensionalen Ansicht der Welt \u00fcbergegangen"
+                }
+            ],
+            "quotedInTitle": false,
+            "quotedInIntro": false
+        }
+    ]
+}

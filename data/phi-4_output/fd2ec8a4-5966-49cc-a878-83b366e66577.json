@@ -1,0 +1,362 @@
+{
+    "persons": [
+        {
+            "name": "Rolf Meyer",
+            "alternativeNames": [],
+            "age": -1,
+            "sex": "male",
+            "occurences": {
+                "total": 1,
+                "firstNameOnly": 0,
+                "lastNameOnly": 0,
+                "fullName": 1,
+                "nickname": 0
+            },
+            "inTitle": false,
+            "inIntro": false,
+            "_name": {
+                "firstname": "Rolf",
+                "lastname": "Meyer",
+                "nickname": null,
+                "alternative_names": [],
+                "academic_title": null,
+                "nobility_title_or_rank": null
+            },
+            "descriptiveTexts": [
+                {
+                    "text": "Die Proteste auf der Stra\u00dfe sollen \u00bbdeutlich ungehorsamer und deutlich nachdr\u00fccklicher sein\u00ab als \u00fcbliche, angemeldete Demonstrationen, sagte Rolf Meyer, einer der Sprecher, am Montag bei einer Pressekonferenz."
+                }
+            ],
+            "occupations": [],
+            "directQuotes": [
+                {
+                    "text": "deutlich ungehorsamer und deutlich nachdr\u00fccklicher sein"
+                }
+            ],
+            "quotedInTitle": false,
+            "quotedInIntro": false
+        },
+        {
+            "name": "Lina Johnsen",
+            "alternativeNames": [],
+            "age": -1,
+            "sex": "female",
+            "occurences": {
+                "total": 5,
+                "firstNameOnly": 1,
+                "lastNameOnly": 1,
+                "fullName": 3,
+                "nickname": 0
+            },
+            "inTitle": false,
+            "inIntro": false,
+            "_name": {
+                "firstname": "Lina",
+                "lastname": "Johnsen",
+                "nickname": null,
+                "alternative_names": [],
+                "academic_title": null,
+                "nobility_title_or_rank": null
+            },
+            "descriptiveTexts": [
+                {
+                    "text": "Mit dem bisherigen Ansatz, sich in kleinen Gruppen auf die Stra\u00dfen zu kleben, schaffe man es nicht, eine kritische Masse zu organisieren, die genug Druck aufbaut, sagte Lina Schink\u00f6the aus dem Kernteam der Bewegung beim Strategiecamp im Februar."
+                },
+                {
+                    "text": "\u00bbDie \u203aungehorsamen Versammlungen\u2039 sollen so offen sein wie m\u00f6glich, aber die Spannung soll erhalten bleiben\u00ab, sagt Lina Johnsen."
+                },
+                {
+                    "text": "Sie ist eine der Sprecherinnen der Bewegung und Spitzenkandidatin der Letzten Generation f\u00fcr die Europawahl."
+                },
+                {
+                    "text": "\u00bbWas ist die gr\u00f6\u00dftm\u00f6gliche B\u00fchne, die wir uns nehmen k\u00f6nnen?\u00ab, sagt Johnsen."
+                },
+                {
+                    "text": "\u00bbAlles, was wir machen, ist ein gro\u00dfes Experiment\u00ab, sagt Lina Johnsen."
+                },
+                {
+                    "text": "Auch Lina Johnsen wird weggetragen."
+                },
+                {
+                    "text": "Aber sie kennt das ja schon."
+                }
+            ],
+            "occupations": [],
+            "directQuotes": [
+                {
+                    "text": "Die \u203aungehorsamen Versammlungen\u2039 sollen so offen sein wie m\u00f6glich, aber die Spannung soll erhalten bleiben"
+                },
+                {
+                    "text": "Die Leute sollen nicht nach Hause gehen und sagen: \u203aAch, nette Demo\u2039. Sie sollen sagen: \u203aHeute hatte ich den Mut, Widerstand zu leisten, heute habe ich mich selbstwirksam gef\u00fchlt.\u2039"
+                },
+                {
+                    "text": "Wir wollen den Leuten n\u00e4herbringen, was friedlicher Widerstand \u00fcberhaupt ist."
+                },
+                {
+                    "text": "Was ist die gr\u00f6\u00dftm\u00f6gliche B\u00fchne, die wir uns nehmen k\u00f6nnen?"
+                },
+                {
+                    "text": "Und dann schauen wir, wie wir die B\u00fchne ausreizen k\u00f6nnen."
+                },
+                {
+                    "text": "Alles, was wir machen, ist ein gro\u00dfes Experiment"
+                },
+                {
+                    "text": "Es ist der Anfang eines Widerstandsfr\u00fchlings."
+                },
+                {
+                    "text": "Vielleicht sind die das n\u00e4chste Mal mit auf der Stra\u00dfe."
+                }
+            ],
+            "quotedInTitle": false,
+            "quotedInIntro": false
+        },
+        {
+            "name": "Melli",
+            "alternativeNames": [
+                "Melanie Guttmann"
+            ],
+            "age": -1,
+            "sex": "female",
+            "occurences": {
+                "total": 3,
+                "firstNameOnly": 0,
+                "lastNameOnly": 0,
+                "fullName": 2,
+                "nickname": 1
+            },
+            "inTitle": false,
+            "inIntro": false,
+            "_name": {
+                "firstname": null,
+                "lastname": null,
+                "nickname": "Melli",
+                "alternative_names": [
+                    "Melanie Guttmann"
+                ],
+                "academic_title": null,
+                "nobility_title_or_rank": null
+            },
+            "descriptiveTexts": [
+                {
+                    "text": "\u00bbHallo, ich bin Melli und bin eine der Gr\u00fcnderinnen der Letzten Generation.\u00ab"
+                },
+                {
+                    "text": "\u00bbHallo, ich bin Melli und bin eine der Gr\u00fcnderinnen der Letzten Generation.\u00ab"
+                },
+                {
+                    "text": "Melanie Guttmann hat ein Mikrofon in der Hand und kritisiert die Klimapolitik der Bundesregierung, spricht \u00fcber die Weltklimakonferenz, die COP, die zum 28."
+                },
+                {
+                    "text": "\u00bbWieso braucht es 28 Versuche, um nicht mal zu nennenswerten Ergebnissen zu kommen?\u00ab, sagte sie."
+                }
+            ],
+            "occupations": [],
+            "directQuotes": [
+                {
+                    "text": "Hallo, ich bin Melli und bin eine der Gr\u00fcnderinnen der Letzten Generation."
+                },
+                {
+                    "text": "Wieso braucht es 28 Versuche, um nicht mal zu nennenswerten Ergebnissen zu kommen?"
+                },
+                {
+                    "text": "Wie lange wollen wir das Spiel noch spielen? COP50? COP100?"
+                }
+            ],
+            "quotedInTitle": false,
+            "quotedInIntro": false
+        },
+        {
+            "name": "Luka oder Lukas",
+            "alternativeNames": [
+                "Luka"
+            ],
+            "age": -1,
+            "sex": "male",
+            "occurences": {
+                "total": 1,
+                "firstNameOnly": 0,
+                "lastNameOnly": 0,
+                "fullName": 1,
+                "nickname": 0
+            },
+            "inTitle": false,
+            "inIntro": false,
+            "_name": {
+                "firstname": "Lukas",
+                "lastname": null,
+                "nickname": null,
+                "alternative_names": [
+                    "Luka"
+                ],
+                "academic_title": null,
+                "nobility_title_or_rank": null
+            },
+            "descriptiveTexts": [],
+            "occupations": [],
+            "directQuotes": [
+                {
+                    "text": "Ich bin Lukas und mein Verkehrszeichen w\u00e4re: Durchfahrt verboten"
+                }
+            ],
+            "quotedInTitle": false,
+            "quotedInIntro": false
+        },
+        {
+            "name": "Arne",
+            "alternativeNames": [],
+            "age": -1,
+            "sex": "male",
+            "occurences": {
+                "total": 1,
+                "firstNameOnly": 0,
+                "lastNameOnly": 0,
+                "fullName": 1,
+                "nickname": 0
+            },
+            "inTitle": false,
+            "inIntro": false,
+            "_name": {
+                "firstname": "Arne",
+                "lastname": null,
+                "nickname": null,
+                "alternative_names": [],
+                "academic_title": null,
+                "nobility_title_or_rank": null
+            },
+            "descriptiveTexts": [
+                {
+                    "text": "\u00bbIch bin Arne und meins w\u00e4re ein Kreisverkehrschild.\u00ab"
+                }
+            ],
+            "occupations": [],
+            "directQuotes": [
+                {
+                    "text": "Ich bin Arne und meins w\u00e4re ein Kreisverkehrschild."
+                }
+            ],
+            "quotedInTitle": false,
+            "quotedInIntro": false
+        },
+        {
+            "name": "Lina Schink\u00f6the",
+            "alternativeNames": [],
+            "age": -1,
+            "sex": "female",
+            "occurences": {
+                "total": 4,
+                "firstNameOnly": 3,
+                "lastNameOnly": 0,
+                "fullName": 1,
+                "nickname": 0
+            },
+            "inTitle": false,
+            "inIntro": false,
+            "_name": {
+                "firstname": "Lina",
+                "lastname": "Schink\u00f6the",
+                "nickname": null,
+                "alternative_names": [],
+                "academic_title": null,
+                "nobility_title_or_rank": null
+            },
+            "descriptiveTexts": [
+                {
+                    "text": "Mit dem bisherigen Ansatz, sich in kleinen Gruppen auf die Stra\u00dfen zu kleben, schaffe man es nicht, eine kritische Masse zu organisieren, die genug Druck aufbaut, sagte Lina Schink\u00f6the aus dem Kernteam der Bewegung beim Strategiecamp im Februar."
+                },
+                {
+                    "text": "\u00bbDie \u203aungehorsamen Versammlungen\u2039 sollen so offen sein wie m\u00f6glich, aber die Spannung soll erhalten bleiben\u00ab, sagt Lina Johnsen."
+                },
+                {
+                    "text": "Sie ist eine der Sprecherinnen der Bewegung und Spitzenkandidatin der Letzten Generation f\u00fcr die Europawahl."
+                },
+                {
+                    "text": "\u00bbAlles, was wir machen, ist ein gro\u00dfes Experiment\u00ab, sagt Lina Johnsen."
+                },
+                {
+                    "text": "Auch Lina Johnsen wird weggetragen."
+                },
+                {
+                    "text": "Aber sie kennt das ja schon."
+                }
+            ],
+            "occupations": [],
+            "directQuotes": [
+                {
+                    "text": "Sad \u2013 aber wahr"
+                }
+            ],
+            "quotedInTitle": false,
+            "quotedInIntro": false
+        },
+        {
+            "name": "Yannick Seuthe",
+            "alternativeNames": [],
+            "age": 25,
+            "sex": "male",
+            "occurences": {
+                "total": 3,
+                "firstNameOnly": 0,
+                "lastNameOnly": 2,
+                "fullName": 1,
+                "nickname": 0
+            },
+            "inTitle": false,
+            "inIntro": false,
+            "_name": {
+                "firstname": "Yannick",
+                "lastname": "Seuthe",
+                "nickname": null,
+                "alternative_names": [],
+                "academic_title": null,
+                "nobility_title_or_rank": null
+            },
+            "descriptiveTexts": [
+                {
+                    "text": "\u00bbIch w\u00fcrde ein kurzes Training auf der Stra\u00dfe abhalten\u00ab, ruft Yannick Seuthe aus Halle."
+                },
+                {
+                    "text": "\u00bbIch werde das jetzt hier machen\u00ab, sagt der 25-J\u00e4hrige, setzt sich auf den Boden und beginnt seinen Vortrag."
+                },
+                {
+                    "text": "\u00bbDarf ich kurz unterbrechen?\u00ab"
+                },
+                {
+                    "text": "Seuthe will, dass sich jeder einmal vorstellt und dazusagt, welches Verkehrszeichen sie w\u00e4ren."
+                },
+                {
+                    "text": "Seuthe erkl\u00e4rt die Werte und Einstellungen der Letzten Generation und will \u00fcber die rechtliche Situation bei den Stra\u00dfenblockaden aufkl\u00e4ren \u2013 falls tats\u00e4chlich jemand das erste Mal dabei ist."
+                },
+                {
+                    "text": "\u00bbWir beleidigen die Polizei nicht\u00ab, sagt er."
+                }
+            ],
+            "occupations": [],
+            "directQuotes": [
+                {
+                    "text": "Ich w\u00fcrde ein kurzes Training auf der Stra\u00dfe abhalten"
+                },
+                {
+                    "text": "Alle, die Lust haben mitzumachen, einmal zu mir."
+                },
+                {
+                    "text": "Ich werde das jetzt hier machen"
+                },
+                {
+                    "text": "Darf ich kurz unterbrechen?"
+                },
+                {
+                    "text": "Wer ist denn Versammlungsleiter?"
+                },
+                {
+                    "text": "Wir beleidigen die Polizei nicht"
+                },
+                {
+                    "text": "Keine Spr\u00fcche wie ACAB"
+                }
+            ],
+            "quotedInTitle": false,
+            "quotedInIntro": false
+        }
+    ]
+}

@@ -1,0 +1,514 @@
+{
+    "persons": [
+        {
+            "name": "Olaf Scholz",
+            "alternativeNames": [],
+            "age": -1,
+            "sex": "male",
+            "occurences": {
+                "total": 1,
+                "firstNameOnly": 0,
+                "lastNameOnly": 0,
+                "fullName": 1,
+                "nickname": 0
+            },
+            "inTitle": false,
+            "inIntro": false,
+            "_name": {
+                "firstname": "Olaf",
+                "lastname": "Scholz",
+                "nickname": null,
+                "alternative_names": [],
+                "academic_title": null,
+                "nobility_title_or_rank": null
+            },
+            "descriptiveTexts": [
+                {
+                    "text": "Seitdem kein \u00f6ffentliches Wort von ihr zur SPD oder Kanzler Olaf Scholz."
+                },
+                {
+                    "text": "Wenn der Zeitpunkt gekommen ist, und er kommt immer, sagt Nahles auch als Vorstandsvorsitzende der BA auf jedem Podium, in jedem Gespr\u00e4ch, dass sie zur \u00bbpolitischen Neutralit\u00e4t\u00ab verpflichtet sei."
+                }
+            ],
+            "occupations": [],
+            "directQuotes": [],
+            "quotedInTitle": false,
+            "quotedInIntro": false
+        },
+        {
+            "name": "Christian Lindner",
+            "alternativeNames": [],
+            "age": -1,
+            "sex": "male",
+            "occurences": {
+                "total": 1,
+                "firstNameOnly": 0,
+                "lastNameOnly": 0,
+                "fullName": 1,
+                "nickname": 0
+            },
+            "inTitle": false,
+            "inIntro": false,
+            "_name": {
+                "firstname": "Christian",
+                "lastname": "Lindner",
+                "nickname": null,
+                "alternative_names": [],
+                "academic_title": null,
+                "nobility_title_or_rank": null
+            },
+            "descriptiveTexts": [
+                {
+                    "text": "Als Bundesfinanzminister Christian Lindner (FDP) forderte, das B\u00fcrgergeld zu k\u00fcrzen, damit sich Arbeiten wieder lohne, erkl\u00e4rte Nahles: \u00bbArbeiten lohnt sich finanziell immer.\u00ab"
+                }
+            ],
+            "occupations": [
+                {
+                    "text": "Bundesfinanzminister"
+                }
+            ],
+            "directQuotes": [],
+            "quotedInTitle": false,
+            "quotedInIntro": false
+        },
+        {
+            "name": "Helge Braun",
+            "alternativeNames": [],
+            "age": -1,
+            "sex": "male",
+            "occurences": {
+                "total": 1,
+                "firstNameOnly": 0,
+                "lastNameOnly": 0,
+                "fullName": 1,
+                "nickname": 0
+            },
+            "inTitle": false,
+            "inIntro": false,
+            "_name": {
+                "firstname": "Helge",
+                "lastname": "Braun",
+                "nickname": null,
+                "alternative_names": [],
+                "academic_title": null,
+                "nobility_title_or_rank": null
+            },
+            "descriptiveTexts": [
+                {
+                    "text": "\u00bbAls ich Ministerin war, war daf\u00fcr Helge Braun im Kanzleramt zust\u00e4ndig, und wir haben pflichtgem\u00e4\u00df unsere Vorschl\u00e4ge gemeldet\u00ab, sagt Nahles, \u00bbheute w\u00fcrde ich mich selbst intensiver darum k\u00fcmmern.\u00ab"
+                }
+            ],
+            "occupations": [],
+            "directQuotes": [],
+            "quotedInTitle": false,
+            "quotedInIntro": false
+        },
+        {
+            "name": "Daniel Terzenbach",
+            "alternativeNames": [],
+            "age": -1,
+            "sex": "male",
+            "occurences": {
+                "total": 2,
+                "firstNameOnly": 0,
+                "lastNameOnly": 0,
+                "fullName": 2,
+                "nickname": 0
+            },
+            "inTitle": false,
+            "inIntro": false,
+            "_name": {
+                "firstname": "Daniel",
+                "lastname": "Terzenbach",
+                "nickname": null,
+                "alternative_names": [],
+                "academic_title": null,
+                "nobility_title_or_rank": null
+            },
+            "descriptiveTexts": [
+                {
+                    "text": "Nahles Vorstandskollege Daniel Terzenbach wurde zum \u00bbSonderbeauftragten der Bundesregierung f\u00fcr die Arbeitsmarktintegration von Gefl\u00fcchteten\u00ab ernannt."
+                },
+                {
+                    "text": "\u00bbDaniel Terzenbach und ich haben das vorher diskutiert\u00ab, sagt Nahles, \u00bbWir haben die Erfahrung, und wir sind gut aufgestellt. Es ist besser, wir machen das, als ein Externer, der weniger davon versteht.\u00ab"
+                }
+            ],
+            "occupations": [],
+            "directQuotes": [],
+            "quotedInTitle": false,
+            "quotedInIntro": false
+        },
+        {
+            "name": "Andrea Nahles",
+            "alternativeNames": [],
+            "age": -1,
+            "sex": "female",
+            "occurences": {
+                "total": 29,
+                "firstNameOnly": 0,
+                "lastNameOnly": 26,
+                "fullName": 3,
+                "nickname": 0
+            },
+            "inTitle": true,
+            "inIntro": true,
+            "_name": {
+                "firstname": "Andrea",
+                "lastname": "Nahles",
+                "nickname": null,
+                "alternative_names": [],
+                "academic_title": null,
+                "nobility_title_or_rank": null
+            },
+            "descriptiveTexts": [
+                {
+                    "text": "Frau Nahles soll es richten"
+                },
+                {
+                    "text": "Seit Andrea Nahles Chefin der Bundesagentur f\u00fcr Arbeit ist, h\u00e4lt sich die Ex-SPD-Vorsitzende aus Parteidebatten heraus, auch wenn es schwerf\u00e4llt."
+                },
+                {
+                    "text": "Und heute sieht sie einiges anders."
+                },
+                {
+                    "text": "Auf einer B\u00fchne der Stuttgarter Messe ist Andrea Nahles eingekeilt zwischen zwei Lobbyisten."
+                },
+                {
+                    "text": "Es ist Anfang Februar, sie soll auf einer Fachmesse \u00fcber das Thema \u00bbArbeitsmarkt Gastgewerbe \u2013 was aktuell entscheidend ist\u00ab diskutieren."
+                },
+                {
+                    "text": "Seit anderthalb Jahren schon f\u00fchrt sie die Bundesagentur f\u00fcr Arbeit (BA)."
+                },
+                {
+                    "text": "Doch was die beiden Vertreter des Deutschen Hotel- und Gastst\u00e4ttenverbands links und rechts von ihr fordern, klingt, als w\u00e4re Nahles noch immer Bundesarbeitsministerin oder Vorsitzende der SPD."
+                },
+                {
+                    "text": "Sie verlangen eine bessere Bildungspolitik und mehr Fachkr\u00e4ftezuwanderung, sie beklagen Versprechungen und leere Worth\u00fclsen aus Berlin, und \u00fcberhaupt finden sie, die Politik m\u00fcsse \u00bbliefern, liefern, liefern\u00ab."
+                },
+                {
+                    "text": "Nahles ist angesprochen \u2013 und f\u00fchlt sich doch nicht gemeint."
+                },
+                {
+                    "text": "Als es um das Arbeitszeitgesetz geht, das die Bundesregierung endlich lockern m\u00fcsse, schaut die Moderatorin Nahles an."
+                },
+                {
+                    "text": "\u00bbIch muss jetzt sagen, dass sie mich an dieser Stelle kolossal \u00fcberfordern\u00ab, sagt diese."
+                },
+                {
+                    "text": "\u00bbSie machen mit mir hier eine politische Debatte auf, die ich nicht bedienen kann. Ich bin Chefin der Bundesagentur f\u00fcr Arbeit.\u00ab"
+                },
+                {
+                    "text": "Aus aktuellen Debatten hielte Nahles sich gern heraus."
+                },
+                {
+                    "text": "Das Problem ist, dass sie st\u00e4ndig gefragt ist."
+                },
+                {
+                    "text": "Die Beh\u00f6rde, die sie f\u00fchrt, ist die gr\u00f6\u00dfte in Deutschland, und weil die meisten Menschen die BA als Teil der Politik wahrnehmen, gilt das f\u00fcr ihre Chefin offensichtlich genauso."
+                },
+                {
+                    "text": "\u00bbIch bin die Vorstandsvorsitzende f\u00fcr alles\u00ab, sagt Nahles, als sie die B\u00fchne in Stuttgart nach ihrem Auftritt verl\u00e4sst."
+                },
+                {
+                    "text": "Im Sommer 2019 hatte sie sich aus der Parteipolitik zur\u00fcckgezogen."
+                },
+                {
+                    "text": "Sie trat vom SPD-Partei- und Fraktionsvorsitz zur\u00fcck und legte auch ihr Bundestagsmandat nieder."
+                },
+                {
+                    "text": "Wer glaubte, es habe sich damals um eine Kurzschlussreaktion gehandelt und Nahles werde bald wieder in den Betrieb der Hauptstadt zur\u00fcckkehren, hat sich get\u00e4uscht."
+                },
+                {
+                    "text": "Wenn der Zeitpunkt gekommen ist, und er kommt immer, sagt Nahles auch als Vorstandsvorsitzende der BA auf jedem Podium, in jedem Gespr\u00e4ch, dass sie zur \u00bbpolitischen Neutralit\u00e4t\u00ab verpflichtet sei."
+                },
+                {
+                    "text": "Schon gar nicht, wenn sie wie kaum eine andere die Zw\u00e4nge, Regeln und Grenzen des politischen Spiels kennt und auch seine taktischen Fouls."
+                },
+                {
+                    "text": "Sie wei\u00df, wann sie f\u00fcr die Bundesagentur dazwischengr\u00e4tschen muss."
+                },
+                {
+                    "text": "So war es um die Jahreswende, als Nahles sich dagegen wehrte, dass bei ihrer Beh\u00f6rde in den Verhandlungen zum Bundesetat gek\u00fcrzt werden sollte."
+                },
+                {
+                    "text": "Dieser Griff in den Beitragshaushalt belaste \u00bbauch das Zutrauen in eine verl\u00e4ssliche Zusammenarbeit mit der Bundesregierung f\u00fcr m\u00f6gliche zuk\u00fcnftige Krisen\u00ab, sagte Nahles."
+                },
+                {
+                    "text": "So hat sich Andrea Nahles in den vergangenen Wochen immer wieder zu Wort gemeldet, bis an die Grenze dessen, was sie sagen kann."
+                },
+                {
+                    "text": "Als Bundesfinanzminister Christian Lindner (FDP) forderte, das B\u00fcrgergeld zu k\u00fcrzen, damit sich Arbeiten wieder lohne, erkl\u00e4rte Nahles: \u00bbArbeiten lohnt sich finanziell immer.\u00ab"
+                },
+                {
+                    "text": "Als Friedrich Merz (CDU) behauptete, die Arbeitsanreize f\u00fcr Ukrainer seien zu niedrig, weil das B\u00fcrgergeld zu hoch sei, sagte sie: \u00bbDaf\u00fcr haben wir keine statistischen Belege.\u00ab"
+                },
+                {
+                    "text": "Zudem nannte sie die Debatte \u00bbnicht ganz fair\u00ab."
+                },
+                {
+                    "text": "Man k\u00f6nne nicht zun\u00e4chst den Ukrainerinnen und Ukrainern sagen, \u00bbdass sie erst mal Deutsch lernen sollen\u00ab und sich dann beschweren: \u00bbHey, ihr habt keine Arbeit angenommen.\u00ab"
+                },
+                {
+                    "text": "Und als Arbeitsminister Hubertus Heil (SPD) verk\u00fcndete, dass k\u00fcnftig wieder in den Jobcentern sanktioniert und Jobverweigerern bis zu zwei Monate lang das B\u00fcrgergeld komplett gek\u00fcrzt werden soll, stellte Nahles klar, dass es eine Entscheidung der Politik war, die Sanktionen ausgesetzt zu haben \u2013 gegen den Rat der Bundesagentur."
+                },
+                {
+                    "text": "Dass sich durch die Sanktionierung der Totalverweigerer 2024 bis zu 170 Millionen Euro an Ausgaben einsparen lassen, wie von der Regierung angenommen, stellte sie umgehend infrage, die Wirkung sei nicht absehbar."
+                },
+                {
+                    "text": "Um solche Versprechen zu glauben, ist sie zu oft vor Ort."
+                },
+                {
+                    "text": "Als sie ihr Amt antrat, versprach sie den Mitarbeitern, regelm\u00e4\u00dfig Arbeitsagenturen und Jobcenter im Land zu bereisen."
+                },
+                {
+                    "text": "Einmal im Monat macht sie das."
+                },
+                {
+                    "text": "An diesem Februartag besucht sie die Regionaldirektion Baden-W\u00fcrttemberg der Arbeitsbeh\u00f6rde in Stuttgart, die eine neue Chefin hat."
+                },
+                {
+                    "text": "Am Morgen war sie bereits bei Bosch in Feuerbach, um sich dar\u00fcber zu informieren, welche Folgen der Umstieg von Verbrenner- auf Wasserstoffantrieb auf die Arbeitspl\u00e4tze hat."
+                },
+                {
+                    "text": "Zwischen den Terminen sitzt Nahles entspannt auf ihrem Stammplatz rechts im Fond des Dienstwagens."
+                },
+                {
+                    "text": "Spricht man sie auf die Auseinandersetzung um das B\u00fcrgergeld an, sagt sie, dass die j\u00fcngste Reform in der Beh\u00f6rde noch immer positiv gesehen werde, nach 18 Jahren Hartz IV, in denen die Bundesagentur in der \u00f6ffentlichen Debatte oft als das b\u00f6se Antlitz des Sozialstaats dargestellt wurde, als Institution, die sanktioniert und bestraft: \u00bbDeshalb w\u00fcnschen wir uns eigentlich, dass es jetzt nicht noch mal eine Kehrtwende gibt und auf der jetzigen Basis Sanktionen auch m\u00f6glich bleiben.\u00ab"
+                },
+                {
+                    "text": "\u00bbBeim B\u00fcrgergeld ist eine Art Populismusspirale in Gang gekommen\u00ab, sagt Nahles auf der R\u00fcckbank des Autos."
+                },
+                {
+                    "text": "\u00bbUnd die Bundesagentur steckt irgendwo in der Mitte dieser Spirale\u00ab, sagt sie, \u00bbwir versuchen deshalb, immer belegbare Zahlen, Fakten und Daten zu liefern und dar\u00fcber wieder ein St\u00fcck Realismus in die Debatte zu bringen.\u00ab"
+                },
+                {
+                    "text": "Auch wenn einige in den Jobcentern jetzt klagen, sie k\u00f6nnten nicht mehr viel machen, wenn Kunden Termine nicht wahrnehmen w\u00fcrden."
+                },
+                {
+                    "text": "Sie ist f\u00fcr das Kindergeld und andere Familienleistungen zust\u00e4ndig, allein rund 6000 Menschen arbeiten in diesem Bereich."
+                },
+                {
+                    "text": "Von Anfang an hat Nahles deutlich gemacht, dass das Projekt anspruchsvoll ist, um es vorsichtig auszudr\u00fccken."
+                },
+                {
+                    "text": "\u00bbDie Entscheidung muss zeitnah kommen, sonst wird es mit der Zeitschiene f\u00fcr die Umsetzung extrem eng. Da kann dann niemand \u00fcberrascht sein\u00ab, sagt Nahles."
+                },
+                {
+                    "text": "\u00bbDas ist immer wie eine Operation am offenen Herzen\u00ab, sagt Nahles."
+                },
+                {
+                    "text": "Fragt man sie, ob der Rollenwechsel ihren Blick auf die Politik und ihr eigenes Handeln als Politikerin ver\u00e4ndert hat, sagt sie: \u00bbMir sind einige Dinge, die ich vorher eher aus dem Augenwinkel gesehen habe, klarer geworden.\u00ab"
+                },
+                {
+                    "text": "Nun steht sie auf der Seite der Verwaltung."
+                },
+                {
+                    "text": "Und sieht die Sache so: Bei Ermessensspielr\u00e4umen m\u00fcssen Weisungen geschrieben werden, damit die Besch\u00e4ftigten wissen, woran sie sind."
+                },
+                {
+                    "text": "Gerade werden sie in verst\u00e4ndliche Sprache r\u00fcck\u00fcbersetzt."
+                },
+                {
+                    "text": "\u00bbWir wollen Komplexit\u00e4t reduzieren, wieder verst\u00e4ndlicher werden f\u00fcr die Menschen. Heute w\u00fcrde ich auch eine andere Gesetzgebung favorisieren\u00ab, sagt Nahles."
+                },
+                {
+                    "text": "Sie wirbt jetzt in Berlin daf\u00fcr, bei jedem neuen Gesetz die Umsetzung mitzudenken: \u00bbMit dem Wissen, das ich heute habe, w\u00fcrde ich manche fr\u00fchere Entscheidung heute anders treffen.\u00ab"
+                },
+                {
+                    "text": "Vor allem w\u00fcrde sie dem B\u00fcrokratieabbau mehr Bedeutung zumessen."
+                },
+                {
+                    "text": "\u00bbAls ich Ministerin war, war daf\u00fcr Helge Braun im Kanzleramt zust\u00e4ndig, und wir haben pflichtgem\u00e4\u00df unsere Vorschl\u00e4ge gemeldet\u00ab, sagt Nahles, \u00bbheute w\u00fcrde ich mich selbst intensiver darum k\u00fcmmern.\u00ab"
+                },
+                {
+                    "text": "Bei der BA macht sie das seit einigen Monaten, auch die Beh\u00f6rde ist als Arbeitgeber von der Transformation auf dem Arbeitsmarkt betroffen."
+                },
+                {
+                    "text": "\u00bbWir werden in Zukunft mit weniger Leuten die gleichen Leistungen wie heute liefern m\u00fcssen, ob wir wollen oder nicht\u00ab, sagt Nahles."
+                },
+                {
+                    "text": "Also baut sie die Beh\u00f6rde um, von der \u00d6ffentlichkeit weitgehend unbemerkt."
+                },
+                {
+                    "text": "\u00bbSind sie optimal? Sind sie am Kunden orientiert? Kann der Prozess \u00fcberhaupt automatisiert werden?\u00ab, sagt Nahles."
+                },
+                {
+                    "text": "Derweil ist das n\u00e4chste Prestigeprojekt der Ampelkoalition, um das sie sich k\u00fcmmern muss, schon angelaufen."
+                },
+                {
+                    "text": "Nahles Vorstandskollege Daniel Terzenbach wurde zum \u00bbSonderbeauftragten der Bundesregierung f\u00fcr die Arbeitsmarktintegration von Gefl\u00fcchteten\u00ab ernannt."
+                },
+                {
+                    "text": "\u00bbDaniel Terzenbach und ich haben das vorher diskutiert\u00ab, sagt Nahles, \u00bbWir haben die Erfahrung, und wir sind gut aufgestellt. Es ist besser, wir machen das, als ein Externer, der weniger davon versteht.\u00ab"
+                },
+                {
+                    "text": "Sie ist \u00fcberzeugt, dass die Sache funktionieren wird."
+                },
+                {
+                    "text": "Mitte Februar sitzt sie abends in Braunschweig in einem Lokschuppen, in dem normalerweise historische Z\u00fcge restauriert werden, in einer Diskussionsrunde des Arbeitgeberverbands der Region."
+                },
+                {
+                    "text": "Wie sie auf dem Sofa hin und her rutscht, bis sie antworten kann."
+                },
+                {
+                    "text": "\u00bbWas die wirklich lockerer und besser machen, ist das mit der Sprache\u00ab, sagt Nahles, \u00bbwir haben einen deutschsprachigen Arbeitsmarkt, in den Niederlanden ist v\u00f6llig egal, ob sie schon die Sprache beherrschen.\u00ab"
+                },
+                {
+                    "text": "\u00bbVon den syrischen M\u00e4nnern, die 2015/16 zu uns kamen, haben heute 70 Prozent einen sozialversicherungspflichtigen Job\u00ab, sagt Nahles."
+                },
+                {
+                    "text": "Allerdings wei\u00df gerade sie, dass die Geduld von Politikern und Politikerinnen vor Wahljahren begrenzt ist."
+                },
+                {
+                    "text": "Damals war sie 49 Jahre alt und hatte bereits die meisten H\u00f6hen und Tiefen eines Politikerinnenlebens durchschritten."
+                },
+                {
+                    "text": "\u00bbAber das ist mein Weg\u00ab, sagt sie."
+                },
+                {
+                    "text": "Dass ihr Amt bei der BA nicht nur eine Zwischenstation ist, daran l\u00e4sst sie keinen Zweifel."
+                },
+                {
+                    "text": "\u00bbIch habe mich f\u00fcr meine Zukunft entschieden\u00ab, sagt Nahles, \u00bbich will keine Gefangene meiner Vergangenheit sein.\u00ab"
+                },
+                {
+                    "text": "Sie verabschiedet sich am Auto, steigt hinten rechts ein und schlie\u00dft die T\u00fcr."
+                }
+            ],
+            "occupations": [
+                {
+                    "text": "Juso-Vorsitzende"
+                },
+                {
+                    "text": "Chefin der Bundesagentur f\u00fcr Arbeit"
+                }
+            ],
+            "directQuotes": [
+                {
+                    "text": "Ich muss jetzt sagen, dass sie mich an dieser Stelle kolossal \u00fcberfordern"
+                },
+                {
+                    "text": "Sie machen mit mir hier eine politische Debatte auf, die ich nicht bedienen kann. Ich bin Chefin der Bundesagentur f\u00fcr Arbeit."
+                },
+                {
+                    "text": "Arbeiten lohnt sich finanziell immer."
+                },
+                {
+                    "text": "Deshalb w\u00fcnschen wir uns eigentlich, dass es jetzt nicht noch mal eine Kehrtwende gibt und auf der jetzigen Basis Sanktionen auch m\u00f6glich bleiben."
+                },
+                {
+                    "text": "Beim B\u00fcrgergeld ist eine Art Populismusspirale in Gang gekommen"
+                },
+                {
+                    "text": "Und die Bundesagentur steckt irgendwo in der Mitte dieser Spirale"
+                },
+                {
+                    "text": "wir versuchen deshalb, immer belegbare Zahlen, Fakten und Daten zu liefern und dar\u00fcber wieder ein St\u00fcck Realismus in die Debatte zu bringen."
+                },
+                {
+                    "text": "Im vergangenen Jahr sind so wenige Menschen aus dem ersten Arbeitsmarkt ins B\u00fcrgergeld gerutscht wie seit 2015 nicht mehr."
+                },
+                {
+                    "text": "Die Entscheidung muss zeitnah kommen, sonst wird es mit der Zeitschiene f\u00fcr die Umsetzung extrem eng. Da kann dann niemand \u00fcberrascht sein"
+                },
+                {
+                    "text": "Mir sind einige Dinge, die ich vorher eher aus dem Augenwinkel gesehen habe, klarer geworden."
+                },
+                {
+                    "text": "auf der Verwaltungsseite hei\u00dft es: um Gottes willen. Denn in der Praxis ist es nicht immer so einfach \u00bbErmessen"
+                },
+                {
+                    "text": "Wir wollen Komplexit\u00e4t reduzieren, wieder verst\u00e4ndlicher werden f\u00fcr die Menschen. Heute w\u00fcrde ich auch eine andere Gesetzgebung favorisieren"
+                },
+                {
+                    "text": "Mit dem Wissen, das ich heute habe, w\u00fcrde ich manche fr\u00fchere Entscheidung heute anders treffen."
+                },
+                {
+                    "text": "heute w\u00fcrde ich mich selbst intensiver darum k\u00fcmmern."
+                },
+                {
+                    "text": "Daniel Terzenbach und ich haben das vorher diskutiert"
+                },
+                {
+                    "text": "Wir haben die Erfahrung, und wir sind gut aufgestellt. Es ist besser, wir machen das, als ein Externer, der weniger davon versteht."
+                },
+                {
+                    "text": "Von den syrischen M\u00e4nnern, die 2015/16 zu uns kamen, haben heute 70 Prozent einen sozialversicherungspflichtigen Job"
+                }
+            ],
+            "quotedInTitle": true,
+            "quotedInIntro": true
+        },
+        {
+            "name": "Friedrich Merz",
+            "alternativeNames": [],
+            "age": -1,
+            "sex": "male",
+            "occurences": {
+                "total": 1,
+                "firstNameOnly": 0,
+                "lastNameOnly": 0,
+                "fullName": 1,
+                "nickname": 0
+            },
+            "inTitle": false,
+            "inIntro": false,
+            "_name": {
+                "firstname": "Friedrich",
+                "lastname": "Merz",
+                "nickname": null,
+                "alternative_names": [],
+                "academic_title": null,
+                "nobility_title_or_rank": null
+            },
+            "descriptiveTexts": [
+                {
+                    "text": "Als Friedrich Merz (CDU) behauptete, die Arbeitsanreize f\u00fcr Ukrainer seien zu niedrig, weil das B\u00fcrgergeld zu hoch sei, sagte sie: \u00bbDaf\u00fcr haben wir keine statistischen Belege.\u00ab"
+                }
+            ],
+            "occupations": [],
+            "directQuotes": [],
+            "quotedInTitle": false,
+            "quotedInIntro": false
+        },
+        {
+            "name": "Hubertus Heil",
+            "alternativeNames": [],
+            "age": -1,
+            "sex": "male",
+            "occurences": {
+                "total": 2,
+                "firstNameOnly": 0,
+                "lastNameOnly": 0,
+                "fullName": 2,
+                "nickname": 0
+            },
+            "inTitle": false,
+            "inIntro": false,
+            "_name": {
+                "firstname": "Hubertus",
+                "lastname": "Heil",
+                "nickname": null,
+                "alternative_names": [],
+                "academic_title": null,
+                "nobility_title_or_rank": null
+            },
+            "descriptiveTexts": [
+                {
+                    "text": "Und als Arbeitsminister Hubertus Heil (SPD) verk\u00fcndete, dass k\u00fcnftig wieder in den Jobcentern sanktioniert und Jobverweigerern bis zu zwei Monate lang das B\u00fcrgergeld komplett gek\u00fcrzt werden soll, stellte Nahles klar, dass es eine Entscheidung der Politik war, die Sanktionen ausgesetzt zu haben \u2013 gegen den Rat der Bundesagentur."
+                },
+                {
+                    "text": "Arbeitsminister Hubertus Heil hat versprochen, Gefl\u00fcchtete aus der Ukraine schneller in Arbeit zu bringen \u2013 auch, um die Debatte um das B\u00fcrgergeld zu beruhigen."
+                }
+            ],
+            "occupations": [
+                {
+                    "text": "Arbeitsminister"
+                }
+            ],
+            "directQuotes": [],
+            "quotedInTitle": false,
+            "quotedInIntro": false
+        }
+    ]
+}

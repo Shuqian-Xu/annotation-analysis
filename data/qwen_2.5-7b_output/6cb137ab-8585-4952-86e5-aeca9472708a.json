@@ -1,0 +1,112 @@
+{
+    "persons": [
+        {
+            "name": "Hannah Steinharter",
+            "alternativeNames": [],
+            "age": -1,
+            "sex": "female",
+            "occurences": {
+                "total": 1,
+                "firstNameOnly": 0,
+                "lastNameOnly": 0,
+                "fullName": 1,
+                "nickname": 0
+            },
+            "inTitle": false,
+            "inIntro": false,
+            "_name": {
+                "firstname": "Hannah",
+                "lastname": "Steinharter",
+                "nickname": null,
+                "alternative_names": [],
+                "academic_title": null,
+                "nobility_title_or_rank": null
+            },
+            "descriptiveTexts": [
+                {
+                    "text": "Wer sind sie?"
+                },
+                {
+                    "text": "Kaum jemand kennt sie, ihr Einfluss auf Leben und Arbeiten von Millionen von Deutschen ist jedoch enorm: Deutschlands private Gro\u00dfvermieter."
+                },
+                {
+                    "text": "In den Zeiten der Niedrigzinsen konnten sie ihre Imperien erweitern, jetzt sp\u00fclen ihnen steigende Mieten Geld in die Kassen."
+                },
+                {
+                    "text": "Sind sie Vorreiter bei der klimagerechten Sanierung des deutschen Wohnbestands?"
+                },
+                {
+                    "text": "Oder richten auch sie ihr Gesch\u00e4ftsmodell inzwischen haupts\u00e4chlich danach aus, wo der Staat wann am meisten F\u00f6rderungen und Steuergelder hineinpumpt?"
+                },
+                {
+                    "text": "Dar\u00fcber informiert in diesem Podcast Hannah Steinharter, Immobilienexpertin des manager magazins, im Gespr\u00e4ch mit Chefredakteur Sven Clausen."
+                }
+            ],
+            "occupations": [
+                {
+                    "text": "Immobilienexpertin"
+                }
+            ],
+            "directQuotes": [],
+            "quotedInTitle": false,
+            "quotedInIntro": false
+        },
+        {
+            "name": "Sven Clausen",
+            "alternativeNames": [],
+            "age": -1,
+            "sex": "male",
+            "occurences": {
+                "total": 2,
+                "firstNameOnly": 0,
+                "lastNameOnly": 0,
+                "fullName": 2,
+                "nickname": 0
+            },
+            "inTitle": false,
+            "inIntro": false,
+            "_name": {
+                "firstname": "Sven",
+                "lastname": "Clausen",
+                "nickname": null,
+                "alternative_names": [],
+                "academic_title": null,
+                "nobility_title_or_rank": null
+            },
+            "descriptiveTexts": [
+                {
+                    "text": "Wer sind sie?"
+                },
+                {
+                    "text": "Kaum jemand kennt sie, ihr Einfluss auf Leben und Arbeiten von Millionen von Deutschen ist jedoch enorm: Deutschlands private Gro\u00dfvermieter."
+                },
+                {
+                    "text": "In den Zeiten der Niedrigzinsen konnten sie ihre Imperien erweitern, jetzt sp\u00fclen ihnen steigende Mieten Geld in die Kassen."
+                },
+                {
+                    "text": "Sind sie Vorreiter bei der klimagerechten Sanierung des deutschen Wohnbestands?"
+                },
+                {
+                    "text": "Oder richten auch sie ihr Gesch\u00e4ftsmodell inzwischen haupts\u00e4chlich danach aus, wo der Staat wann am meisten F\u00f6rderungen und Steuergelder hineinpumpt?"
+                },
+                {
+                    "text": "Dar\u00fcber informiert in diesem Podcast Hannah Steinharter, Immobilienexpertin des manager magazins, im Gespr\u00e4ch mit Chefredakteur Sven Clausen."
+                },
+                {
+                    "text": "Im Podcast \"Das Thema\" informiert Chefredakteur Sven Clausen jede Woche \u00fcber den internen Recherchestand zu jeweils einem f\u00fcr die deutsche Wirtschaft entscheidenden Thema."
+                },
+                {
+                    "text": "Sie k\u00f6nnen den Podcast \u00fcber manager magazin sowie auf Spotify, Apple, Deezer und bei Google abonnieren."
+                }
+            ],
+            "occupations": [
+                {
+                    "text": "Chefredakteur"
+                }
+            ],
+            "directQuotes": [],
+            "quotedInTitle": false,
+            "quotedInIntro": false
+        }
+    ]
+}

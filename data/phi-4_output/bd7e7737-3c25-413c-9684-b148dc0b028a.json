@@ -1,0 +1,190 @@
+{
+    "persons": [
+        {
+            "name": "Jalil Dabit",
+            "alternativeNames": [],
+            "age": -1,
+            "sex": "male",
+            "occurences": {
+                "total": 8,
+                "firstNameOnly": 0,
+                "lastNameOnly": 6,
+                "fullName": 2,
+                "nickname": 0
+            },
+            "inTitle": false,
+            "inIntro": false,
+            "_name": {
+                "firstname": "Jalil",
+                "lastname": "Dabit",
+                "nickname": null,
+                "alternative_names": [],
+                "academic_title": null,
+                "nobility_title_or_rank": null
+            },
+            "descriptiveTexts": [
+                {
+                    "text": "Ben Davids Gesch\u00e4ftspartner Jalil Dabit setzt sich dazu."
+                },
+                {
+                    "text": "Er legt zwei Gurken auf den Tisch, die er tags zuvor aus Israel mitgebracht hat: Sie sind kaum gr\u00f6\u00dfer als eine Gew\u00fcrzgurke, ihre glatte Haut schimmert hellgr\u00fcn, eher wie eine Zucchini als wie eine Gurke."
+                },
+                {
+                    "text": "Jalil Dabit sagt: \u00bbWenn du etwas isst, ist da nicht nur der Geschmack. Es ist auch der Geruch, es ist das Ger\u00e4usch: Wenn du in diese Gurke bei\u00dft, knackt sie richtig.\u00ab"
+                },
+                {
+                    "text": "\u00bbFr\u00fcher gab es Gurken nur im Sommer\u00ab, sagt Dabit."
+                },
+                {
+                    "text": "Dabit erz\u00e4hlt aus der Zeit, als er ein Kind war: Sein Vater sei damals f\u00fcr die besten Gurken nach Gaza gefahren: lange, d\u00fcnne Gurken, die sich kringelten wie Luftschlangen."
+                },
+                {
+                    "text": "Bei ihnen zu Hause, sagt Dabit, gab es die Gurke auf einem Fr\u00fcchteteller, aufgeschnitten neben \u00c4pfeln."
+                },
+                {
+                    "text": "Dabits Vater und Gro\u00dfvater waren bereits Gastronomen."
+                },
+                {
+                    "text": "Aber er wollte, genau wie Ben David, eigentlich nie ein Restaurant er\u00f6ffnen."
+                },
+                {
+                    "text": "Nun haben die beiden einen Preis f\u00fcr ein Kochbuch gewonnen, das sie zusammen geschrieben haben."
+                },
+                {
+                    "text": "Immer wenn sie von ihrer Heimat erz\u00e4hlen, sagen sie \u00bbIsrael-Pal\u00e4stina\u00ab."
+                },
+                {
+                    "text": "W\u00e4hrend Dabit erz\u00e4hlt, merke ich, dass ich immer noch den Geschmack der israelischen Gurke im Mund habe."
+                },
+                {
+                    "text": "Der Geschmack, sagt Dabit, \u00bbist ein St\u00fcck Heimat\u00ab."
+                }
+            ],
+            "occupations": [],
+            "directQuotes": [
+                {
+                    "text": "Wenn du etwas isst, ist da nicht nur der Geschmack. Es ist auch der Geruch, es ist das Ger\u00e4usch: Wenn du in diese Gurke bei\u00dft, knackt sie richtig."
+                },
+                {
+                    "text": "Fr\u00fcher gab es Gurken nur im Sommer"
+                },
+                {
+                    "text": "Aber mit der Technologie, die wir heute haben, gibt es die Gurken das ganze Jahr \u00fcber."
+                },
+                {
+                    "text": "Die Gurke zu vermissen, bedeutet, den Duft deines Zuhauses, deiner Kindheit zu vermissen."
+                },
+                {
+                    "text": "ist ein St\u00fcck Heimat"
+                }
+            ],
+            "quotedInTitle": false,
+            "quotedInIntro": false
+        },
+        {
+            "name": "Oz Ben David",
+            "alternativeNames": [],
+            "age": -1,
+            "sex": "male",
+            "occurences": {
+                "total": 11,
+                "firstNameOnly": 0,
+                "lastNameOnly": 9,
+                "fullName": 2,
+                "nickname": 0
+            },
+            "inTitle": false,
+            "inIntro": false,
+            "_name": {
+                "firstname": "Oz",
+                "lastname": "Ben David",
+                "nickname": null,
+                "alternative_names": [],
+                "academic_title": null,
+                "nobility_title_or_rank": null
+            },
+            "descriptiveTexts": [
+                {
+                    "text": "Wenige Tage sp\u00e4ter setzt sich Oz Ben David an einen seiner Restauranttische."
+                },
+                {
+                    "text": "Ein Restaurant er\u00f6ffnen wollte er nie."
+                },
+                {
+                    "text": "Ich sitze kaum, da f\u00e4ngt Ben David an, auf Englisch zu erz\u00e4hlen: \u00bbDie Geschichte der Gurke beginnt mit einer Frucht, die man heute in den arabischen L\u00e4den rund um den Hermannplatz finden kann\u00ab, im Zentrum Neuk\u00f6llns."
+                },
+                {
+                    "text": "Von der Fakkus, erz\u00e4hlt Ben David, w\u00fcrden auch die Gurken abstammen, die man in Israel isst."
+                },
+                {
+                    "text": "Ben Davids Gesch\u00e4ftspartner Jalil Dabit setzt sich dazu."
+                },
+                {
+                    "text": "Als Oz Ben David das erste Mal in Berlin einkaufen ging, erz\u00e4hlt er, habe er sich erschreckt: \u00bbEs war sehr merkw\u00fcrdig, diese Gurken zu sehen. So etwas haben wir in Israel gar nicht. Und sie schmecken nach nichts.\u00ab"
+                },
+                {
+                    "text": "Er holt ein Messer hervor und schneidet die Supermarktgurke an."
+                },
+                {
+                    "text": "Ben David schiebt sich eine Scheibe in den Mund."
+                },
+                {
+                    "text": "\u00bbDa ist kein Geschmack\u00ab, sagt er."
+                },
+                {
+                    "text": "Als wir probieren, sagt Ben David: \u00bbDiese schmeckt blumiger.\u00ab"
+                },
+                {
+                    "text": "Er \u00f6ffnet seine Hand vor dem Mund, als w\u00fcrde eine Bl\u00fcte aufgehen."
+                },
+                {
+                    "text": "Ben David hat recht: Sie hat auch etwas von Zitrone und Kr\u00e4utern."
+                },
+                {
+                    "text": "\u00bbEs ist auch die Textur\u00ab, sagt Ben David."
+                },
+                {
+                    "text": "\u00bbDie, die man hier bekommt, sind nicht gut genug\u00ab, sagt Ben David."
+                },
+                {
+                    "text": "Aber er wollte, genau wie Ben David, eigentlich nie ein Restaurant er\u00f6ffnen."
+                },
+                {
+                    "text": "Nun haben die beiden einen Preis f\u00fcr ein Kochbuch gewonnen, das sie zusammen geschrieben haben."
+                },
+                {
+                    "text": "Immer wenn sie von ihrer Heimat erz\u00e4hlen, sagen sie \u00bbIsrael-Pal\u00e4stina\u00ab."
+                }
+            ],
+            "occupations": [],
+            "directQuotes": [
+                {
+                    "text": "Die Geschichte der Gurke beginnt mit einer Frucht, die man heute in den arabischen L\u00e4den rund um den Hermannplatz finden kann"
+                },
+                {
+                    "text": "Sie hei\u00dft \u203aFakkus\u2039."
+                },
+                {
+                    "text": "Sie ist quasi ihr Cousin."
+                },
+                {
+                    "text": "Es war sehr merkw\u00fcrdig, diese Gurken zu sehen. So etwas haben wir in Israel gar nicht. Und sie schmecken nach nichts."
+                },
+                {
+                    "text": "Da ist kein Geschmack"
+                },
+                {
+                    "text": "Diese schmeckt blumiger."
+                },
+                {
+                    "text": "Es ist auch die Textur"
+                },
+                {
+                    "text": "Die, die man hier bekommt, sind nicht gut genug"
+                }
+            ],
+            "quotedInTitle": false,
+            "quotedInIntro": false
+        }
+    ]
+}

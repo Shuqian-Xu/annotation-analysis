@@ -1,0 +1,211 @@
+{
+    "persons": [
+        {
+            "name": "Matthias Bauer",
+            "alternativeNames": [],
+            "age": -1,
+            "sex": "male",
+            "occurences": {
+                "total": 5,
+                "firstNameOnly": 0,
+                "lastNameOnly": 3,
+                "fullName": 2,
+                "nickname": 0
+            },
+            "inTitle": false,
+            "inIntro": false,
+            "_name": {
+                "firstname": "Matthias",
+                "lastname": "Bauer",
+                "nickname": null,
+                "alternative_names": [],
+                "academic_title": null,
+                "nobility_title_or_rank": null
+            },
+            "descriptiveTexts": [
+                {
+                    "text": "Laut Matthias Bauer von der Verbraucherzentrale Baden-W\u00fcrttemberg ist die Erhebung anderer Geb\u00fchren als der Maklercourtage in der Regel nicht zul\u00e4ssig."
+                },
+                {
+                    "text": "Werden Maklervertr\u00e4ge per Post, Telefon, E-Mail, Internet oder im Rahmen eines Haust\u00fcrgesch\u00e4fts geschlossen, stehe Verbrauchern grunds\u00e4tzlich ein 14-t\u00e4giges Widerrufsrecht zu, sagt Verbrauchersch\u00fctzer Bauer."
+                },
+                {
+                    "text": "\"Tut er das nicht, kann der Vertrag noch bis zu einem Jahr und 14 Tage nach Vertragsschluss widerrufen werden\", sagt Bauer."
+                },
+                {
+                    "text": "Matthias Bauer r\u00e4t zu einer Laufzeitvereinbarung von drei bis sechs Monaten."
+                },
+                {
+                    "text": "Die Vertr\u00e4ge sehen Bauer zufolge h\u00e4ufig befristete K\u00fcndigungsklauseln vor."
+                }
+            ],
+            "occupations": [],
+            "directQuotes": [
+                {
+                    "text": "Tut er das nicht, kann der Vertrag noch bis zu einem Jahr und 14 Tage nach Vertragsschluss widerrufen werden"
+                }
+            ],
+            "quotedInTitle": false,
+            "quotedInIntro": false
+        },
+        {
+            "name": "Inka-Marie Storm",
+            "alternativeNames": [
+                "Inka Storm"
+            ],
+            "age": -1,
+            "sex": "female",
+            "occurences": {
+                "total": 8,
+                "firstNameOnly": 0,
+                "lastNameOnly": 4,
+                "fullName": 4,
+                "nickname": 0
+            },
+            "inTitle": false,
+            "inIntro": false,
+            "_name": {
+                "firstname": "Inka-Marie",
+                "lastname": "Storm",
+                "nickname": null,
+                "alternative_names": [
+                    "Inka Storm"
+                ],
+                "academic_title": null,
+                "nobility_title_or_rank": null
+            },
+            "descriptiveTexts": [
+                {
+                    "text": "\"Voraussetzung f\u00fcr einen wirksamen Vermittlungsvertrag ist, dass der Makler beauftragt und der Vertrag in Textform geschlossen wird\", sagt Inka-Marie Storm, Chefjustiziarin beim Eigent\u00fcmerverband Haus & Grund Deutschland."
+                },
+                {
+                    "text": "Beim Immobilienkauf gebe es keine gesetzlich festgeschriebene H\u00f6chstgrenze bei der Provision, sagt Inka-Marie Storm."
+                },
+                {
+                    "text": "Allerdings k\u00f6nnten die Kosten hierbei bis zur H\u00e4lfte auf den anderen Vertragspartner \u00fcbertragen werden, so Storm."
+                },
+                {
+                    "text": "\"Danach hat immer derjenige die Maklercourtage zu zahlen, der den Makler beauftragt hat\", sagt Storm."
+                },
+                {
+                    "text": "In der Regel werden laut Storm aber auch hier eineinhalb bis zwei Monatskaltmieten veranschlagt."
+                },
+                {
+                    "text": "Laut Inka-Marie Storm d\u00fcrften Makler in so einem Fall lediglich Reise- und Portokosten als Aufwandsentsch\u00e4digung geltend machen, wenn sie diese konkret nachweisen k\u00f6nnen."
+                },
+                {
+                    "text": "F\u00fcr fehlerhafte Angaben in einem Maklerexpos\u00e9 kann ein Auftraggeber mit haften, sagt Inka-Marie Storm."
+                },
+                {
+                    "text": "Zudem hat der Makler laut Storm auch die Pflicht, den Interessenten zu beraten."
+                }
+            ],
+            "occupations": [
+                {
+                    "text": "Chefjustiziarin beim Eigent\u00fcmerverband Haus & Grund Deutschland"
+                }
+            ],
+            "directQuotes": [
+                {
+                    "text": "Voraussetzung f\u00fcr einen wirksamen Vermittlungsvertrag ist, dass der Makler beauftragt und der Vertrag in Textform geschlossen wird"
+                },
+                {
+                    "text": "Danach hat immer derjenige die Maklercourtage zu zahlen, der den Makler beauftragt hat"
+                },
+                {
+                    "text": "Der Makler hat allerdings keinen Anspruch auf ein Honorar, wenn ein bestehendes Mietverh\u00e4ltnis lediglich fortgesetzt, verl\u00e4ngert oder erneuert wird"
+                },
+                {
+                    "text": "Intransparente Pauschalen sind nicht erlaubt."
+                }
+            ],
+            "quotedInTitle": false,
+            "quotedInIntro": false
+        },
+        {
+            "name": "Manuela Reibold",
+            "alternativeNames": [
+                "Reibold-Rolinger"
+            ],
+            "age": -1,
+            "sex": "female",
+            "occurences": {
+                "total": 3,
+                "firstNameOnly": 0,
+                "lastNameOnly": 1,
+                "fullName": 2,
+                "nickname": 0
+            },
+            "inTitle": false,
+            "inIntro": false,
+            "_name": {
+                "firstname": "Manuela",
+                "lastname": "Reibold",
+                "nickname": null,
+                "alternative_names": [
+                    "Reibold-Rolinger"
+                ],
+                "academic_title": null,
+                "nobility_title_or_rank": "Reichsgr\u00e4fin"
+            },
+            "descriptiveTexts": [
+                {
+                    "text": "Die Folge: Selbst bei erfolgreicher Vermittlung k\u00f6nne ein Makler dann keine Courtage verlangen, sagt Rechtsanw\u00e4ltin Manuela Reibold-Rolinger von der Arbeitsgemeinschaft Bau- und Immobilienrecht im Deutschen Anwaltverein."
+                },
+                {
+                    "text": "Rechtsanw\u00e4ltin Manuela Reibold-Rolinger empfiehlt daher, keinen eigenst\u00e4ndigen Reservierungsvertrag abzuschlie\u00dfen und im Idealfall auch keinen Maklervertrag zu unterzeichnen, in dem eine Reservierungsgeb\u00fchr vorgesehen ist."
+                },
+                {
+                    "text": "Aber Vorsicht: Eine Reservierungsvereinbarung bietet Reibold-Rolinger zufolge keinen nennenswerten Vorteil f\u00fcr Interessenten."
+                }
+            ],
+            "occupations": [
+                {
+                    "text": "Eine Reservierungsvereinbarung bietet Reibold-Rolinger zufolge keinen nennenswerten Vorteil f\u00fcr Interessenten."
+                },
+                {
+                    "text": "Rechtsanw\u00e4ltin"
+                }
+            ],
+            "directQuotes": [],
+            "quotedInTitle": false,
+            "quotedInIntro": false
+        },
+        {
+            "name": "Stephen Paul",
+            "alternativeNames": [],
+            "age": -1,
+            "sex": "male",
+            "occurences": {
+                "total": 1,
+                "firstNameOnly": 0,
+                "lastNameOnly": 0,
+                "fullName": 1,
+                "nickname": 0
+            },
+            "inTitle": false,
+            "inIntro": false,
+            "_name": {
+                "firstname": "Stephen",
+                "lastname": "Paul",
+                "nickname": null,
+                "alternative_names": [],
+                "academic_title": null,
+                "nobility_title_or_rank": null
+            },
+            "descriptiveTexts": [
+                {
+                    "text": "\"Verbraucherinnen und Verbraucher m\u00fcssen erst dann eine Provisionszahlung an den Makler leisten, wenn es zu einem erfolgreichen Abschluss eines Kauf- oder Mietvertrags kommt\", sagt Stephen Paul vom Immobilienverband Deutschland (IVD)."
+                }
+            ],
+            "occupations": [],
+            "directQuotes": [
+                {
+                    "text": "Verbraucherinnen und Verbraucher m\u00fcssen erst dann eine Provisionszahlung an den Makler leisten, wenn es zu einem erfolgreichen Abschluss eines Kauf- oder Mietvertrags kommt"
+                }
+            ],
+            "quotedInTitle": false,
+            "quotedInIntro": false
+        }
+    ]
+}

@@ -1,0 +1,215 @@
+{
+    "persons": [
+        {
+            "name": "Christian Horner",
+            "alternativeNames": [],
+            "age": -1,
+            "sex": "male",
+            "occurences": {
+                "total": 3,
+                "firstNameOnly": 0,
+                "lastNameOnly": 2,
+                "fullName": 1,
+                "nickname": 0
+            },
+            "inTitle": false,
+            "inIntro": false,
+            "_name": {
+                "firstname": "Christian",
+                "lastname": "Horner",
+                "nickname": null,
+                "alternative_names": [],
+                "academic_title": null,
+                "nobility_title_or_rank": null
+            },
+            "descriptiveTexts": [
+                {
+                    "text": "Interne Untersuchung gegen Teamchef Horner"
+                },
+                {
+                    "text": "Da kann es Red Bull wohl auch verkraften, dass der sprichw\u00f6rtliche Elefant immer noch im Raum steht: Was passiert mit Teamchef Christian Horner, gegen den eine interne Untersuchung wegen \u00bbunangemessenen Verhaltens\u00ab, wie es \u00f6ffentlich vage hei\u00dft, gegen\u00fcber einer Mitarbeiterin l\u00e4uft."
+                },
+                {
+                    "text": "Noch soll Horner die R\u00fcckendeckung der thail\u00e4ndischen Mehrheitseigner von Red Bull genie\u00dfen."
+                },
+                {
+                    "text": "Die Frage ist dennoch, ob er auf Dauer zu halten sein wird."
+                }
+            ],
+            "occupations": [],
+            "directQuotes": [],
+            "quotedInTitle": false,
+            "quotedInIntro": false
+        },
+        {
+            "name": "Helmut Marko",
+            "alternativeNames": [],
+            "age": -1,
+            "sex": "male",
+            "occurences": {
+                "total": 2,
+                "firstNameOnly": 0,
+                "lastNameOnly": 1,
+                "fullName": 1,
+                "nickname": 0
+            },
+            "inTitle": false,
+            "inIntro": false,
+            "_name": {
+                "firstname": "Helmut",
+                "lastname": "Marko",
+                "nickname": null,
+                "alternative_names": [],
+                "academic_title": null,
+                "nobility_title_or_rank": null
+            },
+            "descriptiveTexts": [
+                {
+                    "text": "Red-Bull-Motorsport-Koordinator Helmut Marko stapelte eher tief, sprach von 0,3 Sekunden Vorsprung des RB20, r\u00e4umt aber ein, man habe \u00bbein anst\u00e4ndiges Auto\u00ab."
+                },
+                {
+                    "text": "Das Handling passe, und der Wagen reagierte gut auf \u00c4nderungen bei der Abstimmung, so Marko."
+                }
+            ],
+            "occupations": [
+                {
+                    "text": "Red-Bull-Motorsport-Koordinator"
+                }
+            ],
+            "directQuotes": [
+                {
+                    "text": "ein anst\u00e4ndiges Auto"
+                }
+            ],
+            "quotedInTitle": false,
+            "quotedInIntro": false
+        },
+        {
+            "name": "Adrian Newey",
+            "alternativeNames": [],
+            "age": -1,
+            "sex": "male",
+            "occurences": {
+                "total": 2,
+                "firstNameOnly": 0,
+                "lastNameOnly": 0,
+                "fullName": 2,
+                "nickname": 0
+            },
+            "inTitle": false,
+            "inIntro": true,
+            "_name": {
+                "firstname": "Adrian",
+                "lastname": "Newey",
+                "nickname": null,
+                "alternative_names": [],
+                "academic_title": null,
+                "nobility_title_or_rank": null
+            },
+            "descriptiveTexts": [
+                {
+                    "text": "Red Bull hatte 2023 das dominanteste Auto und hat dank Designgenie Adrian Newey noch mal nachgelegt."
+                },
+                {
+                    "text": "Doch da wurde die Rechnung ohne Designgenie Adrian Newey gemacht."
+                },
+                {
+                    "text": "Der Red-Bull-Technikchef dachte n\u00e4mlich schon weiter: \u00bbWir wussten, dass uns die anderen kopieren w\u00fcrden. Wenn wir einfach nur das Vorjahresauto weiterentwickelt h\u00e4tten, w\u00e4re das nicht genug gewesen\u00ab, sagte er."
+                }
+            ],
+            "occupations": [
+                {
+                    "text": "Red-Bull-Technikchef"
+                },
+                {
+                    "text": "Designgenie"
+                }
+            ],
+            "directQuotes": [
+                {
+                    "text": "Wir wussten, dass uns die anderen kopieren w\u00fcrden. Wenn wir einfach nur das Vorjahresauto weiterentwickelt h\u00e4tten, w\u00e4re das nicht genug gewesen"
+                },
+                {
+                    "text": "Deshalb mussten wir uns etwas Neues einfallen lassen."
+                }
+            ],
+            "quotedInTitle": false,
+            "quotedInIntro": true
+        },
+        {
+            "name": "Max Verstappen",
+            "alternativeNames": [],
+            "age": -1,
+            "sex": "male",
+            "occurences": {
+                "total": 2,
+                "firstNameOnly": 0,
+                "lastNameOnly": 1,
+                "fullName": 1,
+                "nickname": 0
+            },
+            "inTitle": false,
+            "inIntro": false,
+            "_name": {
+                "firstname": "Max",
+                "lastname": "Verstappen",
+                "nickname": null,
+                "alternative_names": [],
+                "academic_title": null,
+                "nobility_title_or_rank": null
+            },
+            "descriptiveTexts": [
+                {
+                    "text": "Schon am ersten Tag der Formel-1-Testfahrten in Bahrain war die Konkurrenz geschockt: Das Weltmeisterteam Red Bull mit Max Verstappen am Steuer fuhr der Konkurrenz davon, an den Kr\u00e4fteverh\u00e4ltnissen der vergangenen Saison schien sich auch eine Woche vor Saisonbeginn nichts ge\u00e4ndert zu haben."
+                },
+                {
+                    "text": "Weltmeister Verstappen meint: \u00bbDas war ein guter Start f\u00fcr uns. Die Balance hat direkt gepasst.\u00ab"
+                }
+            ],
+            "occupations": [],
+            "directQuotes": [
+                {
+                    "text": "Das war ein guter Start f\u00fcr uns. Die Balance hat direkt gepasst."
+                }
+            ],
+            "quotedInTitle": false,
+            "quotedInIntro": false
+        },
+        {
+            "name": "Damon Hill",
+            "alternativeNames": [],
+            "age": -1,
+            "sex": "male",
+            "occurences": {
+                "total": 1,
+                "firstNameOnly": 0,
+                "lastNameOnly": 0,
+                "fullName": 1,
+                "nickname": 0
+            },
+            "inTitle": false,
+            "inIntro": false,
+            "_name": {
+                "firstname": "Damon",
+                "lastname": "Hill",
+                "nickname": null,
+                "alternative_names": [],
+                "academic_title": null,
+                "nobility_title_or_rank": null
+            },
+            "descriptiveTexts": [
+                {
+                    "text": "\u00dcber eine Sekunde schneller sei der neue Red Bull RB20 gegen\u00fcber der Konkurrenz, schrieb etwa Damon Hill auf X: \u00bbIhr G\u00f6tter! Habt ihr kein Erbarmen?\u00ab, schrieb der britische Ex-Weltmeister dazu."
+                }
+            ],
+            "occupations": [],
+            "directQuotes": [
+                {
+                    "text": "Ihr G\u00f6tter! Habt ihr kein Erbarmen?"
+                }
+            ],
+            "quotedInTitle": false,
+            "quotedInIntro": false
+        }
+    ]
+}

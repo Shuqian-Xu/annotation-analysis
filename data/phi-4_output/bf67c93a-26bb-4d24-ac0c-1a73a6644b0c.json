@@ -1,0 +1,195 @@
+{
+    "persons": [
+        {
+            "name": "Bianka Knoblach",
+            "alternativeNames": [],
+            "age": -1,
+            "sex": "female",
+            "occurences": {
+                "total": 14,
+                "firstNameOnly": 0,
+                "lastNameOnly": 12,
+                "fullName": 2,
+                "nickname": 0
+            },
+            "inTitle": false,
+            "inIntro": true,
+            "_name": {
+                "firstname": "Bianka",
+                "lastname": "Knoblach",
+                "nickname": null,
+                "alternative_names": [],
+                "academic_title": null,
+                "nobility_title_or_rank": null
+            },
+            "descriptiveTexts": [
+                {
+                    "text": "Die Branchenexperten Dietmar Fink und Bianka Knoblach sagen, wohin sich der Consultingmarkt entwickeln wird, welche Ratgebertypen k\u00fcnftig verlangt werden und wie sich die anhaltende Dominanz der fr\u00fcheren Skandalfirma McKinsey erkl\u00e4ren l\u00e4sst."
+                },
+                {
+                    "text": "Zusammen mit Bianka Knoblach (49) erforscht Fink seit vielen Jahren den hiesigen Beratermarkt."
+                },
+                {
+                    "text": "Fink und Knoblach sind Gesch\u00e4ftsf\u00fchrer der Wissenschaftlichen Gesellschaft f\u00fcr Management und Beratung (WGMB); die WGMB publiziert die Studie."
+                },
+                {
+                    "text": "Frau Knoblach, Herr Fink, Sie haben gerade wieder exklusiv f\u00fcr manager magazin die Leistungen und F\u00e4higkeiten der in Deutschland f\u00fchrenden Unternehmensberater untersucht."
+                },
+                {
+                    "text": "F\u00fcr dieses Jahr sagen Sie der Branche ein Wachstumsplus von 11 Prozent voraus."
+                },
+                {
+                    "text": "K\u00f6nnen Sie diese Prognose aufrechterhalten?"
+                },
+                {
+                    "text": "Fink: Wir halten sie im Moment noch aufrecht."
+                },
+                {
+                    "text": "Knoblach: Der Bedarf der Unternehmen an digitalen L\u00f6sungen ist ungebrochen."
+                },
+                {
+                    "text": "Knoblach: Das Beispiel beweist: Das Handfeste ist gefragt, nicht mehr das Wolkige, nach dem Motto: Wir m\u00fcssen jetzt disruptiver werden und brauchen deshalb \u2013 egal welche \u2013 digitale Gesch\u00e4ftsmodelle."
+                },
+                {
+                    "text": "Knoblach: Wir haben noch nie so viele niedergeschlagene und frustrierte Gespr\u00e4chspartner gehabt wie in diesem Jahr."
+                },
+                {
+                    "text": "Knoblach: Die Restrukturierung ist ein v\u00f6llig anderer Recruitingmarkt."
+                },
+                {
+                    "text": "Knoblach: Es w\u00e4re unklug, sich zu eng aneinander zu binden."
+                },
+                {
+                    "text": "Knoblach: Der Wirecard-Effekt, den wir in der vergangenen Studie gemessen haben, ist wieder verpufft."
+                },
+                {
+                    "text": "Ich sehe den Grund woanders: Die Wirtschaftspr\u00fcfer wissen nicht so recht, welches Gesch\u00e4ft sie eigentlich im Consulting betreiben wollen."
+                },
+                {
+                    "text": "Knoblach: Die Kultur hat sich unheimlich ver\u00e4ndert."
+                },
+                {
+                    "text": "Knoblach: Ich glaube schon."
+                },
+                {
+                    "text": "Knoblach: Es gibt Ausnahmen."
+                },
+                {
+                    "text": "Was meinen Sie damit?"
+                },
+                {
+                    "text": "Knoblach: F\u00fcr unsere m\u00e4nnlichen Studenten wird es immer schwieriger, \u00fcberhaupt in die Recruitingprogramme der Berater aufgenommen zu werden."
+                }
+            ],
+            "occupations": [],
+            "directQuotes": [],
+            "quotedInTitle": false,
+            "quotedInIntro": true
+        },
+        {
+            "name": "Dietmar Fink",
+            "alternativeNames": [],
+            "age": -1,
+            "sex": "male",
+            "occurences": {
+                "total": 18,
+                "firstNameOnly": 0,
+                "lastNameOnly": 16,
+                "fullName": 2,
+                "nickname": 0
+            },
+            "inTitle": false,
+            "inIntro": true,
+            "_name": {
+                "firstname": "Dietmar",
+                "lastname": "Fink",
+                "nickname": null,
+                "alternative_names": [],
+                "academic_title": "Professor",
+                "nobility_title_or_rank": null
+            },
+            "descriptiveTexts": [
+                {
+                    "text": "Die Branchenexperten Dietmar Fink und Bianka Knoblach sagen, wohin sich der Consultingmarkt entwickeln wird, welche Ratgebertypen k\u00fcnftig verlangt werden und wie sich die anhaltende Dominanz der fr\u00fcheren Skandalfirma McKinsey erkl\u00e4ren l\u00e4sst."
+                },
+                {
+                    "text": "Der Wirtschaftsprofessor Dietmar Fink (56) ist der profilierteste Consultingkenner in Deutschland."
+                },
+                {
+                    "text": "Er lehrt an der Hochschule Bonn-Rhein-Sieg."
+                },
+                {
+                    "text": "Zusammen mit Bianka Knoblach (49) erforscht Fink seit vielen Jahren den hiesigen Beratermarkt."
+                },
+                {
+                    "text": "Fink und Knoblach sind Gesch\u00e4ftsf\u00fchrer der Wissenschaftlichen Gesellschaft f\u00fcr Management und Beratung (WGMB); die WGMB publiziert die Studie."
+                },
+                {
+                    "text": "Frau Knoblach, Herr Fink, Sie haben gerade wieder exklusiv f\u00fcr manager magazin die Leistungen und F\u00e4higkeiten der in Deutschland f\u00fchrenden Unternehmensberater untersucht."
+                },
+                {
+                    "text": "F\u00fcr dieses Jahr sagen Sie der Branche ein Wachstumsplus von 11 Prozent voraus."
+                },
+                {
+                    "text": "K\u00f6nnen Sie diese Prognose aufrechterhalten?"
+                },
+                {
+                    "text": "Fink: Wir halten sie im Moment noch aufrecht."
+                },
+                {
+                    "text": "Fink: Ja, es ist eine Normalisierung auf hohem Niveau."
+                },
+                {
+                    "text": "Fink: Absolut."
+                },
+                {
+                    "text": "Fink: Sich nach au\u00dfen als besonders wertvolles \u00f6kologisches Unternehmen darzustellen, das ist bei vielen die Hauptmotivation."
+                },
+                {
+                    "text": "Fink: Exakt."
+                },
+                {
+                    "text": "Fink: Die gro\u00dfen Vier haben sich \u00fcber Jahre als Spitzengruppe gefestigt: Das Trio McKinsey, BCG, Bain, und Oliver Wyman als Nummer vier."
+                },
+                {
+                    "text": "Fink: Aus dem Ausland h\u00f6re ich schon, dass die vergangenen Skandale Auswirkungen haben."
+                },
+                {
+                    "text": "Und wenn es McKinsey ist, ist es zweitrangig, ob die Firma in irgendwelche Skandale verwickelt war, mit denen die Berater, mit denen ich arbeiten will, ohnehin nichts zu tun haben."
+                },
+                {
+                    "text": "Fink: So erleben wir es in unseren Gespr\u00e4chen."
+                },
+                {
+                    "text": "Fink: McKinsey wirkt nicht mehr wie eine Firma aus einem Guss, sondern viele Kunden sehen in ihr eher eine gro\u00dfe Franchisekette."
+                },
+                {
+                    "text": "Fink: Es wundert mich, dass der Schnitt so sp\u00e4t kommt."
+                },
+                {
+                    "text": "Ich sehe McKinsey aber absolut nicht in der Krise."
+                },
+                {
+                    "text": "Fink: Die Firma macht einen gro\u00dfen Teil des Gesch\u00e4fts, indem sie f\u00fcr ihre Kunden komplette Abteilungen \u00fcbernehmen, wie Personal, Recht und Buchhaltung."
+                },
+                {
+                    "text": "Fink: Es ist mittlerweile Pflicht, dass die Berater das, was sie in Powerpoint-Vorlagen zeigen, auch anschlie\u00dfend in den Unternehmen umsetzen."
+                },
+                {
+                    "text": "Fink: In den K\u00f6pfen vieler Kunden sitzt noch das Klischee des arroganten Beraters, der durch die Flure streift und Mitarbeiter entl\u00e4sst."
+                }
+            ],
+            "occupations": [
+                {
+                    "text": "Wirtschaftsprofessor"
+                },
+                {
+                    "text": "Gesch\u00e4ftsf\u00fchrer der Wissenschaftlichen Gesellschaft f\u00fcr Management und Beratung (WGMB)"
+                }
+            ],
+            "directQuotes": [],
+            "quotedInTitle": false,
+            "quotedInIntro": true
+        }
+    ]
+}

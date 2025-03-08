@@ -1,0 +1,250 @@
+{
+    "persons": [
+        {
+            "name": "Uwe Storch",
+            "alternativeNames": [],
+            "age": -1,
+            "sex": "male",
+            "occurences": {
+                "total": 1,
+                "firstNameOnly": 0,
+                "lastNameOnly": 0,
+                "fullName": 1,
+                "nickname": 0
+            },
+            "inTitle": false,
+            "inIntro": false,
+            "_name": {
+                "firstname": "Uwe",
+                "lastname": "Storch",
+                "nickname": null,
+                "alternative_names": [],
+                "academic_title": null,
+                "nobility_title_or_rank": null
+            },
+            "descriptiveTexts": [
+                {
+                    "text": "Die Gegner fahren gro\u00dfe Gesch\u00fctze auf: Uwe Storch wittert \"erhebliche Konsequenzen f\u00fcr eine werbefinanzierte Medienvielfalt und den demokratischen Diskurs.\""
+                },
+                {
+                    "text": "Er ist Vorsitzender der Organisation Werbungtreibende im Markenverband (OWM) und Mediachef des S\u00fc\u00dfwarenkonzerns Ferrero."
+                }
+            ],
+            "occupations": [],
+            "directQuotes": [
+                {
+                    "text": "erhebliche Konsequenzen f\u00fcr eine werbefinanzierte Medienvielfalt und den demokratischen Diskurs."
+                }
+            ],
+            "quotedInTitle": false,
+            "quotedInIntro": false
+        },
+        {
+            "name": "Enrique Strelow",
+            "alternativeNames": [],
+            "age": -1,
+            "sex": "male",
+            "occurences": {
+                "total": 4,
+                "firstNameOnly": 0,
+                "lastNameOnly": 1,
+                "fullName": 3,
+                "nickname": 0
+            },
+            "inTitle": false,
+            "inIntro": true,
+            "_name": {
+                "firstname": "Enrique",
+                "lastname": "Strelow",
+                "nickname": null,
+                "alternative_names": [],
+                "academic_title": null,
+                "nobility_title_or_rank": null
+            },
+            "descriptiveTexts": [
+                {
+                    "text": "Der langj\u00e4hrige Ferrero-Manager Enrique Strelow erkl\u00e4rt, warum ihm der Vorsto\u00df nicht weit genug geht."
+                },
+                {
+                    "text": "Der langj\u00e4hrige Ferrero-Manager Enrique Strelow wei\u00df genau, warum wir uns so leicht zum Naschen verlocken lassen."
+                },
+                {
+                    "text": "\nmanger magazin: Herr Strelow, wie sinnvoll ist das Vorhaben von Minister \u00d6zdemir?"
+                },
+                {
+                    "text": "Enrique Strelow: Ich halte es f\u00fcr zwingend."
+                },
+                {
+                    "text": "Das m\u00fcssen Sie bitte genauer erkl\u00e4ren."
+                },
+                {
+                    "text": "Ich halte es auch nicht f\u00fcr die Aufgabe einzelner Unternehmen, unsere Medienvielfalt zu garantieren."
+                },
+                {
+                    "text": "Das halte ich im Zweifel f\u00fcr eine gesellschaftspolitische Aufgabe."
+                },
+                {
+                    "text": "Sie besch\u00e4ftigen sich seit Jahren mit neurowissenschaftlicher Forschung und der Frage, warum wir kaufen, was wir kaufen."
+                },
+                {
+                    "text": "Sie haben selbst jahrelang f\u00fcr Ferrero neue Werbespots konzipiert, unter anderem mit Stars wie Supermodel Claudia Schiffer."
+                },
+                {
+                    "text": "Bereuen Sie das inzwischen?"
+                },
+                {
+                    "text": "Ich war jung und brauchte das Geld."
+                },
+                {
+                    "text": "Aber Spa\u00df beiseite: Ich w\u00fcnsche mir tats\u00e4chlich aus ganzem Herzen, ich h\u00e4tte damals einen vollkommen anderen Beruf ergriffen."
+                },
+                {
+                    "text": "Wenn ich damals gewusst h\u00e4tte, was ich heute wei\u00df, h\u00e4tte ich das nicht mit meinem Gewissen vereinbaren k\u00f6nnen."
+                },
+                {
+                    "text": "Um etwas zur\u00fcckzugeben, versuche ich mit wissenschaftlichen Methoden Kindern zu helfen, die an ADHS leiden."
+                },
+                {
+                    "text": "Ich habe mich intensiv mit Neurowissenschaften besch\u00e4ftigt."
+                },
+                {
+                    "text": "Ich wundere mich immer wieder, wie lange es dauern kann, bis Ma\u00dfnahmen wie eine Ampel-Kennzeichnung auf Lebensmitteln umgesetzt werden."
+                }
+            ],
+            "occupations": [],
+            "directQuotes": [
+                {
+                    "text": "Nein"
+                },
+                {
+                    "text": "Ich halte es f\u00fcr zwingend. Wir Menschen handeln nicht vern\u00fcnftig. Die allermeisten Kaufentscheidungen f\u00e4llen wir unbewusst und ohne nachzudenken. Das Belohnungssystem in unserem Gehirn liebt Zucker und es reagiert extrem heftig darauf. Blickt man auf die Entwicklung der Menschheit, dann hat der Homo sapiens fast immer Hunger gelitten. In diesen Jahrtausenden des Hungerns war Zucker in s\u00fc\u00dfen Fr\u00fcchten f\u00fcr unsere Vorfahren ein echter \u00dcberlebensvorteil: viel Energie f\u00fcr wenig Aufwand. Diese Pr\u00e4ferenz hat sich im Laufe der Evolution tief in unser Gehirn eingeschrieben. Je \u00f6fter wir durch die Werbung mit der s\u00fc\u00dfen Versuchung konfrontiert werden, desto gr\u00f6\u00dfer wird unser Verlangen."
+                }
+            ],
+            "quotedInTitle": false,
+            "quotedInIntro": true
+        },
+        {
+            "name": "Haribo",
+            "alternativeNames": [],
+            "age": -1,
+            "sex": "unknown",
+            "occurences": {
+                "total": 1,
+                "firstNameOnly": 0,
+                "lastNameOnly": 0,
+                "fullName": 1,
+                "nickname": 0
+            },
+            "inTitle": false,
+            "inIntro": false,
+            "_name": {
+                "firstname": null,
+                "lastname": null,
+                "nickname": null,
+                "alternative_names": [],
+                "academic_title": null,
+                "nobility_title_or_rank": null
+            },
+            "descriptiveTexts": [
+                {
+                    "text": "Haribo macht Kinder froh?"
+                }
+            ],
+            "occupations": [],
+            "directQuotes": [],
+            "quotedInTitle": false,
+            "quotedInIntro": false
+        },
+        {
+            "name": "Cem \u00d6zdemir",
+            "alternativeNames": [],
+            "age": 57,
+            "sex": "male",
+            "occurences": {
+                "total": 5,
+                "firstNameOnly": 1,
+                "lastNameOnly": 3,
+                "fullName": 1,
+                "nickname": 0
+            },
+            "inTitle": false,
+            "inIntro": true,
+            "_name": {
+                "firstname": "Cem",
+                "lastname": "\u00d6zdemir",
+                "nickname": null,
+                "alternative_names": [],
+                "academic_title": null,
+                "nobility_title_or_rank": null
+            },
+            "descriptiveTexts": [
+                {
+                    "text": "Bundesern\u00e4hrungsminister Cem \u00d6zdemir fordert ein Werbeverbot, um Kinder vor ungesunden Lebensmitteln zu sch\u00fctzen."
+                },
+                {
+                    "text": "Wenn es nach Cem \u00d6zedmir (57; Gr\u00fcne) geht, sollen solche Botschaften bald der Vergangenheit angeh\u00f6ren."
+                },
+                {
+                    "text": "\nmanger magazin: Herr Strelow, wie sinnvoll ist das Vorhaben von Minister \u00d6zdemir?"
+                },
+                {
+                    "text": "Aus neurowissenschaftlicher Sicht geht mir der Vorsto\u00df von Minister \u00d6zdemir daher nicht weit genug."
+                },
+                {
+                    "text": "\u2026was nicht unbedingt daf\u00fcr spricht, dass \u00d6zdemirs Vorsto\u00df viel bewirken k\u00f6nnte."
+                }
+            ],
+            "occupations": [
+                {
+                    "text": "Cem \u00d6zdemir fordert ein Werbeverbot, um Kinder vor ungesunden Lebensmitteln zu sch\u00fctzen."
+                },
+                {
+                    "text": "Bundesminister f\u00fcr Ern\u00e4hrung"
+                }
+            ],
+            "directQuotes": [
+                {
+                    "text": "an Kinder gerichtete Werbung f\u00fcr Lebensmittel mit hohem Zucker-, Fett- oder Salzgehalt in allen f\u00fcr Kinder relevanten Medien"
+                }
+            ],
+            "quotedInTitle": false,
+            "quotedInIntro": true
+        },
+        {
+            "name": "Claudia Schiffer",
+            "alternativeNames": [],
+            "age": -1,
+            "sex": "female",
+            "occurences": {
+                "total": 1,
+                "firstNameOnly": 0,
+                "lastNameOnly": 0,
+                "fullName": 1,
+                "nickname": 0
+            },
+            "inTitle": false,
+            "inIntro": false,
+            "_name": {
+                "firstname": "Claudia",
+                "lastname": "Schiffer",
+                "nickname": null,
+                "alternative_names": [],
+                "academic_title": null,
+                "nobility_title_or_rank": null
+            },
+            "descriptiveTexts": [
+                {
+                    "text": "Sie haben selbst jahrelang f\u00fcr Ferrero neue Werbespots konzipiert, unter anderem mit Stars wie Supermodel Claudia Schiffer."
+                }
+            ],
+            "occupations": [
+                {
+                    "text": "Supermodel"
+                }
+            ],
+            "directQuotes": [],
+            "quotedInTitle": false,
+            "quotedInIntro": false
+        }
+    ]
+}

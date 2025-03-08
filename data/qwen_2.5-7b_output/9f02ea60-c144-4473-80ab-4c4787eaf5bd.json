@@ -1,0 +1,929 @@
+{
+    "persons": [
+        {
+            "name": "Gotabaya Rajapaksa",
+            "alternativeNames": [],
+            "age": -1,
+            "sex": "male",
+            "occurences": {
+                "total": 4,
+                "firstNameOnly": 0,
+                "lastNameOnly": 3,
+                "fullName": 1,
+                "nickname": 0
+            },
+            "inTitle": false,
+            "inIntro": false,
+            "_name": {
+                "firstname": "Gotabaya",
+                "lastname": "Rajapaksa",
+                "nickname": null,
+                "alternative_names": [],
+                "academic_title": null,
+                "nobility_title_or_rank": null
+            },
+            "descriptiveTexts": [
+                {
+                    "text": "Der neue Pr\u00e4sident Gotabaya Rajapaksa lie\u00df, kaum im Amt, die Steuern senken."
+                },
+                {
+                    "text": "Er entkam wom\u00f6glich durch einen Geheimtunnel."
+                }
+            ],
+            "occupations": [],
+            "directQuotes": [],
+            "quotedInTitle": false,
+            "quotedInIntro": false
+        },
+        {
+            "name": "Jayadeva Uyangoda",
+            "alternativeNames": [],
+            "age": -1,
+            "sex": "male",
+            "occurences": {
+                "total": 1,
+                "firstNameOnly": 0,
+                "lastNameOnly": 0,
+                "fullName": 1,
+                "nickname": 0
+            },
+            "inTitle": false,
+            "inIntro": false,
+            "_name": {
+                "firstname": "Jayadeva",
+                "lastname": "Uyangoda",
+                "nickname": null,
+                "alternative_names": [],
+                "academic_title": null,
+                "nobility_title_or_rank": null
+            },
+            "descriptiveTexts": [
+                {
+                    "text": "\u00bbDie Elite zahlt fast nichts f\u00fcr diese Krise\u00ab, sagt Jayadeva Uyangoda, emeritierter Politologe der Universit\u00e4t in Colombo."
+                }
+            ],
+            "occupations": [
+                {
+                    "text": "Die Elite zahlt fast nichts f\u00fcr diese Krise"
+                },
+                {
+                    "text": "Die Krise hat dieses Land auch autokratischer gemacht."
+                },
+                {
+                    "text": "emeritierter Politologe der Universit\u00e4t in Colombo"
+                }
+            ],
+            "directQuotes": [
+                {
+                    "text": "Die Krise hat dieses Land auch autokratischer gemacht."
+                }
+            ],
+            "quotedInTitle": false,
+            "quotedInIntro": false
+        },
+        {
+            "name": "Oshada",
+            "alternativeNames": [],
+            "age": 1,
+            "sex": "male",
+            "occurences": {
+                "total": 6,
+                "firstNameOnly": 0,
+                "lastNameOnly": 0,
+                "fullName": 6,
+                "nickname": 0
+            },
+            "inTitle": false,
+            "inIntro": false,
+            "_name": {
+                "firstname": "Oshada",
+                "lastname": null,
+                "nickname": null,
+                "alternative_names": [],
+                "academic_title": null,
+                "nobility_title_or_rank": null
+            },
+            "descriptiveTexts": [
+                {
+                    "text": "Doch ohne seinen Lohn w\u00fcrden seine Schwester Udeni, ihr Sohn Oshada, sein Gro\u00dfvater Madasamy und er kaum \u00fcberleben."
+                },
+                {
+                    "text": "Udeni w\u00fcrde das Haus gern streichen, doch das k\u00f6nnen sie sich nicht leisten."
+                },
+                {
+                    "text": "Doch schon im Juli 2020 kehrte Udeni zur\u00fcck, zusammen mit dem damals einj\u00e4hrigen Oshada."
+                },
+                {
+                    "text": "Eine ihrer Tanten passte auf Oshada auf."
+                },
+                {
+                    "text": "Ausgerechnet zu dieser Zeit wurde Oshada krank."
+                },
+                {
+                    "text": "Dabei brauchten sie dringender denn je Geld."
+                },
+                {
+                    "text": "Oshada weinte manchmal vor Hunger, Udeni schickte ihn dann fr\u00fch ins Bett."
+                },
+                {
+                    "text": "Sie hoffte, er w\u00fcrde bald schlafen und seinen knurrenden Magen nicht mehr sp\u00fcren."
+                },
+                {
+                    "text": "Oshada ein Studium erm\u00f6glichen."
+                }
+            ],
+            "occupations": [],
+            "directQuotes": [],
+            "quotedInTitle": false,
+            "quotedInIntro": false
+        },
+        {
+            "name": "Venereble Imbulpitiya Vipassi",
+            "alternativeNames": [],
+            "age": -1,
+            "sex": "unknown",
+            "occurences": {
+                "total": 1,
+                "firstNameOnly": 0,
+                "lastNameOnly": 0,
+                "fullName": 1,
+                "nickname": 0
+            },
+            "inTitle": false,
+            "inIntro": false,
+            "_name": {
+                "firstname": "Venereble",
+                "lastname": "Imbulpitiya Vipassi",
+                "nickname": null,
+                "alternative_names": [],
+                "academic_title": null,
+                "nobility_title_or_rank": null
+            },
+            "descriptiveTexts": [
+                {
+                    "text": "Entsprechend gut kann Direktor Venereble Imbulpitiya Vipassi gerade Spenden organisieren."
+                },
+                {
+                    "text": "Vipassi zeigt eine Liste, die er f\u00fcr die Hilfsorganisation Caritas erstellt hat."
+                },
+                {
+                    "text": "Seitdem ist er abgetaucht."
+                }
+            ],
+            "occupations": [],
+            "directQuotes": [],
+            "quotedInTitle": false,
+            "quotedInIntro": false
+        },
+        {
+            "name": "Nandalal Weerasinghe",
+            "alternativeNames": [],
+            "age": -1,
+            "sex": "male",
+            "occurences": {
+                "total": 3,
+                "firstNameOnly": 0,
+                "lastNameOnly": 2,
+                "fullName": 1,
+                "nickname": 0
+            },
+            "inTitle": false,
+            "inIntro": false,
+            "_name": {
+                "firstname": "Nandalal",
+                "lastname": "Weerasinghe",
+                "nickname": null,
+                "alternative_names": [],
+                "academic_title": null,
+                "nobility_title_or_rank": null
+            },
+            "descriptiveTexts": [
+                {
+                    "text": "In einem der B\u00fcros sitzt Zentralbankchef Nandalal Weerasinghe hinter einem gro\u00dfen Schreibtisch und \u00fcberfliegt die internationale Finanzpresse."
+                },
+                {
+                    "text": "\u00bbWir h\u00e4tten den IWF schon ein Jahr fr\u00fcher um Unterst\u00fctzung bitten sollen\u00ab, sagt er."
+                },
+                {
+                    "text": "Zentralbankchef Weerasinghe und seine Kollegen trafen Dutzende Gl\u00e4ubiger."
+                },
+                {
+                    "text": "Zentralbankchef Weerasinghe sagt, die Reformen seien kompliziert."
+                }
+            ],
+            "occupations": [
+                {
+                    "text": "Zentralbankchef"
+                }
+            ],
+            "directQuotes": [
+                {
+                    "text": "Es d\u00fcrfte noch zwei bis drei Jahre dauern, bis sich die Lage bessert."
+                }
+            ],
+            "quotedInTitle": false,
+            "quotedInIntro": false
+        },
+        {
+            "name": "Ki\u00ean Ho\u00e0ng L\u00ea",
+            "alternativeNames": [],
+            "age": -1,
+            "sex": "male",
+            "occurences": {
+                "total": 1,
+                "firstNameOnly": 0,
+                "lastNameOnly": 0,
+                "fullName": 1,
+                "nickname": 0
+            },
+            "inTitle": false,
+            "inIntro": false,
+            "_name": {
+                "firstname": "Ki\u00ean Ho\u00e0ng",
+                "lastname": "L\u00ea",
+                "nickname": null,
+                "alternative_names": [],
+                "academic_title": null,
+                "nobility_title_or_rank": null
+            },
+            "descriptiveTexts": [
+                {
+                    "text": "Fotos und Videos: Ki\u00ean Ho\u00e0ng L\u00ea; Mitarbeit und \u00dcbersetzung: Susitha Fernando, Indika Arana Kumara"
+                }
+            ],
+            "occupations": [
+                {
+                    "text": "Fotograf"
+                }
+            ],
+            "directQuotes": [],
+            "quotedInTitle": false,
+            "quotedInIntro": false
+        },
+        {
+            "name": "Mahinda Rajapaksa",
+            "alternativeNames": [],
+            "age": -1,
+            "sex": "male",
+            "occurences": {
+                "total": 1,
+                "firstNameOnly": 0,
+                "lastNameOnly": 0,
+                "fullName": 1,
+                "nickname": 0
+            },
+            "inTitle": false,
+            "inIntro": false,
+            "_name": {
+                "firstname": "Mahinda",
+                "lastname": "Rajapaksa",
+                "nickname": null,
+                "alternative_names": [],
+                "academic_title": null,
+                "nobility_title_or_rank": null
+            },
+            "descriptiveTexts": [
+                {
+                    "text": "Anfang Mai trat Premierminister Mahinda Rajapaksa zur\u00fcck."
+                }
+            ],
+            "occupations": [],
+            "directQuotes": [],
+            "quotedInTitle": false,
+            "quotedInIntro": false
+        },
+        {
+            "name": "Rasika Mudannayake",
+            "alternativeNames": [],
+            "age": -1,
+            "sex": "female",
+            "occurences": {
+                "total": 2,
+                "firstNameOnly": 0,
+                "lastNameOnly": 1,
+                "fullName": 1,
+                "nickname": 0
+            },
+            "inTitle": false,
+            "inIntro": false,
+            "_name": {
+                "firstname": "Rasika",
+                "lastname": "Mudannayake",
+                "nickname": null,
+                "alternative_names": [],
+                "academic_title": null,
+                "nobility_title_or_rank": null
+            },
+            "descriptiveTexts": [
+                {
+                    "text": "Dhanushs Familie h\u00e4tte es sicher auch auf die Caritas-Liste geschafft, sagt Rasika Mudannayake, seine ehemalige Klassenlehrerin."
+                },
+                {
+                    "text": "Frau Mudannayake m\u00f6chte wissen, was aus Dhanush geworden ist."
+                },
+                {
+                    "text": "\u00bbEr ist ein guter Junge\u00ab, sagt sie."
+                }
+            ],
+            "occupations": [],
+            "directQuotes": [],
+            "quotedInTitle": false,
+            "quotedInIntro": false
+        },
+        {
+            "name": "Ulrich Volz",
+            "alternativeNames": [],
+            "age": -1,
+            "sex": "male",
+            "occurences": {
+                "total": 3,
+                "firstNameOnly": 0,
+                "lastNameOnly": 2,
+                "fullName": 1,
+                "nickname": 0
+            },
+            "inTitle": false,
+            "inIntro": false,
+            "_name": {
+                "firstname": "Ulrich",
+                "lastname": "Volz",
+                "nickname": null,
+                "alternative_names": [],
+                "academic_title": null,
+                "nobility_title_or_rank": null
+            },
+            "descriptiveTexts": [
+                {
+                    "text": "\u00bbEntwicklungsl\u00e4nder hatten pl\u00f6tzlich Zugang zu den internationalen Kapitalm\u00e4rkten\u00ab, sagt der \u00d6konom Ulrich Volz, der an der Universit\u00e4t London zur globalen Schuldenkrise forscht."
+                },
+                {
+                    "text": "\u00bbDie Regeln, wie Staatspleiten ablaufen, werden noch immer stark von reichen Gl\u00e4ubigerstaaten und dem IWF bestimmt\u00ab, sagt \u00d6konom Volz."
+                },
+                {
+                    "text": "F\u00fcr kriselnde Banken wie die Credit Suisse seien teils binnen Tagen Milliardenhilfen mobilisiert worden, sagt Schulden\u00f6konom Volz."
+                }
+            ],
+            "occupations": [
+                {
+                    "text": "\u00d6konom"
+                }
+            ],
+            "directQuotes": [
+                {
+                    "text": "Die Regeln, wie Staatspleiten ablaufen, werden noch immer stark von reichen Gl\u00e4ubigerstaaten und dem IWF bestimmt"
+                }
+            ],
+            "quotedInTitle": false,
+            "quotedInIntro": false
+        },
+        {
+            "name": "Clifford Chance",
+            "alternativeNames": [],
+            "age": -1,
+            "sex": "unknown",
+            "occurences": {
+                "total": 1,
+                "firstNameOnly": 0,
+                "lastNameOnly": 0,
+                "fullName": 1,
+                "nickname": 0
+            },
+            "inTitle": false,
+            "inIntro": false,
+            "_name": {
+                "firstname": null,
+                "lastname": "Clifford Chance",
+                "nickname": null,
+                "alternative_names": [],
+                "academic_title": null,
+                "nobility_title_or_rank": null
+            },
+            "descriptiveTexts": [
+                {
+                    "text": "Also habe man Berater der Kanzlei Clifford Chance und der Investmentbank Lazard engagiert."
+                }
+            ],
+            "occupations": [
+                {
+                    "text": "Berater der Kanzlei Clifford Chance"
+                }
+            ],
+            "directQuotes": [],
+            "quotedInTitle": false,
+            "quotedInIntro": false
+        },
+        {
+            "name": "Susitha Fernando",
+            "alternativeNames": [],
+            "age": -1,
+            "sex": "female",
+            "occurences": {
+                "total": 1,
+                "firstNameOnly": 0,
+                "lastNameOnly": 0,
+                "fullName": 1,
+                "nickname": 0
+            },
+            "inTitle": false,
+            "inIntro": false,
+            "_name": {
+                "firstname": "Susitha",
+                "lastname": "Fernando",
+                "nickname": null,
+                "alternative_names": [],
+                "academic_title": null,
+                "nobility_title_or_rank": null
+            },
+            "descriptiveTexts": [
+                {
+                    "text": "Fotos und Videos: Ki\u00ean Ho\u00e0ng L\u00ea; Mitarbeit und \u00dcbersetzung: Susitha Fernando, Indika Arana Kumara"
+                }
+            ],
+            "occupations": [
+                {
+                    "text": "Mitarbeit"
+                }
+            ],
+            "directQuotes": [],
+            "quotedInTitle": false,
+            "quotedInIntro": false
+        },
+        {
+            "name": "Clemens Graf von Luckner",
+            "alternativeNames": [],
+            "age": -1,
+            "sex": "male",
+            "occurences": {
+                "total": 2,
+                "firstNameOnly": 1,
+                "lastNameOnly": 1,
+                "fullName": 0,
+                "nickname": 0
+            },
+            "inTitle": false,
+            "inIntro": false,
+            "_name": {
+                "firstname": "Clemens",
+                "lastname": "von Luckner",
+                "nickname": null,
+                "alternative_names": [],
+                "academic_title": null,
+                "nobility_title_or_rank": "Graf"
+            },
+            "descriptiveTexts": [
+                {
+                    "text": "Nach einer Analyse des Weltbank-\u00d6konomen Clemens Graf von Luckner sinkt in zahlungsunf\u00e4higen L\u00e4ndern die Lebenserwartung."
+                }
+            ],
+            "occupations": [
+                {
+                    "text": "Weltbank-\u00d6konome"
+                }
+            ],
+            "directQuotes": [],
+            "quotedInTitle": false,
+            "quotedInIntro": false
+        },
+        {
+            "name": "Madasamy",
+            "alternativeNames": [],
+            "age": -1,
+            "sex": "male",
+            "occurences": {
+                "total": 1,
+                "firstNameOnly": 0,
+                "lastNameOnly": 0,
+                "fullName": 1,
+                "nickname": 0
+            },
+            "inTitle": false,
+            "inIntro": false,
+            "_name": {
+                "firstname": null,
+                "lastname": "Madasamy",
+                "nickname": null,
+                "alternative_names": [],
+                "academic_title": null,
+                "nobility_title_or_rank": null
+            },
+            "descriptiveTexts": [
+                {
+                    "text": "Doch ohne seinen Lohn w\u00fcrden seine Schwester Udeni, ihr Sohn Oshada, sein Gro\u00dfvater Madasamy und er kaum \u00fcberleben."
+                },
+                {
+                    "text": "Udeni w\u00fcrde das Haus gern streichen, doch das k\u00f6nnen sie sich nicht leisten."
+                },
+                {
+                    "text": "Rund 85.000 Rupien verdiente sie im Monat, damals fast 600 Euro."
+                },
+                {
+                    "text": "Den Gro\u00dfteil des Geldes schickte sie nach Hause."
+                },
+                {
+                    "text": "Dabei brauchten sie dringender denn je Geld."
+                }
+            ],
+            "occupations": [
+                {
+                    "text": "Gro\u00dfvater"
+                }
+            ],
+            "directQuotes": [],
+            "quotedInTitle": false,
+            "quotedInIntro": false
+        },
+        {
+            "name": "Udeni",
+            "alternativeNames": [],
+            "age": 26,
+            "sex": "female",
+            "occurences": {
+                "total": 19,
+                "firstNameOnly": 0,
+                "lastNameOnly": 0,
+                "fullName": 19,
+                "nickname": 0
+            },
+            "inTitle": true,
+            "inIntro": false,
+            "_name": {
+                "firstname": "Udeni",
+                "lastname": null,
+                "nickname": null,
+                "alternative_names": [],
+                "academic_title": null,
+                "nobility_title_or_rank": null
+            },
+            "descriptiveTexts": [
+                {
+                    "text": "Dhanush, Udeni und die Staatspleite"
+                },
+                {
+                    "text": "Doch ohne seinen Lohn w\u00fcrden seine Schwester Udeni, ihr Sohn Oshada, sein Gro\u00dfvater Madasamy und er kaum \u00fcberleben."
+                },
+                {
+                    "text": "Das Haus, in dem Dhanush und Udeni leben, steht an einem schlammigen Feldweg am Rande der Siedlung Janaudanagama, was sich mit \u00bbDorf der gl\u00fccklichen Menschen\u00ab \u00fcbersetzen l\u00e4sst."
+                },
+                {
+                    "text": "Udeni w\u00fcrde das Haus gern streichen, doch das k\u00f6nnen sie sich nicht leisten."
+                },
+                {
+                    "text": "Udeni ist mager und selbst f\u00fcr sri-lankische Verh\u00e4ltnisse klein."
+                },
+                {
+                    "text": "Sie erfasst Situationen und Menschen sofort und koordiniert souver\u00e4n die Angelegenheiten der Familie."
+                },
+                {
+                    "text": "In einem anderen Teil der Welt h\u00e4tte sie vermutlich gute Chancen, sich etwas aufzubauen."
+                },
+                {
+                    "text": "Kurz nach Dhanushs Geburt sollte Udeni f\u00fcr den Bruder eine Milchflasche holen."
+                },
+                {
+                    "text": "Sie blutete stark, doch sie schleppte sich mit der Flasche zur\u00fcck bis zur Klinik."
+                },
+                {
+                    "text": "\u00bbSeit ich denken kann, hatte ich immer nur meine Schwester\u00ab, sagt Dhanush."
+                },
+                {
+                    "text": "Etwa zu dieser Zeit wurde Udeni schwanger und zog zu ihrem Mann."
+                },
+                {
+                    "text": "Doch schon im Juli 2020 kehrte Udeni zur\u00fcck, zusammen mit dem damals einj\u00e4hrigen Oshada."
+                },
+                {
+                    "text": "Ihr Mann habe sie schlecht behandelt, sagt sie heute."
+                },
+                {
+                    "text": "Mehr m\u00f6chte sie dar\u00fcber nicht erz\u00e4hlen."
+                },
+                {
+                    "text": "Udeni erinnert sich, wie sie selbst f\u00fcr eine Packung Zucker einen halben Tag lang anstehen musste."
+                },
+                {
+                    "text": "Udeni begann, in einer Textilfabrik zu arbeiten."
+                },
+                {
+                    "text": "Teils sa\u00df sie von 7.30 bis 22 Uhr an der N\u00e4hmaschine."
+                },
+                {
+                    "text": "\u00bbEs f\u00fchlte sich schrecklich an, ihn allein zu lassen\u00ab, sagt Udeni."
+                },
+                {
+                    "text": "Udeni musste ihren Job in der Fabrik aufgeben."
+                },
+                {
+                    "text": "Dabei brauchten sie dringender denn je Geld."
+                },
+                {
+                    "text": "Udeni verpf\u00e4ndete ihren Schmuck."
+                },
+                {
+                    "text": "Manchmal schlug er betrunken auf Udeni ein \u2013 bis sich Dhanush br\u00fcllend dazwischenwarf."
+                },
+                {
+                    "text": "Oshada weinte manchmal vor Hunger, Udeni schickte ihn dann fr\u00fch ins Bett."
+                },
+                {
+                    "text": "Sie hoffte, er w\u00fcrde bald schlafen und seinen knurrenden Magen nicht mehr sp\u00fcren."
+                },
+                {
+                    "text": "\u00bbIch f\u00fchlte mich wie eine Versagerin\u00ab, sagt sie."
+                },
+                {
+                    "text": "Udeni sagt, der Preis f\u00fcr Elektrizit\u00e4t habe sich mehr als verdoppelt."
+                },
+                {
+                    "text": "Dhanush und Udeni haben bis heute kein Geld gesehen."
+                },
+                {
+                    "text": "Vor ein paar Monaten hat Udeni ihre Mutter angerufen."
+                },
+                {
+                    "text": "Sp\u00e4ter lie\u00df sie \u00fcber eine Tante ausrichten, sie wolle keinen Kontakt mehr."
+                },
+                {
+                    "text": "Udeni w\u00fcrde gern ins Ausland fl\u00fcchten, zusammen mit ihrem Bruder."
+                },
+                {
+                    "text": "Das Leben, das sie sich nicht ausgesucht hat, weit hinter sich lassen."
+                }
+            ],
+            "occupations": [
+                {
+                    "text": "Versagerin"
+                }
+            ],
+            "directQuotes": [
+                {
+                    "text": "Ich f\u00fchlte mich wie eine Versagerin"
+                },
+                {
+                    "text": "\u00c4u\u00dferlich wirke ich ruhig"
+                },
+                {
+                    "text": "Aber in mir g\u00e4rt eine gro\u00dfe Wut."
+                }
+            ],
+            "quotedInTitle": true,
+            "quotedInIntro": false
+        },
+        {
+            "name": "Carmen Reinhart",
+            "alternativeNames": [],
+            "age": -1,
+            "sex": "female",
+            "occurences": {
+                "total": 1,
+                "firstNameOnly": 0,
+                "lastNameOnly": 0,
+                "fullName": 1,
+                "nickname": 0
+            },
+            "inTitle": false,
+            "inIntro": false,
+            "_name": {
+                "firstname": "Carmen",
+                "lastname": "Reinhart",
+                "nickname": null,
+                "alternative_names": [],
+                "academic_title": null,
+                "nobility_title_or_rank": null
+            },
+            "descriptiveTexts": [
+                {
+                    "text": "\u00bbDie Folge ist ein millionenfaches Elend\u00ab, sagt Carmen Reinhart, die einmal Chef\u00f6konomin der Weltbank war."
+                }
+            ],
+            "occupations": [
+                {
+                    "text": "Chef\u00f6konomin der Weltbank"
+                }
+            ],
+            "directQuotes": [],
+            "quotedInTitle": false,
+            "quotedInIntro": false
+        },
+        {
+            "name": "Dhanush",
+            "alternativeNames": [],
+            "age": 17,
+            "sex": "male",
+            "occurences": {
+                "total": 18,
+                "firstNameOnly": 0,
+                "lastNameOnly": 0,
+                "fullName": 18,
+                "nickname": 0
+            },
+            "inTitle": true,
+            "inIntro": false,
+            "_name": {
+                "firstname": "Dhanush",
+                "lastname": null,
+                "nickname": null,
+                "alternative_names": [],
+                "academic_title": null,
+                "nobility_title_or_rank": null
+            },
+            "descriptiveTexts": [
+                {
+                    "text": "Dhanush, Udeni und die Staatspleite"
+                },
+                {
+                    "text": "Dhanush ist zu jung, um am Leben zerbrochen zu sein; aber er ist davon gezeichnet."
+                },
+                {
+                    "text": "Er ist 17, sein Bart ist noch weich, aber sein Blick wirkt resigniert."
+                },
+                {
+                    "text": "So, als h\u00e4tte er schon zu viel Schlechtes erlebt."
+                },
+                {
+                    "text": "Morgens fr\u00fch, wenn die Luft schw\u00fcler wird und die Sonne durch die Bl\u00e4tter der Kumbukb\u00e4ume bricht, geht Dhanush in der Zentralprovinz Sri Lankas zum Mahaweli-Fluss, f\u00e4hrt mit einem Flo\u00df ans andere Ufer und kratzt mit einer Sch\u00f6pfkelle Sand vom Grund, stundenlang, bis seine d\u00fcnnen Arme nicht mehr k\u00f6nnen."
+                },
+                {
+                    "text": "Abends kommt ein Laster und kauft Dhanush die Tagesausbeute ab."
+                },
+                {
+                    "text": "Bis zu 4000 Rupien, rund zw\u00f6lf Euro, verdient er am Tag."
+                },
+                {
+                    "text": "Dhanush m\u00fcsste eigentlich zur Schule gehen."
+                },
+                {
+                    "text": "Doch ohne seinen Lohn w\u00fcrden seine Schwester Udeni, ihr Sohn Oshada, sein Gro\u00dfvater Madasamy und er kaum \u00fcberleben."
+                },
+                {
+                    "text": "Dhanush und seiner Familie geht es seitdem schlecht."
+                },
+                {
+                    "text": "Das Haus, in dem Dhanush und Udeni leben, steht an einem schlammigen Feldweg am Rande der Siedlung Janaudanagama, was sich mit \u00bbDorf der gl\u00fccklichen Menschen\u00ab \u00fcbersetzen l\u00e4sst."
+                },
+                {
+                    "text": "Udeni w\u00fcrde das Haus gern streichen, doch das k\u00f6nnen sie sich nicht leisten."
+                },
+                {
+                    "text": "Kurz nach Dhanushs Geburt sollte Udeni f\u00fcr den Bruder eine Milchflasche holen."
+                },
+                {
+                    "text": "\u00bbSeit ich denken kann, hatte ich immer nur meine Schwester\u00ab, sagt Dhanush."
+                },
+                {
+                    "text": "Dhanush f\u00fcrchtete, nach der Mutter auch noch die geliebte Schwester zu verlieren."
+                },
+                {
+                    "text": "Dabei brauchten sie dringender denn je Geld."
+                },
+                {
+                    "text": "Dhanush schmiss die Schule und ging arbeiten, erst als G\u00e4rtner, dann als Holzhacker, schlie\u00dflich in der Sandmine."
+                },
+                {
+                    "text": "Die Schule, auf die Dhanush gegangen ist, wird von einem M\u00f6nch geleitet."
+                },
+                {
+                    "text": "Dhanushs Familie h\u00e4tte es sicher auch auf die Caritas-Liste geschafft, sagt Rasika Mudannayake, seine ehemalige Klassenlehrerin."
+                },
+                {
+                    "text": "Aber er sei ab Mai 2022 nicht mehr zum Unterricht gekommen."
+                },
+                {
+                    "text": "Frau Mudannayake m\u00f6chte wissen, was aus Dhanush geworden ist."
+                },
+                {
+                    "text": "\u00bbEr ist ein guter Junge\u00ab, sagt sie."
+                },
+                {
+                    "text": "In Dhanushs Dorf verstummten alle Feste."
+                },
+                {
+                    "text": "Manchmal schlug er betrunken auf Udeni ein \u2013 bis sich Dhanush br\u00fcllend dazwischenwarf."
+                },
+                {
+                    "text": "Dhanush und Udeni haben bis heute kein Geld gesehen."
+                },
+                {
+                    "text": "Dhanush \u00e4hnelt manchmal schon dem Vater."
+                },
+                {
+                    "text": "Auch wenn er das auf keinen Fall will."
+                },
+                {
+                    "text": "\u00bb\u00c4u\u00dferlich wirke ich ruhig\u00ab, sagt er."
+                }
+            ],
+            "occupations": [
+                {
+                    "text": "G\u00e4rtner"
+                }
+            ],
+            "directQuotes": [
+                {
+                    "text": "Er ist ein guter Junge"
+                }
+            ],
+            "quotedInTitle": true,
+            "quotedInIntro": false
+        },
+        {
+            "name": "Ant\u00f3nio Guterres",
+            "alternativeNames": [],
+            "age": -1,
+            "sex": "male",
+            "occurences": {
+                "total": 1,
+                "firstNameOnly": 0,
+                "lastNameOnly": 0,
+                "fullName": 1,
+                "nickname": 0
+            },
+            "inTitle": false,
+            "inIntro": false,
+            "_name": {
+                "firstname": "Ant\u00f3nio",
+                "lastname": "Guterres",
+                "nickname": null,
+                "alternative_names": [],
+                "academic_title": null,
+                "nobility_title_or_rank": null
+            },
+            "descriptiveTexts": [
+                {
+                    "text": "Uno-Generalsekret\u00e4r Ant\u00f3nio Guterres sprach vergangenen Sommer von einem \u00bbsystemischen Versagen\u00ab."
+                }
+            ],
+            "occupations": [],
+            "directQuotes": [],
+            "quotedInTitle": false,
+            "quotedInIntro": false
+        },
+        {
+            "name": "Indika Arana Kumara",
+            "alternativeNames": [],
+            "age": -1,
+            "sex": "male",
+            "occurences": {
+                "total": 1,
+                "firstNameOnly": 0,
+                "lastNameOnly": 0,
+                "fullName": 1,
+                "nickname": 0
+            },
+            "inTitle": false,
+            "inIntro": false,
+            "_name": {
+                "firstname": "Indika Arana",
+                "lastname": "Kumara",
+                "nickname": null,
+                "alternative_names": [],
+                "academic_title": null,
+                "nobility_title_or_rank": null
+            },
+            "descriptiveTexts": [
+                {
+                    "text": "Fotos und Videos: Ki\u00ean Ho\u00e0ng L\u00ea; Mitarbeit und \u00dcbersetzung: Susitha Fernando, Indika Arana Kumara"
+                }
+            ],
+            "occupations": [
+                {
+                    "text": "Mitarbeit und \u00dcbersetzung"
+                }
+            ],
+            "directQuotes": [],
+            "quotedInTitle": false,
+            "quotedInIntro": false
+        },
+        {
+            "name": "Ranil Wickremesinghe",
+            "alternativeNames": [],
+            "age": -1,
+            "sex": "male",
+            "occurences": {
+                "total": 1,
+                "firstNameOnly": 0,
+                "lastNameOnly": 0,
+                "fullName": 1,
+                "nickname": 0
+            },
+            "inTitle": false,
+            "inIntro": false,
+            "_name": {
+                "firstname": "Ranil",
+                "lastname": "Wickremesinghe",
+                "nickname": null,
+                "alternative_names": [],
+                "academic_title": null,
+                "nobility_title_or_rank": null
+            },
+            "descriptiveTexts": [
+                {
+                    "text": "Im November 2015 versprach der damalige Premierminister Ranil Wickremesinghe, die Einfuhren zu senken und Produktion und Export von Hightech-G\u00fctern anzukurbeln."
+                }
+            ],
+            "occupations": [],
+            "directQuotes": [],
+            "quotedInTitle": false,
+            "quotedInIntro": false
+        }
+    ]
+}

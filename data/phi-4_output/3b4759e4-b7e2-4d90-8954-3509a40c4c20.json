@@ -1,0 +1,518 @@
+{
+    "persons": [
+        {
+            "name": "Olaf Scholz",
+            "alternativeNames": [],
+            "age": -1,
+            "sex": "male",
+            "occurences": {
+                "total": 2,
+                "firstNameOnly": 0,
+                "lastNameOnly": 0,
+                "fullName": 2,
+                "nickname": 0
+            },
+            "inTitle": false,
+            "inIntro": false,
+            "_name": {
+                "firstname": "Olaf",
+                "lastname": "Scholz",
+                "nickname": null,
+                "alternative_names": [],
+                "academic_title": null,
+                "nobility_title_or_rank": null
+            },
+            "descriptiveTexts": [
+                {
+                    "text": "In Berlin besiegelten Bundeskanzler Olaf Scholz und Intel-Chef Pat Gelsinger heute die Pl\u00e4ne des US-Techriesen, zwei neue Chipfabriken in Magdeburg zu errichten."
+                },
+                {
+                    "text": "F\u00fcr den Mann, der 2021 zu Intel kam, um den endg\u00fcltigen Absturz der einstigen IT-Ikone zu verhindern, ist der Handschlag mit Olaf Scholz ein wichtiger Erfolg."
+                }
+            ],
+            "occupations": [
+                {
+                    "text": "Bundeskanzler"
+                }
+            ],
+            "directQuotes": [],
+            "quotedInTitle": false,
+            "quotedInIntro": false
+        },
+        {
+            "name": "Lukas Heiny",
+            "alternativeNames": [],
+            "age": -1,
+            "sex": "male",
+            "occurences": {
+                "total": 2,
+                "firstNameOnly": 0,
+                "lastNameOnly": 1,
+                "fullName": 1,
+                "nickname": 0
+            },
+            "inTitle": false,
+            "inIntro": false,
+            "_name": {
+                "firstname": "Lukas",
+                "lastname": "Heiny",
+                "nickname": null,
+                "alternative_names": [],
+                "academic_title": null,
+                "nobility_title_or_rank": null
+            },
+            "descriptiveTexts": [
+                {
+                    "text": "Der Gr\u00fcnder, Berater und Investor Marcus Diekmann sucht bekanntlich einen Job als Topmanager, wobei ihn mein Kollege Lukas Heiny eng begleitet \u2013 dokumentiert in unserer Serie \"L\u00f6we sucht H\u00f6hle\"."
+                },
+                {
+                    "text": "Heute pr\u00e4sentiert Ihnen Kollege Heiny Teil drei \u2013 und darin nehmen die Ereignisse eine neue Wendung: Diekmann heuert bei Intumind an, einem Start-up aus D\u00fcsseldorf, das digitale Wohlf\u00fchl-Coachings anbietet."
+                }
+            ],
+            "occupations": [],
+            "directQuotes": [],
+            "quotedInTitle": false,
+            "quotedInIntro": false
+        },
+        {
+            "name": "Julian Reichelt",
+            "alternativeNames": [],
+            "age": -1,
+            "sex": "male",
+            "occurences": {
+                "total": 1,
+                "firstNameOnly": 0,
+                "lastNameOnly": 0,
+                "fullName": 1,
+                "nickname": 0
+            },
+            "inTitle": false,
+            "inIntro": false,
+            "_name": {
+                "firstname": "Julian",
+                "lastname": "Reichelt",
+                "nickname": null,
+                "alternative_names": [],
+                "academic_title": null,
+                "nobility_title_or_rank": null
+            },
+            "descriptiveTexts": [
+                {
+                    "text": "Abseits der Querelen um CEO Mathias D\u00f6pfner und Ex-\"Bild\"-Chefredakteur Julian Reichelt stehen offenbar erhebliche Sparma\u00dfnahmen an."
+                }
+            ],
+            "occupations": [],
+            "directQuotes": [],
+            "quotedInTitle": false,
+            "quotedInIntro": false
+        },
+        {
+            "name": "Clemens Fuest",
+            "alternativeNames": [],
+            "age": -1,
+            "sex": "male",
+            "occurences": {
+                "total": 1,
+                "firstNameOnly": 0,
+                "lastNameOnly": 0,
+                "fullName": 1,
+                "nickname": 0
+            },
+            "inTitle": false,
+            "inIntro": false,
+            "_name": {
+                "firstname": "Clemens",
+                "lastname": "Fuest",
+                "nickname": null,
+                "alternative_names": [],
+                "academic_title": null,
+                "nobility_title_or_rank": null
+            },
+            "descriptiveTexts": [
+                {
+                    "text": "Ifo-Chef Clemens Fuest etwa h\u00e4lt die Milliardensubventionen f\u00fcr \"fragw\u00fcrdig\"."
+                }
+            ],
+            "occupations": [],
+            "directQuotes": [
+                {
+                    "text": "fragw\u00fcrdig"
+                }
+            ],
+            "quotedInTitle": false,
+            "quotedInIntro": false
+        },
+        {
+            "name": "Christoph Rottwilm",
+            "alternativeNames": [],
+            "age": -1,
+            "sex": "male",
+            "occurences": {
+                "total": 1,
+                "firstNameOnly": 0,
+                "lastNameOnly": 0,
+                "fullName": 1,
+                "nickname": 0
+            },
+            "inTitle": false,
+            "inIntro": false,
+            "_name": {
+                "firstname": "Christoph",
+                "lastname": "Rottwilm",
+                "nickname": null,
+                "alternative_names": [],
+                "academic_title": null,
+                "nobility_title_or_rank": null
+            },
+            "descriptiveTexts": [
+                {
+                    "text": "Beste Gr\u00fc\u00dfe, Ihr Christoph Rottwilm"
+                }
+            ],
+            "occupations": [
+                {
+                    "text": "Chefredakteur"
+                }
+            ],
+            "directQuotes": [],
+            "quotedInTitle": false,
+            "quotedInIntro": false
+        },
+        {
+            "name": "Pat Gelsinger",
+            "alternativeNames": [],
+            "age": -1,
+            "sex": "male",
+            "occurences": {
+                "total": 3,
+                "firstNameOnly": 0,
+                "lastNameOnly": 1,
+                "fullName": 2,
+                "nickname": 0
+            },
+            "inTitle": false,
+            "inIntro": false,
+            "_name": {
+                "firstname": "Pat",
+                "lastname": "Gelsinger",
+                "nickname": null,
+                "alternative_names": [],
+                "academic_title": null,
+                "nobility_title_or_rank": null
+            },
+            "descriptiveTexts": [
+                {
+                    "text": "In Berlin besiegelten Bundeskanzler Olaf Scholz und Intel-Chef Pat Gelsinger heute die Pl\u00e4ne des US-Techriesen, zwei neue Chipfabriken in Magdeburg zu errichten."
+                },
+                {
+                    "text": "Damit flie\u00dfen noch einmal deutlich mehr als die urspr\u00fcnglich vorgesehenen 6,8 Milliarden Euro an Subventionen, was Intel-Chef Gelsinger mit den im Zuge der Inflation gestiegenen Kosten rechtfertigt."
+                },
+                {
+                    "text": "Einer zumindest kann sich \u00fcber die fragw\u00fcrdige Linie der Bundesregierung zun\u00e4chst einmal freuen: Intel-Chef Pat Gelsinger."
+                }
+            ],
+            "occupations": [
+                {
+                    "text": "US-Manager"
+                },
+                {
+                    "text": "Der Heilsbringer mit dem Klingelbeutel"
+                },
+                {
+                    "text": "Intel-Chef"
+                }
+            ],
+            "directQuotes": [],
+            "quotedInTitle": false,
+            "quotedInIntro": false
+        },
+        {
+            "name": "Maren Jensen",
+            "alternativeNames": [],
+            "age": -1,
+            "sex": "female",
+            "occurences": {
+                "total": 1,
+                "firstNameOnly": 0,
+                "lastNameOnly": 0,
+                "fullName": 1,
+                "nickname": 0
+            },
+            "inTitle": false,
+            "inIntro": false,
+            "_name": {
+                "firstname": "Maren",
+                "lastname": "Jensen",
+                "nickname": null,
+                "alternative_names": [],
+                "academic_title": null,
+                "nobility_title_or_rank": null
+            },
+            "descriptiveTexts": [
+                {
+                    "text": "Lesen Sie also den Exkurs meiner Kollegin Maren Jensen in diese exklusive Nische des modernen Kapitalismus: Was F\u00fchrungskr\u00e4fte bei Bonuszahlungen beachten sollten"
+                }
+            ],
+            "occupations": [],
+            "directQuotes": [],
+            "quotedInTitle": false,
+            "quotedInIntro": false
+        },
+        {
+            "name": "Mareike Awe",
+            "alternativeNames": [],
+            "age": -1,
+            "sex": "female",
+            "occurences": {
+                "total": 1,
+                "firstNameOnly": 0,
+                "lastNameOnly": 0,
+                "fullName": 1,
+                "nickname": 0
+            },
+            "inTitle": false,
+            "inIntro": false,
+            "_name": {
+                "firstname": "Mareike",
+                "lastname": "Awe",
+                "nickname": null,
+                "alternative_names": [],
+                "academic_title": null,
+                "nobility_title_or_rank": null
+            },
+            "descriptiveTexts": [
+                {
+                    "text": "Doch Diekmann ist offenbar angetan von Intumind und auch von dessen Mitgr\u00fcnderin und Star-Influencerin Mareike Awe \u2013 er unterschrieb einen Beratervertrag im Gesamtvolumen von 300.000 Euro."
+                }
+            ],
+            "occupations": [
+                {
+                    "text": "Mitgr\u00fcnderin und Star-Influencerin"
+                },
+                {
+                    "text": "Diekmann ist offenbar angetan von Intumind und auch von dessen Mitgr\u00fcnderin und Star-Influencerin Mareike Awe"
+                }
+            ],
+            "directQuotes": [],
+            "quotedInTitle": false,
+            "quotedInIntro": false
+        },
+        {
+            "name": "Daniel Pf\u00e4ndler",
+            "alternativeNames": [],
+            "age": -1,
+            "sex": "male",
+            "occurences": {
+                "total": 1,
+                "firstNameOnly": 0,
+                "lastNameOnly": 0,
+                "fullName": 1,
+                "nickname": 0
+            },
+            "inTitle": false,
+            "inIntro": false,
+            "_name": {
+                "firstname": "Daniel",
+                "lastname": "Pf\u00e4ndler",
+                "nickname": null,
+                "alternative_names": [],
+                "academic_title": null,
+                "nobility_title_or_rank": null
+            },
+            "descriptiveTexts": [
+                {
+                    "text": "Nachdem das Jahr 2023 bald zur H\u00e4lfte rum ist, gibt uns heute Daniel Pf\u00e4ndler eine Antwort darauf."
+                }
+            ],
+            "occupations": [
+                {
+                    "text": "Gr\u00fcnder der unabh\u00e4ngigen Research-Firma Research Ahead"
+                }
+            ],
+            "directQuotes": [],
+            "quotedInTitle": false,
+            "quotedInIntro": false
+        },
+        {
+            "name": "Sartorius",
+            "alternativeNames": [],
+            "age": -1,
+            "sex": "unknown",
+            "occurences": {
+                "total": 4,
+                "firstNameOnly": 0,
+                "lastNameOnly": 0,
+                "fullName": 4,
+                "nickname": 0
+            },
+            "inTitle": false,
+            "inIntro": false,
+            "_name": {
+                "firstname": null,
+                "lastname": "Sartorius",
+                "nickname": null,
+                "alternative_names": [],
+                "academic_title": null,
+                "nobility_title_or_rank": null
+            },
+            "descriptiveTexts": [
+                {
+                    "text": "Sartorius verschreckt Aktion\u00e4re: Beim Laborausr\u00fcster Sartorius in G\u00f6ttingen kehrt nach dem Corona-Hype wieder Normalit\u00e4t ein."
+                },
+                {
+                    "text": "Statt eines leichten Zuwachses erwartet Sartorius jetzt beispielsweise beim Umsatz ein Minus von 10 bis 15 Prozent."
+                },
+                {
+                    "text": "Die Reaktion der B\u00f6rse erfolgte heute fr\u00fch: Die Sartorius-Aktie brach um bis zu 15 Prozent ein."
+                },
+                {
+                    "text": "Viele deutsche Managerinnen und Manager, die in den vergangenen Jahren nicht zuletzt wegen des Versprechens h\u00f6herer Boni in die Vereinigten Staaten wechselten, machen derzeit eine unerfreuliche Erfahrung: Sie erhalten nicht, was ihnen versprochen wurde."
+                },
+                {
+                    "text": "Und bevor Sie nun abwinken, weil ihnen wom\u00f6glich das Mitleid mit Protagonisten dieser Gehaltsklasse fehlt: Das Thema sollte man wohl durchaus ernst nehmen, es besch\u00e4ftigt bereits Anw\u00e4lte und Gerichte."
+                },
+                {
+                    "text": "Lesen Sie also den Exkurs meiner Kollegin Maren Jensen in diese exklusive Nische des modernen Kapitalismus: Was F\u00fchrungskr\u00e4fte bei Bonuszahlungen beachten sollten"
+                },
+                {
+                    "text": "Und er wagt einen optimistischen Blick nach vorn: Warum der Dax noch immer Luft nach oben hat."
+                },
+                {
+                    "text": "So kommen Sie ges\u00fcnder durch den Joballtag:"
+                },
+                {
+                    "text": "Sie laden am 29. Juni ein zum n\u00e4chsten Open House, dem digitalen Community-Event, hier geht es zur kostenlosen Anmeldung."
+                }
+            ],
+            "occupations": [
+                {
+                    "text": "Laborausr\u00fcster"
+                },
+                {
+                    "text": "Die Sartorius-Aktie brach um bis zu 15 Prozent ein."
+                }
+            ],
+            "directQuotes": [],
+            "quotedInTitle": false,
+            "quotedInIntro": false
+        },
+        {
+            "name": "Mirjam Hecking",
+            "alternativeNames": [],
+            "age": -1,
+            "sex": "female",
+            "occurences": {
+                "total": 3,
+                "firstNameOnly": 0,
+                "lastNameOnly": 2,
+                "fullName": 1,
+                "nickname": 0
+            },
+            "inTitle": false,
+            "inIntro": false,
+            "_name": {
+                "firstname": "Mirjam",
+                "lastname": "Hecking",
+                "nickname": null,
+                "alternative_names": [],
+                "academic_title": null,
+                "nobility_title_or_rank": null
+            },
+            "descriptiveTexts": [
+                {
+                    "text": "Meine Kollegin Mirjam Hecking hat bereits vor einigen Wochen den Milliardenpoker analysiert."
+                },
+                {
+                    "text": "Doch die Bundesregierung macht damit im internationalen Wettstreit eine schlechte Figur, so Kollegin Hecking: Es fehlt ein Langfristplan \u2013 und es droht ein Siliziumdebakel."
+                },
+                {
+                    "text": "Ebenfalls Kollegin Hecking stellt Ihnen den US-Manager pers\u00f6nlich vor."
+                }
+            ],
+            "occupations": [],
+            "directQuotes": [],
+            "quotedInTitle": false,
+            "quotedInIntro": false
+        },
+        {
+            "name": "Mathias D\u00f6pfner",
+            "alternativeNames": [],
+            "age": -1,
+            "sex": "male",
+            "occurences": {
+                "total": 1,
+                "firstNameOnly": 0,
+                "lastNameOnly": 0,
+                "fullName": 1,
+                "nickname": 0
+            },
+            "inTitle": false,
+            "inIntro": false,
+            "_name": {
+                "firstname": "Mathias",
+                "lastname": "D\u00f6pfner",
+                "nickname": null,
+                "alternative_names": [],
+                "academic_title": null,
+                "nobility_title_or_rank": null
+            },
+            "descriptiveTexts": [
+                {
+                    "text": "Abseits der Querelen um CEO Mathias D\u00f6pfner und Ex-\"Bild\"-Chefredakteur Julian Reichelt stehen offenbar erhebliche Sparma\u00dfnahmen an."
+                }
+            ],
+            "occupations": [],
+            "directQuotes": [],
+            "quotedInTitle": false,
+            "quotedInIntro": false
+        },
+        {
+            "name": "Marcus Diekmann",
+            "alternativeNames": [],
+            "age": -1,
+            "sex": "male",
+            "occurences": {
+                "total": 4,
+                "firstNameOnly": 0,
+                "lastNameOnly": 2,
+                "fullName": 2,
+                "nickname": 0
+            },
+            "inTitle": false,
+            "inIntro": true,
+            "_name": {
+                "firstname": "Marcus",
+                "lastname": "Diekmann",
+                "nickname": null,
+                "alternative_names": [],
+                "academic_title": null,
+                "nobility_title_or_rank": null
+            },
+            "descriptiveTexts": [
+                {
+                    "text": "Heute mit zehn Milliarden Euro Subventionen f\u00fcr Intel, geldwerten Infos f\u00fcr deutsche Managerinnen und Manager in den USA und einem lukrativen Nebenjob f\u00fcr Marcus Diekmann."
+                },
+                {
+                    "text": "Der Gr\u00fcnder, Berater und Investor Marcus Diekmann sucht bekanntlich einen Job als Topmanager, wobei ihn mein Kollege Lukas Heiny eng begleitet \u2013 dokumentiert in unserer Serie \"L\u00f6we sucht H\u00f6hle\"."
+                },
+                {
+                    "text": "Heute pr\u00e4sentiert Ihnen Kollege Heiny Teil drei \u2013 und darin nehmen die Ereignisse eine neue Wendung: Diekmann heuert bei Intumind an, einem Start-up aus D\u00fcsseldorf, das digitale Wohlf\u00fchl-Coachings anbietet."
+                },
+                {
+                    "text": "Doch Diekmann ist offenbar angetan von Intumind und auch von dessen Mitgr\u00fcnderin und Star-Influencerin Mareike Awe \u2013 er unterschrieb einen Beratervertrag im Gesamtvolumen von 300.000 Euro."
+                },
+                {
+                    "text": "Jetzt hat er zumindest schon mal einen lukrativen Nebenjob."
+                }
+            ],
+            "occupations": [
+                {
+                    "text": "Gr\u00fcnder, Berater und Investor"
+                }
+            ],
+            "directQuotes": [],
+            "quotedInTitle": false,
+            "quotedInIntro": true
+        }
+    ]
+}

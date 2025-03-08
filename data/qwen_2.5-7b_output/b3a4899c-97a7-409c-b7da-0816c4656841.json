@@ -1,0 +1,211 @@
+{
+    "persons": [
+        {
+            "name": "Alexander Timmer",
+            "alternativeNames": [],
+            "age": -1,
+            "sex": "male",
+            "occurences": {
+                "total": 5,
+                "firstNameOnly": 1,
+                "lastNameOnly": 2,
+                "fullName": 2,
+                "nickname": 0
+            },
+            "inTitle": false,
+            "inIntro": false,
+            "_name": {
+                "firstname": "Alexander",
+                "lastname": "Timmer",
+                "nickname": null,
+                "alternative_names": [],
+                "academic_title": null,
+                "nobility_title_or_rank": null
+            },
+            "descriptiveTexts": [
+                {
+                    "text": "Ford, General Motors, Nissan, Volvo: Sie alle haben bereits bekannt gegeben, in Nordamerika auf das Tesla-System umzustellen."
+                },
+                {
+                    "text": "\u00bbIn Nordamerika gibt es etwa 140.000 \u00f6ffentliche Ladem\u00f6glichkeiten f\u00fcr Elektroautos. Tesla kommt dabei auf 20.000 Supercharger mit High-Power-Charging-Funktion sowie auf weitere 20.000 Ladepunkte, an denen geringere Ladeleistungen zur Verf\u00fcgung stehen\u00ab, sagt Marktanalyst Alexander Timmer vom Beratungsunternehmen Berylls."
+                },
+                {
+                    "text": "\u00bbWer Kunden in Nordamerika eine fl\u00e4chendeckende Ladeinfrastruktur zur Verf\u00fcgung stellen m\u00f6chte, kommt an Tesla nicht vorbei\u00ab, sagt Timmer deshalb."
+                },
+                {
+                    "text": "Bislang jedoch entschieden sie sich gegen das Tesla-Modell."
+                },
+                {
+                    "text": "\u00bbM\u00fcssen Kunden anderer Marken die Tesla-App nutzen, um am Supercharger laden und bezahlen zu k\u00f6nnen? Bestimmt Tesla den Tarif, der im Auto eines anderen Herstellers gezahlt werden muss? Und sind die im Navi angezeigten Supercharger nicht letztlich Werbung f\u00fcr Tesla? Das sind nur einige der Fragen, die sich Hersteller, die ans Supercharger-Netz wollen, stellen m\u00fcssen\u00ab, sagt Berylls-Berater Timmer."
+                },
+                {
+                    "text": "\u00bbDie Tesla-Lader mit NACS-Anschluss trennen Gleich- und Wechselstr\u00f6me nicht physisch voneinander. Beide Str\u00f6me laufen \u00fcber die gleichen Pins\u00ab, sagt Alexander Nollau, Abteilungsleiter Energy bei der Produktnormkommission DKE."
+                },
+                {
+                    "text": "Berylls-Berater Alexander Timmer geht davon aus, dass diese Aufteilung bestehen bleibt: \u00bbLetztlich wird es beim E-Auto genau so laufen wie auch beim Smartphone. Das Produkt wird rund um den Globus verkauft \u2013 und vor Ort gibt es dann den jeweils passenden Stecker.\u00ab"
+                }
+            ],
+            "occupations": [
+                {
+                    "text": "Marktanalyst"
+                }
+            ],
+            "directQuotes": [],
+            "quotedInTitle": false,
+            "quotedInIntro": false
+        },
+        {
+            "name": "Alexander Nollau",
+            "alternativeNames": [],
+            "age": -1,
+            "sex": "male",
+            "occurences": {
+                "total": 5,
+                "firstNameOnly": 2,
+                "lastNameOnly": 2,
+                "fullName": 1,
+                "nickname": 0
+            },
+            "inTitle": false,
+            "inIntro": false,
+            "_name": {
+                "firstname": "Alexander",
+                "lastname": "Nollau",
+                "nickname": null,
+                "alternative_names": [],
+                "academic_title": null,
+                "nobility_title_or_rank": null
+            },
+            "descriptiveTexts": [
+                {
+                    "text": "Ford, General Motors, Nissan, Volvo: Sie alle haben bereits bekannt gegeben, in Nordamerika auf das Tesla-System umzustellen."
+                },
+                {
+                    "text": "\u00bbIn Nordamerika gibt es etwa 140.000 \u00f6ffentliche Ladem\u00f6glichkeiten f\u00fcr Elektroautos. Tesla kommt dabei auf 20.000 Supercharger mit High-Power-Charging-Funktion sowie auf weitere 20.000 Ladepunkte, an denen geringere Ladeleistungen zur Verf\u00fcgung stehen\u00ab, sagt Marktanalyst Alexander Timmer vom Beratungsunternehmen Berylls."
+                },
+                {
+                    "text": "Bislang jedoch entschieden sie sich gegen das Tesla-Modell."
+                },
+                {
+                    "text": "\u00bbDie Tesla-Lader mit NACS-Anschluss trennen Gleich- und Wechselstr\u00f6me nicht physisch voneinander. Beide Str\u00f6me laufen \u00fcber die gleichen Pins\u00ab, sagt Alexander Nollau, Abteilungsleiter Energy bei der Produktnormkommission DKE."
+                },
+                {
+                    "text": "\u00bbBei einer solchen Fehlfunktion k\u00f6nnten die elektronischen Bauteile, wie zum Beispiel Onboard-Lader oder die Batterie eines E-Autos, stark besch\u00e4digt werden\u00ab, so Nollau."
+                },
+                {
+                    "text": "\u00bbDer CCS-Standard ist international, \u00fcber die Grenzen Europas hinaus, f\u00fcr seine hohen Sicherheitsstandards bekannt\u00ab, sagt Nollau."
+                },
+                {
+                    "text": "Berylls-Berater Alexander Timmer geht davon aus, dass diese Aufteilung bestehen bleibt: \u00bbLetztlich wird es beim E-Auto genau so laufen wie auch beim Smartphone. Das Produkt wird rund um den Globus verkauft \u2013 und vor Ort gibt es dann den jeweils passenden Stecker.\u00ab"
+                }
+            ],
+            "occupations": [
+                {
+                    "text": "Abteilungsleiter Energy bei der Produktnormkommission DKE"
+                }
+            ],
+            "directQuotes": [],
+            "quotedInTitle": false,
+            "quotedInIntro": false
+        },
+        {
+            "name": "Ola K\u00e4llenius",
+            "alternativeNames": [],
+            "age": -1,
+            "sex": "male",
+            "occurences": {
+                "total": 1,
+                "firstNameOnly": 0,
+                "lastNameOnly": 0,
+                "fullName": 1,
+                "nickname": 0
+            },
+            "inTitle": false,
+            "inIntro": false,
+            "_name": {
+                "firstname": "Ola",
+                "lastname": "K\u00e4llenius",
+                "nickname": null,
+                "alternative_names": [],
+                "academic_title": null,
+                "nobility_title_or_rank": null
+            },
+            "descriptiveTexts": [
+                {
+                    "text": "Aussagen von Mercedes-Chef Ola K\u00e4llenius etwa lassen sich so deuten, dass auch er keine andere M\u00f6glichkeit mehr sah, als sich in Nordamerika dem Elektropionier unterzuordnen."
+                },
+                {
+                    "text": "Ford, General Motors, Nissan, Volvo: Sie alle haben bereits bekannt gegeben, in Nordamerika auf das Tesla-System umzustellen."
+                },
+                {
+                    "text": "Bislang jedoch entschieden sie sich gegen das Tesla-Modell."
+                },
+                {
+                    "text": "Er hat sich j\u00fcngst mit sechs weiteren Herstellern zusammengetan \u2013 darunter BMW, Hyundai, Kia und der Stellantis-Konzern \u2013 um gemeinsam ein Netz von 30.000 Schnellladern in Nordamerika aufzubauen und so auch Teslas F\u00fchrungsrolle bei der Ladearchitektur anzugreifen."
+                }
+            ],
+            "occupations": [],
+            "directQuotes": [
+                {
+                    "text": "Um den Umstieg auf Elektrofahrzeuge zu beschleunigen, m\u00f6chten wir unseren Kundinnen und Kunden das bestm\u00f6gliche Fahrerlebnis mit ihren Elektroautos bieten \u2013 einschlie\u00dflich schneller, bequemer und zuverl\u00e4ssiger Ladel\u00f6sungen"
+                }
+            ],
+            "quotedInTitle": false,
+            "quotedInIntro": false
+        },
+        {
+            "name": "Berylls",
+            "alternativeNames": [],
+            "age": -1,
+            "sex": "unknown",
+            "occurences": {
+                "total": 3,
+                "firstNameOnly": 0,
+                "lastNameOnly": 0,
+                "fullName": 3,
+                "nickname": 0
+            },
+            "inTitle": false,
+            "inIntro": false,
+            "_name": {
+                "firstname": null,
+                "lastname": null,
+                "nickname": null,
+                "alternative_names": [],
+                "academic_title": null,
+                "nobility_title_or_rank": null
+            },
+            "descriptiveTexts": [
+                {
+                    "text": "Sie konnten dort anfangs unbegrenzt kostenlos Strom tanken, die Kalifornier erschufen sich so ihr eigenes \u00d6kosystem aus Autos und Ladeinfrastruktur."
+                },
+                {
+                    "text": "Ford, General Motors, Nissan, Volvo: Sie alle haben bereits bekannt gegeben, in Nordamerika auf das Tesla-System umzustellen."
+                },
+                {
+                    "text": "\u00bbIn Nordamerika gibt es etwa 140.000 \u00f6ffentliche Ladem\u00f6glichkeiten f\u00fcr Elektroautos. Tesla kommt dabei auf 20.000 Supercharger mit High-Power-Charging-Funktion sowie auf weitere 20.000 Ladepunkte, an denen geringere Ladeleistungen zur Verf\u00fcgung stehen\u00ab, sagt Marktanalyst Alexander Timmer vom Beratungsunternehmen Berylls."
+                },
+                {
+                    "text": "Bislang jedoch entschieden sie sich gegen das Tesla-Modell."
+                },
+                {
+                    "text": "\u00bbM\u00fcssen Kunden anderer Marken die Tesla-App nutzen, um am Supercharger laden und bezahlen zu k\u00f6nnen? Bestimmt Tesla den Tarif, der im Auto eines anderen Herstellers gezahlt werden muss? Und sind die im Navi angezeigten Supercharger nicht letztlich Werbung f\u00fcr Tesla? Das sind nur einige der Fragen, die sich Hersteller, die ans Supercharger-Netz wollen, stellen m\u00fcssen\u00ab, sagt Berylls-Berater Timmer."
+                },
+                {
+                    "text": "Berylls-Berater Alexander Timmer geht davon aus, dass diese Aufteilung bestehen bleibt: \u00bbLetztlich wird es beim E-Auto genau so laufen wie auch beim Smartphone. Das Produkt wird rund um den Globus verkauft \u2013 und vor Ort gibt es dann den jeweils passenden Stecker.\u00ab"
+                }
+            ],
+            "occupations": [
+                {
+                    "text": "Dass ein Autohersteller bestimmt, zu welchen Tarifen Kunden anderer Hersteller bei ihm \u00bbtanken\u00ab d\u00fcrfen, w\u00e4re ein Novum."
+                },
+                {
+                    "text": "Berater"
+                }
+            ],
+            "directQuotes": [],
+            "quotedInTitle": false,
+            "quotedInIntro": false
+        }
+    ]
+}

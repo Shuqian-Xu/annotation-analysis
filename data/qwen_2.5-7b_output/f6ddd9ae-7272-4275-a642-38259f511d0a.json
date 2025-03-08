@@ -1,0 +1,644 @@
+{
+    "persons": [
+        {
+            "name": "Helmut Schlotterer",
+            "alternativeNames": [
+                "Helmut Schlotterer"
+            ],
+            "age": 76,
+            "sex": "male",
+            "occurences": {
+                "total": 2,
+                "firstNameOnly": 0,
+                "lastNameOnly": 1,
+                "fullName": 1,
+                "nickname": 0
+            },
+            "inTitle": false,
+            "inIntro": false,
+            "_name": {
+                "firstname": "Helmut",
+                "lastname": "Schlotterer",
+                "nickname": null,
+                "alternative_names": [
+                    "Helmut Schlotterer"
+                ],
+                "academic_title": null,
+                "nobility_title_or_rank": null
+            },
+            "descriptiveTexts": [
+                {
+                    "text": "Der Name Helmut Schlotterer d\u00fcrfte nicht jedem auf Anhieb gel\u00e4ufig sein."
+                },
+                {
+                    "text": "Schlotterer ist damit einer der erfolgreichsten Modeunternehmer des Landes."
+                },
+                {
+                    "text": "Mit 76 Jahren denkt er nun \u00fcber die Zukunft seiner Firma nach \u2013 und verfolgt dabei einen au\u00dfergew\u00f6hnlichen Plan: Die Belegschaft soll das Ruder \u00fcbernehmen."
+                }
+            ],
+            "occupations": [
+                {
+                    "text": "Modeunternehmer"
+                }
+            ],
+            "directQuotes": [],
+            "quotedInTitle": false,
+            "quotedInIntro": false
+        },
+        {
+            "name": "Hannah Steinharter",
+            "alternativeNames": [],
+            "age": -1,
+            "sex": "female",
+            "occurences": {
+                "total": 1,
+                "firstNameOnly": 0,
+                "lastNameOnly": 0,
+                "fullName": 1,
+                "nickname": 0
+            },
+            "inTitle": false,
+            "inIntro": false,
+            "_name": {
+                "firstname": "Hannah",
+                "lastname": "Steinharter",
+                "nickname": null,
+                "alternative_names": [],
+                "academic_title": null,
+                "nobility_title_or_rank": null
+            },
+            "descriptiveTexts": [
+                {
+                    "text": "Nun berichten meine Kollegin Hannah Steinharter und Kollege Dietmar Palan, dass auch Konstantina Kanellopoulos, Generalbevollm\u00e4chtigte im Bereich Value-add, auf dem Sprung ist."
+                }
+            ],
+            "occupations": [],
+            "directQuotes": [],
+            "quotedInTitle": false,
+            "quotedInIntro": false
+        },
+        {
+            "name": "Klaus Hommels",
+            "alternativeNames": [],
+            "age": -1,
+            "sex": "male",
+            "occurences": {
+                "total": 3,
+                "firstNameOnly": 0,
+                "lastNameOnly": 2,
+                "fullName": 1,
+                "nickname": 0
+            },
+            "inTitle": false,
+            "inIntro": false,
+            "_name": {
+                "firstname": "Klaus",
+                "lastname": "Hommels",
+                "nickname": null,
+                "alternative_names": [],
+                "academic_title": null,
+                "nobility_title_or_rank": null
+            },
+            "descriptiveTexts": [
+                {
+                    "text": "Klaus Hommels gibt gern den Starinvestor und geopolitischen Vordenker, beispielsweise in seiner neuen Rolle als Vorsitzender des frisch gestarteten Innovationsfonds der Nato."
+                },
+                {
+                    "text": "Doch Investoren, die Hommels ihr Geld anvertraut haben, finden immer weniger Gefallen an ihm."
+                },
+                {
+                    "text": "Die Gr\u00fcnde haben meine Kollegen Christina Kyriasoglou und Jonas Rest recherchiert: Die Fonds von Hommels' Investmentfirma Lakestar halten offenbar immer seltener, was der Maestro einst versprach."
+                }
+            ],
+            "occupations": [
+                {
+                    "text": "Investoren, die Hommels ihr Geld anvertraut haben, finden immer weniger Gefallen an ihm."
+                }
+            ],
+            "directQuotes": [],
+            "quotedInTitle": false,
+            "quotedInIntro": false
+        },
+        {
+            "name": "Dietmar Palan",
+            "alternativeNames": [],
+            "age": -1,
+            "sex": "male",
+            "occurences": {
+                "total": 1,
+                "firstNameOnly": 0,
+                "lastNameOnly": 0,
+                "fullName": 1,
+                "nickname": 0
+            },
+            "inTitle": false,
+            "inIntro": false,
+            "_name": {
+                "firstname": "Dietmar",
+                "lastname": "Palan",
+                "nickname": null,
+                "alternative_names": [],
+                "academic_title": null,
+                "nobility_title_or_rank": null
+            },
+            "descriptiveTexts": [
+                {
+                    "text": "Nun berichten meine Kollegin Hannah Steinharter und Kollege Dietmar Palan, dass auch Konstantina Kanellopoulos, Generalbevollm\u00e4chtigte im Bereich Value-add, auf dem Sprung ist."
+                }
+            ],
+            "occupations": [],
+            "directQuotes": [],
+            "quotedInTitle": false,
+            "quotedInIntro": false
+        },
+        {
+            "name": "Martin No\u00e9",
+            "alternativeNames": [],
+            "age": -1,
+            "sex": "male",
+            "occurences": {
+                "total": 4,
+                "firstNameOnly": 1,
+                "lastNameOnly": 2,
+                "fullName": 1,
+                "nickname": 0
+            },
+            "inTitle": false,
+            "inIntro": false,
+            "_name": {
+                "firstname": "Martin",
+                "lastname": "No\u00e9",
+                "nickname": null,
+                "alternative_names": [],
+                "academic_title": null,
+                "nobility_title_or_rank": null
+            },
+            "descriptiveTexts": [
+                {
+                    "text": "Genau diese Frage besch\u00e4ftigte auch meine Kollegen Margret Hucko und Martin No\u00e9, die zu Benko und seinen Aktivit\u00e4ten in der momentanen Umbruchphase im Immobiliengesch\u00e4ft recherchiert haben."
+                },
+                {
+                    "text": "Das liegt aber vor allem daran, dass die Investoren bereits im vergangenen Sommer eine Milliarde Euro frisches Kapital nachgeschossen haben, so Hucko und No\u00e9."
+                },
+                {
+                    "text": "Wie der aussieht, haben die Kollegen Hucko und No\u00e9 f\u00fcr Sie recherchiert: Der neue Abbauplan des Immobilienk\u00f6nigs Ren\u00e9 Benko"
+                },
+                {
+                    "text": "Kollege Martin Mehringer schildert Ihnen alle Details: Sozialismus \u2013der radikale Erbfolgeplan des Marc-Cain-Inhabers"
+                }
+            ],
+            "occupations": [],
+            "directQuotes": [],
+            "quotedInTitle": false,
+            "quotedInIntro": false
+        },
+        {
+            "name": "Tina Turner",
+            "alternativeNames": [],
+            "age": -1,
+            "sex": "female",
+            "occurences": {
+                "total": 2,
+                "firstNameOnly": 0,
+                "lastNameOnly": 0,
+                "fullName": 2,
+                "nickname": 0
+            },
+            "inTitle": false,
+            "inIntro": false,
+            "_name": {
+                "firstname": "Tina",
+                "lastname": "Turner",
+                "nickname": null,
+                "alternative_names": [],
+                "academic_title": null,
+                "nobility_title_or_rank": null
+            },
+            "descriptiveTexts": [
+                {
+                    "text": "Mit Tina Turner ist eine der ganz gro\u00dfen K\u00fcnstlerinnen der Rock- und Pop-Welt verstorben, die den meisten als wilder B\u00fchnenstar mit unverwechselbarer Stimme in Erinnerung bleiben d\u00fcrfte."
+                },
+                {
+                    "text": "Die Kollegen vom Harvard Business manager allerdings hatten vor wenigen Jahren die Gelegenheit, ein Interview mit der S\u00e4ngerin zu f\u00fchren, und lernten dabei eine andere Seite von Tina Turner kennen: Die S\u00e4ngerin sprach \u00fcber schwere Zeiten in ihrem Leben, \u00fcber Missbrauch, und dar\u00fcber, wie ihr Spiritualit\u00e4t und buddhistische Praxis geholfen haben, damit fertigzuwerden."
+                }
+            ],
+            "occupations": [
+                {
+                    "text": "S\u00e4ngerin"
+                }
+            ],
+            "directQuotes": [
+                {
+                    "text": "F\u00fcr mich war es das Beste, auf der B\u00fchne zu stehen."
+                }
+            ],
+            "quotedInTitle": false,
+            "quotedInIntro": false
+        },
+        {
+            "name": "Helene von Roeder",
+            "alternativeNames": [],
+            "age": -1,
+            "sex": "female",
+            "occurences": {
+                "total": 3,
+                "firstNameOnly": 1,
+                "lastNameOnly": 2,
+                "fullName": 0,
+                "nickname": 0
+            },
+            "inTitle": false,
+            "inIntro": false,
+            "_name": {
+                "firstname": "Helene",
+                "lastname": "Roeder",
+                "nickname": null,
+                "alternative_names": [],
+                "academic_title": null,
+                "nobility_title_or_rank": "Graf"
+            },
+            "descriptiveTexts": [
+                {
+                    "text": "Als h\u00e4tte der Immobilienkonzern Vonovia mit der Immobilienkrise nicht schon genug zu tun, gibt es auch noch intern \u00c4rger: Dass Vorst\u00e4ndin Helene von Roeder das Unternehmen verlassen wird, ist bereits bekannt."
+                },
+                {
+                    "text": "Und die Managerin geht offenbar nicht ganz freiwillig, wie die Kollegen erfahren haben: Hintergrund ist vielmehr ein Streit \u2013 ausgerechnet mit ihrer Vorgesetzten von Roeder."
+                }
+            ],
+            "occupations": [],
+            "directQuotes": [],
+            "quotedInTitle": false,
+            "quotedInIntro": false
+        },
+        {
+            "name": "Martin Mehringer",
+            "alternativeNames": [],
+            "age": -1,
+            "sex": "male",
+            "occurences": {
+                "total": 2,
+                "firstNameOnly": 2,
+                "lastNameOnly": 0,
+                "fullName": 0,
+                "nickname": 0
+            },
+            "inTitle": false,
+            "inIntro": false,
+            "_name": {
+                "firstname": "Martin",
+                "lastname": "Mehring",
+                "nickname": null,
+                "alternative_names": [],
+                "academic_title": null,
+                "nobility_title_or_rank": null
+            },
+            "descriptiveTexts": [
+                {
+                    "text": "Genau diese Frage besch\u00e4ftigte auch meine Kollegen Margret Hucko und Martin No\u00e9, die zu Benko und seinen Aktivit\u00e4ten in der momentanen Umbruchphase im Immobiliengesch\u00e4ft recherchiert haben."
+                },
+                {
+                    "text": "Kollege Martin Mehringer schildert Ihnen alle Details: Sozialismus \u2013der radikale Erbfolgeplan des Marc-Cain-Inhabers"
+                }
+            ],
+            "occupations": [],
+            "directQuotes": [],
+            "quotedInTitle": false,
+            "quotedInIntro": false
+        },
+        {
+            "name": "Konstantina Kanellopoulo",
+            "alternativeNames": [],
+            "age": -1,
+            "sex": "female",
+            "occurences": {
+                "total": 1,
+                "firstNameOnly": 0,
+                "lastNameOnly": 0,
+                "fullName": 1,
+                "nickname": 0
+            },
+            "inTitle": false,
+            "inIntro": false,
+            "_name": {
+                "firstname": "Konstantina",
+                "lastname": "Kanellopoulo",
+                "nickname": null,
+                "alternative_names": [],
+                "academic_title": null,
+                "nobility_title_or_rank": null
+            },
+            "descriptiveTexts": [
+                {
+                    "text": "Nun berichten meine Kollegin Hannah Steinharter und Kollege Dietmar Palan, dass auch Konstantina Kanellopoulos, Generalbevollm\u00e4chtigte im Bereich Value-add, auf dem Sprung ist."
+                }
+            ],
+            "occupations": [],
+            "directQuotes": [],
+            "quotedInTitle": false,
+            "quotedInIntro": false
+        },
+        {
+            "name": "Ren\u00e9 Benko",
+            "alternativeNames": [],
+            "age": -1,
+            "sex": "male",
+            "occurences": {
+                "total": 7,
+                "firstNameOnly": 0,
+                "lastNameOnly": 4,
+                "fullName": 3,
+                "nickname": 0
+            },
+            "inTitle": false,
+            "inIntro": true,
+            "_name": {
+                "firstname": "Ren\u00e9",
+                "lastname": "Benko",
+                "nickname": null,
+                "alternative_names": [],
+                "academic_title": null,
+                "nobility_title_or_rank": null
+            },
+            "descriptiveTexts": [
+                {
+                    "text": "Heute mit Ren\u00e9 Benko in Not, dem Wirtschaftswachstum in Rot und Vonovias Hausfrieden aus dem Lot."
+                },
+                {
+                    "text": "Ren\u00e9 Benko wollte schon immer hoch hinaus, aber dieses Treffen \u00fcber den D\u00e4chern von Berlin h\u00e4tte er sich wohl lieber erspart: An einem Montagmorgen Anfang Mai trifft sich der \u00f6sterreichische Milliard\u00e4r mit wichtigen Investoren im 31."
+                },
+                {
+                    "text": "Die Geldgeber wollen Antworten: Wird Benkos Unternehmensgruppe Signa die Immobilienkrise \u00fcberstehen, die gerade auf Europa zurollt?"
+                },
+                {
+                    "text": "Genau diese Frage besch\u00e4ftigte auch meine Kollegen Margret Hucko und Martin No\u00e9, die zu Benko und seinen Aktivit\u00e4ten in der momentanen Umbruchphase im Immobiliengesch\u00e4ft recherchiert haben."
+                },
+                {
+                    "text": "Ergebnis: Benko, der in der Vergangenheit gro\u00dfe Erfolge, aber auch schwierige Zeiten erlebt hat (Stichwort: zweimalige Insolvenz von Galeria Karstadt Kaufhof), hat den Ernst der Lage offenbar erkannt."
+                },
+                {
+                    "text": "Um die zu bekommen, hat Benko bei der Signa einen radikalen Kursschwenk eingeleitet und einen grundlegenden Rettungsplan aufgestellt."
+                },
+                {
+                    "text": "Wie der aussieht, haben die Kollegen Hucko und No\u00e9 f\u00fcr Sie recherchiert: Der neue Abbauplan des Immobilienk\u00f6nigs Ren\u00e9 Benko"
+                }
+            ],
+            "occupations": [
+                {
+                    "text": "Milliard\u00e4r"
+                },
+                {
+                    "text": "Immobilienk\u00f6nig"
+                },
+                {
+                    "text": "Rettungsplan"
+                },
+                {
+                    "text": "Finanzierung"
+                }
+            ],
+            "directQuotes": [],
+            "quotedInTitle": false,
+            "quotedInIntro": true
+        },
+        {
+            "name": "Jonas Rest",
+            "alternativeNames": [],
+            "age": -1,
+            "sex": "male",
+            "occurences": {
+                "total": 1,
+                "firstNameOnly": 0,
+                "lastNameOnly": 0,
+                "fullName": 1,
+                "nickname": 0
+            },
+            "inTitle": false,
+            "inIntro": false,
+            "_name": {
+                "firstname": "Jonas",
+                "lastname": "Rest",
+                "nickname": null,
+                "alternative_names": [],
+                "academic_title": null,
+                "nobility_title_or_rank": null
+            },
+            "descriptiveTexts": [
+                {
+                    "text": "Die Gr\u00fcnde haben meine Kollegen Christina Kyriasoglou und Jonas Rest recherchiert: Die Fonds von Hommels' Investmentfirma Lakestar halten offenbar immer seltener, was der Maestro einst versprach."
+                }
+            ],
+            "occupations": [],
+            "directQuotes": [],
+            "quotedInTitle": false,
+            "quotedInIntro": false
+        },
+        {
+            "name": "Marc Cain",
+            "alternativeNames": [],
+            "age": -1,
+            "sex": "male",
+            "occurences": {
+                "total": 3,
+                "firstNameOnly": 1,
+                "lastNameOnly": 1,
+                "fullName": 1,
+                "nickname": 0
+            },
+            "inTitle": false,
+            "inIntro": false,
+            "_name": {
+                "firstname": "Marc",
+                "lastname": "Cain",
+                "nickname": null,
+                "alternative_names": [],
+                "academic_title": null,
+                "nobility_title_or_rank": null
+            },
+            "descriptiveTexts": [
+                {
+                    "text": "Sein Modelabel dagegen ist schon eher bekannt: Marc Cain."
+                },
+                {
+                    "text": "Kollege Martin Mehringer schildert Ihnen alle Details: Sozialismus \u2013der radikale Erbfolgeplan des Marc-Cain-Inhabers"
+                }
+            ],
+            "occupations": [],
+            "directQuotes": [],
+            "quotedInTitle": false,
+            "quotedInIntro": false
+        },
+        {
+            "name": "Vonovia",
+            "alternativeNames": [],
+            "age": -1,
+            "sex": "unknown",
+            "occurences": {
+                "total": 2,
+                "firstNameOnly": 0,
+                "lastNameOnly": 0,
+                "fullName": 2,
+                "nickname": 0
+            },
+            "inTitle": false,
+            "inIntro": true,
+            "_name": {
+                "firstname": null,
+                "lastname": null,
+                "nickname": null,
+                "alternative_names": [],
+                "academic_title": null,
+                "nobility_title_or_rank": null
+            },
+            "descriptiveTexts": [
+                {
+                    "text": "Heute mit Ren\u00e9 Benko in Not, dem Wirtschaftswachstum in Rot und Vonovias Hausfrieden aus dem Lot."
+                },
+                {
+                    "text": "Als h\u00e4tte der Immobilienkonzern Vonovia mit der Immobilienkrise nicht schon genug zu tun, gibt es auch noch intern \u00c4rger: Dass Vorst\u00e4ndin Helene von Roeder das Unternehmen verlassen wird, ist bereits bekannt."
+                }
+            ],
+            "occupations": [],
+            "directQuotes": [],
+            "quotedInTitle": false,
+            "quotedInIntro": true
+        },
+        {
+            "name": "Christoph Rottwilm",
+            "alternativeNames": [],
+            "age": -1,
+            "sex": "male",
+            "occurences": {
+                "total": 1,
+                "firstNameOnly": 0,
+                "lastNameOnly": 0,
+                "fullName": 1,
+                "nickname": 0
+            },
+            "inTitle": false,
+            "inIntro": false,
+            "_name": {
+                "firstname": "Christoph",
+                "lastname": "Rottwilm",
+                "nickname": null,
+                "alternative_names": [],
+                "academic_title": null,
+                "nobility_title_or_rank": null
+            },
+            "descriptiveTexts": [
+                {
+                    "text": "Beste Gr\u00fc\u00dfe, Ihr Christoph Rottwilm"
+                }
+            ],
+            "occupations": [],
+            "directQuotes": [],
+            "quotedInTitle": false,
+            "quotedInIntro": false
+        },
+        {
+            "name": "Dieter Schwarz",
+            "alternativeNames": [],
+            "age": -1,
+            "sex": "male",
+            "occurences": {
+                "total": 2,
+                "firstNameOnly": 0,
+                "lastNameOnly": 1,
+                "fullName": 1,
+                "nickname": 0
+            },
+            "inTitle": false,
+            "inIntro": false,
+            "_name": {
+                "firstname": "Dieter",
+                "lastname": "Schwarz",
+                "nickname": null,
+                "alternative_names": [],
+                "academic_title": null,
+                "nobility_title_or_rank": null
+            },
+            "descriptiveTexts": [
+                {
+                    "text": "Gesch\u00e4ftszahlen von Europas Lebensmittelh\u00e4ndler Nummer eins: Die Schwarz-Gruppe (Lidl, Kaufland) hat ihren Umsatz im vergangenen Jahr um beachtliche 15,4 Prozent auf 154,1 Milliarden Euro gesteigert."
+                },
+                {
+                    "text": "Klar ist aber auch: Der Konzern von Gr\u00fcnder Dieter Schwarz konnte wie die gesamte Branche im Zuge der Inflation nennenswerte Preiserh\u00f6hungen durchsetzen."
+                }
+            ],
+            "occupations": [],
+            "directQuotes": [],
+            "quotedInTitle": false,
+            "quotedInIntro": false
+        },
+        {
+            "name": "Margret Hucko",
+            "alternativeNames": [],
+            "age": -1,
+            "sex": "female",
+            "occurences": {
+                "total": 3,
+                "firstNameOnly": 0,
+                "lastNameOnly": 2,
+                "fullName": 1,
+                "nickname": 0
+            },
+            "inTitle": false,
+            "inIntro": false,
+            "_name": {
+                "firstname": "Margret",
+                "lastname": "Hucko",
+                "nickname": null,
+                "alternative_names": [],
+                "academic_title": null,
+                "nobility_title_or_rank": null
+            },
+            "descriptiveTexts": [
+                {
+                    "text": "Genau diese Frage besch\u00e4ftigte auch meine Kollegen Margret Hucko und Martin No\u00e9, die zu Benko und seinen Aktivit\u00e4ten in der momentanen Umbruchphase im Immobiliengesch\u00e4ft recherchiert haben."
+                },
+                {
+                    "text": "Das liegt aber vor allem daran, dass die Investoren bereits im vergangenen Sommer eine Milliarde Euro frisches Kapital nachgeschossen haben, so Hucko und No\u00e9."
+                },
+                {
+                    "text": "Wie der aussieht, haben die Kollegen Hucko und No\u00e9 f\u00fcr Sie recherchiert: Der neue Abbauplan des Immobilienk\u00f6nigs Ren\u00e9 Benko"
+                }
+            ],
+            "occupations": [],
+            "directQuotes": [],
+            "quotedInTitle": false,
+            "quotedInIntro": false
+        },
+        {
+            "name": "Christina Kyriasoglou",
+            "alternativeNames": [],
+            "age": -1,
+            "sex": "female",
+            "occurences": {
+                "total": 1,
+                "firstNameOnly": 0,
+                "lastNameOnly": 0,
+                "fullName": 1,
+                "nickname": 0
+            },
+            "inTitle": false,
+            "inIntro": false,
+            "_name": {
+                "firstname": "Christina",
+                "lastname": "Kyriasoglou",
+                "nickname": null,
+                "alternative_names": [],
+                "academic_title": null,
+                "nobility_title_or_rank": null
+            },
+            "descriptiveTexts": [
+                {
+                    "text": "Die Gr\u00fcnde haben meine Kollegen Christina Kyriasoglou und Jonas Rest recherchiert: Die Fonds von Hommels' Investmentfirma Lakestar halten offenbar immer seltener, was der Maestro einst versprach."
+                }
+            ],
+            "occupations": [],
+            "directQuotes": [],
+            "quotedInTitle": false,
+            "quotedInIntro": false
+        }
+    ]
+}

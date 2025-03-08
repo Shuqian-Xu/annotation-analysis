@@ -1,0 +1,373 @@
+{
+    "persons": [
+        {
+            "name": "Olaf Scholz",
+            "alternativeNames": [],
+            "age": -1,
+            "sex": "male",
+            "occurences": {
+                "total": 2,
+                "firstNameOnly": 0,
+                "lastNameOnly": 1,
+                "fullName": 1,
+                "nickname": 0
+            },
+            "inTitle": false,
+            "inIntro": false,
+            "_name": {
+                "firstname": "Olaf",
+                "lastname": "Scholz",
+                "nickname": null,
+                "alternative_names": [],
+                "academic_title": null,
+                "nobility_title_or_rank": null
+            },
+            "descriptiveTexts": [
+                {
+                    "text": "Und Olaf Scholz?"
+                },
+                {
+                    "text": "Begeistert habe Scholz sie zumindest neulich im Bundestag, als er Friedrich Merz und die Union scharf attackierte."
+                }
+            ],
+            "occupations": [],
+            "directQuotes": [
+                {
+                    "text": "Der Regierungschef kann nicht jede Woche auf den Tisch hauen."
+                }
+            ],
+            "quotedInTitle": false,
+            "quotedInIntro": false
+        },
+        {
+            "name": "Christian Lindner",
+            "alternativeNames": [],
+            "age": -1,
+            "sex": "male",
+            "occurences": {
+                "total": 1,
+                "firstNameOnly": 0,
+                "lastNameOnly": 0,
+                "fullName": 1,
+                "nickname": 0
+            },
+            "inTitle": false,
+            "inIntro": false,
+            "_name": {
+                "firstname": "Christian",
+                "lastname": "Lindner",
+                "nickname": null,
+                "alternative_names": [],
+                "academic_title": null,
+                "nobility_title_or_rank": null
+            },
+            "descriptiveTexts": [
+                {
+                    "text": "Ob sie damit Familienministerin Lisa Paus von den Gr\u00fcnen oder Finanzminister Christian Lindner von der FDP meint, will Tr\u0103snea nicht sagen."
+                }
+            ],
+            "occupations": [
+                {
+                    "text": "Finanzminister"
+                }
+            ],
+            "directQuotes": [],
+            "quotedInTitle": false,
+            "quotedInIntro": false
+        },
+        {
+            "name": "Franziska Giffey",
+            "alternativeNames": [],
+            "age": -1,
+            "sex": "female",
+            "occurences": {
+                "total": 1,
+                "firstNameOnly": 0,
+                "lastNameOnly": 0,
+                "fullName": 1,
+                "nickname": 0
+            },
+            "inTitle": false,
+            "inIntro": false,
+            "_name": {
+                "firstname": "Franziska",
+                "lastname": "Giffey",
+                "nickname": null,
+                "alternative_names": [],
+                "academic_title": null,
+                "nobility_title_or_rank": null
+            },
+            "descriptiveTexts": [
+                {
+                    "text": "Sie wisse aus ihrer Zeit als Staatssekret\u00e4rin im rot-rot-gr\u00fcnen Senat von Franziska Giffey aber auch, dass das mit dem F\u00fchren nicht so leicht ist bei drei Koalitionspartnern."
+                }
+            ],
+            "occupations": [],
+            "directQuotes": [],
+            "quotedInTitle": false,
+            "quotedInIntro": false
+        },
+        {
+            "name": "Otto Wels",
+            "alternativeNames": [],
+            "age": -1,
+            "sex": "male",
+            "occurences": {
+                "total": 2,
+                "firstNameOnly": 0,
+                "lastNameOnly": 1,
+                "fullName": 1,
+                "nickname": 0
+            },
+            "inTitle": false,
+            "inIntro": false,
+            "_name": {
+                "firstname": "Otto",
+                "lastname": "Wels",
+                "nickname": null,
+                "alternative_names": [],
+                "academic_title": null,
+                "nobility_title_or_rank": null
+            },
+            "descriptiveTexts": [
+                {
+                    "text": "Tr\u0103snea verweist auf ihren Wahlkreis Treptow-K\u00f6penick, da habe Otto Wels gelebt."
+                },
+                {
+                    "text": "Mit 93 anderen aus seiner Fraktion stimmte Wels gegen das sogenannte Erm\u00e4chtigungsgesetz der Nationalsozialisten, das der Demokratie von Weimar den Garaus machte."
+                }
+            ],
+            "occupations": [],
+            "directQuotes": [],
+            "quotedInTitle": false,
+            "quotedInIntro": false
+        },
+        {
+            "name": "Friedrich Merz",
+            "alternativeNames": [],
+            "age": -1,
+            "sex": "male",
+            "occurences": {
+                "total": 1,
+                "firstNameOnly": 0,
+                "lastNameOnly": 0,
+                "fullName": 1,
+                "nickname": 0
+            },
+            "inTitle": false,
+            "inIntro": false,
+            "_name": {
+                "firstname": "Friedrich",
+                "lastname": "Merz",
+                "nickname": null,
+                "alternative_names": [],
+                "academic_title": null,
+                "nobility_title_or_rank": null
+            },
+            "descriptiveTexts": [
+                {
+                    "text": "Begeistert habe Scholz sie zumindest neulich im Bundestag, als er Friedrich Merz und die Union scharf attackierte."
+                }
+            ],
+            "occupations": [],
+            "directQuotes": [],
+            "quotedInTitle": false,
+            "quotedInIntro": false
+        },
+        {
+            "name": "Ana-Maria Tr\u0103snea",
+            "alternativeNames": [],
+            "age": 29,
+            "sex": "female",
+            "occurences": {
+                "total": 15,
+                "firstNameOnly": 0,
+                "lastNameOnly": 11,
+                "fullName": 4,
+                "nickname": 0
+            },
+            "inTitle": false,
+            "inIntro": true,
+            "_name": {
+                "firstname": "Ana-Maria",
+                "lastname": "Tr\u0103snea",
+                "nickname": null,
+                "alternative_names": [],
+                "academic_title": null,
+                "nobility_title_or_rank": null
+            },
+            "descriptiveTexts": [
+                {
+                    "text": "Ana-Maria Tr\u0103snea verlor bei der Wiederholungswahl in Berlin ihr Mandat."
+                },
+                {
+                    "text": "\u00bbGestern Vormittag habe ich noch geweint\u00ab, sagt Ana-Maria Tr\u0103snea: \u00bbAber ich gebe nicht auf.\u00ab"
+                },
+                {
+                    "text": "F\u00fcr sie, f\u00fcr ihre Mitarbeiter, die ihre Jobs nun verlieren."
+                },
+                {
+                    "text": "W\u00e4hrend die Parteispitze das Ergebnis herunterspielt, trifft es Tr\u0103snea hart."
+                },
+                {
+                    "text": "Tr\u0103sneas Mandat."
+                },
+                {
+                    "text": "F\u00fcr sie wird eine Genossin ins Parlament einziehen, die das gar nicht will."
+                },
+                {
+                    "text": "Zumindest nicht auf Kosten der Berliner Parteifreundin, wie sie dem \u00bbStern\u00ab versicherte."
+                },
+                {
+                    "text": "Tr\u0103snea sagt, sie habe das gelesen."
+                },
+                {
+                    "text": "Gesprochen hat sie mit der Nachr\u00fcckerin nicht."
+                },
+                {
+                    "text": "Gut zwei Wochen ist Ana-Maria Tr\u0103snea nun noch Abgeordnete, Anfang M\u00e4rz verliert sie das Mandat."
+                },
+                {
+                    "text": "Im Falle der Abgeordneten Tr\u0103snea stoppt die Wiederholungswahl eine politische Blitzkarriere."
+                },
+                {
+                    "text": "Mit 13 Jahren kam sie aus Rum\u00e4nien nach Deutschland, machte Abitur und studierte Kulturwissenschaften."
+                },
+                {
+                    "text": "2021 wurde sie mit 27 Jahren j\u00fcngste Staatssekret\u00e4rin im Berliner Senat."
+                },
+                {
+                    "text": "Erst im Mai 2023 r\u00fcckte Tr\u0103snea in den Bundestag nach, als erste weibliche Abgeordnete aus Treptow-K\u00f6penick in Berlins S\u00fcdosten."
+                },
+                {
+                    "text": "\u00bbDas kann mir niemand mehr nehmen\u00ab, sagt sie."
+                },
+                {
+                    "text": "In ihren nur neun Monaten als Parlamentarierin hat sie erlebt, was in einem politischen B\u00fcndnis alles schieflaufen kann."
+                },
+                {
+                    "text": "Ana-Maria Tr\u0103snea ist nun das j\u00fcngste Opfer des Ampelniedergangs."
+                },
+                {
+                    "text": "Sie hat erlebt, wie die Sache mit der Kindergrundsicherung daneben ging."
+                },
+                {
+                    "text": "Diese Sozialreform sei bereits torpediert worden, bevor es konkret wurde, beklagt sie, die den Schwerpunkt ihrer Arbeit im Parlament auf Kinder und Jugendliche gelegt hat."
+                },
+                {
+                    "text": "Ob sie damit Familienministerin Lisa Paus von den Gr\u00fcnen oder Finanzminister Christian Lindner von der FDP meint, will Tr\u0103snea nicht sagen."
+                },
+                {
+                    "text": "Sie wisse aus ihrer Zeit als Staatssekret\u00e4rin im rot-rot-gr\u00fcnen Senat von Franziska Giffey aber auch, dass das mit dem F\u00fchren nicht so leicht ist bei drei Koalitionspartnern."
+                },
+                {
+                    "text": "Die Union wolle nicht, dass der Regierung etwas gelingt, \u00e4rgert sich Tr\u0103snea."
+                },
+                {
+                    "text": "Nicht so, meint sie, da sei zu viel Taktik, zu wenig echte \u00dcberzeugung bei der Union."
+                },
+                {
+                    "text": "Sie findet das gef\u00e4hrlich."
+                },
+                {
+                    "text": "Ersch\u00fcttert habe sie, dass die AfD trotz der bundesweiten Proteste bei der Wahl in Berlin zulegen konnte."
+                },
+                {
+                    "text": "Die Stimmung im Land habe sich ver\u00e4ndert: \u00bbIn den vergangenen neun Monaten erlebe ich eine Radikalisierung und einen Vertrauensverlust in demokratische Institutionen, die ich nicht f\u00fcr m\u00f6glich gehalten h\u00e4tte.\u00ab"
+                },
+                {
+                    "text": "Schon vor dem Wahlkampf sei sie regelm\u00e4\u00dfig auf der Stra\u00dfe gewesen, an Infost\u00e4nden und bei B\u00fcrgersprechstunden habe sie die wachsende Aggressivit\u00e4t pers\u00f6nlich erlebt."
+                },
+                {
+                    "text": "Sie berichtet von einer Begegnung mit einer Rentnerin, einer ehemaligen \u00c4rztin."
+                },
+                {
+                    "text": "Die Frau habe sie 40 Minuten lang beschimpft, wegen des ausl\u00e4ndischen Namens k\u00f6nne Tr\u0103snea sie im Bundestag nicht repr\u00e4sentieren: \u00bbUnd dann hat sie gesagt: \u203aSie von der SPD werden alle noch verrecken.\u2039\u00ab"
+                },
+                {
+                    "text": "Tr\u0103snea verweist auf ihren Wahlkreis Treptow-K\u00f6penick, da habe Otto Wels gelebt."
+                },
+                {
+                    "text": "\u00bbIch f\u00fchle mich an meiner Ehre gepackt\u00ab, sagt Tr\u0103snea: \u00bbMit der Demokratie spielt man nicht.\u00ab"
+                },
+                {
+                    "text": "Bei der n\u00e4chsten Bundestagswahl in anderthalb Jahren will sie wieder kandidieren."
+                },
+                {
+                    "text": "\u00bbKurze Verschnaufpause\u00ab, sagt sie."
+                },
+                {
+                    "text": "Tr\u0103snea will mitk\u00e4mpfen."
+                }
+            ],
+            "occupations": [
+                {
+                    "text": "Die junge Sozialdemokratin w\u00fcnscht sich mehr F\u00fchrung."
+                },
+                {
+                    "text": "Wenn die Union wie die AfD behaupte, die Ampel mache eine unsoziale Politik und wirtschafte das Land herunter, nutze das nur den Rechtsextremen."
+                },
+                {
+                    "text": "Staatssekret\u00e4rin im Berliner Senat"
+                }
+            ],
+            "directQuotes": [
+                {
+                    "text": "Gestern Vormittag habe ich noch geweint"
+                },
+                {
+                    "text": "Aber ich gebe nicht auf."
+                },
+                {
+                    "text": "Das kann mir niemand mehr nehmen"
+                },
+                {
+                    "text": "In den vergangenen neun Monaten erlebe ich eine Radikalisierung und einen Vertrauensverlust in demokratische Institutionen, die ich nicht f\u00fcr m\u00f6glich gehalten h\u00e4tte."
+                },
+                {
+                    "text": "Freiheit und Leben kann man uns nehmen, die Ehre nicht."
+                },
+                {
+                    "text": "Ich f\u00fchle mich an meiner Ehre gepackt"
+                },
+                {
+                    "text": "Mit der Demokratie spielt man nicht."
+                }
+            ],
+            "quotedInTitle": false,
+            "quotedInIntro": true
+        },
+        {
+            "name": "Lisa Paus",
+            "alternativeNames": [],
+            "age": -1,
+            "sex": "female",
+            "occurences": {
+                "total": 1,
+                "firstNameOnly": 0,
+                "lastNameOnly": 0,
+                "fullName": 1,
+                "nickname": 0
+            },
+            "inTitle": false,
+            "inIntro": false,
+            "_name": {
+                "firstname": "Lisa",
+                "lastname": "Paus",
+                "nickname": null,
+                "alternative_names": [],
+                "academic_title": null,
+                "nobility_title_or_rank": null
+            },
+            "descriptiveTexts": [
+                {
+                    "text": "Ob sie damit Familienministerin Lisa Paus von den Gr\u00fcnen oder Finanzminister Christian Lindner von der FDP meint, will Tr\u0103snea nicht sagen."
+                }
+            ],
+            "occupations": [],
+            "directQuotes": [],
+            "quotedInTitle": false,
+            "quotedInIntro": false
+        }
+    ]
+}

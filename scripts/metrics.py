@@ -61,6 +61,12 @@ def jaccard_similarity(human_list, llm_list):
     :param llm_list: List of strings from LLM annotation.
     :return: Jaccard similarity score between 0 and 1.
     """
+    # Extract "text" values if lists contain dictionaries
+    if isinstance(human_list, list):
+        human_list = [entry["text"] for entry in human_list if isinstance(entry, dict) and "text" in entry]
+    if isinstance(llm_list, list):
+        llm_list = [entry["text"] for entry in llm_list if isinstance(entry, dict) and "text" in entry]
+
     # Convert lists to sets for set operations
     human_set = set(human_list)
     llm_set = set(llm_list)

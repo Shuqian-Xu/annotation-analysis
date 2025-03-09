@@ -46,7 +46,7 @@ def compare_annotations(human_data, llm_data, filename):
                     score = {
                         "exact_match": 0,
                         "normalized_exact_match": 0,
-                        "90_match": 0,
+                        "similarity_90_match": 0,
                         "precision": 0,
                         "bleu_1": 0,
                         "recall": 0,
@@ -70,7 +70,7 @@ def compare_annotations(human_data, llm_data, filename):
             elif var in ["descriptiveTexts", "directQuotes", "indirectQuotes", "occupations"]:
                 metric_scores.update({
                     "normalized_exact_match": metrics.normalized_exact_match(human_value, llm_value),
-                    "90_match": metrics.similarity_90_match(human_value, llm_value),
+                    "similarity_90_match": metrics.similarity_90_match(human_value, llm_value),
                     "precision": metrics.precision(human_value, llm_value),
                     "bleu_1": metrics.bleu_1(human_value, llm_value),
                     "recall": metrics.recall(human_value, llm_value),
@@ -94,7 +94,7 @@ def compare_annotations(human_data, llm_data, filename):
             elif var in ["descriptiveTexts", "directQuotes", "indirectQuotes", "occupations"]:
                 metric_scores.update({
                     "normalized_exact_match": 0,
-                    "90_match": 0,
+                    "similarity_90_match": 0,
                     "precision": 0,
                     "bleu_1": 0,
                     "recall": 0,
@@ -108,6 +108,10 @@ def compare_annotations(human_data, llm_data, filename):
     final_scores = {}
 
     for var, scores in all_variable_scores.items():
+        if not scores:  # If scores is empty, assign 0 to avoid IndexError
+            final_scores[var] = 0
+            continue
+
         if all(isinstance(s, dict) for s in scores):  # Ensure all values are dictionaries (multi-metric)
             final_scores[var] = {
                 metric: sum(s[metric] for s in scores) / len(scores) for metric in scores[0]

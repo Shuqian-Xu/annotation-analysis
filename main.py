@@ -1,66 +1,86 @@
 import os
-import scripts
+import scripts.file_loader as file_loader
+import scripts.comparator as comparator
+import scripts.output_writer as output_writer
 
-if __name__ == "__main__":
-    # human_folder = "data/post_validation_human_annotations"
-    # gemma_folder = "data/gemma_2-9b_output"
-    # llama_folder = "data/llama_3.1-8b_output"
-    #
-    # # Check if all files in the human annotations folder exist in the both LLM folders
-    # scripts.file_loader.check_missing_files(human_folder, gemma_folder, "gemma_2-9b_output")
-    # scripts.file_loader.check_missing_files(human_folder, llama_folder, "llama_3.1-8b_output")
-    #
-    # # Get all human annotation filenames
-    # human_files = [f for f in os.listdir(human_folder) if os.path.isfile(os.path.join(human_folder, f))]
-    #
-    # for filename in human_files:
-    #     # Load human annotation
-    #     human_data = scripts.file_loader.load_json(human_folder, filename)
-    #
-    #     # Load corresponding LLM annotations (only if they exist and are valid)
-    #     gemma_data = scripts.file_loader.load_json(gemma_folder, filename)
-    #     llama_data = scripts.file_loader.load_json(llama_folder, filename)
-    #
-    #     # Skip files where LLM output is missing or invalid
-    #     if gemma_data is None:
-    #         print(f"Skipping {filename} - No valid Gemma annotation")
-    #         continue
-    #     if llama_data is None:
-    #         print(f"Skipping {filename} - No valid Llama annotation")
-    #         continue
-    #
-    #     # At this point, human_data, gemma_data, and llama_data are all valid
-    #     print(f"Ready to compare {filename}")
+# Define input paths
+human_folder = "data/post_validation_human_annotations"
+llm_folders = {
+    "llama_3.1-8b": "data/llama_3.1-8b_output",
+    "phi-4": "data/phi-4_output",
+    "qwen_2.5-7b": "data/qwen_2.5-7b_output"
+}
+output_folder = "output"
 
-    """
-    Test function for output_writer.py.
-    Simulates writing metric scores and checks if statistics are computed correctly.
-    """
-    # Simulated test data (as if coming from comparator.py)
-    test_results = [
-        {
-            "filename": "test_file_1.json",
-            "scores": {
-                "age": 0.8, "alternativeNames": 0.6, "birthday": 0.7, "descriptiveTexts": 0.5,
-                "directQuotes": 0.9, "inIntro": 1.0, "inTitle": 0.4, "indirectQuotes": 0.3,
-                "isMain": 0.2, "name": 1.0, "occupations": 0.75, "firstNameOnly": 0.5,
-                "fullName": 0.6, "lastNameOnly": 0.7, "total": 0.8, "quotedInIntro": 0.9,
-                "quotedInTitle": 0.4, "sex": 1.0
-            }
-        },
-        {
-            "filename": "test_file_2.json",
-            "scores": {
-                "age": 0.9, "alternativeNames": 0.5, "birthday": 0.6, "descriptiveTexts": 0.4,
-                "directQuotes": 0.8, "inIntro": 0.9, "inTitle": 0.3, "indirectQuotes": 0.4,
-                "isMain": 0.1, "name": 1.0, "occupations": 0.7, "firstNameOnly": 0.6,
-                "fullName": 0.5, "lastNameOnly": 0.6, "total": 0.7, "quotedInIntro": 0.8,
-                "quotedInTitle": 0.3, "sex": 1.0
-            }
-        }
-    ]
+# List of metrics we will compute and store in separate Excel files
+metric_names = [
+    "exact_match", "numeric_similarity", "jaccard_similarity",
+    "normalized_exact_match", "similarity_90_match", "precision",
+    "bleu_1", "recall", "rouge_1", "f1_score"
+]
 
-    # Run the test (writing results to 'precision.xlsx' under the 'phi-4' sheet)
-    scripts.output_writer.write_results_to_excel(test_results, metric_name="precision", llm_name="phi-4")
+# Step 1: Check for missing files in each LLM folder
+print("\n=== Checking for missing files in LLM folders ===")
+for llm_name, llm_folder in llm_folders.items():
+    file_loader.check_missing_files(human_folder, llm_folder, llm_name)
 
-    print("Test for output_writer.py completed. Check 'output/precision.xlsx' -> 'phi-4' sheet.")
+# Step 2: Iterate through each LLM, compare files, and store results
+print("\n=== Running comparisons between Human Annotations and LLM Outputs ===")
+for llm_name, llm_folder in llm_folders.items():
+    print(f"\nProcessing: {llm_name}")
+
+    # Get the list of annotation filenames from the human folder
+    human_filenames = [f for f in os.listdir(human_folder) if f.endswith(".json")]
+
+    comparison_results = []  # Store all comparison results for batch writing
+
+    for filename in human_filenames:
+        # Load human and LLM annotation files
+        human_data = file_loader.load_json(human_folder, filename)
+        llm_data = file_loader.load_json(llm_folder, filename)
+
+        # Skip missing or invalid files
+        if human_data is None or llm_data is None:
+            print(f"Skipping {filename} due to missing data.")
+            continue
+
+        # Compare annotations
+        result = comparator.compare_annotations(human_data, llm_data, filename)
+        comparison_results.append(result)
+
+    print(f"Completed comparisons for {llm_name}. Now writing results to Excel...")
+
+    # Step 3: Extract and write results to Excel (one file per metric)
+    for metric in metric_names:
+        metric_results = []  # Store results for this metric
+
+        for res in comparison_results:
+            filename = res["filename"]  # Get filename
+
+            # Initialize the metric entry
+            metric_entry = {"filename": filename, "scores": {}}
+
+            # Ensure correct metric extraction
+            for var in [
+                "age", "alternativeNames", "birthday", "descriptiveTexts", "directQuotes", "inIntro", "inTitle",
+                "indirectQuotes", "isMain", "name", "occupations", "firstNameOnly", "fullName", "lastNameOnly",
+                "total", "quotedInIntro", "quotedInTitle", "sex"
+            ]:
+                # If the metric applies to this variable, update it
+                if var in res["scores"]:
+                    value = res["scores"][var]  # Get the metric value
+
+                    # If the value is a dictionary (multi-metric like precision, recall), extract the current metric
+                    if isinstance(value, dict):
+                        metric_entry["scores"][var] = round(value.get(metric, 0), 3)
+                    else:
+                        metric_entry["scores"][var] = round(value, 3)
+                else:
+                    metric_entry["scores"][var] = 0  # Ensure missing values are explicitly set to 0
+
+            metric_results.append(metric_entry)  # Add structured result to list
+
+        # Write results to Excel
+        output_writer.write_results_to_excel(metric_results, metric, llm_name, output_folder)
+
+print("\n=== All comparisons completed successfully! Results are stored in the output folder. ===")

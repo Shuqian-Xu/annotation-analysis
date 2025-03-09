@@ -22,12 +22,23 @@ def write_results_to_excel(results, metric_name, llm_name, output_folder="output
     # Convert results into a DataFrame
     rows = []
     for result in results:
-        row_data = [result["filename"]]  # Column A: filename
-        row_data.extend([result["scores"].get(var, 0) for var in [
+        row_data = [result.get("filename", "Unknown_File")]  # Column A: filename
+        scores = result.get("scores", {})
+
+        # Iterate through all variables
+        for var in [
             "age", "alternativeNames", "birthday", "descriptiveTexts", "directQuotes", "inIntro", "inTitle",
             "indirectQuotes", "isMain", "name", "occupations", "firstNameOnly", "fullName", "lastNameOnly", "total",
             "quotedInIntro", "quotedInTitle", "sex"
-        ]])
+        ]:
+            score = scores.get(var, 0)
+
+            # If the score is a dictionary (multi-metric), extract only the relevant metric
+            if isinstance(score, dict):
+                score = score.get(metric_name, 0)
+
+            row_data.append(score)
+
         rows.append(row_data)
 
     df_new = pd.DataFrame(rows, columns=df_existing.columns.tolist())
@@ -38,10 +49,10 @@ def write_results_to_excel(results, metric_name, llm_name, output_folder="output
     # Compute Mean, Median, and Standard Deviation
     summary_stats = df_combined.iloc[:, 1:].apply(pd.to_numeric, errors="coerce").agg(["mean", "median", "std"]).round(3)
 
-    # Convert summary stats into a DataFrame while ensuring "File" is in Column A
+    # Convert summary stats into a DataFrame
     summary_labels = ["Mean", "Median", "Standard Deviation"]
     df_summary = pd.DataFrame(summary_stats)
-    df_summary.insert(0, "File", summary_labels)  # Ensure correct placement in Column A
+    df_summary.insert(0, "File", summary_labels)
 
     # Concatenate final DataFrame
     df_final = pd.concat([df_combined, df_summary], ignore_index=True)

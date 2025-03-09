@@ -48,8 +48,8 @@ def load_json(folder: str, filename: str):
             data = json.load(f)
 
         # Detect LLM error messages and exclude them
-        if isinstance(data, dict) and "error" in data and data["error"] == "string indices must be integers, not 'str'":
-            print(f"Skipping {filename} in {folder} (LLM error file)")
+        if isinstance(data, dict) and "error" in data:
+            print(f"Skipping {filename} in {folder} (LLM error file: {data['error']})")
             return None
 
         return data  # Return JSON content as a Python object (dict or list)

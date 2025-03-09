@@ -33,34 +33,34 @@ if __name__ == "__main__":
     #     print(f"Ready to compare {filename}")
 
     """
-        Tests the comparator.py implementation using the given human and gemma 2-9b annotation files.
-        Prints the results for verification.
-        """
-    human_folder = "data/post_validation_human_annotations"
-    llm_folder = "data/gemma_2-9b_output"
-    filename = "6cb137ab-8585-4952-86e5-aeca9472708a.json"
+    Test function for output_writer.py.
+    Simulates writing metric scores and checks if statistics are computed correctly.
+    """
+    # Simulated test data (as if coming from comparator.py)
+    test_results = [
+        {
+            "filename": "test_file_1.json",
+            "scores": {
+                "age": 0.8, "alternativeNames": 0.6, "birthday": 0.7, "descriptiveTexts": 0.5,
+                "directQuotes": 0.9, "inIntro": 1.0, "inTitle": 0.4, "indirectQuotes": 0.3,
+                "isMain": 0.2, "name": 1.0, "occupations": 0.75, "firstNameOnly": 0.5,
+                "fullName": 0.6, "lastNameOnly": 0.7, "total": 0.8, "quotedInIntro": 0.9,
+                "quotedInTitle": 0.4, "sex": 1.0
+            }
+        },
+        {
+            "filename": "test_file_2.json",
+            "scores": {
+                "age": 0.9, "alternativeNames": 0.5, "birthday": 0.6, "descriptiveTexts": 0.4,
+                "directQuotes": 0.8, "inIntro": 0.9, "inTitle": 0.3, "indirectQuotes": 0.4,
+                "isMain": 0.1, "name": 1.0, "occupations": 0.7, "firstNameOnly": 0.6,
+                "fullName": 0.5, "lastNameOnly": 0.6, "total": 0.7, "quotedInIntro": 0.8,
+                "quotedInTitle": 0.3, "sex": 1.0
+            }
+        }
+    ]
 
-    # Load JSON data
-    human_data = scripts.file_loader.load_json(human_folder, filename)
-    llm_data = scripts.file_loader.load_json(llm_folder, filename)
+    # Run the test (writing results to 'precision.xlsx' under the 'phi-4' sheet)
+    scripts.output_writer.write_results_to_excel(test_results, metric_name="precision", llm_name="phi-4")
 
-    # Ensure files are loaded properly
-    if human_data is None or llm_data is None:
-        print(f"Error: Could not load {filename} for testing.")
-
-    # Compare annotations
-    result = scripts.comparator.compare_annotations(human_data, llm_data, filename)
-
-    # Print formatted result
-    print("\n=== Test: Comparison Result ===")
-    print(f"Filename: {result['filename']}")
-
-    for var, scores in result["scores"].items():
-        if isinstance(scores, dict):  # Text-based metrics with multiple scores
-            print(f"{var}:")
-            for metric, value in scores.items():
-                print(f"  {metric}: {value}")
-        else:  # Single-score metrics
-            print(f"{var}: {scores}")
-
-    print("\n=== Test Completed ===")
+    print("Test for output_writer.py completed. Check 'output/precision.xlsx' -> 'phi-4' sheet.")

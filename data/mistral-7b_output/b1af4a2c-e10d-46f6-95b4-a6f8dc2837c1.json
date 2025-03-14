@@ -1,0 +1,1222 @@
+{
+    "persons": [
+        {
+            "name": "Satya Nadella",
+            "alternativeNames": [],
+            "age": -1,
+            "sex": "male",
+            "occurences": {
+                "total": 1,
+                "firstNameOnly": 0,
+                "lastNameOnly": 0,
+                "fullName": 1,
+                "nickname": 0
+            },
+            "inTitle": false,
+            "inIntro": false,
+            "_name": {
+                "firstname": "Satya",
+                "lastname": "Nadella",
+                "nickname": null,
+                "alternative_names": [],
+                "academic_title": null,
+                "nobility_title_or_rank": null
+            },
+            "descriptiveTexts": [
+                {
+                    "text": "Er beginnt, sich mit Managern wie dem sp\u00e4teren Google-Chef Sundar Pichai, Salesforce-CEO Marc Benioff und Microsoft-Boss Satya Nadella zu treffen, sie erz\u00e4hlen ihm, wie sie die Welt sehen."
+                },
+                {
+                    "text": "Egal ob die franz\u00f6sische Schneider Electric oder die US-Konzerne GE und Rockwell: Sie zogen an der B\u00f6rse in den vergangenen Jahren davon."
+                }
+            ],
+            "occupations": [
+                {
+                    "text": "Mitglied des amerikanischen Business-Council"
+                }
+            ],
+            "directQuotes": [],
+            "quotedInTitle": false,
+            "quotedInIntro": false
+        },
+        {
+            "name": "Joe Kaeser",
+            "alternativeNames": [],
+            "age": -1,
+            "sex": "male",
+            "occurences": {
+                "total": 10,
+                "firstNameOnly": 0,
+                "lastNameOnly": 9,
+                "fullName": 1,
+                "nickname": 0
+            },
+            "inTitle": false,
+            "inIntro": false,
+            "_name": {
+                "firstname": "Joe",
+                "lastname": "Kaeser",
+                "nickname": null,
+                "alternative_names": [],
+                "academic_title": null,
+                "nobility_title_or_rank": null
+            },
+            "descriptiveTexts": [
+                {
+                    "text": "Viel ist passiert, seit Busch im Oktober 2020 die Gesch\u00e4fte von seinem Vorg\u00e4nger Joe Kaeser \u00fcbernahm, und damit einen Weltkonzern mit mehr als 300.000 Mitarbeitern in rund 190 L\u00e4ndern und mit 72 Milliarden Euro Umsatz."
+                },
+                {
+                    "text": "Die Negativschlagzeilen aber geh\u00f6ren Siemens Energy, der unter Kaeser abgespaltenen und nun von ihm als Aufsichtsratschef kontrollierten Energiesparte."
+                },
+                {
+                    "text": "Zuletzt hatte Kaeser radikal wie keiner seiner Vorg\u00e4nger Hand an den Konzern gelegt."
+                },
+                {
+                    "text": "Er brachte die Medizintechnik an die B\u00f6rse, stie\u00df Siemens Energy ab und h\u00e4tte die Zugsparte mit dem franz\u00f6sischen Alstom-Konzern zusammengebracht, wenn die EU-Wettbewerbsaufsicht ihn nicht daran gehindert h\u00e4tte."
+                },
+                {
+                    "text": "Als \"Flotte von Schiffen\" bezeichnete Kaeser den zuletzt eher losen Verbund unter dem Siemens-Dach."
+                },
+                {
+                    "text": "Offiziell wird er erst bei der Hauptversammlung im folgenden Februar inthronisiert, doch er hat sich mit Snabe und Kaeser darauf geeinigt, dass er schon im Herbst die Amtsgesch\u00e4fte \u00fcbernimmt."
+                },
+                {
+                    "text": "Lange hatte Kaeser damit kokettiert, doch weiterzumachen oder an die Aufsichtsratsspitze zu r\u00fccken."
+                },
+                {
+                    "text": "Zuf\u00e4lligerweise die Paradedisziplin von Vorg\u00e4nger Kaeser."
+                },
+                {
+                    "text": "Er trifft damit den Nerv von jenen im Konzern, die finden, Innovation, Forschung und Entwicklung seien ein bisschen zu kurz gekommen bei all dem Portfoliomanagement der \u00c4ra Kaeser."
+                },
+                {
+                    "text": "Ein Seitenhieb gegen seinen Vorg\u00e4nger Kaeser, den Finanzingenieur, der mit Technik weniger am Hut hatte und auf der globalen B\u00fchne lieber die N\u00e4he von Staats- als Unternehmenschefs suchte."
+                },
+                {
+                    "text": "Buschs Vorvorg\u00e4nger Peter L\u00f6scher habe f\u00fcr das Umsatzziel von 100 Milliarden Euro gestanden \u2013 das er weit verfehlte, Kaeser f\u00fcr die Aufspaltung des Konglomerats."
+                }
+            ],
+            "occupations": [],
+            "directQuotes": [],
+            "quotedInTitle": false,
+            "quotedInIntro": false
+        },
+        {
+            "name": "Peter L\u00f6scher",
+            "alternativeNames": [],
+            "age": -1,
+            "sex": "male",
+            "occurences": {
+                "total": 1,
+                "firstNameOnly": 0,
+                "lastNameOnly": 0,
+                "fullName": 1,
+                "nickname": 0
+            },
+            "inTitle": false,
+            "inIntro": false,
+            "_name": {
+                "firstname": "Peter",
+                "lastname": "L\u00f6scher",
+                "nickname": null,
+                "alternative_names": [],
+                "academic_title": null,
+                "nobility_title_or_rank": null
+            },
+            "descriptiveTexts": [
+                {
+                    "text": "Buschs Vorvorg\u00e4nger Peter L\u00f6scher habe f\u00fcr das Umsatzziel von 100 Milliarden Euro gestanden \u2013 das er weit verfehlte, Kaeser f\u00fcr die Aufspaltung des Konglomerats."
+                }
+            ],
+            "occupations": [],
+            "directQuotes": [],
+            "quotedInTitle": false,
+            "quotedInIntro": false
+        },
+        {
+            "name": "Olaf Scholz",
+            "alternativeNames": [],
+            "age": -1,
+            "sex": "male",
+            "occurences": {
+                "total": 3,
+                "firstNameOnly": 0,
+                "lastNameOnly": 1,
+                "fullName": 2,
+                "nickname": 0
+            },
+            "inTitle": false,
+            "inIntro": false,
+            "_name": {
+                "firstname": "Olaf",
+                "lastname": "Scholz",
+                "nickname": null,
+                "alternative_names": [],
+                "academic_title": null,
+                "nobility_title_or_rank": null
+            },
+            "descriptiveTexts": [
+                {
+                    "text": "Er holt die Chefs von Bosch, BASF und Schaeffler in die Siemens-Zentrale, zusammen verfassen sie zur Reise von Bundeskanzler Olaf Scholz nach China im Herbst 2022 ein Editorial zur Chinapolitik."
+                },
+                {
+                    "text": "Er spricht als Erster, als Li am Montag in Berlin mit einer Gruppe deutscher CEOs zusammenkommt; er ist Teil einer Wirtschaftsdelegation, die am Dienstag mit Scholz und Li diskutiert; er h\u00e4lt eine Rede als Chef des Asien-Pazifik-Ausschusses (APA)."
+                },
+                {
+                    "text": "Einige Wochen nach dem Besuch Li Qiangs hat Busch wieder einen Regierungschef zu Gast: Olaf Scholz."
+                }
+            ],
+            "occupations": [],
+            "directQuotes": [
+                {
+                    "text": "Und ich glaube nicht, dass wir hier als Geisterfahrer unterwegs sind."
+                }
+            ],
+            "quotedInTitle": false,
+            "quotedInIntro": false
+        },
+        {
+            "name": "Prince Charles",
+            "alternativeNames": [],
+            "age": -1,
+            "sex": "male",
+            "occurences": {
+                "total": 1,
+                "firstNameOnly": 0,
+                "lastNameOnly": 0,
+                "fullName": 1,
+                "nickname": 0
+            },
+            "inTitle": false,
+            "inIntro": false,
+            "_name": {
+                "firstname": "Prince",
+                "lastname": null,
+                "nickname": null,
+                "alternative_names": [],
+                "academic_title": null,
+                "nobility_title_or_rank": null
+            },
+            "descriptiveTexts": [
+                {
+                    "text": "Schlie\u00dflich schreibt Li eine Widmung in das \u00bbGoldene Siemens-Buch\u00ab, gleich hinter den Text eines gewissen Prince Charles, der 2019 hier war und heute K\u00f6nig von England ist."
+                }
+            ],
+            "occupations": [],
+            "directQuotes": [],
+            "quotedInTitle": false,
+            "quotedInIntro": false
+        },
+        {
+            "name": "Jensen Huang",
+            "alternativeNames": [],
+            "age": -1,
+            "sex": "male",
+            "occurences": {
+                "total": 2,
+                "firstNameOnly": 0,
+                "lastNameOnly": 1,
+                "fullName": 1,
+                "nickname": 0
+            },
+            "inTitle": false,
+            "inIntro": false,
+            "_name": {
+                "firstname": "Jensen",
+                "lastname": "Huang",
+                "nickname": null,
+                "alternative_names": [],
+                "academic_title": null,
+                "nobility_title_or_rank": null
+            },
+            "descriptiveTexts": [
+                {
+                    "text": "Dann springt Jensen Huang dazu, Chef des Chipkonzerns Nvidia."
+                },
+                {
+                    "text": "Huang tr\u00e4gt wie eigentlich immer schwarze Lederjacke, schwarze Jeans und schwarzes T-Shirt."
+                },
+                {
+                    "text": "Und wenn er auch einen Kopf kleiner ist als Busch, so sp\u00fcrt man doch schnell, wer von den beiden schon im Olymp der Techwelt angekommen ist."
+                }
+            ],
+            "occupations": [],
+            "directQuotes": [],
+            "quotedInTitle": false,
+            "quotedInIntro": false
+        },
+        {
+            "name": "J\u00fcrgen Kerner",
+            "alternativeNames": [],
+            "age": -1,
+            "sex": "male",
+            "occurences": {
+                "total": 2,
+                "firstNameOnly": 0,
+                "lastNameOnly": 0,
+                "fullName": 2,
+                "nickname": 0
+            },
+            "inTitle": false,
+            "inIntro": false,
+            "_name": {
+                "firstname": "J\u00fcrgen",
+                "lastname": "Kerner",
+                "nickname": null,
+                "alternative_names": [],
+                "academic_title": null,
+                "nobility_title_or_rank": null
+            },
+            "descriptiveTexts": [
+                {
+                    "text": "Das Aufsichtsratsmitglied J\u00fcrgen Kerner, IG-Metall-Vorstand, sagt: \"Es ist wohltuend, einen Teamplayer an der Spitze zu haben.\""
+                },
+                {
+                    "text": "\"Siemens k\u00f6nnte nach der Abspaltung von Siemens Energy schneller als andere ein nachhaltiger Industriekonzern werden\", sagt Aufsichtsrat J\u00fcrgen Kerner."
+                }
+            ],
+            "occupations": [
+                {
+                    "text": "IG-Metall-Vorstand"
+                },
+                {
+                    "text": "Es ist wohltuend, einen Teamplayer an der Spitze zu haben."
+                }
+            ],
+            "directQuotes": [
+                {
+                    "text": "Ich habe die beste Zeit meines Lebens. Ich bin angekommen."
+                },
+                {
+                    "text": "Busch hat es bisher nicht geschafft, zus\u00e4tzliche Impulse zu setzen, um ein klares strategisches Zielbild am Kapitalmarkt zu etablieren"
+                }
+            ],
+            "quotedInTitle": false,
+            "quotedInIntro": false
+        },
+        {
+            "name": "Andy Jassy",
+            "alternativeNames": [],
+            "age": -1,
+            "sex": "male",
+            "occurences": {
+                "total": 1,
+                "firstNameOnly": 0,
+                "lastNameOnly": 0,
+                "fullName": 1,
+                "nickname": 0
+            },
+            "inTitle": false,
+            "inIntro": false,
+            "_name": {
+                "firstname": "Andy",
+                "lastname": "Jassy",
+                "nickname": null,
+                "alternative_names": [],
+                "academic_title": null,
+                "nobility_title_or_rank": null
+            },
+            "descriptiveTexts": [
+                {
+                    "text": "Er besucht die MARS-Konferenz von Amazon-Gr\u00fcnder Jeff Bezos in der W\u00fcste von Kalifornien, bei der sich die Techwelt \u00fcber k\u00fcnstliche Intelligenz austauscht; er ist dabei, wenn der heutige Amazon-Chef Andy Jassy zur CEO-Party bei sich zu Hause einl\u00e4dt; er ist Mitglied des amerikanischen Business-Council, einem Netzwerk von 200 internationalen Konzernchefs."
+                }
+            ],
+            "occupations": [],
+            "directQuotes": [],
+            "quotedInTitle": false,
+            "quotedInIntro": false
+        },
+        {
+            "name": "Jim Snabe",
+            "alternativeNames": [],
+            "age": -1,
+            "sex": "male",
+            "occurences": {
+                "total": 3,
+                "firstNameOnly": 0,
+                "lastNameOnly": 2,
+                "fullName": 1,
+                "nickname": 0
+            },
+            "inTitle": false,
+            "inIntro": false,
+            "_name": {
+                "firstname": "Jim",
+                "lastname": "Snabe",
+                "nickname": null,
+                "alternative_names": [],
+                "academic_title": null,
+                "nobility_title_or_rank": null
+            },
+            "descriptiveTexts": [
+                {
+                    "text": "\"Siemens kann den Weg zeigen\", sagt Aufsichtsratschef Jim Snabe, Buschs Mentor und Spiritus Rector des Umbaus."
+                },
+                {
+                    "text": "Offiziell wird er erst bei der Hauptversammlung im folgenden Februar inthronisiert, doch er hat sich mit Snabe und Kaeser darauf geeinigt, dass er schon im Herbst die Amtsgesch\u00e4fte \u00fcbernimmt."
+                },
+                {
+                    "text": "In Chefkontrolleur Snabe sehen Kritiker ebenfalls kein wirksames Korrektiv."
+                },
+                {
+                    "text": "\"Er ist ein weicher Aufsichtsratschef\", hei\u00dft es aus dem Kreis der Aktion\u00e4re."
+                }
+            ],
+            "occupations": [
+                {
+                    "text": "Spiritus Rector des Umbaus"
+                }
+            ],
+            "directQuotes": [
+                {
+                    "text": "Roland ist einer der technologischen Vordenker Europas"
+                }
+            ],
+            "quotedInTitle": false,
+            "quotedInIntro": false
+        },
+        {
+            "name": "Vera Diehl",
+            "alternativeNames": [],
+            "age": -1,
+            "sex": "female",
+            "occurences": {
+                "total": 1,
+                "firstNameOnly": 0,
+                "lastNameOnly": 0,
+                "fullName": 1,
+                "nickname": 0
+            },
+            "inTitle": false,
+            "inIntro": false,
+            "_name": {
+                "firstname": "Vera",
+                "lastname": "Diehl",
+                "nickname": null,
+                "alternative_names": [],
+                "academic_title": null,
+                "nobility_title_or_rank": null
+            },
+            "descriptiveTexts": [
+                {
+                    "text": "Vor allem amerikanische Investoren lie\u00dfen Siemens links liegen, beobachtet Vera Diehl, Fondsmanagerin bei Union Investment."
+                },
+                {
+                    "text": "Auch sie bem\u00e4ngelt, es bleibe \"unscharf\", was den Kern, die Identit\u00e4t von Siemens ausmache."
+                }
+            ],
+            "occupations": [
+                {
+                    "text": "Fondsmanagerin bei Union Investment"
+                }
+            ],
+            "directQuotes": [
+                {
+                    "text": "Amberg ist nicht nur eine Fabrik f\u00fcr unsere Steuerungsger\u00e4te, sondern ein Reallabor"
+                }
+            ],
+            "quotedInTitle": false,
+            "quotedInIntro": false
+        },
+        {
+            "name": "Sundar Pichai",
+            "alternativeNames": [],
+            "age": -1,
+            "sex": "male",
+            "occurences": {
+                "total": 1,
+                "firstNameOnly": 0,
+                "lastNameOnly": 0,
+                "fullName": 1,
+                "nickname": 0
+            },
+            "inTitle": false,
+            "inIntro": false,
+            "_name": {
+                "firstname": "Sundar",
+                "lastname": "Pichai",
+                "nickname": null,
+                "alternative_names": [],
+                "academic_title": null,
+                "nobility_title_or_rank": null
+            },
+            "descriptiveTexts": [
+                {
+                    "text": "Er beginnt, sich mit Managern wie dem sp\u00e4teren Google-Chef Sundar Pichai, Salesforce-CEO Marc Benioff und Microsoft-Boss Satya Nadella zu treffen, sie erz\u00e4hlen ihm, wie sie die Welt sehen."
+                }
+            ],
+            "occupations": [],
+            "directQuotes": [],
+            "quotedInTitle": false,
+            "quotedInIntro": false
+        },
+        {
+            "name": "Judith Wiese",
+            "alternativeNames": [],
+            "age": -1,
+            "sex": "female",
+            "occurences": {
+                "total": 1,
+                "firstNameOnly": 0,
+                "lastNameOnly": 0,
+                "fullName": 1,
+                "nickname": 0
+            },
+            "inTitle": false,
+            "inIntro": false,
+            "_name": {
+                "firstname": "Judith",
+                "lastname": "Wiese",
+                "nickname": null,
+                "alternative_names": [],
+                "academic_title": null,
+                "nobility_title_or_rank": null
+            },
+            "descriptiveTexts": [
+                {
+                    "text": "Die M\u00e4nner tragen wei\u00dfe Hemden und dunkle Anz\u00fcge, Vorst\u00e4ndin Judith Wiese ein Kleid im Leoparden-Look."
+                }
+            ],
+            "occupations": [],
+            "directQuotes": [
+                {
+                    "text": "Es ist wohltuend, einen Teamplayer an der Spitze zu haben."
+                }
+            ],
+            "quotedInTitle": false,
+            "quotedInIntro": false
+        },
+        {
+            "name": "Gunter Beitinger",
+            "alternativeNames": [],
+            "age": -1,
+            "sex": "male",
+            "occurences": {
+                "total": 6,
+                "firstNameOnly": 0,
+                "lastNameOnly": 5,
+                "fullName": 1,
+                "nickname": 0
+            },
+            "inTitle": false,
+            "inIntro": false,
+            "_name": {
+                "firstname": "Gunter",
+                "lastname": "Beitinger",
+                "nickname": null,
+                "alternative_names": [],
+                "academic_title": null,
+                "nobility_title_or_rank": null
+            },
+            "descriptiveTexts": [
+                {
+                    "text": "Herr Beitinger und das Metaverse"
+                },
+                {
+                    "text": "Acht Jahre sp\u00e4ter steht Gunter Beitinger im Besucherbereich der Fabrik, die Haare aus der Stirn gek\u00e4mmt, die Hemds\u00e4rmel umgeschlagen, vor ihm auf dem Bistrotisch liegt eine flache, etwa zehn mal zehn Zentimeter gro\u00dfe graue Box."
+                },
+                {
+                    "text": "Beitinger ist eine Schl\u00fcsselfigur f\u00fcr den Umbau, den Busch plant."
+                },
+                {
+                    "text": "Er ist Werksleiter in Amberg und verantwortlich f\u00fcr die Digitalisierung der Siemens-Fabriken."
+                },
+                {
+                    "text": "\"Weil es um solche Mengen geht und nichts schiefgehen darf, hat Siemens von Anfang die Produktion der Boxen so weit wie m\u00f6glich automatisiert und die Daten aufgezeichnet, die im Produktionsprozess entstehen, um Fehlerquellen analysieren zu k\u00f6nnen\", erkl\u00e4rt Beitinger."
+                },
+                {
+                    "text": "\"Vor der Vernetzung hatten wir einfach einen Haufen Werke\", sagt Beitinger, \"jetzt ist es ein Verbund, in dem sich die Fabriken gegenseitig st\u00e4rken und Synergien nutzen k\u00f6nnen.\""
+                },
+                {
+                    "text": "\"Amberg ist nicht nur eine Fabrik f\u00fcr unsere Steuerungsger\u00e4te, sondern ein Reallabor\", sagt Beitinger."
+                }
+            ],
+            "occupations": [
+                {
+                    "text": "Werksleiter in Amberg"
+                }
+            ],
+            "directQuotes": [
+                {
+                    "text": "Wir fragen uns, wie resilient dieser Vorstand ist, wenn er mal richtig unter Druck kommt"
+                }
+            ],
+            "quotedInTitle": false,
+            "quotedInIntro": false
+        },
+        {
+            "name": "Karlheinz Kaske",
+            "alternativeNames": [],
+            "age": -1,
+            "sex": "male",
+            "occurences": {
+                "total": 1,
+                "firstNameOnly": 0,
+                "lastNameOnly": 0,
+                "fullName": 1,
+                "nickname": 0
+            },
+            "inTitle": false,
+            "inIntro": false,
+            "_name": {
+                "firstname": "Karlheinz",
+                "lastname": "Kaske",
+                "nickname": null,
+                "alternative_names": [],
+                "academic_title": null,
+                "nobility_title_or_rank": null
+            },
+            "descriptiveTexts": [
+                {
+                    "text": "Der Physiker und erste Ingenieur an der Spitze seit Anfang der Neunzigerjahre, als Karlheinz Kaske den Konzern f\u00fchrte, will Siemens einerseits auf seinen Kern zur\u00fcckf\u00fchren, die Technologieentwicklung, und andererseits radikal erneuern."
+                }
+            ],
+            "occupations": [],
+            "directQuotes": [
+                {
+                    "text": "Siemens kann den Weg zeigen"
+                }
+            ],
+            "quotedInTitle": false,
+            "quotedInIntro": false
+        },
+        {
+            "name": "Jeff Bezo",
+            "alternativeNames": [],
+            "age": -1,
+            "sex": "male",
+            "occurences": {
+                "total": 1,
+                "firstNameOnly": 0,
+                "lastNameOnly": 0,
+                "fullName": 1,
+                "nickname": 0
+            },
+            "inTitle": false,
+            "inIntro": false,
+            "_name": {
+                "firstname": "Jeff",
+                "lastname": "Bezo",
+                "nickname": null,
+                "alternative_names": [],
+                "academic_title": null,
+                "nobility_title_or_rank": null
+            },
+            "descriptiveTexts": [
+                {
+                    "text": "Er besucht die MARS-Konferenz von Amazon-Gr\u00fcnder Jeff Bezos in der W\u00fcste von Kalifornien, bei der sich die Techwelt \u00fcber k\u00fcnstliche Intelligenz austauscht; er ist dabei, wenn der heutige Amazon-Chef Andy Jassy zur CEO-Party bei sich zu Hause einl\u00e4dt; er ist Mitglied des amerikanischen Business-Council, einem Netzwerk von 200 internationalen Konzernchefs."
+                }
+            ],
+            "occupations": [],
+            "directQuotes": [],
+            "quotedInTitle": false,
+            "quotedInIntro": false
+        },
+        {
+            "name": "Li Qiang",
+            "alternativeNames": [],
+            "age": -1,
+            "sex": "male",
+            "occurences": {
+                "total": 6,
+                "firstNameOnly": 4,
+                "lastNameOnly": 0,
+                "fullName": 2,
+                "nickname": 0
+            },
+            "inTitle": false,
+            "inIntro": false,
+            "_name": {
+                "firstname": "Li",
+                "lastname": "Qiang",
+                "nickname": null,
+                "alternative_names": [],
+                "academic_title": null,
+                "nobility_title_or_rank": null
+            },
+            "descriptiveTexts": [
+                {
+                    "text": "Aber auch einer, der wei\u00df, dass er mehr wei\u00df als die meisten seiner Zuh\u00f6rer."
+                },
+                {
+                    "text": "Eitelkeit blitzt auf, als er die Studierenden durch seinen Alltag als Lenker eines global agierenden Konzerns f\u00fchrt."
+                },
+                {
+                    "text": "Als acht Monate sp\u00e4ter der chinesische Regierungschef Li Qiang nach Deutschland kommt, verbringt Busch mehr Zeit mit ihm als der Bundeskanzler."
+                },
+                {
+                    "text": "Er spricht als Erster, als Li am Montag in Berlin mit einer Gruppe deutscher CEOs zusammenkommt; er ist Teil einer Wirtschaftsdelegation, die am Dienstag mit Scholz und Li diskutiert; er h\u00e4lt eine Rede als Chef des Asien-Pazifik-Ausschusses (APA)."
+                },
+                {
+                    "text": "Er f\u00fchrt Li durch eine f\u00fcr ihn inszenierte Ausstellung, zeigt KI-gesteuerte Roboter, eine Vitrine f\u00fcr \"Vertical Farming\", ein MRT-Ger\u00e4t, einen batteriegetriebenen Rennwagen."
+                },
+                {
+                    "text": "Schlie\u00dflich schreibt Li eine Widmung in das \u00bbGoldene Siemens-Buch\u00ab, gleich hinter den Text eines gewissen Prince Charles, der 2019 hier war und heute K\u00f6nig von England ist."
+                },
+                {
+                    "text": "Zum Abschied sagt der zweitm\u00e4chtigste Chinese: \"Ruf mich an, wenn du etwas brauchst.\""
+                },
+                {
+                    "text": "Einige Wochen nach dem Besuch Li Qiangs hat Busch wieder einen Regierungschef zu Gast: Olaf Scholz."
+                }
+            ],
+            "occupations": [],
+            "directQuotes": [],
+            "quotedInTitle": false,
+            "quotedInIntro": false
+        },
+        {
+            "name": "Roland Busch",
+            "alternativeNames": [],
+            "age": -1,
+            "sex": "male",
+            "occurences": {
+                "total": 63,
+                "firstNameOnly": 1,
+                "lastNameOnly": 57,
+                "fullName": 5,
+                "nickname": 0
+            },
+            "inTitle": false,
+            "inIntro": true,
+            "_name": {
+                "firstname": "Roland",
+                "lastname": "Busch",
+                "nickname": null,
+                "alternative_names": [],
+                "academic_title": null,
+                "nobility_title_or_rank": null
+            },
+            "descriptiveTexts": [
+                {
+                    "text": "Siemens-Chef Roland Busch will aus dem Industriekonglomerat einen Techkonzern formen und zum Vorreiter des Digitalzeitalters machen."
+                },
+                {
+                    "text": "Er muss sich regelrecht zusammenklappen, die Beine \u00fcbereinandergeschlagen, den Oberk\u00f6rper vorgebeugt."
+                },
+                {
+                    "text": "Doch so sehr Roland Busch sich k\u00f6rperlich auch verknotet, verstellen muss er sich nicht."
+                },
+                {
+                    "text": "Der Siemens-Boss f\u00fchlt sich sichtlich wohl hier an der N\u00fcrnberger Uni, an der er selbst mal studiert hat, in einem Seminar f\u00fcr angehende Managerinnen und Manager."
+                },
+                {
+                    "text": "Beinahe wirkt er in seinen wei\u00dfen Turnschuhen, den Jeans und dem Poloshirt selbst wie ein Student, w\u00e4re da nicht dieser markante Kopf mit dem grauen Haarkranz."
+                },
+                {
+                    "text": "Hier an der Uni und in kleinem Kreis ist er in seinem Element."
+                },
+                {
+                    "text": "Er h\u00f6rt konzentriert zu und fragt genau nach, mit einem fr\u00e4nkisch gerolltem \"R\"."
+                },
+                {
+                    "text": "Busch ist Physiker, Wissenschaftler, einer, der es immer ganz exakt wissen will."
+                },
+                {
+                    "text": "Wenn er mit Untergebenen spricht, k\u00f6nnen seine Fragen auch mal bohrend werden."
+                },
+                {
+                    "text": "Mit den Studierenden spricht Busch auf Augenh\u00f6he, ab und zu macht er kleine Scherze."
+                },
+                {
+                    "text": "Er ist einnehmend, ein stiller Verk\u00e4ufer seiner selbst."
+                },
+                {
+                    "text": "Aber auch einer, der wei\u00df, dass er mehr wei\u00df als die meisten seiner Zuh\u00f6rer."
+                },
+                {
+                    "text": "Eitelkeit blitzt auf, als er die Studierenden durch seinen Alltag als Lenker eines global agierenden Konzerns f\u00fchrt."
+                },
+                {
+                    "text": "Da esse er dann ein halbes Huhn, sagt Busch mit einem L\u00e4cheln."
+                },
+                {
+                    "text": "\"Nein\", sagt Busch."
+                },
+                {
+                    "text": "\"Ich habe die beste Zeit meines Lebens. Ich bin angekommen.\""
+                },
+                {
+                    "text": "Viel ist passiert, seit Busch im Oktober 2020 die Gesch\u00e4fte von seinem Vorg\u00e4nger Joe Kaeser \u00fcbernahm, und damit einen Weltkonzern mit mehr als 300.000 Mitarbeitern in rund 190 L\u00e4ndern und mit 72 Milliarden Euro Umsatz."
+                },
+                {
+                    "text": "Dennoch verl\u00e4uft die \u00c4ra Busch seit knapp drei Jahren erstaunlich ger\u00e4uschlos."
+                },
+                {
+                    "text": "Den besten Moment f\u00fcr einen Verkauf hat Busch verpasst."
+                },
+                {
+                    "text": "Busch hat einen Plan."
+                },
+                {
+                    "text": "Und er nutzt die staatliche Anschubhilfe, um ihn voranzutreiben."
+                },
+                {
+                    "text": "Busch versucht nun das Kunstst\u00fcck, Revolution und Konterrevolution zugleich anzutreiben."
+                },
+                {
+                    "text": "Busch hantiert mit Begriffen wie Plattform-\u00d6konomie und \u00bbIndustrial Metaverse\u00ab."
+                },
+                {
+                    "text": "Taugt Siemens, das Busch als \"proxy\", also als Stellvertreter f\u00fcr die deutsche Industrie sieht, gar als Vorbild daf\u00fcr, wie sich die Wirtschaft des Landes neu erfinden muss?"
+                },
+                {
+                    "text": "\"Siemens kann den Weg zeigen\", sagt Aufsichtsratschef Jim Snabe, Buschs Mentor und Spiritus Rector des Umbaus."
+                },
+                {
+                    "text": "Aber was, wenn der Zweimetermann scheitert, weil er den Kopf in der Cloud und im geopolitischen Schachspiel der Gro\u00dfm\u00e4chte USA und China den \u00dcberblick verloren hat?"
+                },
+                {
+                    "text": "Am 1. Oktober 2020 eilt Roland Busch durch die G\u00e4nge der Siemens-Zentrale am Wittelsbacherplatz in M\u00fcnchen."
+                },
+                {
+                    "text": "Offiziell wird er erst bei der Hauptversammlung im folgenden Februar inthronisiert, doch er hat sich mit Snabe und Kaeser darauf geeinigt, dass er schon im Herbst die Amtsgesch\u00e4fte \u00fcbernimmt."
+                },
+                {
+                    "text": "F\u00fcr Busch keine angenehme Situation."
+                },
+                {
+                    "text": "Dabei hatte sich der Gedanke, dass Busch einmal Siemens-Chef w\u00fcrde, lange nicht aufgedr\u00e4ngt."
+                },
+                {
+                    "text": "\u00dcber Jahre war er eher die Konzern-Allzweckwaffe, die mal hier und mal da eingesetzt wurde, oft als Sanierer, etwa f\u00fcr die Mobilit\u00e4t und die Geb\u00e4udetechnik."
+                },
+                {
+                    "text": "Er selbst sagt, eins habe sich aus dem anderen ergeben."
+                },
+                {
+                    "text": "Busch kennt den Konzern wie kein Zweiter."
+                },
+                {
+                    "text": "Doch am \u00bbDay One\u00ab, wie Busch seine Premiere als Chef nennt, macht er daraus sein Programm."
+                },
+                {
+                    "text": "Er wendet sich aus der Werner-von-Siemens-Werkstatt an die Siemensianer in aller Welt, den einstigen Arbeitsplatz des Firmengr\u00fcnders hat der Konzern in der M\u00fcnchner Zentrale nachbauen lassen."
+                },
+                {
+                    "text": "Busch beschw\u00f6rt den Erfindergeist des Namensgebers."
+                },
+                {
+                    "text": "Er trifft damit den Nerv von jenen im Konzern, die finden, Innovation, Forschung und Entwicklung seien ein bisschen zu kurz gekommen bei all dem Portfoliomanagement der \u00c4ra Kaeser."
+                },
+                {
+                    "text": "Busch bricht mit seinem Vorg\u00e4nger."
+                },
+                {
+                    "text": "\"Wenn wir uns aufteilen in eine Flotte, wird uns das marginalisieren\", sagt er."
+                },
+                {
+                    "text": "Busch will auch die Medizintechniktochter Healthineers, an der Siemens 75 Prozent h\u00e4lt, eher wieder st\u00e4rker an den Konzern heranf\u00fchren und Synergien mit den anderen Gesch\u00e4ftsbereichen heben."
+                },
+                {
+                    "text": "Busch muss sie jetzt umdrehen."
+                },
+                {
+                    "text": "Er macht das auf seine Art, weniger Ego-getrieben als der Vorg\u00e4nger."
+                },
+                {
+                    "text": "Damit sich alle eingebunden f\u00fchlen, verl\u00e4ngert er die Vorstandstreffen um gemeinsame Sushi-Essen."
+                },
+                {
+                    "text": "Mit dem Aufsichtsrat veranstaltet er regelm\u00e4\u00dfig Workshops in Kleingruppen, wo sich Manager und Kontrolleure \u00fcber die Strategie austauschen."
+                },
+                {
+                    "text": "Vorst\u00e4nde loben Buschs \"erfrischende Unaufgeregtheit\"."
+                },
+                {
+                    "text": "Beitinger ist eine Schl\u00fcsselfigur f\u00fcr den Umbau, den Busch plant."
+                },
+                {
+                    "text": "\"Bei den gro\u00dfen Kunden geht der Busch zum Boss, und wir reden. Aber Hunderttausende Mittelst\u00e4ndler in Deutschland oder China erreiche ich nicht nur, indem ich Leute hinschicke, daf\u00fcr brauche ich einen Marktplatz\", sagt Busch."
+                },
+                {
+                    "text": "Busch und die gro\u00dfen Jungs"
+                },
+                {
+                    "text": "Roland Busch steht wieder einmal etwas h\u00fcftsteif auf einer B\u00fchne."
+                },
+                {
+                    "text": "Und wenn er auch einen Kopf kleiner ist als Busch, so sp\u00fcrt man doch schnell, wer von den beiden schon im Olymp der Techwelt angekommen ist."
+                },
+                {
+                    "text": "Nvidia liefert Hochleistungschips, die als Gehirne hinter der k\u00fcnstlichen Intelligenz gelten und auch Buschs Traum vom industriellen Metaverse wahr werden lassen sollen."
+                },
+                {
+                    "text": "Aber Busch will jetzt mit den gro\u00dfen Jungs spielen, will dahin, wo Nvidia und die anderen Techgr\u00f6\u00dfen sind."
+                },
+                {
+                    "text": "Daf\u00fcr braucht er Nvidia und die Cloud-Riesen als Partner."
+                },
+                {
+                    "text": "Die Gefahr, dass genau diese Plattformkonzerne Siemens das Wasser abgraben, h\u00e4lt er f\u00fcr gering."
+                },
+                {
+                    "text": "Sie h\u00e4tten gelernt, dass \u00bbdieses schnelle Hochskalieren einer L\u00f6sung im industriellen Bereich nicht so einfach funktioniert\u00ab, formuliert er."
+                },
+                {
+                    "text": "Man m\u00fcsse auch die Hardware beherrschen, brauche Branchen-Know-how und m\u00fcsse die Sprache des Kunden sprechen, ob sie nun aus der Auto-, Chemie- oder Nahrungsmittelbranche k\u00e4men \u2013 wie Siemens eben."
+                },
+                {
+                    "text": "Deshalb ist Busch \u00fcberzeugt, dass nicht nur er mit den gro\u00dfen Jungs spielen will \u2013 sondern die auch mit ihm."
+                },
+                {
+                    "text": "Busch hat lange darauf hingearbeitet, den Techgr\u00f6\u00dfen so begegnen zu k\u00f6nnen."
+                },
+                {
+                    "text": "F\u00fcnf Jahre vor seinem Aufstieg zum CEO macht er eine erste gr\u00f6\u00dfere Tour durch die USA."
+                },
+                {
+                    "text": "Er beginnt, sich mit Managern wie dem sp\u00e4teren Google-Chef Sundar Pichai, Salesforce-CEO Marc Benioff und Microsoft-Boss Satya Nadella zu treffen, sie erz\u00e4hlen ihm, wie sie die Welt sehen."
+                },
+                {
+                    "text": "Als Vorstandschef pflegt Busch das Netzwerk weiter."
+                },
+                {
+                    "text": "Er besucht die MARS-Konferenz von Amazon-Gr\u00fcnder Jeff Bezos in der W\u00fcste von Kalifornien, bei der sich die Techwelt \u00fcber k\u00fcnstliche Intelligenz austauscht; er ist dabei, wenn der heutige Amazon-Chef Andy Jassy zur CEO-Party bei sich zu Hause einl\u00e4dt; er ist Mitglied des amerikanischen Business-Council, einem Netzwerk von 200 internationalen Konzernchefs."
+                },
+                {
+                    "text": "\"Roland ist einer der technologischen Vordenker Europas\", findet Finanzvorstand Ralf Thomas."
+                },
+                {
+                    "text": "Busch selbst sieht in dem Austausch mit den Tech-CEOs einen seiner gr\u00f6\u00dften Hebel, um Siemens ins Digitalzeitalter zu f\u00fchren."
+                },
+                {
+                    "text": "\u00bbWenn Sie da antreten, m\u00fcssen Sie schon \u00fcber Technologie reden k\u00f6nnen\u00ab, sagt er."
+                },
+                {
+                    "text": "Es ist eine Ironie des Schicksals, dass der eher unpolitische Busch mit Siemens in einen geopolitischen Sturm geriet, kaum dass er im Amt war: Die Pandemie, der Ukrainekrieg, die Konfrontation des Westens mit China \u2013 all das zwingt den Techfreak, gegen seine Natur nun doch zum Politiker zu werden."
+                },
+                {
+                    "text": "\"Wenn es um Siemens geht, oder um die Entwicklung der deutschen oder europ\u00e4ischen Wirtschaft, dann \u00e4u\u00dfere ich mich auch politisch\", sagt er."
+                },
+                {
+                    "text": "Aus Russland verabschiedet Busch sich noch leicht."
+                },
+                {
+                    "text": "Deshalb k\u00e4mpft Busch um dieses Gesch\u00e4ft, auch auf der politischen B\u00fchne."
+                },
+                {
+                    "text": "Je st\u00e4rker sich der Konflikt mit China zuspitzt, desto mehr wagt er sich aus der Deckung."
+                },
+                {
+                    "text": "Er holt die Chefs von Bosch, BASF und Schaeffler in die Siemens-Zentrale, zusammen verfassen sie zur Reise von Bundeskanzler Olaf Scholz nach China im Herbst 2022 ein Editorial zur Chinapolitik."
+                },
+                {
+                    "text": "Als acht Monate sp\u00e4ter der chinesische Regierungschef Li Qiang nach Deutschland kommt, verbringt Busch mehr Zeit mit ihm als der Bundeskanzler."
+                },
+                {
+                    "text": "Er spricht als Erster, als Li am Montag in Berlin mit einer Gruppe deutscher CEOs zusammenkommt; er ist Teil einer Wirtschaftsdelegation, die am Dienstag mit Scholz und Li diskutiert; er h\u00e4lt eine Rede als Chef des Asien-Pazifik-Ausschusses (APA)."
+                },
+                {
+                    "text": "Am Mittwoch empf\u00e4ngt Busch den chinesischen Regierungschef schlie\u00dflich in der Siemens-Zentrale in M\u00fcnchen."
+                },
+                {
+                    "text": "Er f\u00fchrt Li durch eine f\u00fcr ihn inszenierte Ausstellung, zeigt KI-gesteuerte Roboter, eine Vitrine f\u00fcr \"Vertical Farming\", ein MRT-Ger\u00e4t, einen batteriegetriebenen Rennwagen."
+                },
+                {
+                    "text": "Es ist wohl der Dank f\u00fcr eine Ank\u00fcndigung, die Busch nur eine Woche zuvor gemacht hat."
+                },
+                {
+                    "text": "\"Auch demokratische L\u00e4nder sind nicht perfekt. Wir sollten nicht in ein Schwarz-Wei\u00df-Denken verfallen\", sagt Busch."
+                },
+                {
+                    "text": "Im \u00bbworst case\u00ab \u2013 einem Angriff Chinas auf Taiwan und einem harten Handelskrieg mit dem Westen \u2013, h\u00e4tte man mit der Erweiterungsinvestition in Chengdu 140 Millionen Euro verloren, und auch das sei sehr hypothetisch, so kalkuliert Busch."
+                },
+                {
+                    "text": "\"Als Technologiekonzern m\u00fcssen wir in die M\u00e4rkte gehen, wo uns Kunden mitnehmen auf die Reise zur n\u00e4chsten Innovation\", sagt Busch."
+                },
+                {
+                    "text": "Einige Wochen nach dem Besuch Li Qiangs hat Busch wieder einen Regierungschef zu Gast: Olaf Scholz."
+                },
+                {
+                    "text": "Busch will dem etwas entgegensetzen."
+                },
+                {
+                    "text": "Er finde noch immer eine gute Infrastruktur vor, hoch qualifizierte Mitarbeiter und ein funktionierendes \u00d6kosystem aus Wirtschaft und Wissenschaft."
+                },
+                {
+                    "text": "\"Das sind alles Gr\u00fcnde, warum wir hier investieren\", sagt Busch."
+                },
+                {
+                    "text": "\"Und ich glaube nicht, dass wir hier als Geisterfahrer unterwegs sind.\""
+                },
+                {
+                    "text": "Nat\u00fcrlich kennt auch Busch die Schw\u00e4chen des Standortes, und wo es Siemens hilft, da beklagt er sie genauso wie die anderen Bosse, etwa in einem Brief an die EU gegen den aus seiner Sicht zu restriktiven Entwurf f\u00fcr eine KI-Richtlinie."
+                },
+                {
+                    "text": "Aber er glaubt, dass es noch nicht zu sp\u00e4t sei f\u00fcr Europa und Deutschland, wenn man sich auf seine St\u00e4rken besinne."
+                },
+                {
+                    "text": "Busch ist ein Sportfanatiker, f\u00fcnf-, sechsmal die Woche trainiert er morgens ab sechs Uhr Kraft und Ausdauer."
+                },
+                {
+                    "text": "In der Konzernzentrale hat er daf\u00fcr einen Fitnessraum nach seinen Bed\u00fcrfnissen einrichten lassen."
+                },
+                {
+                    "text": "Die Risiken der Busch-Doktrin"
+                },
+                {
+                    "text": "Macht es wie Siemens, ist Buschs unausgesprochene Botschaft."
+                },
+                {
+                    "text": "\"Busch hat es bisher nicht geschafft, zus\u00e4tzliche Impulse zu setzen, um ein klares strategisches Zielbild am Kapitalmarkt zu etablieren\", sagt der Fondsmanager der Deka."
+                },
+                {
+                    "text": "Buschs Vorvorg\u00e4nger Peter L\u00f6scher habe f\u00fcr das Umsatzziel von 100 Milliarden Euro gestanden \u2013 das er weit verfehlte, Kaeser f\u00fcr die Aufspaltung des Konglomerats."
+                },
+                {
+                    "text": "\"Aber wohin will Busch?\""
+                },
+                {
+                    "text": "Offensichtlich werde die von Busch formulierte Strategie, einen integrierten Hard- und Softwarekonzern zu schaffen, vom Markt nicht verstanden."
+                },
+                {
+                    "text": "Tats\u00e4chlich hat sich die Siemens-Aktie, seit Busch an der Spitze steht, schw\u00e4cher entwickelt als die Aktien der meisten Konkurrenten."
+                },
+                {
+                    "text": "\"Die Belegschaft in der Fl\u00e4che hat Schwierigkeiten, Buschs Vision zu verstehen\", sagt ein Arbeitnehmervertreter."
+                },
+                {
+                    "text": "Wenn der Erfolg einmal ausbleibt, k\u00f6nnte ausgerechnet Buschs harmonischer F\u00fchrungsstil zum Fluch werden, f\u00fcrchten Insider."
+                },
+                {
+                    "text": "\"Wir fragen uns, wie resilient dieser Vorstand ist, wenn er mal richtig unter Druck kommt\", sagt ein Arbeitnehmervertreter."
+                },
+                {
+                    "text": "Busch scheint sich der Risiken seiner Strategie bewusst zu sein."
+                },
+                {
+                    "text": "\"Das Wichtigste ist, dass ich die 317.000 Mitarbeiter mitnehme auf diese Reise, denn nicht alle sind gleich weit.\""
+                },
+                {
+                    "text": "Der Wandel in der Unternehmenskultur gehe nicht so schnell, wie Busch das vielleicht wahrnehme, kritisiert der Arbeitnehmer."
+                },
+                {
+                    "text": "Der Unterschied zu Deutschland ist: Immerhin wei\u00df der Kopf, wohin er will."
+                },
+                {
+                    "text": "Anmerkung der Redaktion: In einer fr\u00fcheren Fassung des Textes hie\u00df es, Roland Busch habe den Tag seines inoffiziellen Amtsantritts, den 1. Oktober 2020, intern als \u00bbDay Zero\u00ab bezeichnet."
+                },
+                {
+                    "text": "Richtig ist, dass er ihn \u00bbDay One\u00ab nannte."
+                }
+            ],
+            "occupations": [],
+            "directQuotes": [
+                {
+                    "text": "Bei den gro\u00dfen Kunden geht der Busch zum Boss, und wir reden. Aber Hunderttausende Mittelst\u00e4ndler in Deutschland oder China erreiche ich nicht nur, indem ich Leute hinschicke, daf\u00fcr brauche ich einen Marktplatz"
+                }
+            ],
+            "quotedInTitle": false,
+            "quotedInIntro": true
+        },
+        {
+            "name": "Ingo Speich",
+            "alternativeNames": [],
+            "age": -1,
+            "sex": "male",
+            "occurences": {
+                "total": 2,
+                "firstNameOnly": 0,
+                "lastNameOnly": 1,
+                "fullName": 1,
+                "nickname": 0
+            },
+            "inTitle": false,
+            "inIntro": false,
+            "_name": {
+                "firstname": "Ingo",
+                "lastname": "Speich",
+                "nickname": null,
+                "alternative_names": [],
+                "academic_title": null,
+                "nobility_title_or_rank": null
+            },
+            "descriptiveTexts": [
+                {
+                    "text": "Ingo Speich zweifelt."
+                },
+                {
+                    "text": "Er beobachtet die Entwicklung von Siemens seit mehr als 15 Jahren."
+                },
+                {
+                    "text": "Die Zahlen, das r\u00e4umt Speich ein, seien gut, trotz des schwierigen geopolitischen Umfelds."
+                }
+            ],
+            "occupations": [
+                {
+                    "text": "Fondsmanager"
+                }
+            ],
+            "directQuotes": [],
+            "quotedInTitle": false,
+            "quotedInIntro": false
+        },
+        {
+            "name": "Marc Benioff",
+            "alternativeNames": [],
+            "age": -1,
+            "sex": "male",
+            "occurences": {
+                "total": 1,
+                "firstNameOnly": 0,
+                "lastNameOnly": 0,
+                "fullName": 1,
+                "nickname": 0
+            },
+            "inTitle": false,
+            "inIntro": false,
+            "_name": {
+                "firstname": "Marc",
+                "lastname": "Benioff",
+                "nickname": null,
+                "alternative_names": [],
+                "academic_title": null,
+                "nobility_title_or_rank": null
+            },
+            "descriptiveTexts": [
+                {
+                    "text": "\"Gibt es etwas, das Sie r\u00fcckblickend anders gemacht h\u00e4tten?\", will eine Studentin wissen."
+                },
+                {
+                    "text": "Er beginnt, sich mit Managern wie dem sp\u00e4teren Google-Chef Sundar Pichai, Salesforce-CEO Marc Benioff und Microsoft-Boss Satya Nadella zu treffen, sie erz\u00e4hlen ihm, wie sie die Welt sehen."
+                }
+            ],
+            "occupations": [],
+            "directQuotes": [
+                {
+                    "text": "Mobility"
+                },
+                {
+                    "text": "Mindsphere"
+                },
+                {
+                    "text": "Industrial Metaverse"
+                }
+            ],
+            "quotedInTitle": false,
+            "quotedInIntro": false
+        },
+        {
+            "name": "Putin",
+            "alternativeNames": [],
+            "age": -1,
+            "sex": "male",
+            "occurences": {
+                "total": 1,
+                "firstNameOnly": 0,
+                "lastNameOnly": 0,
+                "fullName": 1,
+                "nickname": 0
+            },
+            "inTitle": false,
+            "inIntro": false,
+            "_name": {
+                "firstname": "Putin",
+                "lastname": null,
+                "nickname": null,
+                "alternative_names": [],
+                "academic_title": null,
+                "nobility_title_or_rank": null
+            },
+            "descriptiveTexts": [
+                {
+                    "text": "Zwar ist Putins Riesenreich f\u00fcr das Zuggesch\u00e4ft ein lukrativer Markt, Siemens schreibt einen Auftragsbestand von vier Milliarden Euro ab, mit einem Verlust von 1,3 Milliarden Euro."
+                }
+            ],
+            "occupations": [
+                {
+                    "text": "Putins Riesenreich f\u00fcr das Zuggesch\u00e4ft ein lukrativer Markt"
+                }
+            ],
+            "directQuotes": [],
+            "quotedInTitle": false,
+            "quotedInIntro": false
+        },
+        {
+            "name": "Angela Merkel",
+            "alternativeNames": [],
+            "age": -1,
+            "sex": "female",
+            "occurences": {
+                "total": 2,
+                "firstNameOnly": 0,
+                "lastNameOnly": 1,
+                "fullName": 1,
+                "nickname": 0
+            },
+            "inTitle": false,
+            "inIntro": false,
+            "_name": {
+                "firstname": "Angela",
+                "lastname": "Merkel",
+                "nickname": null,
+                "alternative_names": [],
+                "academic_title": null,
+                "nobility_title_or_rank": null
+            },
+            "descriptiveTexts": [
+                {
+                    "text": "2015 kam die damalige Bundeskanzlerin Angela Merkel hierher, um sich anzuschauen, \u00bbwie die industrielle Produktion der Zukunft aussieht\u00ab."
+                },
+                {
+                    "text": "Im Jahr nach dem Merkel-Besuch begann Siemens, das Ganze auf eine neue Ebene zu heben."
+                }
+            ],
+            "occupations": [
+                {
+                    "text": "Bundeskanzlerin"
+                }
+            ],
+            "directQuotes": [
+                {
+                    "text": "Wenn es um Siemens geht, oder um die Entwicklung der deutschen oder europ\u00e4ischen Wirtschaft, dann \u00e4u\u00dfere ich mich auch politisch"
+                },
+                {
+                    "text": "Das Wichtigste ist, dass ich die 317.000 Mitarbeiter mitnehme auf diese Reise, denn nicht alle sind gleich weit."
+                },
+                {
+                    "text": "Aida"
+                }
+            ],
+            "quotedInTitle": false,
+            "quotedInIntro": false
+        },
+        {
+            "name": "Ralf Thoma",
+            "alternativeNames": [],
+            "age": -1,
+            "sex": "male",
+            "occurences": {
+                "total": 1,
+                "firstNameOnly": 0,
+                "lastNameOnly": 0,
+                "fullName": 1,
+                "nickname": 0
+            },
+            "inTitle": false,
+            "inIntro": false,
+            "_name": {
+                "firstname": "Ralf",
+                "lastname": "Thoma",
+                "nickname": null,
+                "alternative_names": [],
+                "academic_title": null,
+                "nobility_title_or_rank": null
+            },
+            "descriptiveTexts": [
+                {
+                    "text": "\"Roland ist einer der technologischen Vordenker Europas\", findet Finanzvorstand Ralf Thomas."
+                }
+            ],
+            "occupations": [],
+            "directQuotes": [
+                {
+                    "text": "R"
+                }
+            ],
+            "quotedInTitle": false,
+            "quotedInIntro": false
+        }
+    ]
+}

@@ -1,0 +1,278 @@
+{
+    "persons": [
+        {
+            "name": "Nina Grimm",
+            "alternativeNames": [],
+            "age": -1,
+            "sex": "female",
+            "occurences": {
+                "total": 24,
+                "firstNameOnly": 0,
+                "lastNameOnly": 23,
+                "fullName": 1,
+                "nickname": 0
+            },
+            "inTitle": false,
+            "inIntro": true,
+            "_name": {
+                "firstname": "Nina",
+                "lastname": "Grimm",
+                "nickname": null,
+                "alternative_names": [],
+                "academic_title": null,
+                "nobility_title_or_rank": null
+            },
+            "descriptiveTexts": [
+                {
+                    "text": "Nach der Schwangerschaft kommt der Schock, so hat es Paartherapeutin Nina Grimm selbst erlebt."
+                },
+                {
+                    "text": "Hier verr\u00e4t sie, wie gutes Streiten geht, wieso sie sich von ihrem Mann trennte und ihn eines Nachts zur\u00fcckwollte."
+                },
+                {
+                    "text": "Ich glaube, es kann sogar eine besondere Form der Liebesbekundung sein, wenn ein Paar sagt: Wir reichen uns."
+                },
+                {
+                    "text": "Als mein Mann Conrad und ich das erste Mal ohne Kinder \u00fcbers Wochenende verreisten, waren wir richtig verknallt."
+                },
+                {
+                    "text": "Sie schildern in Ihrem Buch diese Szene: Sie beobachten auf der Stra\u00dfe ein Paar, das sich verliebt ansieht."
+                },
+                {
+                    "text": "In Ihrem Buch geben Sie Tipps, solche Situationen zu \u00fcberwinden."
+                },
+                {
+                    "text": "Das \u00fcbe ich meist zuerst mit Paaren."
+                },
+                {
+                    "text": "Ich schlage eine Gespr\u00e4chsstruktur vor, in der zuerst nur eine Person kurz spricht und die andere Person fasst zusammen, was sie verstanden hat."
+                },
+                {
+                    "text": "Eigentlich geht es aber eine Ebene tiefer um ganz andere Themen \u2013 etwa: Ich f\u00fchle mich nicht gesehen."
+                },
+                {
+                    "text": "Bei mir ist es zum Beispiel so, dass ich oft die Mauern hochfahre und grummelig werde, obwohl ich in Wahrheit verletzt bin."
+                },
+                {
+                    "text": "Mein Mann wei\u00df inzwischen, dass ich das nicht mache, weil ich streiten will."
+                },
+                {
+                    "text": "Ich wollte meine Geschichte erz\u00e4hlen, weil sie nahbar macht."
+                },
+                {
+                    "text": "Dann, eines Nachts, war meine Tochter krank, Magen-Darm, sie musste st\u00e4ndig erbrechen."
+                },
+                {
+                    "text": "Der neue Mann war \u00fcberfordert, ich v\u00f6llig fertig und da dachte ich nur: Wie sch\u00f6n w\u00e4re es, wenn Conrad jetzt da w\u00e4re?"
+                },
+                {
+                    "text": "Ich kann und will in meiner Beziehung nicht die Paartherapeutin sein."
+                },
+                {
+                    "text": "Ein Satz, der h\u00e4ufiger im Buch vorkommt, lautet: Ich sehe Dich."
+                },
+                {
+                    "text": "Wertsch\u00e4tzung wirkt wie Wund- und Heilsalbe, sie hilft immer."
+                },
+                {
+                    "text": "Allerdings kann das auch als Tool der Manipulation missbraucht werden, was Narzissten gerne tun \u2013 etwa wenn sie unsicheren Menschen Zucker geben, sie an sich binden und dann die Peitsche rausholen."
+                },
+                {
+                    "text": "Sie pl\u00e4dieren f\u00fcr Slow Sex."
+                },
+                {
+                    "text": "Wir d\u00fcrfen stattdessen den Fokus wieder darauf richten, miteinander zu sein \u2013 und zum Beispiel seinen Kuss am Hals einfach genie\u00dfen, statt uns gedanklich schon damit zu besch\u00e4ftigen, dass ich auf das, was \u00fcblicherweise folgt, gar keinen Bock habe."
+                },
+                {
+                    "text": "Denn die Zeit nach der Schwangerschaft konfrontierte mich und meinen Mann erstmals mit der Frage: Was mag ich eigentlich?"
+                },
+                {
+                    "text": "Wie mag ich es?"
+                },
+                {
+                    "text": "Was langfristig gl\u00fccklichen Paaren gelingt: F\u00fcr sie machen diese Teilchen ein Gesamtkunstwerk aus."
+                },
+                {
+                    "text": "Das Sch\u00f6ne an Kindern ist, dass sie Eltern t\u00e4glich mit den Streitthemen konfrontieren."
+                },
+                {
+                    "text": "Im Grunde steckt in jedem dieser kleinen Konflikte die Chance, sich zu \u00fcberlegen: Will ich mich wirklich in dieser Dynamik verfestigen?"
+                },
+                {
+                    "text": "Oder betrachte ich das heute mal neu?"
+                },
+                {
+                    "text": "Und wie vermeide ich Eskalationen?"
+                },
+                {
+                    "text": "F\u00fcr das Szenario, in dem ein Streit eskaliert, empfehle ich, dass man zuvor eine Symbolik vereinbart."
+                },
+                {
+                    "text": "Danach sind sie entweder aufseiten von Mama oder von Papa."
+                },
+                {
+                    "text": "Deswegen empfehle ich, es anzusprechen: \u00bbHey, hier ist gerade schlechte Stimmung und wir k\u00fcmmern uns drum. Ihr spielt einfach weiter. Okay?\u00ab"
+                },
+                {
+                    "text": "Klar, du darfst verletzt sein, aber du bist ein Erwachsener mit Verantwortung."
+                },
+                {
+                    "text": "Ja, das w\u00fcrde ich unterstreichen."
+                },
+                {
+                    "text": "Als der Ukrainekrieg ausbrach, empfand ich zum Beispiel eine tiefe Dankbarkeit daf\u00fcr, dass Conrad nicht eingezogen wird, dass er bei uns sein kann."
+                },
+                {
+                    "text": "Wir liegen einfach nur da, zu viert, und ich bin gl\u00fccklich."
+                },
+                {
+                    "text": "Meine Kinder sind jetzt neun und fast sechs, damit aus dem Gr\u00f6bsten raus, ich kann auch einfach mal ein paar Tage mit Conrad verreisen."
+                }
+            ],
+            "occupations": [
+                {
+                    "text": "Paartherapeutin"
+                }
+            ],
+            "directQuotes": [
+                {
+                    "text": "Die meisten schlittern mit verzerrten Vorstellungen ins Familienleben"
+                },
+                {
+                    "text": "Absolut. Ich glaube, es kann sogar eine besondere Form der Liebesbekundung sein, wenn ein Paar sagt: Wir reichen uns. Aber man kann sich auch mit Kindern immer wieder neu ineinander verlieben. Als mein Mann Conrad und ich das erste Mal ohne Kinder \u00fcbers Wochenende verreisten, waren wir richtig verknallt. Das Gef\u00fchl, den Partner f\u00fcr sich ganz allein zu haben, wenn auch nur kurz, war auf einmal intensiv."
+                },
+                {
+                    "text": "Die meisten Menschen schlittern mit romantisch verzerrten Vorstellungen ins Familienleben. Bei mir war es auch ein Schock. F\u00fcr mich. F\u00fcr uns. Als Paar gelangt man schnell an Punkte, die eine Beziehung ersch\u00fcttern."
+                },
+                {
+                    "text": "Dabei ist es schwer, im Streit mal die Klappe zu halten. Das \u00fcbe ich meist zuerst mit Paaren. H\u00e4ufig entsteht n\u00e4mlich nur der Anschein eines Gespr\u00e4chs: Einer sagt etwas und der andere holt gedanklich schon zum Gegenschlag aus. Das ist eine Kommunikation, die nur vorgibt, dass wir miteinander in Kontakt treten."
+                },
+                {
+                    "text": "Wenn man sich eingesteht, dass man in solchen Situationen nur mit sich besch\u00e4ftigt ist, ist das der erste Schritt. Was ist mein Film? Kann ich ihn unterbrechen und kurz wirklich zuh\u00f6ren? Ich schlage eine Gespr\u00e4chsstruktur vor, in der zuerst nur eine Person kurz spricht und die andere Person fasst zusammen, was sie verstanden hat. Erst wenn der Sprecher sich verstanden f\u00fchlt, wechselt man die Rollen."
+                },
+                {
+                    "text": "Klar, manchmal f\u00fchlen wir uns genervt oder getriggert und dann ist es menschlich, dass wir unseren Dynamiken verfallen. Wichtig ist, zwischen l\u00f6sbaren und dynamischen Konflikten zu unterscheiden: Bei dynamischen Konflikten entsteht der Anschein, dass wir uns \u00fcber Haushalt streiten. Eigentlich geht es aber eine Ebene tiefer um ganz andere Themen \u2013 etwa: Ich f\u00fchle mich nicht gesehen. Das bekommen wir nicht durch einen Putzplan gel\u00f6st. Das sind rund 70 Prozent aller Konflikte."
+                },
+                {
+                    "text": "Es geht als Paar darum, einen Umgang damit zu finden. Wir k\u00f6nnen uns ein Bewusstsein dar\u00fcber erarbeiten, wann wir in Dynamiken reinrutschen. Bei mir ist es zum Beispiel so, dass ich oft die Mauern hochfahre und grummelig werde, obwohl ich in Wahrheit verletzt bin. Mein Mann wei\u00df inzwischen, dass ich das nicht mache, weil ich streiten will. Vielleicht setzt er sich zu mir, umarmt mich und fragt: \u00bbHattest Du einen Schei\u00dftag?\u00ab"
+                },
+                {
+                    "text": "Wir sind voll gegen die Wand gescheppert. Streit, Schuldzuweisungen, lodernde Dynamiken. Ich wollte meine Geschichte erz\u00e4hlen, weil sie nahbar macht. Vielleicht sagen manche, die das Buch lesen: Die waren ja auch so abgefuckt, aber haben es hingekriegt, dann schaffen wir das auch!"
+                },
+                {
+                    "text": "Mit dem anderen Mann war es frisch und aufregend, aber dann kamen dieselben Konfliktthemen auf wie bei Conrad. Vielleicht war die Trennung also in Wahrheit eine Flucht vor mir selbst. Dann, eines Nachts, war meine Tochter krank, Magen-Darm, sie musste st\u00e4ndig erbrechen. Der neue Mann war \u00fcberfordert, ich v\u00f6llig fertig und da dachte ich nur: Wie sch\u00f6n w\u00e4re es, wenn Conrad jetzt da w\u00e4re?"
+                },
+                {
+                    "text": "Nein, aber wir konnten uns wenigstens eingestehen, dass wir beide nicht wissen, wie wir unsere Konflikte l\u00f6sen k\u00f6nnen. Neu war: Wir wollten es lernen. Das hat uns geholfen."
+                },
+                {
+                    "text": "Nein, externe Therapeuten. Ich kann und will in meiner Beziehung nicht die Paartherapeutin sein."
+                },
+                {
+                    "text": "In der Tiefe ist Wertsch\u00e4tzung eine Sehnsucht, die uns alle verbindet. Wertsch\u00e4tzung wirkt wie Wund- und Heilsalbe, sie hilft immer. Allerdings kann das auch als Tool der Manipulation missbraucht werden, was Narzissten gerne tun \u2013 etwa wenn sie unsicheren Menschen Zucker geben, sie an sich binden und dann die Peitsche rausholen."
+                },
+                {
+                    "text": "Extrem wichtig. Gerade im ersten Lebensjahr eines Kindes. Wir unterhalten uns, wir gucken einen Film, wir kuscheln nackt im Bett. Was auch immer man machen m\u00f6chte, ist gut."
+                },
+                {
+                    "text": "Wir alle haben Bilder im Kopf, wie Sex auszusehen hat. Damit bricht Slow Sex, es nimmt uns den Druck: Du musst nicht performen. Wir d\u00fcrfen stattdessen den Fokus wieder darauf richten, miteinander zu sein \u2013 und zum Beispiel seinen Kuss am Hals einfach genie\u00dfen, statt uns gedanklich schon damit zu besch\u00e4ftigen, dass ich auf das, was \u00fcblicherweise folgt, gar keinen Bock habe. F\u00fcr mich war das ein Gamechanger. Denn die Zeit nach der Schwangerschaft konfrontierte mich und meinen Mann erstmals mit der Frage: Was mag ich eigentlich? Wie mag ich es? Wie darf sexueller Kontakt aussehen? Bleibt es vielleicht bei diesem sinnlichen Kuss am Hals? Es muss nicht immer weitergehen, zum Orgasmus f\u00fchren. Das hat etwas Meditatives, ja, auch f\u00fcr M\u00e4nner."
+                },
+                {
+                    "text": "Das Sexualverhalten von Paaren nach der Geburt ist kaum erforscht. In meiner Arbeit sind mir viele Paare begegnet, die auch nach mehr als einem Jahr nach der Geburt keinen Sex hatten. Frauen, die bei der Geburt traumatische Erfahrungen machen mussten, hatten signifikant weniger Sex. Viele berichten davon, ihren K\u00f6rper erst mal f\u00fcr sich haben zu wollen."
+                },
+                {
+                    "text": "Mein Buch richtet sich an Eltern mit wenig Zeit. Die Ideen sollen umsetzbar sein, wie die der Love-Box. Jeden Tag zieht ein Partner einen Zettel des anderen und tut, was der draufgeschrieben hat. Den Partner morgens umarmen, etwas Leckeres vom Einkaufen mitbringen, so etwas. Das kann man das Klima der Beziehung verbessern."
+                },
+                {
+                    "text": "Da schreiben Paare alles auf, was ihnen am Partner auf den Senkel geht. Was einen Streit entfachen k\u00f6nnte. Nach sechs Wochen wird die Box in meinen Paartherapien ge\u00f6ffnet. Da sind manchmal hunderte Schnipsel drin. Die clustern wir und kommen so auf drei bis f\u00fcnf gr\u00f6\u00dfere Themen. Das klingt f\u00fcr Paare machbarer. Eigentlich streiten wir uns immer um denselben Schei\u00df."
+                },
+                {
+                    "text": "Doch, aber da kommt es ganz drauf an, worauf wir unseren Fokus richten. Meist fallen diese Dinge besonders auf, wenn man den Partner eh gerade doof findet. Was langfristig gl\u00fccklichen Paaren gelingt: F\u00fcr sie machen diese Teilchen ein Gesamtkunstwerk aus. Nat\u00fcrlich darf man sich weiter daran st\u00f6ren, anstatt es ein Leben lang runterzuschlucken. Aber dann muss man auch irgendwann wieder die Scheuklappen \u00f6ffnen und sich sagen: Mein Mann sitzt gerade am Tisch und h\u00f6rt sich an, dass mich die bl\u00f6de Socke auf dem Boden st\u00f6rt, das ist ja ein cooler Typ! Ungl\u00fcckliche Paare k\u00f6nnen das nicht."
+                },
+                {
+                    "text": "Das kann eine Form von Weisheit sein, kommt aber stark drauf an. Das Sch\u00f6ne an Kindern ist, dass sie Eltern t\u00e4glich mit den Streitthemen konfrontieren. Im Grunde steckt in jedem dieser kleinen Konflikte die Chance, sich zu \u00fcberlegen: Will ich mich wirklich in dieser Dynamik verfestigen? Oder betrachte ich das heute mal neu?"
+                },
+                {
+                    "text": "Ein Paar sollte sich rechtzeitig hinsetzen und sich fragen: Wie wollen wir diese Beziehung leben? F\u00fcr das Szenario, in dem ein Streit eskaliert, empfehle ich, dass man zuvor eine Symbolik vereinbart. Die \u00dcbung geht so: Die Partner \u00fcberlegen sich ein Symbol \u2013 das kann ein Gegenstand, aber auch ein Lied, ein Wort oder eine Gestik sein. Dann erz\u00e4hlt man sich von der Vision, die man von der Beziehung hat. Dabei darf so richtig rausgehauen werden, ruhig auch kitschig und pathetisch. So ladet ihr diesen Gegenstand mit der Vision auf. Wenn sich ein Streit anbahnt, der zu kippen droht, k\u00f6nnt ihr dieses Symbol einsetzen. Aber bitte nicht im Sinne von \u00bbeat that shit \u2013 du Loser!\u00ab. Sondern als eine liebevolle Erinnerung an eure Vision. Davon, wie ihr als Paar sein m\u00f6chtet. Wenn das Exit gesetzt wurde, muss die Situation sofort beendet werden."
+                },
+                {
+                    "text": "Streit bekommen Kinder meist mit. Kinder neigen bis zum Alter von etwa sechs Jahren dazu, die Schuld f\u00fcr elterliche Konflikte auf sich zu nehmen. Danach sind sie entweder aufseiten von Mama oder von Papa. Am Fr\u00fchst\u00fcckstisch sitzen und gute Miene zum b\u00f6sen Spiel machen? Klappt nicht. Deswegen empfehle ich, es anzusprechen: \u00bbHey, hier ist gerade schlechte Stimmung und wir k\u00fcmmern uns drum. Ihr spielt einfach weiter. Okay?\u00ab Ein weiterer Tipp f\u00fcr Konfliktsituationen ist, dass man sich ein Bild der Kinder in den Raum legt, es in die Hand nimmt und sagt: \u00bbMeine Wut ist mir gerade wichtiger als Du!\u00ab Das ist ein Satz, der noch mal bewusst macht, was man den Kindern da m\u00f6glicherweise antut."
+                },
+                {
+                    "text": "Dann geht es um Verantwortung. Man sucht sich einen Raum, in dem man sprechen kann, etwa bei der Paartherapie. Zu Hause rei\u00dft man sich zusammen. Klar, du darfst verletzt sein, aber du bist ein Erwachsener mit Verantwortung."
+                },
+                {
+                    "text": "Ja, das w\u00fcrde ich unterstreichen. Als der Ukrainekrieg ausbrach, empfand ich zum Beispiel eine tiefe Dankbarkeit daf\u00fcr, dass Conrad nicht eingezogen wird, dass er bei uns sein kann."
+                },
+                {
+                    "text": "Wenn wir sonntags ausschlafen, und die Kids zu uns ins Bett krabbeln. Wir liegen einfach nur da, zu viert, und ich bin gl\u00fccklich. Meine Kinder sind jetzt neun und fast sechs, damit aus dem Gr\u00f6bsten raus, ich kann auch einfach mal ein paar Tage mit Conrad verreisen. Das zelebrieren wir auch sehr."
+                }
+            ],
+            "quotedInTitle": false,
+            "quotedInIntro": true
+        },
+        {
+            "name": "Conrad",
+            "alternativeNames": [
+                "Papa"
+            ],
+            "age": -1,
+            "sex": "male",
+            "occurences": {
+                "total": 6,
+                "firstNameOnly": 0,
+                "lastNameOnly": 0,
+                "fullName": 6,
+                "nickname": 0
+            },
+            "inTitle": false,
+            "inIntro": false,
+            "_name": {
+                "firstname": "Conrad",
+                "lastname": null,
+                "nickname": null,
+                "alternative_names": [
+                    "Papa"
+                ],
+                "academic_title": null,
+                "nobility_title_or_rank": null
+            },
+            "descriptiveTexts": [
+                {
+                    "text": "Als mein Mann Conrad und ich das erste Mal ohne Kinder \u00fcbers Wochenende verreisten, waren wir richtig verknallt."
+                },
+                {
+                    "text": "In Ihrem Buch geben Sie Tipps, solche Situationen zu \u00fcberwinden."
+                },
+                {
+                    "text": "Das \u00fcbe ich meist zuerst mit Paaren."
+                },
+                {
+                    "text": "Vielleicht setzt er sich zu mir, umarmt mich und fragt: \u00bbHattest Du einen Schei\u00dftag?\u00ab"
+                },
+                {
+                    "text": "Auch Ihr Buch beginnt mit einer Geschichte aus Ihrem Leben: der vor\u00fcbergehenden Trennung von Ihrem Mann Conrad, dem Vater Ihrer beiden Kinder."
+                },
+                {
+                    "text": "Mit dem anderen Mann war es frisch und aufregend, aber dann kamen dieselben Konfliktthemen auf wie bei Conrad."
+                },
+                {
+                    "text": "Der neue Mann war \u00fcberfordert, ich v\u00f6llig fertig und da dachte ich nur: Wie sch\u00f6n w\u00e4re es, wenn Conrad jetzt da w\u00e4re?"
+                },
+                {
+                    "text": "Was langfristig gl\u00fccklichen Paaren gelingt: F\u00fcr sie machen diese Teilchen ein Gesamtkunstwerk aus."
+                },
+                {
+                    "text": "Als der Ukrainekrieg ausbrach, empfand ich zum Beispiel eine tiefe Dankbarkeit daf\u00fcr, dass Conrad nicht eingezogen wird, dass er bei uns sein kann."
+                },
+                {
+                    "text": "Meine Kinder sind jetzt neun und fast sechs, damit aus dem Gr\u00f6bsten raus, ich kann auch einfach mal ein paar Tage mit Conrad verreisen."
+                }
+            ],
+            "occupations": [],
+            "directQuotes": [],
+            "quotedInTitle": false,
+            "quotedInIntro": false
+        }
+    ]
+}

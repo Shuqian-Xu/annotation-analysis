@@ -8,7 +8,8 @@ human_folder = "data/post_validation_human_annotations"
 llm_folders = {
     "llama_3.1-8b": "data/llama_3.1-8b_output",
     "phi-4": "data/phi-4_output",
-    "qwen_2.5-7b": "data/qwen_2.5-7b_output"
+    "qwen_2.5-7b": "data/qwen_2.5-7b_output",
+    "mistral-7b": "data/mistral-7b_output"
 }
 output_folder = "output"
 

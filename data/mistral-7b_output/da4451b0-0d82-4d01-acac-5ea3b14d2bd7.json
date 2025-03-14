@@ -1,0 +1,56 @@
+{
+    "persons": [
+        {
+            "name": "Stefan Moeller",
+            "alternativeNames": [],
+            "age": -1,
+            "sex": "male",
+            "occurences": {
+                "total": 4,
+                "firstNameOnly": 0,
+                "lastNameOnly": 3,
+                "fullName": 1,
+                "nickname": 0
+            },
+            "inTitle": false,
+            "inIntro": false,
+            "_name": {
+                "firstname": "Stefan",
+                "lastname": "Moeller",
+                "nickname": null,
+                "alternative_names": [],
+                "academic_title": null,
+                "nobility_title_or_rank": null
+            },
+            "descriptiveTexts": [
+                {
+                    "text": "\u00bbSp\u00e4testens mit der Einf\u00fchrung des gr\u00f6\u00dferen Akkus haben auch Kilometerfresser im Au\u00dfendienst kaum noch Argumente gegen das E-Auto\u00ab, lobt Stefan Moeller den ID.7. Der Gesch\u00e4ftsf\u00fchrer des Elektroautovermieters nextmove hat die E-Limousine ebenfalls f\u00fcr einige Tage getestet."
+                },
+                {
+                    "text": "Sein Fazit: Der Stromer sei bei vergleichbarer Ausstattung zwar \u00e4hnlich teuer wie der Passat, biete mit seinen 210 kW und rund 550 Newtonmetern Drehmoment aber oft deutlich mehr Leistung und \u00bbwohl auch das bessere Fahrerlebnis\u00ab, so Moeller."
+                },
+                {
+                    "text": "Nextmove-Chef Moeller verweist auf eine neue Motorengeneration, die VW mit dem ID.7 eingef\u00fchrt hat."
+                },
+                {
+                    "text": "\u00bbDer neue Motor bietet mehr Leistung bei zugleich weniger Verbrauch\u00ab, sagt er."
+                },
+                {
+                    "text": "Zudem, so Moeller, erm\u00f6gliche die neue Softwaregeneration 4 deutlich schnelleres Laden des Akkus gerade im Winter."
+                }
+            ],
+            "occupations": [
+                {
+                    "text": "Gesch\u00e4ftsf\u00fchrer des Elektroautovermieters nextmove"
+                }
+            ],
+            "directQuotes": [
+                {
+                    "text": "Vertreter-TDI"
+                }
+            ],
+            "quotedInTitle": false,
+            "quotedInIntro": false
+        }
+    ]
+}

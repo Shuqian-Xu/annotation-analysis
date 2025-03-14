@@ -1,0 +1,464 @@
+{
+    "persons": [
+        {
+            "name": "Oliver Blume",
+            "alternativeNames": [],
+            "age": -1,
+            "sex": "male",
+            "occurences": {
+                "total": 1,
+                "firstNameOnly": 0,
+                "lastNameOnly": 0,
+                "fullName": 1,
+                "nickname": 0
+            },
+            "inTitle": false,
+            "inIntro": false,
+            "_name": {
+                "firstname": "Oliver",
+                "lastname": "Blume",
+                "nickname": null,
+                "alternative_names": [],
+                "academic_title": null,
+                "nobility_title_or_rank": null
+            },
+            "descriptiveTexts": [
+                {
+                    "text": "Und CEO Oliver Blume hat noch mehr vor, auf unserer B\u00fchne hat er sogar einen elektrischen Porsche 911 in Aussicht gestellt."
+                }
+            ],
+            "occupations": [],
+            "directQuotes": [],
+            "quotedInTitle": false,
+            "quotedInIntro": false
+        },
+        {
+            "name": "Margret Hucko",
+            "alternativeNames": [],
+            "age": -1,
+            "sex": "female",
+            "occurences": {
+                "total": 1,
+                "firstNameOnly": 0,
+                "lastNameOnly": 0,
+                "fullName": 1,
+                "nickname": 0
+            },
+            "inTitle": false,
+            "inIntro": false,
+            "_name": {
+                "firstname": "Margret",
+                "lastname": "Hucko",
+                "nickname": null,
+                "alternative_names": [],
+                "academic_title": null,
+                "nobility_title_or_rank": null
+            },
+            "descriptiveTexts": [
+                {
+                    "text": "Das jedenfalls hat Chrzanowski h\u00f6chstpers\u00f6nlich meinen Kollegen Margret Hucko und Martin Mehringer erz\u00e4hlt."
+                }
+            ],
+            "occupations": [],
+            "directQuotes": [],
+            "quotedInTitle": false,
+            "quotedInIntro": false
+        },
+        {
+            "name": "Gerd Chrzanowski",
+            "alternativeNames": [],
+            "age": -1,
+            "sex": "male",
+            "occurences": {
+                "total": 3,
+                "firstNameOnly": 0,
+                "lastNameOnly": 2,
+                "fullName": 1,
+                "nickname": 0
+            },
+            "inTitle": false,
+            "inIntro": false,
+            "_name": {
+                "firstname": "Gerd",
+                "lastname": "Chrzanowski",
+                "nickname": null,
+                "alternative_names": [],
+                "academic_title": null,
+                "nobility_title_or_rank": null
+            },
+            "descriptiveTexts": [
+                {
+                    "text": "Und sein Statthalter Gerd Chrzanowski, als Chef der Schwarz Gruppe Gebieter \u00fcber 133 Milliarden Euro Umsatz und 550.000 Besch\u00e4ftigte."
+                },
+                {
+                    "text": "Das tut Chrzanowski heute mehr denn je."
+                },
+                {
+                    "text": "Er bastelt an einer v\u00f6llig neuen Aufstellung des Unternehmens \u2013 als digitaler Superhero in einem Konglomerat n\u00e4mlich, das Hackerangriffe abwehrt, Daten speichert, an k\u00fcnstlicher Intelligenz forscht, Containerschiffe um die Welt schickt, M\u00fcll entsorgt und nebenbei tonnenweise Lebensmittel produziert und verkauft."
+                },
+                {
+                    "text": "Das jedenfalls hat Chrzanowski h\u00f6chstpers\u00f6nlich meinen Kollegen Margret Hucko und Martin Mehringer erz\u00e4hlt."
+                },
+                {
+                    "text": "(Sie assoziieren den dortigen Geheimdienst?"
+                }
+            ],
+            "occupations": [],
+            "directQuotes": [],
+            "quotedInTitle": false,
+            "quotedInIntro": false
+        },
+        {
+            "name": "G\u00fcnther Jauch",
+            "alternativeNames": [],
+            "age": -1,
+            "sex": "male",
+            "occurences": {
+                "total": 1,
+                "firstNameOnly": 0,
+                "lastNameOnly": 0,
+                "fullName": 1,
+                "nickname": 0
+            },
+            "inTitle": false,
+            "inIntro": false,
+            "_name": {
+                "firstname": "G\u00fcnther",
+                "lastname": "Jauch",
+                "nickname": null,
+                "alternative_names": [],
+                "academic_title": null,
+                "nobility_title_or_rank": null
+            },
+            "descriptiveTexts": [
+                {
+                    "text": "Liebe Leserin, lieber Leser,\n\nbeim Namen Lidl denken die meisten Deutschen an den Discounter mit dem pr\u00e4gnanten gelb-blauen Logo, an Billigware und vielleicht noch an den Fernsehmoderator G\u00fcnther Jauch, der gerade f\u00fcr eine angeblich besonders umweltvertr\u00e4gliche Lidl-Plastikflasche wirbt."
+                }
+            ],
+            "occupations": [],
+            "directQuotes": [],
+            "quotedInTitle": false,
+            "quotedInIntro": false
+        },
+        {
+            "name": "Sebastian Ebel",
+            "alternativeNames": [],
+            "age": -1,
+            "sex": "male",
+            "occurences": {
+                "total": 1,
+                "firstNameOnly": 0,
+                "lastNameOnly": 0,
+                "fullName": 1,
+                "nickname": 0
+            },
+            "inTitle": false,
+            "inIntro": false,
+            "_name": {
+                "firstname": "Sebastian",
+                "lastname": "Ebel",
+                "nickname": null,
+                "alternative_names": [],
+                "academic_title": null,
+                "nobility_title_or_rank": null
+            },
+            "descriptiveTexts": [
+                {
+                    "text": "Die letzte Tranche von 750 Millionen Euro \u00fcberwies Tui aus den Einnahmen der j\u00fcngsten Kapitalerh\u00f6hung, wie CEO Sebastian Ebel heute mitteilte."
+                }
+            ],
+            "occupations": [
+                {
+                    "text": "Tui zahlt Staatshilfe zur\u00fcck"
+                }
+            ],
+            "directQuotes": [],
+            "quotedInTitle": false,
+            "quotedInIntro": false
+        },
+        {
+            "name": "Martin Mehringer",
+            "alternativeNames": [],
+            "age": -1,
+            "sex": "male",
+            "occurences": {
+                "total": 2,
+                "firstNameOnly": 0,
+                "lastNameOnly": 0,
+                "fullName": 2,
+                "nickname": 0
+            },
+            "inTitle": false,
+            "inIntro": false,
+            "_name": {
+                "firstname": "Martin",
+                "lastname": "Mehringer",
+                "nickname": null,
+                "alternative_names": [],
+                "academic_title": null,
+                "nobility_title_or_rank": null
+            },
+            "descriptiveTexts": [
+                {
+                    "text": "Das jedenfalls hat Chrzanowski h\u00f6chstpers\u00f6nlich meinen Kollegen Margret Hucko und Martin Mehringer erz\u00e4hlt."
+                },
+                {
+                    "text": "Martin Mehringer hat die Details."
+                }
+            ],
+            "occupations": [],
+            "directQuotes": [],
+            "quotedInTitle": false,
+            "quotedInIntro": false
+        },
+        {
+            "name": "Eva Buchhorn",
+            "alternativeNames": [],
+            "age": -1,
+            "sex": "female",
+            "occurences": {
+                "total": 1,
+                "firstNameOnly": 0,
+                "lastNameOnly": 0,
+                "fullName": 1,
+                "nickname": 0
+            },
+            "inTitle": false,
+            "inIntro": false,
+            "_name": {
+                "firstname": "Eva",
+                "lastname": "Buchhorn",
+                "nickname": null,
+                "alternative_names": [],
+                "academic_title": null,
+                "nobility_title_or_rank": null
+            },
+            "descriptiveTexts": [
+                {
+                    "text": "Herzliche Gr\u00fc\u00dfe und einen entspannten Abend, Ihre Eva Buchhorn"
+                }
+            ],
+            "occupations": [],
+            "directQuotes": [
+                {
+                    "text": "Economist"
+                }
+            ],
+            "quotedInTitle": false,
+            "quotedInIntro": false
+        },
+        {
+            "name": "Ralf Gierig",
+            "alternativeNames": [],
+            "age": -1,
+            "sex": "male",
+            "occurences": {
+                "total": 1,
+                "firstNameOnly": 0,
+                "lastNameOnly": 0,
+                "fullName": 1,
+                "nickname": 0
+            },
+            "inTitle": false,
+            "inIntro": false,
+            "_name": {
+                "firstname": "Ralf",
+                "lastname": "Gierig",
+                "nickname": null,
+                "alternative_names": [],
+                "academic_title": null,
+                "nobility_title_or_rank": null
+            },
+            "descriptiveTexts": [
+                {
+                    "text": "Der Alarm ist so gro\u00df, dass der erst Ende 2022 berufene Finanzchef Ralf Gierig mit sofortiger Wirkung ausscheidet."
+                }
+            ],
+            "occupations": [
+                {
+                    "text": "Finanzchef"
+                }
+            ],
+            "directQuotes": [],
+            "quotedInTitle": false,
+            "quotedInIntro": false
+        },
+        {
+            "name": "Enpal",
+            "alternativeNames": [],
+            "age": -1,
+            "sex": "unknown",
+            "occurences": {
+                "total": 2,
+                "firstNameOnly": 0,
+                "lastNameOnly": 0,
+                "fullName": 2,
+                "nickname": 0
+            },
+            "inTitle": false,
+            "inIntro": false,
+            "_name": {
+                "firstname": null,
+                "lastname": "Enpal",
+                "nickname": null,
+                "alternative_names": [],
+                "academic_title": null,
+                "nobility_title_or_rank": null
+            },
+            "descriptiveTexts": [
+                {
+                    "text": "In diesem Jahr erhielten das Solar-Start-up Enpal sowie die beiden Dax-Konzerne Siemens Healthineers und Porsche den Game Changer Award."
+                },
+                {
+                    "text": "Und Enpal hat ein Abomodell f\u00fcr Solaranlagen ersonnen \u2013 eine \"deutsche Rooftop-Revolution\", wie es in der Laudatio hie\u00df."
+                }
+            ],
+            "occupations": [],
+            "directQuotes": [],
+            "quotedInTitle": false,
+            "quotedInIntro": false
+        },
+        {
+            "name": "Patrick Maximilian Cloppenburg",
+            "alternativeNames": [],
+            "age": -1,
+            "sex": "male",
+            "occurences": {
+                "total": 2,
+                "firstNameOnly": 0,
+                "lastNameOnly": 1,
+                "fullName": 1,
+                "nickname": 0
+            },
+            "inTitle": false,
+            "inIntro": false,
+            "_name": {
+                "firstname": "Patrick Maximilian",
+                "lastname": "Cloppenburg",
+                "nickname": null,
+                "alternative_names": [],
+                "academic_title": null,
+                "nobility_title_or_rank": null
+            },
+            "descriptiveTexts": [
+                {
+                    "text": "Als der Modeh\u00e4ndler Peek & Cloppenburg im M\u00e4rz dieses Jahres in die Insolvenz rutschte, war das f\u00fcr die Branche ein Schock."
+                },
+                {
+                    "text": "Die Eigent\u00fcmerfamilie um Patrick Maximilian Cloppenburg k\u00f6nnte das Instrumentarium des Schutzschirmverfahrens wom\u00f6glich gezielt ausgenutzt haben, zulasten von Steuerzahlern und Gl\u00e4ubigern."
+                }
+            ],
+            "occupations": [],
+            "directQuotes": [],
+            "quotedInTitle": false,
+            "quotedInIntro": false
+        },
+        {
+            "name": "Dieter Schwarz",
+            "alternativeNames": [],
+            "age": -1,
+            "sex": "male",
+            "occurences": {
+                "total": 2,
+                "firstNameOnly": 0,
+                "lastNameOnly": 1,
+                "fullName": 1,
+                "nickname": 0
+            },
+            "inTitle": false,
+            "inIntro": false,
+            "_name": {
+                "firstname": "Dieter",
+                "lastname": "Schwarz",
+                "nickname": null,
+                "alternative_names": [],
+                "academic_title": null,
+                "nobility_title_or_rank": null
+            },
+            "descriptiveTexts": [
+                {
+                    "text": "Als da sind: Dieter Schwarz, derzeit wohl reichster Deutscher und verschwiegener Eigent\u00fcmer von Europas gr\u00f6\u00dftem Handelskonzern, zu dem neben Lidl auch Kaufland geh\u00f6rt."
+                },
+                {
+                    "text": "Und sein Statthalter Gerd Chrzanowski, als Chef der Schwarz Gruppe Gebieter \u00fcber 133 Milliarden Euro Umsatz und 550.000 Besch\u00e4ftigte."
+                }
+            ],
+            "occupations": [
+                {
+                    "text": "Eigent\u00fcmer von Europas gr\u00f6\u00dftem Handelskonzern"
+                }
+            ],
+            "directQuotes": [
+                {
+                    "text": "Der Masterplan des neuen Lidl-Herrschers"
+                }
+            ],
+            "quotedInTitle": false,
+            "quotedInIntro": false
+        },
+        {
+            "name": "Jochen Schweizer",
+            "alternativeNames": [],
+            "age": -1,
+            "sex": "male",
+            "occurences": {
+                "total": 1,
+                "firstNameOnly": 0,
+                "lastNameOnly": 0,
+                "fullName": 1,
+                "nickname": 0
+            },
+            "inTitle": false,
+            "inIntro": false,
+            "_name": {
+                "firstname": "Jochen",
+                "lastname": "Schweizer",
+                "nickname": null,
+                "alternative_names": [],
+                "academic_title": null,
+                "nobility_title_or_rank": null
+            },
+            "descriptiveTexts": [
+                {
+                    "text": "Und im Zusammenhang mit Bilanzierungsproblemen der Gutschein-Tochter Jochen Schweizer hat sich inzwischen auch die Staatsanwaltschaft eingeschaltet."
+                }
+            ],
+            "occupations": [],
+            "directQuotes": [],
+            "quotedInTitle": false,
+            "quotedInIntro": false
+        },
+        {
+            "name": "Henning Hinze",
+            "alternativeNames": [],
+            "age": -1,
+            "sex": "male",
+            "occurences": {
+                "total": 1,
+                "firstNameOnly": 0,
+                "lastNameOnly": 0,
+                "fullName": 1,
+                "nickname": 0
+            },
+            "inTitle": false,
+            "inIntro": false,
+            "_name": {
+                "firstname": "Henning",
+                "lastname": "Hinze",
+                "nickname": null,
+                "alternative_names": [],
+                "academic_title": null,
+                "nobility_title_or_rank": null
+            },
+            "descriptiveTexts": [
+                {
+                    "text": "Was hatte der neue Gro\u00dfinvestor meinem Kollegen Henning Hinze gerade erst gesagt?"
+                }
+            ],
+            "occupations": [],
+            "directQuotes": [],
+            "quotedInTitle": false,
+            "quotedInIntro": false
+        }
+    ]
+}

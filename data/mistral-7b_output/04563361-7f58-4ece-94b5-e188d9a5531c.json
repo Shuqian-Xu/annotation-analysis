@@ -1,0 +1,891 @@
+{
+    "persons": [
+        {
+            "name": "Anna Manz",
+            "alternativeNames": [],
+            "age": -1,
+            "sex": "female",
+            "occurences": {
+                "total": 1,
+                "firstNameOnly": 0,
+                "lastNameOnly": 0,
+                "fullName": 1,
+                "nickname": 0
+            },
+            "inTitle": false,
+            "inIntro": false,
+            "_name": {
+                "firstname": "Anna",
+                "lastname": "Manz",
+                "nickname": null,
+                "alternative_names": [],
+                "academic_title": null,
+                "nobility_title_or_rank": null
+            },
+            "descriptiveTexts": [
+                {
+                    "text": "Bei Nestl\u00e9 l\u00f6st Anna Manz, bislang Finanzchefin bei der Londoner B\u00f6rse, ihren Kollegen Fran\u00e7ois Roger ab."
+                }
+            ],
+            "occupations": [],
+            "directQuotes": [],
+            "quotedInTitle": false,
+            "quotedInIntro": false
+        },
+        {
+            "name": "Damian Borth",
+            "alternativeNames": [],
+            "age": -1,
+            "sex": "male",
+            "occurences": {
+                "total": 2,
+                "firstNameOnly": 0,
+                "lastNameOnly": 1,
+                "fullName": 1,
+                "nickname": 0
+            },
+            "inTitle": false,
+            "inIntro": false,
+            "_name": {
+                "firstname": "Damian",
+                "lastname": "Borth",
+                "nickname": null,
+                "alternative_names": [],
+                "academic_title": null,
+                "nobility_title_or_rank": null
+            },
+            "descriptiveTexts": [
+                {
+                    "text": "\"F\u00fcr Juristen, Berater oder Wirtschaftspr\u00fcfer wird es k\u00fcnftig schwieriger, einen ersten Job zu finden\", sagt KI-Experte Damian Borth."
+                },
+                {
+                    "text": "Im Podcast unserer Kolleginnen vom Harvard Business Manager erkl\u00e4rt Borth, was Generative KI f\u00fcr die Karriereplanung in heutigen Prestigejobs bedeutet."
+                }
+            ],
+            "occupations": [
+                {
+                    "text": "KI-Experte"
+                }
+            ],
+            "directQuotes": [],
+            "quotedInTitle": false,
+            "quotedInIntro": false
+        },
+        {
+            "name": "Hoene\u00df",
+            "alternativeNames": [],
+            "age": -1,
+            "sex": "unknown",
+            "occurences": {
+                "total": 2,
+                "firstNameOnly": 0,
+                "lastNameOnly": 0,
+                "fullName": 2,
+                "nickname": 0
+            },
+            "inTitle": false,
+            "inIntro": false,
+            "_name": {
+                "firstname": null,
+                "lastname": "Hoene\u00df",
+                "nickname": null,
+                "alternative_names": [],
+                "academic_title": null,
+                "nobility_title_or_rank": null
+            },
+            "descriptiveTexts": [
+                {
+                    "text": "Und selbst ist er absolut unumstritten: Cook gilt als erfolgreichster Manager unserer Zeit, gr\u00f6\u00dfer sogar als Hoene\u00df-Rummenigge-Hainer."
+                },
+                {
+                    "text": "Das ist fast so wie zwischen Hoene\u00df und Rummenigge."
+                }
+            ],
+            "occupations": [],
+            "directQuotes": [],
+            "quotedInTitle": false,
+            "quotedInIntro": false
+        },
+        {
+            "name": "Maximilian",
+            "alternativeNames": [],
+            "age": -1,
+            "sex": "male",
+            "occurences": {
+                "total": 1,
+                "firstNameOnly": 0,
+                "lastNameOnly": 0,
+                "fullName": 1,
+                "nickname": 0
+            },
+            "inTitle": false,
+            "inIntro": false,
+            "_name": {
+                "firstname": "Maximilian",
+                "lastname": null,
+                "nickname": null,
+                "alternative_names": [],
+                "academic_title": null,
+                "nobility_title_or_rank": null
+            },
+            "descriptiveTexts": [
+                {
+                    "text": "Im Gespr\u00e4ch mit meinem Kollegen Martin No\u00e9 verteidigen Martin Viessmann und Sohn Maximilian den Verkauf \u2013 und erkl\u00e4ren, wie sie mit dem Milliardenerl\u00f6s eine Industriegruppe rund um das Megathema Klima aufbauen wollen."
+                }
+            ],
+            "occupations": [],
+            "directQuotes": [],
+            "quotedInTitle": false,
+            "quotedInIntro": false
+        },
+        {
+            "name": "Tim Cook",
+            "alternativeNames": [],
+            "age": -1,
+            "sex": "male",
+            "occurences": {
+                "total": 1,
+                "firstNameOnly": 0,
+                "lastNameOnly": 0,
+                "fullName": 1,
+                "nickname": 0
+            },
+            "inTitle": false,
+            "inIntro": false,
+            "_name": {
+                "firstname": "Tim",
+                "lastname": "Cook",
+                "nickname": null,
+                "alternative_names": [],
+                "academic_title": null,
+                "nobility_title_or_rank": null
+            },
+            "descriptiveTexts": [
+                {
+                    "text": "Beide machen sich angesichts aktueller Schw\u00e4chen Sorgen, wie sie ihre Dominanz in Zukunft sichern k\u00f6nnen."
+                },
+                {
+                    "text": "Doch im Gegensatz zur geschassten Bayern-Spitze hat Apple-Chef Tim Cook (62) bereits einen konkreten Plan, um dauerhaft an der Spitze zu bleiben."
+                },
+                {
+                    "text": "Und selbst ist er absolut unumstritten: Cook gilt als erfolgreichster Manager unserer Zeit, gr\u00f6\u00dfer sogar als Hoene\u00df-Rummenigge-Hainer."
+                },
+                {
+                    "text": "Er hat Apple zum wertvollsten Konzern der Welt gemacht, akut aber hat er zwei Probleme: Apple ist extrem abh\u00e4ngig von China."
+                },
+                {
+                    "text": "Den Abwehrkampf hat er bereits begonnen."
+                }
+            ],
+            "occupations": [],
+            "directQuotes": [],
+            "quotedInTitle": false,
+            "quotedInIntro": false
+        },
+        {
+            "name": "Oli Kahn",
+            "alternativeNames": [],
+            "age": -1,
+            "sex": "male",
+            "occurences": {
+                "total": 1,
+                "firstNameOnly": 0,
+                "lastNameOnly": 0,
+                "fullName": 1,
+                "nickname": 0
+            },
+            "inTitle": false,
+            "inIntro": false,
+            "_name": {
+                "firstname": "Oli",
+                "lastname": "Kahn",
+                "nickname": null,
+                "alternative_names": [],
+                "academic_title": null,
+                "nobility_title_or_rank": null
+            },
+            "descriptiveTexts": [
+                {
+                    "text": "Sollte Cooks Kalk\u00fcl aufgehen, w\u00e4re Apple auch in den kommenden Jahren unbesiegbar \u2013 ganz so, wie es sich Oli Kahn f\u00fcr den FCB gew\u00fcnscht hat."
+                }
+            ],
+            "occupations": [],
+            "directQuotes": [],
+            "quotedInTitle": false,
+            "quotedInIntro": false
+        },
+        {
+            "name": "Fran\u00e7ois Roger",
+            "alternativeNames": [],
+            "age": -1,
+            "sex": "male",
+            "occurences": {
+                "total": 1,
+                "firstNameOnly": 0,
+                "lastNameOnly": 0,
+                "fullName": 1,
+                "nickname": 0
+            },
+            "inTitle": false,
+            "inIntro": false,
+            "_name": {
+                "firstname": "Fran\u00e7ois",
+                "lastname": "Roger",
+                "nickname": null,
+                "alternative_names": [],
+                "academic_title": null,
+                "nobility_title_or_rank": null
+            },
+            "descriptiveTexts": [
+                {
+                    "text": "Bei Nestl\u00e9 l\u00f6st Anna Manz, bislang Finanzchefin bei der Londoner B\u00f6rse, ihren Kollegen Fran\u00e7ois Roger ab."
+                }
+            ],
+            "occupations": [],
+            "directQuotes": [],
+            "quotedInTitle": false,
+            "quotedInIntro": false
+        },
+        {
+            "name": "Carsten Knobel",
+            "alternativeNames": [],
+            "age": -1,
+            "sex": "male",
+            "occurences": {
+                "total": 2,
+                "firstNameOnly": 0,
+                "lastNameOnly": 1,
+                "fullName": 1,
+                "nickname": 0
+            },
+            "inTitle": false,
+            "inIntro": false,
+            "_name": {
+                "firstname": "Carsten",
+                "lastname": "Knobel",
+                "nickname": null,
+                "alternative_names": [],
+                "academic_title": null,
+                "nobility_title_or_rank": null
+            },
+            "descriptiveTexts": [
+                {
+                    "text": "Henkels US-Problem: Henkel-Vorstand Wolfgang K\u00f6nig ist f\u00fcr Konzernchef Carsten Knobel ein Schl\u00fcsselspieler: K\u00f6nig soll die Kosmetiksparte (Schwarzkopf, Dial) mit dem Waschmittelgesch\u00e4ft (Persil, Pril) zusammenf\u00fchren und daf\u00fcr sorgen, dass die D\u00fcsseldorfer an der B\u00f6rse wieder Offensivkraft entfalten."
+                },
+                {
+                    "text": "Wie K\u00f6nig mit seiner Doppelrolle umgeht und was das f\u00fcr Teamchef Knobel bedeutet, lesen Sie hier."
+                }
+            ],
+            "occupations": [],
+            "directQuotes": [],
+            "quotedInTitle": false,
+            "quotedInIntro": false
+        },
+        {
+            "name": "Max Viessmann",
+            "alternativeNames": [],
+            "age": -1,
+            "sex": "male",
+            "occurences": {
+                "total": 8,
+                "firstNameOnly": 0,
+                "lastNameOnly": 6,
+                "fullName": 2,
+                "nickname": 0
+            },
+            "inTitle": false,
+            "inIntro": true,
+            "_name": {
+                "firstname": "Max",
+                "lastname": "Viessmann",
+                "nickname": null,
+                "alternative_names": [],
+                "academic_title": null,
+                "nobility_title_or_rank": null
+            },
+            "descriptiveTexts": [
+                {
+                    "text": "Heute: Was Apple und der FC Bayern gemeinsam haben, wie Henkel sich neu aufstellt und wie Martin und Max Viessmann noch einmal angreifen wollen."
+                },
+                {
+                    "text": "Im Gespr\u00e4ch mit meinem Kollegen Martin No\u00e9 verteidigen Martin Viessmann und Sohn Maximilian den Verkauf \u2013 und erkl\u00e4ren, wie sie mit dem Milliardenerl\u00f6s eine Industriegruppe rund um das Megathema Klima aufbauen wollen."
+                },
+                {
+                    "text": "\"Uns ging es nicht ums Geld\", sagt Max Viessmann."
+                },
+                {
+                    "text": "Gelingt das Vorhaben, w\u00fcrde der Familienfirma ein seltener Coup gelingen: Sie w\u00e4ren verdienterweise Deutscher Meister."
+                }
+            ],
+            "occupations": [],
+            "directQuotes": [],
+            "quotedInTitle": false,
+            "quotedInIntro": true
+        },
+        {
+            "name": "Wolfgang K\u00f6nig",
+            "alternativeNames": [],
+            "age": -1,
+            "sex": "male",
+            "occurences": {
+                "total": 4,
+                "firstNameOnly": 0,
+                "lastNameOnly": 3,
+                "fullName": 1,
+                "nickname": 0
+            },
+            "inTitle": false,
+            "inIntro": false,
+            "_name": {
+                "firstname": "Wolfgang",
+                "lastname": "K\u00f6nig",
+                "nickname": null,
+                "alternative_names": [],
+                "academic_title": null,
+                "nobility_title_or_rank": null
+            },
+            "descriptiveTexts": [
+                {
+                    "text": "Henkels US-Problem: Henkel-Vorstand Wolfgang K\u00f6nig ist f\u00fcr Konzernchef Carsten Knobel ein Schl\u00fcsselspieler: K\u00f6nig soll die Kosmetiksparte (Schwarzkopf, Dial) mit dem Waschmittelgesch\u00e4ft (Persil, Pril) zusammenf\u00fchren und daf\u00fcr sorgen, dass die D\u00fcsseldorfer an der B\u00f6rse wieder Offensivkraft entfalten."
+                },
+                {
+                    "text": "Allein: Seit dem Abgang von Alan Wolpert muss sich K\u00f6nig zus\u00e4tzlich um das kriselnde Nordamerika-Gesch\u00e4ft k\u00fcmmern."
+                },
+                {
+                    "text": "Wie K\u00f6nig mit seiner Doppelrolle umgeht und was das f\u00fcr Teamchef Knobel bedeutet, lesen Sie hier."
+                }
+            ],
+            "occupations": [],
+            "directQuotes": [],
+            "quotedInTitle": false,
+            "quotedInIntro": false
+        },
+        {
+            "name": "Kai Lange",
+            "alternativeNames": [],
+            "age": -1,
+            "sex": "male",
+            "occurences": {
+                "total": 1,
+                "firstNameOnly": 0,
+                "lastNameOnly": 0,
+                "fullName": 1,
+                "nickname": 0
+            },
+            "inTitle": false,
+            "inIntro": false,
+            "_name": {
+                "firstname": "Kai",
+                "lastname": "Lange",
+                "nickname": null,
+                "alternative_names": [],
+                "academic_title": null,
+                "nobility_title_or_rank": null
+            },
+            "descriptiveTexts": [
+                {
+                    "text": "Wie K\u00f6nig mit seiner Doppelrolle umgeht und was das f\u00fcr Teamchef Knobel bedeutet, lesen Sie hier."
+                },
+                {
+                    "text": "H\u00f6ren Sie doch mal rein!"
+                },
+                {
+                    "text": "Herzlich, Ihr Kai Lange"
+                }
+            ],
+            "occupations": [],
+            "directQuotes": [],
+            "quotedInTitle": false,
+            "quotedInIntro": false
+        },
+        {
+            "name": "Cook oder Cooks",
+            "alternativeNames": [],
+            "age": -1,
+            "sex": "unknown",
+            "occurences": {
+                "total": 6,
+                "firstNameOnly": 0,
+                "lastNameOnly": 0,
+                "fullName": 6,
+                "nickname": 0
+            },
+            "inTitle": false,
+            "inIntro": false,
+            "_name": {
+                "firstname": null,
+                "lastname": "Cook",
+                "nickname": null,
+                "alternative_names": [],
+                "academic_title": null,
+                "nobility_title_or_rank": null
+            },
+            "descriptiveTexts": [],
+            "occupations": [],
+            "directQuotes": [],
+            "quotedInTitle": false,
+            "quotedInIntro": false
+        },
+        {
+            "name": "Heinz Rummenigge",
+            "alternativeNames": [],
+            "age": -1,
+            "sex": "male",
+            "occurences": {
+                "total": 3,
+                "firstNameOnly": 0,
+                "lastNameOnly": 2,
+                "fullName": 1,
+                "nickname": 0
+            },
+            "inTitle": false,
+            "inIntro": false,
+            "_name": {
+                "firstname": "Heinz",
+                "lastname": "Rummenigge",
+                "nickname": null,
+                "alternative_names": [],
+                "academic_title": null,
+                "nobility_title_or_rank": null
+            },
+            "descriptiveTexts": [
+                {
+                    "text": "Und selbst ist er absolut unumstritten: Cook gilt als erfolgreichster Manager unserer Zeit, gr\u00f6\u00dfer sogar als Hoene\u00df-Rummenigge-Hainer."
+                },
+                {
+                    "text": "Karl-Heinz Rummenigge by the way, auf der Insel bekannt f\u00fcr seine \"sexy knees\", steht nicht zur Verf\u00fcgung."
+                },
+                {
+                    "text": "Das ist fast so wie zwischen Hoene\u00df und Rummenigge."
+                }
+            ],
+            "occupations": [],
+            "directQuotes": [],
+            "quotedInTitle": false,
+            "quotedInIntro": false
+        },
+        {
+            "name": "Henkel",
+            "alternativeNames": [],
+            "age": -1,
+            "sex": "unknown",
+            "occurences": {
+                "total": 3,
+                "firstNameOnly": 0,
+                "lastNameOnly": 0,
+                "fullName": 3,
+                "nickname": 0
+            },
+            "inTitle": false,
+            "inIntro": true,
+            "_name": {
+                "firstname": null,
+                "lastname": "Henkel",
+                "nickname": null,
+                "alternative_names": [],
+                "academic_title": null,
+                "nobility_title_or_rank": null
+            },
+            "descriptiveTexts": [
+                {
+                    "text": "Heute: Was Apple und der FC Bayern gemeinsam haben, wie Henkel sich neu aufstellt und wie Martin und Max Viessmann noch einmal angreifen wollen."
+                },
+                {
+                    "text": "Henkels US-Problem: Henkel-Vorstand Wolfgang K\u00f6nig ist f\u00fcr Konzernchef Carsten Knobel ein Schl\u00fcsselspieler: K\u00f6nig soll die Kosmetiksparte (Schwarzkopf, Dial) mit dem Waschmittelgesch\u00e4ft (Persil, Pril) zusammenf\u00fchren und daf\u00fcr sorgen, dass die D\u00fcsseldorfer an der B\u00f6rse wieder Offensivkraft entfalten."
+                }
+            ],
+            "occupations": [],
+            "directQuotes": [],
+            "quotedInTitle": false,
+            "quotedInIntro": true
+        },
+        {
+            "name": "Graeme Pitkethly",
+            "alternativeNames": [],
+            "age": -1,
+            "sex": "male",
+            "occurences": {
+                "total": 1,
+                "firstNameOnly": 0,
+                "lastNameOnly": 0,
+                "fullName": 1,
+                "nickname": 0
+            },
+            "inTitle": false,
+            "inIntro": false,
+            "_name": {
+                "firstname": "Graeme",
+                "lastname": "Pitkethly",
+                "nickname": null,
+                "alternative_names": [],
+                "academic_title": null,
+                "nobility_title_or_rank": null
+            },
+            "descriptiveTexts": [
+                {
+                    "text": "Bei Unilever wird Finanzvorstand Graeme Pitkethly ausgewechselt, die Neuverpflichtung steht noch nicht fest."
+                }
+            ],
+            "occupations": [],
+            "directQuotes": [],
+            "quotedInTitle": false,
+            "quotedInIntro": false
+        },
+        {
+            "name": "Hainer",
+            "alternativeNames": [],
+            "age": -1,
+            "sex": "unknown",
+            "occurences": {
+                "total": 1,
+                "firstNameOnly": 0,
+                "lastNameOnly": 0,
+                "fullName": 1,
+                "nickname": 0
+            },
+            "inTitle": false,
+            "inIntro": false,
+            "_name": {
+                "firstname": null,
+                "lastname": "Hainer",
+                "nickname": null,
+                "alternative_names": [],
+                "academic_title": null,
+                "nobility_title_or_rank": null
+            },
+            "descriptiveTexts": [
+                {
+                    "text": "Und selbst ist er absolut unumstritten: Cook gilt als erfolgreichster Manager unserer Zeit, gr\u00f6\u00dfer sogar als Hoene\u00df-Rummenigge-Hainer."
+                }
+            ],
+            "occupations": [],
+            "directQuotes": [],
+            "quotedInTitle": false,
+            "quotedInIntro": false
+        },
+        {
+            "name": "Elon Musk",
+            "alternativeNames": [],
+            "age": -1,
+            "sex": "male",
+            "occurences": {
+                "total": 3,
+                "firstNameOnly": 0,
+                "lastNameOnly": 2,
+                "fullName": 1,
+                "nickname": 0
+            },
+            "inTitle": false,
+            "inIntro": false,
+            "_name": {
+                "firstname": "Elon",
+                "lastname": "Musk",
+                "nickname": null,
+                "alternative_names": [],
+                "academic_title": null,
+                "nobility_title_or_rank": null
+            },
+            "descriptiveTexts": [
+                {
+                    "text": "Twitters Samthammer-Chefin: Vor Kurzem hat Elon Musk seine Nachfolgerin als CEO von Twitter benannt."
+                },
+                {
+                    "text": "Schwieriger d\u00fcrfte ihre Sandwichposition sein, eingeklemmt zwischen dem Twitter-Eigent\u00fcmer Musk und dem k\u00fcnftigen Technik-Vorstand Musk."
+                }
+            ],
+            "occupations": [
+                {
+                    "text": "CEO von Twitter"
+                }
+            ],
+            "directQuotes": [],
+            "quotedInTitle": false,
+            "quotedInIntro": false
+        },
+        {
+            "name": "Jonas Rest",
+            "alternativeNames": [],
+            "age": -1,
+            "sex": "male",
+            "occurences": {
+                "total": 2,
+                "firstNameOnly": 0,
+                "lastNameOnly": 1,
+                "fullName": 1,
+                "nickname": 0
+            },
+            "inTitle": false,
+            "inIntro": false,
+            "_name": {
+                "firstname": "Jonas",
+                "lastname": "Rest",
+                "nickname": null,
+                "alternative_names": [],
+                "academic_title": null,
+                "nobility_title_or_rank": null
+            },
+            "descriptiveTexts": [
+                {
+                    "text": "Im Juni wird Apple eine neue Datenbrille vorstellen: \u00c4hnlich wie bei der Apple Watch rechnet Cook nicht mit dem schnellen Erfolg, wie mein Kollege Jonas Rest in seinem Inside-Report \u00fcber Apples Zukunftsstrategie berichtet."
+                },
+                {
+                    "text": "Bis dahin bleibt das iPhone die Gewinnmaschine der Apple-Welt \u2013 und ist Cooks gr\u00f6\u00dfte Hoffnung auch f\u00fcr eigene KI-Ambitionen, schreibt Kollege Rest in unserer mm-Titelstory."
+                }
+            ],
+            "occupations": [],
+            "directQuotes": [],
+            "quotedInTitle": false,
+            "quotedInIntro": false
+        },
+        {
+            "name": "Jamal Musiala",
+            "alternativeNames": [],
+            "age": -1,
+            "sex": "male",
+            "occurences": {
+                "total": 1,
+                "firstNameOnly": 0,
+                "lastNameOnly": 0,
+                "fullName": 1,
+                "nickname": 0
+            },
+            "inTitle": false,
+            "inIntro": false,
+            "_name": {
+                "firstname": "Jamal",
+                "lastname": "Musiala",
+                "nickname": null,
+                "alternative_names": [],
+                "academic_title": null,
+                "nobility_title_or_rank": null
+            },
+            "descriptiveTexts": [
+                {
+                    "text": "Das ist in etwa so, als m\u00fcsste Bayern-St\u00fcrmer Jamal Musiala auch noch in der Viererkette mitwirken."
+                }
+            ],
+            "occupations": [],
+            "directQuotes": [],
+            "quotedInTitle": false,
+            "quotedInIntro": false
+        },
+        {
+            "name": "Martin No\u00e9",
+            "alternativeNames": [],
+            "age": -1,
+            "sex": "male",
+            "occurences": {
+                "total": 4,
+                "firstNameOnly": 3,
+                "lastNameOnly": 0,
+                "fullName": 1,
+                "nickname": 0
+            },
+            "inTitle": false,
+            "inIntro": true,
+            "_name": {
+                "firstname": "Martin",
+                "lastname": "No\u00e9",
+                "nickname": null,
+                "alternative_names": [],
+                "academic_title": null,
+                "nobility_title_or_rank": null
+            },
+            "descriptiveTexts": [
+                {
+                    "text": "Heute: Was Apple und der FC Bayern gemeinsam haben, wie Henkel sich neu aufstellt und wie Martin und Max Viessmann noch einmal angreifen wollen."
+                },
+                {
+                    "text": "Im Gespr\u00e4ch mit meinem Kollegen Martin No\u00e9 verteidigen Martin Viessmann und Sohn Maximilian den Verkauf \u2013 und erkl\u00e4ren, wie sie mit dem Milliardenerl\u00f6s eine Industriegruppe rund um das Megathema Klima aufbauen wollen."
+                },
+                {
+                    "text": "\"Wir werden das Gros des Erl\u00f6ses in unternehmerische Aktivit\u00e4ten reinvestieren\", erg\u00e4nzt Vater Martin Viessmann."
+                },
+                {
+                    "text": "Gelingt das Vorhaben, w\u00fcrde der Familienfirma ein seltener Coup gelingen: Sie w\u00e4ren verdienterweise Deutscher Meister."
+                }
+            ],
+            "occupations": [],
+            "directQuotes": [],
+            "quotedInTitle": false,
+            "quotedInIntro": true
+        },
+        {
+            "name": "Alan Wolpert",
+            "alternativeNames": [],
+            "age": -1,
+            "sex": "male",
+            "occurences": {
+                "total": 1,
+                "firstNameOnly": 0,
+                "lastNameOnly": 0,
+                "fullName": 1,
+                "nickname": 0
+            },
+            "inTitle": false,
+            "inIntro": false,
+            "_name": {
+                "firstname": "Alan",
+                "lastname": "Wolpert",
+                "nickname": null,
+                "alternative_names": [],
+                "academic_title": null,
+                "nobility_title_or_rank": null
+            },
+            "descriptiveTexts": [
+                {
+                    "text": "Allein: Seit dem Abgang von Alan Wolpert muss sich K\u00f6nig zus\u00e4tzlich um das kriselnde Nordamerika-Gesch\u00e4ft k\u00fcmmern."
+                }
+            ],
+            "occupations": [],
+            "directQuotes": [],
+            "quotedInTitle": false,
+            "quotedInIntro": false
+        },
+        {
+            "name": "Martin Viessmann",
+            "alternativeNames": [],
+            "age": -1,
+            "sex": "male",
+            "occurences": {
+                "total": 4,
+                "firstNameOnly": 2,
+                "lastNameOnly": 0,
+                "fullName": 2,
+                "nickname": 0
+            },
+            "inTitle": false,
+            "inIntro": false,
+            "_name": {
+                "firstname": "Martin",
+                "lastname": "Viessmann",
+                "nickname": null,
+                "alternative_names": [],
+                "academic_title": null,
+                "nobility_title_or_rank": null
+            },
+            "descriptiveTexts": [
+                {
+                    "text": "Im Gespr\u00e4ch mit meinem Kollegen Martin No\u00e9 verteidigen Martin Viessmann und Sohn Maximilian den Verkauf \u2013 und erkl\u00e4ren, wie sie mit dem Milliardenerl\u00f6s eine Industriegruppe rund um das Megathema Klima aufbauen wollen."
+                },
+                {
+                    "text": "\"Wir werden das Gros des Erl\u00f6ses in unternehmerische Aktivit\u00e4ten reinvestieren\", erg\u00e4nzt Vater Martin Viessmann."
+                },
+                {
+                    "text": "Gelingt das Vorhaben, w\u00fcrde der Familienfirma ein seltener Coup gelingen: Sie w\u00e4ren verdienterweise Deutscher Meister."
+                }
+            ],
+            "occupations": [],
+            "directQuotes": [],
+            "quotedInTitle": false,
+            "quotedInIntro": false
+        },
+        {
+            "name": "Linda Yaccarino",
+            "alternativeNames": [],
+            "age": -1,
+            "sex": "female",
+            "occurences": {
+                "total": 1,
+                "firstNameOnly": 0,
+                "lastNameOnly": 0,
+                "fullName": 1,
+                "nickname": 0
+            },
+            "inTitle": false,
+            "inIntro": false,
+            "_name": {
+                "firstname": "Linda",
+                "lastname": "Yaccarino",
+                "nickname": null,
+                "alternative_names": [],
+                "academic_title": null,
+                "nobility_title_or_rank": null
+            },
+            "descriptiveTexts": [
+                {
+                    "text": "Linda Yaccarino, bislang Werbek\u00f6nigin beim Medienriesen NBC Universal, soll die Plattform profitabel und bei Werbekunden wieder beliebt machen."
+                }
+            ],
+            "occupations": [],
+            "directQuotes": [],
+            "quotedInTitle": false,
+            "quotedInIntro": false
+        },
+        {
+            "name": "Hanno Berger",
+            "alternativeNames": [],
+            "age": -1,
+            "sex": "male",
+            "occurences": {
+                "total": 3,
+                "firstNameOnly": 0,
+                "lastNameOnly": 1,
+                "fullName": 2,
+                "nickname": 0
+            },
+            "inTitle": false,
+            "inIntro": false,
+            "_name": {
+                "firstname": "Hanno",
+                "lastname": "Berger",
+                "nickname": null,
+                "alternative_names": [],
+                "academic_title": null,
+                "nobility_title_or_rank": null
+            },
+            "descriptiveTexts": [
+                {
+                    "text": "Hanno Berger verurteilt: Das Landgericht Wiesbaden hat den Rechtsanwalt Hanno Berger zu einer Freiheitsstrafe von acht Jahren und drei Monaten verurteilt."
+                },
+                {
+                    "text": "F\u00fcr Berger ist es schon das zweite Urteil, das eine Haftstrafe vorsieht."
+                }
+            ],
+            "occupations": [
+                {
+                    "text": "Rechtsanwalt"
+                }
+            ],
+            "directQuotes": [],
+            "quotedInTitle": false,
+            "quotedInIntro": false
+        },
+        {
+            "name": "Sander van der Laan",
+            "alternativeNames": [],
+            "age": -1,
+            "sex": "male",
+            "occurences": {
+                "total": 1,
+                "firstNameOnly": 0,
+                "lastNameOnly": 0,
+                "fullName": 1,
+                "nickname": 0
+            },
+            "inTitle": false,
+            "inIntro": false,
+            "_name": {
+                "firstname": "Sander",
+                "lastname": "van der Laan",
+                "nickname": null,
+                "alternative_names": [],
+                "academic_title": null,
+                "nobility_title_or_rank": null
+            },
+            "descriptiveTexts": [
+                {
+                    "text": "Douglas spart sich schlank f\u00fcr die B\u00f6rse: Der neue Douglas-Chef Sander van der Laan hat der Parf\u00fcmeriekette Douglas einen Sparkurs verordnet, um die Rendite rechtzeitig vor dem geplanten B\u00f6rsengang (\u00fcber den wir gerade erst berichtet haben) in die H\u00f6he zu treiben."
+                }
+            ],
+            "occupations": [],
+            "directQuotes": [
+                {
+                    "text": "Samthammer"
+                }
+            ],
+            "quotedInTitle": false,
+            "quotedInIntro": false
+        }
+    ]
+}

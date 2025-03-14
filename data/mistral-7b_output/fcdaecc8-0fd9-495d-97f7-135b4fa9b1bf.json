@@ -1,0 +1,160 @@
+{
+    "persons": [
+        {
+            "name": "Mark Zuckerberg",
+            "alternativeNames": [],
+            "age": 39,
+            "sex": "male",
+            "occurences": {
+                "total": 1,
+                "firstNameOnly": 0,
+                "lastNameOnly": 0,
+                "fullName": 1,
+                "nickname": 0
+            },
+            "inTitle": false,
+            "inIntro": false,
+            "_name": {
+                "firstname": "Mark",
+                "lastname": "Zuckerberg",
+                "nickname": null,
+                "alternative_names": [],
+                "academic_title": null,
+                "nobility_title_or_rank": null
+            },
+            "descriptiveTexts": [
+                {
+                    "text": "Mit neuartigen Datenbrillen wollen sie noch mehr Menschen an sich binden \u2013 und entsprechend ihre Gewinne hebeln."
+                },
+                {
+                    "text": "Meta-Chef Mark Zuckerberg (39) er\u00f6ffnet mit seinen Quest-Brillen virtuelle Parallelwelten, seit Anfang Juni ist nun auch klar, welche Strategie Tim Cook (62) verfolgt: Der Apple-Chef stellte sein Konzept der Datenbrille vor: Vision Pro."
+                }
+            ],
+            "occupations": [],
+            "directQuotes": [],
+            "quotedInTitle": false,
+            "quotedInIntro": false
+        },
+        {
+            "name": "Sven Clausen",
+            "alternativeNames": [],
+            "age": -1,
+            "sex": "male",
+            "occurences": {
+                "total": 2,
+                "firstNameOnly": 0,
+                "lastNameOnly": 0,
+                "fullName": 2,
+                "nickname": 0
+            },
+            "inTitle": false,
+            "inIntro": false,
+            "_name": {
+                "firstname": "Sven",
+                "lastname": "Clausen",
+                "nickname": null,
+                "alternative_names": [],
+                "academic_title": null,
+                "nobility_title_or_rank": null
+            },
+            "descriptiveTexts": [
+                {
+                    "text": "Wie sich die Konzepte der Erzrivalen unterscheiden, welche Schw\u00e4chen die Vision Pro hat und warum Apples Strategie dennoch h\u00f6here Erfolgschancen zu haben scheint als die des Erzrivalen Meta \u2013 dar\u00fcber informiert in diesem Podast Jonas Rest, Tech-Reporter des manager magazins, im Gespr\u00e4ch mit Chefredakteur Sven Clausen."
+                },
+                {
+                    "text": "Im Podcast \"Das Thema\" informiert Chefredakteur Sven Clausen jede Woche \u00fcber den internen Recherchestand zu einem relevanten aktuellen und zugleich zukunftstr\u00e4chtigen Thema der Wirtschaft."
+                },
+                {
+                    "text": "Sie k\u00f6nnen den Podcast \u00fcber manager magazin sowie auf Spotify, Apple, Deezer und bei Google abonnieren."
+                }
+            ],
+            "occupations": [
+                {
+                    "text": "Chefredakteur"
+                },
+                {
+                    "text": "Tech-Reporter"
+                }
+            ],
+            "directQuotes": [
+                {
+                    "text": "Das Thema"
+                }
+            ],
+            "quotedInTitle": false,
+            "quotedInIntro": false
+        },
+        {
+            "name": "Jonas Rest",
+            "alternativeNames": [],
+            "age": -1,
+            "sex": "male",
+            "occurences": {
+                "total": 1,
+                "firstNameOnly": 0,
+                "lastNameOnly": 0,
+                "fullName": 1,
+                "nickname": 0
+            },
+            "inTitle": false,
+            "inIntro": false,
+            "_name": {
+                "firstname": "Jonas",
+                "lastname": "Rest",
+                "nickname": null,
+                "alternative_names": [],
+                "academic_title": null,
+                "nobility_title_or_rank": null
+            },
+            "descriptiveTexts": [
+                {
+                    "text": "Wie sich die Konzepte der Erzrivalen unterscheiden, welche Schw\u00e4chen die Vision Pro hat und warum Apples Strategie dennoch h\u00f6here Erfolgschancen zu haben scheint als die des Erzrivalen Meta \u2013 dar\u00fcber informiert in diesem Podast Jonas Rest, Tech-Reporter des manager magazins, im Gespr\u00e4ch mit Chefredakteur Sven Clausen."
+                }
+            ],
+            "occupations": [
+                {
+                    "text": "Tech-Reporter des manager magazins"
+                }
+            ],
+            "directQuotes": [
+                {
+                    "text": "Das Thema"
+                }
+            ],
+            "quotedInTitle": false,
+            "quotedInIntro": false
+        },
+        {
+            "name": "Tim Cook",
+            "alternativeNames": [],
+            "age": 62,
+            "sex": "male",
+            "occurences": {
+                "total": 1,
+                "firstNameOnly": 0,
+                "lastNameOnly": 0,
+                "fullName": 1,
+                "nickname": 0
+            },
+            "inTitle": false,
+            "inIntro": false,
+            "_name": {
+                "firstname": "Tim",
+                "lastname": "Cook",
+                "nickname": null,
+                "alternative_names": [],
+                "academic_title": null,
+                "nobility_title_or_rank": null
+            },
+            "descriptiveTexts": [
+                {
+                    "text": "Meta-Chef Mark Zuckerberg (39) er\u00f6ffnet mit seinen Quest-Brillen virtuelle Parallelwelten, seit Anfang Juni ist nun auch klar, welche Strategie Tim Cook (62) verfolgt: Der Apple-Chef stellte sein Konzept der Datenbrille vor: Vision Pro."
+                }
+            ],
+            "occupations": [],
+            "directQuotes": [],
+            "quotedInTitle": false,
+            "quotedInIntro": false
+        }
+    ]
+}

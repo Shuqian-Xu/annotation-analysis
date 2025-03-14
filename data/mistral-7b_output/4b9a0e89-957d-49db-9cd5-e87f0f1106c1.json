@@ -1,0 +1,88 @@
+{
+    "persons": [
+        {
+            "name": "Sven Clausen",
+            "alternativeNames": [],
+            "age": -1,
+            "sex": "male",
+            "occurences": {
+                "total": 1,
+                "firstNameOnly": 0,
+                "lastNameOnly": 0,
+                "fullName": 1,
+                "nickname": 0
+            },
+            "inTitle": false,
+            "inIntro": false,
+            "_name": {
+                "firstname": "Sven",
+                "lastname": "Clausen",
+                "nickname": null,
+                "alternative_names": [],
+                "academic_title": null,
+                "nobility_title_or_rank": null
+            },
+            "descriptiveTexts": [
+                {
+                    "text": "Wie die deutsche Gr\u00fcnderszene bislang funktioniert, warum sie so frauenfeindlich ist und wo sich erste Zeichen des Aufbruchs zeigen - dar\u00fcber informiert Kyriasoglou im Gespr\u00e4ch mit Chefredakteur Sven Clausen."
+                }
+            ],
+            "occupations": [],
+            "directQuotes": [
+                {
+                    "text": "Das Thema"
+                }
+            ],
+            "quotedInTitle": false,
+            "quotedInIntro": false
+        },
+        {
+            "name": "Christina Kyriasoglou",
+            "alternativeNames": [],
+            "age": -1,
+            "sex": "female",
+            "occurences": {
+                "total": 4,
+                "firstNameOnly": 0,
+                "lastNameOnly": 2,
+                "fullName": 2,
+                "nickname": 0
+            },
+            "inTitle": false,
+            "inIntro": true,
+            "_name": {
+                "firstname": "Christina",
+                "lastname": "Kyriasoglou",
+                "nickname": null,
+                "alternative_names": [],
+                "academic_title": null,
+                "nobility_title_or_rank": null
+            },
+            "descriptiveTexts": [
+                {
+                    "text": "Unsere Kollegin Christina Kyriasoglou hat \u00fcber die Diskriminierung von Frauen in Deutschlands Digitalszene recherchiert \u2013 und mit vielen Insiderinnen gesprochen."
+                },
+                {
+                    "text": "Im Podcast berichtet sie von den Recherchen und den zentralen Erkenntnissen."
+                },
+                {
+                    "text": "Seit Jahren schon bekommt manager-magazin-Redakteurin Christina Kyriasoglou anonym Hinweise auf sexistisches Verhalten von Investoren und Gr\u00fcndern, bis hin zu k\u00f6rperlichen \u00dcbergriffen."
+                },
+                {
+                    "text": "Bislang konnte Kyriasoglou nicht dar\u00fcber berichten; die Gespr\u00e4chspartnerinnen hatten sie um strikte Vertraulichkeit gebeten \u2013 aus Angst vor weiteren Nachteilen."
+                },
+                {
+                    "text": "Wie die deutsche Gr\u00fcnderszene bislang funktioniert, warum sie so frauenfeindlich ist und wo sich erste Zeichen des Aufbruchs zeigen - dar\u00fcber informiert Kyriasoglou im Gespr\u00e4ch mit Chefredakteur Sven Clausen."
+                }
+            ],
+            "occupations": [],
+            "directQuotes": [
+                {
+                    "text": "Das Thema"
+                }
+            ],
+            "quotedInTitle": false,
+            "quotedInIntro": true
+        }
+    ]
+}

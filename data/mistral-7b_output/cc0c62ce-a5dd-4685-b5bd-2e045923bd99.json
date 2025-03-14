@@ -1,0 +1,444 @@
+{
+    "persons": [
+        {
+            "name": "Valentin Stalf",
+            "alternativeNames": [],
+            "age": -1,
+            "sex": "male",
+            "occurences": {
+                "total": 2,
+                "firstNameOnly": 0,
+                "lastNameOnly": 1,
+                "fullName": 1,
+                "nickname": 0
+            },
+            "inTitle": false,
+            "inIntro": false,
+            "_name": {
+                "firstname": "Valentin",
+                "lastname": "Stalf",
+                "nickname": null,
+                "alternative_names": [],
+                "academic_title": null,
+                "nobility_title_or_rank": null
+            },
+            "descriptiveTexts": [
+                {
+                    "text": "Sie kritisiert seit langem M\u00e4ngel im Risikomanagement der Berliner und hat vor eineinhalb Jahren ihre Macht ausgespielt: N26 erhielt drastische Auflagen."
+                },
+                {
+                    "text": "Seither d\u00fcrfen die Gr\u00fcnder und Co-Chefs Valentin Stalf und Maximilian Tayenthal pro Monat nur 50.000 Neukunden aufnehmen."
+                },
+                {
+                    "text": "Wie Stalf und Tayenthal sich aus der misslichen Lage befreien wollen, lesen Sie heute auf unserer Website."
+                }
+            ],
+            "occupations": [],
+            "directQuotes": [],
+            "quotedInTitle": false,
+            "quotedInIntro": false
+        },
+        {
+            "name": "Trump oder Trumps",
+            "alternativeNames": [],
+            "age": -1,
+            "sex": "male",
+            "occurences": {
+                "total": 3,
+                "firstNameOnly": 0,
+                "lastNameOnly": 0,
+                "fullName": 3,
+                "nickname": 0
+            },
+            "inTitle": false,
+            "inIntro": false,
+            "_name": {
+                "firstname": null,
+                "lastname": "Trump",
+                "nickname": null,
+                "alternative_names": [],
+                "academic_title": null,
+                "nobility_title_or_rank": null
+            },
+            "descriptiveTexts": [],
+            "occupations": [
+                {
+                    "text": "Medienmogul"
+                }
+            ],
+            "directQuotes": [],
+            "quotedInTitle": false,
+            "quotedInIntro": false
+        },
+        {
+            "name": "David Hoffmann",
+            "alternativeNames": [],
+            "age": -1,
+            "sex": "male",
+            "occurences": {
+                "total": 2,
+                "firstNameOnly": 0,
+                "lastNameOnly": 1,
+                "fullName": 1,
+                "nickname": 0
+            },
+            "inTitle": false,
+            "inIntro": false,
+            "_name": {
+                "firstname": "David",
+                "lastname": "Hoffmann",
+                "nickname": null,
+                "alternative_names": [],
+                "academic_title": null,
+                "nobility_title_or_rank": null
+            },
+            "descriptiveTexts": [
+                {
+                    "text": "Etwa die erst neun Jahre alte Firma Hoffmann Green Cement, gef\u00fchrt von dem Franzosen Julien Blanchard."
+                },
+                {
+                    "text": "Vom beschaulichen Rives de l`Yon an der franz\u00f6sischen Atlantikk\u00fcste zettelt er mit seinem Partner David Hoffmann eine wahre Revolution an: vollwertigen Zement ohne Verbrennungsprozesse."
+                }
+            ],
+            "occupations": [],
+            "directQuotes": [],
+            "quotedInTitle": false,
+            "quotedInIntro": false
+        },
+        {
+            "name": "Stefan Merx",
+            "alternativeNames": [],
+            "age": -1,
+            "sex": "male",
+            "occurences": {
+                "total": 1,
+                "firstNameOnly": 0,
+                "lastNameOnly": 0,
+                "fullName": 1,
+                "nickname": 0
+            },
+            "inTitle": false,
+            "inIntro": false,
+            "_name": {
+                "firstname": "Stefan",
+                "lastname": "Merx",
+                "nickname": null,
+                "alternative_names": [],
+                "academic_title": null,
+                "nobility_title_or_rank": null
+            },
+            "descriptiveTexts": [
+                {
+                    "text": "Anleger, die ihr Geld mit reinem Gewissen anlegen wollen, k\u00f6nnen hier investieren \u2013 und in etliche andere gr\u00fcne Bauunternehmen, die meine Kollegen Stefan Merx und Thomas Mersch hier vorstellen."
+                }
+            ],
+            "occupations": [],
+            "directQuotes": [],
+            "quotedInTitle": false,
+            "quotedInIntro": false
+        },
+        {
+            "name": "Katharina Slodczyk",
+            "alternativeNames": [],
+            "age": -1,
+            "sex": "female",
+            "occurences": {
+                "total": 1,
+                "firstNameOnly": 0,
+                "lastNameOnly": 0,
+                "fullName": 1,
+                "nickname": 0
+            },
+            "inTitle": false,
+            "inIntro": false,
+            "_name": {
+                "firstname": "Katharina",
+                "lastname": "Slodczyk",
+                "nickname": null,
+                "alternative_names": [],
+                "academic_title": null,
+                "nobility_title_or_rank": null
+            },
+            "descriptiveTexts": [
+                {
+                    "text": "Wie meine Kollegen Katharina Slodczyk und Dietmar Palan exklusiv in Erfahrung brachten, versuchen die wichtigsten Finanziers mittlerweile ihr Kapital zu retten."
+                },
+                {
+                    "text": "Gr\u00fcner bauen: Die Baubranche steht unter Druck \u2013 sie muss klimafreundlicher produzieren, und zwar schnell."
+                }
+            ],
+            "occupations": [],
+            "directQuotes": [],
+            "quotedInTitle": false,
+            "quotedInIntro": false
+        },
+        {
+            "name": "Eva Buchhorn",
+            "alternativeNames": [],
+            "age": -1,
+            "sex": "female",
+            "occurences": {
+                "total": 1,
+                "firstNameOnly": 0,
+                "lastNameOnly": 0,
+                "fullName": 1,
+                "nickname": 0
+            },
+            "inTitle": false,
+            "inIntro": false,
+            "_name": {
+                "firstname": "Eva",
+                "lastname": "Buchhorn",
+                "nickname": null,
+                "alternative_names": [],
+                "academic_title": null,
+                "nobility_title_or_rank": null
+            },
+            "descriptiveTexts": [
+                {
+                    "text": "Herzliche Gr\u00fc\u00dfe und einen entspannten Abend, Ihre Eva Buchhorn"
+                }
+            ],
+            "occupations": [],
+            "directQuotes": [],
+            "quotedInTitle": false,
+            "quotedInIntro": false
+        },
+        {
+            "name": "Maximilian Tayenthal",
+            "alternativeNames": [],
+            "age": -1,
+            "sex": "male",
+            "occurences": {
+                "total": 2,
+                "firstNameOnly": 0,
+                "lastNameOnly": 1,
+                "fullName": 1,
+                "nickname": 0
+            },
+            "inTitle": false,
+            "inIntro": false,
+            "_name": {
+                "firstname": "Maximilian",
+                "lastname": "Tayenthal",
+                "nickname": null,
+                "alternative_names": [],
+                "academic_title": null,
+                "nobility_title_or_rank": null
+            },
+            "descriptiveTexts": [
+                {
+                    "text": "Sie kritisiert seit langem M\u00e4ngel im Risikomanagement der Berliner und hat vor eineinhalb Jahren ihre Macht ausgespielt: N26 erhielt drastische Auflagen."
+                },
+                {
+                    "text": "Seither d\u00fcrfen die Gr\u00fcnder und Co-Chefs Valentin Stalf und Maximilian Tayenthal pro Monat nur 50.000 Neukunden aufnehmen."
+                },
+                {
+                    "text": "Wie Stalf und Tayenthal sich aus der misslichen Lage befreien wollen, lesen Sie heute auf unserer Website."
+                }
+            ],
+            "occupations": [],
+            "directQuotes": [],
+            "quotedInTitle": false,
+            "quotedInIntro": false
+        },
+        {
+            "name": "Julien Blanchard",
+            "alternativeNames": [],
+            "age": -1,
+            "sex": "male",
+            "occurences": {
+                "total": 1,
+                "firstNameOnly": 0,
+                "lastNameOnly": 0,
+                "fullName": 1,
+                "nickname": 0
+            },
+            "inTitle": false,
+            "inIntro": false,
+            "_name": {
+                "firstname": "Julien",
+                "lastname": "Blanchard",
+                "nickname": null,
+                "alternative_names": [],
+                "academic_title": null,
+                "nobility_title_or_rank": null
+            },
+            "descriptiveTexts": [
+                {
+                    "text": "Etwa die erst neun Jahre alte Firma Hoffmann Green Cement, gef\u00fchrt von dem Franzosen Julien Blanchard."
+                },
+                {
+                    "text": "Vom beschaulichen Rives de l`Yon an der franz\u00f6sischen Atlantikk\u00fcste zettelt er mit seinem Partner David Hoffmann eine wahre Revolution an: vollwertigen Zement ohne Verbrennungsprozesse."
+                }
+            ],
+            "occupations": [],
+            "directQuotes": [],
+            "quotedInTitle": false,
+            "quotedInIntro": false
+        },
+        {
+            "name": "Dietmar Palan",
+            "alternativeNames": [],
+            "age": -1,
+            "sex": "male",
+            "occurences": {
+                "total": 1,
+                "firstNameOnly": 0,
+                "lastNameOnly": 0,
+                "fullName": 1,
+                "nickname": 0
+            },
+            "inTitle": false,
+            "inIntro": false,
+            "_name": {
+                "firstname": "Dietmar",
+                "lastname": "Palan",
+                "nickname": null,
+                "alternative_names": [],
+                "academic_title": null,
+                "nobility_title_or_rank": null
+            },
+            "descriptiveTexts": [
+                {
+                    "text": "Wie meine Kollegen Katharina Slodczyk und Dietmar Palan exklusiv in Erfahrung brachten, versuchen die wichtigsten Finanziers mittlerweile ihr Kapital zu retten."
+                },
+                {
+                    "text": "Gr\u00fcner bauen: Die Baubranche steht unter Druck \u2013 sie muss klimafreundlicher produzieren, und zwar schnell."
+                }
+            ],
+            "occupations": [],
+            "directQuotes": [],
+            "quotedInTitle": false,
+            "quotedInIntro": false
+        },
+        {
+            "name": "Donald Trump",
+            "alternativeNames": [],
+            "age": -1,
+            "sex": "male",
+            "occurences": {
+                "total": 1,
+                "firstNameOnly": 0,
+                "lastNameOnly": 0,
+                "fullName": 1,
+                "nickname": 0
+            },
+            "inTitle": false,
+            "inIntro": false,
+            "_name": {
+                "firstname": "Donald",
+                "lastname": "Trump",
+                "nickname": null,
+                "alternative_names": [],
+                "academic_title": null,
+                "nobility_title_or_rank": null
+            },
+            "descriptiveTexts": [
+                {
+                    "text": "Die Behauptungen stammen vom fr\u00fcheren US-Pr\u00e4sident Donald Trump und seinen Anw\u00e4lten."
+                }
+            ],
+            "occupations": [],
+            "directQuotes": [],
+            "quotedInTitle": false,
+            "quotedInIntro": false
+        },
+        {
+            "name": "Rupert Murdoch",
+            "alternativeNames": [],
+            "age": -1,
+            "sex": "male",
+            "occurences": {
+                "total": 1,
+                "firstNameOnly": 0,
+                "lastNameOnly": 0,
+                "fullName": 1,
+                "nickname": 0
+            },
+            "inTitle": false,
+            "inIntro": false,
+            "_name": {
+                "firstname": "Rupert",
+                "lastname": "Murdoch",
+                "nickname": null,
+                "alternative_names": [],
+                "academic_title": null,
+                "nobility_title_or_rank": null
+            },
+            "descriptiveTexts": [
+                {
+                    "text": "Das Unternehmen im Eigentum des Medienmoguls Rupert Murdoch zahlt nun 787 Millionen Dollar Schadensersatz und erkennt damit indirekt an, dass sich Fox-Moderatoren in den Dienst Trumps stellten und dabei auch L\u00fcgen verbreiteten."
+                }
+            ],
+            "occupations": [],
+            "directQuotes": [],
+            "quotedInTitle": false,
+            "quotedInIntro": false
+        },
+        {
+            "name": "Thomas Mersch",
+            "alternativeNames": [],
+            "age": -1,
+            "sex": "male",
+            "occurences": {
+                "total": 1,
+                "firstNameOnly": 0,
+                "lastNameOnly": 0,
+                "fullName": 1,
+                "nickname": 0
+            },
+            "inTitle": false,
+            "inIntro": false,
+            "_name": {
+                "firstname": "Thomas",
+                "lastname": "Mersch",
+                "nickname": null,
+                "alternative_names": [],
+                "academic_title": null,
+                "nobility_title_or_rank": null
+            },
+            "descriptiveTexts": [
+                {
+                    "text": "Anleger, die ihr Geld mit reinem Gewissen anlegen wollen, k\u00f6nnen hier investieren \u2013 und in etliche andere gr\u00fcne Bauunternehmen, die meine Kollegen Stefan Merx und Thomas Mersch hier vorstellen."
+                }
+            ],
+            "occupations": [],
+            "directQuotes": [],
+            "quotedInTitle": false,
+            "quotedInIntro": false
+        },
+        {
+            "name": "Gerry Weber",
+            "alternativeNames": [],
+            "age": -1,
+            "sex": "male",
+            "occurences": {
+                "total": 2,
+                "firstNameOnly": 0,
+                "lastNameOnly": 0,
+                "fullName": 2,
+                "nickname": 0
+            },
+            "inTitle": false,
+            "inIntro": false,
+            "_name": {
+                "firstname": "Gerry",
+                "lastname": "Weber",
+                "nickname": null,
+                "alternative_names": [],
+                "academic_title": null,
+                "nobility_title_or_rank": null
+            },
+            "descriptiveTexts": [
+                {
+                    "text": "Gerry Weber verl\u00e4sst die B\u00f6rse: Der Damenmodeh\u00e4ndler Gerry Weber steht vier Jahre nach der Insolvenz wieder vor drastischen Krisenma\u00dfnahmen."
+                }
+            ],
+            "occupations": [],
+            "directQuotes": [],
+            "quotedInTitle": false,
+            "quotedInIntro": false
+        }
+    ]
+}

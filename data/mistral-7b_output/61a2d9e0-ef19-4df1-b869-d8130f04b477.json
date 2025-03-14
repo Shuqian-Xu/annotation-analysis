@@ -1,0 +1,320 @@
+{
+    "persons": [
+        {
+            "name": "Anselm Gr\u00fcn",
+            "alternativeNames": [],
+            "age": -1,
+            "sex": "male",
+            "occurences": {
+                "total": 1,
+                "firstNameOnly": 0,
+                "lastNameOnly": 0,
+                "fullName": 1,
+                "nickname": 0
+            },
+            "inTitle": false,
+            "inIntro": false,
+            "_name": {
+                "firstname": "Anselm",
+                "lastname": "Gr\u00fcn",
+                "nickname": null,
+                "alternative_names": [],
+                "academic_title": "Professor",
+                "nobility_title_or_rank": "Pfalzgraf"
+            },
+            "descriptiveTexts": [
+                {
+                    "text": "Deshalb habe mich danach f\u00fcr einen dreit\u00e4gigen Kurs im Kloster eingeschrieben: \"Spirituell F\u00fchren\" bei Pater Anselm Gr\u00fcn."
+                }
+            ],
+            "occupations": [],
+            "directQuotes": [
+                {
+                    "text": "Spirituell F\u00fchren"
+                }
+            ],
+            "quotedInTitle": false,
+            "quotedInIntro": false
+        },
+        {
+            "name": "Bodo Janssen",
+            "alternativeNames": [],
+            "age": -1,
+            "sex": "male",
+            "occurences": {
+                "total": 4,
+                "firstNameOnly": 0,
+                "lastNameOnly": 1,
+                "fullName": 3,
+                "nickname": 0
+            },
+            "inTitle": false,
+            "inIntro": true,
+            "_name": {
+                "firstname": "Bodo",
+                "lastname": "Janssen",
+                "nickname": null,
+                "alternative_names": [],
+                "academic_title": null,
+                "nobility_title_or_rank": null
+            },
+            "descriptiveTexts": [
+                {
+                    "text": "\"Aus heutiger Sicht w\u00fcrde ich mein Verhalten als toxisch bezeichnen\""
+                },
+                {
+                    "text": "Bodo Janssen war der Boss, den alle hassten, das kam bei einer Mitarbeiterbefragung heraus."
+                },
+                {
+                    "text": "Hier spricht er \u00fcber seinen Wandel und die Frage, wie er einst seinen Geiselnehmern verzeihen konnte."
+                },
+                {
+                    "text": "manager magazin: Herr Janssen, 2010 kam bei einer Befragung Ihrer Mitarbeiter heraus, dass Ihre Angestellten Sie hassen."
+                },
+                {
+                    "text": "Mittlerweile gelten Sie als Vorzeigechef, haben acht B\u00fccher \u00fcber Sinn und Menschlichkeit in der Arbeitswelt geschrieben und sind als Coach gefragt."
+                },
+                {
+                    "text": "Wie haben Sie diese Wandlung geschafft?"
+                },
+                {
+                    "text": "Bodo Janssen: Indem ich mir Hilfe geholt habe."
+                },
+                {
+                    "text": "\"Wir brauchen einen anderen Chef als Bodo Janssen\", hatte jemand geschrieben."
+                },
+                {
+                    "text": "Dort ist mir klar geworden, dass ich die ganze Zeit von Angst getrieben war."
+                },
+                {
+                    "text": "Wovor hatten Sie Angst?"
+                },
+                {
+                    "text": "Ich wollte das Unternehmen um jeden Preis aus der Abh\u00e4ngigkeit f\u00fchren."
+                },
+                {
+                    "text": "Aus heutiger Sicht w\u00fcrde ich mein Verhalten damals als toxisch bezeichnen."
+                },
+                {
+                    "text": "Ich habe nach dem Prinzip gehandelt: Liebe f\u00fcr Leistung."
+                },
+                {
+                    "text": "Kritik oder Widerspruch wollte ich nicht h\u00f6ren, Zahlen und Budgets habe ich f\u00fcr mich behalten."
+                },
+                {
+                    "text": "Ganz nach dem Motto: Nur ich habe die L\u00f6sung, ihr m\u00fcsst mir folgen."
+                },
+                {
+                    "text": "Heute wei\u00df ich: So ein Verhalten l\u00f6st beim Gegen\u00fcber ein Gef\u00fchl der Ohnmacht aus."
+                },
+                {
+                    "text": "Das finde ich selbst einen spannenden Ansatz und bin gespannt, ob unsere anderen Standorte nachziehen werden."
+                },
+                {
+                    "text": "Gibt es denn auch Standards, die Sie f\u00fcr alle vorgeben?"
+                },
+                {
+                    "text": "Ich verdiene das 4,9-fache des niedrigsten Upstalsboom-Gehalts."
+                },
+                {
+                    "text": "Und das ist das Verr\u00fcckte: Seit ich nicht mehr panisch auf die Zahlen schiele, laufen die Gesch\u00e4fte viel besser."
+                },
+                {
+                    "text": "Weil Sie h\u00f6here L\u00f6hne zahlen?"
+                },
+                {
+                    "text": "Ich w\u00fcrde sagen: Weil wir einfach bessere Rahmenbedingungen bieten."
+                },
+                {
+                    "text": "In den Vorstellungsgespr\u00e4chen f\u00fcr unsere Ausbildungspl\u00e4tze werde ich etwa h\u00e4ufig auf unsere \u00bbTour des Lebens\u00ab angesprochen: Alle zwei Jahren bieten wir f\u00fcr unsere Azubis eine Reise an, bei der sie lernen, \u00fcber sich hinauszuwachsen."
+                },
+                {
+                    "text": "Und Anfang des Jahres war ich mit zehn Azubis, zwei K\u00f6chen und einer Intensivkrankenschwester 14 Tage lang in einem entlegenen Krankenhaus in Ruanda."
+                },
+                {
+                    "text": "Solche Erfahrungen erden ungemein, aber sie st\u00e4rken auch jeden Einzelnen."
+                },
+                {
+                    "text": "Ich denke, das ist der Punkt: Wir geben den Leuten die Chance, sich fit f\u00fcr sich selbst zu machen, unabh\u00e4ngig vom Unternehmen."
+                },
+                {
+                    "text": "Das m\u00fcssen Sie n\u00e4her erkl\u00e4ren."
+                },
+                {
+                    "text": "Ich sehe meinen Auftrag als Unternehmer und Manager darin, dass ich meinen Mitarbeitern dabei helfe, sich weiter entwickeln zu k\u00f6nnen."
+                },
+                {
+                    "text": "Ich m\u00f6chte, dass jeder Einzelne sein volles Potenzial entfalten und einsetzen kann."
+                },
+                {
+                    "text": "Vor Kurzem hatte ich zum Beispiel ein Gespr\u00e4ch mit einem Barkeeper, der schon seit Jahrzehnten f\u00fcr uns arbeitet."
+                },
+                {
+                    "text": "Er hatte das Gef\u00fchl, er sei nun zu alt f\u00fcr den Job, und wollte wissen, ob es f\u00fcr ihn eine Alternative g\u00e4be."
+                },
+                {
+                    "text": "Sehr schnell kam dann heraus, dass er perfekt in unser Coachingteam passen w\u00fcrde."
+                },
+                {
+                    "text": "Als Coach wird er wahrscheinlich einen sehr viel h\u00f6heren Stundensatz bekommen als an der Bar."
+                },
+                {
+                    "text": "Sie besch\u00e4ftigen ein Coachingteam?"
+                },
+                {
+                    "text": "Das war ihre Idee, ich selbst halte mich da im Hintergrund."
+                },
+                {
+                    "text": "Ich sehe meine Rolle eher als Coach f\u00fcr unsere Mitarbeiterinnen und Mitarbeiter."
+                },
+                {
+                    "text": "Sie bieten aber auch F\u00fchrungskr\u00e4ftetrainings im Kloster an und haben in den vergangenen Jahren mehrere B\u00fccher geschrieben."
+                },
+                {
+                    "text": "Ich bin regelm\u00e4\u00dfig an allen Standorten vor Ort, tausche mich mit den Gesch\u00e4ftsf\u00fchrerinnen und Gesch\u00e4ftsf\u00fchrern aus und bin auch f\u00fcr alle anderen Mitarbeiter ansprechbar."
+                },
+                {
+                    "text": "Derzeit bin ich zudem mit vielen Formalien besch\u00e4ftigen, weil meine Mutter gerade dabei ist, mir alle restlichen Firmenanteile zu \u00fcbertragen."
+                },
+                {
+                    "text": "Ich achte allerdings darauf, dass ich nicht mehr als 40 Stunden pro Woche arbeite und plane bewusst Pausen ein."
+                },
+                {
+                    "text": "Und wann schreiben Sie Ihre B\u00fccher?"
+                },
+                {
+                    "text": "Ich stehe jeden Tag um vier Uhr auf und meditiere."
+                },
+                {
+                    "text": "Meine B\u00fccher entstehen aus den Notizb\u00fcchern, in denen ich nach dem Meditieren meine Gedanken festhalte."
+                },
+                {
+                    "text": "Zu dieser Zeit, wenn alle anderen noch schlafen, f\u00fchle ich mich so geborgen wie fr\u00fcher als Kind."
+                },
+                {
+                    "text": "Das ist herrlich und bringt mir viel Kraft und so viele Einsichten, dass ich schon wieder am n\u00e4chsten Buch schreibe."
+                },
+                {
+                    "text": "Wenn Sie so fr\u00fch aufstehen, wann gehen Sie denn dann ins Bett?"
+                },
+                {
+                    "text": "Diesen Rhythmus behalte ich auch am Wochenende und im Urlaub bei."
+                },
+                {
+                    "text": "Als junger Mann waren Sie anders drauf."
+                },
+                {
+                    "text": "Da haben Sie nachts gefeiert, Drogen konsumiert und zogen mit einer mobilen Cocktailbar durch St. Pauli."
+                },
+                {
+                    "text": "Auf die Frage: \u00bbWas gibt deinem Leben eine Bedeutung?\u00ab h\u00e4tte ich keine Antwort gewusst."
+                },
+                {
+                    "text": "Einer Ihrer Bekannten hatte Sie damals in eine Falle gelockt: Sie wurden eine Woche lang als Geisel gehalten."
+                },
+                {
+                    "text": "Wie ging es danach f\u00fcr Sie weiter?"
+                },
+                {
+                    "text": "Aber die habe ich mir nicht geg\u00f6nnt."
+                },
+                {
+                    "text": "Ich habe dort weitergemacht, wo ich aufgeh\u00f6rt hatte, bin einfach mit dem verletzten Muskel weitergerannt \u2013 bis zu der verheerenden Mitarbeiterbefragung."
+                },
+                {
+                    "text": "Als ich dann ins Kloster kam, war die Stille f\u00fcr mich kaum auszuhalten."
+                },
+                {
+                    "text": "Aber es war genau das, was ich gebraucht habe."
+                },
+                {
+                    "text": "Nach drei Tagen im Kloster hatte ich einen Muskelkater im Kopf."
+                },
+                {
+                    "text": "Sie haben im Kloster Ihre Geiselnahme aufgearbeitet?"
+                },
+                {
+                    "text": "Und dann ist mir klargeworden, dass ich zwar nicht dankbar bin f\u00fcr die Entf\u00fchrung an sich, aber doch f\u00fcr all das, was ich durch sie lernen konnte."
+                },
+                {
+                    "text": "Ohne die Geiselnahme w\u00e4re ich heute nicht der, der ich bin."
+                },
+                {
+                    "text": "Sie haben dem Geiselnehmer also verziehen?"
+                },
+                {
+                    "text": "Ja. Ich habe ihm zur\u00fcckgeschrieben, dass ich ihm und seiner Familie alles Gute w\u00fcnsche, aus vollem Herzen."
+                },
+                {
+                    "text": "Aber wie k\u00f6nnen Sie nach so einer Erfahrung noch anderen Menschen vertrauen?"
+                },
+                {
+                    "text": "Ganz einfach: Indem ich mich ganz bewusst daf\u00fcr entscheide."
+                },
+                {
+                    "text": "Ich kann die Handlungen anderer Menschen nicht beeinflussen."
+                },
+                {
+                    "text": "Aber was ich beeinflussen kann, sind meine eigenen Entscheidungen."
+                },
+                {
+                    "text": "Ich will nicht, dass Angst mein Leben bestimmt."
+                },
+                {
+                    "text": "Man sieht das bei Kindern: Wenn ich diesen etwas zutraue und sie dann Erfolg haben, wird ihr Selbstbewusstsein gest\u00e4rkt."
+                },
+                {
+                    "text": "Wenn ich ihnen dagegen misstraue und sie immer bevormunde, bleiben sie unselbstst\u00e4ndig und werden unausgeglichen."
+                },
+                {
+                    "text": "Ich glaube, es ist genau andersherum: Gl\u00fcckliche Menschen sind erfolgreich."
+                },
+                {
+                    "text": "Was ich meine, ist: Wenn Menschen den Sinn ihres Tuns f\u00fcr sich erkannt haben, sch\u00f6pfen sie daraus inneren Halt, unabh\u00e4ngig von den \u00e4u\u00dferen Umst\u00e4nden."
+                },
+                {
+                    "text": "Sie setzen sich eigene Ziele, statt diese von au\u00dfen zu erwarten, und treffen eigene Entscheidungen."
+                },
+                {
+                    "text": "Das macht sie st\u00e4rker, in allen Lebensbereichen."
+                },
+                {
+                    "text": "Sie selbst waren ja fr\u00fcher das beste Beispiel daf\u00fcr."
+                },
+                {
+                    "text": "Haben Sie da ein Beispiel?"
+                },
+                {
+                    "text": "Stellen Sie sich folgende Situation vor: Das Hotel ist ausgebucht."
+                },
+                {
+                    "text": "Sie bekommt die ganze Wut des Gastes ab und kann weder das Problem beheben noch ein alternatives Zimmer zur Verf\u00fcgung stellen."
+                },
+                {
+                    "text": "Stellen Sie sich nun dasselbe Szenario vor, aber in einem Hotel, das nur zu 80 Prozent ausgebucht ist."
+                },
+                {
+                    "text": "Nun hat die Mitarbeiterin auf einmal eine Alternative: \u00bbDas tut mir sehr leid, darf ich Ihnen ein Upgrade geben?\u00ab"
+                },
+                {
+                    "text": "Sie meinen, 20 Prozent der Zimmer eines Hotels sollten stets leer bleiben?"
+                }
+            ],
+            "occupations": [
+                {
+                    "text": "Coach"
+                }
+            ],
+            "directQuotes": [
+                {
+                    "text": "Aus heutiger Sicht w\u00fcrde ich mein Verhalten als toxisch bezeichnen"
+                },
+                {
+                    "text": "Indem ich mir Hilfe geholt habe. Die Umfrage damals war ein Schock f\u00fcr mich. \"Wir brauchen einen anderen Chef als Bodo Janssen\", hatte jemand geschrieben. So gut wie alle waren unzufrieden und f\u00fchlten sich ungerecht behandelt. Das hat mich sehr betroffen gemacht. Deshalb habe mich danach f\u00fcr einen dreit\u00e4gigen Kurs im Kloster eingeschrieben: \"Spirituell F\u00fchren\" bei Pater Anselm Gr\u00fcn. Dort ist mir klar geworden, dass ich die ganze Zeit von Angst getrieben war. Und Angst hat toxische Auswirkungen."
+                }
+            ],
+            "quotedInTitle": false,
+            "quotedInIntro": true
+        }
+    ]
+}

@@ -1,0 +1,224 @@
+{
+    "persons": [
+        {
+            "name": "Alena Epifanova",
+            "alternativeNames": [],
+            "age": -1,
+            "sex": "female",
+            "occurences": {
+                "total": 3,
+                "firstNameOnly": 0,
+                "lastNameOnly": 2,
+                "fullName": 1,
+                "nickname": 0
+            },
+            "inTitle": false,
+            "inIntro": false,
+            "_name": {
+                "firstname": "Alena",
+                "lastname": "Epifanova",
+                "nickname": null,
+                "alternative_names": [],
+                "academic_title": null,
+                "nobility_title_or_rank": null
+            },
+            "descriptiveTexts": [
+                {
+                    "text": "\u201cOver the years, Yandex has transformed from a start-up to a propaganda distribution channel,\u201d says Alena Epifanova."
+                },
+                {
+                    "text": "Epifanova says that no one from the company\u2019s top management wanted to talk to her."
+                },
+                {
+                    "text": "The company, she adds, \u201cadapted its algorithms accordingly in order to get out of the line of fire.\u201d She argues that Volozh should have done more to push back against the state pressure. Yandex was so important for the development of the Russian tech industry that the conglomerate \u201ccould have used its weight to influence the formulation of Russian internet laws in negotiations with the Kremlin,\u201d says Epifanova."
+                }
+            ],
+            "occupations": [],
+            "directQuotes": [],
+            "quotedInTitle": false,
+            "quotedInIntro": false
+        },
+        {
+            "name": "Gerhard Mangott",
+            "alternativeNames": [],
+            "age": -1,
+            "sex": "male",
+            "occurences": {
+                "total": 1,
+                "firstNameOnly": 0,
+                "lastNameOnly": 0,
+                "fullName": 1,
+                "nickname": 0
+            },
+            "inTitle": false,
+            "inIntro": false,
+            "_name": {
+                "firstname": "Gerhard",
+                "lastname": "Mangott",
+                "nickname": null,
+                "alternative_names": [],
+                "academic_title": null,
+                "nobility_title_or_rank": null
+            },
+            "descriptiveTexts": [
+                {
+                    "text": "The EU is \u201ctreading on thin ice\u201d in this case, says Gerhard Mangott, a Russia expert at the University of Innsbruck. \u201cIt is hard to understand what Volozh is being accused of.\u201d"
+                }
+            ],
+            "occupations": [
+                {
+                    "text": "Russia expert"
+                },
+                {
+                    "text": "Anders \u00c5slund has a similar take."
+                }
+            ],
+            "directQuotes": [],
+            "quotedInTitle": false,
+            "quotedInIntro": false
+        },
+        {
+            "name": "Dmitry Peskov",
+            "alternativeNames": [],
+            "age": -1,
+            "sex": "male",
+            "occurences": {
+                "total": 2,
+                "firstNameOnly": 0,
+                "lastNameOnly": 1,
+                "fullName": 1,
+                "nickname": 0
+            },
+            "inTitle": false,
+            "inIntro": false,
+            "_name": {
+                "firstname": "Dmitry",
+                "lastname": "Peskov",
+                "nickname": null,
+                "alternative_names": [],
+                "academic_title": null,
+                "nobility_title_or_rank": null
+            },
+            "descriptiveTexts": [
+                {
+                    "text": "Then, in what he clearly intended as a threat, he wished the tech entrepreneur \u201cgood health.\u201d Putin's spokesman, Dmitry Peskov, was even more direct not long later. People like Volozh, he said, would deliver Russia to the enemy for money, just as Judas once delivered Jesus. \u201cThey are traitors,\u201d Peskov said."
+                }
+            ],
+            "occupations": [],
+            "directQuotes": [],
+            "quotedInTitle": false,
+            "quotedInIntro": false
+        },
+        {
+            "name": "Andrei Yakovlev",
+            "alternativeNames": [],
+            "age": -1,
+            "sex": "male",
+            "occurences": {
+                "total": 5,
+                "firstNameOnly": 0,
+                "lastNameOnly": 4,
+                "fullName": 1,
+                "nickname": 0
+            },
+            "inTitle": false,
+            "inIntro": false,
+            "_name": {
+                "firstname": "Andrei",
+                "lastname": "Yakovlev",
+                "nickname": null,
+                "alternative_names": [],
+                "academic_title": null,
+                "nobility_title_or_rank": null
+            },
+            "descriptiveTexts": [
+                {
+                    "text": "Russian economist and elite researcher Andrei Yakovlev argues that the penalties imposed are a \u201cparticularly ineffective and unfortunate mechanism.\u201d Yakovlev left Russia at the beginning of the invasion of Ukraine."
+                },
+                {
+                    "text": "Yakovlev argues that only clear criteria can help persuade parts of the elite to do more to distance themselves from the Kremlin."
+                },
+                {
+                    "text": "That also poses a problem for the West, says Yakovlev."
+                },
+                {
+                    "text": "\u201cElites who are still subject to sanctions today could play a role,\u201d Yakovlev says."
+                }
+            ],
+            "occupations": [],
+            "directQuotes": [],
+            "quotedInTitle": false,
+            "quotedInIntro": false
+        },
+        {
+            "name": "Michael McFaul",
+            "alternativeNames": [],
+            "age": -1,
+            "sex": "male",
+            "occurences": {
+                "total": 3,
+                "firstNameOnly": 0,
+                "lastNameOnly": 2,
+                "fullName": 1,
+                "nickname": 0
+            },
+            "inTitle": false,
+            "inIntro": false,
+            "_name": {
+                "firstname": "Michael",
+                "lastname": "McFaul",
+                "nickname": null,
+                "alternative_names": [],
+                "academic_title": null,
+                "nobility_title_or_rank": null
+            },
+            "descriptiveTexts": [
+                {
+                    "text": "Michael McFaul, a Russia expert and professor at Stanford, has applauded Volozh's courage."
+                },
+                {
+                    "text": "McFaul was the architect of the White House's Russia policy under President Barack Obama and later served as ambassador to Moscow."
+                },
+                {
+                    "text": "In 2018, Putin even tried to get Donald Trump to allow Russian officials to interrogate McFaul."
+                }
+            ],
+            "occupations": [],
+            "directQuotes": [],
+            "quotedInTitle": false,
+            "quotedInIntro": false
+        },
+        {
+            "name": "Kirill",
+            "alternativeNames": [],
+            "age": -1,
+            "sex": "male",
+            "occurences": {
+                "total": 1,
+                "firstNameOnly": 0,
+                "lastNameOnly": 0,
+                "fullName": 1,
+                "nickname": 0
+            },
+            "inTitle": false,
+            "inIntro": false,
+            "_name": {
+                "firstname": null,
+                "lastname": "Kirill",
+                "nickname": null,
+                "alternative_names": [],
+                "academic_title": null,
+                "nobility_title_or_rank": null
+            },
+            "descriptiveTexts": [
+                {
+                    "text": "Hungary, for example, prevented the sanctions against Patriarch Kirill, the head of the Russian Orthodox Church, which were supported by a majority of the EU member states."
+                }
+            ],
+            "occupations": [],
+            "directQuotes": [],
+            "quotedInTitle": false,
+            "quotedInIntro": false
+        }
+    ]
+}

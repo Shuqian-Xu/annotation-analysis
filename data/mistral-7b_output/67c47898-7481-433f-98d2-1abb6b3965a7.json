@@ -1,0 +1,178 @@
+{
+    "persons": [
+        {
+            "name": "Emmanuel Macron",
+            "alternativeNames": [],
+            "age": -1,
+            "sex": "male",
+            "occurences": {
+                "total": 2,
+                "firstNameOnly": 0,
+                "lastNameOnly": 1,
+                "fullName": 1,
+                "nickname": 0
+            },
+            "inTitle": false,
+            "inIntro": false,
+            "_name": {
+                "firstname": "Emmanuel",
+                "lastname": "Macron",
+                "nickname": null,
+                "alternative_names": [],
+                "academic_title": null,
+                "nobility_title_or_rank": null
+            },
+            "descriptiveTexts": [
+                {
+                    "text": "Emmanuel Macron (45) erlebt es gerade bei seiner Rentenreform, die von Protesten und Streiks begleitet wird."
+                },
+                {
+                    "text": "Im eigenen Land gilt er als arrogant und abgehoben, 70 Prozent waren zuletzt mit seiner Amtsf\u00fchrung unzufrieden."
+                },
+                {
+                    "text": "Mit der Rentenreform versucht Macron nun einen Befreiungsschlag."
+                }
+            ],
+            "occupations": [],
+            "directQuotes": [],
+            "quotedInTitle": false,
+            "quotedInIntro": false
+        },
+        {
+            "name": "Robert Schuman",
+            "alternativeNames": [],
+            "age": -1,
+            "sex": "male",
+            "occurences": {
+                "total": 1,
+                "firstNameOnly": 0,
+                "lastNameOnly": 0,
+                "fullName": 1,
+                "nickname": 0
+            },
+            "inTitle": false,
+            "inIntro": false,
+            "_name": {
+                "firstname": "Robert",
+                "lastname": "Schuman",
+                "nickname": null,
+                "alternative_names": [],
+                "academic_title": null,
+                "nobility_title_or_rank": null
+            },
+            "descriptiveTexts": [
+                {
+                    "text": "Es g\u00e4be keine Europ\u00e4ische Union, deren Grundger\u00fcst einst von einem franz\u00f6sischen Au\u00dfenminister (Robert Schuman) erdacht wurde und sp\u00e4ter von einem aus Frankreich stammenden Kommissionspr\u00e4sidenten (Jacques Delors) ausgebaut wurde."
+                }
+            ],
+            "occupations": [],
+            "directQuotes": [],
+            "quotedInTitle": false,
+            "quotedInIntro": false
+        },
+        {
+            "name": "Jacques Delor",
+            "alternativeNames": [],
+            "age": -1,
+            "sex": "male",
+            "occurences": {
+                "total": 1,
+                "firstNameOnly": 0,
+                "lastNameOnly": 0,
+                "fullName": 1,
+                "nickname": 0
+            },
+            "inTitle": false,
+            "inIntro": false,
+            "_name": {
+                "firstname": "Jacques",
+                "lastname": "Delor",
+                "nickname": null,
+                "alternative_names": [],
+                "academic_title": null,
+                "nobility_title_or_rank": null
+            },
+            "descriptiveTexts": [
+                {
+                    "text": "Es g\u00e4be keine Europ\u00e4ische Union, deren Grundger\u00fcst einst von einem franz\u00f6sischen Au\u00dfenminister (Robert Schuman) erdacht wurde und sp\u00e4ter von einem aus Frankreich stammenden Kommissionspr\u00e4sidenten (Jacques Delors) ausgebaut wurde."
+                }
+            ],
+            "occupations": [],
+            "directQuotes": [],
+            "quotedInTitle": false,
+            "quotedInIntro": false
+        },
+        {
+            "name": "Charles de Gaulle",
+            "alternativeNames": [],
+            "age": -1,
+            "sex": "male",
+            "occurences": {
+                "total": 1,
+                "firstNameOnly": 0,
+                "lastNameOnly": 0,
+                "fullName": 1,
+                "nickname": 0
+            },
+            "inTitle": false,
+            "inIntro": false,
+            "_name": {
+                "firstname": "Charles",
+                "lastname": "de Gaulle",
+                "nickname": null,
+                "alternative_names": [],
+                "academic_title": null,
+                "nobility_title_or_rank": "Erzherzog"
+            },
+            "descriptiveTexts": [
+                {
+                    "text": "Einst beschwor Charles de Gaulle, der erste Pr\u00e4sident der f\u00fcnften Republik, \"das Vertrauen und die Freundschaft zwischen dem franz\u00f6sischen und dem deutschen Volk\", die ein \"Trumpf f\u00fcr die Freiheit der V\u00f6lker\" sei."
+                }
+            ],
+            "occupations": [],
+            "directQuotes": [
+                {
+                    "text": "das Vertrauen und die Freundschaft zwischen dem franz\u00f6sischen und dem deutschen Volk"
+                }
+            ],
+            "quotedInTitle": false,
+            "quotedInIntro": false
+        },
+        {
+            "name": "Donald Trump",
+            "alternativeNames": [],
+            "age": -1,
+            "sex": "male",
+            "occurences": {
+                "total": 1,
+                "firstNameOnly": 0,
+                "lastNameOnly": 0,
+                "fullName": 1,
+                "nickname": 0
+            },
+            "inTitle": false,
+            "inIntro": false,
+            "_name": {
+                "firstname": "Donald",
+                "lastname": "Trump",
+                "nickname": null,
+                "alternative_names": [],
+                "academic_title": null,
+                "nobility_title_or_rank": null
+            },
+            "descriptiveTexts": [
+                {
+                    "text": "In den USA k\u00f6nnte wieder Donald Trump (76) \u2013 oder ein Trumpist \u2013 ins Wei\u00dfe Haus einziehen und Europa sich selbst \u00fcberlassen."
+                }
+            ],
+            "occupations": [],
+            "directQuotes": [
+                {
+                    "text": "Trumpf f\u00fcr die Freiheit der V\u00f6lker"
+                }
+            ],
+            "quotedInTitle": false,
+            "quotedInIntro": false
+        }
+    ]
+}

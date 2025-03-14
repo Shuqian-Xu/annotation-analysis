@@ -1,0 +1,1098 @@
+{
+    "persons": [
+        {
+            "name": "Spandau",
+            "alternativeNames": [],
+            "age": -1,
+            "sex": "unknown",
+            "occurences": {
+                "total": 3,
+                "firstNameOnly": 0,
+                "lastNameOnly": 0,
+                "fullName": 3,
+                "nickname": 0
+            },
+            "inTitle": false,
+            "inIntro": false,
+            "_name": {
+                "firstname": null,
+                "lastname": "Spandau",
+                "nickname": null,
+                "alternative_names": [],
+                "academic_title": null,
+                "nobility_title_or_rank": null
+            },
+            "descriptiveTexts": [
+                {
+                    "text": "Letztlich wollte ihn beim Hallenfu\u00dfball Eintracht Spandau, das Team von Gaming-Videomacher HandOfBlood und Ex-Profi Hans Sarpei."
+                },
+                {
+                    "text": "Bei Spandaus f\u00fcr Baller-League-Verh\u00e4ltnisse besonders motivierten Fans machte sich der 25-J\u00e4hrige schnell einen Namen: Nach den ersten acht Spielen hat Aziz sieben Tore und vier Vorlagen auf dem Konto."
+                },
+                {
+                    "text": "Spandau-Trainer Sarpei lobte seine Leistungen in der Baller League."
+                }
+            ],
+            "occupations": [],
+            "directQuotes": [],
+            "quotedInTitle": false,
+            "quotedInIntro": false
+        },
+        {
+            "name": "Lukas Podolski",
+            "alternativeNames": [],
+            "age": -1,
+            "sex": "male",
+            "occurences": {
+                "total": 3,
+                "firstNameOnly": 2,
+                "lastNameOnly": 0,
+                "fullName": 1,
+                "nickname": 0
+            },
+            "inTitle": false,
+            "inIntro": false,
+            "_name": {
+                "firstname": "Lukas",
+                "lastname": "Podolski",
+                "nickname": null,
+                "alternative_names": [],
+                "academic_title": null,
+                "nobility_title_or_rank": null
+            },
+            "descriptiveTexts": [
+                {
+                    "text": "Hier erz\u00e4hlen sechs von ihnen, wie sie das Netzspektakel erleben."
+                },
+                {
+                    "text": "Das Veranstalterteam um Mats Hummels und Lukas Podolski hatte gro\u00dfe Pl\u00e4ne: Ihre im Januar gestartete Hallenliga namens Baller League sollte nicht weniger als eine \u00bbneue \u00c4ra des Fu\u00dfballs\u00ab einl\u00e4uten."
+                },
+                {
+                    "text": "Der Triple-Sieger: Lukas Raeder"
+                },
+                {
+                    "text": "Die Karriere von Lukas Raeder begann vielversprechend: U19-Meisterschaft als Stammtorh\u00fcter mit Schalke 04, Wechsel in den Profikader von Bayern M\u00fcnchen samt sofortigem Triple-Gewinn, in der folgenden Saison zwei Bundesligaspiele als Vertreter von Manuel Neuer."
+                },
+                {
+                    "text": "Seit Januar spielt er nun f\u00fcr den TuS B\u00f6vinghausen in der Oberliga \u2013 und f\u00fcr die Las Ligas Ladies."
+                },
+                {
+                    "text": "Eine R\u00fcckkehr in den Profifu\u00dfball h\u00e4lt er f\u00fcr unwahrscheinlich."
+                },
+                {
+                    "text": "\u00bbIch h\u00f6re mir trotzdem alles an, aber es muss passen.\u00ab"
+                },
+                {
+                    "text": "Er sei in einem Alter, in dem er nicht mehr jedes Abenteuer mitmache."
+                },
+                {
+                    "text": "Er sagt, ihm gefalle vor allem die N\u00e4he zur Community."
+                },
+                {
+                    "text": "So wurden zum Beispiel auf Wunsch der Fans zwei der Sonderregeln, bei denen nur Volleytore z\u00e4hlten oder nur ein Ballkontakt erlaubt war, wieder abgeschafft, da sie das Spiel eher langatmig machten."
+                },
+                {
+                    "text": "Als eine Chance, wieder professionell Fu\u00dfball zu spielen, sieht er die Baller League aber nicht."
+                },
+                {
+                    "text": "\u00bbIch glaube daher nicht, dass sich ein Amateur aus der Baller League f\u00fcr die Regionalliga und die dritte Liga empfehlen kann.\u00ab"
+                }
+            ],
+            "occupations": [],
+            "directQuotes": [],
+            "quotedInTitle": false,
+            "quotedInIntro": false
+        },
+        {
+            "name": "Mats Hummels",
+            "alternativeNames": [],
+            "age": -1,
+            "sex": "male",
+            "occurences": {
+                "total": 3,
+                "firstNameOnly": 0,
+                "lastNameOnly": 0,
+                "fullName": 3,
+                "nickname": 0
+            },
+            "inTitle": false,
+            "inIntro": true,
+            "_name": {
+                "firstname": "Mats",
+                "lastname": "Hummels",
+                "nickname": null,
+                "alternative_names": [],
+                "academic_title": null,
+                "nobility_title_or_rank": null
+            },
+            "descriptiveTexts": [
+                {
+                    "text": "Die Baller League lockt mit Namen wie Mats Hummels, MontanaBlack und Felix Lobrecht."
+                },
+                {
+                    "text": "Hier erz\u00e4hlen sechs von ihnen, wie sie das Netzspektakel erleben."
+                },
+                {
+                    "text": "Das Veranstalterteam um Mats Hummels und Lukas Podolski hatte gro\u00dfe Pl\u00e4ne: Ihre im Januar gestartete Hallenliga namens Baller League sollte nicht weniger als eine \u00bbneue \u00c4ra des Fu\u00dfballs\u00ab einl\u00e4uten."
+                },
+                {
+                    "text": "Mit Borussia Dortmund wurde er 2012 Meister und Pokalsieger."
+                },
+                {
+                    "text": "97 Mal stand er insgesamt in der Bundesliga auf dem Platz, au\u00dfer f\u00fcr den BVB auch noch f\u00fcr den VfB Stuttgart und den FC Augsburg."
+                },
+                {
+                    "text": "Zuletzt spielte er f\u00fcr den FC Z\u00fcrich und wurde in der Schweiz Meister."
+                },
+                {
+                    "text": "Seit dem Sommer 2022 jedoch war Leitner vereinslos \u2013 und so konnten ihn die Veranstalter um seinen ehemaligen Teamkollegen Mats Hummels von der Baller League \u00fcberzeugen."
+                },
+                {
+                    "text": "Spielte er einst noch in der Champions League, geht es f\u00fcr ihn jetzt Montag f\u00fcr Montag in die Motorworld K\u00f6ln \u2013 Rheinland, wo alle Liga-Matches in einem Hangar ausgetragen werden."
+                }
+            ],
+            "occupations": [],
+            "directQuotes": [
+                {
+                    "text": "neue \u00c4ra des Fu\u00dfballs"
+                }
+            ],
+            "quotedInTitle": false,
+            "quotedInIntro": true
+        },
+        {
+            "name": "Lucas Kutting",
+            "alternativeNames": [],
+            "age": -1,
+            "sex": "male",
+            "occurences": {
+                "total": 1,
+                "firstNameOnly": 0,
+                "lastNameOnly": 0,
+                "fullName": 1,
+                "nickname": 0
+            },
+            "inTitle": false,
+            "inIntro": false,
+            "_name": {
+                "firstname": "Lucas",
+                "lastname": "Kutting",
+                "nickname": null,
+                "alternative_names": [],
+                "academic_title": null,
+                "nobility_title_or_rank": null
+            },
+            "descriptiveTexts": [
+                {
+                    "text": "In der Baller League spielt Wilschrey f\u00fcr die Protatos, das Team von Lars Holzschneider und Lucas Kutting vom YouTube-Kanal \u00bbBrotatos\u00ab."
+                }
+            ],
+            "occupations": [],
+            "directQuotes": [],
+            "quotedInTitle": false,
+            "quotedInIntro": false
+        },
+        {
+            "name": "Diyar Acar",
+            "alternativeNames": [],
+            "age": -1,
+            "sex": "male",
+            "occurences": {
+                "total": 1,
+                "firstNameOnly": 0,
+                "lastNameOnly": 0,
+                "fullName": 1,
+                "nickname": 0
+            },
+            "inTitle": false,
+            "inIntro": false,
+            "_name": {
+                "firstname": "Diyar",
+                "lastname": "Acar",
+                "nickname": null,
+                "alternative_names": [],
+                "academic_title": null,
+                "nobility_title_or_rank": null
+            },
+            "descriptiveTexts": [
+                {
+                    "text": "F\u00fcr sie hat sich Leitner als Gl\u00fccksgriff erwiesen: Mit 13 Treffern f\u00fchrt er derzeit die Torj\u00e4gerliste an."
+                },
+                {
+                    "text": "In der Baller League spielte der 28-J\u00e4hrige bisher einmal mit, als Wildcard f\u00fcr die K\u00e4figtiger, das Team von Kevin-Prince Boateng und Influencer Diyar Acar."
+                }
+            ],
+            "occupations": [
+                {
+                    "text": "Influencer"
+                }
+            ],
+            "directQuotes": [],
+            "quotedInTitle": false,
+            "quotedInIntro": false
+        },
+        {
+            "name": "Selina Cerci",
+            "alternativeNames": [],
+            "age": -1,
+            "sex": "female",
+            "occurences": {
+                "total": 1,
+                "firstNameOnly": 0,
+                "lastNameOnly": 0,
+                "fullName": 1,
+                "nickname": 0
+            },
+            "inTitle": false,
+            "inIntro": false,
+            "_name": {
+                "firstname": "Selina",
+                "lastname": "Cerci",
+                "nickname": null,
+                "alternative_names": [],
+                "academic_title": null,
+                "nobility_title_or_rank": null
+            },
+            "descriptiveTexts": [
+                {
+                    "text": "Der Fu\u00dfballer spielt in K\u00f6ln f\u00fcr das Team Las Ligas Ladies, gemanagt wird es von den deutschen Nationalspielerinnen Jule Brand und Selina Cerci."
+                }
+            ],
+            "occupations": [],
+            "directQuotes": [],
+            "quotedInTitle": false,
+            "quotedInIntro": false
+        },
+        {
+            "name": "Manuel Neuer",
+            "alternativeNames": [],
+            "age": -1,
+            "sex": "male",
+            "occurences": {
+                "total": 1,
+                "firstNameOnly": 0,
+                "lastNameOnly": 0,
+                "fullName": 1,
+                "nickname": 0
+            },
+            "inTitle": false,
+            "inIntro": false,
+            "_name": {
+                "firstname": "Manuel",
+                "lastname": "Neuer",
+                "nickname": null,
+                "alternative_names": [],
+                "academic_title": null,
+                "nobility_title_or_rank": null
+            },
+            "descriptiveTexts": [
+                {
+                    "text": "Die Karriere von Lukas Raeder begann vielversprechend: U19-Meisterschaft als Stammtorh\u00fcter mit Schalke 04, Wechsel in den Profikader von Bayern M\u00fcnchen samt sofortigem Triple-Gewinn, in der folgenden Saison zwei Bundesligaspiele als Vertreter von Manuel Neuer."
+                }
+            ],
+            "occupations": [],
+            "directQuotes": [],
+            "quotedInTitle": false,
+            "quotedInIntro": false
+        },
+        {
+            "name": "Christian Clemens",
+            "alternativeNames": [],
+            "age": -1,
+            "sex": "male",
+            "occurences": {
+                "total": 1,
+                "firstNameOnly": 0,
+                "lastNameOnly": 0,
+                "fullName": 1,
+                "nickname": 0
+            },
+            "inTitle": false,
+            "inIntro": false,
+            "_name": {
+                "firstname": "Christian",
+                "lastname": "Clemens",
+                "nickname": null,
+                "alternative_names": [],
+                "academic_title": null,
+                "nobility_title_or_rank": null
+            },
+            "descriptiveTexts": [
+                {
+                    "text": "Verteilt wurden damals vor allem Fu\u00dfballer aus der vierten und f\u00fcnften Liga, aber auch Ex-Profis wie Christian Clemens, Diego Contento und Mehmet Ekici."
+                }
+            ],
+            "occupations": [],
+            "directQuotes": [
+                {
+                    "text": "Ex on the Beach"
+                }
+            ],
+            "quotedInTitle": false,
+            "quotedInIntro": false
+        },
+        {
+            "name": "Diego Contento",
+            "alternativeNames": [],
+            "age": -1,
+            "sex": "male",
+            "occurences": {
+                "total": 2,
+                "firstNameOnly": 0,
+                "lastNameOnly": 0,
+                "fullName": 2,
+                "nickname": 0
+            },
+            "inTitle": false,
+            "inIntro": false,
+            "_name": {
+                "firstname": "Diego",
+                "lastname": "Contento",
+                "nickname": null,
+                "alternative_names": [],
+                "academic_title": null,
+                "nobility_title_or_rank": null
+            },
+            "descriptiveTexts": [
+                {
+                    "text": "Verteilt wurden damals vor allem Fu\u00dfballer aus der vierten und f\u00fcnften Liga, aber auch Ex-Profis wie Christian Clemens, Diego Contento und Mehmet Ekici."
+                },
+                {
+                    "text": "Leitner erz\u00e4hlt, er reise meist gemeinsam mit anderen Ex-Profis wie Mehmet Ekici, Diego Contento oder Sascha Bigalke mit dem ICE aus M\u00fcnchen an, \u00bbnur um 30 Minuten zu kicken\u00ab."
+                }
+            ],
+            "occupations": [],
+            "directQuotes": [
+                {
+                    "text": "Die Bachelorette"
+                }
+            ],
+            "quotedInTitle": false,
+            "quotedInIntro": false
+        },
+        {
+            "name": "Hans Sarpei",
+            "alternativeNames": [],
+            "age": -1,
+            "sex": "male",
+            "occurences": {
+                "total": 2,
+                "firstNameOnly": 0,
+                "lastNameOnly": 1,
+                "fullName": 1,
+                "nickname": 0
+            },
+            "inTitle": false,
+            "inIntro": false,
+            "_name": {
+                "firstname": "Hans",
+                "lastname": "Sarpei",
+                "nickname": null,
+                "alternative_names": [],
+                "academic_title": null,
+                "nobility_title_or_rank": null
+            },
+            "descriptiveTexts": [
+                {
+                    "text": "Letztlich wollte ihn beim Hallenfu\u00dfball Eintracht Spandau, das Team von Gaming-Videomacher HandOfBlood und Ex-Profi Hans Sarpei."
+                },
+                {
+                    "text": "Spandau-Trainer Sarpei lobte seine Leistungen in der Baller League."
+                },
+                {
+                    "text": "Er traue ihm sogar zu, in der Regionalliga zu spielen."
+                },
+                {
+                    "text": "Daf\u00fcr m\u00fcsse er aber nach einer langen Verletzung an seiner Kondition arbeiten."
+                }
+            ],
+            "occupations": [
+                {
+                    "text": "Trainer Sarpei lobte seine Leistungen in der Baller League."
+                }
+            ],
+            "directQuotes": [],
+            "quotedInTitle": false,
+            "quotedInIntro": false
+        },
+        {
+            "name": "Steven Kodra",
+            "alternativeNames": [],
+            "age": -1,
+            "sex": "male",
+            "occurences": {
+                "total": 6,
+                "firstNameOnly": 0,
+                "lastNameOnly": 4,
+                "fullName": 2,
+                "nickname": 0
+            },
+            "inTitle": false,
+            "inIntro": false,
+            "_name": {
+                "firstname": "Steven",
+                "lastname": "Kodra",
+                "nickname": null,
+                "alternative_names": [],
+                "academic_title": null,
+                "nobility_title_or_rank": null
+            },
+            "descriptiveTexts": [
+                {
+                    "text": "Der TikTok-Influencer: Steven Kodra"
+                },
+                {
+                    "text": "Man muss kein Fan von Max Kruses und Knossis Team Hollywood United sein, um Steven Kodra wiederzuerkennen."
+                },
+                {
+                    "text": "Zusammen mit seinem kleinen Bruder Kamil produziert Kodra Comedyvideos f\u00fcr TikTok und erreicht damit Klickzahlen in Millionenh\u00f6he."
+                },
+                {
+                    "text": "In der Baller League liegt er mit zehn Treffern aktuell auf Platz drei der Torj\u00e4gerliste."
+                },
+                {
+                    "text": "Ein Angebot aus der Regionalliga w\u00fcrde Kodra annehmen, wenn er weiterhin die Comedy-Kurzclips auf TikTok ver\u00f6ffentlichen darf."
+                },
+                {
+                    "text": "\u00bbMein Ziel war es immer, Fu\u00dfballprofi zu werden, um ein Vorbild f\u00fcr die Kinder da drau\u00dfen zu sein. Durch TikTok bekomme ich diese Anerkennung.\u00ab"
+                },
+                {
+                    "text": "Von seinen Social-Media-Einnahmen und seiner Besch\u00e4ftigung beim F\u00fcnftligisten FC Br\u00fcnninghausen kann er nach eigenen Angaben gut leben."
+                },
+                {
+                    "text": "Die Baller League bringe die Bolzplatz-Atmosph\u00e4re aus seiner Kindheit zur\u00fcck, sagt Kodra: Auf dem Kleinfeld k\u00f6nne er seine Antrittsst\u00e4rke und seine F\u00e4higkeiten im Eins-gegen-eins ausspielen."
+                },
+                {
+                    "text": "Dem TikToker gef\u00e4llt es aber auch, dass er durch die Liga Knossi n\u00e4herkommt \u2013 und auch von diesem etwas lernen kann."
+                },
+                {
+                    "text": "\u00bbEgal ob vor oder hinter der Kamera, Knossi ist immer authentisch\u00ab, sagt Kodra."
+                },
+                {
+                    "text": "Dies wolle er f\u00fcr seine Internetkarriere mitnehmen."
+                }
+            ],
+            "occupations": [],
+            "directQuotes": [
+                {
+                    "text": "Mein Ziel war es immer, Fu\u00dfballprofi zu werden, um ein Vorbild f\u00fcr die Kinder da drau\u00dfen zu sein. Durch TikTok bekomme ich diese Anerkennung."
+                },
+                {
+                    "text": "Auf dem Kleinfeld k\u00f6nne er seine Antrittsst\u00e4rke und seine F\u00e4higkeiten im Eins-gegen-eins ausspielen. Dem TikToker gef\u00e4llt es aber auch, dass er durch die Liga Knossi n\u00e4herkommt \u2013 und auch von diesem etwas lernen kann. \u00bbEgal ob vor oder hinter der Kamera, Knossi ist immer authentisch\u00ab, sagt Kodra. Dies wolle er f\u00fcr seine Internetkarriere mitnehmen."
+                }
+            ],
+            "quotedInTitle": false,
+            "quotedInIntro": false
+        },
+        {
+            "name": "Sangar Aziz",
+            "alternativeNames": [],
+            "age": -1,
+            "sex": "male",
+            "occurences": {
+                "total": 10,
+                "firstNameOnly": 0,
+                "lastNameOnly": 8,
+                "fullName": 2,
+                "nickname": 0
+            },
+            "inTitle": false,
+            "inIntro": false,
+            "_name": {
+                "firstname": "Sangar",
+                "lastname": "Aziz",
+                "nickname": null,
+                "alternative_names": [],
+                "academic_title": null,
+                "nobility_title_or_rank": null
+            },
+            "descriptiveTexts": [
+                {
+                    "text": "Der ambitionierte Amateur: Sangar Aziz"
+                },
+                {
+                    "text": "Sangar Aziz sagt, er sei sich zun\u00e4chst unsicher gewesen, ob es das Richtige f\u00fcr ihn sei."
+                },
+                {
+                    "text": "Schlie\u00dflich habe er nie ein Nachwuchsleistungszentrum besucht oder einen Berater gehabt."
+                },
+                {
+                    "text": "Er ist einer von wenigen Spielern, die in der sechsten Liga spielen, wo er mit seinem Verein Calcio Leinfelden-Echterdingen um den Aufstieg k\u00e4mpft."
+                },
+                {
+                    "text": "\u00bbIch habe nicht geglaubt, dass ich genommen werde\u00ab, sagt Aziz."
+                },
+                {
+                    "text": "\u00bbEigentlich habe ich bei so etwas nie Gl\u00fcck.\u00ab"
+                },
+                {
+                    "text": "Bei Spandaus f\u00fcr Baller-League-Verh\u00e4ltnisse besonders motivierten Fans machte sich der 25-J\u00e4hrige schnell einen Namen: Nach den ersten acht Spielen hat Aziz sieben Tore und vier Vorlagen auf dem Konto."
+                },
+                {
+                    "text": "Aziz\u2019 Eltern sind afghanische Einwanderer."
+                },
+                {
+                    "text": "Er erz\u00e4hlt, dass sie anfangs nur wenig Deutsch sprachen und seine Schulausbildung eher Priorit\u00e4t hatte."
+                },
+                {
+                    "text": "Die Baller League sieht Aziz nun als m\u00f6gliches Sprungbrett und als \u00bbeinmalige Chance\u00ab f\u00fcr ihn, sich zu beweisen."
+                },
+                {
+                    "text": "\u00bbSolche Tipps einer Ikone nehme ich mir nat\u00fcrlich zu Herzen und werde noch h\u00e4rter trainieren\u00ab, sagt Aziz."
+                },
+                {
+                    "text": "Und eine erste interessante Folgeanfrage gibt es offenbar auch schon: Eigenen Angaben zufolge wird Aziz von der deutschen Kleinfeld-Nationalmannschaft beobachtet."
+                },
+                {
+                    "text": "Die Baller League helfe ihm auch, sich mit Beratern zu vernetzen, sagt Aziz."
+                },
+                {
+                    "text": "Zudem habe er bei Gastauftritten von Altstars die Gelegenheit, gegen Idole seiner Kindheit zu spielen."
+                },
+                {
+                    "text": "Auch in den sozialen Medien habe ihm die Baller League einen Schub gegeben: Mehrere Tausend neue Follower habe er seit dem Start des Events auf Instagram gesammelt."
+                },
+                {
+                    "text": "Priorit\u00e4t habe f\u00fcr ihn aber auch immer noch Calcio Leinfelden-Echterdingen, betont Aziz."
+                },
+                {
+                    "text": "\u00bbMontags gebe ich Vollgas in der Baller League, und von Dienstag bis Sonntag bin ich zu 100 Prozent bei meinem Verein.\u00ab"
+                }
+            ],
+            "occupations": [],
+            "directQuotes": [
+                {
+                    "text": "einmalige Chance"
+                },
+                {
+                    "text": "Ich habe einfach Bock zu kicken"
+                }
+            ],
+            "quotedInTitle": false,
+            "quotedInIntro": false
+        },
+        {
+            "name": "Markus K\u00f6ppe",
+            "alternativeNames": [],
+            "age": -1,
+            "sex": "male",
+            "occurences": {
+                "total": 2,
+                "firstNameOnly": 0,
+                "lastNameOnly": 1,
+                "fullName": 1,
+                "nickname": 0
+            },
+            "inTitle": false,
+            "inIntro": false,
+            "_name": {
+                "firstname": "Markus",
+                "lastname": "K\u00f6ppe",
+                "nickname": null,
+                "alternative_names": [],
+                "academic_title": null,
+                "nobility_title_or_rank": null
+            },
+            "descriptiveTexts": [
+                {
+                    "text": "Sportdirektor Markus K\u00f6ppe wollte das Verletzungsrisiko der Fu\u00dfballer nicht mehr tragen."
+                },
+                {
+                    "text": "Er bezeichnete das neue Format als \u00bbKirmesliga\u00ab und als \u00bbVirus\u00ab, das sich in der Kabine ausbreite."
+                },
+                {
+                    "text": "K\u00f6ppes Hinweis auf das Verletzungsrisiko k\u00f6nne er nachvollziehen, so Merlan-Jarecki: \u00bbWenn du sonntags 90 Minuten durchspielst, solltest du eigentlich gucken, dass du dich montags regenerierst.\u00ab"
+                }
+            ],
+            "occupations": [],
+            "directQuotes": [],
+            "quotedInTitle": false,
+            "quotedInIntro": false
+        },
+        {
+            "name": "Prince Boateng",
+            "alternativeNames": [],
+            "age": -1,
+            "sex": "male",
+            "occurences": {
+                "total": 1,
+                "firstNameOnly": 0,
+                "lastNameOnly": 0,
+                "fullName": 1,
+                "nickname": 0
+            },
+            "inTitle": false,
+            "inIntro": false,
+            "_name": {
+                "firstname": "Prince",
+                "lastname": "Boateng",
+                "nickname": null,
+                "alternative_names": [],
+                "academic_title": null,
+                "nobility_title_or_rank": null
+            },
+            "descriptiveTexts": [
+                {
+                    "text": "F\u00fcr sie hat sich Leitner als Gl\u00fccksgriff erwiesen: Mit 13 Treffern f\u00fchrt er derzeit die Torj\u00e4gerliste an."
+                },
+                {
+                    "text": "In der Baller League spielte der 28-J\u00e4hrige bisher einmal mit, als Wildcard f\u00fcr die K\u00e4figtiger, das Team von Kevin-Prince Boateng und Influencer Diyar Acar."
+                }
+            ],
+            "occupations": [],
+            "directQuotes": [],
+            "quotedInTitle": false,
+            "quotedInIntro": false
+        },
+        {
+            "name": "Christoph Kramer",
+            "alternativeNames": [],
+            "age": -1,
+            "sex": "male",
+            "occurences": {
+                "total": 1,
+                "firstNameOnly": 0,
+                "lastNameOnly": 0,
+                "fullName": 1,
+                "nickname": 0
+            },
+            "inTitle": false,
+            "inIntro": false,
+            "_name": {
+                "firstname": "Christoph",
+                "lastname": "Kramer",
+                "nickname": null,
+                "alternative_names": [],
+                "academic_title": null,
+                "nobility_title_or_rank": null
+            },
+            "descriptiveTexts": [
+                {
+                    "text": "Viel Aufmerksamkeit bescheren der Liga vor allem diverse Prominente an der Seitenlinie: Die zw\u00f6lf Teams der Baller League werden von sogenannten Teammanagern betreut, zu denen beispielsweise der aktive Bundesligaprofi Christoph Kramer, Comedian Felix Lobrecht und die Twitch-Streaming-Ikonen Knossi und MontanaBlack geh\u00f6ren."
+                }
+            ],
+            "occupations": [],
+            "directQuotes": [],
+            "quotedInTitle": false,
+            "quotedInIntro": false
+        },
+        {
+            "name": "Mehmet Ekici",
+            "alternativeNames": [],
+            "age": -1,
+            "sex": "male",
+            "occurences": {
+                "total": 2,
+                "firstNameOnly": 0,
+                "lastNameOnly": 0,
+                "fullName": 2,
+                "nickname": 0
+            },
+            "inTitle": false,
+            "inIntro": false,
+            "_name": {
+                "firstname": "Mehmet",
+                "lastname": "Ekici",
+                "nickname": null,
+                "alternative_names": [],
+                "academic_title": null,
+                "nobility_title_or_rank": null
+            },
+            "descriptiveTexts": [
+                {
+                    "text": "Verteilt wurden damals vor allem Fu\u00dfballer aus der vierten und f\u00fcnften Liga, aber auch Ex-Profis wie Christian Clemens, Diego Contento und Mehmet Ekici."
+                },
+                {
+                    "text": "Leitner erz\u00e4hlt, er reise meist gemeinsam mit anderen Ex-Profis wie Mehmet Ekici, Diego Contento oder Sascha Bigalke mit dem ICE aus M\u00fcnchen an, \u00bbnur um 30 Minuten zu kicken\u00ab."
+                }
+            ],
+            "occupations": [],
+            "directQuotes": [],
+            "quotedInTitle": false,
+            "quotedInIntro": false
+        },
+        {
+            "name": "Moritz Leitner",
+            "alternativeNames": [],
+            "age": -1,
+            "sex": "male",
+            "occurences": {
+                "total": 8,
+                "firstNameOnly": 0,
+                "lastNameOnly": 5,
+                "fullName": 3,
+                "nickname": 0
+            },
+            "inTitle": false,
+            "inIntro": false,
+            "_name": {
+                "firstname": "Moritz",
+                "lastname": "Leitner",
+                "nickname": null,
+                "alternative_names": [],
+                "academic_title": null,
+                "nobility_title_or_rank": null
+            },
+            "descriptiveTexts": [
+                {
+                    "text": "Der Toptorj\u00e4ger: Moritz Leitner"
+                },
+                {
+                    "text": "Einer der bekanntesten Baller-League-Spieler ist Moritz Leitner."
+                },
+                {
+                    "text": "Seit dem Sommer 2022 jedoch war Leitner vereinslos \u2013 und so konnten ihn die Veranstalter um seinen ehemaligen Teamkollegen Mats Hummels von der Baller League \u00fcberzeugen."
+                },
+                {
+                    "text": "Leitner erz\u00e4hlt, er reise meist gemeinsam mit anderen Ex-Profis wie Mehmet Ekici, Diego Contento oder Sascha Bigalke mit dem ICE aus M\u00fcnchen an, \u00bbnur um 30 Minuten zu kicken\u00ab."
+                },
+                {
+                    "text": "F\u00fcr sie hat sich Leitner als Gl\u00fccksgriff erwiesen: Mit 13 Treffern f\u00fchrt er derzeit die Torj\u00e4gerliste an."
+                },
+                {
+                    "text": "Leitner sagt, er sehe die Baller League als gro\u00dfe B\u00fchne f\u00fcr Amateurspieler, da es f\u00fcr sie kein Format mit gr\u00f6\u00dferer Reichweite gebe."
+                },
+                {
+                    "text": "Sie k\u00f6nnten sich vielleicht sogar f\u00fcr die Regionalliga oder die 3."
+                },
+                {
+                    "text": "Er werde oft auf seine Baller-League-Partien angesprochen, sagt Leitner, und, ganz Businessprofi: \u00bbWenn eine interessante Anfrage kommt, bin ich auf jeden Fall gespr\u00e4chsbereit.\u00ab"
+                },
+                {
+                    "text": "Selbst bei seinem Teamkollegen Moritz Leitner w\u00fcrden sich Interessenten wohl eher Videos vom Gro\u00dffeld anschauen, vermutet Raeder."
+                }
+            ],
+            "occupations": [],
+            "directQuotes": [
+                {
+                    "text": "Solche Tipps einer Ikone nehme ich mir nat\u00fcrlich zu Herzen und werde noch h\u00e4rter trainieren"
+                },
+                {
+                    "text": "Ich glaube daher nicht, dass sich ein Amateur aus der Baller League f\u00fcr die Regionalliga und die dritte Liga empfehlen kann."
+                }
+            ],
+            "quotedInTitle": false,
+            "quotedInIntro": false
+        },
+        {
+            "name": "Jakub Merlan",
+            "alternativeNames": [],
+            "age": -1,
+            "sex": "male",
+            "occurences": {
+                "total": 6,
+                "firstNameOnly": 0,
+                "lastNameOnly": 4,
+                "fullName": 2,
+                "nickname": 0
+            },
+            "inTitle": false,
+            "inIntro": false,
+            "_name": {
+                "firstname": "Jakub",
+                "lastname": "Merlan",
+                "nickname": null,
+                "alternative_names": [],
+                "academic_title": null,
+                "nobility_title_or_rank": null
+            },
+            "descriptiveTexts": [
+                {
+                    "text": "F\u00fcr sie hat sich Leitner als Gl\u00fccksgriff erwiesen: Mit 13 Treffern f\u00fchrt er derzeit die Torj\u00e4gerliste an."
+                },
+                {
+                    "text": "Der Herzblutkicker: Jakub Merlan-Jarecki"
+                },
+                {
+                    "text": "Wie Max Wilschrey ist auch Jakub Merlan-Jarecki aus dem Reality-TV bekannt, er war unter anderem bei \u00bbTemptation Island\u00ab und \u00bbProminent getrennt\u00ab zu sehen."
+                },
+                {
+                    "text": "Merlan-Jarecki ist beim FV Bonn-Endenich unter Vertrag."
+                },
+                {
+                    "text": "Im Gegensatz zu seinen Teamkollegen hat sich Merlan-Jarecki f\u00fcr seinen Heimatverein entschieden."
+                },
+                {
+                    "text": "Im FV Bonn-Endenich habe er einen famili\u00e4ren Verein gefunden, dem er treu bleiben wolle, sagt er."
+                },
+                {
+                    "text": "K\u00f6ppes Hinweis auf das Verletzungsrisiko k\u00f6nne er nachvollziehen, so Merlan-Jarecki: \u00bbWenn du sonntags 90 Minuten durchspielst, solltest du eigentlich gucken, dass du dich montags regenerierst.\u00ab"
+                },
+                {
+                    "text": "Er w\u00fcnsche sich eine offene Kommunikation zwischen den Spielern und Vereinen."
+                },
+                {
+                    "text": "Die Baller-League-Streams finde er zwar \u00bbcool\u00ab, sagt Merlan-Jarecki, er verfolge sie aber nicht."
+                },
+                {
+                    "text": "Schon immer habe er Fu\u00dfball lieber gespielt als geschaut."
+                },
+                {
+                    "text": "Der 28-J\u00e4hrige betont aber auch, dass er in dem Projekt keine weitere Chance f\u00fcr sich sieht."
+                },
+                {
+                    "text": "Ein guter Spieler werde in jedem Fall gesehen, wenn er seine Leistung bringe."
+                }
+            ],
+            "occupations": [],
+            "directQuotes": [],
+            "quotedInTitle": false,
+            "quotedInIntro": false
+        },
+        {
+            "name": "Sascha Bigalke",
+            "alternativeNames": [],
+            "age": -1,
+            "sex": "male",
+            "occurences": {
+                "total": 1,
+                "firstNameOnly": 0,
+                "lastNameOnly": 0,
+                "fullName": 1,
+                "nickname": 0
+            },
+            "inTitle": false,
+            "inIntro": false,
+            "_name": {
+                "firstname": "Sascha",
+                "lastname": "Bigalke",
+                "nickname": null,
+                "alternative_names": [],
+                "academic_title": null,
+                "nobility_title_or_rank": null
+            },
+            "descriptiveTexts": [
+                {
+                    "text": "Leitner erz\u00e4hlt, er reise meist gemeinsam mit anderen Ex-Profis wie Mehmet Ekici, Diego Contento oder Sascha Bigalke mit dem ICE aus M\u00fcnchen an, \u00bbnur um 30 Minuten zu kicken\u00ab."
+                }
+            ],
+            "occupations": [],
+            "directQuotes": [],
+            "quotedInTitle": false,
+            "quotedInIntro": false
+        },
+        {
+            "name": "Jarecki",
+            "alternativeNames": [],
+            "age": -1,
+            "sex": "unknown",
+            "occurences": {
+                "total": 6,
+                "firstNameOnly": 0,
+                "lastNameOnly": 0,
+                "fullName": 6,
+                "nickname": 0
+            },
+            "inTitle": false,
+            "inIntro": false,
+            "_name": {
+                "firstname": null,
+                "lastname": "Jarecki",
+                "nickname": null,
+                "alternative_names": [],
+                "academic_title": null,
+                "nobility_title_or_rank": null
+            },
+            "descriptiveTexts": [
+                {
+                    "text": "Der Herzblutkicker: Jakub Merlan-Jarecki"
+                },
+                {
+                    "text": "Wie Max Wilschrey ist auch Jakub Merlan-Jarecki aus dem Reality-TV bekannt, er war unter anderem bei \u00bbTemptation Island\u00ab und \u00bbProminent getrennt\u00ab zu sehen."
+                },
+                {
+                    "text": "Merlan-Jarecki ist beim FV Bonn-Endenich unter Vertrag."
+                },
+                {
+                    "text": "Im Gegensatz zu seinen Teamkollegen hat sich Merlan-Jarecki f\u00fcr seinen Heimatverein entschieden."
+                },
+                {
+                    "text": "K\u00f6ppes Hinweis auf das Verletzungsrisiko k\u00f6nne er nachvollziehen, so Merlan-Jarecki: \u00bbWenn du sonntags 90 Minuten durchspielst, solltest du eigentlich gucken, dass du dich montags regenerierst.\u00ab"
+                },
+                {
+                    "text": "Die Baller-League-Streams finde er zwar \u00bbcool\u00ab, sagt Merlan-Jarecki, er verfolge sie aber nicht."
+                }
+            ],
+            "occupations": [],
+            "directQuotes": [
+                {
+                    "text": "Wenn eine interessante Anfrage kommt, bin ich auf jeden Fall gespr\u00e4chsbereit."
+                },
+                {
+                    "text": "\u00bbWenn du sonntags 90 Minuten durchspielst, solltest du eigentlich gucken, dass du dich montags regenerierst.\u00ab Die Fu\u00dfballer, die in der Baller League spielten, w\u00fcrden diese sehr ernst nehmen und somit auch mit einer gewissen H\u00e4rte auf dem Platz spielen. Er w\u00fcnsche sich eine offene Kommunikation zwischen den Spielern und Vereinen."
+                }
+            ],
+            "quotedInTitle": false,
+            "quotedInIntro": false
+        },
+        {
+            "name": "Max Wilschrey",
+            "alternativeNames": [],
+            "age": -1,
+            "sex": "male",
+            "occurences": {
+                "total": 7,
+                "firstNameOnly": 1,
+                "lastNameOnly": 3,
+                "fullName": 3,
+                "nickname": 0
+            },
+            "inTitle": false,
+            "inIntro": false,
+            "_name": {
+                "firstname": "Max",
+                "lastname": "Wilschrey",
+                "nickname": null,
+                "alternative_names": [],
+                "academic_title": null,
+                "nobility_title_or_rank": null
+            },
+            "descriptiveTexts": [
+                {
+                    "text": "Man muss kein Fan von Max Kruses und Knossis Team Hollywood United sein, um Steven Kodra wiederzuerkennen."
+                },
+                {
+                    "text": "Der Realitystar: Max Wilschrey"
+                },
+                {
+                    "text": "Jenseits der Baller League spielt Max Wilschrey beim F\u00fcnftligisten 1."
+                },
+                {
+                    "text": "Kaum ein anderer Spieler bringt so viel Showerfahrung mit wie er."
+                },
+                {
+                    "text": "\u00bbIch habe einfach Bock zu kicken\u00ab, sagt Wilschrey, wenn man ihn fragt, warum er sich bei der Baller League beworben hat."
+                },
+                {
+                    "text": "Die Freiheit, neben dem Fu\u00dfball auch in TV-Shows aufzutreten, habe er wohl nur beim 1."
+                },
+                {
+                    "text": "Der Verein wiederum profitiert von Wilschreys Nebent\u00e4tigkeiten ebenfalls."
+                },
+                {
+                    "text": "In der Baller League spielt Wilschrey f\u00fcr die Protatos, das Team von Lars Holzschneider und Lucas Kutting vom YouTube-Kanal \u00bbBrotatos\u00ab."
+                },
+                {
+                    "text": "Nach dem achten Spieltag steht er auf dem vierten Platz der Torj\u00e4gerliste, nur ein Tor hinter Platz zwei."
+                },
+                {
+                    "text": "\u00bbSollte ich mich in der Baller League schwer verletzen, w\u00fcrde der Verein mir den Kopf abrei\u00dfen\u00ab, sagt er."
+                },
+                {
+                    "text": "Wie Max Wilschrey ist auch Jakub Merlan-Jarecki aus dem Reality-TV bekannt, er war unter anderem bei \u00bbTemptation Island\u00ab und \u00bbProminent getrennt\u00ab zu sehen."
+                }
+            ],
+            "occupations": [],
+            "directQuotes": [],
+            "quotedInTitle": false,
+            "quotedInIntro": false
+        },
+        {
+            "name": "A\u00edlton",
+            "alternativeNames": [],
+            "age": -1,
+            "sex": "unknown",
+            "occurences": {
+                "total": 1,
+                "firstNameOnly": 0,
+                "lastNameOnly": 0,
+                "fullName": 1,
+                "nickname": 0
+            },
+            "inTitle": false,
+            "inIntro": false,
+            "_name": {
+                "firstname": null,
+                "lastname": "A\u00edlton",
+                "nickname": null,
+                "alternative_names": [],
+                "academic_title": null,
+                "nobility_title_or_rank": null
+            },
+            "descriptiveTexts": [
+                {
+                    "text": "Auf diesem Weg kamen schon Z\u00e9 Roberto und A\u00edlton zu Gastauftritten auf dem Kunstrasen."
+                }
+            ],
+            "occupations": [],
+            "directQuotes": [],
+            "quotedInTitle": false,
+            "quotedInIntro": false
+        },
+        {
+            "name": "Lars Holzschneider",
+            "alternativeNames": [],
+            "age": -1,
+            "sex": "male",
+            "occurences": {
+                "total": 1,
+                "firstNameOnly": 0,
+                "lastNameOnly": 0,
+                "fullName": 1,
+                "nickname": 0
+            },
+            "inTitle": false,
+            "inIntro": false,
+            "_name": {
+                "firstname": "Lars",
+                "lastname": "Holzschneider",
+                "nickname": null,
+                "alternative_names": [],
+                "academic_title": null,
+                "nobility_title_or_rank": null
+            },
+            "descriptiveTexts": [
+                {
+                    "text": "In der Baller League spielt Wilschrey f\u00fcr die Protatos, das Team von Lars Holzschneider und Lucas Kutting vom YouTube-Kanal \u00bbBrotatos\u00ab."
+                }
+            ],
+            "occupations": [],
+            "directQuotes": [],
+            "quotedInTitle": false,
+            "quotedInIntro": false
+        },
+        {
+            "name": "Felix Lobrecht",
+            "alternativeNames": [],
+            "age": -1,
+            "sex": "male",
+            "occurences": {
+                "total": 2,
+                "firstNameOnly": 0,
+                "lastNameOnly": 0,
+                "fullName": 2,
+                "nickname": 0
+            },
+            "inTitle": false,
+            "inIntro": true,
+            "_name": {
+                "firstname": "Felix",
+                "lastname": "Lobrecht",
+                "nickname": null,
+                "alternative_names": [],
+                "academic_title": null,
+                "nobility_title_or_rank": null
+            },
+            "descriptiveTexts": [
+                {
+                    "text": "Die Baller League lockt mit Namen wie Mats Hummels, MontanaBlack und Felix Lobrecht."
+                },
+                {
+                    "text": "Viel Aufmerksamkeit bescheren der Liga vor allem diverse Prominente an der Seitenlinie: Die zw\u00f6lf Teams der Baller League werden von sogenannten Teammanagern betreut, zu denen beispielsweise der aktive Bundesligaprofi Christoph Kramer, Comedian Felix Lobrecht und die Twitch-Streaming-Ikonen Knossi und MontanaBlack geh\u00f6ren."
+                }
+            ],
+            "occupations": [
+                {
+                    "text": "Comedian"
+                }
+            ],
+            "directQuotes": [
+                {
+                    "text": "Nat\u00fcrlich braucht es daf\u00fcr aber mehr als gute Leistungen auf dem Kleinfeld. Der Fu\u00dfball da drau\u00dfen ist einfach ein anderer."
+                }
+            ],
+            "quotedInTitle": false,
+            "quotedInIntro": true
+        }
+    ]
+}

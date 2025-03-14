@@ -1,0 +1,197 @@
+{
+    "persons": [
+        {
+            "name": "Peter Haa oder Peter Haas",
+            "alternativeNames": [],
+            "age": -1,
+            "sex": "male",
+            "occurences": {
+                "total": 1,
+                "firstNameOnly": 1,
+                "lastNameOnly": 0,
+                "fullName": 0,
+                "nickname": 0
+            },
+            "inTitle": false,
+            "inIntro": false,
+            "_name": {
+                "firstname": "Peter",
+                "lastname": "Haa oder Haas",
+                "nickname": null,
+                "alternative_names": [],
+                "academic_title": null,
+                "nobility_title_or_rank": null
+            },
+            "descriptiveTexts": [
+                {
+                    "text": "Johannes-Peter Haas, \u00e4rztlicher Direktor der Kinderrheumaklinik in Garmisch-Partenkirchen, behandelt Lara seit der ersten Vorstellung 2022."
+                }
+            ],
+            "occupations": [
+                {
+                    "text": "\u00e4rztlicher Direktor der Kinderrheumaklinik in Garmisch-Partenkirchen"
+                }
+            ],
+            "directQuotes": [],
+            "quotedInTitle": false,
+            "quotedInIntro": false
+        },
+        {
+            "name": "Carolin Neemann",
+            "alternativeNames": [],
+            "age": -1,
+            "sex": "female",
+            "occurences": {
+                "total": 14,
+                "firstNameOnly": 0,
+                "lastNameOnly": 13,
+                "fullName": 1,
+                "nickname": 0
+            },
+            "inTitle": false,
+            "inIntro": false,
+            "_name": {
+                "firstname": "Carolin",
+                "lastname": "Neemann",
+                "nickname": null,
+                "alternative_names": [],
+                "academic_title": null,
+                "nobility_title_or_rank": null
+            },
+            "descriptiveTexts": [
+                {
+                    "text": "Diese Frage stellte sich Caroline Neemann erstmals, als ihre Tochter Lara vier Jahre alt war."
+                },
+                {
+                    "text": "So erz\u00e4hlt sie es dem SPIEGEL an einem Nachmittag im Dezember."
+                },
+                {
+                    "text": "Caroline Neemann und ihr Mann \u00fcbten \u00fcber Wochen mit ihrer Tochter."
+                },
+                {
+                    "text": "Oder dieses Gespr\u00e4ch nach der dritten Stunde Schwimmunterricht, an das sich Neemann noch gut erinnert:"
+                },
+                {
+                    "text": "Wie krank ihre Tochter Lara tats\u00e4chlich ist, erfuhr Caroline Neemann erst Jahre sp\u00e4ter."
+                },
+                {
+                    "text": "Caroline Neemann ging mit ihrer Tochter mehrere Male zum Kinderarzt."
+                },
+                {
+                    "text": "Die allermeisten von ihnen machten sich nicht die M\u00fche, Lara k\u00f6rperlich zu untersuchen, schildert Carolin Neemann."
+                },
+                {
+                    "text": "Da m\u00fcssen Sie Ihre Tochter etwas dr\u00e4ngen, dass sie sich mehr bewegt \u2013 dann wird das schon."
+                },
+                {
+                    "text": "\u00bbDa schwang immer mit, dass wir Eltern etwas falsch gemacht haben. Und dass Lara sich einfach nur am Riemen rei\u00dfen und etwas abnehmen muss und dann werde alles besser\u00ab, sagt Caroline Neemann."
+                },
+                {
+                    "text": "Trotz eines unguten Gef\u00fchls glaubte Neemann den \u00c4rzten."
+                },
+                {
+                    "text": "\u00bbSie sind ja die Spezialisten. Also haben wir unsere Tochter immer wieder gedr\u00e4ngt, Sport zu machen. Und das, obwohl sie damit sichtlich \u00fcberfordert war\u00ab, sagt Neemann."
+                },
+                {
+                    "text": "Bis heute habe sie deshalb ein schlechtes Gewissen: \u00bbJedes Mal, wenn Lara sich viel bewegen musste, schmerzten ihre Gelenke. Manchmal auch im Ruhezustand. Aber sie wusste ja nicht, dass das nicht normal ist \u2013 deshalb hat sie nichts gesagt. \u00dcber die Jahre haben wir ihr viel angetan.\u00ab"
+                },
+                {
+                    "text": "\u00bbIch war einfach nur unfassbar erleichtert, dass wir endlich wussten, was sie hat\u00ab, sagt Neemann."
+                },
+                {
+                    "text": "\u00bbZun\u00e4chst ging es immer erst einmal besser. Aber nach ein paar Tagen war wieder alles wie vorher\u00ab, sagt Caroline Neemann."
+                },
+                {
+                    "text": "Caroline Neemann und ihr Mann f\u00fcrchteten um das Leben ihrer Tochter."
+                },
+                {
+                    "text": "Im Deutschen Zentrum f\u00fcr Kinder- und Jugendrheumatologie an der Kinderklinik Garmisch-Partenkirchen f\u00fchlten sie sich gut aufgehoben: Man k\u00fcmmerte sich intensiv um Lara, die Therapie wurde angepasst, der Einsatz neuer Medikamente geplant."
+                },
+                {
+                    "text": "Sie bekam eine Substanz, die nur f\u00fcr Erwachsene zugelassen ist."
+                },
+                {
+                    "text": "\u00bbWir hatten nun nicht nur eine Diagnose, sondern auch eine wirkungsvollere Behandlung\u00ab, sagt Neemann."
+                },
+                {
+                    "text": "Fest steht: \u00bbSie macht Fortschritte. Sie kann immer weitere Strecken mit Begleitung laufen\u00ab, sagt Neemann."
+                },
+                {
+                    "text": "Sie n\u00e4hren auch die Hoffnung, die Krankheit weiter unter Kontrolle zu bekommen."
+                },
+                {
+                    "text": "Wir haben sie korrigiert."
+                }
+            ],
+            "occupations": [
+                {
+                    "text": "Mutter"
+                }
+            ],
+            "directQuotes": [
+                {
+                    "text": "Lara, wie war es?"
+                },
+                {
+                    "text": "Wieso? Du hast doch noch Schwimmfl\u00fcgel, Du musst einfach den Kopf mehr hochheben."
+                },
+                {
+                    "text": "Sie sind ja die Spezialisten. Also haben wir unsere Tochter immer wieder gedr\u00e4ngt, Sport zu machen. Und das, obwohl sie damit sichtlich \u00fcberfordert war"
+                },
+                {
+                    "text": "Ich war einfach nur unfassbar erleichtert, dass wir endlich wussten, was sie hat"
+                }
+            ],
+            "quotedInTitle": false,
+            "quotedInIntro": false
+        },
+        {
+            "name": "Kirsten Minden",
+            "alternativeNames": [],
+            "age": -1,
+            "sex": "female",
+            "occurences": {
+                "total": 4,
+                "firstNameOnly": 0,
+                "lastNameOnly": 3,
+                "fullName": 1,
+                "nickname": 0
+            },
+            "inTitle": false,
+            "inIntro": false,
+            "_name": {
+                "firstname": "Kirsten",
+                "lastname": "Minden",
+                "nickname": null,
+                "alternative_names": [],
+                "academic_title": "Professorin",
+                "nobility_title_or_rank": null
+            },
+            "descriptiveTexts": [
+                {
+                    "text": "\u00bbFr\u00fche Zeichen einer rheumatischen Gelenkerkrankung k\u00f6nnen verdickte und schmerzhafte Gelenke, Morgensteifigkeit, Humpeln oder andere Schonhaltungen sein\u00ab, sagt Kirsten Minden, Kinderrheumatologin und Professorin f\u00fcr Versorgungsforschung an der Berliner Charit\u00e9."
+                },
+                {
+                    "text": "\u00bbUm die Jahrtausendwende w\u00e4ren wir bei einem so schweren Verlauf hilflos gewesen, wir h\u00e4tten kaum Behandlungsoptionen gehabt. Das hat sich inzwischen gl\u00fccklicherweise ge\u00e4ndert\u00ab, sagt er."
+                },
+                {
+                    "text": "\u00bbBeim Kinderrheuma war das Prinzip: Auf Erkenntnis folgt Handeln. Zuerst haben wir besser und genauer verstanden, \u00fcber welche Botenstoffe und Mechanismen das Immunsystem gegen eigene K\u00f6rperstrukturen aufgestachelt wird\u00ab, sagt Kinderrheuma-Expertin Minden von der Charit\u00e9."
+                },
+                {
+                    "text": "\u00bbVor zwanzig Jahren gab es drei sogenannte krankheitsmodifizierende Medikamente, die zur Behandlung von Kinderrheuma zugelassen waren. Heute sind es 13. Die meisten davon sind Biologika. Das er\u00f6ffnet nat\u00fcrlich ganz neue Behandlungsperspektiven und mehr Therapieoptionen\u00ab, so Minden."
+                },
+                {
+                    "text": "\u00bbWir werden mittels immunologischer und genetischer Analysen k\u00fcnftig mehr Biomarker finden, anhand derer wir gezielter und individueller behandeln k\u00f6nnen, ganz im Sinne einer personalisierten Medizin\u00ab, sagt Minden."
+                }
+            ],
+            "occupations": [],
+            "directQuotes": [
+                {
+                    "text": "Fr\u00fche Zeichen einer rheumatischen Gelenkerkrankung k\u00f6nnen verdickte und schmerzhafte Gelenke, Morgensteifigkeit, Humpeln oder andere Schonhaltungen sein"
+                }
+            ],
+            "quotedInTitle": false,
+            "quotedInIntro": false
+        }
+    ]
+}

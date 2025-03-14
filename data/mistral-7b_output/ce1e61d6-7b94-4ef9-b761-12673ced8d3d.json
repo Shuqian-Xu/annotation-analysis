@@ -1,0 +1,283 @@
+{
+    "persons": [
+        {
+            "name": "Musk Tesla",
+            "alternativeNames": [],
+            "age": 52,
+            "sex": "male",
+            "occurences": {
+                "total": 17,
+                "firstNameOnly": 0,
+                "lastNameOnly": 12,
+                "fullName": 5,
+                "nickname": 0
+            },
+            "inTitle": true,
+            "inIntro": true,
+            "_name": {
+                "firstname": "Elon",
+                "lastname": "Musk",
+                "nickname": null,
+                "alternative_names": [],
+                "academic_title": null,
+                "nobility_title_or_rank": null
+            },
+            "descriptiveTexts": [
+                {
+                    "text": "\"Ein genialer Schachzug von Elon Musk\""
+                },
+                {
+                    "text": "Erstaunt bis entsetzt reagiert die \u00d6ffentlichkeit auf den Schritt von Elon Musk, Twitter durch X zu ersetzen."
+                },
+                {
+                    "text": "Milliarden von Dollar an Markenwert versenkt durch \u2066Elon Musk (52), so zeigte es auf der Plattform ein Bild mit einem Totengrab."
+                },
+                {
+                    "text": "F\u00fcr unsere Autoindustrie k\u00f6nne man nur hoffen, dass Elon Musk sich mit seiner unternehmerischen Genialit\u00e4t bald wieder mehr \u2066Tesla widmen werde, schrieb er auf der Social Media Plattform."
+                },
+                {
+                    "text": "Soll hei\u00dfen: W\u00e4re sch\u00f6n, wenn Musk Tesla im gleichen Tempo ramponieren w\u00fcrde, damit Volkswagen und Co. wieder eine Chance gegen die Nummer eins haben."
+                },
+                {
+                    "text": "Aber handelt es sich tats\u00e4chlich um einen impulsiven Musk-Move, eine irrationale Ego-Entscheidung, einen der schnellsten Niederg\u00e4nge einer Marke in der Geschichte?"
+                },
+                {
+                    "text": "Bislang h\u00e4tten Musk und auch das ehemalige Management kein profitables Gesch\u00e4ftsmodell mit der Marke Twitter und der Leistung Kurznachrichten gefunden, argumentiert Gietl."
+                },
+                {
+                    "text": "Offensichtlich komme Musk unternehmerisch nicht weiter, so sei es nur konsequent einen Schlussstrich zu ziehen \u2013 auch wenn mehr als 15 Jahre lang viel in die Marke investiert wurde."
+                },
+                {
+                    "text": "Doch eine gute Basis f\u00fcr das, was Musk mit X vorhat, meint Gietl."
+                },
+                {
+                    "text": "Der Techmilliard\u00e4r will aus Twitter eine Art App f\u00fcr alles machen, wie er am Mittwoch auf der Social-Media-Plattform erkl\u00e4rte."
+                },
+                {
+                    "text": "Elon Musk eifert mit X der chinesischen App Wechat nach, die alles vereint, was im Westen \u00fcber einzelne Dienste l\u00e4uft: Uber, Booking.com, Lieferando, Paypal, etc."
+                },
+                {
+                    "text": "Schon fr\u00fch hatte Musk durchblicken lassen, dass er mit Twitter gr\u00f6\u00dfere Pl\u00e4ne hat."
+                },
+                {
+                    "text": "Im vergangenen Oktober k\u00fcndigte er schon einmal die Super-App X an."
+                },
+                {
+                    "text": "Der Zusammenhang zu den anderen Marken aus dem Musk-Universum werde damit gr\u00f6\u00dfer."
+                },
+                {
+                    "text": "\"X h\u00e4tte bei Null anfangen m\u00fcssen, h\u00e4tte also nicht direkt mit den bestehenden Nutzern in Kontakt treten und sie auf die neuen Online-Dienste bringen k\u00f6nnen. Darum lag die logische Konsequenz von Musk darin, Twitter zu beenden.\""
+                },
+                {
+                    "text": "Zugespitzt gesagt hat Musk sich mit seinem 44 Milliarden Dollar-Deal vor allem eins gekauft: Twitters Kundendaten, die er jetzt f\u00fcr X nutzt."
+                },
+                {
+                    "text": "\u00c4hnlich wie Gietl halten auch einige andere Markenexperten Musks Entscheidung f\u00fcr nachvollziehbar."
+                },
+                {
+                    "text": "\"Keine kindische Impulsreaktion, sondern ein logischer n\u00e4chster Schritt\" in Richtung Superintelligenz, schreibt die Digital-Marketing-Expertin Hel\u00e9n Orgis auf LinkedIn. X liefere enorm viele Daten (Kommunikation, Finanzbewegungen, Kaufverhalten), die wiederum Musks Open AI-Klon X.AI und Neuralink, eine Hirnimplantat-Firma, gut brauchen k\u00f6nnten."
+                },
+                {
+                    "text": "Experte Gietl sieht beim Umbau von Twitter eine ganz andere Herausforderung als das Rebranding: Gelingt es Musk, die anderen Dienste besser, bequemer, schneller und sicherer zu machen als jene, die sich bereits etabliert haben?"
+                }
+            ],
+            "occupations": [
+                {
+                    "text": "Entsetzen"
+                },
+                {
+                    "text": "Techmilliard\u00e4r"
+                }
+            ],
+            "directQuotes": [
+                {
+                    "text": "Ein genialer Schachzug von Elon Musk"
+                },
+                {
+                    "text": "Jetzt eine Marke darauf zu setzten, die eben nicht auf Kurznachrichten beschr\u00e4nkt ist, sondern mit der das Unternehmen mehr vorhat, das ist aus meiner Sicht ein genialer Schachzug"
+                }
+            ],
+            "quotedInTitle": true,
+            "quotedInIntro": true
+        },
+        {
+            "name": "Hel\u00e9n Orgi",
+            "alternativeNames": [],
+            "age": -1,
+            "sex": "female",
+            "occurences": {
+                "total": 1,
+                "firstNameOnly": 0,
+                "lastNameOnly": 0,
+                "fullName": 1,
+                "nickname": 0
+            },
+            "inTitle": false,
+            "inIntro": false,
+            "_name": {
+                "firstname": "Hel\u00e9n",
+                "lastname": "Orgi",
+                "nickname": null,
+                "alternative_names": [],
+                "academic_title": null,
+                "nobility_title_or_rank": null
+            },
+            "descriptiveTexts": [
+                {
+                    "text": "\"Keine kindische Impulsreaktion, sondern ein logischer n\u00e4chster Schritt\" in Richtung Superintelligenz, schreibt die Digital-Marketing-Expertin Hel\u00e9n Orgis auf LinkedIn. X liefere enorm viele Daten (Kommunikation, Finanzbewegungen, Kaufverhalten), die wiederum Musks Open AI-Klon X.AI und Neuralink, eine Hirnimplantat-Firma, gut brauchen k\u00f6nnten."
+                }
+            ],
+            "occupations": [
+                {
+                    "text": "Digital-Marketing-Expertin"
+                },
+                {
+                    "text": "Keine kindische Impulsreaktion, sondern ein logischer n\u00e4chster Schritt"
+                }
+            ],
+            "directQuotes": [],
+            "quotedInTitle": false,
+            "quotedInIntro": false
+        },
+        {
+            "name": "Linda Yaccarino",
+            "alternativeNames": [],
+            "age": 59,
+            "sex": "female",
+            "occurences": {
+                "total": 1,
+                "firstNameOnly": 0,
+                "lastNameOnly": 0,
+                "fullName": 1,
+                "nickname": 0
+            },
+            "inTitle": false,
+            "inIntro": false,
+            "_name": {
+                "firstname": "Linda",
+                "lastname": "Yaccarino",
+                "nickname": null,
+                "alternative_names": [],
+                "academic_title": null,
+                "nobility_title_or_rank": null
+            },
+            "descriptiveTexts": [
+                {
+                    "text": "Und die neue Twitter-Chefin Linda Yaccarino (59) sagte: \"Basierend auf Audio, Video, Nachrichten, Banking erschaffen wir einen globalen Marktplatz f\u00fcr Ideen, Waren, Dienstleistungen und M\u00f6glichkeiten.\""
+                }
+            ],
+            "occupations": [],
+            "directQuotes": [
+                {
+                    "text": "Der Wert der Marke liegt eigentlich im direkten Kontakt zu den Nutzern. Und diese Nutzerbeziehung ist sehr viel wert."
+                }
+            ],
+            "quotedInTitle": false,
+            "quotedInIntro": false
+        },
+        {
+            "name": "J\u00fcrgen Gietl",
+            "alternativeNames": [],
+            "age": -1,
+            "sex": "male",
+            "occurences": {
+                "total": 6,
+                "firstNameOnly": 0,
+                "lastNameOnly": 5,
+                "fullName": 1,
+                "nickname": 0
+            },
+            "inTitle": false,
+            "inIntro": false,
+            "_name": {
+                "firstname": "J\u00fcrgen",
+                "lastname": "Gietl",
+                "nickname": null,
+                "alternative_names": [],
+                "academic_title": null,
+                "nobility_title_or_rank": null
+            },
+            "descriptiveTexts": [
+                {
+                    "text": "Nein, meint J\u00fcrgen Gietl, Managing Partner der Beratungsfirma Brand Trust, im Gespr\u00e4ch mit manager magazin, auch wenn der Schritt auf den ersten Blick irritieren m\u00f6ge."
+                },
+                {
+                    "text": "\"Aus wirtschaftlicher Sicht verstehe ich die Entscheidung. Nur Bekanntheit reicht manchmal nicht aus, um auch wirtschaftlich erfolgreich zu sein.\""
+                },
+                {
+                    "text": "Bislang h\u00e4tten Musk und auch das ehemalige Management kein profitables Gesch\u00e4ftsmodell mit der Marke Twitter und der Leistung Kurznachrichten gefunden, argumentiert Gietl."
+                },
+                {
+                    "text": "Doch eine gute Basis f\u00fcr das, was Musk mit X vorhat, meint Gietl."
+                },
+                {
+                    "text": "F\u00fcr Markenexperte Gietl ist die Sache klar: Die Positionierung der Marke Twitter ist f\u00fcr diese Pl\u00e4ne zu eng."
+                },
+                {
+                    "text": "\u00c4hnlich wie Gietl halten auch einige andere Markenexperten Musks Entscheidung f\u00fcr nachvollziehbar."
+                },
+                {
+                    "text": "Experte Gietl sieht beim Umbau von Twitter eine ganz andere Herausforderung als das Rebranding: Gelingt es Musk, die anderen Dienste besser, bequemer, schneller und sicherer zu machen als jene, die sich bereits etabliert haben?"
+                }
+            ],
+            "occupations": [
+                {
+                    "text": "Managing Partner der Beratungsfirma Brand Trust"
+                }
+            ],
+            "directQuotes": [
+                {
+                    "text": "Aus wirtschaftlicher Sicht verstehe ich die Entscheidung. Nur Bekanntheit reicht manchmal nicht aus, um auch wirtschaftlich erfolgreich zu sein."
+                }
+            ],
+            "quotedInTitle": false,
+            "quotedInIntro": false
+        },
+        {
+            "name": "Karl Lauterbach",
+            "alternativeNames": [],
+            "age": 60,
+            "sex": "male",
+            "occurences": {
+                "total": 1,
+                "firstNameOnly": 0,
+                "lastNameOnly": 0,
+                "fullName": 1,
+                "nickname": 0
+            },
+            "inTitle": false,
+            "inIntro": false,
+            "_name": {
+                "firstname": "Karl",
+                "lastname": "Lauterbach",
+                "nickname": null,
+                "alternative_names": [],
+                "academic_title": null,
+                "nobility_title_or_rank": "Gro\u00dfherzog"
+            },
+            "descriptiveTexts": [
+                {
+                    "text": "Selbst Gesundheitsminister Karl Lauterbach (60) machte sein Entsetzen publik."
+                },
+                {
+                    "text": "F\u00fcr unsere Autoindustrie k\u00f6nne man nur hoffen, dass Elon Musk sich mit seiner unternehmerischen Genialit\u00e4t bald wieder mehr \u2066Tesla widmen werde, schrieb er auf der Social Media Plattform."
+                }
+            ],
+            "occupations": [
+                {
+                    "text": "Entsetzen"
+                },
+                {
+                    "text": "Gesundheitsminister"
+                }
+            ],
+            "directQuotes": [
+                {
+                    "text": "Der Wert der Marke liegt im Kontakt zu den Nutzern"
+                }
+            ],
+            "quotedInTitle": false,
+            "quotedInIntro": false
+        }
+    ]
+}

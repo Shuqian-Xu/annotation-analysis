@@ -1,0 +1,379 @@
+{
+    "persons": [
+        {
+            "name": "Anahita Thom",
+            "alternativeNames": [],
+            "age": -1,
+            "sex": "female",
+            "occurences": {
+                "total": 1,
+                "firstNameOnly": 0,
+                "lastNameOnly": 0,
+                "fullName": 1,
+                "nickname": 0
+            },
+            "inTitle": false,
+            "inIntro": false,
+            "_name": {
+                "firstname": "Anahita",
+                "lastname": "Thom",
+                "nickname": null,
+                "alternative_names": [],
+                "academic_title": null,
+                "nobility_title_or_rank": null
+            },
+            "descriptiveTexts": [
+                {
+                    "text": "Wie sich die anhaltende Dominanz von McKinsey erkl\u00e4ren l\u00e4sst und warum vor allem \"die alten wei\u00dfen M\u00e4nner pl\u00f6tzlich wieder wertvoll werden\", lesen Sie hier."
+                },
+                {
+                    "text": "Anahita Thoms, Juristin und Partnerin bei der Kanzlei Baker McKenzie, setzt sich seit Beginn ihrer Karriere f\u00fcr ethische Prinzipien ein."
+                }
+            ],
+            "occupations": [
+                {
+                    "text": "Juristin und Partnerin bei der Kanzlei Baker McKenzie"
+                }
+            ],
+            "directQuotes": [],
+            "quotedInTitle": false,
+            "quotedInIntro": false
+        },
+        {
+            "name": "Anna Driftschr\u00f6er",
+            "alternativeNames": [],
+            "age": -1,
+            "sex": "female",
+            "occurences": {
+                "total": 1,
+                "firstNameOnly": 0,
+                "lastNameOnly": 0,
+                "fullName": 1,
+                "nickname": 0
+            },
+            "inTitle": false,
+            "inIntro": false,
+            "_name": {
+                "firstname": "Anna",
+                "lastname": "Driftschr\u00f6er",
+                "nickname": null,
+                "alternative_names": [],
+                "academic_title": null,
+                "nobility_title_or_rank": null
+            },
+            "descriptiveTexts": [
+                {
+                    "text": "F\u00fcr die Mediengruppe MFE gibt es bereits Interessenten, schreibt meine Kollegin Anna Driftschr\u00f6er."
+                }
+            ],
+            "occupations": [],
+            "directQuotes": [
+                {
+                    "text": "Schwarzbuch McKinsey"
+                }
+            ],
+            "quotedInTitle": false,
+            "quotedInIntro": false
+        },
+        {
+            "name": "Dietmar Student",
+            "alternativeNames": [],
+            "age": -1,
+            "sex": "male",
+            "occurences": {
+                "total": 2,
+                "firstNameOnly": 1,
+                "lastNameOnly": 0,
+                "fullName": 1,
+                "nickname": 0
+            },
+            "inTitle": false,
+            "inIntro": false,
+            "_name": {
+                "firstname": "Dietmar",
+                "lastname": "Student",
+                "nickname": null,
+                "alternative_names": [],
+                "academic_title": null,
+                "nobility_title_or_rank": null
+            },
+            "descriptiveTexts": [
+                {
+                    "text": "Nach Berechnungen des Bonner Wirtschaftsprofessors Dietmar Fink und Branchenexpertin Bianka Knoblach wird es auch in diesem Jahr weiter aufw\u00e4rtsgehen \u2013 mit einem Wachstumsplus von 11 Prozent."
+                },
+                {
+                    "text": "\"Aus dem Ausland h\u00f6re ich schon, dass die vergangenen Skandale Auswirkungen haben\", so Fink im Gespr\u00e4ch mit meinem Kollegen Dietmar Student."
+                }
+            ],
+            "occupations": [
+                {
+                    "text": "Wirtschaftsprofessor"
+                },
+                {
+                    "text": "Journalist"
+                }
+            ],
+            "directQuotes": [],
+            "quotedInTitle": false,
+            "quotedInIntro": false
+        },
+        {
+            "name": "Bianka Knoblach",
+            "alternativeNames": [],
+            "age": -1,
+            "sex": "female",
+            "occurences": {
+                "total": 2,
+                "firstNameOnly": 0,
+                "lastNameOnly": 1,
+                "fullName": 1,
+                "nickname": 0
+            },
+            "inTitle": false,
+            "inIntro": false,
+            "_name": {
+                "firstname": "Bianka",
+                "lastname": "Knoblach",
+                "nickname": null,
+                "alternative_names": [],
+                "academic_title": null,
+                "nobility_title_or_rank": null
+            },
+            "descriptiveTexts": [
+                {
+                    "text": "Nach Berechnungen des Bonner Wirtschaftsprofessors Dietmar Fink und Branchenexpertin Bianka Knoblach wird es auch in diesem Jahr weiter aufw\u00e4rtsgehen \u2013 mit einem Wachstumsplus von 11 Prozent."
+                },
+                {
+                    "text": "Selbst Skandale scheinen da zur Nebensache zu werden: Obwohl zwei Journalisten der \"New York Times\" im vergangenen Jahr mit dem \"Schwarzbuch McKinsey\" (Orginaltitel: \"When McKinsey Comes to Town\") eine Skandalchronik der Topberater ver\u00f6ffentlichten, lag Marktf\u00fchrer McKinsey in der Studie von Fink und Knoblach ausgerechnet bei der Kundenzufriedenheit vorn."
+                }
+            ],
+            "occupations": [
+                {
+                    "text": "Branchenexpertin"
+                }
+            ],
+            "directQuotes": [
+                {
+                    "text": "die alten wei\u00dfen M\u00e4nner pl\u00f6tzlich wieder wertvoll werden"
+                }
+            ],
+            "quotedInTitle": false,
+            "quotedInIntro": false
+        },
+        {
+            "name": "Silvio Berlusconi",
+            "alternativeNames": [],
+            "age": -1,
+            "sex": "male",
+            "occurences": {
+                "total": 3,
+                "firstNameOnly": 0,
+                "lastNameOnly": 2,
+                "fullName": 1,
+                "nickname": 0
+            },
+            "inTitle": false,
+            "inIntro": true,
+            "_name": {
+                "firstname": "Silvio",
+                "lastname": "Berlusconi",
+                "nickname": null,
+                "alternative_names": [],
+                "academic_title": null,
+                "nobility_title_or_rank": null
+            },
+            "descriptiveTexts": [
+                {
+                    "text": "Heute mit der anhaltenden Dominanz einer fr\u00fcheren Skandalfirma, der Zukunft des milliardenschweren Berlusconi-Imperiums sowie den Abf\u00e4llen der Dax-Konzerne."
+                },
+                {
+                    "text": "Zukunft eines Milliardenimperiums: Gestern verstarb Silvio Berlusconi im Alter von 86 Jahren in Mailand."
+                },
+                {
+                    "text": "Denn vor seiner Karriere in der Politik hatte Berlusconi mit dem Aufbau des gr\u00f6\u00dften Fernsehimperiums Italiens begonnen."
+                }
+            ],
+            "occupations": [],
+            "directQuotes": [],
+            "quotedInTitle": false,
+            "quotedInIntro": true
+        },
+        {
+            "name": "Christina Kyriasoglou",
+            "alternativeNames": [],
+            "age": -1,
+            "sex": "female",
+            "occurences": {
+                "total": 1,
+                "firstNameOnly": 0,
+                "lastNameOnly": 0,
+                "fullName": 1,
+                "nickname": 0
+            },
+            "inTitle": false,
+            "inIntro": false,
+            "_name": {
+                "firstname": "Christina",
+                "lastname": "Kyriasoglou",
+                "nickname": null,
+                "alternative_names": [],
+                "academic_title": null,
+                "nobility_title_or_rank": null
+            },
+            "descriptiveTexts": [
+                {
+                    "text": "Fest in M\u00e4nnerhand: Ein Report meiner Kollegin Christina Kyriasoglou zeigte bereits die Diskriminierung von Frauen in Deutschlands Digital- und Start-up-Szene."
+                }
+            ],
+            "occupations": [],
+            "directQuotes": [],
+            "quotedInTitle": false,
+            "quotedInIntro": false
+        },
+        {
+            "name": "Dietmar Fink",
+            "alternativeNames": [],
+            "age": -1,
+            "sex": "male",
+            "occurences": {
+                "total": 4,
+                "firstNameOnly": 1,
+                "lastNameOnly": 2,
+                "fullName": 1,
+                "nickname": 0
+            },
+            "inTitle": false,
+            "inIntro": false,
+            "_name": {
+                "firstname": "Dietmar",
+                "lastname": "Fink",
+                "nickname": null,
+                "alternative_names": [],
+                "academic_title": null,
+                "nobility_title_or_rank": null
+            },
+            "descriptiveTexts": [
+                {
+                    "text": "Nach Berechnungen des Bonner Wirtschaftsprofessors Dietmar Fink und Branchenexpertin Bianka Knoblach wird es auch in diesem Jahr weiter aufw\u00e4rtsgehen \u2013 mit einem Wachstumsplus von 11 Prozent."
+                },
+                {
+                    "text": "Selbst Skandale scheinen da zur Nebensache zu werden: Obwohl zwei Journalisten der \"New York Times\" im vergangenen Jahr mit dem \"Schwarzbuch McKinsey\" (Orginaltitel: \"When McKinsey Comes to Town\") eine Skandalchronik der Topberater ver\u00f6ffentlichten, lag Marktf\u00fchrer McKinsey in der Studie von Fink und Knoblach ausgerechnet bei der Kundenzufriedenheit vorn."
+                },
+                {
+                    "text": "\"Aus dem Ausland h\u00f6re ich schon, dass die vergangenen Skandale Auswirkungen haben\", so Fink im Gespr\u00e4ch mit meinem Kollegen Dietmar Student."
+                }
+            ],
+            "occupations": [
+                {
+                    "text": "Wirtschaftsprofessor"
+                },
+                {
+                    "text": "Branchenexpert"
+                }
+            ],
+            "directQuotes": [
+                {
+                    "text": "Aber in Deutschland scheint die Marke unkaputtbar."
+                }
+            ],
+            "quotedInTitle": false,
+            "quotedInIntro": false
+        },
+        {
+            "name": "Hannah Steinharter",
+            "alternativeNames": [],
+            "age": -1,
+            "sex": "female",
+            "occurences": {
+                "total": 1,
+                "firstNameOnly": 0,
+                "lastNameOnly": 0,
+                "fullName": 1,
+                "nickname": 0
+            },
+            "inTitle": false,
+            "inIntro": false,
+            "_name": {
+                "firstname": "Hannah",
+                "lastname": "Steinharter",
+                "nickname": null,
+                "alternative_names": [],
+                "academic_title": null,
+                "nobility_title_or_rank": null
+            },
+            "descriptiveTexts": [
+                {
+                    "text": "Viele Gr\u00fc\u00dfe, Ihre Hannah Steinharter"
+                }
+            ],
+            "occupations": [],
+            "directQuotes": [],
+            "quotedInTitle": false,
+            "quotedInIntro": false
+        },
+        {
+            "name": "Rupert Stadler",
+            "alternativeNames": [],
+            "age": -1,
+            "sex": "male",
+            "occurences": {
+                "total": 1,
+                "firstNameOnly": 0,
+                "lastNameOnly": 0,
+                "fullName": 1,
+                "nickname": 0
+            },
+            "inTitle": false,
+            "inIntro": false,
+            "_name": {
+                "firstname": "Rupert",
+                "lastname": "Stadler",
+                "nickname": null,
+                "alternative_names": [],
+                "academic_title": null,
+                "nobility_title_or_rank": null
+            },
+            "descriptiveTexts": [
+                {
+                    "text": "Folgen eines Millionenschadens: Die Staatsanwaltschaft ist sich sicher, dass der fr\u00fchere Audi-Chef Rupert Stadler im Dieselskandal lediglich f\u00fcr einen Schaden von 69 Millionen Euro verantwortlich ist."
+                }
+            ],
+            "occupations": [],
+            "directQuotes": [],
+            "quotedInTitle": false,
+            "quotedInIntro": false
+        },
+        {
+            "name": "Naila Lina Baldwin",
+            "alternativeNames": [],
+            "age": -1,
+            "sex": "female",
+            "occurences": {
+                "total": 1,
+                "firstNameOnly": 0,
+                "lastNameOnly": 0,
+                "fullName": 1,
+                "nickname": 0
+            },
+            "inTitle": false,
+            "inIntro": false,
+            "_name": {
+                "firstname": "Naila Lina",
+                "lastname": "Baldwin",
+                "nickname": null,
+                "alternative_names": [],
+                "academic_title": null,
+                "nobility_title_or_rank": null
+            },
+            "descriptiveTexts": [
+                {
+                    "text": "Was mit diesen Abf\u00e4llen geschieht und wie hoch die durchschnittliche Recyclingquote der Konzerne ist, schreibt meine Kollegin Naila Lina Baldwin."
+                }
+            ],
+            "occupations": [],
+            "directQuotes": [],
+            "quotedInTitle": false,
+            "quotedInIntro": false
+        }
+    ]
+}

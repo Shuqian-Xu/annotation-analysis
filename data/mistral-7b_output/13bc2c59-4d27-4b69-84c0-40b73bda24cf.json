@@ -1,0 +1,277 @@
+{
+    "persons": [
+        {
+            "name": "J\u00fcrgen Klopp",
+            "alternativeNames": [],
+            "age": -1,
+            "sex": "male",
+            "occurences": {
+                "total": 1,
+                "firstNameOnly": 0,
+                "lastNameOnly": 0,
+                "fullName": 1,
+                "nickname": 0
+            },
+            "inTitle": false,
+            "inIntro": false,
+            "_name": {
+                "firstname": "J\u00fcrgen",
+                "lastname": "Klopp",
+                "nickname": null,
+                "alternative_names": [],
+                "academic_title": null,
+                "nobility_title_or_rank": null
+            },
+            "descriptiveTexts": [
+                {
+                    "text": "Mit wem w\u00fcrden Sie gern einmal Ihren Kalender tauschen?"
+                },
+                {
+                    "text": "Mit J\u00fcrgen Klopp."
+                },
+                {
+                    "text": "F\u00fcr mich ist er mehr als ein Trainer, sondern ein sehr kluger Manager."
+                },
+                {
+                    "text": "Er ist in der Lage, sein Team unglaublich zu motivieren und starke Leistungen herauszukitzeln."
+                },
+                {
+                    "text": "Ich frage mich, wie viel Zeit nimmt die Theoriearbeit ein, wie viel das Praxistraining, wie viele Pausen sind wichtig."
+                }
+            ],
+            "occupations": [],
+            "directQuotes": [],
+            "quotedInTitle": false,
+            "quotedInIntro": false
+        },
+        {
+            "name": "Client",
+            "alternativeNames": [],
+            "age": -1,
+            "sex": "unknown",
+            "occurences": {
+                "total": 1,
+                "firstNameOnly": 0,
+                "lastNameOnly": 0,
+                "fullName": 1,
+                "nickname": 0
+            },
+            "inTitle": false,
+            "inIntro": false,
+            "_name": {
+                "firstname": null,
+                "lastname": null,
+                "nickname": null,
+                "alternative_names": [],
+                "academic_title": null,
+                "nobility_title_or_rank": null
+            },
+            "descriptiveTexts": [
+                {
+                    "text": "Aber wie hei\u00dft es so sch\u00f6n: Client is King \u2013 wenn Sie mich brauchen, bin ich da."
+                }
+            ],
+            "occupations": [
+                {
+                    "text": "Partnerin bei der Kanzlei Baker McKenzie"
+                },
+                {
+                    "text": "Mentorin"
+                }
+            ],
+            "directQuotes": [],
+            "quotedInTitle": false,
+            "quotedInIntro": false
+        },
+        {
+            "name": "Anahita Thom",
+            "alternativeNames": [],
+            "age": -1,
+            "sex": "female",
+            "occurences": {
+                "total": 3,
+                "firstNameOnly": 0,
+                "lastNameOnly": 0,
+                "fullName": 3,
+                "nickname": 0
+            },
+            "inTitle": true,
+            "inIntro": true,
+            "_name": {
+                "firstname": "Anahita",
+                "lastname": "Thom",
+                "nickname": null,
+                "alternative_names": [],
+                "academic_title": null,
+                "nobility_title_or_rank": null
+            },
+            "descriptiveTexts": [
+                {
+                    "text": "Die Effizienz-Hacks der Topanw\u00e4ltin Anahita Thoms"
+                },
+                {
+                    "text": "Anahita Thoms ist Partnerin bei der Kanzlei Baker McKenzie und Linkedin-Star."
+                },
+                {
+                    "text": "Sie verzichtet auf B\u00fccherlesen und Tennisspielen, um \"\u00fcber meinen Job hinaus etwas zu bewegen\"."
+                },
+                {
+                    "text": "Hier verr\u00e4t sie, wie sie ihre Termine koordiniert."
+                },
+                {
+                    "text": "manager magazin: Sie \u00fcbernehmen neben Ihrer Arbeit in der Kanzlei noch zahlreiche Ehren\u00e4mter, unter anderem als Mentorin."
+                },
+                {
+                    "text": "Anahita Thoms: Ein Schl\u00fcssel ist effizientes Arbeiten."
+                },
+                {
+                    "text": "In meiner Zeit als Rechtsanw\u00e4ltin in New York habe ich mir das bei einem Partner in der Kanzlei abgeschaut: Alle Mails, die sich in unter drei Minuten beantworten lassen, beantworte ich meist sofort."
+                },
+                {
+                    "text": "Ich checke mein Postfach mehrmals t\u00e4glich, und immer direkt nach jedem Termin."
+                },
+                {
+                    "text": "Um sie abzuarbeiten, blocke ich mir Zeit in meinem Kalender, setze mich in einen Konferenzraum, mache die T\u00fcr zu, lege mein Handy beiseite und konzentriere mich."
+                },
+                {
+                    "text": "Wenn ich Tee trinke, halte ich f\u00fcr einen Moment inne, das tut mir gut."
+                },
+                {
+                    "text": "Ich bereite schon abends die Snackboxen f\u00fcr meine Kinder vor, wir legen auch gemeinsam die Anziehsachen f\u00fcr den n\u00e4chsten Tag raus."
+                },
+                {
+                    "text": "Ich f\u00fchre Interviews mit Zeuginnen und Zeugen, erarbeite mir neue Sachverhalte."
+                },
+                {
+                    "text": "Aber wie hei\u00dft es so sch\u00f6n: Client is King \u2013 wenn Sie mich brauchen, bin ich da."
+                },
+                {
+                    "text": "Es gibt auch Tage, an denen ich stundenlang am Schreibtisch sitze und Gutachten schreibe."
+                },
+                {
+                    "text": "Ja, ich trage alles minuti\u00f6s ein, auch die Zugfahrten und wie lange ich mit dem Taxi oder zu Fu\u00df zum Hotel brauche."
+                },
+                {
+                    "text": "So bin ich nicht gestresst, wenn ein Zug Versp\u00e4tung hat."
+                },
+                {
+                    "text": "Meine Assistentin organisiert das, mit ihr tausche ich mich mehrmals t\u00e4glich aus."
+                },
+                {
+                    "text": "Wozu nutzen Sie die Zugfahrten?"
+                },
+                {
+                    "text": "Meist nutze ich die Zeit, um Gutachten oder Fachartikel zu lesen."
+                },
+                {
+                    "text": "Wie organisieren Sie Ihre To-dos?"
+                },
+                {
+                    "text": "Ich habe eine simple Liste, genauso wie alle in meinem Team."
+                },
+                {
+                    "text": "Ich lese sie und verschiebe gegebenenfalls noch einmal die Priorit\u00e4ten."
+                },
+                {
+                    "text": "Diesen Samstag leider nicht, da ich von der BMW-Stiftung zu einer sehr spannenden Veranstaltung eingeladen war, aber eigentlich ist der Samstag f\u00fcr die Familie reserviert \u2013 f\u00fcr gemeinsame Ausfl\u00fcge oder auch simple Erledigungen."
+                },
+                {
+                    "text": "Sonntags arbeite ich manchmal zwei, drei Stunden, um die Termine der kommenden Woche vorzubereiten."
+                },
+                {
+                    "text": "Auch f\u00fcr meine Mentees nehme ich mir meist am Wochenende Zeit."
+                },
+                {
+                    "text": "Wenn jemand meinen Rat ben\u00f6tigt, m\u00f6chte ich mich auch auf die Person konzentrieren."
+                },
+                {
+                    "text": "Sie sind auf LinkedIn sehr aktiv, wann schaffen Sie das noch?"
+                },
+                {
+                    "text": "Es ist nichts, wof\u00fcr ich mir eigens Zeit blocke."
+                },
+                {
+                    "text": "Immer wenn mir ein Gedanke kommt, mache ich mir schnell schon mal eine Notiz auf meinem Handy, mit dem ich sowieso viel arbeite."
+                },
+                {
+                    "text": "Fr\u00fcher habe ich zwei, drei B\u00fccher im Monat gelesen."
+                },
+                {
+                    "text": "Aber ich verzichte gern auf manches, denn ich m\u00f6chte \u00fcber meinen Job hinaus etwas bewegen, etwas zur\u00fcckgeben, indem ich Synergien schaffe, meine Netzwerke teile und junge Menschen voranbringe."
+                },
+                {
+                    "text": "Sie betreuen Mentees im Alter der Gen Z, die also zwischen 1995 und 2010 geboren wurden."
+                },
+                {
+                    "text": "Zun\u00e4chst einmal glaube ich, dass es nicht DIE Generation Z gibt."
+                },
+                {
+                    "text": "Ich habe mich schon sehr fr\u00fch f\u00fcr mobiles Arbeiten eingesetzt \u2013 in einer Branche, die damals noch sehr konservativ arbeitete."
+                },
+                {
+                    "text": "Wie \u00e4u\u00dfert es sich, wenn auch Sie mal Ihr Limit erreicht haben?"
+                },
+                {
+                    "text": "Wenn ich merke, meine Konzentration l\u00e4sst nach, kommuniziere ich genau das."
+                },
+                {
+                    "text": "Ich sage, ich brauche mal frische Luft und hole mir beim B\u00e4cker ein Sandwich."
+                },
+                {
+                    "text": "Genau das w\u00fcnsche ich mir auch von meinem Team."
+                }
+            ],
+            "occupations": [
+                {
+                    "text": "Partnerin bei der Kanzlei Baker McKenzie"
+                },
+                {
+                    "text": "Mentorin"
+                }
+            ],
+            "directQuotes": [
+                {
+                    "text": "\u00fcber meinen Job hinaus etwas zu bewegen"
+                }
+            ],
+            "quotedInTitle": true,
+            "quotedInIntro": true
+        },
+        {
+            "name": "Baker McKenzie",
+            "alternativeNames": [],
+            "age": -1,
+            "sex": "unknown",
+            "occurences": {
+                "total": 1,
+                "firstNameOnly": 0,
+                "lastNameOnly": 0,
+                "fullName": 1,
+                "nickname": 0
+            },
+            "inTitle": false,
+            "inIntro": true,
+            "_name": {
+                "firstname": null,
+                "lastname": "Baker McKenzie",
+                "nickname": null,
+                "alternative_names": [],
+                "academic_title": null,
+                "nobility_title_or_rank": null
+            },
+            "descriptiveTexts": [
+                {
+                    "text": "Anahita Thoms ist Partnerin bei der Kanzlei Baker McKenzie und Linkedin-Star."
+                }
+            ],
+            "occupations": [
+                {
+                    "text": "Partnerin bei der Kanzlei Baker McKenzie"
+                }
+            ],
+            "directQuotes": [],
+            "quotedInTitle": false,
+            "quotedInIntro": true
+        }
+    ]
+}

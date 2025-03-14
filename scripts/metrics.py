@@ -49,9 +49,15 @@ def numeric_similarity(human_value, llm_value):
     if human_value == llm_value == 0:
         return 1
 
+    # Ensure no division by zero
+    max_value = max(human_value, llm_value)
+    if max_value == 0:
+        return 0  # If the maximum value is 0, similarity is undefined; return 0.
+
     # Compute numeric similarity and round to 3 decimal places
-    similarity = 1 - abs(human_value - llm_value) / max(human_value, llm_value)
+    similarity = 1 - abs(human_value - llm_value) / max_value
     return round(similarity, 3)
+
 
 def jaccard_similarity(human_list, llm_list):
     """

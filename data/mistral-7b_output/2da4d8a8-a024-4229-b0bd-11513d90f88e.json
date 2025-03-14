@@ -1,0 +1,720 @@
+{
+    "persons": [
+        {
+            "name": "Jessica Rosenthal",
+            "alternativeNames": [],
+            "age": -1,
+            "sex": "female",
+            "occurences": {
+                "total": 1,
+                "firstNameOnly": 0,
+                "lastNameOnly": 0,
+                "fullName": 1,
+                "nickname": 0
+            },
+            "inTitle": false,
+            "inIntro": false,
+            "_name": {
+                "firstname": "Jessica",
+                "lastname": "Rosenthal",
+                "nickname": null,
+                "alternative_names": [],
+                "academic_title": null,
+                "nobility_title_or_rank": null
+            },
+            "descriptiveTexts": [
+                {
+                    "text": "Es war der Fluch des Erfolgs, gleich 49 Sozialdemokraten im Juso-Alter hatten es ins Parlament geschafft, darunter Jessica Rosenthal, T\u00fcrmers Vorg\u00e4ngerin."
+                },
+                {
+                    "text": "Sie steckte in der Zwickm\u00fchle, musste den Kanzler st\u00fctzen, sich der Fraktionsdisziplin beugen."
+                }
+            ],
+            "occupations": [],
+            "directQuotes": [],
+            "quotedInTitle": false,
+            "quotedInIntro": false
+        },
+        {
+            "name": "Andrea Nahle oder Andrea Nahles",
+            "alternativeNames": [],
+            "age": -1,
+            "sex": "female",
+            "occurences": {
+                "total": 1,
+                "firstNameOnly": 0,
+                "lastNameOnly": 0,
+                "fullName": 1,
+                "nickname": 0
+            },
+            "inTitle": false,
+            "inIntro": false,
+            "_name": {
+                "firstname": "Andrea",
+                "lastname": "Nahle",
+                "nickname": null,
+                "alternative_names": [],
+                "academic_title": null,
+                "nobility_title_or_rank": null
+            },
+            "descriptiveTexts": [
+                {
+                    "text": "Nach der verlorenen Wahl 2017 stieg er zum Gesicht der No-GroKo-Bewegung auf, zum Gegenspieler der Parteispitze um Andrea Nahles und Olaf Scholz, die eine weitere Gro\u00dfe Koalition wollten."
+                }
+            ],
+            "occupations": [],
+            "directQuotes": [],
+            "quotedInTitle": false,
+            "quotedInIntro": false
+        },
+        {
+            "name": "Friedrich Merz",
+            "alternativeNames": [],
+            "age": -1,
+            "sex": "male",
+            "occurences": {
+                "total": 1,
+                "firstNameOnly": 0,
+                "lastNameOnly": 0,
+                "fullName": 1,
+                "nickname": 0
+            },
+            "inTitle": false,
+            "inIntro": false,
+            "_name": {
+                "firstname": "Friedrich",
+                "lastname": "Merz",
+                "nickname": null,
+                "alternative_names": [],
+                "academic_title": null,
+                "nobility_title_or_rank": null
+            },
+            "descriptiveTexts": [
+                {
+                    "text": "Dass Scholz zuletzt k\u00e4mpferischer auftrat und im Bundestag etwa CDU-Chef Friedrich Merz offen angriff, schreibt T\u00fcrmer auch dem Druck der Jusos zu."
+                },
+                {
+                    "text": "\u00bbDie FDP muss sich die Frage stellen, ob sie grunds\u00e4tzlich noch eine regierungsf\u00e4hige Partei ist.\u00ab"
+                }
+            ],
+            "occupations": [],
+            "directQuotes": [],
+            "quotedInTitle": false,
+            "quotedInIntro": false
+        },
+        {
+            "name": "Sarah Mohamed",
+            "alternativeNames": [],
+            "age": -1,
+            "sex": "female",
+            "occurences": {
+                "total": 1,
+                "firstNameOnly": 0,
+                "lastNameOnly": 0,
+                "fullName": 1,
+                "nickname": 0
+            },
+            "inTitle": false,
+            "inIntro": false,
+            "_name": {
+                "firstname": "Sarah",
+                "lastname": "Mohamed",
+                "nickname": null,
+                "alternative_names": [],
+                "academic_title": null,
+                "nobility_title_or_rank": null
+            },
+            "descriptiveTexts": [
+                {
+                    "text": "Beim Bundeskongress in Braunschweig kandidierte neben T\u00fcrmer auch Sarah Mohamed, eine schwarze Frau aus Bonn."
+                },
+                {
+                    "text": "Viele Jusos bedauern, dass sie sich nicht durchsetzen konnte."
+                },
+                {
+                    "text": "T\u00fcrmer dagegen bleibe hinter den Erwartungen zur\u00fcck, kritisiert sie."
+                }
+            ],
+            "occupations": [],
+            "directQuotes": [],
+            "quotedInTitle": false,
+            "quotedInIntro": false
+        },
+        {
+            "name": "Philipp T\u00fcrmer",
+            "alternativeNames": [],
+            "age": -1,
+            "sex": "male",
+            "occurences": {
+                "total": 37,
+                "firstNameOnly": 1,
+                "lastNameOnly": 33,
+                "fullName": 3,
+                "nickname": 0
+            },
+            "inTitle": false,
+            "inIntro": true,
+            "_name": {
+                "firstname": "Philipp",
+                "lastname": "T\u00fcrmer",
+                "nickname": null,
+                "alternative_names": [],
+                "academic_title": null,
+                "nobility_title_or_rank": null
+            },
+            "descriptiveTexts": [
+                {
+                    "text": "Er ist der h\u00e4rteste Kritiker von Olaf Scholz in der SPD: Nicht nur darin erinnert Philipp T\u00fcrmer an Kevin K\u00fchnert."
+                },
+                {
+                    "text": "Eine Palette mit Kartoffeln ist umgefallen, es fehlen die Karten f\u00fcr die Kundenausweise, die Philipp T\u00fcrmer verl\u00e4ngern wollte."
+                },
+                {
+                    "text": "T\u00fcrmer scheint das Chaos nicht zu st\u00f6ren."
+                },
+                {
+                    "text": "Er improvisiert, klaubt die Kartoffeln zusammen, schneidet Karteikarten zu provisorischen Ausweisen zurecht und organisiert die Verteilung der Lebensmittel."
+                },
+                {
+                    "text": "Er ist unzufrieden mit einem Onlineposting zum EU-Lieferkettengesetz."
+                },
+                {
+                    "text": "\u00bbWir brauchen da mehr als eine Punchline gegen den Blockierer Buschmann\u00ab, sagt er einer Mitarbeiterin."
+                },
+                {
+                    "text": "Der Beitrag zum Lieferkettengesetz m\u00fcsse auch erkl\u00e4ren, worum es eigentlich gehe, findet T\u00fcrmer."
+                },
+                {
+                    "text": "Die Organisation der Tafel und die Kritik an der Ampel, beides scheint T\u00fcrmer leicht von der Hand zu gehen."
+                },
+                {
+                    "text": "Er scheut sich nicht, die eigenen Genossen scharf zu kritisieren."
+                },
+                {
+                    "text": "Direkt nach seiner Wahl im November stellte er die Ampelkoalition infrage."
+                },
+                {
+                    "text": "Und beim SPD-Parteitag im Dezember rief er dem Kanzler zu: \u00bbOlaf, du hast mal gesagt: Wer F\u00fchrung bestellt, soll sie bekommen. Hiermit bestelle ich sie.\u00ab"
+                },
+                {
+                    "text": "Innerhalb weniger Wochen ist T\u00fcrmer in der SPD zum h\u00e4rtesten Kritiker von Olaf Scholz aufgestiegen."
+                },
+                {
+                    "text": "Obwohl er den Jugendverband der SPD mit seinen rund 70.000 Mitgliedern erst seit drei Monaten f\u00fchrt, sehen ihn manche als den n\u00e4chsten Kevin K\u00fchnert."
+                },
+                {
+                    "text": "Er formte den Verband zu einem Machtfaktor, den die Parteispitze nicht mehr ignorieren konnte."
+                },
+                {
+                    "text": "Es war der Fluch des Erfolgs, gleich 49 Sozialdemokraten im Juso-Alter hatten es ins Parlament geschafft, darunter Jessica Rosenthal, T\u00fcrmers Vorg\u00e4ngerin."
+                },
+                {
+                    "text": "T\u00fcrmer m\u00f6chte das \u00e4ndern."
+                },
+                {
+                    "text": "Er will den Verband wieder zu einem echten Machtfaktor machen, der die SPD unter Druck setzen kann."
+                },
+                {
+                    "text": "In puncto Ehrgeiz und Sendungsbewusstsein scheint er K\u00fchnert ebenb\u00fcrtig zu sein."
+                },
+                {
+                    "text": "Wie weit kann er es bringen?"
+                },
+                {
+                    "text": "Steht er ebenfalls vor einer Blitzkarriere?"
+                },
+                {
+                    "text": "Kann er seine Partei in einer \u00e4hnlichen Weise treiben?"
+                },
+                {
+                    "text": "Am Abend vor seinem Einsatz bei der Tafel sitzt T\u00fcrmer in einem griechischen Restaurant in Offenbach."
+                },
+                {
+                    "text": "Zwei Stunden spricht er \u00fcber Olaf Scholz, die Ampel und dar\u00fcber, was ihn antreibt."
+                },
+                {
+                    "text": "Seit zw\u00f6lf Jahren ist T\u00fcrmer in der SPD, 2017 wurde er Vizechef der Jusos."
+                },
+                {
+                    "text": "K\u00fchnert ist in Berlin aufgewachsen, T\u00fcrmer in der s\u00fcdhessischen Provinz."
+                },
+                {
+                    "text": "K\u00fchnert hat sein Studium nie abgeschlossen, T\u00fcrmer absolvierte das erste juristische Staatsexamen."
+                },
+                {
+                    "text": "Auch das Zweite will er machen."
+                },
+                {
+                    "text": "In guten Wochen arbeite er 40 Stunden, meist seien es eher 60."
+                },
+                {
+                    "text": "Vor Kurzem habe er sich ein Diensthandy geholt, trennen k\u00f6nne er Privates und Politik aber kaum."
+                },
+                {
+                    "text": "\u00bbPolitik macht mir einfach Spa\u00df\u00ab, sagt T\u00fcrmer."
+                },
+                {
+                    "text": "Dass Scholz zuletzt k\u00e4mpferischer auftrat und im Bundestag etwa CDU-Chef Friedrich Merz offen angriff, schreibt T\u00fcrmer auch dem Druck der Jusos zu."
+                },
+                {
+                    "text": "Er sei froh, dass \u00bbder Verband wieder st\u00e4rker auf dem Platz ist\u00ab."
+                },
+                {
+                    "text": "T\u00fcrmer glaubt, dass es in der SPD nicht ruhig sein darf, wenn sie in Umfragen bei 15 Prozent steht und in Sachsen und Th\u00fcringen Gefahr l\u00e4uft, aus dem Parlament zu fliegen."
+                },
+                {
+                    "text": "K\u00fchnert sagt, er habe es leichter gehabt als T\u00fcrmer heute."
+                },
+                {
+                    "text": "Beim Bundeskongress in Braunschweig kandidierte neben T\u00fcrmer auch Sarah Mohamed, eine schwarze Frau aus Bonn."
+                },
+                {
+                    "text": "T\u00fcrmer dagegen bleibe hinter den Erwartungen zur\u00fcck, kritisiert sie."
+                },
+                {
+                    "text": "T\u00fcrmer sei \u00fcberheblich und zugleich zu vorsichtig, ein Karrierist, der unbedingt in den Bundestag wolle."
+                },
+                {
+                    "text": "\u00bbManche sagen sogar, ich sei eher ein rechter Juso\u00ab, sagt er und grinst."
+                },
+                {
+                    "text": "\u00bbDas stimmt nat\u00fcrlich nicht. Ich habe so einige Sozialismusseminare gegeben und sie auch zutiefst verinnerlicht.\u00ab"
+                },
+                {
+                    "text": "Auch den Vorwurf, er sei ein Karrierist, will er nicht stehen lassen."
+                },
+                {
+                    "text": "\u00bbIch h\u00e4tte mich in Offenbach um ein Bundestagsmandat bewerben k\u00f6nnen, mache das aber nicht.\u00ab"
+                },
+                {
+                    "text": "Er wolle sich auf die Jusos konzentrieren, die Doppelrolle habe sich nicht bew\u00e4hrt \u2013 also einerseits die Positionen der Jusos zu vertreten und andererseits im Parlament Kompromisse zu machen."
+                },
+                {
+                    "text": "\u00bbIch kann mir nicht vorstellen, in diese Fraktionszw\u00e4nge eingebunden zu sein.\u00ab"
+                },
+                {
+                    "text": "\u00bbIm internen Wahlkampf sind enorme Verletzungen entstanden. Philipp kann den Verband nur \u00fcber inhaltliche Arbeit wieder einen.\u00ab"
+                },
+                {
+                    "text": "Beim Bundesparteitag Anfang Dezember erinnerte T\u00fcrmer an den alten, streitlustigen K\u00fchnert."
+                },
+                {
+                    "text": "Direkt nach dessen Rede griff er Scholz frontal an."
+                },
+                {
+                    "text": "Und dann bestellte T\u00fcrmer die \u00bbF\u00fchrung\u00ab beim Kanzler."
+                },
+                {
+                    "text": "Nicht mit allem hatte er Erfolg, aber T\u00fcrmer bewies Courage."
+                },
+                {
+                    "text": "In der Kritik am Kanzler l\u00e4sst er nicht nach"
+                },
+                {
+                    "text": "Mitte Februar kommt T\u00fcrmer auf Kr\u00fccken in ein Caf\u00e9 in Berlin-Mitte."
+                },
+                {
+                    "text": "Er sei umgeknickt beim Protest gegen eine Nazidemo in Dresden, erz\u00e4hlt er und lacht."
+                },
+                {
+                    "text": "Man kann sich fragen, warum T\u00fcrmer so gute Laune hat."
+                },
+                {
+                    "text": "Das Ergebnis k\u00f6nne angesichts der Umfragen niemanden \u00fcberraschen, winkt T\u00fcrmer ab."
+                },
+                {
+                    "text": "Zum ersten Mal scheint bei T\u00fcrmer der Pragmatiker durch, der schlechte Wahlergebnisse sch\u00f6nredet."
+                },
+                {
+                    "text": "In seiner Kritik am Kanzler aber l\u00e4sst T\u00fcrmer nicht nach."
+                },
+                {
+                    "text": "\u00bbScholz versucht sich immer wieder von Positionen der Partei stark zu distanzieren\u00ab, sagt er."
+                },
+                {
+                    "text": "\u00bbIch finde es erstaunlich, dass er sich neben Katarina Barley auf die Plakate f\u00fcr die Europawahl drucken l\u00e4sst.\u00ab"
+                },
+                {
+                    "text": "Wieder spricht T\u00fcrmer \u00fcber das EU-Lieferkettengesetz."
+                },
+                {
+                    "text": "Mit anderen Parteilinken setzt er wenige Tage nach dem Treffen einen Antrag im Parteivorstand durch, der eine Zustimmung der Bundesregierung in Br\u00fcssel fordert."
+                },
+                {
+                    "text": "T\u00fcrmer findet, Scholz m\u00fcsse die FDP auf seinen Kurs zwingen."
+                },
+                {
+                    "text": "Dass dies einen Bruch der Koalition provozieren k\u00f6nnte, st\u00f6rt T\u00fcrmer nicht."
+                },
+                {
+                    "text": "\u00bbMan darf nicht vergessen, dass die SPD die st\u00e4rkste Partei in der Koalition ist. Das muss man auch mal zeigen\u00ab, sagt er."
+                },
+                {
+                    "text": "Um selbst Akzente zu setzen, m\u00fcsse die Schuldenbremse weg und die Steuer auf gro\u00dfe Erbschaften deutlich erh\u00f6ht werden, sagt T\u00fcrmer."
+                },
+                {
+                    "text": "Beides lehnt die FDP strikt ab, T\u00fcrmer ist das egal."
+                },
+                {
+                    "text": "Zweifellos werden T\u00fcrmer Vorw\u00fcrfe, er sei ein Karrierist, k\u00fcnftig h\u00e4ufiger begegnen, besonders aus den eigenen Reihen."
+                },
+                {
+                    "text": "Auch T\u00fcrmers Kritik an Scholz sei weitgehend in Ordnung."
+                },
+                {
+                    "text": "Er meint die Richtlinienkompetenz des Kanzlers gegen\u00fcber den Koalitionspartnern, die T\u00fcrmer einfordert."
+                },
+                {
+                    "text": "\u00bbDie Richtlinienkompetenz steht im Grundgesetz\u00ab, sagt er."
+                },
+                {
+                    "text": "\u00bbSie einzusetzen muss immer m\u00f6glich sein \u2013 gerade jetzt.\u00ab"
+                },
+                {
+                    "text": "Als Qu\u00e4lgeist des Kanzlers scheint Philipp T\u00fcrmer sich ganz wohl zu f\u00fchlen."
+                }
+            ],
+            "occupations": [],
+            "directQuotes": [
+                {
+                    "text": "Haut jedem ordentlich Brot rein"
+                },
+                {
+                    "text": "Wir brauchen da mehr als eine Punchline gegen den Blockierer Buschmann"
+                },
+                {
+                    "text": "Das w\u00fcrde sonst ein Leben lang an mir nagen."
+                },
+                {
+                    "text": "Politik macht mir einfach Spa\u00df"
+                },
+                {
+                    "text": "Direkt nach meiner Wahl haben wir die No-GroKo-Kampagne beschlossen. Mit 100 Prozent Zustimmung."
+                },
+                {
+                    "text": "Das stimmt nat\u00fcrlich nicht. Ich habe so einige Sozialismusseminare gegeben und sie auch zutiefst verinnerlicht."
+                },
+                {
+                    "text": "Ich h\u00e4tte mich in Offenbach um ein Bundestagsmandat bewerben k\u00f6nnen, mache das aber nicht."
+                },
+                {
+                    "text": "Ich kann mir nicht vorstellen, in diese Fraktionszw\u00e4nge eingebunden zu sein."
+                },
+                {
+                    "text": "Im internen Wahlkampf sind enorme Verletzungen entstanden. Philipp kann den Verband nur \u00fcber inhaltliche Arbeit wieder einen."
+                },
+                {
+                    "text": "F\u00fchrung"
+                },
+                {
+                    "text": "Man darf nicht vergessen, dass die SPD die st\u00e4rkste Partei in der Koalition ist. Das muss man auch mal zeigen"
+                },
+                {
+                    "text": "Es ist keine Option mehr, sich von der FDP in allen wesentlichen Fragen blockieren zu lassen."
+                },
+                {
+                    "text": "Ich halte nichts von diesen Forderungen nach einem Machtwort."
+                }
+            ],
+            "quotedInTitle": false,
+            "quotedInIntro": true
+        },
+        {
+            "name": "Kevin K\u00fchnert",
+            "alternativeNames": [],
+            "age": -1,
+            "sex": "male",
+            "occurences": {
+                "total": 17,
+                "firstNameOnly": 0,
+                "lastNameOnly": 14,
+                "fullName": 3,
+                "nickname": 0
+            },
+            "inTitle": true,
+            "inIntro": true,
+            "_name": {
+                "firstname": "Kevin",
+                "lastname": "K\u00fchnert",
+                "nickname": null,
+                "alternative_names": [],
+                "academic_title": null,
+                "nobility_title_or_rank": null
+            },
+            "descriptiveTexts": [
+                {
+                    "text": "Der n\u00e4chste K\u00fchnert"
+                },
+                {
+                    "text": "Er ist der h\u00e4rteste Kritiker von Olaf Scholz in der SPD: Nicht nur darin erinnert Philipp T\u00fcrmer an Kevin K\u00fchnert."
+                },
+                {
+                    "text": "Obwohl er den Jugendverband der SPD mit seinen rund 70.000 Mitgliedern erst seit drei Monaten f\u00fchrt, sehen ihn manche als den n\u00e4chsten Kevin K\u00fchnert."
+                },
+                {
+                    "text": "In puncto Ehrgeiz und Sendungsbewusstsein scheint er K\u00fchnert ebenb\u00fcrtig zu sein."
+                },
+                {
+                    "text": "An der Spitze damals: Kevin K\u00fchnert."
+                },
+                {
+                    "text": "K\u00fchnert ist in Berlin aufgewachsen, T\u00fcrmer in der s\u00fcdhessischen Provinz."
+                },
+                {
+                    "text": "K\u00fchnert hat sein Studium nie abgeschlossen, T\u00fcrmer absolvierte das erste juristische Staatsexamen."
+                },
+                {
+                    "text": "K\u00fchnerts politische Karriere wurde einst befl\u00fcgelt von einer Krise der SPD."
+                },
+                {
+                    "text": "Nach der verlorenen Wahl 2017 stieg er zum Gesicht der No-GroKo-Bewegung auf, zum Gegenspieler der Parteispitze um Andrea Nahles und Olaf Scholz, die eine weitere Gro\u00dfe Koalition wollten."
+                },
+                {
+                    "text": "Auch wenn die Jusos die Auseinandersetzung verloren: K\u00fchnert wurde erst stellvertretender Parteichef, dann Bundestagsabgeordneter und Generalsekret\u00e4r."
+                },
+                {
+                    "text": "2019 waren es vor allem K\u00fchnerts Jusos, die Scholz\u2019 Wahl zum Parteivorsitzenden verhinderten."
+                },
+                {
+                    "text": "K\u00fchnert sagt, er habe es leichter gehabt als T\u00fcrmer heute."
+                },
+                {
+                    "text": "K\u00fchnert nennt die Kritik an seinem Nachfolger unfair."
+                },
+                {
+                    "text": "Beim Bundesparteitag Anfang Dezember erinnerte T\u00fcrmer an den alten, streitlustigen K\u00fchnert."
+                },
+                {
+                    "text": "\u00c4hnlich hatte sich am Wahlabend K\u00fchnert ge\u00e4u\u00dfert."
+                },
+                {
+                    "text": "Die kann K\u00fchnert als Generalsekret\u00e4r kaum noch sein."
+                },
+                {
+                    "text": "\u00bbIch bin froh, dass er das sehr konstruktiv macht. Ich h\u00f6re von Parteifreunden, dass er sich an sie pers\u00f6nlich wendet, bevor er \u00f6ffentlich Kritik \u00fcbt.\u00ab"
+                },
+                {
+                    "text": "Eine Sache st\u00f6rt K\u00fchnert dann doch an seinem Nachfolger."
+                },
+                {
+                    "text": "\u00bbIch halte nichts von diesen Forderungen nach einem Machtwort.\u00ab"
+                },
+                {
+                    "text": "Er meint die Richtlinienkompetenz des Kanzlers gegen\u00fcber den Koalitionspartnern, die T\u00fcrmer einfordert."
+                },
+                {
+                    "text": "\u00bbDas funktioniert in einer Dreierkoalition einfach nicht\u00ab, sagt K\u00fchnert."
+                }
+            ],
+            "occupations": [
+                {
+                    "text": "Generalsekret\u00e4r"
+                },
+                {
+                    "text": "Bundestagsabgeordneter"
+                }
+            ],
+            "directQuotes": [],
+            "quotedInTitle": true,
+            "quotedInIntro": true
+        },
+        {
+            "name": "Hubertus Heil",
+            "alternativeNames": [],
+            "age": -1,
+            "sex": "male",
+            "occurences": {
+                "total": 1,
+                "firstNameOnly": 0,
+                "lastNameOnly": 0,
+                "fullName": 1,
+                "nickname": 0
+            },
+            "inTitle": false,
+            "inIntro": false,
+            "_name": {
+                "firstname": "Hubertus",
+                "lastname": "Heil",
+                "nickname": null,
+                "alternative_names": [],
+                "academic_title": null,
+                "nobility_title_or_rank": null
+            },
+            "descriptiveTexts": [
+                {
+                    "text": "Sein Terminkalender ist voll: Hintergrundgespr\u00e4che mit Journalisten, Treffen mit Arbeitsminister Hubertus Heil, mit den Linken im Parteivorstand, mit der Jungen Arbeitsgemeinschaft b\u00e4uerliche Landwirtschaft."
+                }
+            ],
+            "occupations": [
+                {
+                    "text": "Arbeitsminister"
+                }
+            ],
+            "directQuotes": [],
+            "quotedInTitle": false,
+            "quotedInIntro": false
+        },
+        {
+            "name": "Marco Buschmann",
+            "alternativeNames": [],
+            "age": -1,
+            "sex": "male",
+            "occurences": {
+                "total": 2,
+                "firstNameOnly": 0,
+                "lastNameOnly": 1,
+                "fullName": 1,
+                "nickname": 0
+            },
+            "inTitle": false,
+            "inIntro": false,
+            "_name": {
+                "firstname": "Marco",
+                "lastname": "Buschmann",
+                "nickname": null,
+                "alternative_names": [],
+                "academic_title": null,
+                "nobility_title_or_rank": null
+            },
+            "descriptiveTexts": [
+                {
+                    "text": "\u00bbWir brauchen da mehr als eine Punchline gegen den Blockierer Buschmann\u00ab, sagt er einer Mitarbeiterin."
+                },
+                {
+                    "text": "Er meint FDP-Justizminister Marco Buschmann."
+                }
+            ],
+            "occupations": [],
+            "directQuotes": [],
+            "quotedInTitle": false,
+            "quotedInIntro": false
+        },
+        {
+            "name": "Olaf Scholz",
+            "alternativeNames": [],
+            "age": -1,
+            "sex": "male",
+            "occurences": {
+                "total": 13,
+                "firstNameOnly": 1,
+                "lastNameOnly": 8,
+                "fullName": 4,
+                "nickname": 0
+            },
+            "inTitle": false,
+            "inIntro": true,
+            "_name": {
+                "firstname": "Olaf",
+                "lastname": "Scholz",
+                "nickname": null,
+                "alternative_names": [],
+                "academic_title": null,
+                "nobility_title_or_rank": null
+            },
+            "descriptiveTexts": [
+                {
+                    "text": "Er ist der h\u00e4rteste Kritiker von Olaf Scholz in der SPD: Nicht nur darin erinnert Philipp T\u00fcrmer an Kevin K\u00fchnert."
+                },
+                {
+                    "text": "Und beim SPD-Parteitag im Dezember rief er dem Kanzler zu: \u00bbOlaf, du hast mal gesagt: Wer F\u00fchrung bestellt, soll sie bekommen. Hiermit bestelle ich sie.\u00ab"
+                },
+                {
+                    "text": "Innerhalb weniger Wochen ist T\u00fcrmer in der SPD zum h\u00e4rtesten Kritiker von Olaf Scholz aufgestiegen."
+                },
+                {
+                    "text": "Zwei Stunden spricht er \u00fcber Olaf Scholz, die Ampel und dar\u00fcber, was ihn antreibt."
+                },
+                {
+                    "text": "Dass Scholz zuletzt k\u00e4mpferischer auftrat und im Bundestag etwa CDU-Chef Friedrich Merz offen angriff, schreibt T\u00fcrmer auch dem Druck der Jusos zu."
+                },
+                {
+                    "text": "Nach der verlorenen Wahl 2017 stieg er zum Gesicht der No-GroKo-Bewegung auf, zum Gegenspieler der Parteispitze um Andrea Nahles und Olaf Scholz, die eine weitere Gro\u00dfe Koalition wollten."
+                },
+                {
+                    "text": "2019 waren es vor allem K\u00fchnerts Jusos, die Scholz\u2019 Wahl zum Parteivorsitzenden verhinderten."
+                },
+                {
+                    "text": "Direkt nach dessen Rede griff er Scholz frontal an."
+                },
+                {
+                    "text": "Scholz sei \u00bbChef der Regierung, nicht Paartherapeut von Robert und Christian\u00ab."
+                },
+                {
+                    "text": "\u00bbScholz versucht sich immer wieder von Positionen der Partei stark zu distanzieren\u00ab, sagt er."
+                },
+                {
+                    "text": "\u00bbIch finde es erstaunlich, dass er sich neben Katarina Barley auf die Plakate f\u00fcr die Europawahl drucken l\u00e4sst.\u00ab"
+                },
+                {
+                    "text": "Das bedeute, dass Scholz die Wahl zu einer Abstimmung \u00fcber seinen Kurs mache."
+                },
+                {
+                    "text": "T\u00fcrmer findet, Scholz m\u00fcsse die FDP auf seinen Kurs zwingen."
+                },
+                {
+                    "text": "Auch T\u00fcrmers Kritik an Scholz sei weitgehend in Ordnung."
+                }
+            ],
+            "occupations": [
+                {
+                    "text": "Es geh\u00f6rt dazu, dass die Jusos den Kanzler ermutigen, offensiver sozialdemokratische Positionen zu beziehen"
+                },
+                {
+                    "text": "Ich finde es erstaunlich, dass er sich neben Katarina Barley auf die Plakate f\u00fcr die Europawahl drucken l\u00e4sst"
+                },
+                {
+                    "text": "Das funktioniert in einer Dreierkoalition einfach nicht"
+                }
+            ],
+            "directQuotes": [
+                {
+                    "text": "Olaf, du hast mal gesagt: Wer F\u00fchrung bestellt, soll sie bekommen. Hiermit bestelle ich sie."
+                },
+                {
+                    "text": "Chef der Regierung, nicht Paartherapeut von Robert und Christian"
+                },
+                {
+                    "text": "Scholz versucht sich immer wieder von Positionen der Partei stark zu distanzieren"
+                }
+            ],
+            "quotedInTitle": false,
+            "quotedInIntro": true
+        },
+        {
+            "name": "Katarina Barley",
+            "alternativeNames": [],
+            "age": -1,
+            "sex": "female",
+            "occurences": {
+                "total": 1,
+                "firstNameOnly": 0,
+                "lastNameOnly": 0,
+                "fullName": 1,
+                "nickname": 0
+            },
+            "inTitle": false,
+            "inIntro": false,
+            "_name": {
+                "firstname": "Katarina",
+                "lastname": "Barley",
+                "nickname": null,
+                "alternative_names": [],
+                "academic_title": null,
+                "nobility_title_or_rank": null
+            },
+            "descriptiveTexts": [
+                {
+                    "text": "\u00bbIch finde es erstaunlich, dass er sich neben Katarina Barley auf die Plakate f\u00fcr die Europawahl drucken l\u00e4sst.\u00ab"
+                }
+            ],
+            "occupations": [],
+            "directQuotes": [
+                {
+                    "text": "Eine schwarze Bundesvorsitzende w\u00e4re ein starkes Signal gewesen"
+                }
+            ],
+            "quotedInTitle": false,
+            "quotedInIntro": false
+        }
+    ]
+}

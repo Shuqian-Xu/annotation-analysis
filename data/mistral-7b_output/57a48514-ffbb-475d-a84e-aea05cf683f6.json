@@ -1,0 +1,194 @@
+{
+    "persons": [
+        {
+            "name": "Wolfgang Speck",
+            "alternativeNames": [],
+            "age": -1,
+            "sex": "male",
+            "occurences": {
+                "total": 4,
+                "firstNameOnly": 0,
+                "lastNameOnly": 2,
+                "fullName": 2,
+                "nickname": 0
+            },
+            "inTitle": false,
+            "inIntro": false,
+            "_name": {
+                "firstname": "Wolfgang",
+                "lastname": "Speck",
+                "nickname": null,
+                "alternative_names": [],
+                "academic_title": null,
+                "nobility_title_or_rank": null
+            },
+            "descriptiveTexts": [
+                {
+                    "text": "Und sie spekulieren auf ganz neue Kundengruppen."
+                },
+                {
+                    "text": "Bestes Beispiel: Wolfgang Speck, der CEO von Knaus Tabbert, dem Traditionshersteller aus der niederbayerischen Jandelsbrunn."
+                },
+                {
+                    "text": "\"Wir sind sehr stolz darauf, was wir im vergangenen Jahr erreicht haben\", erkl\u00e4rte Speck mit Juni."
+                },
+                {
+                    "text": "Die B\u00fccher seien mit Auftr\u00e4gen \u00fcber 1,3 Milliarden Euro prall gef\u00fcllt, so Speck."
+                },
+                {
+                    "text": "Beim Rivalen Knaus Tabbert hat CEO Wolfgang Speck ebenfalls erfreuliche Monate hinter sich."
+                }
+            ],
+            "occupations": [
+                {
+                    "text": "CEO von Knaus Tabbert"
+                },
+                {
+                    "text": "Traditionshersteller"
+                }
+            ],
+            "directQuotes": [
+                {
+                    "text": "Wir sind sehr stolz darauf, was wir im vergangenen Jahr erreicht haben"
+                }
+            ],
+            "quotedInTitle": false,
+            "quotedInIntro": false
+        },
+        {
+            "name": "Caravaning",
+            "alternativeNames": [],
+            "age": -1,
+            "sex": "unknown",
+            "occurences": {
+                "total": 4,
+                "firstNameOnly": 0,
+                "lastNameOnly": 0,
+                "fullName": 4,
+                "nickname": 0
+            },
+            "inTitle": false,
+            "inIntro": false,
+            "_name": {
+                "firstname": null,
+                "lastname": null,
+                "nickname": null,
+                "alternative_names": [],
+                "academic_title": null,
+                "nobility_title_or_rank": null
+            },
+            "descriptiveTexts": [
+                {
+                    "text": "Der ganz gro\u00dfe Boom aus der Corona-Zeit mag vorbei sein, aber der Optimismus der Caravaning-Branche ist ungebrochen."
+                },
+                {
+                    "text": "F\u00fcr 2022 bezifferte der Caravaning Industrie Verband (CIVD) den Jahresumsatz f\u00fcr die gesamte Branche auf rund 33 Milliarden Euro."
+                },
+                {
+                    "text": "Davon machte die Caravaning-Industrie allein elf Milliarden Euro Umsatz aus und die H\u00e4ndler 7,2 Milliarden Euro."
+                },
+                {
+                    "text": "Caravaning sei so beliebt wie nie und werde auch in den kommenden Jahren weiter Urlauber begeistern."
+                }
+            ],
+            "occupations": [
+                {
+                    "text": "Der ganz gro\u00dfe Boom aus der Corona-Zeit mag vorbei sein, aber der Optimismus der Caravaning-Branche ist ungebrochen."
+                },
+                {
+                    "text": "Aktuell bewegt sich die Branche zwar unter den au\u00dfergew\u00f6hnlichen Rekordzahlen der ersten Coronajahre, aber liegt insgesamt immer noch auf einem guten Niveau"
+                },
+                {
+                    "text": "Caravaning sei so beliebt wie nie und werde auch in den kommenden Jahren weiter Urlauber begeistern."
+                }
+            ],
+            "directQuotes": [],
+            "quotedInTitle": false,
+            "quotedInIntro": false
+        },
+        {
+            "name": "Daniel Onggowinarso",
+            "alternativeNames": [],
+            "age": -1,
+            "sex": "male",
+            "occurences": {
+                "total": 3,
+                "firstNameOnly": 0,
+                "lastNameOnly": 2,
+                "fullName": 1,
+                "nickname": 0
+            },
+            "inTitle": false,
+            "inIntro": false,
+            "_name": {
+                "firstname": "Daniel",
+                "lastname": "Onggowinarso",
+                "nickname": null,
+                "alternative_names": [],
+                "academic_title": null,
+                "nobility_title_or_rank": null
+            },
+            "descriptiveTexts": [
+                {
+                    "text": "\"Von einer sinkenden Nachfrage oder weniger Interesse kann nicht die Rede sein \u2013 ganz im Gegenteil\", sagt Daniel Onggowinarso, CIVD-Gesch\u00e4ftsf\u00fchrer gegen\u00fcber manager magazin."
+                },
+                {
+                    "text": "\"Aktuell bewegt sich die Branche zwar unter den au\u00dfergew\u00f6hnlichen Rekordzahlen der ersten Coronajahre, aber liegt insgesamt immer noch auf einem guten Niveau\", betont Onggowinarso."
+                },
+                {
+                    "text": "\"Die aktuell gr\u00f6\u00dfte Herausforderung der Branche ist nicht die Nachfrage-, sondern vielmehr die Angebotsseite\", sagt Onggowinarso."
+                }
+            ],
+            "occupations": [
+                {
+                    "text": "Caravaning sei so beliebt wie nie und werde auch in den kommenden Jahren weiter Urlauber begeistern."
+                }
+            ],
+            "directQuotes": [
+                {
+                    "text": "Von einer sinkenden Nachfrage oder weniger Interesse kann nicht die Rede sein \u2013 ganz im Gegenteil"
+                },
+                {
+                    "text": "Die aktuell gr\u00f6\u00dfte Herausforderung der Branche ist nicht die Nachfrage-, sondern vielmehr die Angebotsseite"
+                }
+            ],
+            "quotedInTitle": false,
+            "quotedInIntro": false
+        },
+        {
+            "name": "Knaus Tabbert",
+            "alternativeNames": [],
+            "age": -1,
+            "sex": "unknown",
+            "occurences": {
+                "total": 2,
+                "firstNameOnly": 0,
+                "lastNameOnly": 0,
+                "fullName": 2,
+                "nickname": 0
+            },
+            "inTitle": false,
+            "inIntro": false,
+            "_name": {
+                "firstname": null,
+                "lastname": "Tabbert",
+                "nickname": null,
+                "alternative_names": [],
+                "academic_title": null,
+                "nobility_title_or_rank": null
+            },
+            "descriptiveTexts": [
+                {
+                    "text": "Bestes Beispiel: Wolfgang Speck, der CEO von Knaus Tabbert, dem Traditionshersteller aus der niederbayerischen Jandelsbrunn."
+                },
+                {
+                    "text": "Beim Rivalen Knaus Tabbert hat CEO Wolfgang Speck ebenfalls erfreuliche Monate hinter sich."
+                }
+            ],
+            "occupations": [],
+            "directQuotes": [],
+            "quotedInTitle": false,
+            "quotedInIntro": false
+        }
+    ]
+}

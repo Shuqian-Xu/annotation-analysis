@@ -1,0 +1,258 @@
+{
+    "persons": [
+        {
+            "name": "Klaus R.",
+            "alternativeNames": [],
+            "age": -1,
+            "sex": "male",
+            "occurences": {
+                "total": 2,
+                "firstNameOnly": 2,
+                "lastNameOnly": 0,
+                "fullName": 0,
+                "nickname": 0
+            },
+            "inTitle": false,
+            "inIntro": false,
+            "_name": {
+                "firstname": "Klaus",
+                "lastname": "R.",
+                "nickname": null,
+                "alternative_names": [],
+                "academic_title": null,
+                "nobility_title_or_rank": null
+            },
+            "descriptiveTexts": [
+                {
+                    "text": "\u00bbSie m\u00fcssen sich nicht mit Gift vollpumpen lassen\u00ab, riet die Krankenschwester"
+                },
+                {
+                    "text": "Wie schnell man mit dubiosen Angeboten konfrontiert wird, habe ich vor mehr als zehn Jahren selbst erfahren m\u00fcssen."
+                },
+                {
+                    "text": "Im Februar 2013 waren meine Frau und ich auf dem Weg nach Frankreich, um ihren Geburtstag mit der Familie in der Bretagne zu feiern."
+                },
+                {
+                    "text": "Schlie\u00dflich lautete ihre Empfehlung: \u00bbSie m\u00fcssen sich nicht mit Gift vollpumpen lassen.\u00ab"
+                },
+                {
+                    "text": "Nachdem meine Frau mir von diesem Gespr\u00e4ch berichtet hatte, teilte ich der Krankenschwester umgehend mit, dass ich mich von nun an selbst um die postoperative Versorgung k\u00fcmmern werde."
+                },
+                {
+                    "text": "Ich komme nicht leichtfertig zu diesem Schluss, sondern habe diesen Bereich in meiner Zeit als Professor f\u00fcr Komplement\u00e4rmedizin lange und intensiv beforscht."
+                },
+                {
+                    "text": "Erst vor wenigen Jahren habe ich ein Buch \u00fcber alternative Ans\u00e4tze bei Krebs ver\u00f6ffentlicht."
+                },
+                {
+                    "text": "Oder glaubt tats\u00e4chlich jemand, dass Onkologen eine wirksame Behandlungsweise nur deswegen ablehnen, weil sie nicht aus der konventionellen Medizin stammt?"
+                },
+                {
+                    "text": "Meine Frau w\u00e4re heute sicher nicht mehr am Leben, wenn sie den Ratschlag der Krankenschwester ber\u00fccksichtigt und die konventionelle Therapie mit der \u00bbAnti-Krebs-Di\u00e4t\u00ab ersetzt h\u00e4tte."
+                },
+                {
+                    "text": "Um nur ein Zitat eines Heilpraktikers zu nennen: \u00bbAm ges\u00fcndesten f\u00fcr den Krebspatienten ist es, er meidet den Schulmediziner.\u00ab"
+                },
+                {
+                    "text": "Die Behauptung, sie k\u00f6nnten Krebs mit alternativen Methoden heilen, ist strafbar."
+                },
+                {
+                    "text": "Da aber so gut wie keine Kontrollen stattfinden, haben sie kaum etwas zu bef\u00fcrchten."
+                },
+                {
+                    "text": "Gro\u00dfe Aufmerksamkeit erregte etwa der Fall des Heilpraktikers Klaus R., nach dessen \u00bbBehandlung\u00ab mit einer experimentellen Chemikalie drei Menschen ums Leben kamen."
+                },
+                {
+                    "text": "Eine juristische Aufarbeitung, wie im Fall von Klaus R., ist dabei eine Seltenheit."
+                },
+                {
+                    "text": "Wenn eine Therapie zu gut klingt, um wahr zu sein, dann ist sie das meist auch."
+                },
+                {
+                    "text": "Wenn ein Therapeut die evidenzbasierte Medizin schlechtredet oder Ihnen eine Operation oder Chemotherapie ausreden will, sollten Sie von der Behandlung Abstand nehmen."
+                }
+            ],
+            "occupations": [
+                {
+                    "text": "Heilpraktiker"
+                }
+            ],
+            "directQuotes": [],
+            "quotedInTitle": false,
+            "quotedInIntro": false
+        },
+        {
+            "name": "Dr. Schwartz",
+            "alternativeNames": [],
+            "age": -1,
+            "sex": "unknown",
+            "occurences": {
+                "total": 2,
+                "firstNameOnly": 0,
+                "lastNameOnly": 1,
+                "fullName": 1,
+                "nickname": 0
+            },
+            "inTitle": false,
+            "inIntro": false,
+            "_name": {
+                "firstname": "Dr.",
+                "lastname": "Schwartz",
+                "nickname": null,
+                "alternative_names": [],
+                "academic_title": null,
+                "nobility_title_or_rank": null
+            },
+            "descriptiveTexts": [
+                {
+                    "text": "Es gebe eine viel bessere M\u00f6glichkeit: \u00bbBefolgen Sie doch einfach die Anti-Krebs-Di\u00e4t von Dr. Schwartz.\u00ab"
+                }
+            ],
+            "occupations": [],
+            "directQuotes": [
+                {
+                    "text": "Befolgen Sie doch einfach die Anti-Krebs-Di\u00e4t von Dr. Schwartz."
+                }
+            ],
+            "quotedInTitle": false,
+            "quotedInIntro": false
+        },
+        {
+            "name": "Steve Jobs",
+            "alternativeNames": [],
+            "age": 19,
+            "sex": "male",
+            "occurences": {
+                "total": 1,
+                "firstNameOnly": 0,
+                "lastNameOnly": 0,
+                "fullName": 1,
+                "nickname": 0
+            },
+            "inTitle": false,
+            "inIntro": false,
+            "_name": {
+                "firstname": "Steve",
+                "lastname": "Jobs",
+                "nickname": null,
+                "alternative_names": [],
+                "academic_title": null,
+                "nobility_title_or_rank": null
+            },
+            "descriptiveTexts": [
+                {
+                    "text": "Wenn es pl\u00f6tzlich um Leben und Tod geht, greifen Betroffene nach dem letzten Strohhalm und sind besonders anf\u00e4llig f\u00fcr die Verlockungen von selbst ernannten Krebsheilern \u2013 sogar Apple-Gr\u00fcnder Steve Jobs fiel solchen Umtrieben wohl zum Opfer."
+                }
+            ],
+            "occupations": [],
+            "directQuotes": [],
+            "quotedInTitle": false,
+            "quotedInIntro": false
+        },
+        {
+            "name": "Kreb",
+            "alternativeNames": [],
+            "age": -1,
+            "sex": "unknown",
+            "occurences": {
+                "total": 11,
+                "firstNameOnly": 0,
+                "lastNameOnly": 0,
+                "fullName": 11,
+                "nickname": 0
+            },
+            "inTitle": false,
+            "inIntro": true,
+            "_name": {
+                "firstname": null,
+                "lastname": "Kreb",
+                "nickname": null,
+                "alternative_names": [],
+                "academic_title": null,
+                "nobility_title_or_rank": null
+            },
+            "descriptiveTexts": [
+                {
+                    "text": "Als meine Frau an Krebs erkrankte, bekamen wir Ratschl\u00e4ge f\u00fcr alternative Heilmethoden."
+                },
+                {
+                    "text": "Es gebe eine viel bessere M\u00f6glichkeit: \u00bbBefolgen Sie doch einfach die Anti-Krebs-Di\u00e4t von Dr. Schwartz.\u00ab"
+                },
+                {
+                    "text": "Die sei \u00bbnat\u00fcrlich\u00ab, habe keine Nebenwirkungen und w\u00fcrde den Krebs garantiert heilen."
+                },
+                {
+                    "text": "Die Vielfalt der alternativen Methoden, mit denen Krebs behandelt wird, ist nahezu un\u00fcberschaubar."
+                },
+                {
+                    "text": "Trotz ihrer Vielfalt haben diese Verfahren eines gemeinsam: Sie heilen ganz gewiss keinen Krebs."
+                },
+                {
+                    "text": "Erst vor wenigen Jahren habe ich ein Buch \u00fcber alternative Ans\u00e4tze bei Krebs ver\u00f6ffentlicht."
+                },
+                {
+                    "text": "Falls eine oder mehrere dieser Therapien tats\u00e4chlich Krebs heilen k\u00f6nnten, h\u00e4tte man sie schon l\u00e4ngst in das Repertoire der herk\u00f6mmlichen Onkologie aufgenommen."
+                },
+                {
+                    "text": "Ihr Gr\u00fcnder Ryke Geerd Hamer behauptete, dass Krebs lediglich durch innere Konflikte entst\u00fcnde."
+                },
+                {
+                    "text": "Meine Frau w\u00e4re heute sicher nicht mehr am Leben, wenn sie den Ratschlag der Krankenschwester ber\u00fccksichtigt und die konventionelle Therapie mit der \u00bbAnti-Krebs-Di\u00e4t\u00ab ersetzt h\u00e4tte."
+                },
+                {
+                    "text": "Die Behauptung, sie k\u00f6nnten Krebs mit alternativen Methoden heilen, ist strafbar."
+                },
+                {
+                    "text": "Zusammenfassend kann man sagen, dass die \u00bbsanfte Medizin\u00ab bei Krebs ein zweischneidiges Schwert ist."
+                }
+            ],
+            "occupations": [
+                {
+                    "text": "Krankenschwester"
+                }
+            ],
+            "directQuotes": [
+                {
+                    "text": "Sie m\u00fcssen sich nicht mit Gift vollpumpen lassen"
+                },
+                {
+                    "text": "nat\u00fcrlich"
+                }
+            ],
+            "quotedInTitle": false,
+            "quotedInIntro": true
+        },
+        {
+            "name": "Ryke Geerd Hamer",
+            "alternativeNames": [],
+            "age": -1,
+            "sex": "male",
+            "occurences": {
+                "total": 1,
+                "firstNameOnly": 0,
+                "lastNameOnly": 0,
+                "fullName": 1,
+                "nickname": 0
+            },
+            "inTitle": false,
+            "inIntro": false,
+            "_name": {
+                "firstname": "Ryke Geerd",
+                "lastname": "Hamer",
+                "nickname": null,
+                "alternative_names": [],
+                "academic_title": null,
+                "nobility_title_or_rank": null
+            },
+            "descriptiveTexts": [
+                {
+                    "text": "Ihr Gr\u00fcnder Ryke Geerd Hamer behauptete, dass Krebs lediglich durch innere Konflikte entst\u00fcnde."
+                }
+            ],
+            "occupations": [],
+            "directQuotes": [],
+            "quotedInTitle": false,
+            "quotedInIntro": false
+        }
+    ]
+}

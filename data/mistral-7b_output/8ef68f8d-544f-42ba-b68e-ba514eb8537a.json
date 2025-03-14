@@ -1,0 +1,362 @@
+{
+    "persons": [
+        {
+            "name": "Garry Winogrand",
+            "alternativeNames": [],
+            "age": -1,
+            "sex": "male",
+            "occurences": {
+                "total": 3,
+                "firstNameOnly": 0,
+                "lastNameOnly": 2,
+                "fullName": 1,
+                "nickname": 0
+            },
+            "inTitle": false,
+            "inIntro": false,
+            "_name": {
+                "firstname": "Garry",
+                "lastname": "Winogrand",
+                "nickname": null,
+                "alternative_names": [],
+                "academic_title": null,
+                "nobility_title_or_rank": null
+            },
+            "descriptiveTexts": [
+                {
+                    "text": "Oder im Brooklyn Museum, wo Garry Winogrands Fotografien von Allt\u00e4glichkeiten ausgestellt wurden."
+                },
+                {
+                    "text": "\u00bbEr hat diese tiefe \u00dcberzeugung, dass das gew\u00f6hnliche Leben eine umfassende Sch\u00f6nheit besitzt\u00ab, sagt Jamison."
+                },
+                {
+                    "text": "Sie legt einen Winogrand-Fotoband zwischen uns auf die K\u00fccheninsel."
+                },
+                {
+                    "text": "Der Winogrand-Band, die Zeichnungen ihrer Tochter, der Kaffee aus der French Press: Es sind Requisiten ihres Lebens, kleine Details, die man bereits aus ihren Essays kennt."
+                }
+            ],
+            "occupations": [
+                {
+                    "text": "Fotograf"
+                }
+            ],
+            "directQuotes": [],
+            "quotedInTitle": false,
+            "quotedInIntro": false
+        },
+        {
+            "name": "Leslie Jamison",
+            "alternativeNames": [],
+            "age": -1,
+            "sex": "female",
+            "occurences": {
+                "total": 28,
+                "firstNameOnly": 0,
+                "lastNameOnly": 26,
+                "fullName": 2,
+                "nickname": 0
+            },
+            "inTitle": false,
+            "inIntro": true,
+            "_name": {
+                "firstname": "Leslie",
+                "lastname": "Jamison",
+                "nickname": null,
+                "alternative_names": [],
+                "academic_title": null,
+                "nobility_title_or_rank": null
+            },
+            "descriptiveTexts": [
+                {
+                    "text": "Mit autobiografischen Essays \u00fcber Mitgef\u00fchl, Schmerz und das Leiden wurde US-Autorin Leslie Jamison ber\u00fchmt."
+                },
+                {
+                    "text": "Nun schreibt sie in \u00bbSplitter\u00ab \u00fcber ihre Scheidung."
+                },
+                {
+                    "text": "Vor Leslie Jamisons Haus raucht der Fotograf noch eine letzte Zigarette, bis Jamison irgendwann ihren Kopf aus der T\u00fcr steckt: \u00bbDo you want to come in?\u00ab"
+                },
+                {
+                    "text": "\u00c4hnlich muss es sich f\u00fcr Jamisons Leserinnen und Leser anf\u00fchlen, wenn sie eines ihrer B\u00fccher aufschlagen."
+                },
+                {
+                    "text": "Sie l\u00e4dt fremde Menschen in ihr privates Leben ein und teilt mit der Welt, wie sie sich sch\u00e4mt, verliebt, hinterfragt, streitet."
+                },
+                {
+                    "text": "Wenn sie auf ihren Buchseiten in angebratenen Speck bei\u00dft oder einen Spaziergang mit ihrer Tochter macht, wirkt das immer gr\u00f6\u00dfer als das, was wir Alltag nennen."
+                },
+                {
+                    "text": "Jamison spiegelt ihre pers\u00f6nlichen Erlebnisse in historischen Kontexten, stellt sie Kunstwerken oder realen Personen gegen\u00fcber."
+                },
+                {
+                    "text": "Sie sucht nach dem, was hinter den offensichtlichen Antworten steckt."
+                },
+                {
+                    "text": "Diese Neugier hat Jamison zu einer der wichtigsten zeitgen\u00f6ssischen Autorinnen des autobiografischen Schreibens gemacht."
+                },
+                {
+                    "text": "Jamison sagt, sie m\u00fcsse ihre Tochter sp\u00e4ter noch abholen, auf ihrem Handy hat sie einen Timer eingestellt, der sie daran erinnern soll."
+                },
+                {
+                    "text": "Kleine Schnappsch\u00fcsse eines Lebens, denen erst Jamisons Blick Bedeutung verleiht."
+                },
+                {
+                    "text": "Sie blickt auf die Allt\u00e4glichkeit und legt die Emotionen und Bedeutungen dahinter frei."
+                },
+                {
+                    "text": "Jamison fragt, ob ich etwas trinken wolle und ob ich das erste Mal in New York sei."
+                },
+                {
+                    "text": "Jamison ist vorsichtiger."
+                },
+                {
+                    "text": "W\u00e4hrend der Fotograf sie vor dem B\u00fccherregal inszeniert, schaue ich weg, wahrscheinlich, weil es mir unangenehm w\u00e4re, wenn mich zwei Fremde beim Posen beobachten w\u00fcrden."
+                },
+                {
+                    "text": "Ich projiziere meine Gef\u00fchle auf sie."
+                },
+                {
+                    "text": "Auf manchen stehen \u00dcbersetzungen von Jamisons eigenen Werken: darunter die 2014 im Original erschienene Essaysammlung \u00bbDie Empathie-Tests\u00ab, sie wurde ein \u00bbNew York Times\u00ab-Bestseller und machte die Autorin international bekannt."
+                },
+                {
+                    "text": "Jamison schrieb darin \u00fcber Mitgef\u00fchl und Schmerz und das Leiden anderer."
+                },
+                {
+                    "text": "Dabei hatte sie urspr\u00fcnglich mit fiktionalen Texten angefangen."
+                },
+                {
+                    "text": "\u00bbSachb\u00fccher zu schreiben hat sich lange Zeit verboten angef\u00fchlt. Ich nannte Non-Fiction mein mistress genre\u00ab \u2013 eine Liebe, die sich wie eine Aff\u00e4re anf\u00fchlte."
+                },
+                {
+                    "text": "Doch nur in diesen Formen k\u00f6nne sie auf eine assoziative Art schreiben, die nahe an ihrem Gedankenfluss sei, sagt Jamison."
+                },
+                {
+                    "text": "Mutterschaft ist ein zentrales Thema von \u00bbSplitter\u00ab, schon in ihren vorhergehenden Texten besch\u00e4ftigte sie sich mit ihrem Leben als Frau."
+                },
+                {
+                    "text": "Als sie etwa an \u00bbDie Klarheit. Alkohol, Rausch und die Geschichten der Genesung\u00ab \u00fcber ihre Alkoholsucht gearbeitet hat, stellte Jamison fest, dass schreibende m\u00e4nnliche Trinker stets als Genies wahrgenommen wurden."
+                },
+                {
+                    "text": "Bei den schreibenden Trinkerinnen hingegen stand der Vorwurf im Vordergrund, sie w\u00fcrden durch die Sucht ihre Pflichten vernachl\u00e4ssigen."
+                },
+                {
+                    "text": "\u00bbDie Annahmen dar\u00fcber, was eine Frau ist und was Frauen ausmacht, pr\u00e4gt unsere Lesart von weiblichen, autobiografischen Texten\u00ab, sagt Jamison."
+                },
+                {
+                    "text": "\u00bbIn den Rezensionen zu pers\u00f6nlichen Texten von Frauen wird eine k\u00f6rperliche Sprache benutzt. Frauen schreiben angeblich immer so, als w\u00fcrden sie auf die Seiten bluten.\u00ab"
+                },
+                {
+                    "text": "Die Metaphern der Rezensenten, glaubt Jamison, sagten schon alles: \u00bbEs ist also keine Kunst, sondern eine K\u00f6rperfl\u00fcssigkeit, die es auf die Seiten geschafft hat.\u00ab"
+                },
+                {
+                    "text": "Die Sprache mache deutlich, was die Literaturwelt f\u00fcr richtige Kunst h\u00e4lt \u2013 und wem zugetraut wird, sie zu schaffen."
+                },
+                {
+                    "text": "\u00bbRoh, entbl\u00f6\u00dft, verletzlich\u00ab: Das sind W\u00f6rter, die Jamison selbst oft h\u00f6rt, wenn \u00fcber ihre B\u00fccher gesprochen wird."
+                },
+                {
+                    "text": "W\u00e4hrend sie in vorhergehenden Texten ihre Erlebnisse mit journalistischen und essayistischen Elementen kombinierte, etwa wenn sie \u00fcber den \u00bbWar on Drugs\u00ab geschrieben oder Morgellons-Patientinnen interviewt hat, konzentriert sie sich in ihrem neuen Buch fast ausschlie\u00dflich auf das Autobiografische."
+                },
+                {
+                    "text": "Jamison nennt ihre Faszination des Allt\u00e4glichen eine \u00bbunnachgiebige Liebesaff\u00e4re mit dem Unscheinbaren\u00ab."
+                },
+                {
+                    "text": "In \u00bbSplitter\u00ab erz\u00e4hlt sie von Museumsbesuchen \u2013 im MoMA, wo Amateurvideos von Familien gezeigt wurden."
+                },
+                {
+                    "text": "\u00bbEr hat diese tiefe \u00dcberzeugung, dass das gew\u00f6hnliche Leben eine umfassende Sch\u00f6nheit besitzt\u00ab, sagt Jamison."
+                },
+                {
+                    "text": "Sie legt einen Winogrand-Fotoband zwischen uns auf die K\u00fccheninsel."
+                },
+                {
+                    "text": "Das Wasser auf dem Herd kocht, sie gie\u00dft es in die French Press, w\u00e4hrend ich bl\u00e4ttere."
+                },
+                {
+                    "text": "\u00bbMit meinem Buch wollte ich eine literarische Version schaffen dieser Art, sich mit der Welt zu besch\u00e4ftigen \u2013 so wie auf diesen Fotos.\u00ab"
+                },
+                {
+                    "text": "Wenn Jamison spricht, wirkt sie aufgeregt, ihre Augen wach."
+                },
+                {
+                    "text": "Sie gie\u00dft Kaffee in Dunkin-Donuts-Tassen."
+                },
+                {
+                    "text": "In \u00bbSplitter\u00ab schafft sie es, darin den gr\u00f6\u00dferen Kontext auszuheben \u2013 das Zerbrechen einer Ehe, den Schmerz, aber auch die Freiheit nach einer Trennung."
+                },
+                {
+                    "text": "Statt etwa die sich immer gr\u00f6\u00dfer auftuende Kluft zu ihrem Partner mit einem gro\u00dfen Streit zu illustrieren, beschreibt sie eine Alltagsszene."
+                },
+                {
+                    "text": "Dass sie nach einem Tag im botanischen Garten davon erz\u00e4hlen will, wie das gemeinsame Baby mit Neugier die Schatten der Pflanzen betrachtete."
+                },
+                {
+                    "text": "Jamison schreibt: \u00bbEr sagte, sein Tag sei schrecklich gewesen. \u2026 Ich fragte nicht, was so schlimm gewesen sei. Die Frage hatte ich ihm schon so oft gestellt, dass ich glaubte, die Antworten zu kennen: Frust bei der Arbeit, der unausgesprochene Kummer \u00fcber die Distanz zwischen uns. Vielleicht stirbt die Liebe so \u2013 im Glauben, die Antworten bereits zu kennen.\u00ab"
+                },
+                {
+                    "text": "Nach der Lekt\u00fcre von \u00bbSplitter\u00ab wirkt Jamisons Zuhause ein bisschen wie ein Filmset."
+                },
+                {
+                    "text": "\u00bbDas ist der Sessel, in dem ich meine Tochter gestillt habe\u00ab, sagt sie."
+                },
+                {
+                    "text": "Jamison will noch ein bisschen durch die Nachbarschaft spazieren und etwas essen, bevor sie ihr Kind von der Schule abholen muss."
+                },
+                {
+                    "text": "\u00bbLass uns in der Sonne bleiben\u00ab, sagt sie an einer Stra\u00dfenecke, wir \u00fcberqueren die Stra\u00dfe nicht."
+                },
+                {
+                    "text": "Sie und ihr Freund, sagt Jamison, hatten hier ihre ersten Dates."
+                },
+                {
+                    "text": "\u00bbMein Selbst, das ich auf den Buchseiten konstruiere, setzt sich aus verschiedenen Rollen zusammen. Ich bin Ehefrau, Ex-Frau, Lehrerin, Freundin, Geliebte\u00ab, sagt die Autorin."
+                },
+                {
+                    "text": "Splitter, das sind die Fragmente eines Alltags, die sich zu einer Geschichte zusammenf\u00fcgen, und die verschiedenen Rollen, in die Jamison in einer Zeit der Ver\u00e4nderung schl\u00fcpfen muss."
+                },
+                {
+                    "text": "Einmal schreibt sie davon, wie sie w\u00e4hrend eines Seminars in ein Hotelzimmer eilen muss, um ihre Tochter zu stillen: \u00bbIch bin Dozentin. Ich bin Br\u00fcste. Ich bin Dozentin. Ich bin Br\u00fcste.\u00ab"
+                },
+                {
+                    "text": "Jamison will jetzt noch schnell etwas essen, wir sind auf dem Weg zu Paulie Gee\u2019s Slice Shop."
+                },
+                {
+                    "text": "Sie bestellt ein Root Beer und ein St\u00fcck \u00bbFreddie Pepperoni Square Slice\u00ab."
+                },
+                {
+                    "text": "\u00bbErwachsensein hei\u00dft zusehen, wie alle m\u00f6glichen Versionen deiner selbst zu einer schrumpfen\u00ab, schreibt sie in \u00bbSplitter\u00ab."
+                },
+                {
+                    "text": "Sie erkl\u00e4rt das so: \u00bbDas Schreiben ist f\u00fcr mich ein Weg, die anderen Versionen meines Ichs zu reflektieren. Das macht sie nat\u00fcrlich nicht real, aber sichtbar.\u00ab"
+                },
+                {
+                    "text": "Gerade schreibe sie an einem Buch \u00fcber Tagtr\u00e4ume."
+                },
+                {
+                    "text": "Jamison verschriftlicht ihr Leben schon seit Jahren."
+                },
+                {
+                    "text": "Trotzdem f\u00fchlt sich die pers\u00f6nliche Art zu schreiben f\u00fcr sie immer noch nach Risiko an."
+                },
+                {
+                    "text": "\u00bbIch tr\u00e4ume immer davon, eine Person zu sein, der egal ist, was andere denken. Und nat\u00fcrlich tr\u00e4ume ich davon, weil ich eine Person bin, der es unglaublich wichtig ist, was andere denken.\u00ab"
+                },
+                {
+                    "text": "\u00bbWenn ich an einem Text arbeite, f\u00e4llt mir alles auf. Meine Aufmerksamkeit ist gesch\u00e4rft. Meine beste Freundin und ich nennen es writer brain, Hirn einer Schreibenden\u00ab, sagt Jamison."
+                }
+            ],
+            "occupations": [
+                {
+                    "text": "Lehrerin"
+                },
+                {
+                    "text": "Mutter"
+                },
+                {
+                    "text": "Schriftstellerin"
+                },
+                {
+                    "text": "Autorin"
+                }
+            ],
+            "directQuotes": [
+                {
+                    "text": "Splitter"
+                },
+                {
+                    "text": "Do you want to come in?"
+                },
+                {
+                    "text": "Die Empathie-Tests"
+                },
+                {
+                    "text": "Sachb\u00fccher zu schreiben hat sich lange Zeit verboten angef\u00fchlt. Ich nannte Non-Fiction mein mistress genre"
+                },
+                {
+                    "text": "Vor allem das Schreiben von Essays gab mir das Gef\u00fchl, dass alles m\u00f6glich sei."
+                },
+                {
+                    "text": "Die Klarheit. Alkohol, Rausch und die Geschichten der Genesung"
+                },
+                {
+                    "text": "Die Annahmen dar\u00fcber, was eine Frau ist und was Frauen ausmacht, pr\u00e4gt unsere Lesart von weiblichen, autobiografischen Texten"
+                },
+                {
+                    "text": "Klar, man zeigt sich verletzlich, wenn man \u00fcber das eigene Leben schreibt und es der Welt erz\u00e4hlt."
+                },
+                {
+                    "text": "Er hat diese tiefe \u00dcberzeugung, dass das gew\u00f6hnliche Leben eine umfassende Sch\u00f6nheit besitzt"
+                },
+                {
+                    "text": "Mit meinem Buch wollte ich eine literarische Version schaffen dieser Art, sich mit der Welt zu besch\u00e4ftigen \u2013 so wie auf diesen Fotos."
+                },
+                {
+                    "text": "In den gro\u00dfen Momenten, in Scheidungen oder Geburten, liegt nat\u00fcrlich eine immense Dramatik. Aber eigentlich tr\u00e4gt jeder Tag unseres Lebens diese Wucht und Spannung in sich."
+                },
+                {
+                    "text": "Das ist der Sessel, in dem ich meine Tochter gestillt habe"
+                },
+                {
+                    "text": "Mein Selbst, das ich auf den Buchseiten konstruiere, setzt sich aus verschiedenen Rollen zusammen. Ich bin Ehefrau, Ex-Frau, Lehrerin, Freundin, Geliebte"
+                },
+                {
+                    "text": "Ich bin Dozentin. Ich bin Br\u00fcste. Ich bin Dozentin. Ich bin Br\u00fcste."
+                },
+                {
+                    "text": "Erwachsensein hei\u00dft zusehen, wie alle m\u00f6glichen Versionen deiner selbst zu einer schrumpfen"
+                },
+                {
+                    "text": "Das Schreiben ist f\u00fcr mich ein Weg, die anderen Versionen meines Ichs zu reflektieren. Das macht sie nat\u00fcrlich nicht real, aber sichtbar."
+                },
+                {
+                    "text": "Ich tr\u00e4ume immer davon, eine Person zu sein, der egal ist, was andere denken. Und nat\u00fcrlich tr\u00e4ume ich davon, weil ich eine Person bin, der es unglaublich wichtig ist, was andere denken."
+                },
+                {
+                    "text": "Wenn ich an einem Text arbeite, f\u00e4llt mir alles auf. Meine Aufmerksamkeit ist gesch\u00e4rft. Meine beste Freundin und ich nennen es writer brain, Hirn einer Schreibenden"
+                },
+                {
+                    "text": "Es macht mich aufmerksam und neugierig. Neugierig sein ist f\u00fcr mich etwas, was das Leben ausmacht."
+                }
+            ],
+            "quotedInTitle": false,
+            "quotedInIntro": true
+        },
+        {
+            "name": "Paulie Gee\u2019s",
+            "alternativeNames": [],
+            "age": -1,
+            "sex": "unknown",
+            "occurences": {
+                "total": 1,
+                "firstNameOnly": 0,
+                "lastNameOnly": 0,
+                "fullName": 1,
+                "nickname": 0
+            },
+            "inTitle": false,
+            "inIntro": false,
+            "_name": {
+                "firstname": "Paulie",
+                "lastname": "Gee\u2019s",
+                "nickname": null,
+                "alternative_names": [],
+                "academic_title": null,
+                "nobility_title_or_rank": null
+            },
+            "descriptiveTexts": [
+                {
+                    "text": "Jamison will jetzt noch schnell etwas essen, wir sind auf dem Weg zu Paulie Gee\u2019s Slice Shop."
+                }
+            ],
+            "occupations": [],
+            "directQuotes": [
+                {
+                    "text": "Es ist wirklich eine der besten Pizzen in New York"
+                }
+            ],
+            "quotedInTitle": false,
+            "quotedInIntro": false
+        }
+    ]
+}

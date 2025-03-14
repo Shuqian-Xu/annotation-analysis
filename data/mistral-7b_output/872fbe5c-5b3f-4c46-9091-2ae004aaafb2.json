@@ -1,0 +1,247 @@
+{
+    "persons": [
+        {
+            "name": "Franco Moretti",
+            "alternativeNames": [],
+            "age": -1,
+            "sex": "male",
+            "occurences": {
+                "total": 3,
+                "firstNameOnly": 0,
+                "lastNameOnly": 2,
+                "fullName": 1,
+                "nickname": 0
+            },
+            "inTitle": false,
+            "inIntro": false,
+            "_name": {
+                "firstname": "Franco",
+                "lastname": "Moretti",
+                "nickname": null,
+                "alternative_names": [],
+                "academic_title": null,
+                "nobility_title_or_rank": null
+            },
+            "descriptiveTexts": [
+                {
+                    "text": "Wenn man ChatGPT zum Beispiel fragt: Wer ist Franco Moretti?"
+                },
+                {
+                    "text": "Ich habe ChatGPT mit einem Auszug aus einem Aufsatz von Moretti gef\u00fcttert und erkl\u00e4rt, dass ich Studienanf\u00e4nger an der University of Southern Denmark unterrichte."
+                },
+                {
+                    "text": "Ich kenne mich mit Moretti sehr gut aus und war von den Ergebnissen wirklich beeindruckt."
+                }
+            ],
+            "occupations": [],
+            "directQuotes": [],
+            "quotedInTitle": false,
+            "quotedInIntro": false
+        },
+        {
+            "name": "ChatGPT",
+            "alternativeNames": [],
+            "age": -1,
+            "sex": "unknown",
+            "occurences": {
+                "total": 7,
+                "firstNameOnly": 0,
+                "lastNameOnly": 0,
+                "fullName": 7,
+                "nickname": 0
+            },
+            "inTitle": false,
+            "inIntro": false,
+            "_name": {
+                "firstname": null,
+                "lastname": null,
+                "nickname": null,
+                "alternative_names": [],
+                "academic_title": null,
+                "nobility_title_or_rank": null
+            },
+            "descriptiveTexts": [
+                {
+                    "text": "Beim \"prompt writing\" geht es darum, eine Anfrage an eine K\u00fcnstliche Intelligenz wie ChatGPT so zu formulieren, dass sie das optimale Ergebnis liefert."
+                },
+                {
+                    "text": "Wenn man ChatGPT zum Beispiel fragt: Wer ist Franco Moretti?"
+                },
+                {
+                    "text": "Ich habe ChatGPT mit einem Auszug aus einem Aufsatz von Moretti gef\u00fcttert und erkl\u00e4rt, dass ich Studienanf\u00e4nger an der University of Southern Denmark unterrichte."
+                },
+                {
+                    "text": "Daraufhin hat mir ChatGPT f\u00fcnf Punkte genannt und mir konkrete Empfehlungen f\u00fcr meinen Unterricht gegeben: Ich solle meinen Studierenden zum Beispiel Hintergrundinformationen zum literarischen Weltsystem liefern."
+                },
+                {
+                    "text": "Und auf meine Nachfrage, welche Quellen ChatGPT mir daf\u00fcr empfehlen w\u00fcrde, bekam ich sechs relevante und n\u00fctzliche Werke genannt."
+                },
+                {
+                    "text": "Ich kenne mich mit Moretti sehr gut aus und war von den Ergebnissen wirklich beeindruckt."
+                },
+                {
+                    "text": "Meine Experimente mit ChatGPT haben zum Beispiel gezeigt, dass es sich bew\u00e4hrt, Prompts schrittweise zu gliedern: Zuerst stellt man den Kontext her, dann benennt man das Thema und die Aufgabe, und schlie\u00dflich hakt man mit Folgefragen nach."
+                },
+                {
+                    "text": "W\u00fcrden Sie erkennen, ob einer Ihrer Studierenden sich seine Hausarbeit von ChatGPT hat schreiben lassen?"
+                }
+            ],
+            "occupations": [],
+            "directQuotes": [
+                {
+                    "text": "beeindruckendsten Prompt-Engineering-Projekt"
+                }
+            ],
+            "quotedInTitle": false,
+            "quotedInIntro": false
+        },
+        {
+            "name": "Mushtaq Bilal",
+            "alternativeNames": [],
+            "age": -1,
+            "sex": "male",
+            "occurences": {
+                "total": 3,
+                "firstNameOnly": 0,
+                "lastNameOnly": 1,
+                "fullName": 2,
+                "nickname": 0
+            },
+            "inTitle": false,
+            "inIntro": true,
+            "_name": {
+                "firstname": "Mushtaq",
+                "lastname": "Bilal",
+                "nickname": null,
+                "alternative_names": [],
+                "academic_title": null,
+                "nobility_title_or_rank": null
+            },
+            "descriptiveTexts": [
+                {
+                    "text": "Mushtaq Bilal ist mit seinen Tutorials ein Star auf Twitter: Denn er kann erkl\u00e4ren, wie es geht."
+                },
+                {
+                    "text": "manager magazin: Herr Bilal, Sie wollen Geisteswissenschaftler fit machen f\u00fcr einen Job, f\u00fcr den US-Techfirmen derzeit ein Jahresgehalt von bis zu 335.000 Dollar zahlen: Prompt Writer."
+                },
+                {
+                    "text": "Mushtaq Bilal: In der IT versteht man unter \"prompt\" eine Befehlszeile."
+                },
+                {
+                    "text": "Richtig interessant wird es erst, wenn ich der KI Thema und Kontext vorgebe und die Aufgabe spezifiziere."
+                },
+                {
+                    "text": "Ich habe ChatGPT mit einem Auszug aus einem Aufsatz von Moretti gef\u00fcttert und erkl\u00e4rt, dass ich Studienanf\u00e4nger an der University of Southern Denmark unterrichte."
+                },
+                {
+                    "text": "Daraufhin hat mir ChatGPT f\u00fcnf Punkte genannt und mir konkrete Empfehlungen f\u00fcr meinen Unterricht gegeben: Ich solle meinen Studierenden zum Beispiel Hintergrundinformationen zum literarischen Weltsystem liefern."
+                },
+                {
+                    "text": "Sie fallen allerdings sehr unterschiedlich aus, je nachdem, ob und welchen Kontext ich der KI gebe."
+                },
+                {
+                    "text": "Ich empfehle, die besten Fragestellungen in einer \"Prompt\"-Sammlung zu archivieren, damit man sie als Arbeitsprobe f\u00fcr eine Bewerbung nutzen kann."
+                },
+                {
+                    "text": "W\u00fcrden Sie erkennen, ob einer Ihrer Studierenden sich seine Hausarbeit von ChatGPT hat schreiben lassen?"
+                },
+                {
+                    "text": "Aber ich bin \u00fcberzeugt davon, dass ich in der Lage bin, das zu erkennen."
+                },
+                {
+                    "text": "Aber die Unterst\u00fctzung der KI wollen Sie in Anspruch nehmen?"
+                },
+                {
+                    "text": "Wenn eine KI meine Zitationen sortiert und verkn\u00fcpft, nimmt mir das viel Arbeit ab, und die Zeit kann ich anderweitig nutzen."
+                },
+                {
+                    "text": "Allerdings mache ich das nicht in meiner Arbeitszeit als Forscher."
+                },
+                {
+                    "text": "Ich stehe sehr fr\u00fch auf, so gegen 5 Uhr, dann habe ich rund vier Stunden bis mein regul\u00e4rer Arbeitstag beginnt."
+                },
+                {
+                    "text": "Ich bin als Forscher nach D\u00e4nemark gekommen, ich habe hier keinen Lehrauftrag."
+                },
+                {
+                    "text": "Allerdings wurde ich schon von drei Fakult\u00e4ten f\u00fcr interne Seminare zu dem Thema \"Umgang mit KI\" angefragt und werde demn\u00e4chst auch an anderen Unis Vortr\u00e4ge dazu halten, unter anderem in Spanien und Kalifornien."
+                },
+                {
+                    "text": "Und selbstverst\u00e4ndlich w\u00fcrde ich hier auch Kurse f\u00fcr Studierende unterrichten, wenn das gew\u00fcnscht wird."
+                },
+                {
+                    "text": "Als Prompt Writer w\u00fcrden Sie vermutlich ein Vielfaches verdienen."
+                },
+                {
+                    "text": "(Lacht) Auf diese Stelle habe ich mich schon beworben."
+                },
+                {
+                    "text": "Ich habe allerdings noch keine R\u00fcckmeldung bekommen."
+                },
+                {
+                    "text": "Sie w\u00fcrden Ihren Job als Literaturwissenschaftler daf\u00fcr aufgeben?"
+                },
+                {
+                    "text": "Aber meine Familie und ich sind vor wenigen Monaten erst aus Pakistan nach D\u00e4nemark gezogen."
+                },
+                {
+                    "text": "Ich habe zwar in den USA studiert, aber ein Arbeitsvisum zu bekommen, w\u00e4re wahrscheinlich sehr kompliziert."
+                },
+                {
+                    "text": "Sie lachen jetzt vielleicht, aber ich habe die Angewohnheit, auf jeder Website, die ich besuche, als Erstes die Karriereseite anzusteuern."
+                },
+                {
+                    "text": "Das w\u00fcrde ich auch auf SPIEGEL.de machen, das ist so ein Spleen von mir."
+                },
+                {
+                    "text": "Ich komme aus einer Arbeiterfamilie und bin in Pakistan in recht \u00e4rmlichen Verh\u00e4ltnissen gro\u00df geworden, wahrscheinlich hat es damit zu tun."
+                },
+                {
+                    "text": "Jedenfalls habe ich dann die Karriereseite dieser KI-Firma angeklickt und dort diesen Job gefunden."
+                },
+                {
+                    "text": "Da dachte ich direkt: Hey, das w\u00e4re doch was f\u00fcr mich und habe gleich das Bewerberformular ausgef\u00fcllt."
+                },
+                {
+                    "text": "Das kann ich schlecht einsch\u00e4tzen, da m\u00fcssen Sie einen KI-Wissenschaftler fragen."
+                },
+                {
+                    "text": "Ich bin allerdings davon \u00fcberzeugt, dass Menschen, die gute Prompts schreiben k\u00f6nnen, in Zukunft gefragt sein werden."
+                },
+                {
+                    "text": "Das ist nicht verwerflich, ich unterrichte ja selbst."
+                },
+                {
+                    "text": "Aber ich finde das zu kurz gedacht: Meiner Meinung nach m\u00fcssten wir an den Unis nicht nur unterrichten, wie man Gedichte analysiert und Seminararbeiten verfasst, sondern auch, wie man seine W\u00f6rter zu Geld machen kann."
+                },
+                {
+                    "text": "Indem man wie Sie Tutorials und Webinare verkauft?"
+                },
+                {
+                    "text": "Wenn ich das Thema anspreche, hei\u00dft es meistens: Twitter ist toxisch."
+                }
+            ],
+            "occupations": [
+                {
+                    "text": "Prompt Writer"
+                },
+                {
+                    "text": "Literaturwissenschaftler"
+                }
+            ],
+            "directQuotes": [
+                {
+                    "text": "Ein Jahresgehalt von 300.000 Dollar ist nat\u00fcrlich verlockend"
+                },
+                {
+                    "text": "Umgang mit KI"
+                },
+                {
+                    "text": "In der IT versteht man unter \"prompt\" eine Befehlszeile. Beim \"prompt writing\" geht es darum, eine Anfrage an eine K\u00fcnstliche Intelligenz wie ChatGPT so zu formulieren, dass sie das optimale Ergebnis liefert. Wenn man ChatGPT zum Beispiel fragt: Wer ist Franco Moretti? Dann bekommt man eine gute Zusammenfassung, die man aber auch auf Wikipedia finden k\u00f6nnte. Richtig interessant wird es erst, wenn ich der KI Thema und Kontext vorgebe und die Aufgabe spezifiziere."
+                }
+            ],
+            "quotedInTitle": false,
+            "quotedInIntro": true
+        }
+    ]
+}

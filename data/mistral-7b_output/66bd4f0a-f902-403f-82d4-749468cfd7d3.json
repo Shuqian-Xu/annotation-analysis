@@ -1,0 +1,176 @@
+{
+    "persons": [
+        {
+            "name": "Dmitro",
+            "alternativeNames": [],
+            "age": 43,
+            "sex": "male",
+            "occurences": {
+                "total": 5,
+                "firstNameOnly": 0,
+                "lastNameOnly": 0,
+                "fullName": 5,
+                "nickname": 0
+            },
+            "inTitle": false,
+            "inIntro": false,
+            "_name": {
+                "firstname": "Dmitro",
+                "lastname": null,
+                "nickname": null,
+                "alternative_names": [],
+                "academic_title": null,
+                "nobility_title_or_rank": null
+            },
+            "descriptiveTexts": [
+                {
+                    "text": "Fragt man die Kiewer, wie sie mit den verst\u00e4rkten Luftangriffen aus Russland umgehen, bekommt man von jedem eine andere Antwort."
+                },
+                {
+                    "text": "Sie wollen ausschlafen, sich nicht von den fast t\u00e4glichen Alarmmeldungen stressen lassen."
+                },
+                {
+                    "text": "Sie beobachten jede Telegram-Meldung und machen sich bereit, ihre Wohnung bei steigender Gefahr zu verlassen."
+                },
+                {
+                    "text": "Sie sind in der Minderheit."
+                },
+                {
+                    "text": "Ein paar Meter weiter, unter einem Abbild sozialistischer Arbeiter, sitzen Nastja, 37, und Dmitro, 43, auf einer Isomatte."
+                },
+                {
+                    "text": "Sie suchten zum ersten Mal Schutz in einer Metrostation, sagen sie."
+                },
+                {
+                    "text": "2022 h\u00e4tten sie in den ersten beiden Kriegswochen im unterirdischen Parkhaus ihres Wohngeb\u00e4udes gelebt."
+                },
+                {
+                    "text": "In den vergangenen Wochen, als in Kiew die W\u00e4nde der Stadt von den Explosionen bebten, verbrachten sie die Morgen wieder im Parkhaus."
+                },
+                {
+                    "text": "Also h\u00e4tten sie sich f\u00fcr den n\u00e4chsten gr\u00f6\u00dferen Luftalarm vorgenommen, sich besser in Sicherheit zu bringen."
+                },
+                {
+                    "text": "Dass sie in die Metro gekommen sind, nennt Dmitro \u00bbTraining\u00ab."
+                },
+                {
+                    "text": "Sie wollten schauen, wie viel Zeit sie von zu Hause aus ben\u00f6tigten."
+                },
+                {
+                    "text": "Eigentlich m\u00fcssten sie schneller sein, sagt Nastja."
+                },
+                {
+                    "text": "Eine Kinschal-Rakete br\u00e4uchte drei Minuten, um Kiew als Ziel zu treffen, nachdem sie abgeschossen wurde."
+                },
+                {
+                    "text": "Nach fast zwei Jahren Krieg kennen die Ukrainer das Vokabular des Krieges: Sie wissen die Namen der russischen Kampfflugzeuge, der Drohnen, der Marschflugk\u00f6rper, Raketentypen \u2013 und welche Waffe wie schnell f\u00fcr sie zur Bedrohung wird."
+                },
+                {
+                    "text": "Ihr Mann Dmitro sagt: \u00bbDiejenigen, die sich Sorgen machen, haben das Land schon l\u00e4ngst verlassen.\u00ab"
+                },
+                {
+                    "text": "In der Metrostation Teatralna falten die Schutzsuchenden die Klappst\u00fchle zusammen, geben sie an die Metroaufseher zur\u00fcck."
+                },
+                {
+                    "text": "Dmitro rollt seine Isomatte ein, Nastja weckt ihre Tochter."
+                },
+                {
+                    "text": "Dmitro wird sich einen Anzug anziehen, zu seiner Kanzlei laufen."
+                }
+            ],
+            "occupations": [],
+            "directQuotes": [],
+            "quotedInTitle": false,
+            "quotedInIntro": false
+        },
+        {
+            "name": "Nastja",
+            "alternativeNames": [],
+            "age": 37,
+            "sex": "female",
+            "occurences": {
+                "total": 6,
+                "firstNameOnly": 0,
+                "lastNameOnly": 0,
+                "fullName": 6,
+                "nickname": 0
+            },
+            "inTitle": false,
+            "inIntro": false,
+            "_name": {
+                "firstname": "Nastja",
+                "lastname": null,
+                "nickname": null,
+                "alternative_names": [],
+                "academic_title": null,
+                "nobility_title_or_rank": null
+            },
+            "descriptiveTexts": [
+                {
+                    "text": "Fragt man die Kiewer, wie sie mit den verst\u00e4rkten Luftangriffen aus Russland umgehen, bekommt man von jedem eine andere Antwort."
+                },
+                {
+                    "text": "Sie wollen ausschlafen, sich nicht von den fast t\u00e4glichen Alarmmeldungen stressen lassen."
+                },
+                {
+                    "text": "Sie beobachten jede Telegram-Meldung und machen sich bereit, ihre Wohnung bei steigender Gefahr zu verlassen."
+                },
+                {
+                    "text": "Sie sind in der Minderheit."
+                },
+                {
+                    "text": "Ein paar Meter weiter, unter einem Abbild sozialistischer Arbeiter, sitzen Nastja, 37, und Dmitro, 43, auf einer Isomatte."
+                },
+                {
+                    "text": "Sie suchten zum ersten Mal Schutz in einer Metrostation, sagen sie."
+                },
+                {
+                    "text": "2022 h\u00e4tten sie in den ersten beiden Kriegswochen im unterirdischen Parkhaus ihres Wohngeb\u00e4udes gelebt."
+                },
+                {
+                    "text": "In den vergangenen Wochen, als in Kiew die W\u00e4nde der Stadt von den Explosionen bebten, verbrachten sie die Morgen wieder im Parkhaus."
+                },
+                {
+                    "text": "\u00bbSo viele Explosionen und Ersch\u00fctterungen gab es bisher nur zu Beginn des Krieges\u00ab, sagt Nastja."
+                },
+                {
+                    "text": "Also h\u00e4tten sie sich f\u00fcr den n\u00e4chsten gr\u00f6\u00dferen Luftalarm vorgenommen, sich besser in Sicherheit zu bringen."
+                },
+                {
+                    "text": "Dass sie in die Metro gekommen sind, nennt Dmitro \u00bbTraining\u00ab."
+                },
+                {
+                    "text": "Sie wollten schauen, wie viel Zeit sie von zu Hause aus ben\u00f6tigten."
+                },
+                {
+                    "text": "Eigentlich m\u00fcssten sie schneller sein, sagt Nastja."
+                },
+                {
+                    "text": "Eine Kinschal-Rakete br\u00e4uchte drei Minuten, um Kiew als Ziel zu treffen, nachdem sie abgeschossen wurde."
+                },
+                {
+                    "text": "Nach fast zwei Jahren Krieg kennen die Ukrainer das Vokabular des Krieges: Sie wissen die Namen der russischen Kampfflugzeuge, der Drohnen, der Marschflugk\u00f6rper, Raketentypen \u2013 und welche Waffe wie schnell f\u00fcr sie zur Bedrohung wird."
+                },
+                {
+                    "text": "\u00bbMan kann sich nicht an den Krieg gew\u00f6hnen\u00ab, sagt Nastja und l\u00e4chelt."
+                },
+                {
+                    "text": "In der Metrostation Teatralna falten die Schutzsuchenden die Klappst\u00fchle zusammen, geben sie an die Metroaufseher zur\u00fcck."
+                },
+                {
+                    "text": "Dmitro rollt seine Isomatte ein, Nastja weckt ihre Tochter."
+                },
+                {
+                    "text": "Sie verabschieden sich."
+                },
+                {
+                    "text": "Nastja wird die Kinder in den Kindergarten und zur Schule bringen."
+                }
+            ],
+            "occupations": [],
+            "directQuotes": [],
+            "quotedInTitle": false,
+            "quotedInIntro": false
+        }
+    ]
+}

@@ -1,0 +1,403 @@
+{
+    "persons": [
+        {
+            "name": "Doreen Nowotne",
+            "alternativeNames": [],
+            "age": -1,
+            "sex": "female",
+            "occurences": {
+                "total": 1,
+                "firstNameOnly": 0,
+                "lastNameOnly": 0,
+                "fullName": 1,
+                "nickname": 0
+            },
+            "inTitle": false,
+            "inIntro": false,
+            "_name": {
+                "firstname": "Doreen",
+                "lastname": "Nowotne",
+                "nickname": null,
+                "alternative_names": [],
+                "academic_title": null,
+                "nobility_title_or_rank": null
+            },
+            "descriptiveTexts": [
+                {
+                    "text": "Dessen Chefin Doreen Nowotne h\u00f6rt auf."
+                }
+            ],
+            "occupations": [],
+            "directQuotes": [
+                {
+                    "text": "Bundesliga-Dino"
+                }
+            ],
+            "quotedInTitle": false,
+            "quotedInIntro": false
+        },
+        {
+            "name": "Katharina Slodczyk",
+            "alternativeNames": [],
+            "age": -1,
+            "sex": "female",
+            "occurences": {
+                "total": 1,
+                "firstNameOnly": 0,
+                "lastNameOnly": 0,
+                "fullName": 1,
+                "nickname": 0
+            },
+            "inTitle": false,
+            "inIntro": false,
+            "_name": {
+                "firstname": "Katharina",
+                "lastname": "Slodczyk",
+                "nickname": null,
+                "alternative_names": [],
+                "academic_title": null,
+                "nobility_title_or_rank": null
+            },
+            "descriptiveTexts": [
+                {
+                    "text": "Warum dieser strategisch geplante Showdown ein Lehrst\u00fcck \u00fcber die wachsende Macht aktivistischer Investoren ist und welche Rolle hier erstmals die sogenannten Stimmrechtsberater spielen, das erkl\u00e4ren Ihnen schon vorab meine Kolleginnen Eva Buchhorn und Katharina Slodczyk."
+                },
+                {
+                    "text": "Im mm-Interview hat er sein bisheriges Investment allerdings selbstkritisch als \"Flop\" bezeichnet."
+                }
+            ],
+            "occupations": [],
+            "directQuotes": [],
+            "quotedInTitle": false,
+            "quotedInIntro": false
+        },
+        {
+            "name": "Eva Buchhorn",
+            "alternativeNames": [],
+            "age": -1,
+            "sex": "female",
+            "occurences": {
+                "total": 1,
+                "firstNameOnly": 0,
+                "lastNameOnly": 0,
+                "fullName": 1,
+                "nickname": 0
+            },
+            "inTitle": false,
+            "inIntro": false,
+            "_name": {
+                "firstname": "Eva",
+                "lastname": "Buchhorn",
+                "nickname": null,
+                "alternative_names": [],
+                "academic_title": null,
+                "nobility_title_or_rank": null
+            },
+            "descriptiveTexts": [
+                {
+                    "text": "Warum dieser strategisch geplante Showdown ein Lehrst\u00fcck \u00fcber die wachsende Macht aktivistischer Investoren ist und welche Rolle hier erstmals die sogenannten Stimmrechtsberater spielen, das erkl\u00e4ren Ihnen schon vorab meine Kolleginnen Eva Buchhorn und Katharina Slodczyk."
+                },
+                {
+                    "text": "Im mm-Interview hat er sein bisheriges Investment allerdings selbstkritisch als \"Flop\" bezeichnet."
+                }
+            ],
+            "occupations": [],
+            "directQuotes": [],
+            "quotedInTitle": false,
+            "quotedInIntro": false
+        },
+        {
+            "name": "Jay Powell",
+            "alternativeNames": [
+                "Powells"
+            ],
+            "age": -1,
+            "sex": "male",
+            "occurences": {
+                "total": 2,
+                "firstNameOnly": 0,
+                "lastNameOnly": 1,
+                "fullName": 1,
+                "nickname": 0
+            },
+            "inTitle": false,
+            "inIntro": false,
+            "_name": {
+                "firstname": "Jay",
+                "lastname": "Powell",
+                "nickname": null,
+                "alternative_names": [
+                    "Powells"
+                ],
+                "academic_title": null,
+                "nobility_title_or_rank": null
+            },
+            "descriptiveTexts": [
+                {
+                    "text": "Es ist noch nicht amtlich, aber an der B\u00f6rse trug es heute schon zu einem Dax-Rekordhoch bei: Die US-Notenbanker um Fed-Chef Jay Powell werden bei ihrer Sitzung am heutigen Abend wahrscheinlich auf eine Zinserh\u00f6hung verzichten."
+                },
+                {
+                    "text": "Die Fed-Watcher reden von einer \"Pause\" oder einem \"Aussetzen\", nicht vom Ende der Straffungspolitik; Powells Kollegen von der EZB d\u00fcrften bei ihrem morgigen Treffen eine weitere Zinserh\u00f6hung beschlie\u00dfen."
+                }
+            ],
+            "occupations": [
+                {
+                    "text": "Fed-Chef"
+                }
+            ],
+            "directQuotes": [],
+            "quotedInTitle": false,
+            "quotedInIntro": false
+        },
+        {
+            "name": "Laurenz Meyer",
+            "alternativeNames": [],
+            "age": -1,
+            "sex": "male",
+            "occurences": {
+                "total": 4,
+                "firstNameOnly": 0,
+                "lastNameOnly": 3,
+                "fullName": 1,
+                "nickname": 0
+            },
+            "inTitle": false,
+            "inIntro": false,
+            "_name": {
+                "firstname": "Laurenz",
+                "lastname": "Meyer",
+                "nickname": null,
+                "alternative_names": [],
+                "academic_title": null,
+                "nobility_title_or_rank": null
+            },
+            "descriptiveTexts": [
+                {
+                    "text": "Follow the sun: Europas einziger Solarzellenhersteller, Meyer Burger, pr\u00fcft den Kapazit\u00e4tsausbau in den USA und stellt das geplante hohe Produktionswachstum in Deutschland infrage."
+                },
+                {
+                    "text": "\"In den USA rollt man uns (...) den roten Teppich aus\", schreibt Meyer Burger in einem Brief an den Bundesfinanzminister."
+                },
+                {
+                    "text": "Das zeigt mein Kollege Claus Gorgs in einer besonders bodenst\u00e4ndigen Case Study: Laurenz Meyer, der auch auf Kurzstrecken noch immer einen Diesel f\u00e4hrt, hat seinen Gem\u00fcse- und Obstverarbeiter bei Bremen zu einem Vorreiter der Energiewende gemacht."
+                },
+                {
+                    "text": "Gem\u00fcse Meyer schrubbt und frostet heute \u00fcberwiegend mit selbst erzeugtem Gr\u00fcnstrom."
+                }
+            ],
+            "occupations": [
+                {
+                    "text": "Gem\u00fcse- und Obstverarbeiter"
+                }
+            ],
+            "directQuotes": [],
+            "quotedInTitle": false,
+            "quotedInIntro": false
+        },
+        {
+            "name": "Christian Sch\u00fctte",
+            "alternativeNames": [],
+            "age": -1,
+            "sex": "male",
+            "occurences": {
+                "total": 1,
+                "firstNameOnly": 0,
+                "lastNameOnly": 0,
+                "fullName": 1,
+                "nickname": 0
+            },
+            "inTitle": false,
+            "inIntro": false,
+            "_name": {
+                "firstname": "Christian",
+                "lastname": "Sch\u00fctte",
+                "nickname": null,
+                "alternative_names": [],
+                "academic_title": null,
+                "nobility_title_or_rank": null
+            },
+            "descriptiveTexts": [
+                {
+                    "text": "Ich w\u00fcnsche Ihnen einen erholsamen Abend, Ihr Christian Sch\u00fctte"
+                }
+            ],
+            "occupations": [],
+            "directQuotes": [],
+            "quotedInTitle": false,
+            "quotedInIntro": false
+        },
+        {
+            "name": "Carmine Di Sibio",
+            "alternativeNames": [],
+            "age": 60,
+            "sex": "male",
+            "occurences": {
+                "total": 2,
+                "firstNameOnly": 0,
+                "lastNameOnly": 1,
+                "fullName": 1,
+                "nickname": 0
+            },
+            "inTitle": false,
+            "inIntro": false,
+            "_name": {
+                "firstname": "Carmine",
+                "lastname": "Di Sibio",
+                "nickname": null,
+                "alternative_names": [],
+                "academic_title": null,
+                "nobility_title_or_rank": null
+            },
+            "descriptiveTexts": [
+                {
+                    "text": "Zugleich reduziert er sein Investitionsbudget, will die Gasf\u00f6rderung steigern und die \u00d6lf\u00f6rderung bis 2030 konstant halten."
+                },
+                {
+                    "text": "Carmine Di Sibio, der EY-Weltchef, ist damit im April gescheitert."
+                },
+                {
+                    "text": "Di Sibio h\u00f6rt erst in einem Jahr auf, doch der Wettlauf um seine Nachfolge ist ab sofort er\u00f6ffnet."
+                }
+            ],
+            "occupations": [],
+            "directQuotes": [],
+            "quotedInTitle": false,
+            "quotedInIntro": false
+        },
+        {
+            "name": "Claus Gorg",
+            "alternativeNames": [],
+            "age": -1,
+            "sex": "male",
+            "occurences": {
+                "total": 1,
+                "firstNameOnly": 0,
+                "lastNameOnly": 0,
+                "fullName": 1,
+                "nickname": 0
+            },
+            "inTitle": false,
+            "inIntro": false,
+            "_name": {
+                "firstname": "Claus",
+                "lastname": "Gorg",
+                "nickname": null,
+                "alternative_names": [],
+                "academic_title": null,
+                "nobility_title_or_rank": null
+            },
+            "descriptiveTexts": [
+                {
+                    "text": "Das zeigt mein Kollege Claus Gorgs in einer besonders bodenst\u00e4ndigen Case Study: Laurenz Meyer, der auch auf Kurzstrecken noch immer einen Diesel f\u00e4hrt, hat seinen Gem\u00fcse- und Obstverarbeiter bei Bremen zu einem Vorreiter der Energiewende gemacht."
+                }
+            ],
+            "occupations": [],
+            "directQuotes": [],
+            "quotedInTitle": false,
+            "quotedInIntro": false
+        },
+        {
+            "name": "Dino",
+            "alternativeNames": [],
+            "age": -1,
+            "sex": "unknown",
+            "occurences": {
+                "total": 2,
+                "firstNameOnly": 0,
+                "lastNameOnly": 0,
+                "fullName": 2,
+                "nickname": 0
+            },
+            "inTitle": false,
+            "inIntro": false,
+            "_name": {
+                "firstname": "Dino",
+                "lastname": null,
+                "nickname": null,
+                "alternative_names": [],
+                "academic_title": null,
+                "nobility_title_or_rank": null
+            },
+            "descriptiveTexts": [
+                {
+                    "text": "Dino-Treue: Trotz des erneut verpassten Aufstiegs erh\u00e4lt der Fu\u00dfball-Zweitligist Hamburger SV weitere 30 Millionen Euro vom Investor und AG-Anteilseigner Klaus-Michael K\u00fchne."
+                },
+                {
+                    "text": "Der Multimilliard\u00e4r st\u00fctzt den einstigen \"Bundesliga-Dino\" HSV seit Jahren."
+                }
+            ],
+            "occupations": [],
+            "directQuotes": [],
+            "quotedInTitle": false,
+            "quotedInIntro": false
+        },
+        {
+            "name": "Ingmar H\u00f6hmann",
+            "alternativeNames": [],
+            "age": -1,
+            "sex": "male",
+            "occurences": {
+                "total": 1,
+                "firstNameOnly": 0,
+                "lastNameOnly": 0,
+                "fullName": 1,
+                "nickname": 0
+            },
+            "inTitle": false,
+            "inIntro": false,
+            "_name": {
+                "firstname": "Ingmar",
+                "lastname": "H\u00f6hmann",
+                "nickname": null,
+                "alternative_names": [],
+                "academic_title": null,
+                "nobility_title_or_rank": null
+            },
+            "descriptiveTexts": [
+                {
+                    "text": "Warum die \"Viability\" \u2013 die Wirtschaftlichkeit \u2013 der Schl\u00fcssel zur echten Innovation ist, und wie man sich an sie heranarbeitet, erkl\u00e4rt mein Kollege Ingmar H\u00f6hmann in seiner Kolumne \"Strategie zum Fr\u00fchst\u00fcck\"."
+                }
+            ],
+            "occupations": [],
+            "directQuotes": [],
+            "quotedInTitle": false,
+            "quotedInIntro": false
+        },
+        {
+            "name": "Michael K\u00fchne",
+            "alternativeNames": [],
+            "age": -1,
+            "sex": "male",
+            "occurences": {
+                "total": 1,
+                "firstNameOnly": 0,
+                "lastNameOnly": 0,
+                "fullName": 1,
+                "nickname": 0
+            },
+            "inTitle": false,
+            "inIntro": false,
+            "_name": {
+                "firstname": "Michael",
+                "lastname": "K\u00fchne",
+                "nickname": null,
+                "alternative_names": [],
+                "academic_title": null,
+                "nobility_title_or_rank": null
+            },
+            "descriptiveTexts": [
+                {
+                    "text": "Dino-Treue: Trotz des erneut verpassten Aufstiegs erh\u00e4lt der Fu\u00dfball-Zweitligist Hamburger SV weitere 30 Millionen Euro vom Investor und AG-Anteilseigner Klaus-Michael K\u00fchne."
+                }
+            ],
+            "occupations": [
+                {
+                    "text": "Investor und AG-Anteilseigner"
+                }
+            ],
+            "directQuotes": [],
+            "quotedInTitle": false,
+            "quotedInIntro": false
+        }
+    ]
+}

@@ -1,0 +1,234 @@
+{
+    "persons": [
+        {
+            "name": "Max Viessmann",
+            "alternativeNames": [],
+            "age": -1,
+            "sex": "male",
+            "occurences": {
+                "total": 6,
+                "firstNameOnly": 0,
+                "lastNameOnly": 5,
+                "fullName": 1,
+                "nickname": 0
+            },
+            "inTitle": false,
+            "inIntro": false,
+            "_name": {
+                "firstname": "Max",
+                "lastname": "Viessmann",
+                "nickname": null,
+                "alternative_names": [],
+                "academic_title": null,
+                "nobility_title_or_rank": null
+            },
+            "descriptiveTexts": [
+                {
+                    "text": "Bei Viessmann, Bosch, Vaillant und Co. klingeln die Kassen, denn deutsche Bauherren verbauen immer h\u00e4ufiger elektrische W\u00e4rmepumpen."
+                },
+                {
+                    "text": "Viessmann rechnet mit schnellem Hochlauf f\u00fcr W\u00e4rmepumpen"
+                },
+                {
+                    "text": "Viessmann-Chef Max Viessmann blickt dagegen optimistischer nach vorn und sieht einen klaren Trend hin zu einem schnellen Hochlauf von W\u00e4rmepumpen."
+                },
+                {
+                    "text": "Viessmann hatte Ende April bekannt gegeben, die Klimatechnik-Sparte f\u00fcr zw\u00f6lf Milliarden Euro an den US-Konzern Carrier Global zu verkaufen."
+                },
+                {
+                    "text": "Der Viessmann-Chef will seine Verkaufsentscheidung aber frei vom Heizungsgesetz verstanden wissen und verweist auf den j\u00fcngsten Boom."
+                }
+            ],
+            "occupations": [],
+            "directQuotes": [
+                {
+                    "text": "Ein globaler Champion f\u00fcr intelligente Klima- und Energiel\u00f6sungen"
+                },
+                {
+                    "text": "Die Sto\u00dfrichtung ist also klar, genauso wie die Aufbruchstimmung im gesamten Land \u2013 unabh\u00e4ngig von vereinzelten Diskussionen in Berlin."
+                }
+            ],
+            "quotedInTitle": false,
+            "quotedInIntro": false
+        },
+        {
+            "name": "Vaillant",
+            "alternativeNames": [],
+            "age": -1,
+            "sex": "unknown",
+            "occurences": {
+                "total": 1,
+                "firstNameOnly": 0,
+                "lastNameOnly": 0,
+                "fullName": 1,
+                "nickname": 0
+            },
+            "inTitle": false,
+            "inIntro": false,
+            "_name": {
+                "firstname": null,
+                "lastname": "Vaillant",
+                "nickname": null,
+                "alternative_names": [],
+                "academic_title": null,
+                "nobility_title_or_rank": null
+            },
+            "descriptiveTexts": [
+                {
+                    "text": "Inzwischen sind sie in Neubauten die am meisten verbaute prim\u00e4re Heizquelle."
+                },
+                {
+                    "text": "Bei Viessmann, Bosch, Vaillant und Co. klingeln die Kassen, denn deutsche Bauherren verbauen immer h\u00e4ufiger elektrische W\u00e4rmepumpen."
+                },
+                {
+                    "text": "In den kommenden Jahren werden der Studie zufolge staatliche Regulierung und die sinkenden Kosten f\u00fcr W\u00e4rmepumpen aufgrund technischen Fortschritts daf\u00fcr sorgen, dass sie auch im Bestand ihren Marktanteil ausbauen."
+                }
+            ],
+            "occupations": [],
+            "directQuotes": [],
+            "quotedInTitle": false,
+            "quotedInIntro": false
+        },
+        {
+            "name": "Christian Lindner",
+            "alternativeNames": [],
+            "age": -1,
+            "sex": "male",
+            "occurences": {
+                "total": 1,
+                "firstNameOnly": 0,
+                "lastNameOnly": 0,
+                "fullName": 1,
+                "nickname": 0
+            },
+            "inTitle": false,
+            "inIntro": false,
+            "_name": {
+                "firstname": "Christian",
+                "lastname": "Lindner",
+                "nickname": null,
+                "alternative_names": [],
+                "academic_title": null,
+                "nobility_title_or_rank": null
+            },
+            "descriptiveTexts": [
+                {
+                    "text": "Jetzt versuchen sogar die drei Spitzen der Ampel, Kanzler Olaf Scholz (64, SPD), Vizekanzler Habeck und Finanzminister Christian Lindner (44, FDP), eine L\u00f6sung f\u00fcr den festgefahrenen Heizungsstreit zu finden und treffen sich am Dienstag zu einem Notfall-Schlichtungsgespr\u00e4ch \u00fcber das sogenannte Geb\u00e4udeenergiegesetz."
+                }
+            ],
+            "occupations": [],
+            "directQuotes": [],
+            "quotedInTitle": false,
+            "quotedInIntro": false
+        },
+        {
+            "name": "Olaf Scholz",
+            "alternativeNames": [],
+            "age": 64,
+            "sex": "male",
+            "occurences": {
+                "total": 1,
+                "firstNameOnly": 0,
+                "lastNameOnly": 0,
+                "fullName": 1,
+                "nickname": 0
+            },
+            "inTitle": false,
+            "inIntro": false,
+            "_name": {
+                "firstname": "Olaf",
+                "lastname": "Scholz",
+                "nickname": null,
+                "alternative_names": [],
+                "academic_title": null,
+                "nobility_title_or_rank": null
+            },
+            "descriptiveTexts": [
+                {
+                    "text": "Jetzt versuchen sogar die drei Spitzen der Ampel, Kanzler Olaf Scholz (64, SPD), Vizekanzler Habeck und Finanzminister Christian Lindner (44, FDP), eine L\u00f6sung f\u00fcr den festgefahrenen Heizungsstreit zu finden und treffen sich am Dienstag zu einem Notfall-Schlichtungsgespr\u00e4ch \u00fcber das sogenannte Geb\u00e4udeenergiegesetz."
+                }
+            ],
+            "occupations": [],
+            "directQuotes": [],
+            "quotedInTitle": false,
+            "quotedInIntro": false
+        },
+        {
+            "name": "Robert Habeck",
+            "alternativeNames": [],
+            "age": 53,
+            "sex": "male",
+            "occurences": {
+                "total": 2,
+                "firstNameOnly": 0,
+                "lastNameOnly": 1,
+                "fullName": 1,
+                "nickname": 0
+            },
+            "inTitle": false,
+            "inIntro": false,
+            "_name": {
+                "firstname": "Robert",
+                "lastname": "Habeck",
+                "nickname": null,
+                "alternative_names": [],
+                "academic_title": null,
+                "nobility_title_or_rank": null
+            },
+            "descriptiveTexts": [
+                {
+                    "text": "Wirtschaftsminister Robert Habeck (53, Gr\u00fcne) will, dass ab 2024 keine reinen \u00d6l- oder Gasheizungen mehr eingebaut werden d\u00fcrfen und W\u00e4rmepumpen als Heizungsform eine gro\u00dfe Bedeutung zukommen."
+                },
+                {
+                    "text": "Jetzt versuchen sogar die drei Spitzen der Ampel, Kanzler Olaf Scholz (64, SPD), Vizekanzler Habeck und Finanzminister Christian Lindner (44, FDP), eine L\u00f6sung f\u00fcr den festgefahrenen Heizungsstreit zu finden und treffen sich am Dienstag zu einem Notfall-Schlichtungsgespr\u00e4ch \u00fcber das sogenannte Geb\u00e4udeenergiegesetz."
+                }
+            ],
+            "occupations": [
+                {
+                    "text": "Wirtschaftsminister"
+                }
+            ],
+            "directQuotes": [],
+            "quotedInTitle": false,
+            "quotedInIntro": false
+        },
+        {
+            "name": "Bosch",
+            "alternativeNames": [],
+            "age": -1,
+            "sex": "unknown",
+            "occurences": {
+                "total": 1,
+                "firstNameOnly": 0,
+                "lastNameOnly": 0,
+                "fullName": 1,
+                "nickname": 0
+            },
+            "inTitle": false,
+            "inIntro": false,
+            "_name": {
+                "firstname": null,
+                "lastname": "Bosch",
+                "nickname": null,
+                "alternative_names": [],
+                "academic_title": null,
+                "nobility_title_or_rank": null
+            },
+            "descriptiveTexts": [
+                {
+                    "text": "Inzwischen sind sie in Neubauten die am meisten verbaute prim\u00e4re Heizquelle."
+                },
+                {
+                    "text": "Bei Viessmann, Bosch, Vaillant und Co. klingeln die Kassen, denn deutsche Bauherren verbauen immer h\u00e4ufiger elektrische W\u00e4rmepumpen."
+                },
+                {
+                    "text": "In den kommenden Jahren werden der Studie zufolge staatliche Regulierung und die sinkenden Kosten f\u00fcr W\u00e4rmepumpen aufgrund technischen Fortschritts daf\u00fcr sorgen, dass sie auch im Bestand ihren Marktanteil ausbauen."
+                }
+            ],
+            "occupations": [],
+            "directQuotes": [],
+            "quotedInTitle": false,
+            "quotedInIntro": false
+        }
+    ]
+}

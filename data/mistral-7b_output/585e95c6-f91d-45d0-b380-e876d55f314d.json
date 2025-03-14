@@ -1,0 +1,967 @@
+{
+    "persons": [
+        {
+            "name": "Zimmermann",
+            "alternativeNames": [],
+            "age": -1,
+            "sex": "unknown",
+            "occurences": {
+                "total": 2,
+                "firstNameOnly": 0,
+                "lastNameOnly": 0,
+                "fullName": 2,
+                "nickname": 0
+            },
+            "inTitle": false,
+            "inIntro": false,
+            "_name": {
+                "firstname": null,
+                "lastname": "Zimmermann",
+                "nickname": null,
+                "alternative_names": [],
+                "academic_title": null,
+                "nobility_title_or_rank": null
+            },
+            "descriptiveTexts": [
+                {
+                    "text": "\u00bbIch fasse das nicht\u00ab, sagt die FDP-Verteidigungspolitikerin Marie-Agnes Strack-Zimmermann."
+                },
+                {
+                    "text": "Andere w\u00fcrden gro\u00dfe Reden schwingen, aber: \u00bbIn 20 Jahren wird nicht der Name von Marie-Agnes Strack-Zimmermann in Geschichtsb\u00fcchern stehen, sondern der Name Olaf Scholz.\u00ab"
+                }
+            ],
+            "occupations": [],
+            "directQuotes": [],
+            "quotedInTitle": false,
+            "quotedInIntro": false
+        },
+        {
+            "name": "K\u00fchne",
+            "alternativeNames": [],
+            "age": -1,
+            "sex": "unknown",
+            "occurences": {
+                "total": 1,
+                "firstNameOnly": 0,
+                "lastNameOnly": 0,
+                "fullName": 1,
+                "nickname": 0
+            },
+            "inTitle": false,
+            "inIntro": false,
+            "_name": {
+                "firstname": null,
+                "lastname": "K\u00fchne",
+                "nickname": null,
+                "alternative_names": [],
+                "academic_title": null,
+                "nobility_title_or_rank": null
+            },
+            "descriptiveTexts": [
+                {
+                    "text": "K\u00fchne Visionen, wie sie Macron propagiert, bergen aus seiner Sicht unkalkulierbare Risiken."
+                }
+            ],
+            "occupations": [],
+            "directQuotes": [
+                {
+                    "text": "Konsens"
+                }
+            ],
+            "quotedInTitle": false,
+            "quotedInIntro": false
+        },
+        {
+            "name": "Anton Hofreiter",
+            "alternativeNames": [],
+            "age": -1,
+            "sex": "male",
+            "occurences": {
+                "total": 1,
+                "firstNameOnly": 0,
+                "lastNameOnly": 0,
+                "fullName": 1,
+                "nickname": 0
+            },
+            "inTitle": false,
+            "inIntro": false,
+            "_name": {
+                "firstname": "Anton",
+                "lastname": "Hofreiter",
+                "nickname": null,
+                "alternative_names": [],
+                "academic_title": null,
+                "nobility_title_or_rank": null
+            },
+            "descriptiveTexts": [
+                {
+                    "text": "\u00bbNichts von alldem stimmt\u00ab, emp\u00f6rt sich der Gr\u00fcne Anton Hofreiter."
+                }
+            ],
+            "occupations": [],
+            "directQuotes": [],
+            "quotedInTitle": false,
+            "quotedInIntro": false
+        },
+        {
+            "name": "Emmanuel Macron",
+            "alternativeNames": [],
+            "age": -1,
+            "sex": "male",
+            "occurences": {
+                "total": 13,
+                "firstNameOnly": 0,
+                "lastNameOnly": 12,
+                "fullName": 1,
+                "nickname": 0
+            },
+            "inTitle": false,
+            "inIntro": false,
+            "_name": {
+                "firstname": "Emmanuel",
+                "lastname": "Macron",
+                "nickname": null,
+                "alternative_names": [],
+                "academic_title": null,
+                "nobility_title_or_rank": null
+            },
+            "descriptiveTexts": [
+                {
+                    "text": "Verschafft hat sie ihm Frankreichs Pr\u00e4sident Emmanuel Macron."
+                },
+                {
+                    "text": "Rund 20 Staats- und Regierungschefs sitzen im \u00c9lys\u00e9e-Palast zusammen, Macron hat sie zu einem Unterst\u00fctzertreffen f\u00fcr die Ukraine eingeladen."
+                },
+                {
+                    "text": "Macron bezweifelt, dass die bisherige Linie des Westens den russischen Pr\u00e4sidenten Wladimir Putin zum R\u00fcckzug aus der Ukraine bewegen kann."
+                },
+                {
+                    "text": "Macron regt an, \u00fcber die Entsendung von Bodentruppen zu sprechen."
+                },
+                {
+                    "text": "Rechts neben Macron sitzt Scholz, der Bundeskanzler er\u00f6ffnet die Aussprache, und er wird sehr deutlich: \u00bbI\u2019m dead against it\u00ab, sagt Scholz laut Teilnehmern \u2013 sinngem\u00e4\u00df: im Leben nicht."
+                },
+                {
+                    "text": "Macron steht mit seinem Vorsto\u00df offenbar ziemlich allein da."
+                },
+                {
+                    "text": "Doch nachdem Macron seine G\u00e4ste verabschiedet hat, tritt er vor die Presse und macht seine \u00dcberlegungen \u00f6ffentlich: Bodentruppen in die Ukraine, warum nicht?"
+                },
+                {
+                    "text": "Es gebe zwar keinen Konsens dar\u00fcber, so Macron, \u00bbaber in der Dynamik darf nichts ausgeschlossen werden. Wir werden alles tun, was n\u00f6tig ist, damit Russland diesen Krieg nicht gewinnen kann.\u00ab"
+                },
+                {
+                    "text": "Dann spottet er \u00fcber Scholz, ohne dessen Namen zu nennen: Wer heute etwa auf seine Idee mit \u00bbniemals, niemals\u00ab antworte, habe vor zwei Jahren noch \u00bbniemals, niemals Panzer\u00ab gerufen."
+                },
+                {
+                    "text": "Und als wolle er sichergehen, dass auch wirklich jeder versteht, wen er meint, legt Macron nach: \u00bbIch erinnere Sie daran, dass vor zwei Jahren viele an diesem Tisch sagten: Wir werden Schlafs\u00e4cke und Helme schicken.\u00ab"
+                },
+                {
+                    "text": "Als Macron seine Spitzen abfeuert, ist der Kanzler schon im Hotel."
+                },
+                {
+                    "text": "Es hat jetzt einen realen Hintergrund, wenn Scholz eine deutsche Kriegsbeteiligung ablehnt \u2013 weil den wenigsten W\u00e4hlern klar sein d\u00fcrfte, dass Macrons Vorsto\u00df lediglich ein Gedankenexperiment ist."
+                },
+                {
+                    "text": "Auch Putin spielt dem Bundeskanzler in die H\u00e4nde, als er den Westen kurz nach Macrons Vorsto\u00df vor einem Kriegseintritt warnt."
+                },
+                {
+                    "text": "Er selbst tastete sich bei jeder neuen Entscheidung vor \u2013 immer darauf bedacht, Putin keinen Vorwand zu liefern, Deutschland und die Nato zur Kriegspartei zu erkl\u00e4ren."
+                },
+                {
+                    "text": "K\u00fchne Visionen, wie sie Macron propagiert, bergen aus seiner Sicht unkalkulierbare Risiken."
+                }
+            ],
+            "occupations": [],
+            "directQuotes": [],
+            "quotedInTitle": false,
+            "quotedInIntro": false
+        },
+        {
+            "name": "Wolodymyr Selenskyj",
+            "alternativeNames": [],
+            "age": -1,
+            "sex": "male",
+            "occurences": {
+                "total": 3,
+                "firstNameOnly": 0,
+                "lastNameOnly": 2,
+                "fullName": 1,
+                "nickname": 0
+            },
+            "inTitle": false,
+            "inIntro": false,
+            "_name": {
+                "firstname": "Wolodymyr",
+                "lastname": "Selenskyj",
+                "nickname": null,
+                "alternative_names": [],
+                "academic_title": null,
+                "nobility_title_or_rank": null
+            },
+            "descriptiveTexts": [
+                {
+                    "text": "Tritt er mit Pr\u00e4sident Wolodymyr Selenskyj auf, wirken die beiden distanziert."
+                },
+                {
+                    "text": "Wenn Selenskyj an der Seite von EU-Kommissionspr\u00e4sidentin Ursula von der Leyen steht oder von US-Pr\u00e4sident Joe Biden, ist das deutlich anders."
+                },
+                {
+                    "text": "Anfang 2023 erz\u00e4hlte Scholz, er habe dar\u00fcber einen \u00bbKonsens\u00ab mit dem ukrainischen Pr\u00e4sidenten Selenskyj erzielt."
+                }
+            ],
+            "occupations": [],
+            "directQuotes": [],
+            "quotedInTitle": false,
+            "quotedInIntro": false
+        },
+        {
+            "name": "Tauru",
+            "alternativeNames": [],
+            "age": -1,
+            "sex": "unknown",
+            "occurences": {
+                "total": 24,
+                "firstNameOnly": 0,
+                "lastNameOnly": 0,
+                "fullName": 24,
+                "nickname": 0
+            },
+            "inTitle": false,
+            "inIntro": true,
+            "_name": {
+                "firstname": null,
+                "lastname": "Tauru",
+                "nickname": null,
+                "alternative_names": [],
+                "academic_title": null,
+                "nobility_title_or_rank": null
+            },
+            "descriptiveTexts": [
+                {
+                    "text": "Keine Taurus-Waffe."
+                },
+                {
+                    "text": "Er will ihnen zeigen: Ich nehme euch und eure Sorgen wahr."
+                },
+                {
+                    "text": "Keine Taurus-Marschflugk\u00f6rper f\u00fcr die Ukraine, keine deutschen Truppen: Beide Scholz-Versprechen d\u00fcrften gut ankommen."
+                },
+                {
+                    "text": "Einer Forsa-Umfrage zufolge finden 56 Prozent der Befragten, Deutschland solle die Pr\u00e4zisionswaffe Taurus nicht an die Ukraine liefern \u2013 nur 35 Prozent sind daf\u00fcr."
+                },
+                {
+                    "text": "Nur beim Waffensystem Taurus wiederholt sich dieses Muster bislang nicht, jenem Marschflugk\u00f6rper, der Ziele in mehr als 500 Kilometer Entfernung erreichen und zerst\u00f6ren kann, selbst dann, wenn sie stark gepanzert sind und tief unter der Erde liegen."
+                },
+                {
+                    "text": "Und auch hier bekommt der Kanzler die Frage gestellt: Warum keine Taurus-Waffen?"
+                },
+                {
+                    "text": "Mitte Februar wurde er auf der M\u00fcnchner Sicherheitskonferenz zum Thema Taurus gel\u00f6chert, auf gro\u00dfer B\u00fchne, vor der versammelten sicherheitspolitischen Elite des Westens."
+                },
+                {
+                    "text": "Vergangene Woche war Taurus das gro\u00dfe Thema im Bundestag, Scholz fehlte in der Debatte."
+                },
+                {
+                    "text": "Fachleute in der Bundeswehr und in der R\u00fcstungsindustrie wundern sich seit Monaten \u00fcber die Hartleibigkeit des Kanzlers im Fall Taurus."
+                },
+                {
+                    "text": "Die Ingenieure sollten technische M\u00f6glichkeiten aufzeigen, um zu verhindern, dass die Ukrainer mit dem Taurus Ziele tief in Russland angreifen."
+                },
+                {
+                    "text": "Taurus ohne Bundeswehr?"
+                },
+                {
+                    "text": "Sie hoffte auf einen PR-Schub: K\u00e4me das deutsch-schwedische Hightechsystem in der Ukraine zum Einsatz, w\u00e4re das wohl die beste Werbung f\u00fcr einen weltweiten Vertrieb des Taurus."
+                },
+                {
+                    "text": "Einmal, als die Experten technische M\u00f6glichkeiten zur Begrenzung des Taurus darlegten, fragten Scholz\u2019 Berater pl\u00f6tzlich, ob die Ukrainer die Limitierung r\u00fcckg\u00e4ngig machen k\u00f6nnten."
+                },
+                {
+                    "text": "Da musste der Hersteller passen: Es gebe keine Garantie daf\u00fcr, dass sich der Taurus nicht auf die Standardeinstellungen r\u00fcckprogrammieren lasse."
+                },
+                {
+                    "text": "Im Herbst er\u00f6ffnete der Kanzler den Au\u00dfenpolitikern des Bundestags in geheimer Sitzung erstmals, er wolle den Taurus nicht liefern."
+                },
+                {
+                    "text": "Es ist ein Argument, das kaum jemanden \u00fcberzeugt, der sich mit dem Taurus auskennt."
+                },
+                {
+                    "text": "Die Fakten sprechen dagegen, dass die Bundeswehr f\u00fcr einen Taurus-Einsatz in der Ukraine ben\u00f6tigt w\u00fcrde."
+                },
+                {
+                    "text": "Es spricht einiges daf\u00fcr, dass Scholz den Taurus nicht aus der Hand geben will, weil er den Ukrainern nicht traut, jedenfalls nicht ganz."
+                },
+                {
+                    "text": "Um sicherzustellen, dass nicht eines Tages ein Taurus im Kreml einschl\u00e4gt."
+                },
+                {
+                    "text": "Ukrainische Regierungsvertreter versichern in vertraulichen Gespr\u00e4chen, das w\u00fcrde auch f\u00fcr den Taurus gelten."
+                },
+                {
+                    "text": "Doch solche Beteuerungen reichen dem Kanzler offenbar nicht, beim Taurus legt er strengere Ma\u00dfst\u00e4be an."
+                },
+                {
+                    "text": "Der Taurus ist keine Wunderwaffe, aber seine zerst\u00f6rerischen F\u00e4higkeiten sind enorm."
+                },
+                {
+                    "text": "Der Taurus kann in Geb\u00e4ude einschlagen, die mehr als 500 Kilometer weit entfernt sind."
+                },
+                {
+                    "text": "Seit seiner Absage an Bodentruppen und seinem Nein zu Taurus schw\u00e4rmen sie in der SPD von ihm."
+                },
+                {
+                    "text": "Klingbeil lobt Scholz f\u00fcr seine Taurus-Absage."
+                }
+            ],
+            "occupations": [],
+            "directQuotes": [],
+            "quotedInTitle": false,
+            "quotedInIntro": true
+        },
+        {
+            "name": "Joe Biden",
+            "alternativeNames": [],
+            "age": -1,
+            "sex": "male",
+            "occurences": {
+                "total": 1,
+                "firstNameOnly": 0,
+                "lastNameOnly": 0,
+                "fullName": 1,
+                "nickname": 0
+            },
+            "inTitle": false,
+            "inIntro": false,
+            "_name": {
+                "firstname": "Joe",
+                "lastname": "Biden",
+                "nickname": null,
+                "alternative_names": [],
+                "academic_title": null,
+                "nobility_title_or_rank": null
+            },
+            "descriptiveTexts": [
+                {
+                    "text": "Wenn Selenskyj an der Seite von EU-Kommissionspr\u00e4sidentin Ursula von der Leyen steht oder von US-Pr\u00e4sident Joe Biden, ist das deutlich anders."
+                }
+            ],
+            "occupations": [],
+            "directQuotes": [],
+            "quotedInTitle": false,
+            "quotedInIntro": false
+        },
+        {
+            "name": "Andreas Bovenschulte",
+            "alternativeNames": [],
+            "age": -1,
+            "sex": "male",
+            "occurences": {
+                "total": 1,
+                "firstNameOnly": 0,
+                "lastNameOnly": 0,
+                "fullName": 1,
+                "nickname": 0
+            },
+            "inTitle": false,
+            "inIntro": false,
+            "_name": {
+                "firstname": "Andreas",
+                "lastname": "Bovenschulte",
+                "nickname": null,
+                "alternative_names": [],
+                "academic_title": null,
+                "nobility_title_or_rank": null
+            },
+            "descriptiveTexts": [
+                {
+                    "text": "\u00bbMit einem anderen Kanzler w\u00e4re Deutschland wahrscheinlich l\u00e4ngst Kriegspartei geworden\u00ab, sagt Bremens B\u00fcrgermeister Andreas Bovenschulte."
+                }
+            ],
+            "occupations": [
+                {
+                    "text": "Bremens B\u00fcrgermeister"
+                }
+            ],
+            "directQuotes": [],
+            "quotedInTitle": false,
+            "quotedInIntro": false
+        },
+        {
+            "name": "Olaf Scholz",
+            "alternativeNames": [],
+            "age": -1,
+            "sex": "male",
+            "occurences": {
+                "total": 52,
+                "firstNameOnly": 0,
+                "lastNameOnly": 49,
+                "fullName": 3,
+                "nickname": 0
+            },
+            "inTitle": true,
+            "inIntro": true,
+            "_name": {
+                "firstname": "Olaf",
+                "lastname": "Scholz",
+                "nickname": null,
+                "alternative_names": [],
+                "academic_title": null,
+                "nobility_title_or_rank": null
+            },
+            "descriptiveTexts": [
+                {
+                    "text": "Vom Zeitenwender zum Friedenskanzler \u2013 was hinter Scholz\u2019 neuer Strategie steckt"
+                },
+                {
+                    "text": "Und erst recht keine Bodentruppen: Olaf Scholz gibt den Friedenskanzler, der Deutschland aus dem Krieg in der Ukraine heraush\u00e4lt."
+                },
+                {
+                    "text": "Olaf Scholz hat etwas mitzuteilen, und offenbar hat er es eilig."
+                },
+                {
+                    "text": "Doch in dieser Woche zieht Scholz den Termin vor, die neue Folge kommt bereits am Mittwochabend."
+                },
+                {
+                    "text": "Scholz blickt entschlossen, der oberste Hemdknopf steht offen."
+                },
+                {
+                    "text": "\u00bbKeine deutsche Kriegsbeteiligung!\u00ab, sagt er."
+                },
+                {
+                    "text": "\u00bbUm es klipp und klar zu sagen: Als deutscher Bundeskanzler werde ich keine Soldaten unserer Bundeswehr in die Ukraine entsenden. Das gilt.\u00ab"
+                },
+                {
+                    "text": "\u00bbUnd darauf k\u00f6nnen Sie sich verlassen.\u00ab"
+                },
+                {
+                    "text": "Scholz wendet hier einen alten Trick des Populismus an: Er weist eine Forderung zur\u00fcck, die es nie gegeben hat."
+                },
+                {
+                    "text": "Der Hamburger Jurist Scholz ist kein rhetorisches Talent, mit gro\u00dfen Worten und Gesten tut er sich schwer."
+                },
+                {
+                    "text": "Doch Scholz\u2019 Versuche, die \u00c4ngste und Sorgen in der Bev\u00f6lkerung aufzugreifen, wirkten unbeholfen."
+                },
+                {
+                    "text": "Als im Sommer 2022 die Preise im Supermarkt und an der Tankstelle hochschnellten, versuchte Scholz die Menschen zu beruhigen: \u00bbYou\u2019ll never walk alone\u00ab, in etwa: Keiner wird allein gelassen."
+                },
+                {
+                    "text": "Wenig sp\u00e4ter bewarb Scholz die Energiepreisbremsen der Ampelkoalition als \u00bbDoppelwumms\u00ab."
+                },
+                {
+                    "text": "Scholz, der Belesene, bem\u00fchte Comicsprache."
+                },
+                {
+                    "text": "Scholz nimmt diese Stimmung seit Langem wahr, ihn treibt der Gedanke um, die Besorgten f\u00fchlten sich von den Parteien der Mitte nicht geh\u00f6rt."
+                },
+                {
+                    "text": "Er will ihnen zeigen: Ich nehme euch und eure Sorgen wahr."
+                },
+                {
+                    "text": "Scholz, der h\u00e4ufig so sperrig wirkt, vernunftgetrieben, handelt pl\u00f6tzlich wie ein Instinktpolitiker."
+                },
+                {
+                    "text": "Keine Taurus-Marschflugk\u00f6rper f\u00fcr die Ukraine, keine deutschen Truppen: Beide Scholz-Versprechen d\u00fcrften gut ankommen."
+                },
+                {
+                    "text": "Als Friedenskanzler k\u00f6nnte es Scholz dort auf den Marktpl\u00e4tzen leichter haben, seiner Partei vielleicht sogar ein paar Prozentpunkte mehr bescheren."
+                },
+                {
+                    "text": "Scholz hat seine Gelegenheit genutzt."
+                },
+                {
+                    "text": "Rund 20 Staats- und Regierungschefs sitzen im \u00c9lys\u00e9e-Palast zusammen, Macron hat sie zu einem Unterst\u00fctzertreffen f\u00fcr die Ukraine eingeladen."
+                },
+                {
+                    "text": "W\u00e4hrend des Essens z\u00e4hlen alle auf, was sie f\u00fcr die Ukraine leisten und noch zu tun gedenken."
+                },
+                {
+                    "text": "Um eine \u00bbstrategische Ambiguit\u00e4t\u00ab zu erzeugen, wie sie die Sicherheitspolitik der Nuklearmacht Frankreich seit jeher leitet."
+                },
+                {
+                    "text": "Rechts neben Macron sitzt Scholz, der Bundeskanzler er\u00f6ffnet die Aussprache, und er wird sehr deutlich: \u00bbI\u2019m dead against it\u00ab, sagt Scholz laut Teilnehmern \u2013 sinngem\u00e4\u00df: im Leben nicht."
+                },
+                {
+                    "text": "Scholz hat Geschichtsb\u00fccher gelesen, ihn treibt die Sorge um, mit einem falschen Schritt, einer \u00fcberhasteten Entscheidung eine Eskalationsspirale in Gang zu setzen, die zu einer Katastrophe f\u00fchrt, vielleicht zum dritten Weltkrieg."
+                },
+                {
+                    "text": "Doch nachdem Macron seine G\u00e4ste verabschiedet hat, tritt er vor die Presse und macht seine \u00dcberlegungen \u00f6ffentlich: Bodentruppen in die Ukraine, warum nicht?"
+                },
+                {
+                    "text": "Dann spottet er \u00fcber Scholz, ohne dessen Namen zu nennen: Wer heute etwa auf seine Idee mit \u00bbniemals, niemals\u00ab antworte, habe vor zwei Jahren noch \u00bbniemals, niemals Panzer\u00ab gerufen."
+                },
+                {
+                    "text": "Und als wolle er sichergehen, dass auch wirklich jeder versteht, wen er meint, legt Macron nach: \u00bbIch erinnere Sie daran, dass vor zwei Jahren viele an diesem Tisch sagten: Wir werden Schlafs\u00e4cke und Helme schicken.\u00ab"
+                },
+                {
+                    "text": "Er k\u00f6nnte gekr\u00e4nkt sein, aber Frankreichs Pr\u00e4sident hat ihm eine Steilvorlage geliefert."
+                },
+                {
+                    "text": "Es hat jetzt einen realen Hintergrund, wenn Scholz eine deutsche Kriegsbeteiligung ablehnt \u2013 weil den wenigsten W\u00e4hlern klar sein d\u00fcrfte, dass Macrons Vorsto\u00df lediglich ein Gedankenexperiment ist."
+                },
+                {
+                    "text": "Seit Beginn des russischen Angriffskriegs versucht sich Scholz an einem Balanceakt."
+                },
+                {
+                    "text": "Andererseits wei\u00df Scholz, wie skeptisch und auch \u00e4ngstlich ein erheblicher Teil der Bev\u00f6lkerung auf die Waffenhilfe blickt."
+                },
+                {
+                    "text": "Er selbst tastete sich bei jeder neuen Entscheidung vor \u2013 immer darauf bedacht, Putin keinen Vorwand zu liefern, Deutschland und die Nato zur Kriegspartei zu erkl\u00e4ren."
+                },
+                {
+                    "text": "Scholz sagte Haubitzen, Sch\u00fctzenpanzer, Kampfpanzer zu, brach ein Tabu nach dem anderen \u2013 aber er tat es langsam, schleichend."
+                },
+                {
+                    "text": "Die Ukraine, die Union, die Ampelpartner und viele Medien: Sie alle bedr\u00e4ngten Scholz, doch der Kanzler erkl\u00e4rte es zur F\u00fchrungsst\u00e4rke, dem Druck nicht nachzugeben."
+                },
+                {
+                    "text": "Bis er die Lieferungen dann doch freigab."
+                },
+                {
+                    "text": "F\u00fcr die einen ist er ein Zauderer, der sich treiben l\u00e4sst, f\u00fcr andere ein besonnener Regierungschef."
+                },
+                {
+                    "text": "Nur beim Waffensystem Taurus wiederholt sich dieses Muster bislang nicht, jenem Marschflugk\u00f6rper, der Ziele in mehr als 500 Kilometer Entfernung erreichen und zerst\u00f6ren kann, selbst dann, wenn sie stark gepanzert sind und tief unter der Erde liegen."
+                },
+                {
+                    "text": "Die Ukraine bittet seit einem Dreivierteljahr darum, die Verb\u00fcndeten ermuntern Berlin, Gr\u00fcne und Liberale dr\u00e4ngen Scholz."
+                },
+                {
+                    "text": "Doch er will nicht, und diesmal scheint er dabei zu bleiben."
+                },
+                {
+                    "text": "Bevor Scholz am Montag nach Paris aufbricht, tritt er in Berlin vor Journalisten auf, die Nachrichtenagentur dpa hat Chefredakteurinnen und -redakteure aus der ganzen Republik eingeladen."
+                },
+                {
+                    "text": "In den vergangenen Wochen hat Scholz mehrere Gelegenheiten ausgelassen, sich zu erkl\u00e4ren."
+                },
+                {
+                    "text": "Mitte Februar wurde er auf der M\u00fcnchner Sicherheitskonferenz zum Thema Taurus gel\u00f6chert, auf gro\u00dfer B\u00fchne, vor der versammelten sicherheitspolitischen Elite des Westens."
+                },
+                {
+                    "text": "Scholz schwieg."
+                },
+                {
+                    "text": "Vergangene Woche war Taurus das gro\u00dfe Thema im Bundestag, Scholz fehlte in der Debatte."
+                },
+                {
+                    "text": "\u00bbEs ist eine sehr weitreichende Waffe\u00ab, sagt Scholz."
+                },
+                {
+                    "text": "In der Videoaufzeichnung ist zu sehen, wie er mit der rechten Hand das Mikrofon h\u00e4lt und mit der linken auf dessen Schaumstoff\u00fcberzug herumdr\u00fcckt."
+                },
+                {
+                    "text": "\u00bbUnd das, was an Zielsteuerung und an Begleitung der Zielsteuerung vonseiten der Briten und Franzosen gemacht wird, kann in Deutschland nicht gemacht werden\u00ab, sagt Scholz mit Blick auf den britischen Lenkflugk\u00f6rper Storm Shadow und dessen franz\u00f6sisches Pendant Scalp."
+                },
+                {
+                    "text": "Scholz legt nahe, dass britische und franz\u00f6sische Soldaten aktiv am Kriegsgeschehen beteiligt sind."
+                },
+                {
+                    "text": "Das Entsetzen \u00fcber Scholz ist hinterher gro\u00df."
+                },
+                {
+                    "text": "Die Unionsfraktion fordert Scholz auf, die Vertrauensfrage im Bundestag zu stellen."
+                },
+                {
+                    "text": "Seine Erkl\u00e4rung sei falsch, hei\u00dft es aus mehreren H\u00e4usern \u2013 die Ukrainer br\u00e4uchten keineswegs deutsche Soldaten, die sie bei der Zielsteuerung unterst\u00fctzten."
+                },
+                {
+                    "text": "Das k\u00f6nnten sie ganz allein."
+                },
+                {
+                    "text": "Sie forderten Erkl\u00e4rungen."
+                },
+                {
+                    "text": "Seit Sommer vergangenen Jahres hatten Scholz\u2019 Berater mehrmals Experten der Luftwaffe und des Herstellers ins Kanzleramt bestellt."
+                },
+                {
+                    "text": "Sie hoffte auf einen PR-Schub: K\u00e4me das deutsch-schwedische Hightechsystem in der Ukraine zum Einsatz, w\u00e4re das wohl die beste Werbung f\u00fcr einen weltweiten Vertrieb des Taurus."
+                },
+                {
+                    "text": "Die Industrievertreter kamen, wie sie annahmen, mit guten Nachrichten ins Kanzleramt."
+                },
+                {
+                    "text": "Sie versicherten, dass keine deutschen Soldaten f\u00fcr den Einsatz n\u00f6tig seien, weder auf ukrainischem Boden noch sonst irgendwo."
+                },
+                {
+                    "text": "Doch mit jedem Besuch in der Regierungszentrale verfestigte sich bei den Firmenvertretern der Eindruck, dass sich Scholz seine Meinung l\u00e4ngst gebildet hatte."
+                },
+                {
+                    "text": "Einmal, als die Experten technische M\u00f6glichkeiten zur Begrenzung des Taurus darlegten, fragten Scholz\u2019 Berater pl\u00f6tzlich, ob die Ukrainer die Limitierung r\u00fcckg\u00e4ngig machen k\u00f6nnten."
+                },
+                {
+                    "text": "Im Herbst er\u00f6ffnete der Kanzler den Au\u00dfenpolitikern des Bundestags in geheimer Sitzung erstmals, er wolle den Taurus nicht liefern."
+                },
+                {
+                    "text": "Als Grund gab er an, das System sei ohne die Hilfe von Bundeswehrsoldaten nicht einsetzbar."
+                },
+                {
+                    "text": "Scholz f\u00fchrte da schon aus, dass die Bundeswehr weder direkt noch indirekt an der Zielerfassung und der Missionsplanung f\u00fcr die Marschflugk\u00f6rper beteiligt sein d\u00fcrfe \u2013 anders als Briten oder Franzosen."
+                },
+                {
+                    "text": "Einen, den Scholz bislang verschweigt."
+                },
+                {
+                    "text": "Es spricht einiges daf\u00fcr, dass Scholz den Taurus nicht aus der Hand geben will, weil er den Ukrainern nicht traut, jedenfalls nicht ganz."
+                },
+                {
+                    "text": "Scholz\u2019 Verh\u00e4ltnis zur ukrainischen F\u00fchrung ist kein wirklich enges."
+                },
+                {
+                    "text": "Seit dem russischen \u00dcberfall war Scholz nur einmal in Kiew."
+                },
+                {
+                    "text": "Eines war Scholz bei der Unterst\u00fctzung der Ukraine immer besonders wichtig: Deutsche Waffen sollen ausschlie\u00dflich auf ukrainischem Gebiet eingesetzt werden, nicht auf russischem."
+                },
+                {
+                    "text": "Anfang 2023 erz\u00e4hlte Scholz, er habe dar\u00fcber einen \u00bbKonsens\u00ab mit dem ukrainischen Pr\u00e4sidenten Selenskyj erzielt."
+                },
+                {
+                    "text": "Doch solche Beteuerungen reichen dem Kanzler offenbar nicht, beim Taurus legt er strengere Ma\u00dfst\u00e4be an."
+                },
+                {
+                    "text": "Wird die Waffe von einem Kampfjet abgefeuert, rast sie in niedriger Flugh\u00f6he und von Radaranlagen nur schwer erkennbar Richtung Ziel, steigt auf, schl\u00e4gt ein, z\u00fcndet den ersten Sprengsatz und dann noch einen."
+                },
+                {
+                    "text": "Was, wenn sich die Ukrainer so bedr\u00e4ngt f\u00fchlen, dass sie entscheiden, die Kremlkoordinaten einzugeben?"
+                },
+                {
+                    "text": "In kleinen Runden soll Scholz davor gewarnt haben, in einen Weltkrieg hineinzustolpern."
+                },
+                {
+                    "text": "Da nimmt er es lieber in Kauf, als Langweiler und Zauderer zu gelten."
+                },
+                {
+                    "text": "Oder, wie er selbst gern gesehen werden m\u00f6chte: als besonnener Staatsmann."
+                },
+                {
+                    "text": "Scholz\u2019 Partei, die SPD, tut ihm den Gefallen."
+                },
+                {
+                    "text": "Seit seiner Absage an Bodentruppen und seinem Nein zu Taurus schw\u00e4rmen sie in der SPD von ihm."
+                },
+                {
+                    "text": "Er sei froh, dass Scholz gerade Bundeskanzler sei, sagt Klingbeil bei einem B\u00fcrgerforum in Hamburg-Rahlstedt vor rund 120 Leuten."
+                },
+                {
+                    "text": "Klingbeil lobt Scholz f\u00fcr seine Taurus-Absage."
+                },
+                {
+                    "text": "Scholz sei es \u00bbegal, wie viele Leute an ihm zerren und eine Entscheidung fordern. Er sagt: Ich brauche so lange, wie ich brauche.\u00ab"
+                },
+                {
+                    "text": "Andere w\u00fcrden gro\u00dfe Reden schwingen, aber: \u00bbIn 20 Jahren wird nicht der Name von Marie-Agnes Strack-Zimmermann in Geschichtsb\u00fcchern stehen, sondern der Name Olaf Scholz.\u00ab"
+                },
+                {
+                    "text": "Endlich weicht Scholz einmal nicht aus, sondern bezieht Position."
+                }
+            ],
+            "occupations": [],
+            "directQuotes": [
+                {
+                    "text": "Kanzler kompakt"
+                },
+                {
+                    "text": "Zweitens: Die Nato ist \u2013 und wird \u2013 keine Kriegspartei."
+                },
+                {
+                    "text": "Wir wollen nicht, dass der Krieg Russlands gegen die Ukraine zu einem Krieg zwischen Russland und der Nato wird."
+                },
+                {
+                    "text": "Um es klipp und klar zu sagen: Als deutscher Bundeskanzler werde ich keine Soldaten unserer Bundeswehr in die Ukraine entsenden. Das gilt."
+                }
+            ],
+            "quotedInTitle": true,
+            "quotedInIntro": true
+        },
+        {
+            "name": "George Bush Jr.",
+            "alternativeNames": [],
+            "age": -1,
+            "sex": "male",
+            "occurences": {
+                "total": 3,
+                "firstNameOnly": 1,
+                "lastNameOnly": 1,
+                "fullName": 1,
+                "nickname": 0
+            },
+            "inTitle": false,
+            "inIntro": false,
+            "_name": {
+                "firstname": "George",
+                "lastname": "Bush",
+                "nickname": "Jr.",
+                "alternative_names": [],
+                "academic_title": null,
+                "nobility_title_or_rank": null
+            },
+            "descriptiveTexts": [],
+            "occupations": [],
+            "directQuotes": [],
+            "quotedInTitle": false,
+            "quotedInIntro": false
+        },
+        {
+            "name": "Ursula von der Leyen",
+            "alternativeNames": [],
+            "age": -1,
+            "sex": "female",
+            "occurences": {
+                "total": 1,
+                "firstNameOnly": 0,
+                "lastNameOnly": 0,
+                "fullName": 1,
+                "nickname": 0
+            },
+            "inTitle": false,
+            "inIntro": false,
+            "_name": {
+                "firstname": "Ursula",
+                "lastname": "von der Leyen",
+                "nickname": null,
+                "alternative_names": [],
+                "academic_title": "Doktor",
+                "nobility_title_or_rank": "Erzherzogin"
+            },
+            "descriptiveTexts": [
+                {
+                    "text": "Wenn Selenskyj an der Seite von EU-Kommissionspr\u00e4sidentin Ursula von der Leyen steht oder von US-Pr\u00e4sident Joe Biden, ist das deutlich anders."
+                }
+            ],
+            "occupations": [
+                {
+                    "text": "EU-Kommissionspr\u00e4sidentin"
+                }
+            ],
+            "directQuotes": [],
+            "quotedInTitle": false,
+            "quotedInIntro": false
+        },
+        {
+            "name": "Lars Klingbeil",
+            "alternativeNames": [],
+            "age": -1,
+            "sex": "male",
+            "occurences": {
+                "total": 4,
+                "firstNameOnly": 0,
+                "lastNameOnly": 3,
+                "fullName": 1,
+                "nickname": 0
+            },
+            "inTitle": false,
+            "inIntro": false,
+            "_name": {
+                "firstname": "Lars",
+                "lastname": "Klingbeil",
+                "nickname": null,
+                "alternative_names": [],
+                "academic_title": null,
+                "nobility_title_or_rank": null
+            },
+            "descriptiveTexts": [
+                {
+                    "text": "In den gut zwei Jahren seiner Amtszeit hat er es nicht geschafft, die Deutschen emotional zu erreichen."
+                },
+                {
+                    "text": "Diese Melodie stimmt Anfang der Woche auch Parteichef Lars Klingbeil an."
+                },
+                {
+                    "text": "Er sei froh, dass Scholz gerade Bundeskanzler sei, sagt Klingbeil bei einem B\u00fcrgerforum in Hamburg-Rahlstedt vor rund 120 Leuten."
+                },
+                {
+                    "text": "Klingbeil lobt Scholz f\u00fcr seine Taurus-Absage."
+                },
+                {
+                    "text": "Es gehe schlie\u00dflich um eine Frage von Krieg und Frieden, sagt Klingbeil."
+                }
+            ],
+            "occupations": [],
+            "directQuotes": [],
+            "quotedInTitle": false,
+            "quotedInIntro": false
+        },
+        {
+            "name": "George W. Bush",
+            "alternativeNames": [],
+            "age": -1,
+            "sex": "male",
+            "occurences": {
+                "total": 2,
+                "firstNameOnly": 1,
+                "lastNameOnly": 0,
+                "fullName": 1,
+                "nickname": 0
+            },
+            "inTitle": false,
+            "inIntro": false,
+            "_name": {
+                "firstname": "George",
+                "lastname": "Bush",
+                "nickname": null,
+                "alternative_names": [],
+                "academic_title": null,
+                "nobility_title_or_rank": null
+            },
+            "descriptiveTexts": [],
+            "occupations": [],
+            "directQuotes": [],
+            "quotedInTitle": false,
+            "quotedInIntro": false
+        },
+        {
+            "name": "Ralf Stegner",
+            "alternativeNames": [],
+            "age": -1,
+            "sex": "male",
+            "occurences": {
+                "total": 1,
+                "firstNameOnly": 0,
+                "lastNameOnly": 0,
+                "fullName": 1,
+                "nickname": 0
+            },
+            "inTitle": false,
+            "inIntro": false,
+            "_name": {
+                "firstname": "Ralf",
+                "lastname": "Stegner",
+                "nickname": null,
+                "alternative_names": [],
+                "academic_title": null,
+                "nobility_title_or_rank": null
+            },
+            "descriptiveTexts": [
+                {
+                    "text": "Der Bundestagsabgeordnete Ralf Stegner zieht einen verwegenen historischen Vergleich: \u00bbAls George Bush Jr. den Irakkrieg begann, lehnte der sozialdemokratische Bundeskanzler Gerhard Schr\u00f6der die Beteiligung Deutschlands ab und hielt uns aus dem Krieg.\u00ab"
+                }
+            ],
+            "occupations": [],
+            "directQuotes": [],
+            "quotedInTitle": false,
+            "quotedInIntro": false
+        },
+        {
+            "name": "Marie-Agnes Strack",
+            "alternativeNames": [],
+            "age": -1,
+            "sex": "female",
+            "occurences": {
+                "total": 2,
+                "firstNameOnly": 0,
+                "lastNameOnly": 0,
+                "fullName": 2,
+                "nickname": 0
+            },
+            "inTitle": false,
+            "inIntro": false,
+            "_name": {
+                "firstname": "Marie-Agnes",
+                "lastname": "Strack",
+                "nickname": null,
+                "alternative_names": [],
+                "academic_title": null,
+                "nobility_title_or_rank": null
+            },
+            "descriptiveTexts": [
+                {
+                    "text": "Verschafft hat sie ihm Frankreichs Pr\u00e4sident Emmanuel Macron."
+                },
+                {
+                    "text": "\u00bbIch fasse das nicht\u00ab, sagt die FDP-Verteidigungspolitikerin Marie-Agnes Strack-Zimmermann."
+                },
+                {
+                    "text": "Andere w\u00fcrden gro\u00dfe Reden schwingen, aber: \u00bbIn 20 Jahren wird nicht der Name von Marie-Agnes Strack-Zimmermann in Geschichtsb\u00fcchern stehen, sondern der Name Olaf Scholz.\u00ab"
+                }
+            ],
+            "occupations": [],
+            "directQuotes": [],
+            "quotedInTitle": false,
+            "quotedInIntro": false
+        },
+        {
+            "name": "Gerhard Schr\u00f6der",
+            "alternativeNames": [],
+            "age": -1,
+            "sex": "male",
+            "occurences": {
+                "total": 3,
+                "firstNameOnly": 0,
+                "lastNameOnly": 0,
+                "fullName": 3,
+                "nickname": 0
+            },
+            "inTitle": false,
+            "inIntro": false,
+            "_name": {
+                "firstname": "Gerhard",
+                "lastname": "Schr\u00f6der",
+                "nickname": null,
+                "alternative_names": [],
+                "academic_title": null,
+                "nobility_title_or_rank": null
+            },
+            "descriptiveTexts": [
+                {
+                    "text": "Es gibt ein historisches Vorbild: Gerhard Schr\u00f6der, der Deutschland 2003 aus George W."
+                },
+                {
+                    "text": "Der Bundestagsabgeordnete Ralf Stegner zieht einen verwegenen historischen Vergleich: \u00bbAls George Bush Jr. den Irakkrieg begann, lehnte der sozialdemokratische Bundeskanzler Gerhard Schr\u00f6der die Beteiligung Deutschlands ab und hielt uns aus dem Krieg.\u00ab"
+                },
+                {
+                    "text": "Gerhard Schr\u00f6der hat pers\u00f6nlich \u00fcbrigens nie von seinem Nein zum Irakkrieg profitiert."
+                },
+                {
+                    "text": "Gut zwei Jahre sp\u00e4ter wurde er trotzdem abgew\u00e4hlt."
+                }
+            ],
+            "occupations": [],
+            "directQuotes": [],
+            "quotedInTitle": false,
+            "quotedInIntro": false
+        },
+        {
+            "name": "Wladimir Putin",
+            "alternativeNames": [],
+            "age": -1,
+            "sex": "male",
+            "occurences": {
+                "total": 4,
+                "firstNameOnly": 0,
+                "lastNameOnly": 3,
+                "fullName": 1,
+                "nickname": 0
+            },
+            "inTitle": false,
+            "inIntro": false,
+            "_name": {
+                "firstname": "Wladimir",
+                "lastname": "Putin",
+                "nickname": null,
+                "alternative_names": [],
+                "academic_title": null,
+                "nobility_title_or_rank": null
+            },
+            "descriptiveTexts": [
+                {
+                    "text": "Macron bezweifelt, dass die bisherige Linie des Westens den russischen Pr\u00e4sidenten Wladimir Putin zum R\u00fcckzug aus der Ukraine bewegen kann."
+                },
+                {
+                    "text": "Auch Putin spielt dem Bundeskanzler in die H\u00e4nde, als er den Westen kurz nach Macrons Vorsto\u00df vor einem Kriegseintritt warnt."
+                },
+                {
+                    "text": "Er selbst tastete sich bei jeder neuen Entscheidung vor \u2013 immer darauf bedacht, Putin keinen Vorwand zu liefern, Deutschland und die Nato zur Kriegspartei zu erkl\u00e4ren."
+                },
+                {
+                    "text": "Nimmt der Kanzler in Kauf, dass die Verb\u00fcndeten in Putins Fadenkreuz geraten?"
+                }
+            ],
+            "occupations": [],
+            "directQuotes": [],
+            "quotedInTitle": false,
+            "quotedInIntro": false
+        }
+    ]
+}

@@ -1,0 +1,444 @@
+{
+    "persons": [
+        {
+            "name": "Dreger say oder Dreger says",
+            "alternativeNames": [],
+            "age": -1,
+            "sex": "male",
+            "occurences": {
+                "total": 17,
+                "firstNameOnly": 0,
+                "lastNameOnly": 0,
+                "fullName": 17,
+                "nickname": 0
+            },
+            "inTitle": false,
+            "inIntro": false,
+            "_name": {
+                "firstname": null,
+                "lastname": "Dreger",
+                "nickname": null,
+                "alternative_names": [],
+                "academic_title": null,
+                "nobility_title_or_rank": null
+            },
+            "descriptiveTexts": [],
+            "occupations": [],
+            "directQuotes": [],
+            "quotedInTitle": false,
+            "quotedInIntro": false
+        },
+        {
+            "name": "Schega say oder Schega says",
+            "alternativeNames": [],
+            "age": -1,
+            "sex": "female",
+            "occurences": {
+                "total": 5,
+                "firstNameOnly": 0,
+                "lastNameOnly": 0,
+                "fullName": 5,
+                "nickname": 0
+            },
+            "inTitle": false,
+            "inIntro": false,
+            "_name": {
+                "firstname": null,
+                "lastname": "Schega",
+                "nickname": null,
+                "alternative_names": [],
+                "academic_title": null,
+                "nobility_title_or_rank": null
+            },
+            "descriptiveTexts": [],
+            "occupations": [],
+            "directQuotes": [],
+            "quotedInTitle": false,
+            "quotedInIntro": false
+        },
+        {
+            "name": "Laura Nickel",
+            "alternativeNames": [],
+            "age": -1,
+            "sex": "female",
+            "occurences": {
+                "total": 5,
+                "firstNameOnly": 0,
+                "lastNameOnly": 4,
+                "fullName": 1,
+                "nickname": 0
+            },
+            "inTitle": false,
+            "inIntro": false,
+            "_name": {
+                "firstname": "Laura",
+                "lastname": "Nickel",
+                "nickname": null,
+                "alternative_names": [],
+                "academic_title": null,
+                "nobility_title_or_rank": null
+            },
+            "descriptiveTexts": [
+                {
+                    "text": "The two teachers who wrote it, Max Teske and Laura Nickel, gave a lot of interviews in the weeks after publishing their letter and held a speech at a rally in front of the education authority in Cottbus."
+                },
+                {
+                    "text": "Teske was just packing his bag when Nickel came into the teachers\u2019 room and asked him: \"Max, should we write a letter and send it to the media?\""
+                },
+                {
+                    "text": "And on the internet, it was open season on him and Nickel."
+                },
+                {
+                    "text": "In Burg, Teske says, he was once standing together with Nickel in a parking lot when an older woman stopped her car next to them."
+                },
+                {
+                    "text": "German President Frank-Walter Steinmeier said in July that he hoped that the departure of Teske and Nickel from Burg didn\u2019t mean that the right-wing extremists had won."
+                }
+            ],
+            "occupations": [],
+            "directQuotes": [],
+            "quotedInTitle": false,
+            "quotedInIntro": false
+        },
+        {
+            "name": "J\u00fcrgen Dreger",
+            "alternativeNames": [],
+            "age": 69,
+            "sex": "male",
+            "occurences": {
+                "total": 3,
+                "firstNameOnly": 2,
+                "lastNameOnly": 0,
+                "fullName": 1,
+                "nickname": 0
+            },
+            "inTitle": false,
+            "inIntro": false,
+            "_name": {
+                "firstname": "J\u00fcrgen",
+                "lastname": "Dreger",
+                "nickname": null,
+                "alternative_names": [],
+                "academic_title": null,
+                "nobility_title_or_rank": null
+            },
+            "descriptiveTexts": [
+                {
+                    "text": "Hans-J\u00fcrgen Dreger, 69, is the kind of mayor of whom people say: \"He\u2019s the kind of mayor you want to have.\""
+                }
+            ],
+            "occupations": [],
+            "directQuotes": [],
+            "quotedInTitle": false,
+            "quotedInIntro": false
+        },
+        {
+            "name": "Jette Schega",
+            "alternativeNames": [],
+            "age": -1,
+            "sex": "female",
+            "occurences": {
+                "total": 1,
+                "firstNameOnly": 0,
+                "lastNameOnly": 0,
+                "fullName": 1,
+                "nickname": 0
+            },
+            "inTitle": false,
+            "inIntro": false,
+            "_name": {
+                "firstname": "Jette",
+                "lastname": "Schega",
+                "nickname": null,
+                "alternative_names": [],
+                "academic_title": null,
+                "nobility_title_or_rank": null
+            },
+            "descriptiveTexts": [
+                {
+                    "text": "Up front is the teacher, Jette Schega, preparing for a double period of politics, a subject on the Burg curriculum."
+                }
+            ],
+            "occupations": [],
+            "directQuotes": [
+                {
+                    "text": "which should actually be far in the past in Germany."
+                }
+            ],
+            "quotedInTitle": false,
+            "quotedInIntro": false
+        },
+        {
+            "name": "Max Teske",
+            "alternativeNames": [],
+            "age": -1,
+            "sex": "male",
+            "occurences": {
+                "total": 14,
+                "firstNameOnly": 1,
+                "lastNameOnly": 12,
+                "fullName": 1,
+                "nickname": 0
+            },
+            "inTitle": false,
+            "inIntro": false,
+            "_name": {
+                "firstname": "Max",
+                "lastname": "Teske",
+                "nickname": null,
+                "alternative_names": [],
+                "academic_title": null,
+                "nobility_title_or_rank": null
+            },
+            "descriptiveTexts": [
+                {
+                    "text": "The two teachers who wrote it, Max Teske and Laura Nickel, gave a lot of interviews in the weeks after publishing their letter and held a speech at a rally in front of the education authority in Cottbus."
+                },
+                {
+                    "text": "On a Thursday in February, Teske is sitting in a caf\u00e9 not far from Potsdam."
+                },
+                {
+                    "text": "Teske says that he and his colleague came up with the idea of writing an open letter after the old school principal didn\u2019t report a Hitler salute during gym class to the school authorities in Cottbus."
+                },
+                {
+                    "text": "Teske was just packing his bag when Nickel came into the teachers\u2019 room and asked him: \"Max, should we write a letter and send it to the media?\""
+                },
+                {
+                    "text": "\"We actually thought that it would just be a small letter to the editor,\" Teske says."
+                },
+                {
+                    "text": "Teske says a group of men ran up to him."
+                },
+                {
+                    "text": "\"It almost got violent,\" Teske says."
+                },
+                {
+                    "text": "That was in Cottbus, where Teske was living at the time."
+                },
+                {
+                    "text": "In Burg, Teske says, he was once standing together with Nickel in a parking lot when an older woman stopped her car next to them."
+                },
+                {
+                    "text": "Finally, someone here said something.\" Teske says that parents also came up to him on his last day of school in Burg to thank him. \"There are really good people in Burg."
+                },
+                {
+                    "text": "When we leave the caf\u00e9 after one-and-a-half hours and climb into Teske\u2019s car, the song \"Schrei nach Liebe\" (Scream for Love) by Die \u00c4rtzte is playing, the band\u2019s anti-Nazi song about the romantic hope that Nazis would let go of their hate if only people showed them enough love."
+                },
+                {
+                    "text": "German President Frank-Walter Steinmeier said in July that he hoped that the departure of Teske and Nickel from Burg didn\u2019t mean that the right-wing extremists had won."
+                },
+                {
+                    "text": "But people at the school say that other teachers who supported the letter from Teske and Nickle are now thinking of leaving town."
+                }
+            ],
+            "occupations": [],
+            "directQuotes": [],
+            "quotedInTitle": false,
+            "quotedInIntro": false
+        },
+        {
+            "name": "Somehow",
+            "alternativeNames": [],
+            "age": -1,
+            "sex": "unknown",
+            "occurences": {
+                "total": 1,
+                "firstNameOnly": 0,
+                "lastNameOnly": 0,
+                "fullName": 1,
+                "nickname": 0
+            },
+            "inTitle": false,
+            "inIntro": false,
+            "_name": {
+                "firstname": null,
+                "lastname": null,
+                "nickname": null,
+                "alternative_names": [],
+                "academic_title": null,
+                "nobility_title_or_rank": null
+            },
+            "descriptiveTexts": [
+                {
+                    "text": "Somehow."
+                }
+            ],
+            "occupations": [],
+            "directQuotes": [],
+            "quotedInTitle": false,
+            "quotedInIntro": false
+        },
+        {
+            "name": "Walter Steinmeier",
+            "alternativeNames": [],
+            "age": -1,
+            "sex": "male",
+            "occurences": {
+                "total": 1,
+                "firstNameOnly": 0,
+                "lastNameOnly": 0,
+                "fullName": 1,
+                "nickname": 0
+            },
+            "inTitle": false,
+            "inIntro": false,
+            "_name": {
+                "firstname": "Walter",
+                "lastname": "Steinmeier",
+                "nickname": null,
+                "alternative_names": [],
+                "academic_title": null,
+                "nobility_title_or_rank": "Gro\u00dfherzog"
+            },
+            "descriptiveTexts": [
+                {
+                    "text": "German President Frank-Walter Steinmeier said in July that he hoped that the departure of Teske and Nickel from Burg didn\u2019t mean that the right-wing extremists had won."
+                }
+            ],
+            "occupations": [],
+            "directQuotes": [],
+            "quotedInTitle": false,
+            "quotedInIntro": false
+        },
+        {
+            "name": "Heinrich",
+            "alternativeNames": [],
+            "age": -1,
+            "sex": "male",
+            "occurences": {
+                "total": 6,
+                "firstNameOnly": 0,
+                "lastNameOnly": 0,
+                "fullName": 6,
+                "nickname": 0
+            },
+            "inTitle": false,
+            "inIntro": false,
+            "_name": {
+                "firstname": "Heinrich",
+                "lastname": null,
+                "nickname": null,
+                "alternative_names": [],
+                "academic_title": null,
+                "nobility_title_or_rank": null
+            },
+            "descriptiveTexts": [
+                {
+                    "text": "For this article, we\u2019ll call him Heinrich."
+                },
+                {
+                    "text": "Heinrich\u2019s next class is astronomy, which is also its own subject here at the school in Burg."
+                },
+                {
+                    "text": "A girl calls over to Heinrich: \"Heinrich, Dennis is gay, and he likes you.\""
+                },
+                {
+                    "text": "Heinrich grins and says: \"I know.\""
+                },
+                {
+                    "text": "The teacher asks them, \"don\u2019t you have class?\" and drags Heinrich back into the room."
+                }
+            ],
+            "occupations": [],
+            "directQuotes": [],
+            "quotedInTitle": false,
+            "quotedInIntro": false
+        },
+        {
+            "name": "Markus Mandel",
+            "alternativeNames": [],
+            "age": 63,
+            "sex": "male",
+            "occurences": {
+                "total": 21,
+                "firstNameOnly": 0,
+                "lastNameOnly": 20,
+                "fullName": 1,
+                "nickname": 0
+            },
+            "inTitle": false,
+            "inIntro": false,
+            "_name": {
+                "firstname": "Markus",
+                "lastname": "Mandel",
+                "nickname": null,
+                "alternative_names": [],
+                "academic_title": null,
+                "nobility_title_or_rank": null
+            },
+            "descriptiveTexts": [
+                {
+                    "text": "The gray-haired man is named Markus Mandel, 63, and he has been Burg\u2019s crisis manager since summer."
+                },
+                {
+                    "text": "Mandel describes himself as a long-time resident of Burg and speaks in the local dialect."
+                },
+                {
+                    "text": "Mandel didn\u2019t know what the official wanted to talk to him about, only that it was important."
+                },
+                {
+                    "text": "The man wanted to speak with Mandel about the letter that had been written by the teachers in Burg."
+                },
+                {
+                    "text": "The school official asked Mandel to take the job of school principal."
+                },
+                {
+                    "text": "\"They hope that I\u2019ll be able to fix things,\" says Mandel."
+                },
+                {
+                    "text": "Most likely, Mandel was expected to produce that which politicians so often yearn for after a scandal: peace and quiet."
+                },
+                {
+                    "text": "On the morning that I am sitting in his office, Mandel doesn\u2019t have much time."
+                },
+                {
+                    "text": "\"So, you try to explain it,\" says Mandel."
+                },
+                {
+                    "text": "The problem was changed, says Mandel."
+                },
+                {
+                    "text": "\"You can\u2019t be too careful around here at the moment,\" says Mandel."
+                },
+                {
+                    "text": "A clique, Mandel says."
+                },
+                {
+                    "text": "Recently, Mandel says, he ran into a former student of his, who he had seen after graduation standing behind an information stand for the far-right extremist NPD party."
+                },
+                {
+                    "text": "\"You don\u2019t really know what to say in such moments,\" says Mandel."
+                },
+                {
+                    "text": "Later, Mandel tells the story of a second grader who had called out \"Heil Hitler.\""
+                },
+                {
+                    "text": "\"He was sobbing the entire time. If he\u2019s not traumatized, then I don\u2019t know what\u2019s going on,\" says Mandel."
+                },
+                {
+                    "text": "Mandel, the school principal, called the police and had them drive into the schoolyard, with the officers then searching for clues."
+                },
+                {
+                    "text": "\"Even during East German times, we had families where grandpa made all the decisions,\" says school director Mandel."
+                },
+                {
+                    "text": "On another day, I\u2019m walking up the steps together with Mandel."
+                },
+                {
+                    "text": "A boy says: \"Look Mr. Mandel, I have a balloon.\""
+                },
+                {
+                    "text": "Mandel takes it away from him and says: \"At least I now know what else you can do with it.\""
+                }
+            ],
+            "occupations": [],
+            "directQuotes": [
+                {
+                    "text": "Arbeit macht frei,"
+                }
+            ],
+            "quotedInTitle": false,
+            "quotedInIntro": false
+        }
+    ]
+}

@@ -1,0 +1,113 @@
+{
+    "persons": [
+        {
+            "name": "Roland Stimpel",
+            "alternativeNames": [],
+            "age": -1,
+            "sex": "male",
+            "occurences": {
+                "total": 3,
+                "firstNameOnly": 0,
+                "lastNameOnly": 2,
+                "fullName": 1,
+                "nickname": 0
+            },
+            "inTitle": false,
+            "inIntro": false,
+            "_name": {
+                "firstname": "Roland",
+                "lastname": "Stimpel",
+                "nickname": null,
+                "alternative_names": [],
+                "academic_title": null,
+                "nobility_title_or_rank": null
+            },
+            "descriptiveTexts": [
+                {
+                    "text": "In Deutschland werde den Menschen von Kindesbeinen eingetrichtert, dass der Autoverkehr Vorfahrt hat, sagt Roland Stimpel von der Interessenvertretung Fuss e."
+                },
+                {
+                    "text": "\u00bbDas Grund\u00fcbel, das ja erst zu dieser Erfindung gef\u00fchrt hat, liegt in der Schaltung der Ampeln\u00ab, sagt Stimpel."
+                },
+                {
+                    "text": "\u00bbAllein in Berlin starben so in diesem Winter drei Menschen\u00ab, sagt Stimpel."
+                },
+                {
+                    "text": "\u00bbJetzt soll das Countdown-Signal mehr Sicherheit suggerieren, ohne sie tats\u00e4chlich zu bringen.\u00ab"
+                }
+            ],
+            "occupations": [],
+            "directQuotes": [
+                {
+                    "text": "Das Grund\u00fcbel, das ja erst zu dieser Erfindung gef\u00fchrt hat, liegt in der Schaltung der Ampeln"
+                },
+                {
+                    "text": "Allein in Berlin starben so in diesem Winter drei Menschen"
+                },
+                {
+                    "text": "teure Symbolpolitik"
+                }
+            ],
+            "quotedInTitle": false,
+            "quotedInIntro": false
+        },
+        {
+            "name": "Siegfried Brockmann",
+            "alternativeNames": [],
+            "age": -1,
+            "sex": "male",
+            "occurences": {
+                "total": 3,
+                "firstNameOnly": 0,
+                "lastNameOnly": 2,
+                "fullName": 1,
+                "nickname": 0
+            },
+            "inTitle": false,
+            "inIntro": false,
+            "_name": {
+                "firstname": "Siegfried",
+                "lastname": "Brockmann",
+                "nickname": null,
+                "alternative_names": [],
+                "academic_title": null,
+                "nobility_title_or_rank": null
+            },
+            "descriptiveTexts": [
+                {
+                    "text": "\u00bbAber nicht jedem ist die Stra\u00dfenverkehrsordnung klar\u00ab, gibt Siegfried Brockmann, Unfallforscher bei der Bj\u00f6rn Steiger Stiftung, zu bedenken."
+                },
+                {
+                    "text": "Mit Blick auf eine zunehmende Aggressivit\u00e4t im Stra\u00dfenverkehr k\u00f6nne die Anzeige daher wom\u00f6glich hilfreich sein, sagt Brockmann."
+                },
+                {
+                    "text": "Die mehr als 60.000 Ampeln in Deutschland sind tats\u00e4chlich so programmiert, dass sie umspringen, w\u00e4hrend Otto Normal noch auf dem Weg auf die andere Seite ist."
+                },
+                {
+                    "text": "F\u00fcr Unfallforscher Brockmann bleibt daher der Eindruck: \u00bbPraktische Effekte auf die Verkehrssicherheit wird die neue Ampel nicht haben.\u00ab"
+                }
+            ],
+            "occupations": [
+                {
+                    "text": "Unfallforscher bei der Bj\u00f6rn Steiger Stiftung"
+                },
+                {
+                    "text": "Praktische Effekte auf die Verkehrssicherheit wird die neue Ampel nicht haben"
+                }
+            ],
+            "directQuotes": [
+                {
+                    "text": "Dem Unsicherheitsgef\u00fchl eines Fu\u00dfg\u00e4ngers"
+                },
+                {
+                    "text": "Aber nicht jedem ist die Stra\u00dfenverkehrsordnung klar"
+                },
+                {
+                    "text": "Es gibt jedoch immer wieder B\u00fcrgereingaben mit dem Problem, dass der Fu\u00dfverkehr sich von abbiegenden Kfz bedr\u00e4ngt f\u00fchlt, wenn das Fu\u00dfg\u00e4nger-Signal bereits auf Rot umgesprungen ist"
+                }
+            ],
+            "quotedInTitle": false,
+            "quotedInIntro": false
+        }
+    ]
+}

@@ -1,0 +1,128 @@
+{
+    "persons": [
+        {
+            "name": "Sven Clausen",
+            "alternativeNames": [],
+            "age": -1,
+            "sex": "male",
+            "occurences": {
+                "total": 1,
+                "firstNameOnly": 0,
+                "lastNameOnly": 0,
+                "fullName": 1,
+                "nickname": 0
+            },
+            "inTitle": false,
+            "inIntro": false,
+            "_name": {
+                "firstname": "Sven",
+                "lastname": "Clausen",
+                "nickname": null,
+                "alternative_names": [],
+                "academic_title": null,
+                "nobility_title_or_rank": null
+            },
+            "descriptiveTexts": [
+                {
+                    "text": "Welche Strategie K\u00e4llenius eingeschlagen hat, warum vor allem die Signale aus China in Stuttgart f\u00fcr Alarmstimmung sorgen, mit welchen Ideen Mercedes sich k\u00fcnftig noch st\u00e4rker als Luxusmarke positionieren will und welche Rolle dabei ein Kaschmir-K\u00f6nig aus Italien spielt, dar\u00fcber informiert in diesem Podcast Auto-Korrespondentin Margret Hucko im Gespr\u00e4ch mit Chefredakteur Sven Clausen."
+                },
+                {
+                    "text": "Sie k\u00f6nnen den Podcast \u00fcber manager magazin sowie auf Spotify, Apple, Deezer und bei Google abonnieren."
+                }
+            ],
+            "occupations": [
+                {
+                    "text": "Chefredakteur"
+                }
+            ],
+            "directQuotes": [],
+            "quotedInTitle": false,
+            "quotedInIntro": false
+        },
+        {
+            "name": "Ola K\u00e4llenius",
+            "alternativeNames": [],
+            "age": -1,
+            "sex": "male",
+            "occurences": {
+                "total": 3,
+                "firstNameOnly": 0,
+                "lastNameOnly": 1,
+                "fullName": 2,
+                "nickname": 0
+            },
+            "inTitle": false,
+            "inIntro": true,
+            "_name": {
+                "firstname": "Ola",
+                "lastname": "K\u00e4llenius",
+                "nickname": null,
+                "alternative_names": [],
+                "academic_title": null,
+                "nobility_title_or_rank": null
+            },
+            "descriptiveTexts": [
+                {
+                    "text": "In diesem Podcast informiert Auto-Korrespondentin Margret Hucko \u00fcber die Strategie von Vorstandschef Ola K\u00e4llenius."
+                },
+                {
+                    "text": "Die Mercedes-Welt wirkt gerade paradox: Der Auto-Hersteller meldet mit einem operativen Gewinn von rund 20 Milliarden Euro einen Rekordwert, trotzdem schreibt Vorstandschef Ola K\u00e4llenius (53) einen Sparappell an seine Leute."
+                },
+                {
+                    "text": "Welche Strategie K\u00e4llenius eingeschlagen hat, warum vor allem die Signale aus China in Stuttgart f\u00fcr Alarmstimmung sorgen, mit welchen Ideen Mercedes sich k\u00fcnftig noch st\u00e4rker als Luxusmarke positionieren will und welche Rolle dabei ein Kaschmir-K\u00f6nig aus Italien spielt, dar\u00fcber informiert in diesem Podcast Auto-Korrespondentin Margret Hucko im Gespr\u00e4ch mit Chefredakteur Sven Clausen."
+                }
+            ],
+            "occupations": [
+                {
+                    "text": "Trotzdem reduzierte unl\u00e4ngst der langj\u00e4hrige Gro\u00dfaktion\u00e4r Kuwait sein Aktienpaket deutlich."
+                }
+            ],
+            "directQuotes": [],
+            "quotedInTitle": false,
+            "quotedInIntro": true
+        },
+        {
+            "name": "Margret Hucko",
+            "alternativeNames": [],
+            "age": -1,
+            "sex": "female",
+            "occurences": {
+                "total": 2,
+                "firstNameOnly": 0,
+                "lastNameOnly": 0,
+                "fullName": 2,
+                "nickname": 0
+            },
+            "inTitle": false,
+            "inIntro": true,
+            "_name": {
+                "firstname": "Margret",
+                "lastname": "Hucko",
+                "nickname": null,
+                "alternative_names": [],
+                "academic_title": null,
+                "nobility_title_or_rank": null
+            },
+            "descriptiveTexts": [
+                {
+                    "text": "In diesem Podcast informiert Auto-Korrespondentin Margret Hucko \u00fcber die Strategie von Vorstandschef Ola K\u00e4llenius."
+                },
+                {
+                    "text": "Welche Strategie K\u00e4llenius eingeschlagen hat, warum vor allem die Signale aus China in Stuttgart f\u00fcr Alarmstimmung sorgen, mit welchen Ideen Mercedes sich k\u00fcnftig noch st\u00e4rker als Luxusmarke positionieren will und welche Rolle dabei ein Kaschmir-K\u00f6nig aus Italien spielt, dar\u00fcber informiert in diesem Podcast Auto-Korrespondentin Margret Hucko im Gespr\u00e4ch mit Chefredakteur Sven Clausen."
+                }
+            ],
+            "occupations": [
+                {
+                    "text": "Auto-Korrespondentin"
+                }
+            ],
+            "directQuotes": [
+                {
+                    "text": "Das Thema"
+                }
+            ],
+            "quotedInTitle": false,
+            "quotedInIntro": true
+        }
+    ]
+}

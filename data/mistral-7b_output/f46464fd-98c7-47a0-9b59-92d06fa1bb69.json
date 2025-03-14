@@ -1,0 +1,71 @@
+{
+    "persons": [
+        {
+            "name": "Thierry Breton",
+            "alternativeNames": [],
+            "age": -1,
+            "sex": "male",
+            "occurences": {
+                "total": 1,
+                "firstNameOnly": 0,
+                "lastNameOnly": 0,
+                "fullName": 1,
+                "nickname": 0
+            },
+            "inTitle": false,
+            "inIntro": false,
+            "_name": {
+                "firstname": "Thierry",
+                "lastname": "Breton",
+                "nickname": null,
+                "alternative_names": [],
+                "academic_title": null,
+                "nobility_title_or_rank": "Erzherzog"
+            },
+            "descriptiveTexts": [
+                {
+                    "text": "F\u00fcr gro\u00dfe Internetplattformen wie Facebook und Google bedeutet das unter anderem, dass sie nun sch\u00e4rfer gegen illegale Inhalte wie etwa Kinderpornografie, Terrorpropaganda oder Hassrede vorgehen m\u00fcssen."
+                },
+                {
+                    "text": "F\u00fcr sie gelten strengere Vorgaben als f\u00fcr kleinere Unternehmen."
+                },
+                {
+                    "text": "Sie hatten nun vier Monate Zeit, die Vorgaben der EU umzusetzen."
+                },
+                {
+                    "text": "Gesch\u00e4ftsbedingungen m\u00fcssten k\u00fcnftig so formuliert sein, dass jedes Kind sie verstehen kann, sagt ein EU-Beamter."
+                },
+                {
+                    "text": "Plattformen und Suchmaschinen m\u00fcssen nicht nur illegale Beitr\u00e4ge schneller l\u00f6schen als bislang \u2013 sie sollen der EU-Kommission k\u00fcnftig detailliert Bericht erstatten, welche Risiken f\u00fcr die B\u00fcrgerinnen und B\u00fcrger in Europa bestehen."
+                },
+                {
+                    "text": "Dabei m\u00fcssen sie auch offenlegen, welche Beitr\u00e4ge sie l\u00f6schen und Einspruchsm\u00f6glichkeiten vorsehen."
+                },
+                {
+                    "text": "Verboten werden auch sogenannte Targeted Ads, also gezielt an bestimmte Zielgruppen ausgespielte Anzeigen, wenn sie auf sensiblen Daten wie der Religion oder politischen \u00dcberzeugungen basieren."
+                },
+                {
+                    "text": "Au\u00dferdem soll die Geheimniskr\u00e4merei der Plattformen beschr\u00e4nkt werden: Sie m\u00fcssen k\u00fcnftig mehr Informationen \u00fcber ihre Arbeitsweise preisgeben."
+                },
+                {
+                    "text": "Sie sehen sich zu Unrecht als \u00bbsehr gro\u00dfe Online-Plattformen\u00ab eingestuft und argumentieren, dass die Regeln f\u00fcr sie als H\u00e4ndler nicht gelten sollten."
+                },
+                {
+                    "text": "Der zust\u00e4ndige EU-Kommissar Thierry Breton hob am Donnerstag hervor: \u00bbDie Einhaltung des DSA ist keine Strafe \u2013 es ist eine M\u00f6glichkeit f\u00fcr Plattformen, ihre Vertrauensw\u00fcrdigkeit zu st\u00e4rken.\u00ab"
+                }
+            ],
+            "occupations": [
+                {
+                    "text": "EU-Kommissar"
+                }
+            ],
+            "directQuotes": [
+                {
+                    "text": "Die Einhaltung des DSA ist keine Strafe \u2013 es ist eine M\u00f6glichkeit f\u00fcr Plattformen, ihre Vertrauensw\u00fcrdigkeit zu st\u00e4rken."
+                }
+            ],
+            "quotedInTitle": false,
+            "quotedInIntro": false
+        }
+    ]
+}

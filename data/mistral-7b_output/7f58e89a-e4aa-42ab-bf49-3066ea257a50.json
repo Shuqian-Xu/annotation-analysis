@@ -1,0 +1,613 @@
+{
+    "persons": [
+        {
+            "name": "Papa",
+            "alternativeNames": [],
+            "age": -1,
+            "sex": "male",
+            "occurences": {
+                "total": 1,
+                "firstNameOnly": 0,
+                "lastNameOnly": 0,
+                "fullName": 1,
+                "nickname": 0
+            },
+            "inTitle": false,
+            "inIntro": false,
+            "_name": {
+                "firstname": "Papa",
+                "lastname": null,
+                "nickname": null,
+                "alternative_names": [],
+                "academic_title": null,
+                "nobility_title_or_rank": null
+            },
+            "descriptiveTexts": [
+                {
+                    "text": "Das norwegische Paar, das sie 1983 aufnahm, nennt sie immer noch \u00bbPapa\u00ab und \u00bbMama\u00ab."
+                }
+            ],
+            "occupations": [],
+            "directQuotes": [
+                {
+                    "text": "Papa"
+                }
+            ],
+            "quotedInTitle": false,
+            "quotedInIntro": false
+        },
+        {
+            "name": "Uma Feed",
+            "alternativeNames": [],
+            "age": -1,
+            "sex": "female",
+            "occurences": {
+                "total": 19,
+                "firstNameOnly": 2,
+                "lastNameOnly": 9,
+                "fullName": 8,
+                "nickname": 0
+            },
+            "inTitle": false,
+            "inIntro": true,
+            "_name": {
+                "firstname": "Uma",
+                "lastname": "Feed",
+                "nickname": null,
+                "alternative_names": [],
+                "academic_title": null,
+                "nobility_title_or_rank": null
+            },
+            "descriptiveTexts": [
+                {
+                    "text": "Uma Feed kam als S\u00e4ugling nach Norwegen."
+                },
+                {
+                    "text": "40 Jahre sp\u00e4ter fand sie heraus, dass ihre leiblichen Eltern sie nie weggeben wollten."
+                },
+                {
+                    "text": "Uma Feed wird die Namen ihrer verlorenen Familienangeh\u00f6rigen in diesem Leben wohl nie wieder vergessen."
+                },
+                {
+                    "text": "Die koreanischen Namen, die sie vor weniger als einem Jahr mit 40 das erste Mal h\u00f6rte, sind falsch gestochen."
+                },
+                {
+                    "text": "Vier Jahrzehnte lang lebte Feed im Glauben, wom\u00f6glich Vollwaise zu sein."
+                },
+                {
+                    "text": "Fast ihr ganzes Leben lang ahnte sie nicht, dass ihre wirkliche Mutter sie weder verkauft noch verlassen hatte."
+                },
+                {
+                    "text": "Dass ihr eigener Vater sich irgendwann einredete, dass sie l\u00e4ngst tot sei, um den Schmerz zu bet\u00e4uben."
+                },
+                {
+                    "text": "Sie wusste nichts davon, dass sie durch pure Willk\u00fcr von S\u00fcdkorea nach Norwegen gekommen war und dort an eine Familie \u00fcbergeben wurde wie ein besseres Urlaubsmitbringsel."
+                },
+                {
+                    "text": "Sie fordert Aufkl\u00e4rung."
+                },
+                {
+                    "text": "Und vor allem, dass es aufh\u00f6rt: Sie will, dass Auslandsadoptionen international verboten werden."
+                },
+                {
+                    "text": "Auch in den Niederlanden, in Schweden und D\u00e4nemark gab es \u00e4hnliche F\u00e4lle wie den von Uma Feed und \u00e4hnliche Diskussionen."
+                },
+                {
+                    "text": "Adoptionen sind ein au\u00dfergew\u00f6hnlicher Vorgang, vielleicht ist es der am weitesten reichende Verwaltungsakt, der in einem Rechtsstaat \u00fcberhaupt m\u00f6glich ist: Ein Mensch wird von einem Land in ein anderes Land gebracht, meist noch ehe er seinen Namen sagen kann, erh\u00e4lt dort neue Papiere, eine andere Staatsangeh\u00f6rigkeit, eine neue Familie, oft auch einen anderen Namen."
+                },
+                {
+                    "text": "Uma Feed sagt heute, sie habe sich schon immer anders gef\u00fchlt, noch bevor sie ihre wahre Geschichte kannte."
+                },
+                {
+                    "text": "Die Paradoxie von Auslandsadoptionen beschreibt sie so: \u00bbWenn deine Mutter fremd wird und eine Fremde deine Mutter.\u00ab"
+                },
+                {
+                    "text": "Am guten Willen ihrer Eltern hat sie nie gezweifelt"
+                },
+                {
+                    "text": "Das norwegische Paar, das sie 1983 aufnahm, nennt sie immer noch \u00bbPapa\u00ab und \u00bbMama\u00ab."
+                },
+                {
+                    "text": "Fotos zeigen sie und ihre beiden Geschwister in norwegischen Trachten, am Nationalfeiertag, in rustikalen Wohnstuben und beim Angeln an Fjorden."
+                },
+                {
+                    "text": "Lebensjahr hie\u00df sie fortan Anne."
+                },
+                {
+                    "text": "Sie sollte eine normale Norwegerin sein."
+                },
+                {
+                    "text": "Ihre Eltern h\u00e4tten alles richtig machen wollen, daran habe sie nie gezweifelt."
+                },
+                {
+                    "text": "\u00dcber ihre Herkunft wusste sie nur, dass sie vermutlich als Waise zur Adoption freigegeben worden sei."
+                },
+                {
+                    "text": "Feed sagte: Schickt mich zur\u00fcck, ich will meine Herkunft verstehen."
+                },
+                {
+                    "text": "Die einzigen anderen nicht wei\u00dfen Menschen im Ort seien die vietnamesischen Bootsfl\u00fcchtlinge gewesen, erinnert sich Feed."
+                },
+                {
+                    "text": "Heute ist das Verh\u00e4ltnis zu ihren Adoptiveltern angespannt, sie h\u00e4lt den Kontakt vor allem f\u00fcr ihre eigenen Kinder."
+                },
+                {
+                    "text": "Feed ist inzwischen selbst zweifache Mutter."
+                },
+                {
+                    "text": "Auch Uma Feed kam so zu ihren Eltern."
+                },
+                {
+                    "text": "Nur so erfuhr Uma Feed im vergangenen Jahr von ihrer leiblichen Familie, durch einen s\u00fcdkoreanischen DNA-Abgleich."
+                },
+                {
+                    "text": "Den entscheidenden Anruf erhielt sie am 3. Mai 2023 auf der Toilette."
+                },
+                {
+                    "text": "Keine vier Wochen sp\u00e4ter sa\u00df sie im Flieger."
+                },
+                {
+                    "text": "Auf ihr iPhone hatte sie sich eine \u00dcbersetzungsapp heruntergeladen."
+                },
+                {
+                    "text": "Uma Feed sagt, sie wisse inzwischen, was damals passiert sei."
+                },
+                {
+                    "text": "Ihre Mutter habe sie zur Pflege abgeben m\u00fcssen, weil sie krank wurde."
+                },
+                {
+                    "text": "Als sie zur\u00fcckkam, war die Tochter weg."
+                },
+                {
+                    "text": "Als es in Norwegen hie\u00df, sie sei weggeben worden, fragte niemand nach der Unterschrift ihrer Mutter."
+                },
+                {
+                    "text": "Feed erz\u00e4hlt heute, dass ihre Eltern 40 Jahre lang auf sie gewartet h\u00e4tten."
+                },
+                {
+                    "text": "Regelm\u00e4\u00dfig seien sie zum Tempel."
+                },
+                {
+                    "text": "Der Vater habe Dollarscheine als Opfergaben gebracht, die Mutter f\u00fcr sie gebetet."
+                },
+                {
+                    "text": "Ihr gr\u00f6\u00dferer Bruder sagt, er habe als Kind jahrelang jeden Nachmittag im Dorf nach seiner Schwester gesucht."
+                },
+                {
+                    "text": "Bei ihrem ersten Besuch zeigten sie Uma, wie man buddhistisch betet."
+                },
+                {
+                    "text": "Sie erz\u00e4hlten von ihrer Scham, die Tochter und Schwester verloren zu haben."
+                },
+                {
+                    "text": "Der Bruder sagte, er habe als junger Erwachsener beschlossen, selbst nie eine eigene Familie gr\u00fcnden zu wollen."
+                },
+                {
+                    "text": "Am Ende sagten sie alle: Bitte vergib uns nie unsere Schuld."
+                },
+                {
+                    "text": "Sie wei\u00df, dass es keinen Weg zur\u00fcck gibt"
+                },
+                {
+                    "text": "Im Gesicht ihres Vaters, erz\u00e4hlt Feed, habe sie zum ersten Mal an einem Menschen die eigenen Z\u00fcge wiedererkannt."
+                },
+                {
+                    "text": "Da war sie 40."
+                },
+                {
+                    "text": "Feed sagt oft, sie wolle keine Opfergeschichte pr\u00e4sentieren."
+                },
+                {
+                    "text": "Sie versuche nur, ihr bisheriges Leben neu zu verstehen."
+                },
+                {
+                    "text": "Beim ersten Besuch in dem kleinen Dorf in den Bergen S\u00fcdkoreas fand sie, ihre Familie rieche nach Fisch und Meeresfr\u00fcchten."
+                },
+                {
+                    "text": "Umgekehrt sagte ihr Cousin: Uma, du riechst so nach Milch."
+                },
+                {
+                    "text": "Die Mutter sagte: Mit den Tattoos siehst du aus wie eine Nordkoreanerin."
+                },
+                {
+                    "text": "Wenn du willst, zahlen wir dir eine Schlupflidkorrektur."
+                },
+                {
+                    "text": "Feed sagt, sie wolle keine Sch\u00f6nheitsoperation und auch kein Mitleid."
+                },
+                {
+                    "text": "\u00bbIch will, dass dieses System abgeschafft wird.\u00ab"
+                },
+                {
+                    "text": "Inzwischen ist Feed zu einer Art Sprachrohr der Adoptierten in Norwegen geworden."
+                },
+                {
+                    "text": "K\u00fcrzlich erhielt sie einen Menschenrechtspreis f\u00fcr ihre Arbeit."
+                },
+                {
+                    "text": "Uma Feed plant inzwischen einen Film \u00fcber ihre Geschichte."
+                },
+                {
+                    "text": "Sie l\u00e4sst sich von einer Kamerafrau begleiten, wenn sie das Familienministerium in Oslo aufsucht oder mit ihrer Sachbearbeiterin spricht."
+                },
+                {
+                    "text": "Sie will Spuren hinterlassen und dokumentieren, wie das Adoptionssystem kollabiert."
+                }
+            ],
+            "occupations": [
+                {
+                    "text": "K\u00fcnstlerin"
+                }
+            ],
+            "directQuotes": [
+                {
+                    "text": "Es war Raub. Ein Gesch\u00e4ft. Denn so nennt man es, wenn man Geld ausgibt, um etwas zu erhalten, auch wenn es einem nicht geh\u00f6rt."
+                },
+                {
+                    "text": "Wenn deine Mutter fremd wird und eine Fremde deine Mutter."
+                },
+                {
+                    "text": "Ich habe noch nie so etwas erlebt"
+                },
+                {
+                    "text": "Ich will, dass dieses System abgeschafft wird."
+                },
+                {
+                    "text": "Als Migrantin bist du anders, aber du hast zumindest eine Community"
+                },
+                {
+                    "text": "als asiatisches Kind, dem gesagt wird, dass es norwegisch sei, hast du nichts."
+                },
+                {
+                    "text": "Am schlimmsten war das Leugnen, dass ich anders war"
+                }
+            ],
+            "quotedInTitle": false,
+            "quotedInIntro": true
+        },
+        {
+            "name": "Gro Brundtland",
+            "alternativeNames": [],
+            "age": -1,
+            "sex": "female",
+            "occurences": {
+                "total": 1,
+                "firstNameOnly": 0,
+                "lastNameOnly": 0,
+                "fullName": 1,
+                "nickname": 0
+            },
+            "inTitle": false,
+            "inIntro": false,
+            "_name": {
+                "firstname": "Gro",
+                "lastname": "Brundtland",
+                "nickname": null,
+                "alternative_names": [],
+                "academic_title": null,
+                "nobility_title_or_rank": null
+            },
+            "descriptiveTexts": [
+                {
+                    "text": "Die legend\u00e4re norwegische Premierministerin Gro Brundtland erkl\u00e4rte einmal: \u00bbEs ist typisch norwegisch, gut zu sein.\u00ab"
+                }
+            ],
+            "occupations": [],
+            "directQuotes": [],
+            "quotedInTitle": false,
+            "quotedInIntro": false
+        },
+        {
+            "name": "Helge Solberg",
+            "alternativeNames": [],
+            "age": -1,
+            "sex": "male",
+            "occurences": {
+                "total": 4,
+                "firstNameOnly": 0,
+                "lastNameOnly": 2,
+                "fullName": 2,
+                "nickname": 0
+            },
+            "inTitle": false,
+            "inIntro": false,
+            "_name": {
+                "firstname": "Helge",
+                "lastname": "Solberg",
+                "nickname": null,
+                "alternative_names": [],
+                "academic_title": null,
+                "nobility_title_or_rank": null
+            },
+            "descriptiveTexts": [
+                {
+                    "text": "Auch Helge Solberg bef\u00fcrchtet \u00e4hnliches, selbst wenn es nicht zu einem Verbot kommen sollte."
+                },
+                {
+                    "text": "Er arbeitet f\u00fcr \u00bbVerdens Barn\u00ab, \u00fcbersetzt Kinder der Welt."
+                },
+                {
+                    "text": "Solbergs Agentur vermittelte seit den Sechzigerjahren Kinder an norwegische Familien."
+                },
+                {
+                    "text": "Er erz\u00e4hlt gern von seiner eigenen, seine Ehefrau sei auch ein Adoptivkind, die Kinder ebenfalls aus dem Ausland."
+                },
+                {
+                    "text": "Helge Solberg wirkt angespannt, w\u00e4hrend er seine Sicht der Dinge erz\u00e4hlt."
+                },
+                {
+                    "text": "Er k\u00e4mpft nicht um sein Leben, aber um sein Lebenswerk."
+                },
+                {
+                    "text": "Solberg sagt: \u00bbMan kann uns heute nicht vorwerfen, was damals nicht falsch war.\u00ab"
+                }
+            ],
+            "occupations": [],
+            "directQuotes": [
+                {
+                    "text": "Man kann uns heute nicht vorwerfen, was damals nicht falsch war."
+                },
+                {
+                    "text": "Das Risiko illegaler Praktiken ist real, aus unserer Sicht ist die Dokumentation in vielen F\u00e4llen nicht gut genug."
+                }
+            ],
+            "quotedInTitle": false,
+            "quotedInIntro": false
+        },
+        {
+            "name": "Kirsten Sandberg",
+            "alternativeNames": [],
+            "age": -1,
+            "sex": "female",
+            "occurences": {
+                "total": 2,
+                "firstNameOnly": 0,
+                "lastNameOnly": 1,
+                "fullName": 1,
+                "nickname": 0
+            },
+            "inTitle": false,
+            "inIntro": false,
+            "_name": {
+                "firstname": "Kirsten",
+                "lastname": "Sandberg",
+                "nickname": null,
+                "alternative_names": [],
+                "academic_title": null,
+                "nobility_title_or_rank": null
+            },
+            "descriptiveTexts": [
+                {
+                    "text": "\u00bbDaf\u00fcr waren unsere eigenen Standards zu hoch\u00ab, sagt die Juristin Kirsten Sandberg, ehemalige Richterin am Obersten Gerichtshof in Norwegen und Vorsitzende des Uno-Kinderrechtsausschusses."
+                },
+                {
+                    "text": "Heute h\u00e4lt Sandberg diese Annahmen f\u00fcr einen Ausdruck von \u00dcberheblichkeit."
+                }
+            ],
+            "occupations": [
+                {
+                    "text": "Juristin"
+                },
+                {
+                    "text": "Vorsitzende des Uno-Kinderrechtsausschusses"
+                }
+            ],
+            "directQuotes": [
+                {
+                    "text": "Daf\u00fcr waren unsere eigenen Standards zu hoch"
+                }
+            ],
+            "quotedInTitle": false,
+            "quotedInIntro": false
+        },
+        {
+            "name": "Anne",
+            "alternativeNames": [],
+            "age": -1,
+            "sex": "female",
+            "occurences": {
+                "total": 1,
+                "firstNameOnly": 0,
+                "lastNameOnly": 0,
+                "fullName": 1,
+                "nickname": 0
+            },
+            "inTitle": false,
+            "inIntro": false,
+            "_name": {
+                "firstname": "Anne",
+                "lastname": null,
+                "nickname": null,
+                "alternative_names": [],
+                "academic_title": null,
+                "nobility_title_or_rank": null
+            },
+            "descriptiveTexts": [
+                {
+                    "text": "Lebensjahr hie\u00df sie fortan Anne."
+                }
+            ],
+            "occupations": [
+                {
+                    "text": "K\u00fcnstlerin"
+                },
+                {
+                    "text": "Adoptierte"
+                }
+            ],
+            "directQuotes": [
+                {
+                    "text": "Kinder sollten nach norwegischer Tradition in der eigenen Familie aufwachsen. Die Adoptionen aus dem Ausland kamen uns hingegen ideal vor. Die Norweger konnten sich die hohen Kosten leisten, noch dazu erschien es wie ein humanit\u00e4rer Akt."
+                }
+            ],
+            "quotedInTitle": false,
+            "quotedInIntro": false
+        },
+        {
+            "name": "Kjersti Grinde Satish",
+            "alternativeNames": [],
+            "age": -1,
+            "sex": "female",
+            "occurences": {
+                "total": 2,
+                "firstNameOnly": 0,
+                "lastNameOnly": 1,
+                "fullName": 1,
+                "nickname": 0
+            },
+            "inTitle": false,
+            "inIntro": false,
+            "_name": {
+                "firstname": "Kjersti",
+                "lastname": "Grinde Satish",
+                "nickname": null,
+                "alternative_names": [],
+                "academic_title": null,
+                "nobility_title_or_rank": null
+            },
+            "descriptiveTexts": [
+                {
+                    "text": "Die Sozialwissenschaftlerin Kjersti Grinde Satish erforscht seit 2014, wie es Adoptivkindern in Norwegen ergeht."
+                },
+                {
+                    "text": "Damals suchte sie im Rahmen ihrer Promotion nach F\u00e4llen."
+                },
+                {
+                    "text": "Es habe sie erstaunt, wie wenig Forschung es dazu gab, sagt sie."
+                },
+                {
+                    "text": "Mit 26 f\u00fchrte Grinde Satish mehrst\u00fcndige Gespr\u00e4che."
+                }
+            ],
+            "occupations": [
+                {
+                    "text": "Sozialwissenschaftlerin"
+                }
+            ],
+            "directQuotes": [
+                {
+                    "text": "Was hei\u00dft das f\u00fcr die grundlegende Idee, wenn Adoptionen selbst in einem reichen Wohlfahrtsstaat wie Norwegen solche Konsequenzen haben?"
+                }
+            ],
+            "quotedInTitle": false,
+            "quotedInIntro": false
+        },
+        {
+            "name": "Kristin Ugstad Steinrem",
+            "alternativeNames": [],
+            "age": -1,
+            "sex": "female",
+            "occurences": {
+                "total": 1,
+                "firstNameOnly": 0,
+                "lastNameOnly": 0,
+                "fullName": 1,
+                "nickname": 0
+            },
+            "inTitle": false,
+            "inIntro": false,
+            "_name": {
+                "firstname": "Kristin",
+                "lastname": "Ugstad Steinrem",
+                "nickname": null,
+                "alternative_names": [],
+                "academic_title": null,
+                "nobility_title_or_rank": null
+            },
+            "descriptiveTexts": [
+                {
+                    "text": "Die zust\u00e4ndige Abteilungsleiterin Kristin Ugstad Steinrem der Aufsichtsbeh\u00f6rde in Oslo sagt: \u00bbDas Risiko illegaler Praktiken ist real, aus unserer Sicht ist die Dokumentation in vielen F\u00e4llen nicht gut genug.\u00ab"
+                },
+                {
+                    "text": "Ohne vollst\u00e4ndige Papiere und nachgewiesene Not w\u00fcrden sie keine Auslandsadoptionen mehr zulassen."
+                }
+            ],
+            "occupations": [],
+            "directQuotes": [],
+            "quotedInTitle": false,
+            "quotedInIntro": false
+        },
+        {
+            "name": "Martin Folkvord",
+            "alternativeNames": [],
+            "age": -1,
+            "sex": "male",
+            "occurences": {
+                "total": 1,
+                "firstNameOnly": 0,
+                "lastNameOnly": 0,
+                "fullName": 1,
+                "nickname": 0
+            },
+            "inTitle": false,
+            "inIntro": false,
+            "_name": {
+                "firstname": "Martin",
+                "lastname": "Folkvord",
+                "nickname": null,
+                "alternative_names": [],
+                "academic_title": null,
+                "nobility_title_or_rank": null
+            },
+            "descriptiveTexts": [
+                {
+                    "text": "\u00bbIch habe noch nie so etwas erlebt\u00ab, sagt Martin Folkvord, Investigativjournalist bei VG."
+                },
+                {
+                    "text": "Seither enth\u00fcllten er und seine Kolleginnen zum Beispiel, dass schon in den Achtzigerjahren bekannt wurde, wie f\u00fcr Adoptionen in Ecuador Gef\u00e4lligkeiten geleistet wurden und wie viele Adoptierte bis heute auf Antworten warten."
+                }
+            ],
+            "occupations": [
+                {
+                    "text": "Investigativjournalist bei VG"
+                }
+            ],
+            "directQuotes": [
+                {
+                    "text": "Normalerweise m\u00fcssen wir lange graben, um Betroffene zu finden. Diese Geschichte kam wie eine Welle auf uns zugerollt."
+                }
+            ],
+            "quotedInTitle": false,
+            "quotedInIntro": false
+        },
+        {
+            "name": "Mama",
+            "alternativeNames": [],
+            "age": -1,
+            "sex": "female",
+            "occurences": {
+                "total": 1,
+                "firstNameOnly": 0,
+                "lastNameOnly": 0,
+                "fullName": 1,
+                "nickname": 0
+            },
+            "inTitle": false,
+            "inIntro": false,
+            "_name": {
+                "firstname": "Mama",
+                "lastname": null,
+                "nickname": null,
+                "alternative_names": [],
+                "academic_title": null,
+                "nobility_title_or_rank": null
+            },
+            "descriptiveTexts": [
+                {
+                    "text": "Sie wei\u00df inzwischen, dass sie nicht die einzige ist."
+                },
+                {
+                    "text": "Das norwegische Paar, das sie 1983 aufnahm, nennt sie immer noch \u00bbPapa\u00ab und \u00bbMama\u00ab."
+                }
+            ],
+            "occupations": [],
+            "directQuotes": [
+                {
+                    "text": "Mama"
+                }
+            ],
+            "quotedInTitle": false,
+            "quotedInIntro": false
+        }
+    ]
+}

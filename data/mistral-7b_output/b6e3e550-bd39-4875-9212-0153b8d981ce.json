@@ -1,0 +1,221 @@
+{
+    "persons": [
+        {
+            "name": "Laud",
+            "alternativeNames": [],
+            "age": -1,
+            "sex": "female",
+            "occurences": {
+                "total": 5,
+                "firstNameOnly": 0,
+                "lastNameOnly": 0,
+                "fullName": 5,
+                "nickname": 0
+            },
+            "inTitle": false,
+            "inIntro": true,
+            "_name": {
+                "firstname": null,
+                "lastname": "Laud",
+                "nickname": null,
+                "alternative_names": [],
+                "academic_title": null,
+                "nobility_title_or_rank": null
+            },
+            "descriptiveTexts": [
+                {
+                    "text": "Im Interview erkl\u00e4rt Sonja Laud, wie sie im Umfeld von Krieg und Zinserh\u00f6hungen ihre Investmententscheidungen trifft \u2013 und worauf auch Privatanleger achten sollten."
+                },
+                {
+                    "text": "Damit verwaltet keine andere Frau der Welt so viel Geld, wie die Chef-Anlagestrategin des Unternehmens: Sonja Laud (48)."
+                },
+                {
+                    "text": "Lauds Weg zum CIO startete dabei in Hamburg Volksdorf \u2013 mit einer Ausbildung in einer kleinen Filiale der Deutschen Bank."
+                },
+                {
+                    "text": "Danach studierte sie BWL in K\u00f6ln, Paris, Oxford und Berlin."
+                },
+                {
+                    "text": "Im Sommer fliegt die Managerin zum 30-j\u00e4hrigen Abitur-Jubil\u00e4um zur\u00fcck in ihre Heimatstadt. manager magazin trifft sie zum Interview in der Legal & General Hauptzentrale in der Coleman Street in London."
+                },
+                {
+                    "text": "\nmanager magazin: Frau Laud, als Chef-Anlagestrategin bei LGIM sind Sie f\u00fcr 1,4 Billionen Euro verantwortlich."
+                },
+                {
+                    "text": "Sonja Laud: Nicht besser oder schlechter als sonst."
+                },
+                {
+                    "text": "Ich versuche aus der Vergangenheit zu lernen, aber es gibt immer wieder Situationen, die neu sind und in der Historie zum ersten Mal vorkommen."
+                },
+                {
+                    "text": "Ziel ist nicht eine Punktlandung zu leisten, sondern Portfolios so vorzubereiten, dass sie bestimmte Risiko-Szenarien ber\u00fccksichtigen."
+                },
+                {
+                    "text": "Dabei ist keine Krise wie die andere: Die Euro-Schuldenkrise brachte andere Probleme als die globale Finanzkrise \u2013 und angefangen habe ich meine Karriere in der Dotcom-Blase."
+                },
+                {
+                    "text": "Ich habe daher fr\u00fch gelernt, mit Krisen umzugehen."
+                },
+                {
+                    "text": "Ich wei\u00df aber auch, dass man sich nicht auf alles vorbereiten kann."
+                },
+                {
+                    "text": "Hatten Sie diese M\u00f6glichkeit in ihren Anlage-Szenarien ber\u00fccksichtigt?"
+                },
+                {
+                    "text": "Ich gehe aktuell davon aus, dass wir in der zweiten Jahresh\u00e4lfte entsprechend die Risikoallokation wieder hochfahren werden."
+                },
+                {
+                    "text": "Bemerken Sie eine Umschichtung hin zu alternativen Investments?"
+                },
+                {
+                    "text": "Ich glaube in der Spitze hatten wir 15 Billionen Wertpapiere mit negativer Rendite."
+                },
+                {
+                    "text": "Bereits nach dem Platzen der Dotcom-Blase vor zwanzig Jahren hatten Sie diese Idee aufgegriffen."
+                },
+                {
+                    "text": "2003 hatten Sie Dividendenfonds angeboten, um die vom Techcrash verschreckten Deutschen wieder mit Aktien zu vers\u00f6hnen."
+                },
+                {
+                    "text": "Bemerken Sie einen Unterschied zwischen den Anleger-Generationen?"
+                },
+                {
+                    "text": "Insofern bin ich nat\u00fcrlich sehr daran interessiert, mit anderen Regulatoren zusammenzuarbeiten, um daf\u00fcr zu sorgen, dass diese Divergenz kleiner wird."
+                },
+                {
+                    "text": "Halten Sie es wirklich f\u00fcr realistisch, globale Standards festsetzen zu k\u00f6nnen?"
+                },
+                {
+                    "text": "Diese M\u00f6glichkeit habe ich im Moment noch nicht."
+                },
+                {
+                    "text": "Deswegen fokussiere ich mich bisher erst einmal nur auf das Klima-Engagement eines Unternehmens."
+                },
+                {
+                    "text": "Wenn ich die Aktie eines Unternehmens, das noch nicht nachhaltig aufgestellt ist, einfach nur verkaufe, bedeutet das nur, dass ich das Problem und die Verantwortung an jemand anderen weitergebe."
+                }
+            ],
+            "occupations": [
+                {
+                    "text": "Chef-Anlagestrategin bei LGIM"
+                },
+                {
+                    "text": "Ausbildung in einer kleinen Filiale der Deutschen Bank"
+                }
+            ],
+            "directQuotes": [],
+            "quotedInTitle": false,
+            "quotedInIntro": true
+        },
+        {
+            "name": "Sonja Laud",
+            "alternativeNames": [],
+            "age": 48,
+            "sex": "female",
+            "occurences": {
+                "total": 3,
+                "firstNameOnly": 0,
+                "lastNameOnly": 0,
+                "fullName": 3,
+                "nickname": 0
+            },
+            "inTitle": false,
+            "inIntro": true,
+            "_name": {
+                "firstname": "Sonja",
+                "lastname": "Laud",
+                "nickname": null,
+                "alternative_names": [],
+                "academic_title": null,
+                "nobility_title_or_rank": null
+            },
+            "descriptiveTexts": [
+                {
+                    "text": "Im Interview erkl\u00e4rt Sonja Laud, wie sie im Umfeld von Krieg und Zinserh\u00f6hungen ihre Investmententscheidungen trifft \u2013 und worauf auch Privatanleger achten sollten."
+                },
+                {
+                    "text": "Damit verwaltet keine andere Frau der Welt so viel Geld, wie die Chef-Anlagestrategin des Unternehmens: Sonja Laud (48)."
+                },
+                {
+                    "text": "Danach studierte sie BWL in K\u00f6ln, Paris, Oxford und Berlin."
+                },
+                {
+                    "text": "Im Sommer fliegt die Managerin zum 30-j\u00e4hrigen Abitur-Jubil\u00e4um zur\u00fcck in ihre Heimatstadt. manager magazin trifft sie zum Interview in der Legal & General Hauptzentrale in der Coleman Street in London."
+                },
+                {
+                    "text": "\nmanager magazin: Frau Laud, als Chef-Anlagestrategin bei LGIM sind Sie f\u00fcr 1,4 Billionen Euro verantwortlich."
+                },
+                {
+                    "text": "Sonja Laud: Nicht besser oder schlechter als sonst."
+                },
+                {
+                    "text": "Ich versuche aus der Vergangenheit zu lernen, aber es gibt immer wieder Situationen, die neu sind und in der Historie zum ersten Mal vorkommen."
+                },
+                {
+                    "text": "Ziel ist nicht eine Punktlandung zu leisten, sondern Portfolios so vorzubereiten, dass sie bestimmte Risiko-Szenarien ber\u00fccksichtigen."
+                },
+                {
+                    "text": "Dabei ist keine Krise wie die andere: Die Euro-Schuldenkrise brachte andere Probleme als die globale Finanzkrise \u2013 und angefangen habe ich meine Karriere in der Dotcom-Blase."
+                },
+                {
+                    "text": "Ich habe daher fr\u00fch gelernt, mit Krisen umzugehen."
+                },
+                {
+                    "text": "Ich wei\u00df aber auch, dass man sich nicht auf alles vorbereiten kann."
+                },
+                {
+                    "text": "Hatten Sie diese M\u00f6glichkeit in ihren Anlage-Szenarien ber\u00fccksichtigt?"
+                },
+                {
+                    "text": "Ich gehe aktuell davon aus, dass wir in der zweiten Jahresh\u00e4lfte entsprechend die Risikoallokation wieder hochfahren werden."
+                },
+                {
+                    "text": "Bemerken Sie eine Umschichtung hin zu alternativen Investments?"
+                },
+                {
+                    "text": "Ich glaube in der Spitze hatten wir 15 Billionen Wertpapiere mit negativer Rendite."
+                },
+                {
+                    "text": "Bereits nach dem Platzen der Dotcom-Blase vor zwanzig Jahren hatten Sie diese Idee aufgegriffen."
+                },
+                {
+                    "text": "2003 hatten Sie Dividendenfonds angeboten, um die vom Techcrash verschreckten Deutschen wieder mit Aktien zu vers\u00f6hnen."
+                },
+                {
+                    "text": "Bemerken Sie einen Unterschied zwischen den Anleger-Generationen?"
+                },
+                {
+                    "text": "Insofern bin ich nat\u00fcrlich sehr daran interessiert, mit anderen Regulatoren zusammenzuarbeiten, um daf\u00fcr zu sorgen, dass diese Divergenz kleiner wird."
+                },
+                {
+                    "text": "Halten Sie es wirklich f\u00fcr realistisch, globale Standards festsetzen zu k\u00f6nnen?"
+                },
+                {
+                    "text": "Diese M\u00f6glichkeit habe ich im Moment noch nicht."
+                },
+                {
+                    "text": "Deswegen fokussiere ich mich bisher erst einmal nur auf das Klima-Engagement eines Unternehmens."
+                },
+                {
+                    "text": "Wenn ich die Aktie eines Unternehmens, das noch nicht nachhaltig aufgestellt ist, einfach nur verkaufe, bedeutet das nur, dass ich das Problem und die Verantwortung an jemand anderen weitergebe."
+                }
+            ],
+            "occupations": [
+                {
+                    "text": "Chef-Anlagestrategin bei LGIM"
+                }
+            ],
+            "directQuotes": [
+                {
+                    "text": "Entweder die Zinsen bleiben h\u00f6her oder die Wirtschaftsleistung geht zur\u00fcck"
+                },
+                {
+                    "text": "Nicht besser oder schlechter als sonst. Solche Situationen sind Teil unseres Investmentprozesses und spiegeln sich in unseren Investmententscheidungen wider. Am Ende des Tages kann man sich nie wirklich auf Krisen vorbereiten. Ich versuche aus der Vergangenheit zu lernen, aber es gibt immer wieder Situationen, die neu sind und in der Historie zum ersten Mal vorkommen. Insofern geht es immer nur darum, ein Rahmenwerk f\u00fcr die Macro- und Investment-Analyse zu schaffen. Ziel ist es nicht pr\u00e4zise zu sagen, wo Aktienkurse am Ende des Jahres liegen \u2013 das kann niemand vorhersagen. Unsere Devise bei LGIM ist 'Prepare, don't predict'. Ziel ist nicht eine Punktlandung zu leisten, sondern Portfolios so vorzubereiten, dass sie bestimmte Risiko-Szenarien ber\u00fccksichtigen."
+                }
+            ],
+            "quotedInTitle": false,
+            "quotedInIntro": true
+        }
+    ]
+}

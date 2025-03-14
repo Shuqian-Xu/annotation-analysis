@@ -1,0 +1,581 @@
+{
+    "persons": [
+        {
+            "name": "Raymond Gense",
+            "alternativeNames": [],
+            "age": -1,
+            "sex": "male",
+            "occurences": {
+                "total": 6,
+                "firstNameOnly": 0,
+                "lastNameOnly": 5,
+                "fullName": 1,
+                "nickname": 0
+            },
+            "inTitle": false,
+            "inIntro": false,
+            "_name": {
+                "firstname": "Raymond",
+                "lastname": "Gense",
+                "nickname": null,
+                "alternative_names": [],
+                "academic_title": null,
+                "nobility_title_or_rank": null
+            },
+            "descriptiveTexts": [
+                {
+                    "text": "\"Wir sind auf direktem Weg in die Welt\", sagte k\u00fcrzlich Raymond Gense, Direktor von Pon Mobility, auf der Branchenmesse Micromobility Europe in Amsterdam."
+                },
+                {
+                    "text": "\"Damals war die niederl\u00e4ndische Fahrradmarke Gazelle fast pleite\", erz\u00e4hlt Pon-Manager Gense in Amsterdam."
+                },
+                {
+                    "text": "\"Das ist die Reise, die wir hinter uns haben\", sagt Gense und l\u00e4sst gleichzeitig vermuten: Die Einkaufstour geht weiter und damit auch die Konsolidierung in der Fahrradindustrie."
+                },
+                {
+                    "text": "\"Wir glauben, dass in St\u00e4dten die elektrische Mobilit\u00e4t auf zwei R\u00e4dern die Zukunft ist\", sagt Gense und verweist auf das enorme Marktpotenzial von E-Bikes."
+                },
+                {
+                    "text": "Pon Holdings habe schon alles, damit der Plan aufgeht, sagt Gense: ein Car-Sharing-Unternehmen, ein Ladeunternehmen, Karten und eine eigene Mobilit\u00e4ts-App."
+                },
+                {
+                    "text": "\"Das Geldverdienen auf der Autoseite ist das R\u00fcckgrat\", sagt Manager Gense."
+                }
+            ],
+            "occupations": [],
+            "directQuotes": [
+                {
+                    "text": "Wir sind auf direktem Weg in die Welt"
+                },
+                {
+                    "text": "Das ist die Reise, die wir hinter uns haben"
+                },
+                {
+                    "text": "Aber wenn Sie in den Fahrradsektor gehen, steht Ihnen die Welt offen. Das ist einer der Hauptgr\u00fcnde, warum wir es getan haben."
+                },
+                {
+                    "text": "Unsere Strategie ist es, Fahrr\u00e4der an einem Standort zu produzieren, der nahe bei unseren Kunden liegt, und Europa ist einer unserer gr\u00f6\u00dften und am schnellsten wachsenden M\u00e4rkte"
+                }
+            ],
+            "quotedInTitle": false,
+            "quotedInIntro": false
+        },
+        {
+            "name": "Pon oder Pons",
+            "alternativeNames": [],
+            "age": -1,
+            "sex": "unknown",
+            "occurences": {
+                "total": 28,
+                "firstNameOnly": 0,
+                "lastNameOnly": 0,
+                "fullName": 28,
+                "nickname": 0
+            },
+            "inTitle": false,
+            "inIntro": true,
+            "_name": {
+                "firstname": null,
+                "lastname": "Pon",
+                "nickname": null,
+                "alternative_names": [],
+                "academic_title": null,
+                "nobility_title_or_rank": null
+            },
+            "descriptiveTexts": [
+                {
+                    "text": "Fern der \u00d6ffentlichkeit sieht man ihn ab und zu in Tweetjackets und Stiefeln auf Viehauktionen \u2013 und doch steuert er das ganz gro\u00dfe Gesch\u00e4ft."
+                },
+                {
+                    "text": "Gleichzeitig aber wurde er zum Haupteigner der Familienfirma Pon Holdings \u2013 und formte aus ihr in den vergangenen Jahren den gr\u00f6\u00dften Fahrradhersteller der Welt."
+                },
+                {
+                    "text": "Die Autos machten sie zu einer der reichsten Familien der Niederlande."
+                },
+                {
+                    "text": "Die Fahrr\u00e4der sind f\u00fcr sie Zukunft und Vergangenheit zugleich."
+                },
+                {
+                    "text": "Nach wie vor importieren sie deren Autos und stemmten sogar k\u00fcrzlich gemeinsam mit Volkswagen und dem Finanzinvestor Attestor die Milliarden\u00fcbernahme des Autoverleihers Europcar."
+                }
+            ],
+            "occupations": [
+                {
+                    "text": "Spross einer niederl\u00e4ndischen Kaufmanns- und Autohandelsdynastie"
+                },
+                {
+                    "text": "Viehz\u00fcchter"
+                },
+                {
+                    "text": "ein grundlegend anderes Unternehmen als im Automobilsektor"
+                },
+                {
+                    "text": "Bauer"
+                }
+            ],
+            "directQuotes": [],
+            "quotedInTitle": false,
+            "quotedInIntro": true
+        },
+        {
+            "name": "Jonas Vingegaard",
+            "alternativeNames": [],
+            "age": -1,
+            "sex": "male",
+            "occurences": {
+                "total": 1,
+                "firstNameOnly": 0,
+                "lastNameOnly": 0,
+                "fullName": 1,
+                "nickname": 0
+            },
+            "inTitle": false,
+            "inIntro": false,
+            "_name": {
+                "firstname": "Jonas",
+                "lastname": "Vingegaard",
+                "nickname": null,
+                "alternative_names": [],
+                "academic_title": null,
+                "nobility_title_or_rank": null
+            },
+            "descriptiveTexts": [
+                {
+                    "text": "Auch die Rennradmarke Cerv\u00e9lo, mit der Tour-de-France-Star Jonas Vingegaard (26) gerade f\u00fcr Furore sorgt, z\u00e4hlt zum Sortiment."
+                }
+            ],
+            "occupations": [],
+            "directQuotes": [],
+            "quotedInTitle": false,
+            "quotedInIntro": false
+        },
+        {
+            "name": "Juliana",
+            "alternativeNames": [],
+            "age": -1,
+            "sex": "female",
+            "occurences": {
+                "total": 1,
+                "firstNameOnly": 0,
+                "lastNameOnly": 0,
+                "fullName": 1,
+                "nickname": 0
+            },
+            "inTitle": false,
+            "inIntro": false,
+            "_name": {
+                "firstname": "Juliana",
+                "lastname": null,
+                "nickname": null,
+                "alternative_names": [],
+                "academic_title": null,
+                "nobility_title_or_rank": null
+            },
+            "descriptiveTexts": [
+                {
+                    "text": "2015 kamen Santa Cruz, Juliana und BBB dazu."
+                }
+            ],
+            "occupations": [],
+            "directQuotes": [],
+            "quotedInTitle": false,
+            "quotedInIntro": false
+        },
+        {
+            "name": "Deal",
+            "alternativeNames": [],
+            "age": -1,
+            "sex": "unknown",
+            "occurences": {
+                "total": 2,
+                "firstNameOnly": 0,
+                "lastNameOnly": 0,
+                "fullName": 2,
+                "nickname": 0
+            },
+            "inTitle": false,
+            "inIntro": false,
+            "_name": {
+                "firstname": null,
+                "lastname": null,
+                "nickname": null,
+                "alternative_names": [],
+                "academic_title": null,
+                "nobility_title_or_rank": null
+            },
+            "descriptiveTexts": [
+                {
+                    "text": "Seitdem folgte Deal auf Deal."
+                }
+            ],
+            "occupations": [
+                {
+                    "text": "Das Auto habe seinen Platz, das Fahrrad habe einen noch wichtigeren Platz im Alltag."
+                }
+            ],
+            "directQuotes": [],
+            "quotedInTitle": false,
+            "quotedInIntro": false
+        },
+        {
+            "name": "Janus Smalbraak",
+            "alternativeNames": [],
+            "age": -1,
+            "sex": "male",
+            "occurences": {
+                "total": 2,
+                "firstNameOnly": 0,
+                "lastNameOnly": 1,
+                "fullName": 1,
+                "nickname": 0
+            },
+            "inTitle": false,
+            "inIntro": false,
+            "_name": {
+                "firstname": "Janus",
+                "lastname": "Smalbraak",
+                "nickname": null,
+                "alternative_names": [],
+                "academic_title": null,
+                "nobility_title_or_rank": null
+            },
+            "descriptiveTexts": [
+                {
+                    "text": "Im Jahr 2022 steigerte CEO Janus Smalbraak (56) den Umsatz der Fahrradsparte infolge der \u00dcbernahmen um mehr als das Doppelte auf 2,4 Milliarden Euro \u2013 und \u00fcberholte damit den europ\u00e4ischen Rivalen Accell Group (Batavus, Sparta, Babboe), der erst vor Kurzem vom Finanzinvestor KKR \u00fcbernommen wurde."
+                },
+                {
+                    "text": "Das Management um CEO Smalbraak erwartet, dass sich dieses Wachstum im laufenden Jahr international fortsetzen wird, hei\u00dft es im j\u00fcngsten Gesch\u00e4ftsbericht."
+                }
+            ],
+            "occupations": [],
+            "directQuotes": [
+                {
+                    "text": "Angesichts der wachsenden Nachfrage nach E-Bikes in allen Segmenten glaubt Pon Bike daran, dass es Raum f\u00fcr einen echten Weltmarktf\u00fchrer gibt, der ein umfassendes Sortiment an Qualit\u00e4tsmarken f\u00fcr den t\u00e4glichen Gebrauch, f\u00fcr Gesch\u00e4ft, Freizeit und Sport anbietet"
+                }
+            ],
+            "quotedInTitle": false,
+            "quotedInIntro": false
+        },
+        {
+            "name": "Swapfiet",
+            "alternativeNames": [],
+            "age": -1,
+            "sex": "unknown",
+            "occurences": {
+                "total": 2,
+                "firstNameOnly": 0,
+                "lastNameOnly": 0,
+                "fullName": 2,
+                "nickname": 0
+            },
+            "inTitle": false,
+            "inIntro": false,
+            "_name": {
+                "firstname": null,
+                "lastname": null,
+                "nickname": null,
+                "alternative_names": [],
+                "academic_title": null,
+                "nobility_title_or_rank": null
+            },
+            "descriptiveTexts": [
+                {
+                    "text": "\u00dcber die Venture-Capital-Sparte Ponooc investierte das Unternehmen mit Swapfiets erstmals auch in einen Fahrrad-im-Abo-Anbieter; die R\u00e4der mit den blauen Vorderreifen sind inzwischen in zahlreichen deutschen Gro\u00dfst\u00e4dten eine feste Gr\u00f6\u00dfe, Swapfiets gilt als Pionier der \"Bicycle-as-a-Service\"-Unternehmen."
+                }
+            ],
+            "occupations": [],
+            "directQuotes": [],
+            "quotedInTitle": false,
+            "quotedInIntro": false
+        },
+        {
+            "name": "Ben Pon",
+            "alternativeNames": [],
+            "age": -1,
+            "sex": "male",
+            "occurences": {
+                "total": 2,
+                "firstNameOnly": 1,
+                "lastNameOnly": 0,
+                "fullName": 1,
+                "nickname": 0
+            },
+            "inTitle": false,
+            "inIntro": false,
+            "_name": {
+                "firstname": "Ben",
+                "lastname": "Pon",
+                "nickname": null,
+                "alternative_names": [],
+                "academic_title": null,
+                "nobility_title_or_rank": null
+            },
+            "descriptiveTexts": [
+                {
+                    "text": "Ben Pon soll sp\u00e4ter sogar die Idee f\u00fcr den legend\u00e4ren VW Bulli gehabt haben."
+                },
+                {
+                    "text": "\"Wenn Sie ein Importeur sind, sind Sie an die Niederlande gebunden, wo der Markt bereits gefestigt ist\", sagt er mit Bezug auf den Autohandelszweig des Konglomerats."
+                }
+            ],
+            "occupations": [],
+            "directQuotes": [],
+            "quotedInTitle": false,
+            "quotedInIntro": false
+        },
+        {
+            "name": "Wijnand Pon",
+            "alternativeNames": [],
+            "age": -1,
+            "sex": "male",
+            "occurences": {
+                "total": 4,
+                "firstNameOnly": 0,
+                "lastNameOnly": 0,
+                "fullName": 4,
+                "nickname": 0
+            },
+            "inTitle": false,
+            "inIntro": false,
+            "_name": {
+                "firstname": "Wijnand",
+                "lastname": "Pon",
+                "nickname": null,
+                "alternative_names": [],
+                "academic_title": null,
+                "nobility_title_or_rank": null
+            },
+            "descriptiveTexts": [
+                {
+                    "text": "Wijnand Pon (79), Spross einer niederl\u00e4ndischen Kaufmanns- und Autohandelsdynastie, lie\u00df sich schon 1966 in einem friesischen Dorf namens Ferwert nieder \u2013 als Bauer."
+                },
+                {
+                    "text": "\"Ich bin im Herzen ein Landwirt und darauf bin ich sehr stolz\", l\u00e4sst er sich heute zitieren."
+                },
+                {
+                    "text": "Pons S\u00f6hne Ben und Wijnand Pon hatten schon 1939 Ferdinand Porsche kennengelernt."
+                },
+                {
+                    "text": "Nach und nach \u00fcbernahm der Viehz\u00fcchter Wijnand Pon Anteile von Verwandten und wurde so, obwohl er einst gar nicht in die Fu\u00dfstapfen der Ahnen treten wollte, zum gr\u00f6\u00dften Anteilseigner des Konzerns."
+                },
+                {
+                    "text": "\"Aber wenn Sie in den Fahrradsektor gehen, steht Ihnen die Welt offen. Das ist einer der Hauptgr\u00fcnde, warum wir es getan haben.\""
+                },
+                {
+                    "text": "Dem Patriarchen Wijnand Pon folgt auf den H\u00f6fen dessen Tochter Fanja Pon, ebenfalls selbsterkl\u00e4rte \"Landwirtin aus Leidenschaft\"."
+                }
+            ],
+            "occupations": [
+                {
+                    "text": "Haupteigner der Familienfirma Pon Holdings"
+                },
+                {
+                    "text": "Viehz\u00fcchter"
+                },
+                {
+                    "text": "Spross einer niederl\u00e4ndischen Kaufmanns- und Autohandelsdynastie"
+                },
+                {
+                    "text": "Bauer"
+                }
+            ],
+            "directQuotes": [
+                {
+                    "text": "Ich bin im Herzen ein Landwirt und darauf bin ich sehr stolz"
+                },
+                {
+                    "text": "Auf der Automobilseite sind wir Einzelh\u00e4ndler und Gro\u00dfh\u00e4ndler. Das bringt Einschr\u00e4nkungen mit sich. Auf der Fahrradseite sind wir Produzent, Hersteller. Das gibt Freiheit im Design, Freiheit der M\u00e4rkte."
+                }
+            ],
+            "quotedInTitle": false,
+            "quotedInIntro": false
+        },
+        {
+            "name": "Mijndert Pon",
+            "alternativeNames": [],
+            "age": -1,
+            "sex": "male",
+            "occurences": {
+                "total": 1,
+                "firstNameOnly": 0,
+                "lastNameOnly": 0,
+                "fullName": 1,
+                "nickname": 0
+            },
+            "inTitle": false,
+            "inIntro": false,
+            "_name": {
+                "firstname": "Mijndert",
+                "lastname": "Pon",
+                "nickname": null,
+                "alternative_names": [],
+                "academic_title": null,
+                "nobility_title_or_rank": null
+            },
+            "descriptiveTexts": [
+                {
+                    "text": "Jahrhunderts legte Mijndert Pon den Grundstein f\u00fcr das Familienunternehmen und verkaufte in seinem Laden in Amersfoort zun\u00e4chst Seife, N\u00e4hmaschinen und Tabak."
+                },
+                {
+                    "text": "\u00dcber N\u00e4hmaschinen von der Firma Opel kam er schon damals zu Opel-Fahrr\u00e4dern \u2013 wandte sich jedoch relativ bald den Autos zu, mit denen er fortan handelte."
+                }
+            ],
+            "occupations": [],
+            "directQuotes": [],
+            "quotedInTitle": false,
+            "quotedInIntro": false
+        },
+        {
+            "name": "Ferdinand Porsche",
+            "alternativeNames": [],
+            "age": -1,
+            "sex": "male",
+            "occurences": {
+                "total": 3,
+                "firstNameOnly": 0,
+                "lastNameOnly": 2,
+                "fullName": 1,
+                "nickname": 0
+            },
+            "inTitle": false,
+            "inIntro": false,
+            "_name": {
+                "firstname": "Ferdinand",
+                "lastname": "Porsche",
+                "nickname": null,
+                "alternative_names": [],
+                "academic_title": null,
+                "nobility_title_or_rank": null
+            },
+            "descriptiveTexts": [
+                {
+                    "text": "Pons S\u00f6hne Ben und Wijnand Pon hatten schon 1939 Ferdinand Porsche kennengelernt."
+                },
+                {
+                    "text": "Ebenfalls \u00fcber seine Wagniskapitaleinheit gr\u00fcndete Pon 2022 zwei Joint Ventures mit dem Autobauer Porsche, um gemeinsam einen E-Bike-Antrieb zu entwickeln und neue Porsche-E-Bikes auf den Markt zu bringen."
+                }
+            ],
+            "occupations": [],
+            "directQuotes": [],
+            "quotedInTitle": false,
+            "quotedInIntro": false
+        },
+        {
+            "name": "Fanja Pon",
+            "alternativeNames": [],
+            "age": -1,
+            "sex": "female",
+            "occurences": {
+                "total": 1,
+                "firstNameOnly": 0,
+                "lastNameOnly": 0,
+                "fullName": 1,
+                "nickname": 0
+            },
+            "inTitle": false,
+            "inIntro": false,
+            "_name": {
+                "firstname": "Fanja",
+                "lastname": "Pon",
+                "nickname": null,
+                "alternative_names": [],
+                "academic_title": null,
+                "nobility_title_or_rank": null
+            },
+            "descriptiveTexts": [
+                {
+                    "text": "Dem Patriarchen Wijnand Pon folgt auf den H\u00f6fen dessen Tochter Fanja Pon, ebenfalls selbsterkl\u00e4rte \"Landwirtin aus Leidenschaft\"."
+                },
+                {
+                    "text": "Es k\u00f6nne \"eine Generation dauern, bis ein Bauernhof oder ein Wald das Beste ist, was er sein kann\", erkl\u00e4ren die Eigner."
+                },
+                {
+                    "text": "In der Landwirtschaft w\u00fcrden sie \"mit einer 150-j\u00e4hrigen Perspektive arbeiten\"."
+                }
+            ],
+            "occupations": [],
+            "directQuotes": [
+                {
+                    "text": "Landwirtin aus Leidenschaft"
+                },
+                {
+                    "text": "Wir sind Landwirte und keine Spekulanten."
+                }
+            ],
+            "quotedInTitle": false,
+            "quotedInIntro": false
+        },
+        {
+            "name": "Bauer",
+            "alternativeNames": [],
+            "age": -1,
+            "sex": "unknown",
+            "occurences": {
+                "total": 1,
+                "firstNameOnly": 0,
+                "lastNameOnly": 0,
+                "fullName": 1,
+                "nickname": 0
+            },
+            "inTitle": false,
+            "inIntro": false,
+            "_name": {
+                "firstname": null,
+                "lastname": null,
+                "nickname": null,
+                "alternative_names": [],
+                "academic_title": null,
+                "nobility_title_or_rank": null
+            },
+            "descriptiveTexts": [
+                {
+                    "text": "Wijnand Pon (79), Spross einer niederl\u00e4ndischen Kaufmanns- und Autohandelsdynastie, lie\u00df sich schon 1966 in einem friesischen Dorf namens Ferwert nieder \u2013 als Bauer."
+                }
+            ],
+            "occupations": [
+                {
+                    "text": "Bauer"
+                }
+            ],
+            "directQuotes": [],
+            "quotedInTitle": false,
+            "quotedInIntro": false
+        },
+        {
+            "name": "Janco van der Heiden",
+            "alternativeNames": [],
+            "age": -1,
+            "sex": "male",
+            "occurences": {
+                "total": 1,
+                "firstNameOnly": 0,
+                "lastNameOnly": 0,
+                "fullName": 1,
+                "nickname": 0
+            },
+            "inTitle": false,
+            "inIntro": false,
+            "_name": {
+                "firstname": "Janco",
+                "lastname": "van der Heiden",
+                "nickname": null,
+                "alternative_names": [],
+                "academic_title": null,
+                "nobility_title_or_rank": null
+            },
+            "descriptiveTexts": [
+                {
+                    "text": "\"Unsere Strategie ist es, Fahrr\u00e4der an einem Standort zu produzieren, der nahe bei unseren Kunden liegt, und Europa ist einer unserer gr\u00f6\u00dften und am schnellsten wachsenden M\u00e4rkte\", sagte der Vizepr\u00e4sident f\u00fcr das Tagesgesch\u00e4ft bei Pon Bike, Janco van der Heiden, bei der Er\u00f6ffnung."
+                }
+            ],
+            "occupations": [
+                {
+                    "text": "Vizepr\u00e4sident f\u00fcr das Tagesgesch\u00e4ft bei Pon Bike"
+                }
+            ],
+            "directQuotes": [],
+            "quotedInTitle": false,
+            "quotedInIntro": false
+        }
+    ]
+}

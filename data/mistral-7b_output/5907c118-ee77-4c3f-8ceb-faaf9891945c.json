@@ -1,0 +1,453 @@
+{
+    "persons": [
+        {
+            "name": "Ruth Beckmann",
+            "alternativeNames": [],
+            "age": -1,
+            "sex": "female",
+            "occurences": {
+                "total": 1,
+                "firstNameOnly": 0,
+                "lastNameOnly": 0,
+                "fullName": 1,
+                "nickname": 0
+            },
+            "inTitle": false,
+            "inIntro": false,
+            "_name": {
+                "firstname": "Ruth",
+                "lastname": "Beckmann",
+                "nickname": null,
+                "alternative_names": [],
+                "academic_title": null,
+                "nobility_title_or_rank": null
+            },
+            "descriptiveTexts": [
+                {
+                    "text": "\u00bbUnt\u00e4tigkeit l\u00e4hmt, macht m\u00fcrbe. Wer optimistisch ist und handelt, st\u00e4rkt den K\u00f6rper und sch\u00fctzt den Geist\u00ab, sagt die K\u00f6lner Psychotherapeutin Ruth Beckmann."
+                },
+                {
+                    "text": "Sie ist \u00fcberzeugt: \u00bbWer auch weitergeht, wenn es mal R\u00fcckschl\u00e4ge gibt, der lernt mit der Zeit, wie man Widerst\u00e4nden trotzt.\u00ab"
+                }
+            ],
+            "occupations": [
+                {
+                    "text": "K\u00f6lner Psychotherapeutin"
+                }
+            ],
+            "directQuotes": [
+                {
+                    "text": "Unt\u00e4tigkeit l\u00e4hmt, macht m\u00fcrbe. Wer optimistisch ist und handelt, st\u00e4rkt den K\u00f6rper und sch\u00fctzt den Geist"
+                },
+                {
+                    "text": "Wer auch weitergeht, wenn es mal R\u00fcckschl\u00e4ge gibt, der lernt mit der Zeit, wie man Widerst\u00e4nden trotzt."
+                },
+                {
+                    "text": "positiven Lebenseinstellung"
+                }
+            ],
+            "quotedInTitle": false,
+            "quotedInIntro": false
+        },
+        {
+            "name": "Muriel B\u00f6ttger",
+            "alternativeNames": [],
+            "age": -1,
+            "sex": "female",
+            "occurences": {
+                "total": 1,
+                "firstNameOnly": 0,
+                "lastNameOnly": 0,
+                "fullName": 1,
+                "nickname": 0
+            },
+            "inTitle": false,
+            "inIntro": false,
+            "_name": {
+                "firstname": "Muriel",
+                "lastname": "B\u00f6ttger",
+                "nickname": null,
+                "alternative_names": [],
+                "academic_title": null,
+                "nobility_title_or_rank": null
+            },
+            "descriptiveTexts": [
+                {
+                    "text": "\u00bbWer sich st\u00e4ndig sorgenvoll fragt, welches Unheil kommt als n\u00e4chstes, reibt sich auf, verbraucht wertvolle Kraft\u00ab, erkl\u00e4rt die K\u00f6lner Psychologin Muriel B\u00f6ttger."
+                },
+                {
+                    "text": "Alle Senioren lieben sie, doch sie ist schon sehr alt."
+                },
+                {
+                    "text": "Wenn sie mal tot ist, soll Filzk\u00e4tzchen Mia ihren Platz einnehmen \u2013 ein Therapiek\u00e4tzchen, zum Kuscheln und Liebhaben."
+                }
+            ],
+            "occupations": [
+                {
+                    "text": "K\u00f6lner Psychologin"
+                }
+            ],
+            "directQuotes": [],
+            "quotedInTitle": false,
+            "quotedInIntro": false
+        },
+        {
+            "name": "Andr\u00e9",
+            "alternativeNames": [],
+            "age": -1,
+            "sex": "male",
+            "occurences": {
+                "total": 1,
+                "firstNameOnly": 0,
+                "lastNameOnly": 0,
+                "fullName": 1,
+                "nickname": 0
+            },
+            "inTitle": false,
+            "inIntro": false,
+            "_name": {
+                "firstname": "Andr\u00e9",
+                "lastname": null,
+                "nickname": null,
+                "alternative_names": [],
+                "academic_title": null,
+                "nobility_title_or_rank": null
+            },
+            "descriptiveTexts": [
+                {
+                    "text": "Andr\u00e9, ihr Lebensgef\u00e4hrte, hat COPD \u2013 nur noch 30 Prozent Lungenvolumen."
+                }
+            ],
+            "occupations": [],
+            "directQuotes": [],
+            "quotedInTitle": false,
+            "quotedInIntro": false
+        },
+        {
+            "name": "Ramona Linz",
+            "alternativeNames": [],
+            "age": 56,
+            "sex": "female",
+            "occurences": {
+                "total": 20,
+                "firstNameOnly": 3,
+                "lastNameOnly": 5,
+                "fullName": 12,
+                "nickname": 0
+            },
+            "inTitle": false,
+            "inIntro": true,
+            "_name": {
+                "firstname": "Ramona",
+                "lastname": "Linz",
+                "nickname": null,
+                "alternative_names": [],
+                "academic_title": null,
+                "nobility_title_or_rank": null
+            },
+            "descriptiveTexts": [
+                {
+                    "text": "\u00bbIch habe mich schon immer \u00fcber jeden Schmetterling gefreut\u00ab"
+                },
+                {
+                    "text": "F\u00fcnf Jahre nach einem Zeckenbiss brach Ramona Linz zusammen und war von einem Tag auf den anderen behindert."
+                },
+                {
+                    "text": "Sie sagt: Die Krankheit war meine Rettung."
+                },
+                {
+                    "text": "Der Tag, an dem der K\u00f6rper von Ramona Linz den Geist aufgab, war ein Montag."
+                },
+                {
+                    "text": "Als morgens um f\u00fcnf Uhr der Wecker klingelte, war sie bereits seit Stunden wach: schniefte, hustete, r\u00f6chelte."
+                },
+                {
+                    "text": "Aber Ramona Linz, 56, wurde immer schw\u00e4cher."
+                },
+                {
+                    "text": "Ihr Lebensgef\u00e4hrte rief den Notdienst: \u00bbBitte kommen Sie sofort. Meine Frau schafft es nicht mehr allein ins Bad.\u00ab"
+                },
+                {
+                    "text": "Vier Jahre sp\u00e4ter blickt Ramona Linz auf die schlimmste Zeit ihres Lebens zur\u00fcck: \u00bbIch bin zwei Jahre wie ein Zombie rumgelaufen, so heftig waren die Schmerzen.\u00ab"
+                },
+                {
+                    "text": "Es gab Tage, da fragte sie sich sogar: Bin ich ein Psycho?"
+                },
+                {
+                    "text": "Linz ist sicher: \u00bbDie Grippe hat sie geweckt.\u00ab"
+                },
+                {
+                    "text": "Ramona Linz lebt heute mit einem Handicap, f\u00fchlt an schlechten Tagen ihre Finger nicht, leidet unter Schwindel und Gleichgewichtsst\u00f6rungen, die auch ihr altes Leben komplett aus dem Gleichgewicht gebracht haben."
+                },
+                {
+                    "text": "Es klingt absurd, aber sie sagt: \u00bbDie Krankheit hat mir Gl\u00fcck gebracht.\u00ab"
+                },
+                {
+                    "text": "\u00bbLeckomio, Ramona!\u00ab"
+                },
+                {
+                    "text": "Die Tragik liege darin, dass die meisten Menschen lange sehns\u00fcchtig auf das zur\u00fcckblickten, was sie verloren haben."
+                },
+                {
+                    "text": "Ramona Linz ist keine Psychologin, aber sie ist eine Expertin im Fallen, Aufstehen, Weitergehen."
+                },
+                {
+                    "text": "Sie hat die Kehrtwende geschafft, macht heute etwas ganz anderes, etwas Au\u00dfergew\u00f6hnliches: Sie filzt Tiere und Figuren aus Wolle, alles Unikate."
+                },
+                {
+                    "text": "Es war ihre Antwort auf die gro\u00dfe Lebenskrise, die sie getroffen hat, die letzte von so vielen Krisen, die sie durchstehen musste."
+                },
+                {
+                    "text": "Die erste erlebte sie kurz nach der Wende, 1989."
+                },
+                {
+                    "text": "Sie war 22 Jahre alt und gerade Mutter geworden."
+                },
+                {
+                    "text": "Der volkseigene Betrieb, in dem sie als B\u00fcglerin arbeitete, machte dicht."
+                },
+                {
+                    "text": "Sie dachte: \u00bbLeckomio, Ramona, wovon sollste jetzt leben?\u00ab"
+                },
+                {
+                    "text": "Kurze Zeit sp\u00e4ter hatte sie eine andere Arbeit \u2013 und Leckomio \u2013 hat sie sich immer durchgewurschtelt."
+                },
+                {
+                    "text": "Sie hat viele Pleiten erlebt."
+                },
+                {
+                    "text": "\u00bbNichts geht, das gibt es bei mir nicht. Es geht h\u00f6chstens schwer\u00ab, sagt sie und lacht."
+                },
+                {
+                    "text": "Es hat 78 Monate gedauert, bis sie einen Arzt gefunden hat, der sie in die Uniklinik Jena \u00fcberwies und dann in eine Reha."
+                },
+                {
+                    "text": "Sie hat sich gefragt: \u00bbLeckomio, Ramona, was nu?\u00ab"
+                },
+                {
+                    "text": "Und dann wie immer: \u00bbTief Luft holen, alle M\u00f6glichkeiten checken und sich fragen: \u203aWas kann ich rei\u00dfen, damit ich mich wieder auf die Beine kriege?\u2039\u00ab Obwohl man auf den ersten Blick nicht viel rei\u00dfen kann, dort, wo sie wohnt."
+                },
+                {
+                    "text": "Ramona Linz hat die blonden Haare zu einem lockeren Zopf geflochten, weil sie so besser arbeiten kann: Der Weg zu ihrem neuen Leben f\u00fchrt durch ein braunes Garagentor."
+                },
+                {
+                    "text": "Vorbei an ihrem 15 Jahre alten grellgr\u00fcnen Opel Corsa, der sie bis zur Krankheit brav nach Erfurt brachte, wo sie die letzten acht Jahre als B\u00fcrokraft arbeitete \u2013 56 Kilometer in 60 Minuten, hin und wieder zur\u00fcck, jeden Tag."
+                },
+                {
+                    "text": "Den Job gibt es inzwischen nicht mehr, aber egal, das findet Ramona Linz sowieso schon fast normal."
+                },
+                {
+                    "text": "Ramona Linz hat sie vor zwei Jahren in den Nachbarraum geschleppt."
+                },
+                {
+                    "text": "\u00bbGlas f\u00fcr Glas, Gott, war ich fertig\u00ab, erinnert sie sich."
+                },
+                {
+                    "text": "\u00bbAn manchen Tagen konnte ich meine Kaffeetasse nicht halten, dann knickten meine Knie einfach weg\u00ab, sagt Linz."
+                },
+                {
+                    "text": "Sie war so verzweifelt, dass sie in eine Selbsthilfegruppe gegangen ist."
+                },
+                {
+                    "text": "Einmal diskutierten sie \u00fcber Fr\u00fchrente und Rollatoren."
+                },
+                {
+                    "text": "Sie sagte: \u00bbLeute, das kann nur die letzte L\u00f6sung sein. Wir m\u00fcssen gucken, ob was anderes geht.\u00ab"
+                },
+                {
+                    "text": "Sie hatte einen Plan."
+                },
+                {
+                    "text": "Sie wollte filzen."
+                },
+                {
+                    "text": "Das hatte sie zwar noch nie versucht, aber zuf\u00e4llig im Internet gelesen, dass man beim Filzen mit Wolle und warmer Seifenlauge arbeitet."
+                },
+                {
+                    "text": "Beim Wringen trainiere ich meine Finger."
+                },
+                {
+                    "text": "Au\u00dferdem schaffe ich was Sch\u00f6nes."
+                },
+                {
+                    "text": "Woher Ramona Linz ihre Zuversicht nimmt, kann sie nicht sagen."
+                },
+                {
+                    "text": "\u00bbEs gibt bestimmt Leute, die sagen, die hat nicht mehr alle richtig unterm Pony\u00ab, sagt sie und tippt sich mit einem Finger gegen die Stirn."
+                },
+                {
+                    "text": "\u00bbAber ich habe mich schon immer \u00fcber jeden Schmetterling gefreut.\u00ab"
+                },
+                {
+                    "text": "Und ihre Mutti, 84, wird immer t\u00fcdeliger und verl\u00e4sst das Haus nicht mehr, in dem sie zusammen wohnen."
+                },
+                {
+                    "text": "Dann nimmt Linz die Bohrmaschine in die Hand, verlegt Fliesen oder schneidet Rigipsplatten."
+                },
+                {
+                    "text": "Sie sagt, positiv wie immer: \u00bbDas habe ich bei meiner Arbeit auf dem Bau gelernt. Jetzt zahlt es sich aus.\u00ab"
+                },
+                {
+                    "text": "Linz aber sagt: \u00bbSo ist es eben, das Leben.\u00ab"
+                },
+                {
+                    "text": "Hierhin zieht sich Ramona Linz zur\u00fcck, wenn sie Ruhe braucht."
+                },
+                {
+                    "text": "Sie arbeitet konzentriert, sticht mit einer langen, spitzen Nadel in ein wei\u00dfes Wollkn\u00e4uel vor ihr auf dem Tisch, zieht die Spitze mit den feinen Widerhaken wieder raus."
+                },
+                {
+                    "text": "Tiere und Figuren von Linz sind begehrt."
+                },
+                {
+                    "text": "Aus der Lebensk\u00fcnstlerin ist eine K\u00fcnstlerin geworden: Doch jede Figur, die im Keller entsteht, ist f\u00fcr sie immer noch ein Wunder: ein Happy End."
+                },
+                {
+                    "text": "Was davor war, hat sie in einem dicken Ordner abgeheftet."
+                },
+                {
+                    "text": "Trotzdem hat es noch Monate gedauert, bis Ramona Linz \u00fcberhaupt eine Nadel halten konnte."
+                },
+                {
+                    "text": "\u00bbM\u00f6ge die Macht mit dir sein\u00ab, neckte sie ihren Enkel, dem sie das Werk zum neunten Geburtstag schenkte."
+                },
+                {
+                    "text": "Hat sie gemacht."
+                },
+                {
+                    "text": "\u00bbDie Macht ist in mir\u00ab, grinst sie."
+                }
+            ],
+            "occupations": [
+                {
+                    "text": "Verk\u00e4uferin"
+                },
+                {
+                    "text": "B\u00fcrokraft"
+                },
+                {
+                    "text": "Telefonistin"
+                },
+                {
+                    "text": "Bauarbeiterin"
+                },
+                {
+                    "text": "B\u00fcglerin"
+                },
+                {
+                    "text": "Expertin im Fallen, Aufstehen, Weitergehen"
+                },
+                {
+                    "text": "Lebensgef\u00e4hrte"
+                },
+                {
+                    "text": "H\u00e4ndlerin"
+                }
+            ],
+            "directQuotes": [
+                {
+                    "text": "Ich habe mich schon immer \u00fcber jeden Schmetterling gefreut"
+                },
+                {
+                    "text": "Ich bin zwei Jahre wie ein Zombie rumgelaufen, so heftig waren die Schmerzen."
+                },
+                {
+                    "text": "Die Krankheit hat mir Gl\u00fcck gebracht."
+                },
+                {
+                    "text": "Nichts geht, das gibt es bei mir nicht. Es geht h\u00f6chstens schwer"
+                },
+                {
+                    "text": "Tief Luft holen, alle M\u00f6glichkeiten checken und sich fragen: \u203aWas kann ich rei\u00dfen, damit ich mich wieder auf die Beine kriege?\u2039"
+                },
+                {
+                    "text": "Willkommen in meinem Atelier!"
+                },
+                {
+                    "text": "An manchen Tagen konnte ich meine Kaffeetasse nicht halten, dann knickten meine Knie einfach weg"
+                },
+                {
+                    "text": "Aber ich habe mich schon immer \u00fcber jeden Schmetterling gefreut."
+                },
+                {
+                    "text": "Das habe ich bei meiner Arbeit auf dem Bau gelernt. Jetzt zahlt es sich aus."
+                },
+                {
+                    "text": "So ist es eben, das Leben."
+                },
+                {
+                    "text": "Mein K\u00f6rper funktioniert wieder."
+                }
+            ],
+            "quotedInTitle": false,
+            "quotedInIntro": true
+        },
+        {
+            "name": "Leckomio",
+            "alternativeNames": [],
+            "age": -1,
+            "sex": "unknown",
+            "occurences": {
+                "total": 4,
+                "firstNameOnly": 0,
+                "lastNameOnly": 0,
+                "fullName": 4,
+                "nickname": 0
+            },
+            "inTitle": false,
+            "inIntro": false,
+            "_name": {
+                "firstname": "Leckomio",
+                "lastname": null,
+                "nickname": null,
+                "alternative_names": [],
+                "academic_title": null,
+                "nobility_title_or_rank": null
+            },
+            "descriptiveTexts": [
+                {
+                    "text": "\u00bbLeckomio, Ramona!\u00ab"
+                },
+                {
+                    "text": "Sie dachte: \u00bbLeckomio, Ramona, wovon sollste jetzt leben?\u00ab"
+                },
+                {
+                    "text": "Kurze Zeit sp\u00e4ter hatte sie eine andere Arbeit \u2013 und Leckomio \u2013 hat sie sich immer durchgewurschtelt."
+                },
+                {
+                    "text": "Sie hat sich gefragt: \u00bbLeckomio, Ramona, was nu?\u00ab"
+                }
+            ],
+            "occupations": [
+                {
+                    "text": "Verk\u00e4uferin"
+                },
+                {
+                    "text": "Mutter"
+                },
+                {
+                    "text": "Expertin im Fallen, Aufstehen, Weitergehen"
+                },
+                {
+                    "text": "K\u00fcnstlerin"
+                },
+                {
+                    "text": "Lebensgef\u00e4hrte"
+                }
+            ],
+            "directQuotes": [
+                {
+                    "text": "Leckomio, Ramona!"
+                },
+                {
+                    "text": "Leckomio, Ramona, wovon sollste jetzt leben?"
+                },
+                {
+                    "text": "Leckomio, Ramona, was nu?"
+                }
+            ],
+            "quotedInTitle": false,
+            "quotedInIntro": false
+        }
+    ]
+}

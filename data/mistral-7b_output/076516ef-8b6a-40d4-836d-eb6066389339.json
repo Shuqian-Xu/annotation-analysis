@@ -1,0 +1,253 @@
+{
+    "persons": [
+        {
+            "name": "Martin",
+            "alternativeNames": [],
+            "age": -1,
+            "sex": "male",
+            "occurences": {
+                "total": 1,
+                "firstNameOnly": 0,
+                "lastNameOnly": 0,
+                "fullName": 1,
+                "nickname": 0
+            },
+            "inTitle": false,
+            "inIntro": false,
+            "_name": {
+                "firstname": "Martin",
+                "lastname": null,
+                "nickname": null,
+                "alternative_names": [],
+                "academic_title": null,
+                "nobility_title_or_rank": null
+            },
+            "descriptiveTexts": [
+                {
+                    "text": "Am n\u00e4chsten Morgen breche ich auf."
+                },
+                {
+                    "text": "Die kommenden Tage erlebe ich wie in einem Fiebertraum."
+                },
+                {
+                    "text": "Am Tag danach kommt wieder eine WhatsApp, diesmal von meinem Papa: \u00bbMartin rief gerade bei Mama an, Oma ist erl\u00f6st!\u00ab"
+                }
+            ],
+            "occupations": [],
+            "directQuotes": [
+                {
+                    "text": "Martin rief gerade bei Mama an, Oma ist erl\u00f6st!"
+                }
+            ],
+            "quotedInTitle": false,
+            "quotedInIntro": false
+        },
+        {
+            "name": "Oskar",
+            "alternativeNames": [],
+            "age": -1,
+            "sex": "male",
+            "occurences": {
+                "total": 1,
+                "firstNameOnly": 0,
+                "lastNameOnly": 0,
+                "fullName": 1,
+                "nickname": 0
+            },
+            "inTitle": false,
+            "inIntro": false,
+            "_name": {
+                "firstname": "Oskar",
+                "lastname": null,
+                "nickname": null,
+                "alternative_names": [],
+                "academic_title": null,
+                "nobility_title_or_rank": null
+            },
+            "descriptiveTexts": [
+                {
+                    "text": "Normalerweise begr\u00fc\u00dft er mich so, als w\u00e4re gerade ein Sack Hundefutter vom Himmel gefallen."
+                },
+                {
+                    "text": "Oskar sitzt ruhig daneben, hat seine Ohren angelegt und guckt uns mit gro\u00dfen Augen an."
+                }
+            ],
+            "occupations": [],
+            "directQuotes": [
+                {
+                    "text": "Mach\u2019s gut, Oma."
+                }
+            ],
+            "quotedInTitle": false,
+            "quotedInIntro": false
+        },
+        {
+            "name": "Pan",
+            "alternativeNames": [],
+            "age": -1,
+            "sex": "male",
+            "occurences": {
+                "total": 1,
+                "firstNameOnly": 0,
+                "lastNameOnly": 0,
+                "fullName": 1,
+                "nickname": 0
+            },
+            "inTitle": false,
+            "inIntro": false,
+            "_name": {
+                "firstname": "Pan",
+                "lastname": null,
+                "nickname": null,
+                "alternative_names": [],
+                "academic_title": null,
+                "nobility_title_or_rank": null
+            },
+            "descriptiveTexts": [
+                {
+                    "text": "Und manchmal ist sie nachts aufgewacht, weil ihr dann doch der Name des griechischen Hirtengottes mit drei Buchstaben eingefallen ist (Pan)."
+                }
+            ],
+            "occupations": [],
+            "directQuotes": [],
+            "quotedInTitle": false,
+            "quotedInIntro": false
+        },
+        {
+            "name": "Oma",
+            "alternativeNames": [],
+            "age": -1,
+            "sex": "female",
+            "occurences": {
+                "total": 31,
+                "firstNameOnly": 0,
+                "lastNameOnly": 0,
+                "fullName": 31,
+                "nickname": 0
+            },
+            "inTitle": false,
+            "inIntro": false,
+            "_name": {
+                "firstname": "Oma",
+                "lastname": null,
+                "nickname": null,
+                "alternative_names": [],
+                "academic_title": null,
+                "nobility_title_or_rank": null
+            },
+            "descriptiveTexts": [
+                {
+                    "text": "Dass sie mich so gut und verl\u00e4sslich w\u00e4rmen, liegt auch daran, dass sie meine Oma gestrickt hat."
+                },
+                {
+                    "text": "Meine Oma ist im biblischen Alter von 98 Jahren gestorben."
+                },
+                {
+                    "text": "Sofort ahne ich, dass es um meine Oma geht."
+                },
+                {
+                    "text": "Am Telefon erkl\u00e4rt meine Mutter, dass das Heim, in dem meine Oma seit zweieinhalb Jahren lebt, meinen Onkel angerufen habe."
+                },
+                {
+                    "text": "Ich hatte ein sehr enges Verh\u00e4ltnis zu meiner Oma, was auch daran lag, dass meine Gro\u00dfeltern v\u00e4terlicherseits bereits vor meiner Geburt gestorben sind."
+                },
+                {
+                    "text": "Die Rosen wurden durch Plastikblumen ersetzt und sobald im Fr\u00fchjahr die ersten Krokusse oder Narzissen aus der Erde dr\u00e4ngten, st\u00fclpte Oma ihnen einen umgedrehten Fahrradkorb \u00fcber."
+                },
+                {
+                    "text": "Doch meine Oma war nicht nur extrem widerstandsf\u00e4hig, sie war in unserer Familie, die durch Streitereien, Schicksalsschl\u00e4ge und Trennungen immer wieder auf die Probe gestellt wurde, eine wichtige Konstante."
+                },
+                {
+                    "text": "Egal wie turbulent die Zeiten auch waren, Oma war immer da und hatte f\u00fcr jeden ein offenes Ohr."
+                },
+                {
+                    "text": "Ich konnte ihr meist nur helfen, wenn es um Fu\u00dfballer ging, und war fasziniert davon, was meine Oma alles wusste."
+                },
+                {
+                    "text": "Meine Oma hat mir mit K\u00fcchenutensilien, die man sonst eher in Museen vermuten w\u00fcrde, beigebracht, wie ich die perfekten Kartoffelkn\u00f6del forme."
+                },
+                {
+                    "text": "Auch f\u00fcr diese Best\u00e4ndigkeit habe ich meinen Opa und meine Oma bewundert."
+                },
+                {
+                    "text": "Einen Tag nach der WhatsApp-Nachricht meiner Mutter stehe ich mit meiner Cousine und meiner Schwester im Zimmer meiner Oma."
+                },
+                {
+                    "text": "Oma befindet sich in der finalen Phase des Sterbens."
+                },
+                {
+                    "text": "Jetzt sehe ich mit eigenen Augen, was der Satz \u00bbmeine Oma liegt im Sterben\u00ab, den ich engen Freunden geschrieben habe, wirklich bedeutet."
+                },
+                {
+                    "text": "Je l\u00e4nger wir bei meiner Oma sind, desto mehr kann ich diese Ausnahmesituation begreifen und einordnen."
+                },
+                {
+                    "text": "Als meine Oma wach und ansprechbar ist, befeuchtet meine Cousine behutsam ihre Lippen und versucht, ihr etwas Wasser zu geben."
+                },
+                {
+                    "text": "Meine Cousine arbeitet als Erzieherin und wirkt im Umgang mit meiner Oma sehr einf\u00fchlsam und fast schon routiniert."
+                },
+                {
+                    "text": "Ich bin einerseits entsetzt dar\u00fcber, meine Oma sterben zu sehen, andererseits auf eine merkw\u00fcrdige Art und Weise fasziniert davon, was mit ihrem K\u00f6rper passiert \u2013 und dass ich dabei sein kann."
+                },
+                {
+                    "text": "W\u00e4hrend wir bei meiner Oma im Zimmer sitzen, verschwimmen alle Probleme, Termine und Verpflichtungen, die mich bis gestern noch besch\u00e4ftigt haben."
+                },
+                {
+                    "text": "Im Schreibblock meiner Oma finde ich eine Notiz, die mich in diesem Gef\u00fchl best\u00e4tigt: \u00bbDiese Enkel sind ein Geschenk des Himmels.\u00ab"
+                },
+                {
+                    "text": "Ein solches Geschenk war unsere Oma aber auch f\u00fcr uns."
+                },
+                {
+                    "text": "Als ich von meiner Oma zur\u00fcckkomme und die Kellertreppen ihres alten Hauses hochgehe, in dem wir alle schlafen, h\u00f6re ich schon den Hund meiner Eltern in ekstatischer Erwartung meiner Ankunft."
+                },
+                {
+                    "text": "In den folgenden Tagen besuche ich meine Oma noch zweimal."
+                },
+                {
+                    "text": "Bei meinem letzten Besuch schl\u00e4ft meine Oma die ganze Zeit."
+                },
+                {
+                    "text": "Als wir beschlie\u00dfen aufzubrechen, wissen wir beide, dass wir unsere Oma jetzt zum letzten Mal sehen werden."
+                },
+                {
+                    "text": "\u00bbMach\u2019s gut, Oma.\u00ab"
+                },
+                {
+                    "text": "Am Tag danach kommt wieder eine WhatsApp, diesmal von meinem Papa: \u00bbMartin rief gerade bei Mama an, Oma ist erl\u00f6st!\u00ab"
+                },
+                {
+                    "text": "Er schreibt, dass seine Oma vor wenigen Wochen gestorben sei, was ich nicht wusste und mich deswegen schlecht f\u00fchle."
+                },
+                {
+                    "text": "Als ich seine Nachricht lese, wird mir klar, wie viel Gl\u00fcck ich hatte, mich von meiner Oma zu verabschieden."
+                },
+                {
+                    "text": "Ich hoffe, dass er genauso viele sch\u00f6ne Erinnerungen an seine Oma im Kopf hat wie ich."
+                },
+                {
+                    "text": "Und dass er ab und zu auch an meine Oma denkt."
+                }
+            ],
+            "occupations": [
+                {
+                    "text": "Socken stricken"
+                }
+            ],
+            "directQuotes": [
+                {
+                    "text": "Hallo Kinder, k\u00f6nnen wir gleich mal telefonieren?"
+                },
+                {
+                    "text": "meine Oma liegt im Sterben"
+                },
+                {
+                    "text": "Diese Enkel sind ein Geschenk des Himmels."
+                }
+            ],
+            "quotedInTitle": false,
+            "quotedInIntro": false
+        }
+    ]
+}

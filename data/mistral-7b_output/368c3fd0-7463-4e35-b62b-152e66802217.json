@@ -1,0 +1,718 @@
+{
+    "persons": [
+        {
+            "name": "Facundo Far\u00eda oder Facundo Far\u00edas",
+            "alternativeNames": [],
+            "age": -1,
+            "sex": "male",
+            "occurences": {
+                "total": 1,
+                "firstNameOnly": 0,
+                "lastNameOnly": 0,
+                "fullName": 1,
+                "nickname": 0
+            },
+            "inTitle": false,
+            "inIntro": false,
+            "_name": {
+                "firstname": "Facundo",
+                "lastname": "Far\u00edas",
+                "nickname": null,
+                "alternative_names": [],
+                "academic_title": null,
+                "nobility_title_or_rank": null
+            },
+            "descriptiveTexts": [
+                {
+                    "text": "Young talent Facundo Far\u00edas, 21, tore his anterior cruciate ligament; young star Benjamin Cremaschi, 18, suffered a hernia; Su\u00e1rez, 37, struggled with inflammation in his knee."
+                }
+            ],
+            "occupations": [],
+            "directQuotes": [],
+            "quotedInTitle": false,
+            "quotedInIntro": false
+        },
+        {
+            "name": "Exhausted Messi",
+            "alternativeNames": [],
+            "age": -1,
+            "sex": "male",
+            "occurences": {
+                "total": 45,
+                "firstNameOnly": 0,
+                "lastNameOnly": 43,
+                "fullName": 2,
+                "nickname": 0
+            },
+            "inTitle": false,
+            "inIntro": true,
+            "_name": {
+                "firstname": "Lionel",
+                "lastname": "Messi",
+                "nickname": null,
+                "alternative_names": [],
+                "academic_title": null,
+                "nobility_title_or_rank": null
+            },
+            "descriptiveTexts": [
+                {
+                    "text": "An Exhausted Messi, Disappointed Fans"
+                }
+            ],
+            "occupations": [
+                {
+                    "text": "Exhausted"
+                },
+                {
+                    "text": "A caricature of an emaciated cow"
+                }
+            ],
+            "directQuotes": [],
+            "quotedInTitle": false,
+            "quotedInIntro": true
+        },
+        {
+            "name": "Jorge Ma oder Jorge Mas",
+            "alternativeNames": [],
+            "age": -1,
+            "sex": "male",
+            "occurences": {
+                "total": 8,
+                "firstNameOnly": 0,
+                "lastNameOnly": 6,
+                "fullName": 2,
+                "nickname": 0
+            },
+            "inTitle": false,
+            "inIntro": false,
+            "_name": {
+                "firstname": "Jorge",
+                "lastname": "Mas",
+                "nickname": null,
+                "alternative_names": [],
+                "academic_title": null,
+                "nobility_title_or_rank": null
+            },
+            "descriptiveTexts": [
+                {
+                    "text": "Serrano and his colleagues helped bring him together with future club co-owner Jorge Mas."
+                },
+                {
+                    "text": "In January 2018, Serrano, Beckham and Mas toasted the founding of Inter Miami in an Irish pub."
+                },
+                {
+                    "text": "Until the American construction company and Inter Miami owner Jorge Mas decided to bring Messi to Florida."
+                },
+                {
+                    "text": "Mas visited Messi's father again and again, meeting him at the World Cup in Qatar to make the deal with Miami palatable to him."
+                },
+                {
+                    "text": "\"I told him: 'You have the chance to change the sport in the biggest market in the world,'\" Mas once told Time magazine."
+                },
+                {
+                    "text": "\"This is our moment to change soccer in this country,\" Mas had told the 20,000 spectators at Messi's presentation at the stadium in Fort Lauderdale, where the club is currently playing its home games until the new venue in Miami is ready."
+                },
+                {
+                    "text": "The cheapest now costs $867 and is therefore more expensive than most comparable seats in the English Premier League, the best soccer league in the world, even though Miami boss Mas had promised to keep prices affordable \"for the hard-working men and women\" in Miami."
+                },
+                {
+                    "text": "Miami owner Mas once promised each of the big fan clubs several thousand dollars as thanks for their work, but none of it ever arrived."
+                }
+            ],
+            "occupations": [],
+            "directQuotes": [],
+            "quotedInTitle": false,
+            "quotedInIntro": false
+        },
+        {
+            "name": "Benjamin Cremaschi",
+            "alternativeNames": [],
+            "age": -1,
+            "sex": "male",
+            "occurences": {
+                "total": 1,
+                "firstNameOnly": 0,
+                "lastNameOnly": 0,
+                "fullName": 1,
+                "nickname": 0
+            },
+            "inTitle": false,
+            "inIntro": false,
+            "_name": {
+                "firstname": "Benjamin",
+                "lastname": "Cremaschi",
+                "nickname": null,
+                "alternative_names": [],
+                "academic_title": null,
+                "nobility_title_or_rank": null
+            },
+            "descriptiveTexts": [
+                {
+                    "text": "Young talent Facundo Far\u00edas, 21, tore his anterior cruciate ligament; young star Benjamin Cremaschi, 18, suffered a hernia; Su\u00e1rez, 37, struggled with inflammation in his knee."
+                }
+            ],
+            "occupations": [],
+            "directQuotes": [],
+            "quotedInTitle": false,
+            "quotedInIntro": false
+        },
+        {
+            "name": "Cristiano Ronaldo",
+            "alternativeNames": [],
+            "age": -1,
+            "sex": "male",
+            "occurences": {
+                "total": 3,
+                "firstNameOnly": 0,
+                "lastNameOnly": 2,
+                "fullName": 1,
+                "nickname": 0
+            },
+            "inTitle": false,
+            "inIntro": false,
+            "_name": {
+                "firstname": "Cristiano",
+                "lastname": "Ronaldo",
+                "nickname": null,
+                "alternative_names": [],
+                "academic_title": null,
+                "nobility_title_or_rank": null
+            },
+            "descriptiveTexts": [
+                {
+                    "text": "They were supposed to be soccer festivals, including one against Cristiano Ronaldo's club Al-Nassr."
+                },
+                {
+                    "text": "The arena in Riyadh was full, but Ronaldo was missing because of an injury and Messi only played for a few minutes."
+                },
+                {
+                    "text": "Late in the evening before the match against Ronaldo's Al-Nassr, Martino walks through the team hotel in Riyadh in his training suit."
+                }
+            ],
+            "occupations": [],
+            "directQuotes": [],
+            "quotedInTitle": false,
+            "quotedInIntro": false
+        },
+        {
+            "name": "Serena William oder Serena Williams",
+            "alternativeNames": [],
+            "age": -1,
+            "sex": "female",
+            "occurences": {
+                "total": 1,
+                "firstNameOnly": 0,
+                "lastNameOnly": 0,
+                "fullName": 1,
+                "nickname": 0
+            },
+            "inTitle": false,
+            "inIntro": false,
+            "_name": {
+                "firstname": "Serena",
+                "lastname": "Williams",
+                "nickname": null,
+                "alternative_names": [],
+                "academic_title": null,
+                "nobility_title_or_rank": null
+            },
+            "descriptiveTexts": [
+                {
+                    "text": "With a spectacular free-kick goal in the 94th minute, watched by stars such as basketball player LeBron James and tennis player Serena Williams."
+                }
+            ],
+            "occupations": [],
+            "directQuotes": [],
+            "quotedInTitle": false,
+            "quotedInIntro": false
+        },
+        {
+            "name": "Julian Gressel",
+            "alternativeNames": [],
+            "age": -1,
+            "sex": "male",
+            "occurences": {
+                "total": 1,
+                "firstNameOnly": 0,
+                "lastNameOnly": 0,
+                "fullName": 1,
+                "nickname": 0
+            },
+            "inTitle": false,
+            "inIntro": false,
+            "_name": {
+                "firstname": "Julian",
+                "lastname": "Gressel",
+                "nickname": null,
+                "alternative_names": [],
+                "academic_title": null,
+                "nobility_title_or_rank": null
+            },
+            "descriptiveTexts": [
+                {
+                    "text": "\"There's a lot of pressure to succeed here,\" says Julian Gressel, 30, who moved to Miami from the current champion Columbus Crew at the beginning of the year."
+                }
+            ],
+            "occupations": [],
+            "directQuotes": [
+                {
+                    "text": "Becks drank Guinness, I drank a Stella,"
+                },
+                {
+                    "text": "He was our luck."
+                },
+                {
+                    "text": "I was on cloud nine."
+                },
+                {
+                    "text": "I told him: 'You have the chance to change the sport in the biggest market in the world,'"
+                },
+                {
+                    "text": "Of course, I also came here because of Messi."
+                },
+                {
+                    "text": "He does things with the ball that make me think, wow, another level."
+                }
+            ],
+            "quotedInTitle": false,
+            "quotedInIntro": false
+        },
+        {
+            "name": "Gressel say oder Gressel says",
+            "alternativeNames": [],
+            "age": -1,
+            "sex": "unknown",
+            "occurences": {
+                "total": 5,
+                "firstNameOnly": 0,
+                "lastNameOnly": 0,
+                "fullName": 5,
+                "nickname": 0
+            },
+            "inTitle": false,
+            "inIntro": false,
+            "_name": {
+                "firstname": null,
+                "lastname": "Gressel",
+                "nickname": null,
+                "alternative_names": [],
+                "academic_title": null,
+                "nobility_title_or_rank": null
+            },
+            "descriptiveTexts": [],
+            "occupations": [],
+            "directQuotes": [
+                {
+                    "text": "\"Of course, I also came here because of Messi.\""
+                }
+            ],
+            "quotedInTitle": false,
+            "quotedInIntro": false
+        },
+        {
+            "name": "Su\u00e1rez",
+            "alternativeNames": [],
+            "age": -1,
+            "sex": "male",
+            "occurences": {
+                "total": 3,
+                "firstNameOnly": 0,
+                "lastNameOnly": 0,
+                "fullName": 3,
+                "nickname": 0
+            },
+            "inTitle": false,
+            "inIntro": false,
+            "_name": {
+                "firstname": null,
+                "lastname": "Su\u00e1rez",
+                "nickname": null,
+                "alternative_names": [],
+                "academic_title": null,
+                "nobility_title_or_rank": null
+            },
+            "descriptiveTexts": [
+                {
+                    "text": "In January, the club introduced the Uruguayan and Messi buddy Luis Su\u00e1rez, one of the best strikers of his generation."
+                },
+                {
+                    "text": "Some 48 hours later in Hong Kong, around 40,000 fans came to watch Messi jog in public training, but Messi and Su\u00e1rez only watched the later kick-off against a local team, which made waves like a state affair."
+                },
+                {
+                    "text": "Young talent Facundo Far\u00edas, 21, tore his anterior cruciate ligament; young star Benjamin Cremaschi, 18, suffered a hernia; Su\u00e1rez, 37, struggled with inflammation in his knee."
+                }
+            ],
+            "occupations": [],
+            "directQuotes": [],
+            "quotedInTitle": false,
+            "quotedInIntro": false
+        },
+        {
+            "name": "Dan Courtemanche",
+            "alternativeNames": [],
+            "age": -1,
+            "sex": "male",
+            "occurences": {
+                "total": 1,
+                "firstNameOnly": 0,
+                "lastNameOnly": 0,
+                "fullName": 1,
+                "nickname": 0
+            },
+            "inTitle": false,
+            "inIntro": false,
+            "_name": {
+                "firstname": "Dan",
+                "lastname": "Courtemanche",
+                "nickname": null,
+                "alternative_names": [],
+                "academic_title": null,
+                "nobility_title_or_rank": null
+            },
+            "descriptiveTexts": [
+                {
+                    "text": "\"Messi is a rocket for the league,\" says MLS spokesman Dan Courtemanche."
+                }
+            ],
+            "occupations": [],
+            "directQuotes": [],
+            "quotedInTitle": false,
+            "quotedInIntro": false
+        },
+        {
+            "name": "Serrano say oder Serrano says",
+            "alternativeNames": [],
+            "age": -1,
+            "sex": "unknown",
+            "occurences": {
+                "total": 14,
+                "firstNameOnly": 0,
+                "lastNameOnly": 0,
+                "fullName": 14,
+                "nickname": 0
+            },
+            "inTitle": false,
+            "inIntro": false,
+            "_name": {
+                "firstname": null,
+                "lastname": "Serrano",
+                "nickname": null,
+                "alternative_names": [],
+                "academic_title": null,
+                "nobility_title_or_rank": null
+            },
+            "descriptiveTexts": [
+                {
+                    "text": "\"It's not a good idea to prepare for the season on the road,\" says Ed Serrano, 53, a man with a balding head and square-shaped glasses."
+                },
+                {
+                    "text": "Serrano is co-founder of the Inter-Miami fan club Southern Legion."
+                },
+                {
+                    "text": "Serrano has watched all the test matches online, getting up at three in the morning to do so."
+                },
+                {
+                    "text": "Without Serrano, Inter Miami probably wouldn\u2019t exist."
+                },
+                {
+                    "text": "But the region was considered a failed market, says Serrano."
+                },
+                {
+                    "text": "Serrano and his colleagues helped bring him together with future club co-owner Jorge Mas."
+                },
+                {
+                    "text": "In January 2018, Serrano, Beckham and Mas toasted the founding of Inter Miami in an Irish pub."
+                },
+                {
+                    "text": "\"Becks drank Guinness, I drank a Stella,\" recalls Serrano, showing a photo of the two of them on his smartphone."
+                },
+                {
+                    "text": "When rumors circulated a year ago that Messi would come to Miami, Serrano says he couldn't believe it."
+                },
+                {
+                    "text": "Club founder Serrano reports that he knows many people who have had to cancel their season tickets."
+                },
+                {
+                    "text": "Serrano says he works as a parcel driver but has always had two season tickets for himself and his wife."
+                },
+                {
+                    "text": "Serrano is annoyed by fans who only come to the stadium for Messi."
+                },
+                {
+                    "text": "\"Today, they travel by bus,\" says Serrano."
+                },
+                {
+                    "text": "Serrano will, of course, still go to the season opener on Thursday, at home against Real Salt Lake."
+                }
+            ],
+            "occupations": [],
+            "directQuotes": [],
+            "quotedInTitle": false,
+            "quotedInIntro": false
+        },
+        {
+            "name": "Tim Cook",
+            "alternativeNames": [],
+            "age": -1,
+            "sex": "male",
+            "occurences": {
+                "total": 1,
+                "firstNameOnly": 0,
+                "lastNameOnly": 0,
+                "fullName": 1,
+                "nickname": 0
+            },
+            "inTitle": false,
+            "inIntro": false,
+            "_name": {
+                "firstname": "Tim",
+                "lastname": "Cook",
+                "nickname": null,
+                "alternative_names": [],
+                "academic_title": null,
+                "nobility_title_or_rank": null
+            },
+            "descriptiveTexts": [
+                {
+                    "text": "Messi also earns money on every MLS subscription on Apple TV+ that is sold outside of the U.S.\n\nApple CEO Tim Cook announced in the summer: \"We couldn't be happier with the MLS partnership.\""
+                }
+            ],
+            "occupations": [],
+            "directQuotes": [],
+            "quotedInTitle": false,
+            "quotedInIntro": false
+        },
+        {
+            "name": "Lionel Messi",
+            "alternativeNames": [],
+            "age": -1,
+            "sex": "male",
+            "occurences": {
+                "total": 2,
+                "firstNameOnly": 0,
+                "lastNameOnly": 0,
+                "fullName": 2,
+                "nickname": 0
+            },
+            "inTitle": false,
+            "inIntro": true,
+            "_name": {
+                "firstname": "Lionel",
+                "lastname": "Messi",
+                "nickname": null,
+                "alternative_names": [],
+                "academic_title": null,
+                "nobility_title_or_rank": null
+            },
+            "descriptiveTexts": [
+                {
+                    "text": "Lionel Messi has proven to be a major draw for Inter Miami and the U.S. professional soccer league MLS."
+                },
+                {
+                    "text": "Lionel Messi was wearing a pink training jacket from his club Inter Miami, holding a microphone in his right hand and resting his left hand on his thigh."
+                }
+            ],
+            "occupations": [],
+            "directQuotes": [
+                {
+                    "text": "I'm also a bit tired from the tour and I'm looking forward to the last game before I go home."
+                }
+            ],
+            "quotedInTitle": false,
+            "quotedInIntro": true
+        },
+        {
+            "name": "Alexi Lala oder Alexi Lalas",
+            "alternativeNames": [],
+            "age": -1,
+            "sex": "male",
+            "occurences": {
+                "total": 2,
+                "firstNameOnly": 0,
+                "lastNameOnly": 1,
+                "fullName": 1,
+                "nickname": 0
+            },
+            "inTitle": false,
+            "inIntro": false,
+            "_name": {
+                "firstname": "Alexi",
+                "lastname": "Lalas",
+                "nickname": null,
+                "alternative_names": [],
+                "academic_title": null,
+                "nobility_title_or_rank": null
+            },
+            "descriptiveTexts": [
+                {
+                    "text": "\"The Messi effect won't last forever,\" says Alexi Lalas, 53, a legendary defender for the U.S. team, later a manager at LA Galaxy and now a soccer commentator."
+                },
+                {
+                    "text": "\"You can't survive on the international market like that,\" says Lalas."
+                }
+            ],
+            "occupations": [
+                {
+                    "text": "The USA doesn't lack soccer fans, it lacks MLS fans."
+                }
+            ],
+            "directQuotes": [],
+            "quotedInTitle": false,
+            "quotedInIntro": false
+        },
+        {
+            "name": "David Beckham",
+            "alternativeNames": [],
+            "age": -1,
+            "sex": "male",
+            "occurences": {
+                "total": 10,
+                "firstNameOnly": 0,
+                "lastNameOnly": 7,
+                "fullName": 3,
+                "nickname": 0
+            },
+            "inTitle": false,
+            "inIntro": false,
+            "_name": {
+                "firstname": "David",
+                "lastname": "Beckham",
+                "nickname": null,
+                "alternative_names": [],
+                "academic_title": null,
+                "nobility_title_or_rank": null
+            },
+            "descriptiveTexts": [
+                {
+                    "text": "Beckham's Plan"
+                },
+                {
+                    "text": "Inter Miami, co-founded by soccer icon David Beckham at the beginning of 2018, is currently the most dazzling MLS club."
+                },
+                {
+                    "text": "In two years' time, the World Cup will take place in Beckham's second home."
+                },
+                {
+                    "text": "The city government and fans were furious, booing Inter Miami and even David Beckham, who is a hero in Asia, in the stadium."
+                },
+                {
+                    "text": "\"We had almost given up. And then Beckham came along.\""
+                },
+                {
+                    "text": "As part of his contract with LA Galaxy in 2007, David Beckham had secured the right to acquire parts of a new MLS club for 25 million dollars after his professional career."
+                },
+                {
+                    "text": "In January 2018, Serrano, Beckham and Mas toasted the founding of Inter Miami in an Irish pub."
+                },
+                {
+                    "text": "In it, Beckham can be seen laughing."
+                },
+                {
+                    "text": "Even stars like Pel\u00e9 or Beckham were unable to make the U.S. league popular."
+                },
+                {
+                    "text": "Together with his brother Jos\u00e9 and co-owner Beckham, the billionaire spent years courting the Argentine's services."
+                }
+            ],
+            "occupations": [],
+            "directQuotes": [],
+            "quotedInTitle": false,
+            "quotedInIntro": false
+        },
+        {
+            "name": "Sergio Busquet oder Sergio Busquets",
+            "alternativeNames": [],
+            "age": -1,
+            "sex": "male",
+            "occurences": {
+                "total": 3,
+                "firstNameOnly": 0,
+                "lastNameOnly": 2,
+                "fullName": 1,
+                "nickname": 0
+            },
+            "inTitle": false,
+            "inIntro": false,
+            "_name": {
+                "firstname": "Sergio",
+                "lastname": "Busquet",
+                "nickname": null,
+                "alternative_names": [],
+                "academic_title": null,
+                "nobility_title_or_rank": null
+            },
+            "descriptiveTexts": [
+                {
+                    "text": "Last year, Inter Miami signed midfield strategist Sergio Busquets, with whom Messi won eight Spanish championships at Barcelona."
+                },
+                {
+                    "text": "Busquets, 35, injured his ankle."
+                },
+                {
+                    "text": "The Argentinian coach, 61, who everyone just calls \"Tata,\" has already coached Messi with the national team and in Barcelona, in Spain, together with Busquets and Alba."
+                }
+            ],
+            "occupations": [],
+            "directQuotes": [],
+            "quotedInTitle": false,
+            "quotedInIntro": false
+        },
+        {
+            "name": "Gerardo Martino",
+            "alternativeNames": [],
+            "age": -1,
+            "sex": "male",
+            "occurences": {
+                "total": 8,
+                "firstNameOnly": 0,
+                "lastNameOnly": 6,
+                "fullName": 1,
+                "nickname": 1
+            },
+            "inTitle": false,
+            "inIntro": false,
+            "_name": {
+                "firstname": "Gerardo",
+                "lastname": "Martino",
+                "nickname": "Tata",
+                "alternative_names": [],
+                "academic_title": null,
+                "nobility_title_or_rank": null
+            },
+            "descriptiveTexts": [
+                {
+                    "text": "The man who is the almost stoic ringmaster of the Messi circus and the immense expectations is Gerardo Martino."
+                },
+                {
+                    "text": "Late in the evening before the match against Ronaldo's Al-Nassr, Martino walks through the team hotel in Riyadh in his training suit."
+                },
+                {
+                    "text": "A huge crescent moon shines in the sky outside, \"buenas noches,\" Martino, still in good spirits, says by way of greeting."
+                },
+                {
+                    "text": "Nevertheless, Martino doesn't seem too worried."
+                },
+                {
+                    "text": "Martino first saw Messi fire his team to victory against Mexican first division side Cruz Azul in the Leagues Cup."
+                },
+                {
+                    "text": "In 2018, he won the championship under Miami's current coach Martino and was later called up to the U.S. national team."
+                },
+                {
+                    "text": "He is currently learning Spanish, otherwise an assistant coach translates head coach Martino's instructions into English."
+                }
+            ],
+            "occupations": [],
+            "directQuotes": [
+                {
+                    "text": "Tata,"
+                },
+                {
+                    "text": "buenas noches,"
+                }
+            ],
+            "quotedInTitle": false,
+            "quotedInIntro": false
+        }
+    ]
+}

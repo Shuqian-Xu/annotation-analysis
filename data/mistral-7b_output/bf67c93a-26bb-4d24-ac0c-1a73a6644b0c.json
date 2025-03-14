@@ -1,0 +1,357 @@
+{
+    "persons": [
+        {
+            "name": "Bain",
+            "alternativeNames": [],
+            "age": -1,
+            "sex": "unknown",
+            "occurences": {
+                "total": 1,
+                "firstNameOnly": 0,
+                "lastNameOnly": 0,
+                "fullName": 1,
+                "nickname": 0
+            },
+            "inTitle": false,
+            "inIntro": false,
+            "_name": {
+                "firstname": null,
+                "lastname": "Bain",
+                "nickname": null,
+                "alternative_names": [],
+                "academic_title": null,
+                "nobility_title_or_rank": null
+            },
+            "descriptiveTexts": [
+                {
+                    "text": "Die gro\u00dfen Vier haben sich \u00fcber Jahre als Spitzengruppe gefestigt: Das Trio McKinsey, BCG, Bain, und Oliver Wyman als Nummer vier."
+                }
+            ],
+            "occupations": [
+                {
+                    "text": "Wenn wir mit McKinsey-Kunden sprechen, h\u00f6ren wir oft: F\u00fcr mich geht es darum, die beste Unternehmensberatung f\u00fcr mein Problem zu finden. Und wenn es McKinsey ist, ist es zweitrangig, ob die Firma in irgendwelche Skandale verwickelt war, mit denen die Berater, mit denen ich arbeiten will, ohnehin nichts zu tun haben."
+                }
+            ],
+            "directQuotes": [],
+            "quotedInTitle": false,
+            "quotedInIntro": false
+        },
+        {
+            "name": "Roland Berger",
+            "alternativeNames": [],
+            "age": -1,
+            "sex": "male",
+            "occurences": {
+                "total": 1,
+                "firstNameOnly": 0,
+                "lastNameOnly": 0,
+                "fullName": 1,
+                "nickname": 0
+            },
+            "inTitle": false,
+            "inIntro": false,
+            "_name": {
+                "firstname": "Roland",
+                "lastname": "Berger",
+                "nickname": null,
+                "alternative_names": [],
+                "academic_title": null,
+                "nobility_title_or_rank": null
+            },
+            "descriptiveTexts": [
+                {
+                    "text": "Roland Berger hat gerade zwei Frauen in das oberste Entscheidungsgremium berufen."
+                }
+            ],
+            "occupations": [],
+            "directQuotes": [],
+            "quotedInTitle": false,
+            "quotedInIntro": false
+        },
+        {
+            "name": "Bianka Knoblach",
+            "alternativeNames": [],
+            "age": -1,
+            "sex": "female",
+            "occurences": {
+                "total": 14,
+                "firstNameOnly": 0,
+                "lastNameOnly": 12,
+                "fullName": 2,
+                "nickname": 0
+            },
+            "inTitle": false,
+            "inIntro": true,
+            "_name": {
+                "firstname": "Bianka",
+                "lastname": "Knoblach",
+                "nickname": null,
+                "alternative_names": [],
+                "academic_title": null,
+                "nobility_title_or_rank": null
+            },
+            "descriptiveTexts": [
+                {
+                    "text": "Die Branchenexperten Dietmar Fink und Bianka Knoblach sagen, wohin sich der Consultingmarkt entwickeln wird, welche Ratgebertypen k\u00fcnftig verlangt werden und wie sich die anhaltende Dominanz der fr\u00fcheren Skandalfirma McKinsey erkl\u00e4ren l\u00e4sst."
+                },
+                {
+                    "text": "Zusammen mit Bianka Knoblach (49) erforscht Fink seit vielen Jahren den hiesigen Beratermarkt."
+                },
+                {
+                    "text": "Fink und Knoblach sind Gesch\u00e4ftsf\u00fchrer der Wissenschaftlichen Gesellschaft f\u00fcr Management und Beratung (WGMB); die WGMB publiziert die Studie."
+                },
+                {
+                    "text": "Frau Knoblach, Herr Fink, Sie haben gerade wieder exklusiv f\u00fcr manager magazin die Leistungen und F\u00e4higkeiten der in Deutschland f\u00fchrenden Unternehmensberater untersucht."
+                },
+                {
+                    "text": "F\u00fcr dieses Jahr sagen Sie der Branche ein Wachstumsplus von 11 Prozent voraus."
+                },
+                {
+                    "text": "Sie investieren in den USA, in Polen, dort, wo die Energiekosten geringer sind, die Regulatorik freundlicher."
+                },
+                {
+                    "text": "Sondern die m\u00fcssen die Unternehmen strategisch an die Hand nehmen \u2013 und sie gegebenenfalls auch aus der deutschen Wirtschaft hinausf\u00fchren."
+                },
+                {
+                    "text": "Ich sehe den Grund woanders: Die Wirtschaftspr\u00fcfer wissen nicht so recht, welches Gesch\u00e4ft sie eigentlich im Consulting betreiben wollen."
+                },
+                {
+                    "text": "Vergleichbares sieht man auch bei den anderen: Sie versuchen offenbar, ein zweites Accenture zu bauen."
+                },
+                {
+                    "text": "Sie bringen mit gro\u00dfen Teams die Transformation zum Laufen."
+                },
+                {
+                    "text": "Der Wandel kommt vielen Beratern entgegen, weil sie merken, dass sie f\u00fcr die klassische Kultur gar nicht mehr ausreichend Nachwuchs rekrutieren k\u00f6nnen."
+                },
+                {
+                    "text": "Sondern die wollen das, was sie inhaltlich machen, einfach gut machen."
+                },
+                {
+                    "text": "F\u00fcr Beratungen bedeutet das, dass sie sich jetzt f\u00fcr v\u00f6llig neue Karrieremodelle \u00f6ffnen m\u00fcssen."
+                },
+                {
+                    "text": "Es ist mittlerweile Pflicht, dass die Berater das, was sie in Powerpoint-Vorlagen zeigen, auch anschlie\u00dfend in den Unternehmen umsetzen."
+                },
+                {
+                    "text": "Sie muss Prototypen designen."
+                },
+                {
+                    "text": "Sie muss dem Kunden plastisch vorf\u00fchren, was das Ergebnis der Beratung ist."
+                },
+                {
+                    "text": "Sie haben zum ersten Mal in Ihrer Studie untersucht, wie divers Berater wahrgenommen werden."
+                },
+                {
+                    "text": "Taugen sie als Vorbild f\u00fcr ihre Kunden?"
+                },
+                {
+                    "text": "Ich glaube schon."
+                },
+                {
+                    "text": "Wenn sie so ein gutes Vorbild sind: Wie erkl\u00e4rt sich dann, dass die Kunden beim Thema Diversit\u00e4t den Beratern eher wenig zutrauen?"
+                },
+                {
+                    "text": "Was meinen Sie damit?"
+                },
+                {
+                    "text": "Einige geben bei den Bewerbungen deshalb als Geschlecht nicht mehr m\u00e4nnlich an, sondern divers, weil sie sonst nicht eingeladen werden."
+                }
+            ],
+            "occupations": [],
+            "directQuotes": [
+                {
+                    "text": "Der Bedarf der Unternehmen an digitalen L\u00f6sungen ist ungebrochen. Aber anders als fr\u00fcher, ist das heute ein Querschnittsthema. BCG sch\u00e4tzt, dass 40 Prozent ihrer Projekte einen digitalen Schwerpunkt haben. Nach unseren Gespr\u00e4chen mit den Kunden sind es rund 60 Prozent, Tendenz weiter wachsend."
+                },
+                {
+                    "text": "Das Beispiel beweist: Das Handfeste ist gefragt, nicht mehr das Wolkige, nach dem Motto: Wir m\u00fcssen jetzt disruptiver werden und brauchen deshalb \u2013 egal welche \u2013 digitale Gesch\u00e4ftsmodelle. Diese Fantasien gibt es zwar immer noch, aber die tragende Komponente ist die Automatisierung des operativen Gesch\u00e4fts."
+                },
+                {
+                    "text": "Wir haben noch nie so viele niedergeschlagene und frustrierte Gespr\u00e4chspartner gehabt wie in diesem Jahr. Viele gro\u00dfe Mittelst\u00e4ndler scheinen ihr Gesch\u00e4ft in Gedanken schon aufgegeben zu haben. Andere, mit denen wir gesprochen haben, sehen ihre Zukunft nicht mehr in Deutschland. Sie investieren in den USA, in Polen, dort, wo die Energiekosten geringer sind, die Regulatorik freundlicher. Das ist in vielen K\u00f6pfen sehr pr\u00e4sent. Da sind weniger Berater gefragt, die mal eben 10 Prozent der Kosten herausnehmen. Sondern die m\u00fcssen die Unternehmen strategisch an die Hand nehmen \u2013 und sie gegebenenfalls auch aus der deutschen Wirtschaft hinausf\u00fchren."
+                },
+                {
+                    "text": "Die Restrukturierung ist ein v\u00f6llig anderer Recruitingmarkt. Man kann f\u00fcr Sanierungen keine Hochschulabsolventen einstellen, sondern braucht gestandene Manager. Die gro\u00dfen Berater \u00f6ffnen sich f\u00fcr Leute aus der Industrie, die schon Krisenphasen miterlebt haben. Die geben das Wissen dann an die Kunden weiter, die zum ersten Mal in einer solch bedrohlichen Lage sind. Die alten wei\u00dfen M\u00e4nner werden pl\u00f6tzlich wieder wertvoll."
+                },
+                {
+                    "text": "Es w\u00e4re unklug, sich zu eng aneinander zu binden. Die Beratungen brauchen je nach Kunde, Branche und Land immer anderes Personal."
+                },
+                {
+                    "text": "Der Wirecard-Effekt, den wir in der vergangenen Studie gemessen haben, ist wieder verpufft. Ich sehe den Grund woanders: Die Wirtschaftspr\u00fcfer wissen nicht so recht, welches Gesch\u00e4ft sie eigentlich im Consulting betreiben wollen. Selbst Deloitte, die als st\u00e4rkste Beratungsmarke unter den Pr\u00fcfern etabliert ist, entwickelt sich immer weiter weg von der klassischen Managementberatung hin zu technologienahen Dienstleistungen. Vergleichbares sieht man auch bei den anderen: Sie versuchen offenbar, ein zweites Accenture zu bauen. Die Wirtschaftspr\u00fcfer sind keine klassischen Managementberater, nichts f\u00fcr den gro\u00dfen Wurf. Sondern eher Erf\u00fcllungsgehilfen, im positiven Sinne. Sie bringen mit gro\u00dfen Teams die Transformation zum Laufen."
+                },
+                {
+                    "text": "Die Kultur hat sich unheimlich ver\u00e4ndert. Der Wandel kommt vielen Beratern entgegen, weil sie merken, dass sie f\u00fcr die klassische Kultur gar nicht mehr ausreichend Nachwuchs rekrutieren k\u00f6nnen. Das 24/7-Modell des intrinsisch motivierten Beraters l\u00e4sst sich nicht mehr mit der jungen Generation vereinbaren. Die wollen gar nicht die Perspektive, irgendwann Partner, also Miteigent\u00fcmer zu werden. Sondern die wollen das, was sie inhaltlich machen, einfach gut machen. Die wollen sich selbst verwirklichen und verharren lieber auf der einmal erreichten Karrierestufe, bis zum n\u00e4chsten Arbeitgeberwechsel. F\u00fcr Beratungen bedeutet das, dass sie sich jetzt f\u00fcr v\u00f6llig neue Karrieremodelle \u00f6ffnen m\u00fcssen. Up-or-out ist momentan gerade out."
+                },
+                {
+                    "text": "Ich glaube schon. Beratungen k\u00f6nnen mehr Freir\u00e4ume bieten als ein herk\u00f6mmliches Industrieunternehmen: etwa, nach drei Monaten auf dem Projekt, zwei Monate Sabbatical. Das geht in anderen Branchen kaum. Zudem gibt es in einer Beratung formale Kriterien, die \u00fcber das Fortkommen entscheiden, zum Beispiel regelm\u00e4\u00dfige Feedbacks. Es ist weniger ein Old-boys-Netzwerk, wie man es noch in der Industrie findet. McKinsey zum Beispiel hat fast 50 Prozent weibliche Berater."
+                },
+                {
+                    "text": "Es gibt Ausnahmen. Accenture hat eine Frau an der Spitze, sowohl weltweit als auch in Deutschland. Roland Berger hat gerade zwei Frauen in das oberste Entscheidungsgremium berufen. Der Wirtschaftspr\u00fcfer PwC wird in Deutschland von einer Frau gef\u00fchrt. Das wirkt sehr zielgerichtet und birgt allerdings auch die Gefahr der \u00dcbertreibung."
+                },
+                {
+                    "text": "F\u00fcr unsere m\u00e4nnlichen Studenten wird es immer schwieriger, \u00fcberhaupt in die Recruitingprogramme der Berater aufgenommen zu werden. Einige geben bei den Bewerbungen deshalb als Geschlecht nicht mehr m\u00e4nnlich an, sondern divers, weil sie sonst nicht eingeladen werden. Da sind einige Berater vielleicht \u00fcber das Ziel hinausgeschossen. Denn es gibt ja auch talentierte M\u00e4nner."
+                }
+            ],
+            "quotedInTitle": false,
+            "quotedInIntro": true
+        },
+        {
+            "name": "Dietmar Fink",
+            "alternativeNames": [],
+            "age": 56,
+            "sex": "male",
+            "occurences": {
+                "total": 18,
+                "firstNameOnly": 0,
+                "lastNameOnly": 16,
+                "fullName": 2,
+                "nickname": 0
+            },
+            "inTitle": false,
+            "inIntro": true,
+            "_name": {
+                "firstname": "Dietmar",
+                "lastname": "Fink",
+                "nickname": null,
+                "alternative_names": [],
+                "academic_title": "Professor",
+                "nobility_title_or_rank": null
+            },
+            "descriptiveTexts": [
+                {
+                    "text": "Die Branchenexperten Dietmar Fink und Bianka Knoblach sagen, wohin sich der Consultingmarkt entwickeln wird, welche Ratgebertypen k\u00fcnftig verlangt werden und wie sich die anhaltende Dominanz der fr\u00fcheren Skandalfirma McKinsey erkl\u00e4ren l\u00e4sst."
+                },
+                {
+                    "text": "Der Wirtschaftsprofessor Dietmar Fink (56) ist der profilierteste Consultingkenner in Deutschland."
+                },
+                {
+                    "text": "Er lehrt an der Hochschule Bonn-Rhein-Sieg."
+                },
+                {
+                    "text": "Zusammen mit Bianka Knoblach (49) erforscht Fink seit vielen Jahren den hiesigen Beratermarkt."
+                },
+                {
+                    "text": "Fink und Knoblach sind Gesch\u00e4ftsf\u00fchrer der Wissenschaftlichen Gesellschaft f\u00fcr Management und Beratung (WGMB); die WGMB publiziert die Studie."
+                },
+                {
+                    "text": "Frau Knoblach, Herr Fink, Sie haben gerade wieder exklusiv f\u00fcr manager magazin die Leistungen und F\u00e4higkeiten der in Deutschland f\u00fchrenden Unternehmensberater untersucht."
+                },
+                {
+                    "text": "F\u00fcr dieses Jahr sagen Sie der Branche ein Wachstumsplus von 11 Prozent voraus."
+                },
+                {
+                    "text": "Wir halten sie im Moment noch aufrecht."
+                },
+                {
+                    "text": "Sie investieren in den USA, in Polen, dort, wo die Energiekosten geringer sind, die Regulatorik freundlicher."
+                },
+                {
+                    "text": "Sondern die m\u00fcssen die Unternehmen strategisch an die Hand nehmen \u2013 und sie gegebenenfalls auch aus der deutschen Wirtschaft hinausf\u00fchren."
+                },
+                {
+                    "text": "Und wenn es McKinsey ist, ist es zweitrangig, ob die Firma in irgendwelche Skandale verwickelt war, mit denen die Berater, mit denen ich arbeiten will, ohnehin nichts zu tun haben."
+                },
+                {
+                    "text": "Vergleichbares sieht man auch bei den anderen: Sie versuchen offenbar, ein zweites Accenture zu bauen."
+                },
+                {
+                    "text": "Es ist f\u00fcr eine strategisch denkende Managementberatung erstaunlich, dass sie nicht parallel zu diesem Wachstum effiziente Strukturen eingef\u00fchrt hat."
+                },
+                {
+                    "text": "Ich sehe McKinsey aber absolut nicht in der Krise."
+                },
+                {
+                    "text": "Und sie stellen ja gleichzeitig \u00fcber 8000 neue Leute ein."
+                }
+            ],
+            "occupations": [
+                {
+                    "text": "Wirtschaftsprofessor"
+                },
+                {
+                    "text": "profilierteste Consultingkenner in Deutschland"
+                },
+                {
+                    "text": "Gesch\u00e4ftsf\u00fchrer"
+                }
+            ],
+            "directQuotes": [
+                {
+                    "text": "Wir halten sie im Moment noch aufrecht. Aber die Vorhersage ist mit einer geh\u00f6rigen Unsicherheit behaftet. Die gr\u00f6\u00dfte Unw\u00e4gbarkeit ist sicherlich die Weltpolitik: Was passiert, wenn wir uns von China wirtschaftlich mehr und mehr l\u00f6sen, so wie es bei der j\u00fcngsten Tagung der f\u00fchrenden Industrienationen G7 diskutiert wurde? Dann wird sich die Lage f\u00fcr die deutschen Unternehmen dramatisch ver\u00e4ndern, inklusive deren Berater."
+                },
+                {
+                    "text": "Ja, es ist eine Normalisierung auf hohem Niveau. Manche sehen bei Wachstumsraten von 11 Prozent schon eine Krise am Horizont. Wenn andere Branchen, wie die angeschlagenen Autozulieferer oder Einzelh\u00e4ndler solche Zuw\u00e4chse h\u00e4tten, w\u00fcrden sie jubilieren."
+                },
+                {
+                    "text": "Absolut. In extrem vielen Unternehmen geht es um das gro\u00dfe Ganze. Und dann kommen zwangsl\u00e4ufig Nachhaltigkeit und ESG ins Spiel. Auch das hat sich zu einem Querschnittsthema entwickelt. Es taucht in allen Bereichen eines Unternehmens auf, etwa bei der klimaneutralen Beschaffung von Vorprodukten, beim Design klimaschonender Gesch\u00e4ftsprozesse oder beim Entwickeln neuer umweltgerechter Produkte, die den Anforderungen der jungen Generation entsprechen. Es findet sich deshalb auch in den unterschiedlichsten Beraterprojekten."
+                },
+                {
+                    "text": "Sich nach au\u00dfen als besonders wertvolles \u00f6kologisches Unternehmen darzustellen, das ist bei vielen die Hauptmotivation. Das ist aber, wenn es nicht nur vorgeschoben ist, auch vollkommen in Ordnung. Denn wenn man klimaneutrale Lieferketten gestaltet, verdient man damit ja nicht mehr als vorher. Die Wirkung entfaltet sich erst, wenn die Kunden lieber mit ihnen Gesch\u00e4fte machen, weil sie eine klimaneutrale Lieferkette haben. Das funktioniert nur, wenn die Kunden auch wissen, dass man CO2-neutral ist. Es muss in die Welt getragen werden."
+                },
+                {
+                    "text": "Exakt. Sollte China in Taiwan intervenieren, werden die USA sofort verf\u00fcgen: Wer noch Gesch\u00e4fte mit uns machen will, darf keine mehr mit China machen. Viele Unternehmen orientieren sich jetzt schon in andere M\u00e4rkte, nach Pakistan oder Afrika. In diesen Regionen sind Berater nicht so pr\u00e4sent. Die m\u00fcssen dort auch Neuland erschlie\u00dfen."
+                },
+                {
+                    "text": "Die gro\u00dfen Vier haben sich \u00fcber Jahre als Spitzengruppe gefestigt: Das Trio McKinsey, BCG, Bain, und Oliver Wyman als Nummer vier. Die Top drei verstehen es gl\u00e4nzend, sich zu vermarkten. Fast jeder kennt das Label MBB, das f\u00fcr die Anfangsbuchstaben steht. Aber wir sehen Oliver Wyman in vielen Bereichen auf Augenh\u00f6he."
+                },
+                {
+                    "text": "Aus dem Ausland h\u00f6re ich schon, dass die vergangenen Skandale Auswirkungen haben. Aber in Deutschland scheint die Marke unkaputtbar. Wenn wir mit McKinsey-Kunden sprechen, h\u00f6ren wir oft: F\u00fcr mich geht es darum, die beste Unternehmensberatung f\u00fcr mein Problem zu finden. Und wenn es McKinsey ist, ist es zweitrangig, ob die Firma in irgendwelche Skandale verwickelt war, mit denen die Berater, mit denen ich arbeiten will, ohnehin nichts zu tun haben."
+                },
+                {
+                    "text": "So erleben wir es in unseren Gespr\u00e4chen. Es gibt ein Bewusstsein, dass McKinsey manchmal nicht so handelt, wie man es erwarten w\u00fcrde. Das merken die Kunden schon. Aber letztendlich ist es zweitrangig."
+                },
+                {
+                    "text": "McKinsey wirkt nicht mehr wie eine Firma aus einem Guss, sondern viele Kunden sehen in ihr eher eine gro\u00dfe Franchisekette. Es gibt mittlerweile mehr als 2500 Partner, davon \u00fcber 650 Seniorpartner, die unter der Marke McKinsey mehr oder weniger ihr eigenes Unternehmen f\u00fchren. Und die kann man nur sehr schwer durch eine effiziente Governance kontrollieren."
+                },
+                {
+                    "text": "Es wundert mich, dass der Schnitt so sp\u00e4t kommt. McKinsey hat das Personal in den letzten zehn Jahren verdoppelt. Es ist f\u00fcr eine strategisch denkende Managementberatung erstaunlich, dass sie nicht parallel zu diesem Wachstum effiziente Strukturen eingef\u00fchrt hat. Die internen, unterst\u00fctzenden Funktionen sind nicht mehr optimal aufgestellt. Ich sehe McKinsey aber absolut nicht in der Krise. Und sie stellen ja gleichzeitig \u00fcber 8000 neue Leute ein."
+                },
+                {
+                    "text": "Die Firma macht einen gro\u00dfen Teil des Gesch\u00e4fts, indem sie f\u00fcr ihre Kunden komplette Abteilungen \u00fcbernehmen, wie Personal, Recht und Buchhaltung. Und zwar zu geringeren Kosten. Das kann nur funktionieren, wenn Accenture seine Prozesse effizienter gestaltet als die Kunden. Das hei\u00dft, sie m\u00fcssen auch Leute entlassen, um produktiver zu bleiben."
+                },
+                {
+                    "text": "Es ist mittlerweile Pflicht, dass die Berater das, was sie in Powerpoint-Vorlagen zeigen, auch anschlie\u00dfend in den Unternehmen umsetzen. Keine Beratung kann sich heute noch vor dieser Verantwortung dr\u00fccken. Sie muss Prototypen designen. Sie muss dem Kunden plastisch vorf\u00fchren, was das Ergebnis der Beratung ist. Im Idealfall gibt es eine Schnittstelle, an der die Managementberater an Consultants \u00fcbergeben, die das Projekt zu geringeren Tagess\u00e4tzen weiterf\u00fchren, dann kommen meist die Wirtschaftspr\u00fcfer ins Spiel."
+                },
+                {
+                    "text": "In den K\u00f6pfen vieler Kunden sitzt noch das Klischee des arroganten Beraters, der durch die Flure streift und Mitarbeiter entl\u00e4sst. Das verbindet man nicht mit Diversit\u00e4t. Aber das Bild stimmt l\u00e4ngst nicht mehr."
+                }
+            ],
+            "quotedInTitle": false,
+            "quotedInIntro": true
+        },
+        {
+            "name": "Oliver Wyman",
+            "alternativeNames": [],
+            "age": -1,
+            "sex": "unknown",
+            "occurences": {
+                "total": 2,
+                "firstNameOnly": 0,
+                "lastNameOnly": 0,
+                "fullName": 2,
+                "nickname": 0
+            },
+            "inTitle": false,
+            "inIntro": false,
+            "_name": {
+                "firstname": "Oliver",
+                "lastname": "Wyman",
+                "nickname": null,
+                "alternative_names": [],
+                "academic_title": null,
+                "nobility_title_or_rank": null
+            },
+            "descriptiveTexts": [
+                {
+                    "text": "Die gro\u00dfen Vier haben sich \u00fcber Jahre als Spitzengruppe gefestigt: Das Trio McKinsey, BCG, Bain, und Oliver Wyman als Nummer vier."
+                },
+                {
+                    "text": "Aber wir sehen Oliver Wyman in vielen Bereichen auf Augenh\u00f6he."
+                }
+            ],
+            "occupations": [],
+            "directQuotes": [],
+            "quotedInTitle": false,
+            "quotedInIntro": false
+        }
+    ]
+}

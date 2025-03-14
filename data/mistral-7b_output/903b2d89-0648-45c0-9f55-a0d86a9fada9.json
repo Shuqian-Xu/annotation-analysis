@@ -1,0 +1,410 @@
+{
+    "persons": [
+        {
+            "name": "Nicolas Cage",
+            "alternativeNames": [],
+            "age": -1,
+            "sex": "male",
+            "occurences": {
+                "total": 32,
+                "firstNameOnly": 0,
+                "lastNameOnly": 17,
+                "fullName": 15,
+                "nickname": 0
+            },
+            "inTitle": true,
+            "inIntro": true,
+            "_name": {
+                "firstname": "Nicolas",
+                "lastname": "Cage",
+                "nickname": null,
+                "alternative_names": [],
+                "academic_title": null,
+                "nobility_title_or_rank": null
+            },
+            "descriptiveTexts": [
+                {
+                    "text": "Je n\u00e4her man Nicolas Cage kommt, desto mehr scheint sich die Wirklichkeit zur\u00fcck\u00adzuziehen"
+                },
+                {
+                    "text": "Nicolas Cage wurde zum Internetgag."
+                },
+                {
+                    "text": "Nicolas Cages Villa steht im Norden der Stadt und simuliert eine mexikanische Hacienda."
+                },
+                {
+                    "text": "Je n\u00e4her man Nicolas Cage kommt, desto mehr scheint sich die Wirklichkeit zur\u00fcckzuziehen."
+                },
+                {
+                    "text": "Nicolas Cage aber hat dem SPIEGEL einen exklusiven Hausbesuch vorgeschlagen, eine volle Stunde, nur Fotos sind streng verboten."
+                },
+                {
+                    "text": "Offenbar m\u00f6chte er zu seinem neuen Film \u00bbDream Scenario\u00ab mehr sagen, als er vertraglich verpflichtet w\u00e4re."
+                },
+                {
+                    "text": "Weil er nach mehr als vier Jahrzehnten in der Branche und mehr als 100 Filmen auf dem Buckel pl\u00f6tzlich das Gef\u00fchl hat, seine Kunst verteidigen zu m\u00fcssen."
+                },
+                {
+                    "text": "In den Achtzigerjahren ist Nicolas Cage der vielleicht talentierteste Schauspieler seiner Generation."
+                },
+                {
+                    "text": "Es gibt kein Extrem menschlicher Empfindung, das er nicht mit Intensit\u00e4t verk\u00f6rpert."
+                },
+                {
+                    "text": "In den Neunzigerjahren macht er etwas aus seinem Talent \u2013 Ruhm, Kunst."
+                },
+                {
+                    "text": "Er geh\u00f6rt zu den Gr\u00f6\u00dften in Hollywood, als er sein Verm\u00f6gen zu verschleudern beginnt."
+                },
+                {
+                    "text": "Nicolas Cage \u00f6ffnet die Haust\u00fcr pers\u00f6nlich."
+                },
+                {
+                    "text": "Er wirkt ein wenig zerknautscht, das schwarz gef\u00e4rbte Haar zerzaust, die F\u00fc\u00dfe nackt: \u00bbKomm rein, komm rein\u00ab, sagt er fr\u00f6hlich."
+                },
+                {
+                    "text": "\u00bbManchmal mache ich das auch, er hat eine positive Energie\u00ab, sagt Cage, w\u00e4hrend er herumf\u00fchrt."
+                },
+                {
+                    "text": "Cage tritt ans Gitter, sofort gesellt sich der Vogel zu ihm und schimpft: \u00bbAss!\u00ab"
+                },
+                {
+                    "text": "Das Tier sei \u00bbunglaublich schlau\u00ab, freut sich Cage und wirft ihm ein paar K\u00f6rner hin."
+                },
+                {
+                    "text": "\u00bbAu\u00dferdem erinnert er mich an Edgar Allan Poe.\u00ab"
+                },
+                {
+                    "text": "Hin und wieder lasse er Hoogan frei durchs Haus fliegen, \u00bbaber dann schei\u00dft er mir alles voll\u00ab."
+                },
+                {
+                    "text": "Cage schl\u00e4gt das Buch auf, liest ein paar Zeilen in gehobenem Englisch, stellt es wieder zur\u00fcck: \u00bbScheint eine interessante Lekt\u00fcre zu sein!\u00ab"
+                },
+                {
+                    "text": "Wenn er am Schreibtisch sitzt, kann er im Terrarium gegen\u00fcber seinem Waran beim D\u00f6sen zuschauen."
+                },
+                {
+                    "text": "Cage nennt ihn liebevoll \u00bbmeinen schwarzen Drachen\u00ab und hofft, dass die Echse nicht noch gr\u00f6\u00dfer wird."
+                },
+                {
+                    "text": "\u00bbSo wie das Schwein im Garten, da hat man mich \u00fcbers Ohr gehauen. Der Verk\u00e4ufer meinte, es w\u00fcrde immer ein Ferkel bleiben\u00ab, und nun m\u00fcsse er sich mit diesem Monstrum herumschlagen."
+                },
+                {
+                    "text": "Einmal hatte er sich zwei K\u00f6nigskobras aufschwatzen lassen, \u00bbaber sie waren ungl\u00fccklich und wollten mich st\u00e4ndig t\u00f6ten\u00ab."
+                },
+                {
+                    "text": "Immerhin habe er von den Schlangen \u00bbviel f\u00fcr meine Schauspielerei abgeschaut\u00ab, etwa die reptiloide Reglosigkeit vor dem Angriff."
+                },
+                {
+                    "text": "Cage gab den Sch\u00e4del zur\u00fcck."
+                },
+                {
+                    "text": "\u00bbDas Geld habe ich nie wiedergesehen\u00ab, sagt er mit einem Schulterzucken."
+                },
+                {
+                    "text": "Fragt man ihn nach seiner Shoppingsucht, sieht er noch in den absurdesten Anschaffungen einen sentimentalen Sinn."
+                },
+                {
+                    "text": "Erinnerung an den Film \u00bbPig\u00ab (2021), in dem er einen ehemaligen Koch spielt, dem sein Tr\u00fcffelschwein abhandenkommt."
+                },
+                {
+                    "text": "Verbeugung vor einem gescheiterten Projekt des Regisseurs Tim Burton, in dem er den Helden in Strumpfhosen spielen sollte."
+                },
+                {
+                    "text": "Weil kein goldener Ferrari aufzutreiben gewesen sei, erkl\u00e4rt Cage und entriegelt die Kindersicherung vor einer engen Wendeltreppe nach unten, habe er eben den Lamborghini gekauft."
+                },
+                {
+                    "text": "Cage h\u00e4lt diese Poster f\u00fcr \u00bbeine vergessene Kunstform\u00ab und fand die Vorstellung \u00bbcool, einen solchen Ort zu haben\u00ab."
+                },
+                {
+                    "text": "Also hat er ihn sich eingerichtet."
+                },
+                {
+                    "text": "Sp\u00e4testens nach den erfolgreichen Actionfilmen \u00bbIm K\u00f6rper des Feindes\u00ab, \u00bbCon Air\u00ab und \u00bbThe Rock\u00ab habe er keine finanziellen Sorgen mehr gehabt \u2013 trotz vier gescheiterter Ehen, darunter mit Lisa Marie Presley und der Kollegin Patricia Arquette."
+                },
+                {
+                    "text": "Sein Verm\u00f6gen habe er in Immobilien angelegt."
+                },
+                {
+                    "text": "Vergleichsweise konservativ, das aber in ganz gro\u00dfem Stil, so beschreibt er es."
+                },
+                {
+                    "text": "Jahrhundert, von dessen ehrw\u00fcrdiger Bibliothek er heute noch schw\u00e4rmt."
+                },
+                {
+                    "text": "\u00bbDann kam die Finanzkrise\u00ab, sagt er."
+                },
+                {
+                    "text": "Cage verklagte seinen fr\u00fcheren Finanzmanager, von dem er sich \u00fcbers Ohr gehauen f\u00fchlte."
+                },
+                {
+                    "text": "Zus\u00e4tzlich forderten die US-Steuerbeh\u00f6rden eine Nachzahlung in mutma\u00dflich zweistelliger Millionenh\u00f6he: \u00bbIch h\u00e4tte meinen Bankrott erkl\u00e4ren k\u00f6nnen, aber das wollte ich nicht. Ich wollte es aus eigener Kraft schaffen.\u00ab"
+                },
+                {
+                    "text": "Er verkaufte, was er verkaufen konnte, und verlegte seinen Wohnsitz aus steuerlichen Gr\u00fcnden nach Nevada."
+                },
+                {
+                    "text": "Obwohl es ihm hier, wie er in seiner unterirdischen Schwarzlichtkammer betont, viel zu hell sei: \u00bbTags\u00fcber Sonnenlicht, nachts elektrisches Licht!\u00ab"
+                },
+                {
+                    "text": "Nun lebt er in Las Vegas wie ein Vampir, der sich vor Las Vegas verstecken muss."
+                },
+                {
+                    "text": "Und doch hat er es aus eigener Kraft geschafft."
+                },
+                {
+                    "text": "Damals \u00e4nderte er seinen prominenten Nachnamen Coppola, weil er es aus eigener Kraft schaffen wollte \u2013 und nicht als Neffe des gro\u00dfen Filmemachers Francis Ford Coppola."
+                },
+                {
+                    "text": "Nur einmal, als Jugendlicher, habe er den ber\u00fchmten Onkel aufgefordert, doch einmal Probeaufnahmen mit ihm zu machen: \u00bbIch erinnere mich noch gut an die Stille, die danach im Auto herrschte.\u00ab"
+                },
+                {
+                    "text": "Cage geh\u00f6rt vor seiner Pleite bereits zu den Flei\u00dfigen, danach arbeitete er wie ein Wahnsinniger."
+                },
+                {
+                    "text": "Er trug seinen Namen zu Markte, beinahe zu Grabe \u2013 und merkte es nicht."
+                },
+                {
+                    "text": "Er drehte ja Filme."
+                },
+                {
+                    "text": "Interessanterweise ist Nicolas Cage selbst auf diesem kommerziellen Tiefpunkt ganz Nicolas Cage geblieben."
+                },
+                {
+                    "text": "Noch in den gr\u00f6\u00dften Mumpitz warf er sich mit unverbrauchter Leidenschaft \u2013 was im Ergebnis nicht selten von unfreiwilliger Komik ist."
+                },
+                {
+                    "text": "Er selbst erkannte diese Komik so sp\u00e4t, dass es fast schon wieder komisch ist: \u00bbVor drei Jahren habe ich etwas getan, was niemand jemals tun sollte. Ich habe meinen eigenen Namen gegoogelt.\u00ab"
+                },
+                {
+                    "text": "Dabei st\u00f6berte er bei YouTube ein altes Video auf, in dem einige seiner dramatischsten Darbietungen der L\u00e4cherlichkeit preisgegeben werden."
+                },
+                {
+                    "text": "In schneller Folge schreit er in dem Clip aus Leibeskr\u00e4ften \u00bbFuck!\u00ab, immer wieder, bricht mehrfach in theatralische Tr\u00e4nen aus, pr\u00fcgelt verzweifelt auf eine Matratze ein, schl\u00e4gt Frauen ins Gesicht, zertr\u00fcmmert einen Spiegel, zerschlitzt ein Gem\u00e4lde, beschmiert seinen K\u00f6rper mit schwarzer Farbe und taumelt von Nervenzusammenbruch zu Nervenzusammenbruch."
+                },
+                {
+                    "text": "Titel des kurzen Videos: \u00bbNicolas Cage Losing His Shit\u00ab."
+                },
+                {
+                    "text": "Nicolas Cage verliert den Verstand."
+                },
+                {
+                    "text": "Allm\u00e4hlich d\u00e4mmerte ihm, dass es von vergleichbaren Filmchen nur so wimmelte, einzelne seiner Gesichtsausdr\u00fccke l\u00e4ngst f\u00fcr Memes verwendet wurden \u2013 und er dabei war, sich in eine Witzfigur im Internet zu verwandeln."
+                },
+                {
+                    "text": "In diesem Moment wurde ihm klar, dass gerade das Genialische an seiner Arbeit dazu verf\u00fchren kann, sich an ihn als einen abgehalfterten Clown zu erinnern: \u00bbDas war neu. Ich bin Schauspieler geworden, weil ich James Dean sein wollte oder Marlon Brando. Weil ich das Kino liebe. Nicht um ein Gag zu sein, \u00fcber den ich keinerlei Kontrolle habe.\u00ab"
+                },
+                {
+                    "text": "Er hat den Schock \u00fcber diesen Kontrollverlust noch nicht verarbeitet, da erreicht ihn ein Drehbuch \u00fcber einen Kontrollverlust."
+                },
+                {
+                    "text": "W\u00e4hrend Schreckliches geschieht, steht er tatenlos dabei."
+                },
+                {
+                    "text": "Nur kurz erfreut er sich seiner unverhofften Ber\u00fchmtheit, dann kippt das Szenario."
+                },
+                {
+                    "text": "Cage erkannte sofort: \u00bbDas geht mich pers\u00f6nlich etwas an, das bin ich!\u00ab"
+                },
+                {
+                    "text": "Mit B\u00e4uchlein und Haarkranz ist Cage kaum wiederzuerkennen."
+                },
+                {
+                    "text": "Trotzdem sagt er: \u00bbDas ist vielleicht meine pers\u00f6nlichste Rolle. Ich musste kaum spielen.\u00ab"
+                },
+                {
+                    "text": "\u00bbIch wusste einfach, was er in diesem Moment empfindet\u00ab, sagt Cage."
+                },
+                {
+                    "text": "Bisher schaute man ihm nicht deshalb gebannt zu, weil er seine Charaktere so realistisch spielt."
+                },
+                {
+                    "text": "Sondern weil er es versteht, sie in sentimentale oder aggressive Extreme explodieren zu lassen."
+                },
+                {
+                    "text": "Was diese Intensit\u00e4t betrifft, f\u00fchlte sich der Regisseur Werner Herzog bei Cage an Klaus Kinski erinnert."
+                },
+                {
+                    "text": "Cage kennt den Vergleich und schw\u00e4cht ihn sogleich ab."
+                },
+                {
+                    "text": "In Herzogs Drama \u00bbBad Lieutenant \u2013 Cop ohne Gewissen\u00ab habe er immerhin versucht, in dieser Hinsicht sein Bestes zu geben: \u00bbDa wollte ich ein kalifornischer Kinski sein.\u00ab"
+                },
+                {
+                    "text": "Wie seinerzeit Kinski sieht sich Cage in direkter Nachfolge des deutschen Expressionismus."
+                },
+                {
+                    "text": "Er will \u00fcberw\u00e4ltigen, wie er selbst vom \u00bbSchrei\u00ab Edvard Munchs, von \u00bbA Day in the Life\u00ab der Beatles oder \u00bbNaked Lunch\u00ab von William S."
+                },
+                {
+                    "text": "\u00bbWas, wenn du kein Maler, kein Musiker und kein Schriftsteller bist, nur Schauspieler? Wie kannst du deine Liebe zum Surrealen und Absurden ausleben?\u00ab"
+                },
+                {
+                    "text": "Deshalb spiele er gern Rollen, \u00bbderen \u00dcberschlag ins Unheimliche durch die innere Logik der Figur gedeckt ist\u00ab."
+                },
+                {
+                    "text": "Weil sich der Held f\u00fcr einen Vampir h\u00e4lt, konnte Cage sich \u00bbdirekt am Expressionismus, also an Max Schreck und seinem Nosferatu orientieren\u00ab."
+                },
+                {
+                    "text": "Zuletzt hat er diesen Trick im Film \u00bbRenfield\u00ab variiert, wo er seinen Dracula an den diabolischen Grimassen Christopher Lees ausrichtete."
+                },
+                {
+                    "text": "In \u00bbMassive Talent\u00ab spielt Nicolas Cage sogar einen Schauspieler namens Nicolas Cage."
+                },
+                {
+                    "text": "Er stellt also sich selbst dar, w\u00e4hrend er sich selbst darstellt \u2013 ein Spiegel im Spiegel."
+                },
+                {
+                    "text": "Als was wird man Nicolas Cage nun erinnern, Genie oder Clown?"
+                },
+                {
+                    "text": "Mit jedem Schritt aus dem Verlies der Leuchtposter ins Licht wird Nicolas Cage sich wieder \u00e4hnlicher."
+                },
+                {
+                    "text": "Gleich sei er mit seinem erwachsenen Sohn in der Stadt verabredet."
+                },
+                {
+                    "text": "Er wird den goldenen Lamborghini nehmen."
+                },
+                {
+                    "text": "Wenn er nur noch eine einzige Rolle spielen d\u00fcrfte, welche w\u00e4re das?"
+                },
+                {
+                    "text": "Er denkt keine Sekunde nach: \u00bbKapit\u00e4n Nemo von Jules Verne.\u00ab"
+                }
+            ],
+            "occupations": [
+                {
+                    "text": "Filmstar"
+                }
+            ],
+            "directQuotes": [
+                {
+                    "text": "BruceLee"
+                },
+                {
+                    "text": "Und bitte die Schuhe ausziehen, das ist die erste Regel in meinem Haus!"
+                },
+                {
+                    "text": "Manchmal mache ich das auch, er hat eine positive Energie"
+                },
+                {
+                    "text": "Au\u00dferdem erinnert er mich an Edgar Allan Poe."
+                },
+                {
+                    "text": "meinen schwarzen Drachen"
+                },
+                {
+                    "text": "viel f\u00fcr meine Schauspielerei abgeschaut"
+                },
+                {
+                    "text": "Ich h\u00e4tte meinen Bankrott erkl\u00e4ren k\u00f6nnen, aber das wollte ich nicht. Ich wollte es aus eigener Kraft schaffen."
+                },
+                {
+                    "text": "Ich erinnere mich noch gut an die Stille, die danach im Auto herrschte."
+                },
+                {
+                    "text": "Das war neu. Ich bin Schauspieler geworden, weil ich James Dean sein wollte oder Marlon Brando. Weil ich das Kino liebe. Nicht um ein Gag zu sein, \u00fcber den ich keinerlei Kontrolle habe."
+                },
+                {
+                    "text": "Das geht mich pers\u00f6nlich etwas an, das bin ich!"
+                },
+                {
+                    "text": "Das ist vielleicht meine pers\u00f6nlichste Rolle. Ich musste kaum spielen."
+                },
+                {
+                    "text": "Ich wusste einfach, was er in diesem Moment empfindet"
+                },
+                {
+                    "text": "Da wollte ich ein kalifornischer Kinski sein."
+                },
+                {
+                    "text": "deren \u00dcberschlag ins Unheimliche durch die innere Logik der Figur gedeckt ist"
+                },
+                {
+                    "text": "Massive Talent"
+                }
+            ],
+            "quotedInTitle": true,
+            "quotedInIntro": true
+        },
+        {
+            "name": "Kristoffer Borgli",
+            "alternativeNames": [],
+            "age": -1,
+            "sex": "male",
+            "occurences": {
+                "total": 1,
+                "firstNameOnly": 0,
+                "lastNameOnly": 0,
+                "fullName": 1,
+                "nickname": 0
+            },
+            "inTitle": false,
+            "inIntro": false,
+            "_name": {
+                "firstname": "Kristoffer",
+                "lastname": "Borgli",
+                "nickname": null,
+                "alternative_names": [],
+                "academic_title": null,
+                "nobility_title_or_rank": null
+            },
+            "descriptiveTexts": [
+                {
+                    "text": "Im Zentrum von \u00bbDream Scenario\u00ab des norwegischen Filmemachers Kristoffer Borgli steht Paul Matthews, ein linkischer Professor, der pl\u00f6tzlich in den Albtr\u00e4umen anderer Menschen auftaucht."
+                }
+            ],
+            "occupations": [
+                {
+                    "text": "Filmemacher"
+                }
+            ],
+            "directQuotes": [
+                {
+                    "text": "Kapit\u00e4n Nemo von Jules Verne."
+                }
+            ],
+            "quotedInTitle": false,
+            "quotedInIntro": false
+        },
+        {
+            "name": "Paul Matthew",
+            "alternativeNames": [],
+            "age": -1,
+            "sex": "male",
+            "occurences": {
+                "total": 3,
+                "firstNameOnly": 0,
+                "lastNameOnly": 1,
+                "fullName": 2,
+                "nickname": 0
+            },
+            "inTitle": false,
+            "inIntro": false,
+            "_name": {
+                "firstname": "Paul",
+                "lastname": "Matthew",
+                "nickname": null,
+                "alternative_names": [],
+                "academic_title": null,
+                "nobility_title_or_rank": null
+            },
+            "descriptiveTexts": [
+                {
+                    "text": "Im Zentrum von \u00bbDream Scenario\u00ab des norwegischen Filmemachers Kristoffer Borgli steht Paul Matthews, ein linkischer Professor, der pl\u00f6tzlich in den Albtr\u00e4umen anderer Menschen auftaucht."
+                },
+                {
+                    "text": "Matthews wird unverschuldet zur Hassfigur."
+                },
+                {
+                    "text": "Als Paul Matthews einen psychischen Zusammenbruch erleidet, wirkt es fast lebensnah."
+                }
+            ],
+            "occupations": [],
+            "directQuotes": [],
+            "quotedInTitle": false,
+            "quotedInIntro": false
+        }
+    ]
+}

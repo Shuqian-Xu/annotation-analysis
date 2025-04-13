@@ -156,9 +156,9 @@ def precision(human_texts, llm_texts):
     human_set = set(human_texts)
     llm_set = set(llm_texts)
 
-    # If LLM provides no annotations, return 1.0 (no false positives)
-    if not llm_set:
-        return 1.0
+    # If LLM provides no annotations, return 0.0 (no true positives)
+    if not llm_set and human_set:
+        return 0.0
 
     # Compute precision and round to 3 decimal places
     true_positives = len(human_set & llm_set)
